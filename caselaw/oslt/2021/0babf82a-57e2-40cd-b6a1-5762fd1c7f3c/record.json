@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:20.C.278.2020.1",
+  "docket": "20 C 278/2020-8",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0babf82a-57e2-40cd-b6a1-5762fd1c7f3c",
+  "source_sha256": "36ef1329918c6956dd3508b60aa09b2592e1d7c4a9cdb2a9241fd0ce7a3bb869",
+  "source_id": "0babf82a-57e2-40cd-b6a1-5762fd1c7f3c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 278/2020-8",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Dagmar Brachová",
+    "ecli": "ECLI:CZ:OSLT:2021:20.C.278.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0babf82a-57e2-40cd-b6a1-5762fd1c7f3c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
