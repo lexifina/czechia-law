@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:16.C.327.2020.1",
+  "docket": "16 C 327/2020-75",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/57d92f3d-322b-45b6-ab07-553cc6523b2e",
+  "source_sha256": "67774d0e9c6eb6098935531e2d11a5eec68061752ccb69dd30c78ba2e776580e",
+  "source_id": "57d92f3d-322b-45b6-ab07-553cc6523b2e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 327/2020-75",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Jana Traxlerová",
+    "ecli": "ECLI:CZ:OSCB:2021:16.C.327.2020.1",
+    "predmetRizeni": "EPR [číslo] 2020, o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/57d92f3d-322b-45b6-ab07-553cc6523b2e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
