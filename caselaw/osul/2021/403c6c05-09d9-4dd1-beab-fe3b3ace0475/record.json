@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:34.C.14.2021.2",
+  "docket": "34 C 14/2021-20",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/403c6c05-09d9-4dd1-beab-fe3b3ace0475",
+  "source_sha256": "8586887e7b6f0c01a9f06a20e7c103dedb8251d3cb0818dbccfbcbdfc370198f",
+  "source_id": "403c6c05-09d9-4dd1-beab-fe3b3ace0475",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 14/2021-20",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Alice Karpíšková",
+    "ecli": "ECLI:CZ:OSUL:2021:34.C.14.2021.2",
+    "predmetRizeni": "O zaplacení 4 906 Kč s příslušenstvím",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-11-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/403c6c05-09d9-4dd1-beab-fe3b3ace0475"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
