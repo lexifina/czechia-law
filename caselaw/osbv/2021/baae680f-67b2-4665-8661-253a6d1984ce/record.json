@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:7.C.99.2014.1",
+  "docket": "7 C 99/2014-47",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/baae680f-67b2-4665-8661-253a6d1984ce",
+  "source_sha256": "e90c10ed86dd37d1bec40205d36979ada0d3cba0248b8a59dfae1ec14a83033e",
+  "source_id": "baae680f-67b2-4665-8661-253a6d1984ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 99/2014-47",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. PhDr. Roman Novák",
+    "ecli": "ECLI:CZ:OSBV:2021:7.C.99.2014.1",
+    "predmetRizeni": "O zaplacení 16.846,02 Kč",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "oddlužení",
+      "odstoupení od smlouvy",
+      "společné jmění manželů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 502 z. č. 513/1991 Sb.",
+      "§ 504 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/baae680f-67b2-4665-8661-253a6d1984ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
