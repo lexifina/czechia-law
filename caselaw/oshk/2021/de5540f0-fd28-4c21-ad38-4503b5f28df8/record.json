@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:9.C.400.2020.1",
+  "docket": "9 C 400/2020-18",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de5540f0-fd28-4c21-ad38-4503b5f28df8",
+  "source_sha256": "465051dd64960f8f09d74e9464d294d41bf9b0e81df323cdcf009f2fc0be96a4",
+  "source_id": "de5540f0-fd28-4c21-ad38-4503b5f28df8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 400/2020-18",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Jindřich Rajman",
+    "ecli": "ECLI:CZ:OSHK:2021:9.C.400.2020.1",
+    "predmetRizeni": "o zaplacení 24 959,50 Kč s příslušenstvím",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de5540f0-fd28-4c21-ad38-4503b5f28df8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
