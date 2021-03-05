@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:6.C.145.2020.1",
+  "docket": "6 C 145/2020-31",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a36ebc38-70e4-4776-9a6f-2ec960f1cf63",
+  "source_sha256": "9605aaf96e6d3f86ae8f0e84615679e214c1f076065d6f650605a7df72218c4f",
+  "source_id": "a36ebc38-70e4-4776-9a6f-2ec960f1cf63",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 145/2020-31",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jana Homolová",
+    "ecli": "ECLI:CZ:OSZR:2021:6.C.145.2020.1",
+    "predmetRizeni": "O zaplacení 6 250 Kč s příslušenstvím",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a36ebc38-70e4-4776-9a6f-2ec960f1cf63"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
