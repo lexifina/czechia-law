@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:3.C.8.2021.1",
+  "docket": "3 C 8/2021-31",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5878ecf-8fed-41f9-93b4-18e082b5b66a",
+  "source_sha256": "7f09a209fefd55002fc829965982115ef8a57077d4a516daf786801123ea02c6",
+  "source_id": "f5878ecf-8fed-41f9-93b4-18e082b5b66a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 8/2021-31",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Zuzana Matulová",
+    "ecli": "ECLI:CZ:OSUH:2021:3.C.8.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-11-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5878ecf-8fed-41f9-93b4-18e082b5b66a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
