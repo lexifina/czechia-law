@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:107.C.29.2020.1",
+  "docket": "107 C 29/2020-86",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb0e8feb-e594-412b-95ec-568b33aebcba",
+  "source_sha256": "9806dff70bb952bab0739a3425fa543c08683786d003131c0bdfe60036e55a76",
+  "source_id": "cb0e8feb-e594-412b-95ec-568b33aebcba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "107 C 29/2020-86",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jarmila Tůmová",
+    "ecli": "ECLI:CZ:OSKD:2021:107.C.29.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím a smluvní pokuty",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb0e8feb-e594-412b-95ec-568b33aebcba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
