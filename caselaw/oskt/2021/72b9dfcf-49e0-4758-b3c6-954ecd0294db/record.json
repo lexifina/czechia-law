@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:5.C.305.2020.1",
+  "docket": "5 C 305/2020-36",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72b9dfcf-49e0-4758-b3c6-954ecd0294db",
+  "source_sha256": "30c889cbea399e65e58f41fceb81def6555d51d81eddc969fa1f6ec52830f108",
+  "source_id": "72b9dfcf-49e0-4758-b3c6-954ecd0294db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 305/2020-36",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Bohumíra Netrvalová, Ph.D.",
+    "ecli": "ECLI:CZ:OSKT:2021:5.C.305.2020.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "jízdné",
+      "opilost",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 89b z. č. 373/2011 Sb.",
+      "§ 11 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72b9dfcf-49e0-4758-b3c6-954ecd0294db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
