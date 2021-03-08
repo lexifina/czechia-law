@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:34.C.127.2020.3",
+  "docket": "34 C 127/2020-65",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9ecb2ec9-c68d-40e6-a465-6c603bb88d71",
+  "source_sha256": "b20a76ee7d6b285bf1c836c81e6980f180f71d4648fa39fcd89aa668875fca93",
+  "source_id": "9ecb2ec9-c68d-40e6-a465-6c603bb88d71",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 127/2020-65",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Eva Červenková",
+    "ecli": "ECLI:CZ:OSCL:2021:34.C.127.2020.3",
+    "predmetRizeni": "o určení otcovství k druhé žalobkyni",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozvod manželství",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 783 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9ecb2ec9-c68d-40e6-a465-6c603bb88d71"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
