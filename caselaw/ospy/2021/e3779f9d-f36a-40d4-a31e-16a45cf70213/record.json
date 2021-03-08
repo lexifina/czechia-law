@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:35.C.465.2020.1",
+  "docket": "35 C 465/2020-64",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3779f9d-f36a-40d4-a31e-16a45cf70213",
+  "source_sha256": "82855e9fba759369151993da0955c58e9580c4fc30b2e731c55810f5830fbd18",
+  "source_id": "e3779f9d-f36a-40d4-a31e-16a45cf70213",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 465/2020-64",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Ing. Viktor Smolík",
+    "ecli": "ECLI:CZ:OSPY:2021:35.C.465.2020.1",
+    "predmetRizeni": "o zaplacení částky 17.572 Kč s přísl.",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "dobré mravy",
+      "peněžité plnění",
+      "úroky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3779f9d-f36a-40d4-a31e-16a45cf70213"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
