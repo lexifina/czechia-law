@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:55.C.267.2020.1",
+  "docket": "55 C 267/2020-25",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82962532-b535-4cfd-b9c6-ab7f5248592b",
+  "source_sha256": "d940a19f0071fc6b9bcb7ce7e9be232caa9178840e8b8ee3c28d5fff560de8ce",
+  "source_id": "82962532-b535-4cfd-b9c6-ab7f5248592b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 267/2020-25",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Stočková",
+    "ecli": "ECLI:CZ:MSBR:2021:55.C.267.2020.1",
+    "predmetRizeni": "zaplacení 34.085 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82962532-b535-4cfd-b9c6-ab7f5248592b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
