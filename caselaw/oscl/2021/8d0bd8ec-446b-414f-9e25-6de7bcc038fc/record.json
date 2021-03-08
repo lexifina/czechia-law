@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:38.C.58.2021.1",
+  "docket": "38 C 58/2021-26",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8d0bd8ec-446b-414f-9e25-6de7bcc038fc",
+  "source_sha256": "ca32e92071670a504a1bd47be35edb704211c93ba8a2d5851cc1ce8a4b436a54",
+  "source_id": "8d0bd8ec-446b-414f-9e25-6de7bcc038fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 58/2021-26",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Martin Fedorko",
+    "ecli": "ECLI:CZ:OSCL:2021:38.C.58.2021.1",
+    "predmetRizeni": "O zaplacení 10 292 Kč s příslušenstvím",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 544 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8d0bd8ec-446b-414f-9e25-6de7bcc038fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
