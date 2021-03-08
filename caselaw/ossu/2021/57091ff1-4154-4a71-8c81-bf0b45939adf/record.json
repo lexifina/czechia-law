@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:17.C.5.2021.1",
+  "docket": "17 C 5/2021-24",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/57091ff1-4154-4a71-8c81-bf0b45939adf",
+  "source_sha256": "40d8fe18ee2c67ab7f85983051ecedd44d3ffea14e0ed2ff6b395a00727c2898",
+  "source_id": "57091ff1-4154-4a71-8c81-bf0b45939adf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 5/2021-24",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Jana Veselá",
+    "ecli": "ECLI:CZ:OSSU:2021:17.C.5.2021.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/57091ff1-4154-4a71-8c81-bf0b45939adf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
