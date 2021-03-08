@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.307.2020.1",
+  "docket": "24 C 307/2020-56",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a63c0744-528a-42a1-8493-8b6a2712440c",
+  "source_sha256": "f4fa961afb6572a40a5d6cd4aa17faa14399cd02a2aa2357124bcf7d2adba05a",
+  "source_id": "a63c0744-528a-42a1-8493-8b6a2712440c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 307/2020-56",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.307.2020.1",
+    "predmetRizeni": "zaplacení 16 586 Kč s příslušenstvím (odběr elektřiny)",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 22 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a63c0744-528a-42a1-8493-8b6a2712440c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
