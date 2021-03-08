@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:225.C.184.2020.1",
+  "docket": "225 C 184/2020-51",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aeaacdad-b0a1-4e11-820b-56587e5e7c5e",
+  "source_sha256": "f3ca8dfa19a88a73034619fedd75dc898da67b99b11dc06cd908978585153db1",
+  "source_id": "aeaacdad-b0a1-4e11-820b-56587e5e7c5e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "225 C 184/2020-51",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lucie Vybíralová, LL.M.",
+    "ecli": "ECLI:CZ:OSKD:2021:225.C.184.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aeaacdad-b0a1-4e11-820b-56587e5e7c5e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
