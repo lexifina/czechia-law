@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.372.2020.1",
+  "docket": "42 C 372/2020-36",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df8f152e-63ed-46a5-8c96-61c1a7f03d81",
+  "source_sha256": "28ffe988b7dc38c9ab717a8bde73d84de458362d1dbad0c045a7331365bf9e43",
+  "source_id": "df8f152e-63ed-46a5-8c96-61c1a7f03d81",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 372/2020-36",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.372.2020.1",
+    "predmetRizeni": "o zaplacení 44 160,74 Kč s příslušenstvím",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df8f152e-63ed-46a5-8c96-61c1a7f03d81"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
