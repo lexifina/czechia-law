@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:9.C.25.2021.1",
+  "docket": "9 C 25/2021-46",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e75ebce-5318-48ae-aebb-6104fb7b750c",
+  "source_sha256": "415f4f276f0548e003fed607befb5eb672cfd969cd1c9fabfa35db5044e2a307",
+  "source_id": "7e75ebce-5318-48ae-aebb-6104fb7b750c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 25/2021-46",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Simona Vojíková",
+    "ecli": "ECLI:CZ:OSPT:2021:9.C.25.2021.1",
+    "predmetRizeni": "o zaplacení 1 863,90 Kč s příslušenstvím",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 11 vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e75ebce-5318-48ae-aebb-6104fb7b750c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
