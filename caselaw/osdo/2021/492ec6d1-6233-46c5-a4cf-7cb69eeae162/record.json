@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:5.C.235.2020.1",
+  "docket": "5 C 235/2020-32",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/492ec6d1-6233-46c5-a4cf-7cb69eeae162",
+  "source_sha256": "78a005b6dac045af7e6b4f15ad0cb9e9f40b762b6efeed0a5226c6d475ae1353",
+  "source_id": "492ec6d1-6233-46c5-a4cf-7cb69eeae162",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 235/2020-32",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:5.C.235.2020.1",
+    "predmetRizeni": "o zapl. 28 215,11 Kč s přísl.",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/492ec6d1-6233-46c5-a4cf-7cb69eeae162"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
