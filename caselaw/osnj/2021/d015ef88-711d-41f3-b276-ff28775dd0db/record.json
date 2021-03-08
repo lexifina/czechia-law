@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:17.C.16.2021.2",
+  "docket": "17 C 16/2021-11",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d015ef88-711d-41f3-b276-ff28775dd0db",
+  "source_sha256": "fa918bdc4a5facc0a69deb1efb069cee7389584ab44c0531d71eba67219a3aa3",
+  "source_id": "d015ef88-711d-41f3-b276-ff28775dd0db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 16/2021-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jana Fejtová",
+    "ecli": "ECLI:CZ:OSNJ:2021:17.C.16.2021.2",
+    "predmetRizeni": "O zaplacení 212 101,49 Kč s příslušenstvím",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d015ef88-711d-41f3-b276-ff28775dd0db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
