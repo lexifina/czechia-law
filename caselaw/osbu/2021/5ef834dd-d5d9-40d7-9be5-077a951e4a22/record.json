@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:18.C.102.2020.1",
+  "docket": "18 C 102/2020-18",
+  "date": "2021-03-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ef834dd-d5d9-40d7-9be5-077a951e4a22",
+  "source_sha256": "d2410602ba2e82e1047c59f911dc840ee611f45be680c8ba0f495ce01b60ac68",
+  "source_id": "5ef834dd-d5d9-40d7-9be5-077a951e4a22",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 102/2020-18",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Jana Tihelková",
+    "ecli": "ECLI:CZ:OSBU:2021:18.C.102.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-08",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ef834dd-d5d9-40d7-9be5-077a951e4a22"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
