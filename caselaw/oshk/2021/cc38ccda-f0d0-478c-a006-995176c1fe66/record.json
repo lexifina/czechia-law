@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:18.C.12.2021.1",
+  "docket": "18 C 12/2021-12",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc38ccda-f0d0-478c-a006-995176c1fe66",
+  "source_sha256": "0ca7e224cc4a693178b5c1fba8485a38fb5d0e50260fb4f0268080bb4b06031f",
+  "source_id": "cc38ccda-f0d0-478c-a006-995176c1fe66",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 12/2021-12",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Eva Tabetová",
+    "ecli": "ECLI:CZ:OSHK:2021:18.C.12.2021.1",
+    "predmetRizeni": "o zaplacení částky 6 887,23 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc38ccda-f0d0-478c-a006-995176c1fe66"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
