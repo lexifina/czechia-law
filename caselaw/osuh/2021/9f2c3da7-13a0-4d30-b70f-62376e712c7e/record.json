@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:2.C.33.2020.1",
+  "docket": "2 C 33/2020-70",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f2c3da7-13a0-4d30-b70f-62376e712c7e",
+  "source_sha256": "3c916a479fd3494e671e8b776baa3b02fe1dfa1fa215132db277adac64db0921",
+  "source_id": "9f2c3da7-13a0-4d30-b70f-62376e712c7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 33/2020-70",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Tomáš Gargulák",
+    "ecli": "ECLI:CZ:OSUH:2021:2.C.33.2020.1",
+    "predmetRizeni": "31.241,61 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 2398 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f2c3da7-13a0-4d30-b70f-62376e712c7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
