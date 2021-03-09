@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:20.C.313.2020.1",
+  "docket": "20 C 313/2020-57",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab7879dd-bd7c-4cfb-a869-7aeaea8117cf",
+  "source_sha256": "746bd76558ce06e41e97b50f5cb2a92cad00cbb6bee29685c0cfbf86c6803414",
+  "source_id": "ab7879dd-bd7c-4cfb-a869-7aeaea8117cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 313/2020-57",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Ungr",
+    "ecli": "ECLI:CZ:OSPM:2021:20.C.313.2020.1",
+    "predmetRizeni": "o zaplacení částky ve výši 11.264,43 Kč s přísl.",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2052 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab7879dd-bd7c-4cfb-a869-7aeaea8117cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
