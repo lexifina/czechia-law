@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:15.C.48.2021.2",
+  "docket": "15 C 48/2021-24",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/81036a37-4d9b-4c46-bb6c-dde33bd60d33",
+  "source_sha256": "530ac7341b3be1bb15b7d663ef1e4bc4c27d6fc42621cfd7497e864caedb062f",
+  "source_id": "81036a37-4d9b-4c46-bb6c-dde33bd60d33",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 48/2021-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2021:15.C.48.2021.2",
+    "predmetRizeni": "8 210 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 1812 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/81036a37-4d9b-4c46-bb6c-dde33bd60d33"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
