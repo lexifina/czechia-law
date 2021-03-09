@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:55.C.55.2021.1",
+  "docket": "55 C 55/2021",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1cf872d9-0f50-4d4f-8a41-95d16a850923",
+  "source_sha256": "a526762b35982a5a83bbc5639057e16757293d48eaa8317e732b808b43177faa",
+  "source_id": "1cf872d9-0f50-4d4f-8a41-95d16a850923",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 55/2021",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Pavel Pražák",
+    "ecli": "ECLI:CZ:OSPH04:2021:55.C.55.2021.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1cf872d9-0f50-4d4f-8a41-95d16a850923"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
