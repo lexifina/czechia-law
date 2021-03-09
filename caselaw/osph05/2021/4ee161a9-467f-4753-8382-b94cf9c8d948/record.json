@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:10.C.127.2020.2",
+  "docket": "10 C 127/2020-36",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ee161a9-467f-4753-8382-b94cf9c8d948",
+  "source_sha256": "56c6935416ccc4ceb998b304a2c809d3b94c94229176646d29bce701efac29a5",
+  "source_id": "4ee161a9-467f-4753-8382-b94cf9c8d948",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 127/2020-36",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Eva Harmachová",
+    "ecli": "ECLI:CZ:OSPH05:2021:10.C.127.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ee161a9-467f-4753-8382-b94cf9c8d948"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
