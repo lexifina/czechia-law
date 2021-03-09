@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:17.C.11.2021.1",
+  "docket": "17 C 11/2021-34",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0842f6d2-bd42-470a-840a-b0b0bfa35feb",
+  "source_sha256": "63ea66c983368eeb0a7e671a053f35fe76d52d38246c4e84eaa9428bf7d1a72c",
+  "source_id": "0842f6d2-bd42-470a-840a-b0b0bfa35feb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 11/2021-34",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Milena Rejchová",
+    "ecli": "ECLI:CZ:OSHK:2021:17.C.11.2021.1",
+    "predmetRizeni": "o zaplacení částky 38 020 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "smlouva nájemní",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§  z. č. 67/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0842f6d2-bd42-470a-840a-b0b0bfa35feb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
