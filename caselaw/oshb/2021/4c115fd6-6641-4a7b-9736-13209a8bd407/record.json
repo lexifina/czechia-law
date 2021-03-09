@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:15.C.19.2021.2",
+  "docket": "15 C 19/2021-29",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c115fd6-6641-4a7b-9736-13209a8bd407",
+  "source_sha256": "1602f4a5b8839056c7c1dbb28b782e7d6e1cb0293a04aee3bad6d6e15d7e6c1b",
+  "source_id": "4c115fd6-6641-4a7b-9736-13209a8bd407",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 19/2021-29",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "Mgr. Daria Vaňková",
+    "ecli": "ECLI:CZ:OSHB:2021:15.C.19.2021.2",
+    "predmetRizeni": "vyklizení nemovitosti",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-11-11",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c115fd6-6641-4a7b-9736-13209a8bd407"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
