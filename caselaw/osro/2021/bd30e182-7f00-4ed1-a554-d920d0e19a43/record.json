@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:6.C.272.2020.1",
+  "docket": "6 C 272/2020-16",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd30e182-7f00-4ed1-a554-d920d0e19a43",
+  "source_sha256": "335abe522bf6694772970f78ec8b5fca14416cae4f0e351b25345a76a21303dd",
+  "source_id": "bd30e182-7f00-4ed1-a554-d920d0e19a43",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 272/2020-16",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Jana Kantoříková",
+    "ecli": "ECLI:CZ:OSRO:2021:6.C.272.2020.1",
+    "predmetRizeni": "zaplacení 22 180 Kč s přísl.",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd30e182-7f00-4ed1-a554-d920d0e19a43"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
