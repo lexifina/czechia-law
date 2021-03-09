@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:27.C.219.2020.1",
+  "docket": "27 C 219/2020-35",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8e058d9-9fda-4490-aa84-fed65f237119",
+  "source_sha256": "49d9d448de7bc7ff9fa716059bc77e24a2348db86166cd5f9c120d133c887d32",
+  "source_id": "a8e058d9-9fda-4490-aa84-fed65f237119",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 219/2020-35",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Lukášková",
+    "ecli": "ECLI:CZ:OSPH01:2021:27.C.219.2020.1",
+    "predmetRizeni": "o zaplacení 74 250 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-09-15",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 45 z. č. 361/2000 Sb.",
+      "§ 59 z. č. 131/2000 Sb.",
+      "§ 27 z. č. 250/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8e058d9-9fda-4490-aa84-fed65f237119"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
