@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:32.C.370.2020.2",
+  "docket": "32 C 370/2020-18",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc4844fd-7c50-4a9e-8878-ebc11af7c090",
+  "source_sha256": "f4a286113ae17b572b246d99d644c8aed05d092d634f7e9c0acef1987236c0ea",
+  "source_id": "cc4844fd-7c50-4a9e-8878-ebc11af7c090",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 370/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jitka Kulichová",
+    "ecli": "ECLI:CZ:OSOV:2021:32.C.370.2020.2",
+    "predmetRizeni": "o zaplacení 12 645 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2286 z. č. 89/2012 Sb.",
+      "§ 3074 z. č. 89/2012 Sb.",
+      "§ 685 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc4844fd-7c50-4a9e-8878-ebc11af7c090"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
