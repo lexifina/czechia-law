@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:20.C.399.2020.1",
+  "docket": "20 C 399/2020-15",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b9e2021a-9bc3-4bc9-aca7-014ddea872ed",
+  "source_sha256": "53767d47084d6a23ad1ff2a79b681704cc792357e70bc27df55967a1fc6729bd",
+  "source_id": "b9e2021a-9bc3-4bc9-aca7-014ddea872ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 399/2020-15",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Jakub Kavalír",
+    "ecli": "ECLI:CZ:OSHK:2021:20.C.399.2020.1",
+    "predmetRizeni": "o zaplacení 166 203,52 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b9e2021a-9bc3-4bc9-aca7-014ddea872ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
