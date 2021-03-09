@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:11.C.88.2021.1",
+  "docket": "11 C 88/2021-20",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/78ae07e4-6df4-4948-9ebf-e2b3ffedac2a",
+  "source_sha256": "96c385ac0b28a4f5334a24e64206a84f10f9f4e8e084db6d07b3294407b3e115",
+  "source_id": "78ae07e4-6df4-4948-9ebf-e2b3ffedac2a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 88/2021-20",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Tereza Martínková",
+    "ecli": "ECLI:CZ:OSKH:2021:11.C.88.2021.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/78ae07e4-6df4-4948-9ebf-e2b3ffedac2a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
