@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:11.C.1.2019.1",
+  "docket": "11 C 1/2019-54",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/786f30da-f6dd-43b1-b9c5-f056f0621dc5",
+  "source_sha256": "a2f36392c4cefc4ed0f067cd5b7de8e54472ae1ef2dd614b32a04799283a8942",
+  "source_id": "786f30da-f6dd-43b1-b9c5-f056f0621dc5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 1/2019-54",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Lenka Šestáková",
+    "ecli": "ECLI:CZ:OSBI:2021:11.C.1.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 2201/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/786f30da-f6dd-43b1-b9c5-f056f0621dc5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
