@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:20.C.31.2021.1",
+  "docket": "20 C 31/2021-60",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f92d592d-1cca-42d6-ad33-9329fe88655a",
+  "source_sha256": "10079a28c1ba211b8b435ab1b0960216530d7a00f741a2fa80dd402cf80d18a7",
+  "source_id": "f92d592d-1cca-42d6-ad33-9329fe88655a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 31/2021-60",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Dita Prokšová",
+    "ecli": "ECLI:CZ:OSPU:2021:20.C.31.2021.1",
+    "predmetRizeni": "o zaplacení 14 959,64 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 1969 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f92d592d-1cca-42d6-ad33-9329fe88655a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
