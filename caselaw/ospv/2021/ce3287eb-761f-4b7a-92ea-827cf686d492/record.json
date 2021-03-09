@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.403.2020 .1",
+  "docket": "13 C 403/2020-51",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce3287eb-761f-4b7a-92ea-827cf686d492",
+  "source_sha256": "78e57e9f1a030f4a08906e2c2f4d2998c30cf2ea2888d95f02ab55d85f6d73c8",
+  "source_id": "ce3287eb-761f-4b7a-92ea-827cf686d492",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 403/2020-51",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.403.2020 .1",
+    "predmetRizeni": "o zaplacení 1.564 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce3287eb-761f-4b7a-92ea-827cf686d492"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
