@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:13.C.5.2021.2",
+  "docket": "13 C 5/2021-25",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30a70d02-6bc5-4dd6-ba88-e88548447db1",
+  "source_sha256": "8eb8705d11e7800d389bc58b3ee6132d22b8bb95fb8fb21e74950d4b9c1b7ab0",
+  "source_id": "30a70d02-6bc5-4dd6-ba88-e88548447db1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 5/2021-25",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Kateřina Kupková",
+    "ecli": "ECLI:CZ:OSJN:2021:13.C.5.2021.2",
+    "predmetRizeni": "o zaplacení 5 833 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 114c z. č. 99/1963 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30a70d02-6bc5-4dd6-ba88-e88548447db1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
