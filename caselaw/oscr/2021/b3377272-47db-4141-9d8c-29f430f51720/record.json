@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:8.C.182.2020.1",
+  "docket": "8 C 182/2020-42",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3377272-47db-4141-9d8c-29f430f51720",
+  "source_sha256": "b64ef6bc9d03da2f3c36cda1d9d646f0553df5b91c38a34370d9d01421aa85d8",
+  "source_id": "b3377272-47db-4141-9d8c-29f430f51720",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 182/2020-42",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Antonín Libra",
+    "ecli": "ECLI:CZ:OSCR:2021:8.C.182.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 252 z. č. 252/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3377272-47db-4141-9d8c-29f430f51720"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
