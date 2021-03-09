@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:30.C.161.2020.1",
+  "docket": "30 C 161/2020",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ab05c13-f93f-4fd2-9145-c46abd66484a",
+  "source_sha256": "ee697c244e89e0f03e51a969c8d8e68ce88513b29256fbc71e484cc11d868da1",
+  "source_id": "4ab05c13-f93f-4fd2-9145-c46abd66484a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 161/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Lucie Laura Penn",
+    "ecli": "ECLI:CZ:OSPH01:2021:30.C.161.2020.1",
+    "predmetRizeni": "o zaplacení 520 221 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "korporace",
+      "peněžité plnění",
+      "pojištění majetku",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2861 z. č. 89/2012 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 620 z. č. 89/2012 Sb.",
+      "§ 626 z. č. 89/2012 Sb.",
+      "§ 635 z. č. 89/2012 Sb.",
+      "§ 636 z. č. 89/2012 Sb.",
+      "§ 44 z. č. 37/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ab05c13-f93f-4fd2-9145-c46abd66484a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
