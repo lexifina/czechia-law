@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:10.C.123.2020.4",
+  "docket": "10 C 123/2020-53",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44d1192c-1a2e-414a-bf5e-aa8a59f9af2f",
+  "source_sha256": "df7a3752b96912cb06a25841debc77ea39c9c716ac7529533d4f2c77f5958e62",
+  "source_id": "44d1192c-1a2e-414a-bf5e-aa8a59f9af2f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 123/2020-53",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2021:10.C.123.2020.4",
+    "predmetRizeni": "o zrušení a vypořádání podílového spoluvlastnictví k nemovitostem",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-11-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví",
+      "vypořádání SJM"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 714 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44d1192c-1a2e-414a-bf5e-aa8a59f9af2f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
