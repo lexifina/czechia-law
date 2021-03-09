@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:2.C.207.2020.2",
+  "docket": "2 C 207/2020-18",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6fc87da1-4fe2-4d21-9dce-f638e00b29d5",
+  "source_sha256": "8893771a85c363d19523ca24316c28f6b8093b062b84bd5b9392eb688ec197d2",
+  "source_id": "6fc87da1-4fe2-4d21-9dce-f638e00b29d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 207/2020-18",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2021:2.C.207.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6fc87da1-4fe2-4d21-9dce-f638e00b29d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
