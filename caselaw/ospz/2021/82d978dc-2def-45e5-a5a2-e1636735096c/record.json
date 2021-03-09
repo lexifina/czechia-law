@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:36.C.380.2020.1",
+  "docket": "36 C 380/2020-54",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82d978dc-2def-45e5-a5a2-e1636735096c",
+  "source_sha256": "410dbf204803ad0703af6dbe62ce735a5a8f5d35d57e00711bdae2b169e8da7f",
+  "source_id": "82d978dc-2def-45e5-a5a2-e1636735096c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 380/2020-54",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Tomáš Behr",
+    "ecli": "ECLI:CZ:OSPZ:2021:36.C.380.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82d978dc-2def-45e5-a5a2-e1636735096c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
