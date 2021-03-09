@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:24.C.29.2021.1",
+  "docket": "24 C 29/2021-13",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9ff7c85-f136-475c-bc9b-459f8eba555a",
+  "source_sha256": "0b156dc4d9006fbe33e69992bfe7bc058204a2e954d4b1f137ce87b0a8b9d75c",
+  "source_id": "d9ff7c85-f136-475c-bc9b-459f8eba555a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 29/2021-13",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Michaela Bílá",
+    "ecli": "ECLI:CZ:OSTA:2021:24.C.29.2021.1",
+    "predmetRizeni": "o zaplacení 1 510 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 18a z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9ff7c85-f136-475c-bc9b-459f8eba555a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
