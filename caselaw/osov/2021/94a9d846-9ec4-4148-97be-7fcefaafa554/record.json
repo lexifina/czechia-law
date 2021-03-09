@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:23.C.21.2021.4",
+  "docket": "23 C 21/2021-21",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94a9d846-9ec4-4148-97be-7fcefaafa554",
+  "source_sha256": "84ab5b959e35539744bb3f93a603cb4f5fbc25bf89ef91f72817d45c855d4a87",
+  "source_id": "94a9d846-9ec4-4148-97be-7fcefaafa554",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 21/2021-21",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavlína Vrkočová",
+    "ecli": "ECLI:CZ:OSOV:2021:23.C.21.2021.4",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 67/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94a9d846-9ec4-4148-97be-7fcefaafa554"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
