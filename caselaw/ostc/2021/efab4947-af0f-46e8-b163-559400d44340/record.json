@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:4.C.36.2021.1",
+  "docket": "4 C 36/2021-12",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efab4947-af0f-46e8-b163-559400d44340",
+  "source_sha256": "001b35a9f686f12d71be9c4e320b5808ab0f25af4131a5f5b05fe5b8b92545e9",
+  "source_id": "efab4947-af0f-46e8-b163-559400d44340",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 36/2021-12",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Kateřina Edlová",
+    "ecli": "ECLI:CZ:OSTC:2021:4.C.36.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efab4947-af0f-46e8-b163-559400d44340"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
