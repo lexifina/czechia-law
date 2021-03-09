@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:49.C.183.2020.1",
+  "docket": "49 C 183/2020-50",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1aa26e2-f18b-469c-ab3b-9d2a916f4f50",
+  "source_sha256": "ec0baf29dc53b2e08156967a93747d54d7cf2fe9079c6b99fbf59132f010fc98",
+  "source_id": "a1aa26e2-f18b-469c-ab3b-9d2a916f4f50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "49 C 183/2020-50",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Monika Schön, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:49.C.183.2020.1",
+    "predmetRizeni": "zaplacení 2.234,71 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1aa26e2-f18b-469c-ab3b-9d2a916f4f50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
