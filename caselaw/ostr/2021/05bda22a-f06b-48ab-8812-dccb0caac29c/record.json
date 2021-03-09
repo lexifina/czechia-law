@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:5.C.49.2020.1",
+  "docket": "5 C 49/2020-63",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05bda22a-f06b-48ab-8812-dccb0caac29c",
+  "source_sha256": "917639a032e87a6e69a1fb5bc4914b0513cc8461f504c12494f701d1304081c7",
+  "source_id": "05bda22a-f06b-48ab-8812-dccb0caac29c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 49/2020-63",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Jan Tesař soudce",
+    "ecli": "ECLI:CZ:OSTR:2021:5.C.49.2020.1",
+    "predmetRizeni": "o vydání urny s ostatky zesnulého",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "osoba blízká",
+      "peněžité plnění",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 vyhl. č. 358/2019 Sb.",
+      "§ 2 z. č. 235/2004 Sb.",
+      "§ 2 z. č. 256/2001 Sb.",
+      "§ 92 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05bda22a-f06b-48ab-8812-dccb0caac29c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
