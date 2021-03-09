@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:12.C.30.2021.1",
+  "docket": "12 C 30/2021-20",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c30476f1-3c53-4c33-9c7f-e02fe63f852e",
+  "source_sha256": "0d89df7f208337cf18953dc698bc74810982625fbda5876eac8ff5d01eb754e5",
+  "source_id": "c30476f1-3c53-4c33-9c7f-e02fe63f852e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 30/2021-20",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Ludmila Kotásková",
+    "ecli": "ECLI:CZ:OSFM:2021:12.C.30.2021.1",
+    "predmetRizeni": "O zaplacení 5 329 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c30476f1-3c53-4c33-9c7f-e02fe63f852e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
