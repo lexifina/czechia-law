@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:8.C.168.2020.1",
+  "docket": "8 C 168/2020-17",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cdb5e25-2caf-4c06-b1a8-9298397a4aef",
+  "source_sha256": "8c8d1f4e99efb619e16b178b028a746846169aaf9998424013f44ca2699326e1",
+  "source_id": "8cdb5e25-2caf-4c06-b1a8-9298397a4aef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 168/2020-17",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Dagmar Kalousková",
+    "ecli": "ECLI:CZ:OSUO:2021:8.C.168.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 383 z. č. 292/2013 Sb.",
+      "§ 22 z. č. 36/2005 Sb.",
+      "§ 23 z. č. 36/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cdb5e25-2caf-4c06-b1a8-9298397a4aef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
