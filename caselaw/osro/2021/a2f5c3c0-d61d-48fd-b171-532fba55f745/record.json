@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:11.C.9.2021.1",
+  "docket": "11 C 9/2021-17",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2f5c3c0-d61d-48fd-b171-532fba55f745",
+  "source_sha256": "bacd4c17dfc8a0caa495dffff4d2ad8c066048d0353cd5f9b57579a9ad8aae5e",
+  "source_id": "a2f5c3c0-d61d-48fd-b171-532fba55f745",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 9/2021-17",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ing. Ivo Hruška",
+    "ecli": "ECLI:CZ:OSRO:2021:11.C.9.2021.1",
+    "predmetRizeni": "zaplacení 7 125 Kč s přísl.",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 153a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2f5c3c0-d61d-48fd-b171-532fba55f745"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
