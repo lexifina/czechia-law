@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:23.C.57.2016.2",
+  "docket": "23 C 57/2016-94",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c38e2014-fab6-4de8-b70c-d165c9738d55",
+  "source_sha256": "b9e4e826845c876a4d1b4c2d0b89f367a25ea98b7273273c601f752fc266d3be",
+  "source_id": "c38e2014-fab6-4de8-b70c-d165c9738d55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 57/2016-94",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavlína Vrkočová",
+    "ecli": "ECLI:CZ:OSOV:2021:23.C.57.2016.2",
+    "predmetRizeni": "o vydání věci",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 107 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c38e2014-fab6-4de8-b70c-d165c9738d55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
