@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:19.C.38.2021.1",
+  "docket": "19 C 38/2021-10",
+  "date": "2021-03-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/75ef2630-4c6e-4925-a260-dc614e776d66",
+  "source_sha256": "81278e628882bebfcab1ba3a0a75fbd9c1c1698abd05664e98e5b9d24a7c4838",
+  "source_id": "75ef2630-4c6e-4925-a260-dc614e776d66",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 38/2021-10",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Zuzana Benešová",
+    "ecli": "ECLI:CZ:OSFM:2021:19.C.38.2021.1",
+    "predmetRizeni": "o zaplacení 1 218 Kč s příslušenstvím",
+    "datumVydani": "2021-03-09",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1, 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/75ef2630-4c6e-4925-a260-dc614e776d66"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
