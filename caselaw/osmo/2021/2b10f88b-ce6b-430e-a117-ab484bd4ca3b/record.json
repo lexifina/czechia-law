@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:10.C.168.2020.2",
+  "docket": "10 C 168/2020-19",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b10f88b-ce6b-430e-a117-ab484bd4ca3b",
+  "source_sha256": "fe608657852b9f55d102e4197f3ea05e0b950eda6e9a56375d392998e4f4a5af",
+  "source_id": "2b10f88b-ce6b-430e-a117-ab484bd4ca3b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 168/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Radka Heresová",
+    "ecli": "ECLI:CZ:OSMO:2021:10.C.168.2020.2",
+    "predmetRizeni": "8 259 Kč",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2900 z. č. 89/2012 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 2910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b10f88b-ce6b-430e-a117-ab484bd4ca3b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
