@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:5.C.4.2021.3",
+  "docket": "5 C 4/2021-14",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b534a4a0-a5fe-49e0-afbe-58b514859e1e",
+  "source_sha256": "05bb03a4ac6a664c5114e447b120af1f6dfbc99a4a4f6a889b04fb495e4013b4",
+  "source_id": "b534a4a0-a5fe-49e0-afbe-58b514859e1e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 4/2021-14",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "JUDr. Ivana Čeledová",
+    "ecli": "ECLI:CZ:OSHB:2021:5.C.4.2021.3",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b534a4a0-a5fe-49e0-afbe-58b514859e1e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
