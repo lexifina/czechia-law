@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:61.C.16.2021.1",
+  "docket": "61 C 16/2021-32",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d3e73bf-6f8f-4bd6-8ad5-3525e68427f1",
+  "source_sha256": "633346fe712fe2de93a7632d4108b5885fd71cd9ff8936e24886193f33311417",
+  "source_id": "4d3e73bf-6f8f-4bd6-8ad5-3525e68427f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 16/2021-32",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Mezníková",
+    "ecli": "ECLI:CZ:MSBR:2021:61.C.16.2021.1",
+    "predmetRizeni": "zaplacení 2.000 Kč - smluvní pokuta",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d3e73bf-6f8f-4bd6-8ad5-3525e68427f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
