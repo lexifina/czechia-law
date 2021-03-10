@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.180.2019.1",
+  "docket": "17 C 180/2019-159",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cbf24798-2a62-4757-8637-7db168c0fc5e",
+  "source_sha256": "55bba2a90b0ad4cbd8b87f0c5f9375fa4dcc4c2f5fa7e4008fb9cdcffea7767f",
+  "source_id": "cbf24798-2a62-4757-8637-7db168c0fc5e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 180/2019-159",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.180.2019.1",
+    "predmetRizeni": "výživné na manžela",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-09-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rehabilitace",
+      "rozvod manželství",
+      "smlouva darovací",
+      "smlouva kupní",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 6 z. č. 549/1991 Sb.",
+      "§ 697 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cbf24798-2a62-4757-8637-7db168c0fc5e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
