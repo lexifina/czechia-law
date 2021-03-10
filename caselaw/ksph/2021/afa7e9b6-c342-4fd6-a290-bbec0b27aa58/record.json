@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Praze",
+  "ecli": "ECLI:CZ:KSPH:2021:73.Cm.122.2020 .1",
+  "docket": "73 CM 122/2020-21",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/afa7e9b6-c342-4fd6-a290-bbec0b27aa58",
+  "source_sha256": "14c19aa9bc51c915c47738638974579915ad1817f3148c482a68d1a708908f95",
+  "source_id": "afa7e9b6-c342-4fd6-a290-bbec0b27aa58",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "73 CM 122/2020-21",
+    "soud": "Krajský soud v Praze",
+    "autor": "Mgr. Vladimír Sommer",
+    "ecli": "ECLI:CZ:KSPH:2021:73.Cm.122.2020 .1",
+    "predmetRizeni": "o zaplacení 303 000 Kč s příslušenstvím a odměnou 1 010 Kč,",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "povinnost k náhradě nákladů",
+      "směnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 48 z. č. 191/1950 Sb.",
+      "§ 75 z. č. 191/1950 Sb.",
+      "§ 78 z. č. 191/1950 Sb.",
+      "§ 77 z. č. 191/1950 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/afa7e9b6-c342-4fd6-a290-bbec0b27aa58"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
