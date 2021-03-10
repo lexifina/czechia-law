@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:105.C.7.2020.1",
+  "docket": "105 C 7/2020-30",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/152fb42f-8a83-4dbd-8ec2-03a83498ad31",
+  "source_sha256": "ebfd3079b832c9c5ce9b1fe387668292077166df4e3c1cbe1360b12de7f7b096",
+  "source_id": "152fb42f-8a83-4dbd-8ec2-03a83498ad31",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "105 C 7/2020-30",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "JUDr. Ivana Čeledová",
+    "ecli": "ECLI:CZ:OSHB:2021:105.C.7.2020.1",
+    "predmetRizeni": "zaplacení částky 6.150 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 174a z. č. 99/1963 Sb.",
+      "§ 2213 z. č. 89/2012 Sb.",
+      "§ 2944 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/152fb42f-8a83-4dbd-8ec2-03a83498ad31"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
