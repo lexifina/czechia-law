@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:9.C.144.2020.1",
+  "docket": "9 C 144/2020-29",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b984e66c-85c0-4c32-997f-9c03ab381e89",
+  "source_sha256": "5db47d2eb1907fe1ae0f043aefd69befe79e4ae7c876d6a2575966cf261dd413",
+  "source_id": "b984e66c-85c0-4c32-997f-9c03ab381e89",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 144/2020-29",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Lucie Treglerová",
+    "ecli": "ECLI:CZ:OSJN:2021:9.C.144.2020.1",
+    "predmetRizeni": "o zaplacení 13 710 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 104 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b984e66c-85c0-4c32-997f-9c03ab381e89"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
