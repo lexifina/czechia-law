@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:29.C.1.2021.1",
+  "docket": "29 C 1/2021-14",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2900df2e-4ec4-4489-a031-03d112eb69c2",
+  "source_sha256": "cc78172592e96e937d2eddd42c45b1d5bf8c4b722a86d9aa068d4d05664e41ea",
+  "source_id": "2900df2e-4ec4-4489-a031-03d112eb69c2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 1/2021-14",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2021:29.C.1.2021.1",
+    "predmetRizeni": "zaplacení částky 3.645,00 Kč s přísl.",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2900df2e-4ec4-4489-a031-03d112eb69c2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
