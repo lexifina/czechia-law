@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:4.C.22.2021.1",
+  "docket": "4 C 22/2021-7",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cf13128-8105-4bc0-9609-e3ebab01deb6",
+  "source_sha256": "4a16f837e850e2d6a6532a963d8d25a43653aaddbfeb968bd78e37266d76720d",
+  "source_id": "8cf13128-8105-4bc0-9609-e3ebab01deb6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 22/2021-7",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ludmila Horská",
+    "ecli": "ECLI:CZ:OSRO:2021:4.C.22.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cf13128-8105-4bc0-9609-e3ebab01deb6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
