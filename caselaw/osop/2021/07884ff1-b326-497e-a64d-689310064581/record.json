@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:17.C.28.2020.1",
+  "docket": "17 C 28/2020-126",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07884ff1-b326-497e-a64d-689310064581",
+  "source_sha256": "5522645fe8551bf59746f987a4c404f05a89cbb1fd69fb912ecce4515044fec8",
+  "source_id": "07884ff1-b326-497e-a64d-689310064581",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 28/2020-126",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Tereza Kravalová",
+    "ecli": "ECLI:CZ:OSOP:2021:17.C.28.2020.1",
+    "predmetRizeni": "o výživné zletilého dítěte",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "nemocenské dávky",
+      "peněžité plnění",
+      "příspěvek na bydlení",
+      "smlouva nájemní",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 922 z. č. 89/2012 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07884ff1-b326-497e-a64d-689310064581"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
