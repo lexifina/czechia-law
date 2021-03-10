@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.518.2020.1",
+  "docket": "17 C 518/2020-21",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae0fb741-a443-4a46-abcb-f4783527407a",
+  "source_sha256": "30442dfde75aeb6ec6f444378b547e7f8126c16a815bad456f4df42ce21afdac",
+  "source_id": "ae0fb741-a443-4a46-abcb-f4783527407a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 518/2020-21",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.518.2020.1",
+    "predmetRizeni": "zaplacení částky 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae0fb741-a443-4a46-abcb-f4783527407a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
