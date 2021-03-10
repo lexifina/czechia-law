@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:6.C.27.2021.1",
+  "docket": "6 C 27/2021-29",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bfde421e-3caa-4f46-8722-43fc76946a3e",
+  "source_sha256": "91f1a31d2ee398cb11564e061bbae7bf3f5f5d6454d51385cd69629e85101d50",
+  "source_id": "bfde421e-3caa-4f46-8722-43fc76946a3e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 27/2021-29",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Bohumil Veselý",
+    "ecli": "ECLI:CZ:OSPT:2021:6.C.27.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 755/1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bfde421e-3caa-4f46-8722-43fc76946a3e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
