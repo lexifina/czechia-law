@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:8.C.242.2020.1",
+  "docket": "8 C 242/2020-62",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac2c8a59-d63a-4cc4-8e7e-aab5ddbb5c18",
+  "source_sha256": "2738752d6bb29ba2393b6acd8f9525581240953dd37921b5c8cd4bb9d490953f",
+  "source_id": "ac2c8a59-d63a-4cc4-8e7e-aab5ddbb5c18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 242/2020-62",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Soňa Nedbalová",
+    "ecli": "ECLI:CZ:OSBI:2021:8.C.242.2020.1",
+    "predmetRizeni": "O zaplacení 1 080 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac2c8a59-d63a-4cc4-8e7e-aab5ddbb5c18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
