@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:15.C.304.2020.1",
+  "docket": "15 C 304/2020-26",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb3e6160-1275-4723-9151-44d5ba60f757",
+  "source_sha256": "da3f0135463ff220c0fb6b3222960ff4543bc11221ce71e7eccd1b4f19179429",
+  "source_id": "fb3e6160-1275-4723-9151-44d5ba60f757",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 304/2020-26",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Machačka",
+    "ecli": "ECLI:CZ:OSSY:2021:15.C.304.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 292/2013 Sb.",
+      "§ 754 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb3e6160-1275-4723-9151-44d5ba60f757"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
