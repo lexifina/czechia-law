@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:6.C.341.2020.5",
+  "docket": "6 C 341/2020-21",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/75b89355-2f2a-4e42-abde-8eeb0fcf6dcb",
+  "source_sha256": "35b3c670236c01ddff7b96fa5a3e86a2ccff978c8b9ff3be4eedbad415dc26f3",
+  "source_id": "75b89355-2f2a-4e42-abde-8eeb0fcf6dcb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 341/2020-21",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Naděžda Červenková",
+    "ecli": "ECLI:CZ:OSJC:2021:6.C.341.2020.5",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/75b89355-2f2a-4e42-abde-8eeb0fcf6dcb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
