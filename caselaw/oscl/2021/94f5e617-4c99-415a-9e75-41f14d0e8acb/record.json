@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:48.C.32.2021.1",
+  "docket": "48 C 32/2021-14",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94f5e617-4c99-415a-9e75-41f14d0e8acb",
+  "source_sha256": "4729ad0ce1d75066845f0f29a775cb559ce5770e10e581e77fcb70e7064a672f",
+  "source_id": "94f5e617-4c99-415a-9e75-41f14d0e8acb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 32/2021-14",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Ing. Ivana Šmakalová",
+    "ecli": "ECLI:CZ:OSCL:2021:48.C.32.2021.1",
+    "predmetRizeni": "O zaplacení 11 664 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94f5e617-4c99-415a-9e75-41f14d0e8acb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
