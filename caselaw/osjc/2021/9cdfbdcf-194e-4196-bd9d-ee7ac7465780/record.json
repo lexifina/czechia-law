@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:6.C.40.2021.2",
+  "docket": "6 C 40/2021-9",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9cdfbdcf-194e-4196-bd9d-ee7ac7465780",
+  "source_sha256": "84225b415f41560e99f0f699472a62db9437fac007c5b75155116d6a79d8ef0f",
+  "source_id": "9cdfbdcf-194e-4196-bd9d-ee7ac7465780",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 40/2021-9",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Naděžda Červenková",
+    "ecli": "ECLI:CZ:OSJC:2021:6.C.40.2021.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9cdfbdcf-194e-4196-bd9d-ee7ac7465780"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
