@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:6.C.24.2021.2",
+  "docket": "6 C 24/2021-24",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b40238b-c634-482f-85ee-dd4d95c090ab",
+  "source_sha256": "8b5f331f43a8e3a14328103212cf8e4b91a50aea75ccf879d985557cfb3e634f",
+  "source_id": "2b40238b-c634-482f-85ee-dd4d95c090ab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 24/2021-24",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Milena Hrdličková",
+    "ecli": "ECLI:CZ:OSCK:2021:6.C.24.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b40238b-c634-482f-85ee-dd4d95c090ab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
