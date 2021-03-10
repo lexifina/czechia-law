@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:9.C.329.2020.1",
+  "docket": "9 C 329/2020-43",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4fc1d7ec-5caf-4352-90de-8bfdd4473627",
+  "source_sha256": "b67ba5a914fd612c293c17681d87052f02b3052b506f2b5514884fe98381e080",
+  "source_id": "4fc1d7ec-5caf-4352-90de-8bfdd4473627",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 329/2020-43",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Marie Hladíková",
+    "ecli": "ECLI:CZ:OSZN:2021:9.C.329.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4fc1d7ec-5caf-4352-90de-8bfdd4473627"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
