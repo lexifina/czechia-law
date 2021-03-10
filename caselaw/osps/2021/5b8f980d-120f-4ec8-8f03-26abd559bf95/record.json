@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:7.C.402.2020.2",
+  "docket": "7 C 402/2020-19",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b8f980d-120f-4ec8-8f03-26abd559bf95",
+  "source_sha256": "6cbb540b64881621c962140423f09820c0f5c315de28da7b1550fb04b0a307cb",
+  "source_id": "5b8f980d-120f-4ec8-8f03-26abd559bf95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 402/2020-19",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Jarmila Millerová",
+    "ecli": "ECLI:CZ:OSPS:2021:7.C.402.2020.2",
+    "predmetRizeni": "2 480 Kč s přísl.",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b8f980d-120f-4ec8-8f03-26abd559bf95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
