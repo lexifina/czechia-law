@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:6.C.92.2020.1",
+  "docket": "6 C 92/2020-100",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aba2b40d-eba7-4a1f-833d-5b4617c79882",
+  "source_sha256": "7f7e6ca49338e35fa64e456f3207962413ad29d821c5f8d1378602db25f76f4f",
+  "source_id": "aba2b40d-eba7-4a1f-833d-5b4617c79882",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 92/2020-100",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2021:6.C.92.2020.1",
+    "predmetRizeni": "zvýšení výživného",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "podnájem",
+      "příspěvek na bydlení",
+      "smlouva o úvěru",
+      "uznání dluhu",
+      "výživné",
+      "zvýšení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 922 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aba2b40d-eba7-4a1f-833d-5b4617c79882"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
