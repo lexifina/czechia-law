@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:7.C.20.2021.1",
+  "docket": "7 C 20/2021-14",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecae2dde-43ed-4734-b08f-702d400bede4",
+  "source_sha256": "fa7bb71b144c07403e0d2a86965f02dc5dca7203d98cd403e36ba5e8b3da8a0b",
+  "source_id": "ecae2dde-43ed-4734-b08f-702d400bede4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 20/2021-14",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Jiří Vošvrda",
+    "ecli": "ECLI:CZ:OSTU:2021:7.C.20.2021.1",
+    "predmetRizeni": "zaplacení 18 397 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecae2dde-43ed-4734-b08f-702d400bede4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
