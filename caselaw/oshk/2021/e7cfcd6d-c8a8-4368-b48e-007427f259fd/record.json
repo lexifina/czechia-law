@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:13.C.381.2020.1",
+  "docket": "13 C 381/2020-21",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e7cfcd6d-c8a8-4368-b48e-007427f259fd",
+  "source_sha256": "fd35e3902f69c8dd35da9ffb66bf2c6565d547a25d8b831be79cff4dad8015c5",
+  "source_id": "e7cfcd6d-c8a8-4368-b48e-007427f259fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 381/2020-21",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Anna Tichá",
+    "ecli": "ECLI:CZ:OSHK:2021:13.C.381.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 754 z. č. 89/2012 Sb.",
+      "§ 23 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e7cfcd6d-c8a8-4368-b48e-007427f259fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
