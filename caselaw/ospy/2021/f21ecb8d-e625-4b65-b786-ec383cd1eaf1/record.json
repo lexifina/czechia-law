@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.110.2021.1",
+  "docket": "22 C 110/2021-46",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f21ecb8d-e625-4b65-b786-ec383cd1eaf1",
+  "source_sha256": "71b28e9c06e35c87f284d0d5fa8dfba4a5ec8b1625b8eb4c367861db432b0c0d",
+  "source_id": "f21ecb8d-e625-4b65-b786-ec383cd1eaf1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 110/2021-46",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.110.2021.1",
+    "predmetRizeni": "O zaplacení 1 327,17 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "investiční fond",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f21ecb8d-e625-4b65-b786-ec383cd1eaf1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
