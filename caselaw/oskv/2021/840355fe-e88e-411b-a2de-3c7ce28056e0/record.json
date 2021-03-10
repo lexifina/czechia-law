@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:16.C.50.2021.1",
+  "docket": "16 C 50/2021-10",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/840355fe-e88e-411b-a2de-3c7ce28056e0",
+  "source_sha256": "567a65b27d0fd4be345339166d0db7da865e0ae872bd9293ab1eb17031d60aba",
+  "source_id": "840355fe-e88e-411b-a2de-3c7ce28056e0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 50/2021-10",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2021:16.C.50.2021.1",
+    "predmetRizeni": "44.505,63 Kč pojistné",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/840355fe-e88e-411b-a2de-3c7ce28056e0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
