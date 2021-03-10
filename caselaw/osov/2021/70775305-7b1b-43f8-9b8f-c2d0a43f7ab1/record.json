@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:63.C.5.2021.1",
+  "docket": "63 C 5/2021-19",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70775305-7b1b-43f8-9b8f-c2d0a43f7ab1",
+  "source_sha256": "cc423d29be30bed45a3b151ec2eecd4290172f9ec5d54a929abdc7da1ae56053",
+  "source_id": "70775305-7b1b-43f8-9b8f-c2d0a43f7ab1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 5/2021-19",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavel Kučera",
+    "ecli": "ECLI:CZ:OSOV:2021:63.C.5.2021.1",
+    "predmetRizeni": "o zaplacení 9 120 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70775305-7b1b-43f8-9b8f-c2d0a43f7ab1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
