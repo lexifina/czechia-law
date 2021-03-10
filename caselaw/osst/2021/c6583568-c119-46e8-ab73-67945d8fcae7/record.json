@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:4.C.236.2020.1",
+  "docket": "4 C 236/2020-40",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6583568-c119-46e8-ab73-67945d8fcae7",
+  "source_sha256": "b739ea7c5b2401a217b28843ecc5e68925da88f139825d2efea890b099d414a2",
+  "source_id": "c6583568-c119-46e8-ab73-67945d8fcae7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 236/2020-40",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "Mgr. Dana Chromá",
+    "ecli": "ECLI:CZ:OSST:2021:4.C.236.2020.1",
+    "predmetRizeni": "O zaplacení 7 376,63 Kč",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 64 z. č. 127/2005 Sb.",
+      "§ 65 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6583568-c119-46e8-ab73-67945d8fcae7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
