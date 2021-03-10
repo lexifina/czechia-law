@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:8.C.23.2021.1",
+  "docket": "8 C 23/2021-23",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/115349fc-9e62-44b6-ad1e-5d040b508471",
+  "source_sha256": "be4e6230c6ad61e0817cfd9170b95ac605b51dc3dfd05e55569a1553eae1bf00",
+  "source_id": "115349fc-9e62-44b6-ad1e-5d040b508471",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 23/2021-23",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Daniela Ševelová",
+    "ecli": "ECLI:CZ:OSPR:2021:8.C.23.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "investiční fond",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/115349fc-9e62-44b6-ad1e-5d040b508471"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
