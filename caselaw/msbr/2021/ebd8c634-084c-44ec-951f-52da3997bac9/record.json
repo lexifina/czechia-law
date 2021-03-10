@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:17.C.13.2021.1",
+  "docket": "17 C 13/2021-31",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ebd8c634-084c-44ec-951f-52da3997bac9",
+  "source_sha256": "0cc92a4293c968b1955c388aeb3b5522804f1bc51fc7ecbc49d2372d8aa4cdd9",
+  "source_id": "ebd8c634-084c-44ec-951f-52da3997bac9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 13/2021-31",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Petra Filová",
+    "ecli": "ECLI:CZ:MSBR:2021:17.C.13.2021.1",
+    "predmetRizeni": "zaplacení 2.000 Kč - smluvní pokuta",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-09-30",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ebd8c634-084c-44ec-951f-52da3997bac9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
