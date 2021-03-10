@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:113.C.1.2021.1",
+  "docket": "113 C 1/2021-37",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7b7d334-788d-4f55-b682-c8b5133f2d37",
+  "source_sha256": "19bd85e01989abfade44b47cc707a6225a5f614d56a697623bb09a2479a117d9",
+  "source_id": "c7b7d334-788d-4f55-b682-c8b5133f2d37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "113 C 1/2021-37",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Tomáš Štindl",
+    "ecli": "ECLI:CZ:OSBR:2021:113.C.1.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7b7d334-788d-4f55-b682-c8b5133f2d37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
