@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:7.C.97.2020.1",
+  "docket": "7 C 97/2020-12",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/95786e9b-bebb-42ce-b389-2bd0feb5588e",
+  "source_sha256": "29eec5ba4f9c42716aacbaf776942bbe2e08fe111d1d9d0ebedaa44c1bf0c6c0",
+  "source_id": "95786e9b-bebb-42ce-b389-2bd0feb5588e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 97/2020-12",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Lenka Fialová",
+    "ecli": "ECLI:CZ:OSVS:2021:7.C.97.2020.1",
+    "predmetRizeni": "žaloba o rozvod manželství",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/95786e9b-bebb-42ce-b389-2bd0feb5588e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
