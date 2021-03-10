@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:17.C.265.2020.1",
+  "docket": "17 C 265/2020-21",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66683e75-5bfd-4dab-85c5-c373fcb8384a",
+  "source_sha256": "78d724600bccbe5c4a6fc7eaa36cff67be95afc41ad86ae75503267eb89f6bb5",
+  "source_id": "66683e75-5bfd-4dab-85c5-c373fcb8384a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 265/2020-21",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Petra Filová",
+    "ecli": "ECLI:CZ:MSBR:2021:17.C.265.2020.1",
+    "predmetRizeni": "zaplacení 1.000 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-10-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66683e75-5bfd-4dab-85c5-c373fcb8384a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
