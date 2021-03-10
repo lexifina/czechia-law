@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:1.C.22.2021.1",
+  "docket": "1 C 22/2021-33",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b09ade15-5002-478c-93d0-1cf6da44a099",
+  "source_sha256": "ac7ad4f6a298b61fbaea01c6ad6c174e7ee36d6580d213311040b7aefad71080",
+  "source_id": "b09ade15-5002-478c-93d0-1cf6da44a099",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 22/2021-33",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Vyskočilová",
+    "ecli": "ECLI:CZ:OSLN:2021:1.C.22.2021.1",
+    "predmetRizeni": "O zaplacení 1 715 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b09ade15-5002-478c-93d0-1cf6da44a099"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
