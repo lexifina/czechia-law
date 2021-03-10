@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:9.C.67.2021.1",
+  "docket": "9 C 67/2021-14",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7ab3231-3696-42fb-a759-7c4b44c95263",
+  "source_sha256": "42c38d931948cd4904eca2a4d4d134498fed7a456dfdc2fd1b0b0d7db4b8ac5c",
+  "source_id": "b7ab3231-3696-42fb-a759-7c4b44c95263",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 67/2021-14",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Bc. Lukáš Ludvík",
+    "ecli": "ECLI:CZ:OSKV:2021:9.C.67.2021.1",
+    "predmetRizeni": "29 011,94 Kč / elektřina",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7ab3231-3696-42fb-a759-7c4b44c95263"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
