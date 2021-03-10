@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:12.C.14.2021.1",
+  "docket": "12 C 14/2021-11",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c259b125-796a-4893-818d-571c309ffa6a",
+  "source_sha256": "191c8600b038fc239588fc79b5ba7fdc37b78df5b33943eed62f3cc84e5cdd8b",
+  "source_id": "c259b125-796a-4893-818d-571c309ffa6a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 14/2021-11",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Ivana Lukášová",
+    "ecli": "ECLI:CZ:OSCL:2021:12.C.14.2021.1",
+    "predmetRizeni": "O zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c259b125-796a-4893-818d-571c309ffa6a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
