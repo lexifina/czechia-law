@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:4.C.160.2020.1",
+  "docket": "4 C 160/2020-15",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1cd9cdbe-0f28-4c7c-b1ba-b285347f4044",
+  "source_sha256": "c662fa58843b52ca921fa85d7e2e15b192a89e4fca7c3162a44059bddc62145f",
+  "source_id": "1cd9cdbe-0f28-4c7c-b1ba-b285347f4044",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 160/2020-15",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ludmila Horská",
+    "ecli": "ECLI:CZ:OSRO:2021:4.C.160.2020.1",
+    "predmetRizeni": "O zaplacení 2 722,38 Kč",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 písm. n) z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1cd9cdbe-0f28-4c7c-b1ba-b285347f4044"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
