@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:34.C.47.2020.1",
+  "docket": "34 C 47/2020-28",
+  "date": "2021-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c995799-bcff-4e5b-b5ed-a5ec3f9eb9fb",
+  "source_sha256": "c456e4d12a968966f3bd9ebb2b5c423adb5eb9ced3258f95c99f1fb094c045ea",
+  "source_id": "8c995799-bcff-4e5b-b5ed-a5ec3f9eb9fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 47/2020-28",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Eva Přívracká",
+    "ecli": "ECLI:CZ:OSPH10:2021:34.C.47.2020.1",
+    "predmetRizeni": "3 283,56 Kč",
+    "datumVydani": "2021-03-10",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 153 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c995799-bcff-4e5b-b5ed-a5ec3f9eb9fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
