@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:116.C.180.2020.1",
+  "docket": "116 C 180/2020-17",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/54d2e54b-34b1-4877-8fd0-c2fe65d37f0a",
+  "source_sha256": "58e3f96ffdfc67bcfba40a6ffd21ffbaa79592a8ae42e2d1db48752d57447fc8",
+  "source_id": "54d2e54b-34b1-4877-8fd0-c2fe65d37f0a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 180/2020-17",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Tamara Göthová",
+    "ecli": "ECLI:CZ:MSBR:2021:116.C.180.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/54d2e54b-34b1-4877-8fd0-c2fe65d37f0a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
