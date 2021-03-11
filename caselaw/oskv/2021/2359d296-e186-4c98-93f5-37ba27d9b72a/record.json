@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:10.C.29.2021.1",
+  "docket": "10 C 29/2021-34",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2359d296-e186-4c98-93f5-37ba27d9b72a",
+  "source_sha256": "f520a8886f40312715b9255d114e887b84182d7dac99faabe6d5defa1ea3c8c1",
+  "source_id": "2359d296-e186-4c98-93f5-37ba27d9b72a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 29/2021-34",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Blanka Magliová",
+    "ecli": "ECLI:CZ:OSKV:2021:10.C.29.2021.1",
+    "predmetRizeni": "249 858,03 Kč / úvěr",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 524 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2359d296-e186-4c98-93f5-37ba27d9b72a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
