@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:9.C.31.2021.2",
+  "docket": "9 C 31/2021-38",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3a82a25-8762-4b15-9f26-9bbb98f84204",
+  "source_sha256": "ec746f32dd4ceb034260f7494dd7c45226d2f74f7cdbd9f436627b7a658efa9f",
+  "source_id": "b3a82a25-8762-4b15-9f26-9bbb98f84204",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 31/2021-38",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Pavla Tupá",
+    "ecli": "ECLI:CZ:OSCH:2021:9.C.31.2021.2",
+    "predmetRizeni": "O zaplacení 26 890,40 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 1968 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3a82a25-8762-4b15-9f26-9bbb98f84204"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
