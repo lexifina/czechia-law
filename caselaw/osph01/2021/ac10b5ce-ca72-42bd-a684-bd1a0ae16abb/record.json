@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:26.C.20.2021.1",
+  "docket": "26 C 20/2021-18",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac10b5ce-ca72-42bd-a684-bd1a0ae16abb",
+  "source_sha256": "e9cb7ae30d8a8061e901d1196914b4e42a9c84c5ff7988888a76da88aa30c680",
+  "source_id": "ac10b5ce-ca72-42bd-a684-bd1a0ae16abb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 20/2021-18",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Iveta Nedozrálová",
+    "ecli": "ECLI:CZ:OSPH01:2021:26.C.20.2021.1",
+    "predmetRizeni": "o zaplacení 2 050 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 37/2004 Sb.",
+      "§ 149 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac10b5ce-ca72-42bd-a684-bd1a0ae16abb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
