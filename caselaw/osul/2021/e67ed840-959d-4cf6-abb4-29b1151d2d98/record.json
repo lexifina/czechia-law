@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:33.C.300.2020.2",
+  "docket": "33 C 300/2020-26",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e67ed840-959d-4cf6-abb4-29b1151d2d98",
+  "source_sha256": "7b77904cbfde7ca3e127f818539e0ea93f7e505f2a649ca3e0dc36454ca54350",
+  "source_id": "e67ed840-959d-4cf6-abb4-29b1151d2d98",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 300/2020-26",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Petr Blažej",
+    "ecli": "ECLI:CZ:OSUL:2021:33.C.300.2020.2",
+    "predmetRizeni": "O zaplacení 15 814 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e67ed840-959d-4cf6-abb4-29b1151d2d98"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
