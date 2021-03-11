@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:51.C.328.2020.2",
+  "docket": "51 C 328/2020-16",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87b68571-edb9-4c11-8249-15719ba45c2c",
+  "source_sha256": "f2b8c975c485d33f350dd15d4a822dd19130dbc9b0a764ca0eccddf10f898feb",
+  "source_id": "87b68571-edb9-4c11-8249-15719ba45c2c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 328/2020-16",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Hana Cholastová",
+    "ecli": "ECLI:CZ:OSCL:2021:51.C.328.2020.2",
+    "predmetRizeni": "O zaplacení 8 200 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87b68571-edb9-4c11-8249-15719ba45c2c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
