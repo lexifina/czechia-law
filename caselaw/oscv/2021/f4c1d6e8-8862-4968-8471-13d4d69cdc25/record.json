@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:23.C.242.2020.4",
+  "docket": "23 C 242/2020-37",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f4c1d6e8-8862-4968-8471-13d4d69cdc25",
+  "source_sha256": "362994141300d2bab129c8c5fad265cadd36f3f089f9c133410b5eacb028c29a",
+  "source_id": "f4c1d6e8-8862-4968-8471-13d4d69cdc25",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 242/2020-37",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Pašková",
+    "ecli": "ECLI:CZ:OSCV:2021:23.C.242.2020.4",
+    "predmetRizeni": "zaplacení 37 536,87 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f4c1d6e8-8862-4968-8471-13d4d69cdc25"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
