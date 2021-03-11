@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:10.C.31.2021.1",
+  "docket": "10 C 31/2021-22",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/38e24bb3-4329-45d9-80ad-2e4194e97437",
+  "source_sha256": "111b88d7150e513874ada8074dbe860c656b23dc64c8e4e82d2011f517e1f822",
+  "source_id": "38e24bb3-4329-45d9-80ad-2e4194e97437",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 31/2021-22",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2021:10.C.31.2021.1",
+    "predmetRizeni": "o zaplacení 392 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 13 vyhl. č. 177/96 Sb.",
+      "§ 26 z. č. 273/2008 Sb.",
+      "§  vyhl. č. 333/2019 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/38e24bb3-4329-45d9-80ad-2e4194e97437"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
