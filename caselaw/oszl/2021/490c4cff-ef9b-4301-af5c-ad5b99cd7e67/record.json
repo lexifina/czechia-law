@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:19.C.46.2021.1",
+  "docket": "19 C 46/2021-28",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/490c4cff-ef9b-4301-af5c-ad5b99cd7e67",
+  "source_sha256": "bfc2bd0c62c35d1cf1ef9b49b57740608c189dd78c604104f35ae0370afdc8ee",
+  "source_id": "490c4cff-ef9b-4301-af5c-ad5b99cd7e67",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 46/2021-28",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Milan Polehla",
+    "ecli": "ECLI:CZ:OSZL:2021:19.C.46.2021.1",
+    "predmetRizeni": "zaplacení 3 048 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2578 z. č. 89/2012 Sb.",
+      "§ 4 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/490c4cff-ef9b-4301-af5c-ad5b99cd7e67"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
