@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:38.C.31.2021.1",
+  "docket": "38 C 31/2021-28",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c029477f-7888-4a90-b0a4-2ae19bb58b64",
+  "source_sha256": "4f1b7d1ba1a7e6b2a9bb22dc7d0b10fd908cabee488412ad8fd80df981670290",
+  "source_id": "c029477f-7888-4a90-b0a4-2ae19bb58b64",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 31/2021-28",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Jiří Němec",
+    "ecli": "ECLI:CZ:OSZL:2021:38.C.31.2021.1",
+    "predmetRizeni": "zaplacení 1 957 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c029477f-7888-4a90-b0a4-2ae19bb58b64"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
