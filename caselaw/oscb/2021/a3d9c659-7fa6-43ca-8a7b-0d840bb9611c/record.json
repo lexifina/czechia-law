@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:23.C.110.2021.1",
+  "docket": "23 C 110/2021-12",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a3d9c659-7fa6-43ca-8a7b-0d840bb9611c",
+  "source_sha256": "2c79d3027a8a97a17bd4e95b0984b86fc73d936182cb55a6bde27c87b7f91698",
+  "source_id": "a3d9c659-7fa6-43ca-8a7b-0d840bb9611c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 110/2021-12",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Tomáš Křiváček",
+    "ecli": "ECLI:CZ:OSCB:2021:23.C.110.2021.1",
+    "predmetRizeni": "EPR [číslo] 2020, o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a3d9c659-7fa6-43ca-8a7b-0d840bb9611c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
