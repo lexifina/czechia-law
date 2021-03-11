@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:4.C.242.2020.1",
+  "docket": "4 C 242/2020-68",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3bf9e3b6-c14d-4c82-870b-88b39413d8dd",
+  "source_sha256": "18602455f31853ed02efaaae78d81afd794c78ebcdef8c4fb44c8d9db41913d0",
+  "source_id": "3bf9e3b6-c14d-4c82-870b-88b39413d8dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 242/2020-68",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2021:4.C.242.2020.1",
+    "predmetRizeni": "zaplacení 3 888 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3bf9e3b6-c14d-4c82-870b-88b39413d8dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
