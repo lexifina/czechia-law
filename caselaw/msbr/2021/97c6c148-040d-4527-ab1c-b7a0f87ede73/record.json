@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:48.C.241.2020.1",
+  "docket": "48 C 241/2020-18",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/97c6c148-040d-4527-ab1c-b7a0f87ede73",
+  "source_sha256": "8dfb0c43e7d5338936528a4421d2db2261babaac76ce29372d34ea5ea0d39f58",
+  "source_id": "97c6c148-040d-4527-ab1c-b7a0f87ede73",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 241/2020-18",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2021:48.C.241.2020.1",
+    "predmetRizeni": "zaplacení 1.500 Kč s příslušenstvím - odtažení vozidla",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-09-20",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/97c6c148-040d-4527-ab1c-b7a0f87ede73"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
