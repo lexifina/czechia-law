@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:10.C.123.2020.3",
+  "docket": "10 C 123/2020-61",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/446bc991-1491-488a-974b-9e78130edf8e",
+  "source_sha256": "b890ff2323a7ee1a2581335517ad98567e97f7918e6b23e32bcc03ade46aaed0",
+  "source_id": "446bc991-1491-488a-974b-9e78130edf8e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 123/2020-61",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Alžběta Pasternaková",
+    "ecli": "ECLI:CZ:OSPH08:2021:10.C.123.2020.3",
+    "predmetRizeni": "O zaplacení 76.050 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 27 z. č. 361/2000 Sb.",
+      "§ 59 z. č. 131/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/446bc991-1491-488a-974b-9e78130edf8e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
