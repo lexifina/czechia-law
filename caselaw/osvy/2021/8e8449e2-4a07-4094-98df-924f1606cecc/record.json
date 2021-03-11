@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.303.2020.1",
+  "docket": "7 C 303/2020-45",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e8449e2-4a07-4094-98df-924f1606cecc",
+  "source_sha256": "4616da75e2514209e4a3d03a0a19a2886f8f39fab9c98e361513767e31837438",
+  "source_id": "8e8449e2-4a07-4094-98df-924f1606cecc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 303/2020-45",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.303.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva zástavní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 358 z. č. 292/2013 Sb.",
+      "§ 356 z. č. 292/2013 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 1309 z. č. 89/2012 Sb.",
+      "§ 1359 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e8449e2-4a07-4094-98df-924f1606cecc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
