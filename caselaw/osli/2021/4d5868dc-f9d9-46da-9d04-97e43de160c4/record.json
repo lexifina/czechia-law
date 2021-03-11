@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.388.2020.1",
+  "docket": "17 C 388/2020-7",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d5868dc-f9d9-46da-9d04-97e43de160c4",
+  "source_sha256": "2a83a98144933e2bbd4b1fd1dcf5df1435e65009c4fe10a386b6b19cab0d30c1",
+  "source_id": "4d5868dc-f9d9-46da-9d04-97e43de160c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 388/2020-7",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.388.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 218 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d5868dc-f9d9-46da-9d04-97e43de160c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
