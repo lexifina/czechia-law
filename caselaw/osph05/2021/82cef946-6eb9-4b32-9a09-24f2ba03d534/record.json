@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:25.C.43.2021.1",
+  "docket": "25 C 43/2021-28",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82cef946-6eb9-4b32-9a09-24f2ba03d534",
+  "source_sha256": "eae9c58f26614ecfa41b287008e5182a4903c02e866b2515c2d68f8cd9554780",
+  "source_id": "82cef946-6eb9-4b32-9a09-24f2ba03d534",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 43/2021-28",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Martin Šalamoun",
+    "ecli": "ECLI:CZ:OSPH05:2021:25.C.43.2021.1",
+    "predmetRizeni": "O zaplacení 4 906 Kč s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82cef946-6eb9-4b32-9a09-24f2ba03d534"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
