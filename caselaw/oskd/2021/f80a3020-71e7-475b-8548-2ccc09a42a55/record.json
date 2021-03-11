@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:23.C.39.2019.1",
+  "docket": "23 C 39/2019",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f80a3020-71e7-475b-8548-2ccc09a42a55",
+  "source_sha256": "2e4490ee9928609ab16725c8a0bc316f25bd7525c4332ec410a8cc442acb3b11",
+  "source_id": "f80a3020-71e7-475b-8548-2ccc09a42a55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 39/2019",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Adriana Hasmanová",
+    "ecli": "ECLI:CZ:OSKD:2021:23.C.39.2019.1",
+    "predmetRizeni": "o zaplacení mzdy a náhrady mzdy ve výši [částka]",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "náhrada mzdy",
+      "peněžité plnění",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 109 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f80a3020-71e7-475b-8548-2ccc09a42a55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
