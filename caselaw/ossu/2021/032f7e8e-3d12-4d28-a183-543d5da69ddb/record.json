@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:7.C.78.2020.1",
+  "docket": "7 C 78/2020-27",
+  "date": "2021-03-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/032f7e8e-3d12-4d28-a183-543d5da69ddb",
+  "source_sha256": "64d659fbe67c10bc5bdcdcea05b3267851384ceb1e1faf3e9e98033d33379d55",
+  "source_id": "032f7e8e-3d12-4d28-a183-543d5da69ddb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 78/2020-27",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Hana Langerová",
+    "ecli": "ECLI:CZ:OSSU:2021:7.C.78.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-03-11",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "ručení",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§ 658 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/032f7e8e-3d12-4d28-a183-543d5da69ddb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
