@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.247.2020.1",
+  "docket": "12 C 247/2020-42",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b65eef5f-07c5-4be8-a2a2-461a2c0bc6b9",
+  "source_sha256": "9bd8ff572c2d6a8aafe87e87bb4a9a81cc78b180de5a1c879d0fca8a43bdb8d3",
+  "source_id": "b65eef5f-07c5-4be8-a2a2-461a2c0bc6b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 247/2020-42",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.247.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b65eef5f-07c5-4be8-a2a2-461a2c0bc6b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
