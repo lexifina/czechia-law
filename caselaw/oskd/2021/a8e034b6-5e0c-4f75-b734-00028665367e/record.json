@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:224.C.71.2021.1",
+  "docket": "224 C 71/2021",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8e034b6-5e0c-4f75-b734-00028665367e",
+  "source_sha256": "dbdb7b565386ed7513169db8b79cdfb29beb6b0e3148afd7adcb8267c867b84e",
+  "source_id": "a8e034b6-5e0c-4f75-b734-00028665367e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "224 C 71/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jitka Sikorová",
+    "ecli": "ECLI:CZ:OSKD:2021:224.C.71.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 4 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8e034b6-5e0c-4f75-b734-00028665367e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
