@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.244.2020.1",
+  "docket": "12 C 244/2020-26",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffa22bb0-7413-4496-b8a2-778dd9776f42",
+  "source_sha256": "9ca5e6774cc52e286022f87e839bd06b6df255095c0210604bf486f23fe2fdf9",
+  "source_id": "ffa22bb0-7413-4496-b8a2-778dd9776f42",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 244/2020-26",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.244.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/99 Sb.",
+      "§ 1970 z. č. 82/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffa22bb0-7413-4496-b8a2-778dd9776f42"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
