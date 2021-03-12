@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:15.C.198.2020.1",
+  "docket": "15 C 198/2020-60",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c20061b1-7c85-49dd-a1f7-ab7eddf7d1bb",
+  "source_sha256": "09df83eb5b0f0e445c6c301c0640c0bb43f62bde8e86b931822c6818476dde47",
+  "source_id": "c20061b1-7c85-49dd-a1f7-ab7eddf7d1bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 198/2020-60",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Pavla Doupovcová",
+    "ecli": "ECLI:CZ:OSPV:2021:15.C.198.2020.1",
+    "predmetRizeni": "O zaplacení 5.049 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 50 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c20061b1-7c85-49dd-a1f7-ab7eddf7d1bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
