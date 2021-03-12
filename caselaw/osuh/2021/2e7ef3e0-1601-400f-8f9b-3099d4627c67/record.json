@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:14.C.14.2021.1",
+  "docket": "14 C 14/2021-35",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e7ef3e0-1601-400f-8f9b-3099d4627c67",
+  "source_sha256": "22ddff82e4d59761ec5649cd92293d51ae87e4aeddd4c9b7c2619ba5d76282c6",
+  "source_id": "2e7ef3e0-1601-400f-8f9b-3099d4627c67",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 14/2021-35",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Pavlína Potomská",
+    "ecli": "ECLI:CZ:OSUH:2021:14.C.14.2021.1",
+    "predmetRizeni": "1.380 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e7ef3e0-1601-400f-8f9b-3099d4627c67"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
