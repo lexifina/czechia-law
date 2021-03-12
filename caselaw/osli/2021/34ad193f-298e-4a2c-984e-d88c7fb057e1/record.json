@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:29.C.292.2020.1",
+  "docket": "29 C 292/2020-15",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/34ad193f-298e-4a2c-984e-d88c7fb057e1",
+  "source_sha256": "84d1f00cf0af9424d4f1193101d710dbaa946b59edaa7c414883aa4f83ac0298",
+  "source_id": "34ad193f-298e-4a2c-984e-d88c7fb057e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 292/2020-15",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2021:29.C.292.2020.1",
+    "predmetRizeni": "zaplacení částky 11 801,09 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34ad193f-298e-4a2c-984e-d88c7fb057e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
