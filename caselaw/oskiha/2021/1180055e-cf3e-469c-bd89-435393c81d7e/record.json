@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:115.C.38.2021.1",
+  "docket": "115 C 38/2021-42",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1180055e-cf3e-469c-bd89-435393c81d7e",
+  "source_sha256": "2d46e9b8fb2201df0a1d75766ba86ebfe2084297d2cbc6f715bb6c89ca280831",
+  "source_id": "1180055e-cf3e-469c-bd89-435393c81d7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 38/2021-42",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Aleksandra Zubková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:115.C.38.2021.1",
+    "predmetRizeni": "10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1180055e-cf3e-469c-bd89-435393c81d7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
