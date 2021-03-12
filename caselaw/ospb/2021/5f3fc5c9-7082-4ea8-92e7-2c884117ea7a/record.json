@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:13.C.195.2020.3",
+  "docket": "13 C 195/2020-56",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f3fc5c9-7082-4ea8-92e7-2c884117ea7a",
+  "source_sha256": "2d5c11e87e3f8cdc5101afe70a922be7102167b3bb3959e9bdfed4a2ce3b04fb",
+  "source_id": "5f3fc5c9-7082-4ea8-92e7-2c884117ea7a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 195/2020-56",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Zdeněk Klouzek",
+    "ecli": "ECLI:CZ:OSPB:2021:13.C.195.2020.3",
+    "predmetRizeni": "zaplacení 9 159,15 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 52 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb.",
+      "§ 19 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f3fc5c9-7082-4ea8-92e7-2c884117ea7a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
