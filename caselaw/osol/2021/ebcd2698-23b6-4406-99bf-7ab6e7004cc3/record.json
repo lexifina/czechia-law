@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:16.C.18.2021.2",
+  "docket": "16 C 18/2021-26",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ebcd2698-23b6-4406-99bf-7ab6e7004cc3",
+  "source_sha256": "24b03969967cf4e35039dbba517bca6fe18d75c2da31d2de0f1e11c5971206c9",
+  "source_id": "ebcd2698-23b6-4406-99bf-7ab6e7004cc3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 18/2021-26",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Libor Brokeš",
+    "ecli": "ECLI:CZ:OSOL:2021:16.C.18.2021.2",
+    "predmetRizeni": "o 2 656 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ebcd2698-23b6-4406-99bf-7ab6e7004cc3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
