@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:7.C.287.2020.1",
+  "docket": "7 C 287/2020-28",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/54157d16-9dc4-4f4b-93c8-db5c59f253a5",
+  "source_sha256": "daff532e68b0514125194e558941952e721002959311771f6f2424918bc8f88d",
+  "source_id": "54157d16-9dc4-4f4b-93c8-db5c59f253a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 287/2020-28",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Kristina Steinmetzová",
+    "ecli": "ECLI:CZ:OSNB:2021:7.C.287.2020.1",
+    "predmetRizeni": "O zaplacení 22 698 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/54157d16-9dc4-4f4b-93c8-db5c59f253a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
