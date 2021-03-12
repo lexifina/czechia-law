@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:11.C.402.2016.2",
+  "docket": "11 C 402/2016-73",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d910bce-e8ae-43a6-9522-0dd88851dd1d",
+  "source_sha256": "5ff38a92500cf4c056495b39c740646335a50b0e4af40576937788e91674ebc5",
+  "source_id": "7d910bce-e8ae-43a6-9522-0dd88851dd1d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 402/2016-73",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Libor Lhoťan",
+    "ecli": "ECLI:CZ:OSCV:2021:11.C.402.2016.2",
+    "predmetRizeni": "zaplacení 10.689,12 Kč s příslušenstvím (poskytnutí služeb elektronických komunikací)",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 1980 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d910bce-e8ae-43a6-9522-0dd88851dd1d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
