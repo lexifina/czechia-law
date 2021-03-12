@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.34.2021.1",
+  "docket": "42 C 34/2021-17",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/015466ee-b397-4695-a40f-d1bebdce0450",
+  "source_sha256": "07c9ab4df09f3ae1e3d9badb644287c3114f3d81f092291a6a3eed19661940ca",
+  "source_id": "015466ee-b397-4695-a40f-d1bebdce0450",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 34/2021-17",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.34.2021.1",
+    "predmetRizeni": "o zaplacení 5 561 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právní domněnka",
+      "regulační poplatek",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§ 16a z. č. 48/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/015466ee-b397-4695-a40f-d1bebdce0450"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
