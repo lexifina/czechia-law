@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.113.2021.1",
+  "docket": "22 C 113/2021",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bba45d44-0cf8-459e-b693-28d76526e66f",
+  "source_sha256": "a274d205e9abcdd2168d5c3d287b9f430ffd22c2e335f2473eb84b325eae9455",
+  "source_id": "bba45d44-0cf8-459e-b693-28d76526e66f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 113/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.113.2021.1",
+    "predmetRizeni": "O zaplacení 2 974 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bba45d44-0cf8-459e-b693-28d76526e66f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
