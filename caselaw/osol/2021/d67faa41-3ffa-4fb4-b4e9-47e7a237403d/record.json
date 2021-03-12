@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:12.C.18.2021.2",
+  "docket": "12 C 18/2021-25",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d67faa41-3ffa-4fb4-b4e9-47e7a237403d",
+  "source_sha256": "5424f8cee6f0a48e8d848b505519630103c649758a3da87a64597b6be7698b29",
+  "source_id": "d67faa41-3ffa-4fb4-b4e9-47e7a237403d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 18/2021-25",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Jitka Rollerová, , Dr.",
+    "ecli": "ECLI:CZ:OSOL:2021:12.C.18.2021.2",
+    "predmetRizeni": "o 3 355 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 18 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d67faa41-3ffa-4fb4-b4e9-47e7a237403d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
