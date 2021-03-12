@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.236.2020.2",
+  "docket": "24 C 236/2020-85",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4016d9ab-aaa9-4edc-98ec-d5581358e905",
+  "source_sha256": "f7367793934a8061fc2479ba5a99c3264b57c17b970d097d569020fdca3ef54f",
+  "source_id": "4016d9ab-aaa9-4edc-98ec-d5581358e905",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 236/2020-85",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.236.2020.2",
+    "predmetRizeni": "zaplacení 96 440 Kč s příslušenstvím (úvěr + smluvní pokuta)",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 570 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 409/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4016d9ab-aaa9-4edc-98ec-d5581358e905"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
