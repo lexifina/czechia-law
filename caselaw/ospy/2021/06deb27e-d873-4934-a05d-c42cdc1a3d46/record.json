@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:34.C.268.2020.1",
+  "docket": "34 C 268/2020-52",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/06deb27e-d873-4934-a05d-c42cdc1a3d46",
+  "source_sha256": "fe44e29a73c9bc5c2232c76234c42b904f08a231603e6cec0875e6428b3d6a75",
+  "source_id": "06deb27e-d873-4934-a05d-c42cdc1a3d46",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 268/2020-52",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Gabriela Kadlecová",
+    "ecli": "ECLI:CZ:OSPY:2021:34.C.268.2020.1",
+    "predmetRizeni": "o zaplacení 39 487,52 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 544 z. č. 40/1964 Sb.",
+      "§ 273 z. č. 513/1991 Sb.",
+      "§ 269 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/06deb27e-d873-4934-a05d-c42cdc1a3d46"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
