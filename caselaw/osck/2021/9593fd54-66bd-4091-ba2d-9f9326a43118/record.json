@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:7.C.19.2021.2",
+  "docket": "7 C 19/2021-28",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9593fd54-66bd-4091-ba2d-9f9326a43118",
+  "source_sha256": "c1d5114b01e8b7a002c391dfbf2b9c90b6bf37f2965a098729141096291b4de0",
+  "source_id": "9593fd54-66bd-4091-ba2d-9f9326a43118",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 19/2021-28",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Daniel Levý",
+    "ecli": "ECLI:CZ:OSCK:2021:7.C.19.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9593fd54-66bd-4091-ba2d-9f9326a43118"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
