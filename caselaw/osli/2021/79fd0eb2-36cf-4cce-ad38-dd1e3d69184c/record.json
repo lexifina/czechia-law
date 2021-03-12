@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:18.C.37.2021.1",
+  "docket": "18 C 37/2021-11",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79fd0eb2-36cf-4cce-ad38-dd1e3d69184c",
+  "source_sha256": "b17a86e43c1b15447a05b15273f42b396c2033424e5a48487d51f804a3b41d94",
+  "source_id": "79fd0eb2-36cf-4cce-ad38-dd1e3d69184c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 37/2021-11",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2021:18.C.37.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 58.000,00 Kč s přísl.",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb.",
+      "§ 1829 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79fd0eb2-36cf-4cce-ad38-dd1e3d69184c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
