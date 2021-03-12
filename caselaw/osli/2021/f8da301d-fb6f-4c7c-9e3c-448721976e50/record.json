@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.445.2020.1",
+  "docket": "19 C 445/2020-29",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f8da301d-fb6f-4c7c-9e3c-448721976e50",
+  "source_sha256": "b12480c52e9a8c5cd85c0fc44bdf211ad08cd71f54d4178fe77fa812c674d768",
+  "source_id": "f8da301d-fb6f-4c7c-9e3c-448721976e50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 445/2020-29",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.445.2020.1",
+    "predmetRizeni": "zaplacení částky 6 150 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f8da301d-fb6f-4c7c-9e3c-448721976e50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
