@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:7.C.17.2021.1",
+  "docket": "7 C 17/2021-18",
+  "date": "2021-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f27094f9-aff1-4fff-87a7-772ed5ae7205",
+  "source_sha256": "5c2b1920a7b1049bc68e860b949d036f684f9fb96e81eb68e3a16792962ca709",
+  "source_id": "f27094f9-aff1-4fff-87a7-772ed5ae7205",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 17/2021-18",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Kristina Steinmetzová",
+    "ecli": "ECLI:CZ:OSNB:2021:7.C.17.2021.1",
+    "predmetRizeni": "O zaplacení 3 048 Kč s příslušenstvím",
+    "datumVydani": "2021-03-12",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 3 vyhl. č. 175/2000 Sb.",
+      "§ 2578 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 1370/2007 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f27094f9-aff1-4fff-87a7-772ed5ae7205"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
