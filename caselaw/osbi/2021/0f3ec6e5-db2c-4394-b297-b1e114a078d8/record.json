@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:42.C.9.2021.1",
+  "docket": "42 C 9/2021",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f3ec6e5-db2c-4394-b297-b1e114a078d8",
+  "source_sha256": "e540eac6fca6ff6d812d1b333f82adb7d9ad68dd391a7b41df95e9a2ed700357",
+  "source_id": "0f3ec6e5-db2c-4394-b297-b1e114a078d8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 9/2021",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Andrea Boráková",
+    "ecli": "ECLI:CZ:OSBI:2021:42.C.9.2021.1",
+    "predmetRizeni": "O zaplacení 3 377 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f3ec6e5-db2c-4394-b297-b1e114a078d8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
