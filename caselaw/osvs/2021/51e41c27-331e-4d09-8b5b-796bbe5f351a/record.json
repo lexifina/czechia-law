@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:10.C.94.2020.1",
+  "docket": "10 C 94/2020-29",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51e41c27-331e-4d09-8b5b-796bbe5f351a",
+  "source_sha256": "3f40975b50ddd95c16fbb674b6b3e7e55fee85b8d2a110e3256a1a8150dbee89",
+  "source_id": "51e41c27-331e-4d09-8b5b-796bbe5f351a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 94/2020-29",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Michal Halamíček",
+    "ecli": "ECLI:CZ:OSVS:2021:10.C.94.2020.1",
+    "predmetRizeni": "O zaplacení 2 757 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51e41c27-331e-4d09-8b5b-796bbe5f351a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
