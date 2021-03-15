@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.324.2020.1",
+  "docket": "4 C 324/2020-20",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2f08fd87-4cd4-4d8a-b30a-7c8f40617bd3",
+  "source_sha256": "d33ed878b68cafb9a703a1ecda30a24811eb9888bc494c7dc31f6b621f77b69c",
+  "source_id": "2f08fd87-4cd4-4d8a-b30a-7c8f40617bd3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 324/2020-20",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Marek Poláček",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.324.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2f08fd87-4cd4-4d8a-b30a-7c8f40617bd3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
