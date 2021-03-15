@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:19.C.318.2018.3",
+  "docket": "19 C 318/2018-70",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c728586-9938-440b-ad22-db187bc04dbc",
+  "source_sha256": "e12b10a00e93d205523fd490a3710fd3682e143610e21a69ff6ffb0d57ef06aa",
+  "source_id": "4c728586-9938-440b-ad22-db187bc04dbc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 318/2018-70",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Zdeněk Hammer",
+    "ecli": "ECLI:CZ:OSLT:2021:19.C.318.2018.3",
+    "predmetRizeni": "O zaplacení 19 209,53 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "omezení svéprávnosti",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c728586-9938-440b-ad22-db187bc04dbc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
