@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:7.C.44.2021.1",
+  "docket": "7 C 44/2021-35",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94539441-aae3-4661-8406-ca82ff000230",
+  "source_sha256": "cb6ce8a7f14e72c2bb1dafd1d4581e651f4fee0cb13c2f97c479d5eaa6fdad37",
+  "source_id": "94539441-aae3-4661-8406-ca82ff000230",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 44/2021-35",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Margita Marková",
+    "ecli": "ECLI:CZ:OSPR:2021:7.C.44.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "neplatnost právního úkonu",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94539441-aae3-4661-8406-ca82ff000230"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
