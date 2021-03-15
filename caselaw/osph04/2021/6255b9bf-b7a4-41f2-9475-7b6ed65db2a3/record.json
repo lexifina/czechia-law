@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:15.C.12.2021.1",
+  "docket": "15 C 12/2021-15",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6255b9bf-b7a4-41f2-9475-7b6ed65db2a3",
+  "source_sha256": "0af485c1642ab8e66934b48a8cd39c409febe3820e84db4659546f2bdd1b8e1c",
+  "source_id": "6255b9bf-b7a4-41f2-9475-7b6ed65db2a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 12/2021-15",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Marta Gottwaldová",
+    "ecli": "ECLI:CZ:OSPH04:2021:15.C.12.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6255b9bf-b7a4-41f2-9475-7b6ed65db2a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
