@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:27.C.16.2021.1",
+  "docket": "27 C 16/2021-42",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/456b3d89-c796-4d40-9890-efe0325e41d9",
+  "source_sha256": "34670ab52ee6a3bc8e4742863121229cdac2c140c40c8d24e72580fb48cf0de0",
+  "source_id": "456b3d89-c796-4d40-9890-efe0325e41d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 16/2021-42",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Markéta Pokorná",
+    "ecli": "ECLI:CZ:OSOL:2021:27.C.16.2021.1",
+    "predmetRizeni": "o 957 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 37/2004 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/456b3d89-c796-4d40-9890-efe0325e41d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
