@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:216.C.129.2019.1",
+  "docket": "216 C 129/2019",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ec28a2c-8b0f-4b30-887a-41a844b63094",
+  "source_sha256": "0c98bf70e551389150e244a35c5c6d38d59f694183150de6842b8433fa194a35",
+  "source_id": "8ec28a2c-8b0f-4b30-887a-41a844b63094",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "216 C 129/2019",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Adriana Hasmanová",
+    "ecli": "ECLI:CZ:OSKD:2021:216.C.129.2019.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "dodávky energie",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 9 vyhl. č. 82/2011 Sb.",
+      "§ 51 z. č. 458/2000 Sb.",
+      "§ 563 z. č. 89/2012 Sb.",
+      "§ 3079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ec28a2c-8b0f-4b30-887a-41a844b63094"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
