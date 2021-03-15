@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:53.C.21.2020.1",
+  "docket": "53 C 21/2020-38",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c649abc9-4c70-49bb-8b9c-ae527c8aabb0",
+  "source_sha256": "0ea372e0f534c3540cbf1e7ded42a02d428660a68a05991f0ba77901dceacad2",
+  "source_id": "c649abc9-4c70-49bb-8b9c-ae527c8aabb0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 21/2020-38",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Jiří Fuks, Ph.D.",
+    "ecli": "ECLI:CZ:OSRK:2021:53.C.21.2020.1",
+    "predmetRizeni": "o zaplacení 3.317 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 42 z. č. 325/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c649abc9-4c70-49bb-8b9c-ae527c8aabb0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
