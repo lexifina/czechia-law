@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:16.C.1.2021.1",
+  "docket": "16 C 1/2021-45",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e9c839d7-02e2-44ba-a0e9-0fabae0b30a3",
+  "source_sha256": "334f871391d6d287be047ce4caca68f299368b6fd74eb0e355e8d362eb3ad15c",
+  "source_id": "e9c839d7-02e2-44ba-a0e9-0fabae0b30a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 1/2021-45",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Ivo Mikolajek",
+    "ecli": "ECLI:CZ:OSSY:2021:16.C.1.2021.1",
+    "predmetRizeni": "o zaplacení 17 556,01 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 577 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 1812 z. č. 89/2012 Sb.",
+      "§ 433 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e9c839d7-02e2-44ba-a0e9-0fabae0b30a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
