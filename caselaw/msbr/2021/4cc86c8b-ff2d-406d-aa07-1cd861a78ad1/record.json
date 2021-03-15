@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:112.C.99.2020.1",
+  "docket": "112 C 99/2020-39",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4cc86c8b-ff2d-406d-aa07-1cd861a78ad1",
+  "source_sha256": "2466512cbc6168703b660cfa637d9eedf7670669aa548e54a75538fb82d29a70",
+  "source_id": "4cc86c8b-ff2d-406d-aa07-1cd861a78ad1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 99/2020-39",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ondřej Sekvard, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:112.C.99.2020.1",
+    "predmetRizeni": "zaplacení 2.000 Kč s příslušenstvím - nájemné",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 544 z. č. 89/2012 Sb.",
+      "§ 3074 z. č. 89/2012 Sb.",
+      "§ 236 z. č. 99/1963 Sb.",
+      "§ 676 z. č. 40/1964 Sb.",
+      "§ 51a z. č. 116/1990 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4cc86c8b-ff2d-406d-aa07-1cd861a78ad1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
