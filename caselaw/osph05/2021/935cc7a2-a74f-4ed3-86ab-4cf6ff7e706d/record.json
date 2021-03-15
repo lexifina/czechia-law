@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:20.C.97.2020.1",
+  "docket": "20 C 97/2020-30",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/935cc7a2-a74f-4ed3-86ab-4cf6ff7e706d",
+  "source_sha256": "a9e11fcfb3178a89da4cef9b3d614b106e3e3916e0571059f63351cb5f3a1832",
+  "source_id": "935cc7a2-a74f-4ed3-86ab-4cf6ff7e706d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 97/2020-30",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Andrea Lomozová",
+    "ecli": "ECLI:CZ:OSPH05:2021:20.C.97.2020.1",
+    "predmetRizeni": "O zaplacení 6 608 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/935cc7a2-a74f-4ed3-86ab-4cf6ff7e706d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
