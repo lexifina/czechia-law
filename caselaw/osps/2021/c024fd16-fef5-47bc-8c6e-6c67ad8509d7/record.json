@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:5.C.10.2021.2",
+  "docket": "5 C 10/2021-14",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c024fd16-fef5-47bc-8c6e-6c67ad8509d7",
+  "source_sha256": "845f8cd85a0736b818f96d8f966895237d228f1a2ec70208b743dcf6fa4ee233",
+  "source_id": "c024fd16-fef5-47bc-8c6e-6c67ad8509d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 10/2021-14",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Antonín Pektor",
+    "ecli": "ECLI:CZ:OSPS:2021:5.C.10.2021.2",
+    "predmetRizeni": "540 Kč s přísl.",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-10-01",
+    "klicovaSlova": [
+      "alkoholismus",
+      "peněžité plnění",
+      "regulační poplatek",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 89e z. č. 373/2011 Sb.",
+      "§ 16a z. č. 48/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c024fd16-fef5-47bc-8c6e-6c67ad8509d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
