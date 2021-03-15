@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:15.C.30.2021.1",
+  "docket": "15 C 30/2021-27",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6158ad8b-0ebf-4a8f-80c3-284d8ba17550",
+  "source_sha256": "d904ceff92bae740128004513fe37294fe3d198c5c1d17e790fc6b9b39bc6e2c",
+  "source_id": "6158ad8b-0ebf-4a8f-80c3-284d8ba17550",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 30/2021-27",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Michaela Koblasová",
+    "ecli": "ECLI:CZ:OSTU:2021:15.C.30.2021.1",
+    "predmetRizeni": "zaplacení 21 800 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6158ad8b-0ebf-4a8f-80c3-284d8ba17550"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
