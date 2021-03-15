@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:33.C.38.2021.2",
+  "docket": "33 C 38/2021-21",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36a68242-8ea9-4552-a4c5-dc35c958b632",
+  "source_sha256": "d20fe36904be26eb767752cc4bea4cdbfd5ef38d0fc25614f6a87e870585e196",
+  "source_id": "36a68242-8ea9-4552-a4c5-dc35c958b632",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 38/2021-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Vladimír Dufek",
+    "ecli": "ECLI:CZ:OSMO:2021:33.C.38.2021.2",
+    "predmetRizeni": "2 556 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36a68242-8ea9-4552-a4c5-dc35c958b632"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
