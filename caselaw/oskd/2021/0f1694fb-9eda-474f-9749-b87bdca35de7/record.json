@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:25.C.46.2020.1",
+  "docket": "25 C 46/2020",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f1694fb-9eda-474f-9749-b87bdca35de7",
+  "source_sha256": "550fd15cb8930e666bd71f67963b3f934a072ab4806c2c0ba51d3919cfe54d93",
+  "source_id": "0f1694fb-9eda-474f-9749-b87bdca35de7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 46/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lucie Vybíralová, LL.M.",
+    "ecli": "ECLI:CZ:OSKD:2021:25.C.46.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f1694fb-9eda-474f-9749-b87bdca35de7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
