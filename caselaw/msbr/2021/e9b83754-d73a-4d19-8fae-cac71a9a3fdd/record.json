@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:112.C.14.2021.1",
+  "docket": "112 C 14/2021-27",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e9b83754-d73a-4d19-8fae-cac71a9a3fdd",
+  "source_sha256": "bd716f5814601c0844e0ce625cce12dc049a14a36b8f4315eeb9f5243c69f2a0",
+  "source_id": "e9b83754-d73a-4d19-8fae-cac71a9a3fdd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 14/2021-27",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ondřej Sekvard, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:112.C.14.2021.1",
+    "predmetRizeni": "zaplacení 6.605 Kč s příslušenstvím - příspěvek za nepojištěné vozidlo",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 236 z. č. 99/1963 Sb.",
+      "§ 2302 z. č. 99/1963 Sb.",
+      "§ 85 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e9b83754-d73a-4d19-8fae-cac71a9a3fdd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
