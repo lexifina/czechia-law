@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:32.C.37.2021.2",
+  "docket": "32 C 37/2021-15",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96a4ebda-90f3-463e-b7b6-ad1f53ece01a",
+  "source_sha256": "fd133ebfda57fa4fd26de8a23fd75dd9cb5f23548bae848ddc5b21e8d5e98671",
+  "source_id": "96a4ebda-90f3-463e-b7b6-ad1f53ece01a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 37/2021-15",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jitka Kulichová",
+    "ecli": "ECLI:CZ:OSOV:2021:32.C.37.2021.2",
+    "predmetRizeni": "o zaplacení 9 100 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 517 nař. vl. č. 142/1994 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 3 vyhl. č. 175/2000 Sb.",
+      "§ 760 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96a4ebda-90f3-463e-b7b6-ad1f53ece01a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
