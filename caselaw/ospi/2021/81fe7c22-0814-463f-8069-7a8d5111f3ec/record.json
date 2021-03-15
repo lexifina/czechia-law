@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:3.C.4.2021.1",
+  "docket": "3 C 4/2021-30",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/81fe7c22-0814-463f-8069-7a8d5111f3ec",
+  "source_sha256": "680525845546f8acac4aa38b768247d51e8d610adac15125424532a65f66c53e",
+  "source_id": "81fe7c22-0814-463f-8069-7a8d5111f3ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 4/2021-30",
+    "soud": "Okresní soud v Písku",
+    "autor": "JUDr. Ondřej Mörtl",
+    "ecli": "ECLI:CZ:OSPI:2021:3.C.4.2021.1",
+    "predmetRizeni": "zaplacení 44 925,97 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/81fe7c22-0814-463f-8069-7a8d5111f3ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
