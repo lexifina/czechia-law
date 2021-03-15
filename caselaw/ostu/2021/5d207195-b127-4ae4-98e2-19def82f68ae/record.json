@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:114.C.19.2020.1",
+  "docket": "114 C 19/2020-67",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5d207195-b127-4ae4-98e2-19def82f68ae",
+  "source_sha256": "61b1b46f3f996b8104f7de364bf5f0f2932bd55d53f9359392f491162f7de104",
+  "source_id": "5d207195-b127-4ae4-98e2-19def82f68ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "114 C 19/2020-67",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Irena Šolínová",
+    "ecli": "ECLI:CZ:OSTU:2021:114.C.19.2020.1",
+    "predmetRizeni": "46.700 Kč s přísl. - nájemné",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "oddlužení",
+      "peněžité plnění",
+      "postoupení věci",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2218 z. č. 89/2012 Sb.",
+      "§ 168 z. č. 182/2006 Sb.",
+      "§ 253 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5d207195-b127-4ae4-98e2-19def82f68ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
