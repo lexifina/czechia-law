@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:112.C.118.2019.1",
+  "docket": "112 C 118/2019-103",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7088db95-ff60-4496-b19f-54bf80e99c6c",
+  "source_sha256": "8d72ea0d125e81f77209b357f0b71fe806b12a45fdf0cffe30fb273f9198cd19",
+  "source_id": "7088db95-ff60-4496-b19f-54bf80e99c6c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 118/2019-103",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ondřej Sekvard, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:112.C.118.2019.1",
+    "predmetRizeni": "zaplacení 151.615 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 12a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7088db95-ff60-4496-b19f-54bf80e99c6c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
