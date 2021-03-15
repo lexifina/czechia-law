@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:15.C.57.2021.1",
+  "docket": "15 C 57/2021-17",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bec505e7-2aa3-4e4b-acdd-4e93d9fe84cb",
+  "source_sha256": "7f68aad69e804a6027b49608f0bea4eb4ca51eaf6c7e5363ede39cf58fa46d2e",
+  "source_id": "bec505e7-2aa3-4e4b-acdd-4e93d9fe84cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 57/2021-17",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Eva Drahorádová",
+    "ecli": "ECLI:CZ:OSNA:2021:15.C.57.2021.1",
+    "predmetRizeni": "o zaplacení 25 264,02 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bec505e7-2aa3-4e4b-acdd-4e93d9fe84cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
