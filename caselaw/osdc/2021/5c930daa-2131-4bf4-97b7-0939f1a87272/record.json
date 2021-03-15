@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:18.C.378.2015.10",
+  "docket": "18 C 378/2015-150",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5c930daa-2131-4bf4-97b7-0939f1a87272",
+  "source_sha256": "4ea7be566618ee52f434b678fe467a8c6694c56876b11d47dae423dfbb553734",
+  "source_id": "5c930daa-2131-4bf4-97b7-0939f1a87272",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 378/2015-150",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Červinka",
+    "ecli": "ECLI:CZ:OSDC:2021:18.C.378.2015.10",
+    "predmetRizeni": "zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "náhrada mzdy",
+      "nájem bytu",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 36 z. č. 262/2006 Sb.",
+      "§ 208 z. č. 262/2006 Sb.",
+      "§ 38 z. č. 262/2006 Sb.",
+      "§ 353 z. č. 262/2006 Sb.",
+      "§ 354 z. č. 262/2006 Sb.",
+      "§ 48 z. č. 262/2006 Sb.",
+      "§ 355 z. č. 262/2006 Sb.",
+      "§ 65 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5c930daa-2131-4bf4-97b7-0939f1a87272"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
