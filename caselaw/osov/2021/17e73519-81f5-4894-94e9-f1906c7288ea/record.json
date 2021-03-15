@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:32.C.42.2021.2",
+  "docket": "32 C 42/2021-17",
+  "date": "2021-03-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/17e73519-81f5-4894-94e9-f1906c7288ea",
+  "source_sha256": "e68c0cb4511c4c5839b7d935f8adf40d7767cb60d69ad07bc0f83cc04205dde6",
+  "source_id": "17e73519-81f5-4894-94e9-f1906c7288ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 42/2021-17",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jitka Kulichová",
+    "ecli": "ECLI:CZ:OSOV:2021:32.C.42.2021.2",
+    "predmetRizeni": "o zaplacení 3 780 Kč s příslušenstvím",
+    "datumVydani": "2021-03-15",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/17e73519-81f5-4894-94e9-f1906c7288ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
