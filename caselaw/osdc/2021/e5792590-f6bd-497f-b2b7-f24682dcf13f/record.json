@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:125.C.4.2020.1",
+  "docket": "125 C 4/2020-67",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e5792590-f6bd-497f-b2b7-f24682dcf13f",
+  "source_sha256": "54f865db45b1d128a35e4b570f0f4b00fe0d0204a5e1750b84e0b04e2c0bc60b",
+  "source_id": "e5792590-f6bd-497f-b2b7-f24682dcf13f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "125 C 4/2020-67",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Andrea Pěničková",
+    "ecli": "ECLI:CZ:OSDC:2021:125.C.4.2020.1",
+    "predmetRizeni": "zaplacení [částka] s přísl. + zaplacení [částka]",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-09-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e5792590-f6bd-497f-b2b7-f24682dcf13f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
