@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:27.C.355.2020.1",
+  "docket": "27 C 355/2020-22",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0a81a6df-6211-4656-8760-a819a1697834",
+  "source_sha256": "d93090d876a55af1b0a7d6e8d1380fc19ab8e751154d10dd94157267b02843c0",
+  "source_id": "0a81a6df-6211-4656-8760-a819a1697834",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 355/2020-22",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Roman Hlaváč",
+    "ecli": "ECLI:CZ:OSKI:2021:27.C.355.2020.1",
+    "predmetRizeni": "rozvod",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0a81a6df-6211-4656-8760-a819a1697834"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
