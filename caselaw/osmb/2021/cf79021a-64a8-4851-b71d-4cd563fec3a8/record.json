@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:20.C.47.2021.1",
+  "docket": "20 C 47/2021-20",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cf79021a-64a8-4851-b71d-4cd563fec3a8",
+  "source_sha256": "0b9cdabd9726d7ea1fb9b8802caaf6e12801ee789714feacd7f3ab84e94f0faa",
+  "source_id": "cf79021a-64a8-4851-b71d-4cd563fec3a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 47/2021-20",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Petra Svobodová",
+    "ecli": "ECLI:CZ:OSMB:2021:20.C.47.2021.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cf79021a-64a8-4851-b71d-4cd563fec3a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
