@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:16.C.16.2021.1",
+  "docket": "16 C 16/2021-18",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f00be50-b0b2-4fe1-8fc1-cb1587826916",
+  "source_sha256": "5cf7f0760f39b2cf811c9f3b67a58d1e15d04e077db8c40c1d359d271874d5e4",
+  "source_id": "1f00be50-b0b2-4fe1-8fc1-cb1587826916",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 16/2021-18",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Pavla Novotná",
+    "ecli": "ECLI:CZ:OSTU:2021:16.C.16.2021.1",
+    "predmetRizeni": "zaplacení 9 120 Kč s příslušenstvím - jízdné",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f00be50-b0b2-4fe1-8fc1-cb1587826916"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
