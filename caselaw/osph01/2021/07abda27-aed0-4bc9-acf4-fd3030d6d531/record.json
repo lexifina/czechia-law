@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:41.C.201.2019.1",
+  "docket": "41 C 201/2019-96",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07abda27-aed0-4bc9-acf4-fd3030d6d531",
+  "source_sha256": "f6d3d4232368f9728804078e8cf9e143fcfd6aaa7c259ed3232af7509a6ee8d7",
+  "source_id": "07abda27-aed0-4bc9-acf4-fd3030d6d531",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 201/2019-96",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Hana Marsová",
+    "ecli": "ECLI:CZ:OSPH01:2021:41.C.201.2019.1",
+    "predmetRizeni": "o náhradu imateriální újmy",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "nemajetková újma",
+      "peněžité plnění",
+      "postoupení věci",
+      "právní domněnka",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 5 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07abda27-aed0-4bc9-acf4-fd3030d6d531"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
