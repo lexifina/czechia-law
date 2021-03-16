@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:12.C.2.2021.1",
+  "docket": "12 C 2/2021-24",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c7918f6-87a7-4193-b302-010589215fb1",
+  "source_sha256": "c1ff1603dee5e6bb602504af7d1447e55168265f5b205f1d6a64c8883be44503",
+  "source_id": "2c7918f6-87a7-4193-b302-010589215fb1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 2/2021-24",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Martin Masár",
+    "ecli": "ECLI:CZ:OSLT:2021:12.C.2.2021.1",
+    "predmetRizeni": "O zaplacení 2 581 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c7918f6-87a7-4193-b302-010589215fb1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
