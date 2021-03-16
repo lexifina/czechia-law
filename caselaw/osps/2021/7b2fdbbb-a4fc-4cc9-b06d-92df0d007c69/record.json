@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:9.C.2.2021.3",
+  "docket": "9 C 2/2021-21",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b2fdbbb-a4fc-4cc9-b06d-92df0d007c69",
+  "source_sha256": "d7b2e8099895516010e867ad49306be6134809286e5d4b04d198598b8ba29b63",
+  "source_id": "7b2fdbbb-a4fc-4cc9-b06d-92df0d007c69",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 2/2021-21",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPS:2021:9.C.2.2021.3",
+    "predmetRizeni": "35 450 Kč s přísl.",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 45/4 z. č. 361/2000 Sb.",
+      "§ 45/1 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b2fdbbb-a4fc-4cc9-b06d-92df0d007c69"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
