@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:3.C.232.2020.1",
+  "docket": "3 C 232/2020-49",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d70566c1-4a82-4712-8098-f4b124097f1f",
+  "source_sha256": "09e89d1974f0ca3ac2e92fb2fc450e82858800e09ccee935f2ab838b699ddfc2",
+  "source_id": "d70566c1-4a82-4712-8098-f4b124097f1f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 232/2020-49",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Andrea Růžová",
+    "ecli": "ECLI:CZ:OSVY:2021:3.C.232.2020.1",
+    "predmetRizeni": "zaplacení částky 6 670 Kč s příslušenstvím - příspěvek",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d70566c1-4a82-4712-8098-f4b124097f1f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
