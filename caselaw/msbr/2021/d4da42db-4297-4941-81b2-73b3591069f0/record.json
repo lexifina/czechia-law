@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:20.C.143.2020.1",
+  "docket": "20 C 143/2020-52",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d4da42db-4297-4941-81b2-73b3591069f0",
+  "source_sha256": "c9ab2549d7c6301bf3e7b8a6308d0da9d22c23ecf7eb273be1aa8cbfd1fc1c85",
+  "source_id": "d4da42db-4297-4941-81b2-73b3591069f0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 143/2020-52",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Marta Mandátová",
+    "ecli": "ECLI:CZ:MSBR:2021:20.C.143.2020.1",
+    "predmetRizeni": "zaplacení 15.000 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§ 451 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d4da42db-4297-4941-81b2-73b3591069f0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
