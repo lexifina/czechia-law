@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:8.C.103.2020.1",
+  "docket": "8 C 103/2020-38",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d225e180-01c0-44b7-a32f-9cf830e5666c",
+  "source_sha256": "e0fd430a3477ed16c1fc669341deb86e5c69b8a7a5a83103bcf724ab423aeda3",
+  "source_id": "d225e180-01c0-44b7-a32f-9cf830e5666c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 103/2020-38",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Jana Kowolowská",
+    "ecli": "ECLI:CZ:OSBV:2021:8.C.103.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "církev"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d225e180-01c0-44b7-a32f-9cf830e5666c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
