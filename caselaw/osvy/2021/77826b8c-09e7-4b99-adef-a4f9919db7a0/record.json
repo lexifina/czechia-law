@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:4.C.250.2020.1",
+  "docket": "4 C 250/2020-46",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/77826b8c-09e7-4b99-adef-a4f9919db7a0",
+  "source_sha256": "5e6139b1904644a2ddcf982778b88b0363fd11deaaabe7a6a777e394673780d5",
+  "source_id": "77826b8c-09e7-4b99-adef-a4f9919db7a0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 250/2020-46",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2021:4.C.250.2020.1",
+    "predmetRizeni": "zaplacení 80 467,84 Kč s příslušenstvím-úvěr",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 499 z. č. 519/1991 Sb.",
+      "§ 506 z. č. 519/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/77826b8c-09e7-4b99-adef-a4f9919db7a0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
