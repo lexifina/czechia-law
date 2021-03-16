@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:12.C.28.2021.1",
+  "docket": "12 C 28/2021-17",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9494754d-4f19-4a2f-9347-96dcd2cf82d1",
+  "source_sha256": "0e9a3a55a984f3ebbde64fd50f90dca381d2d8edc5f310670c8abe3174f2e25b",
+  "source_id": "9494754d-4f19-4a2f-9347-96dcd2cf82d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 28/2021-17",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Jun lišková",
+    "ecli": "ECLI:CZ:OSBN:2021:12.C.28.2021.1",
+    "predmetRizeni": "o zaplacení 4 140 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "zastavení exekuce / výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9494754d-4f19-4a2f-9347-96dcd2cf82d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
