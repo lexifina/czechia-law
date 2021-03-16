@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:19.C.410.2019.1",
+  "docket": "19 C 410/2019-73",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/14c4f918-ccc8-471a-87ab-ed1af312b423",
+  "source_sha256": "d5280ee42217c43edee679c6d87b6f0483c71dd4b55a7372cb2266d00c81102e",
+  "source_id": "14c4f918-ccc8-471a-87ab-ed1af312b423",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 410/2019-73",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tereza Krojová",
+    "ecli": "ECLI:CZ:OSPH06:2021:19.C.410.2019.1",
+    "predmetRizeni": "o zaplacení částky 40 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-12-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2293 z. č. 89/2012 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 2254 z. č. 89/2012 Sb.",
+      "§ 2267 z. č. 89/2012 Sb.",
+      "§ 2208 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/14c4f918-ccc8-471a-87ab-ed1af312b423"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
