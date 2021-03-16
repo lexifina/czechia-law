@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:12.C.55.2020.1",
+  "docket": "12 C 55/2020-82",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c5ff554-1de4-4ccb-9fa1-600df21be3d3",
+  "source_sha256": "7359f19e93ad8a216383c3be787b8a65ce043d824723023f81610cd46f166fc0",
+  "source_id": "4c5ff554-1de4-4ccb-9fa1-600df21be3d3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 55/2020-82",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Zdeněk Tichý",
+    "ecli": "ECLI:CZ:OSPE:2021:12.C.55.2020.1",
+    "predmetRizeni": "platební rozkaz o částku [částka] s přísl.",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 2018 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c5ff554-1de4-4ccb-9fa1-600df21be3d3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
