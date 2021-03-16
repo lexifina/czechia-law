@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:17.C.121.2021.1",
+  "docket": "17 C 121/2021-26",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce0d970a-e94d-4d5c-aa30-051c9c4b6e5f",
+  "source_sha256": "51c2fa37a1e5be7d2c373df1c2266d95b69beb156550b5fb32f2ba1e558bf9e5",
+  "source_id": "ce0d970a-e94d-4d5c-aa30-051c9c4b6e5f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 121/2021-26",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jiří Křivanec",
+    "ecli": "ECLI:CZ:OSCB:2021:17.C.121.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce0d970a-e94d-4d5c-aa30-051c9c4b6e5f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
