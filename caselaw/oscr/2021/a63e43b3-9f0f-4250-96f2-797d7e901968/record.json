@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:8.C.263.2019.1",
+  "docket": "8 C 263/2019-44",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a63e43b3-9f0f-4250-96f2-797d7e901968",
+  "source_sha256": "b93a3581b0378e88c964fbab17d93fbf8f27ce5b8727b091b5f0208acaec31a1",
+  "source_id": "a63e43b3-9f0f-4250-96f2-797d7e901968",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 263/2019-44",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Antonín Libra",
+    "ecli": "ECLI:CZ:OSCR:2021:8.C.263.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "pěstounská péče",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a63e43b3-9f0f-4250-96f2-797d7e901968"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
