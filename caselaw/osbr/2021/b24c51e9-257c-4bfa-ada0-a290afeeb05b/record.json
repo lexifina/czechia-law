@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:11.C.6.2018.1",
+  "docket": "11 C 6/2018-126",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b24c51e9-257c-4bfa-ada0-a290afeeb05b",
+  "source_sha256": "47f482e2a86067416b8d6ee217267e0a4b4c439784b142d417bd12ce21252f5d",
+  "source_id": "b24c51e9-257c-4bfa-ada0-a290afeeb05b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 6/2018-126",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Markéta Lanzová",
+    "ecli": "ECLI:CZ:OSBR:2021:11.C.6.2018.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b24c51e9-257c-4bfa-ada0-a290afeeb05b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
