@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:22.C.296.2020.1",
+  "docket": "22 C 296/2020-21",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0092b7f5-ba6f-4d26-9f12-6b94a769ffab",
+  "source_sha256": "ce9b64d8fd881d2c6b32ec5289cb04377a7f433d540f12280aab4842daeb6881",
+  "source_id": "0092b7f5-ba6f-4d26-9f12-6b94a769ffab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 296/2020-21",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Kateřina Krůpová",
+    "ecli": "ECLI:CZ:OSHO:2021:22.C.296.2020.1",
+    "predmetRizeni": "zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§  z. č. 227/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0092b7f5-ba6f-4d26-9f12-6b94a769ffab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
