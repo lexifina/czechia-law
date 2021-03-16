@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:217.C.229.2020.1",
+  "docket": "217 C 229/2020-36",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bb3c672f-76e0-43dd-bf77-a2d5628558de",
+  "source_sha256": "0a6fc71372302202b9c9501db3e43817c04963f5d5bdbb2a6f9354c8f3c2fa90",
+  "source_id": "bb3c672f-76e0-43dd-bf77-a2d5628558de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "217 C 229/2020-36",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Petra Nováková",
+    "ecli": "ECLI:CZ:OSKD:2021:217.C.229.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 1721 z. č. 89/2012 Sb.",
+      "§ 1723 z. č. 89/2012 Sb.",
+      "§ 1908 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb3c672f-76e0-43dd-bf77-a2d5628558de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
