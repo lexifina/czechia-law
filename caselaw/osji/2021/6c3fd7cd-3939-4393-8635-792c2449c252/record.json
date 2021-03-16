@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:24.C.339.2020.1",
+  "docket": "24 C 339/2020-16",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c3fd7cd-3939-4393-8635-792c2449c252",
+  "source_sha256": "b3cf25977fa69a0e9c3a5ab7dd0fe706424473a9c5afbfd9bb437333d2b257bc",
+  "source_id": "6c3fd7cd-3939-4393-8635-792c2449c252",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 339/2020-16",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. et Mgr. Bc. Milan Boháček, M.A.",
+    "ecli": "ECLI:CZ:OSJI:2021:24.C.339.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 389 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c3fd7cd-3939-4393-8635-792c2449c252"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
