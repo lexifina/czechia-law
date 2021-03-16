@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:57.C.39.2021.1",
+  "docket": "57 C 39/2021-16",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a35a99c5-0609-44a4-96b1-80853778ee4b",
+  "source_sha256": "b4580f61021ba3d18e190dd21924b63d6c588628128c62dee6fcb9b803741ffa",
+  "source_id": "a35a99c5-0609-44a4-96b1-80853778ee4b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 39/2021-16",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Renáta Honzíková",
+    "ecli": "ECLI:CZ:OSPH04:2021:57.C.39.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a35a99c5-0609-44a4-96b1-80853778ee4b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
