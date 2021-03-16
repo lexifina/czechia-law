@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:2.C.161.2020.1",
+  "docket": "2 C 161/2020-106",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aaa7433f-5cd9-4bf4-8878-1d53fba034c6",
+  "source_sha256": "d7d86c80f17dee22a510dc4ec753fb6b5ed7b610f3d71d8ff830e3d10f62f4f4",
+  "source_id": "aaa7433f-5cd9-4bf4-8878-1d53fba034c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 161/2020-106",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Martina Štorkánová",
+    "ecli": "ECLI:CZ:OSTA:2021:2.C.161.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 35 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "dražba",
+      "peněžité plnění",
+      "převod nemovitostí",
+      "smlouva kupní",
+      "smlouva zprostředkovatelská",
+      "veřejná dražba",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2445 z. č. 89/2012 Sb.",
+      "§ 2447 z. č. 89/2012 Sb.",
+      "§ 2448 z. č. 89/2012 Sb.",
+      "§ 2454 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aaa7433f-5cd9-4bf4-8878-1d53fba034c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
