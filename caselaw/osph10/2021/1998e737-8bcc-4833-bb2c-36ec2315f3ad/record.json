@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:46.C.441.2020.1",
+  "docket": "46 C 441/2020-19",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1998e737-8bcc-4833-bb2c-36ec2315f3ad",
+  "source_sha256": "a7c85ed79d7c425e5359785f7418c5807b16d66ce39c6a406213c5c576a201a5",
+  "source_id": "1998e737-8bcc-4833-bb2c-36ec2315f3ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 441/2020-19",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Helena Kolbabová",
+    "ecli": "ECLI:CZ:OSPH10:2021:46.C.441.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1998e737-8bcc-4833-bb2c-36ec2315f3ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
