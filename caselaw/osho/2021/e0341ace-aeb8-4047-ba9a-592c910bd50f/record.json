@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:6.C.3.2021.1",
+  "docket": "6 C 3/2021-28",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e0341ace-aeb8-4047-ba9a-592c910bd50f",
+  "source_sha256": "441621b22d77ee1699c5a5f27efed4463c2a1a2fbe6e8071ebce79ee92659519",
+  "source_id": "e0341ace-aeb8-4047-ba9a-592c910bd50f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 3/2021-28",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Olga Houžvičková",
+    "ecli": "ECLI:CZ:OSHO:2021:6.C.3.2021.1",
+    "predmetRizeni": "zaplacení 29 600 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e0341ace-aeb8-4047-ba9a-592c910bd50f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
