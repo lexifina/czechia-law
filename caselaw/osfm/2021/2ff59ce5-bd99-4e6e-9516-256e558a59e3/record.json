@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:8.C.388.2020.1",
+  "docket": "8 C 388/2020-17",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ff59ce5-bd99-4e6e-9516-256e558a59e3",
+  "source_sha256": "aebdc9f05f1c09fa33fbf1166edd268aebf18357f4f23b9d99386e72b1688609",
+  "source_id": "2ff59ce5-bd99-4e6e-9516-256e558a59e3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 388/2020-17",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Radomír Josiek",
+    "ecli": "ECLI:CZ:OSFM:2021:8.C.388.2020.1",
+    "predmetRizeni": "o zaplacení 10 700 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-08-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2387 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ff59ce5-bd99-4e6e-9516-256e558a59e3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
