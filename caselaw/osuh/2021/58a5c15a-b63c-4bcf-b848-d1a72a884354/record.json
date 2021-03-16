@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:15.C.275.2020.1",
+  "docket": "15 C 275/2020-83",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/58a5c15a-b63c-4bcf-b848-d1a72a884354",
+  "source_sha256": "2af59facad1c067b09a77d6f4e4de73f8606e30a726166fbcc75b0b6b83dc7ce",
+  "source_id": "58a5c15a-b63c-4bcf-b848-d1a72a884354",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 275/2020-83",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Martina Jagošová",
+    "ecli": "ECLI:CZ:OSUH:2021:15.C.275.2020.1",
+    "predmetRizeni": "130.356 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "evropský platební rozkaz",
+      "peněžité plnění",
+      "rozsudek pro uznání",
+      "rozsudek pro zmeškání",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/58a5c15a-b63c-4bcf-b848-d1a72a884354"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
