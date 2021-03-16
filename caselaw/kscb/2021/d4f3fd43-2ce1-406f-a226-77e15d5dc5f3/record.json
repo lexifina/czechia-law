@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:KSCB:2021:12.EC.2.2021.1",
+  "docket": "12 EC 2/2021-44",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d4f3fd43-2ce1-406f-a226-77e15d5dc5f3",
+  "source_sha256": "aa9497f4d470d37313b05a317fad6ceb855305c31ecf3edd2519610b14ff5a06",
+  "source_id": "d4f3fd43-2ce1-406f-a226-77e15d5dc5f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 EC 2/2021-44",
+    "soud": "Krajský soud v Českých Budějovicích",
+    "autor": "Mgr. Jan Jursík",
+    "ecli": "ECLI:CZ:KSCB:2021:12.EC.2.2021.1",
+    "predmetRizeni": "pro [částka] s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "autorské dílo",
+      "peněžité plnění",
+      "smlouva licenční"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2371 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d4f3fd43-2ce1-406f-a226-77e15d5dc5f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
