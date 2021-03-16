@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:4.C.44.2021.1",
+  "docket": "4 C 44/2021-17",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/429f90ca-7399-4551-9ab9-6b4af0eb93c2",
+  "source_sha256": "a5b422adb92d257f188837dc871dddb33661abea09c058ee5d320ded7180561f",
+  "source_id": "429f90ca-7399-4551-9ab9-6b4af0eb93c2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 44/2021-17",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Ivana Ondryášová",
+    "ecli": "ECLI:CZ:OSJE:2021:4.C.44.2021.1",
+    "predmetRizeni": "2 827 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2758/1 z. č. 89/2012 Sb.",
+      "§ 2782/1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/429f90ca-7399-4551-9ab9-6b4af0eb93c2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
