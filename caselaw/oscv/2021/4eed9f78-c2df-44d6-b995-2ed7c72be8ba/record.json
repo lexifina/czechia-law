@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:28.C.182.2020.2",
+  "docket": "28 C 182/2020-45",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4eed9f78-c2df-44d6-b995-2ed7c72be8ba",
+  "source_sha256": "d151cb57aa94446b815d6adac755353235b4a501a166b09a1697db67c5412f00",
+  "source_id": "4eed9f78-c2df-44d6-b995-2ed7c72be8ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 182/2020-45",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Šárka Houdková poláková",
+    "ecli": "ECLI:CZ:OSCV:2021:28.C.182.2020.2",
+    "predmetRizeni": "zaplacení 12 300 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "investiční fond",
+      "postoupení pohledávky",
+      "ručení",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4eed9f78-c2df-44d6-b995-2ed7c72be8ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
