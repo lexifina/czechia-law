@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:8.C.43.2021.2",
+  "docket": "8 C 43/2021-10",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40a6f7d2-f1dc-4587-825f-59d230ae688c",
+  "source_sha256": "32698ff663937cd849a06b90f28a7b93c707259f324126997ea2bb00a709db71",
+  "source_id": "40a6f7d2-f1dc-4587-825f-59d230ae688c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 43/2021-10",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Taťána Hodaňová",
+    "ecli": "ECLI:CZ:OSNJ:2021:8.C.43.2021.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "jízdné",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40a6f7d2-f1dc-4587-825f-59d230ae688c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
