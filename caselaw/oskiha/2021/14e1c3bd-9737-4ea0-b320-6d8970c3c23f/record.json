@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:106.C.33.2021.1",
+  "docket": "106 C 33/2021-79",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/14e1c3bd-9737-4ea0-b320-6d8970c3c23f",
+  "source_sha256": "cfe243ac3f5cfc2e0f4b628aae1dd375bbcabe58425afb3dafc6051da2b034af",
+  "source_id": "14e1c3bd-9737-4ea0-b320-6d8970c3c23f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 33/2021-79",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Hermannová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:106.C.33.2021.1",
+    "predmetRizeni": "1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "korporace",
+      "postoupení pohledávky",
+      "poučovací povinnost soudu",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/14e1c3bd-9737-4ea0-b320-6d8970c3c23f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
