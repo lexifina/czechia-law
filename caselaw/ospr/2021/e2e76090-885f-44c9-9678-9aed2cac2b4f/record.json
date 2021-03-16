@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:10.C.15.2021.1",
+  "docket": "10 C 15/2021-16",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e2e76090-885f-44c9-9678-9aed2cac2b4f",
+  "source_sha256": "43bdd02efb33a4f9939a25871f64940f6112aec72f72125f90715e4b75a0bc16",
+  "source_id": "e2e76090-885f-44c9-9678-9aed2cac2b4f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 15/2021-16",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2021:10.C.15.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-09-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e2e76090-885f-44c9-9678-9aed2cac2b4f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
