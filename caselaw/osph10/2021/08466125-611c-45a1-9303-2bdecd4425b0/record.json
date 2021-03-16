@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:16.C.1.2021.1",
+  "docket": "16 C 1/2021-40",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08466125-611c-45a1-9303-2bdecd4425b0",
+  "source_sha256": "38dcffbcef210fa27a90af9e592de40c50c92ba1ecee2889015c455b6f35e1cf",
+  "source_id": "08466125-611c-45a1-9303-2bdecd4425b0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 1/2021-40",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Jana Hustedová",
+    "ecli": "ECLI:CZ:OSPH10:2021:16.C.1.2021.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "náhrada mzdy",
+      "peněžité plnění",
+      "výpověď z pracovního poměru"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 109 z. č. 262/2006 Sb.",
+      "§ 69 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08466125-611c-45a1-9303-2bdecd4425b0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
