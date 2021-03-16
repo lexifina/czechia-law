@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:28.C.199.2020.1",
+  "docket": "28 C 199/2020-64",
+  "date": "2021-03-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d39d0e77-5a03-4f88-b773-6a104e3bd13c",
+  "source_sha256": "c3c82523c60846c3997ba66dfcf58edf996b43cb0eb8191e7fce63cc1e5c5037",
+  "source_id": "d39d0e77-5a03-4f88-b773-6a104e3bd13c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 199/2020-64",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Šárka Houdková poláková",
+    "ecli": "ECLI:CZ:OSCV:2021:28.C.199.2020.1",
+    "predmetRizeni": "zaplacení 11 160 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-03-16",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d39d0e77-5a03-4f88-b773-6a104e3bd13c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
