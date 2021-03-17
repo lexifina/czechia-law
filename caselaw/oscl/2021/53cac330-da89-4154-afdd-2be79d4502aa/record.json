@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:36.C.75.2020.1",
+  "docket": "36 C 75/2020-28",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/53cac330-da89-4154-afdd-2be79d4502aa",
+  "source_sha256": "3ab25f84a650c32bf653d398861d450e9e4fcccfd9d35e3875948521efd703ba",
+  "source_id": "53cac330-da89-4154-afdd-2be79d4502aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 75/2020-28",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Alena Turaiová",
+    "ecli": "ECLI:CZ:OSCL:2021:36.C.75.2020.1",
+    "predmetRizeni": "výživné na neprovdanou matku",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "porod",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 922 z. č. 89/2012 Sb.",
+      "§ 920 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/53cac330-da89-4154-afdd-2be79d4502aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
