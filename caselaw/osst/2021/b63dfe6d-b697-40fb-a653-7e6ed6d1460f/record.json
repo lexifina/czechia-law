@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:4.C.48.2021.1",
+  "docket": "4 C 48/2021-18",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b63dfe6d-b697-40fb-a653-7e6ed6d1460f",
+  "source_sha256": "e6922a65fc9c3abc6a5078a1161764afbb6ffadfd7cf38c01667adef3e6c728d",
+  "source_id": "b63dfe6d-b697-40fb-a653-7e6ed6d1460f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 48/2021-18",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "Mgr. Dana Chromá",
+    "ecli": "ECLI:CZ:OSST:2021:4.C.48.2021.1",
+    "predmetRizeni": "O zaplacení 1 495 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b63dfe6d-b697-40fb-a653-7e6ed6d1460f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
