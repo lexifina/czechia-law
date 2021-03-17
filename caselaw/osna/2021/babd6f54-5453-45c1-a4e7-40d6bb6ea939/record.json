@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:58.C.5.2020.1",
+  "docket": "58 C 5/2020-66",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/babd6f54-5453-45c1-a4e7-40d6bb6ea939",
+  "source_sha256": "8c18a4f1e63edbc1141a0b50de5e61e3209b0e5ae7062f628c9f98c591eab17b",
+  "source_id": "babd6f54-5453-45c1-a4e7-40d6bb6ea939",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "58 C 5/2020-66",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Milan Baudyš",
+    "ecli": "ECLI:CZ:OSNA:2021:58.C.5.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 110 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/babd6f54-5453-45c1-a4e7-40d6bb6ea939"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
