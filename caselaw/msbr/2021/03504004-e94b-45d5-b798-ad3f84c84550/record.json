@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.252.2020.1",
+  "docket": "21 C 252/2020-31",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03504004-e94b-45d5-b798-ad3f84c84550",
+  "source_sha256": "43ea88298e781851eb5d87f3bf28bcb1f367d43ea90be5ab3c7318b0462afe86",
+  "source_id": "03504004-e94b-45d5-b798-ad3f84c84550",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 252/2020-31",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.252.2020.1",
+    "predmetRizeni": "zaplacení 8.107 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "neplatnost právního jednání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 634/1992 Sb.",
+      "§ 586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03504004-e94b-45d5-b798-ad3f84c84550"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
