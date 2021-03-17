@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:12.C.31.2021.1",
+  "docket": "12 C 31/2021-12",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba3752eb-eec7-44f9-b640-2eb2cebb30d0",
+  "source_sha256": "9871e1f9420588678f8c4fcd6eda8bcf4a658d96bd49d5b07a3284da80fd4ae0",
+  "source_id": "ba3752eb-eec7-44f9-b640-2eb2cebb30d0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 31/2021-12",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Ivana Lukášová",
+    "ecli": "ECLI:CZ:OSCL:2021:12.C.31.2021.1",
+    "predmetRizeni": "O zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba3752eb-eec7-44f9-b640-2eb2cebb30d0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
