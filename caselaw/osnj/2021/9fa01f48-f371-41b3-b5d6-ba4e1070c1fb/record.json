@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:17.C.210.2020.6",
+  "docket": "17 C 210/2020-21",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9fa01f48-f371-41b3-b5d6-ba4e1070c1fb",
+  "source_sha256": "ee865497862b5f930dfa58b77f576b7e72d4bd67a76fea8bf7246660db03df4a",
+  "source_id": "9fa01f48-f371-41b3-b5d6-ba4e1070c1fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 210/2020-21",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jana Fejtová",
+    "ecli": "ECLI:CZ:OSNJ:2021:17.C.210.2020.6",
+    "predmetRizeni": "O zaplacení 11 432 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9fa01f48-f371-41b3-b5d6-ba4e1070c1fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
