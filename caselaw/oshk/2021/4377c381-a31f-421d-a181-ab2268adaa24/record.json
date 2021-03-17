@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:21.C.7.2021.1",
+  "docket": "21 C 7/2021-17",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4377c381-a31f-421d-a181-ab2268adaa24",
+  "source_sha256": "3e49a48ff620574db6d3472ff351ecf4618c44b81660a7f1a25aae09a392d53d",
+  "source_id": "4377c381-a31f-421d-a181-ab2268adaa24",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 7/2021-17",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Markéta Šubová",
+    "ecli": "ECLI:CZ:OSHK:2021:21.C.7.2021.1",
+    "predmetRizeni": "o zaplacení částky 5 935 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4377c381-a31f-421d-a181-ab2268adaa24"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
