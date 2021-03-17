@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:10.C.34.2021.1",
+  "docket": "10 C 34/2021-38",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40dcfad8-ee92-4e0e-bcac-b65bfc298792",
+  "source_sha256": "2f7645d55c13e63c263e618df183b74f306509057db6be487fe7b39246fbc5b3",
+  "source_id": "40dcfad8-ee92-4e0e-bcac-b65bfc298792",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 34/2021-38",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Petr Šilhan",
+    "ecli": "ECLI:CZ:OSLN:2021:10.C.34.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40dcfad8-ee92-4e0e-bcac-b65bfc298792"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
