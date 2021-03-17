@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:18.C.8.2020.1",
+  "docket": "18 C 8/2020-77",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5d5dc8e5-ed2f-4088-95c8-8ffb9ade0a08",
+  "source_sha256": "062be4a51d0d3357fb1c304d42000fa1eb0ad35559d049bf37b81f84095d0f8e",
+  "source_id": "5d5dc8e5-ed2f-4088-95c8-8ffb9ade0a08",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 8/2020-77",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Hanáková",
+    "ecli": "ECLI:CZ:MSBR:2021:18.C.8.2020.1",
+    "predmetRizeni": "určení výše nájemného",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "nájem bytu",
+      "právo užívání",
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 3074 z. č. 89/2012 Sb.",
+      "§ 696 z. č. 89/2012 Sb.",
+      "§ 2249 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5d5dc8e5-ed2f-4088-95c8-8ffb9ade0a08"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
