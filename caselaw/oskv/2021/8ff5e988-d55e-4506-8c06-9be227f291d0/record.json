@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:19.C.36.2021.1",
+  "docket": "19 C 36/2021-12",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ff5e988-d55e-4506-8c06-9be227f291d0",
+  "source_sha256": "9fb0d54d31444350532a6ce0fbb533d3a3c049d614f5c9fb5c99482f5311ae9a",
+  "source_id": "8ff5e988-d55e-4506-8c06-9be227f291d0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 36/2021-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Aleš Fikker",
+    "ecli": "ECLI:CZ:OSKV:2021:19.C.36.2021.1",
+    "predmetRizeni": "24.473 Kč / pojistné",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-10-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ff5e988-d55e-4506-8c06-9be227f291d0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
