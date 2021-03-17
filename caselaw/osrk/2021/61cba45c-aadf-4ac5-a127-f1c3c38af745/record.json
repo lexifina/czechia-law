@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:9.C.95.2020.1",
+  "docket": "9 C 95/2020-15",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/61cba45c-aadf-4ac5-a127-f1c3c38af745",
+  "source_sha256": "5cc1b9efa96512dea6cae0fd277cd4fe6de1e40d17676150d9378540e65a8dea",
+  "source_id": "61cba45c-aadf-4ac5-a127-f1c3c38af745",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 95/2020-15",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. et Mgr. Lucie Hrůšová",
+    "ecli": "ECLI:CZ:OSRK:2021:9.C.95.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/61cba45c-aadf-4ac5-a127-f1c3c38af745"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
