@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:7.C.28.2021.2",
+  "docket": "7 C 28/2021-15",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4b05bb9-2084-4fc7-bd2f-17a2da721c7c",
+  "source_sha256": "e5e4010a57c0183d8be2bea1d4100dd6eb061bf321dde3e9db9bc3fe4d186bd9",
+  "source_id": "a4b05bb9-2084-4fc7-bd2f-17a2da721c7c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 28/2021-15",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Silvie Slaná",
+    "ecli": "ECLI:CZ:OSNJ:2021:7.C.28.2021.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/94 Sb.",
+      "§ 18a z. č. 111/94 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4b05bb9-2084-4fc7-bd2f-17a2da721c7c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
