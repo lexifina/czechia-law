@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:26.C.138.2020.1",
+  "docket": "26 C 138/2020-12",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6458f901-8284-4ecf-93f1-6fb7f5cb08ca",
+  "source_sha256": "143e1aa453c166b1bb2067d47ea45e7b5116dfa01b1f51dd729a8eb65bc96d58",
+  "source_id": "6458f901-8284-4ecf-93f1-6fb7f5cb08ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 138/2020-12",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Petr Hoček",
+    "ecli": "ECLI:CZ:OSLI:2021:26.C.138.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 2 937,07 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6458f901-8284-4ecf-93f1-6fb7f5cb08ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
