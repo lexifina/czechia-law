@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+  "ecli": "ECLI:CZ:OSVSVM:2021:13.C.204.2020.1",
+  "docket": "13 C 204/2020-42",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c6d087e-f0ae-4058-9760-b5ce3b89a7b7",
+  "source_sha256": "424222a405937938a29a937e49e9b788c6ed117f3781c574dc9231613cd7238e",
+  "source_id": "8c6d087e-f0ae-4058-9760-b5ce3b89a7b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 204/2020-42",
+    "soud": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+    "autor": "Mgr. Hana Kohoutková",
+    "ecli": "ECLI:CZ:OSVSVM:2021:13.C.204.2020.1",
+    "predmetRizeni": "O zaplacení 13 700 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c6d087e-f0ae-4058-9760-b5ce3b89a7b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
