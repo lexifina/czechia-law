@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:14.C.7.2021.1",
+  "docket": "14 C 7/2021-20",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc415f09-1bad-4ecc-9bdd-dcb2c2a50f06",
+  "source_sha256": "7ca627353da8f7df43dd12553749d79e9f2512eaa299a45d0dff32213d9a887c",
+  "source_id": "fc415f09-1bad-4ecc-9bdd-dcb2c2a50f06",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 7/2021-20",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Magda Mocová",
+    "ecli": "ECLI:CZ:OSKO:2021:14.C.7.2021.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc415f09-1bad-4ecc-9bdd-dcb2c2a50f06"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
