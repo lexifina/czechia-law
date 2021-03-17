@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:11.C.64.2020.1",
+  "docket": "11 C 64/2020-125",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59e89fa5-2b26-4575-962e-08aa57b0ff00",
+  "source_sha256": "a15c73b28480f1f8fafd784574685d98147a9e26fd0789e2d49dc7254ac57b4a",
+  "source_id": "59e89fa5-2b26-4575-962e-08aa57b0ff00",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 64/2020-125",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "Mgr. Tomáš Chrást",
+    "ecli": "ECLI:CZ:OSJC:2021:11.C.64.2020.1",
+    "predmetRizeni": "o 6 300 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení",
+      "řidičský průkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 140 z. č. 99/1963 Sb.",
+      "§ 10 z. č. 168/1999 Sb.",
+      "§ 2 z. č. 168/1999 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 6 z. č. 168/1999 Sb.",
+      "§ 9 z. č. 168/1999 Sb.",
+      "§ 8 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59e89fa5-2b26-4575-962e-08aa57b0ff00"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
