@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Praze",
+  "ecli": "ECLI:CZ:MSPH:2021:32.C.33.2016.1",
+  "docket": "32 C 33/2016",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ccf9f853-7fd4-46ce-956c-35418b88c470",
+  "source_sha256": "8ac64b831933243c10eef701adae03e070a27bfa7deb227733bd4f579dd4bfce",
+  "source_id": "ccf9f853-7fd4-46ce-956c-35418b88c470",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 33/2016",
+    "soud": "Městský soud v Praze",
+    "autor": "JUDr. Filip Liška",
+    "ecli": "ECLI:CZ:MSPH:2021:32.C.33.2016.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "nemajetková újma"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 110 z. č. 99/1963 Sb.",
+      "§ 111 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ccf9f853-7fd4-46ce-956c-35418b88c470"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
