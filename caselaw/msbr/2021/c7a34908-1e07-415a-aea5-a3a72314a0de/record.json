@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.263.2020.1",
+  "docket": "21 C 263/2020-33",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7a34908-1e07-415a-aea5-a3a72314a0de",
+  "source_sha256": "de665096421456637e975bc0d8c7ab0e678d6a987850a9a6afcc4f136eb87b72",
+  "source_id": "c7a34908-1e07-415a-aea5-a3a72314a0de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 263/2020-33",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.263.2020.1",
+    "predmetRizeni": "zaplacení 1 000 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7a34908-1e07-415a-aea5-a3a72314a0de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
