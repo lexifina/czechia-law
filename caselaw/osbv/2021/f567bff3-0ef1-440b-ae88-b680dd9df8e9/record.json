@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:16.C.54.2021.1",
+  "docket": "16 C 54/2021-17",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f567bff3-0ef1-440b-ae88-b680dd9df8e9",
+  "source_sha256": "4b24b418432dd83033b3b6a1d9daca440ffe3ae7cd85d454c1923752b704057d",
+  "source_id": "f567bff3-0ef1-440b-ae88-b680dd9df8e9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 54/2021-17",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Marie Indrišková",
+    "ecli": "ECLI:CZ:OSBV:2021:16.C.54.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f567bff3-0ef1-440b-ae88-b680dd9df8e9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
