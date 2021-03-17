@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:25.C.155.2020.3",
+  "docket": "25 C 155/2020-18",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c426c063-1193-4364-bd78-db83aea222f4",
+  "source_sha256": "a812df0e299d54293397877290dfe043926d4b92b44dd50e10f6028be354431f",
+  "source_id": "c426c063-1193-4364-bd78-db83aea222f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 155/2020-18",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPS:2021:25.C.155.2020.3",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c426c063-1193-4364-bd78-db83aea222f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
