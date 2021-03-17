@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:4.C.22.2021.1",
+  "docket": "4 C 22/2021-29",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25868fd2-c20d-44ea-a3f9-f100d2deaf6b",
+  "source_sha256": "6e555eb7098660e8f0a8c2bf33a599428950d2d7e839d98c90e3f8b1d6c91db8",
+  "source_id": "25868fd2-c20d-44ea-a3f9-f100d2deaf6b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 22/2021-29",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Jan Cejpek",
+    "ecli": "ECLI:CZ:OSJI:2021:4.C.22.2021.1",
+    "predmetRizeni": "o 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25868fd2-c20d-44ea-a3f9-f100d2deaf6b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
