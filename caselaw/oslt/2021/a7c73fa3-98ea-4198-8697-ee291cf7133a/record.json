@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:7.C.11.2021.1",
+  "docket": "7 C 11/2021-34",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7c73fa3-98ea-4198-8697-ee291cf7133a",
+  "source_sha256": "2f535c8e799e0817f6660118b8c555f561172638fcf77832ca87d32a201bb7a0",
+  "source_id": "a7c73fa3-98ea-4198-8697-ee291cf7133a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 11/2021-34",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Daniela Liscová",
+    "ecli": "ECLI:CZ:OSLT:2021:7.C.11.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "notářský zápis",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7c73fa3-98ea-4198-8697-ee291cf7133a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
