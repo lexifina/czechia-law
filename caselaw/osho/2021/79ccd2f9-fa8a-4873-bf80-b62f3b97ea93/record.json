@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:10.C.317.2020.1",
+  "docket": "10 C 317/2020-23",
+  "date": "2021-03-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79ccd2f9-fa8a-4873-bf80-b62f3b97ea93",
+  "source_sha256": "9cde009257d2c56e50c3f0decc818e751e24ac99411b848ed31f2b83be1a9806",
+  "source_id": "79ccd2f9-fa8a-4873-bf80-b62f3b97ea93",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 317/2020-23",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Dagmar Štefancová",
+    "ecli": "ECLI:CZ:OSHO:2021:10.C.317.2020.1",
+    "predmetRizeni": "zaplacení 1 340 Kč s příslušenstvím",
+    "datumVydani": "2021-03-17",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79ccd2f9-fa8a-4873-bf80-b62f3b97ea93"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
