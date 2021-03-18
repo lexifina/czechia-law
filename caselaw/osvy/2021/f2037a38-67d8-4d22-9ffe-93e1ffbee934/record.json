@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.302.2020.1",
+  "docket": "7 C 302/2020-41",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2037a38-67d8-4d22-9ffe-93e1ffbee934",
+  "source_sha256": "9f8d38f9b016cb3a20238693257be4c681bc613ef44eacf3a41346c5da94b0e8",
+  "source_id": "f2037a38-67d8-4d22-9ffe-93e1ffbee934",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 302/2020-41",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.302.2020.1",
+    "predmetRizeni": "zaplacení částky 2 259 Kč s příslušenstvím - vyúčtování",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva kupní",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 79 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2037a38-67d8-4d22-9ffe-93e1ffbee934"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
