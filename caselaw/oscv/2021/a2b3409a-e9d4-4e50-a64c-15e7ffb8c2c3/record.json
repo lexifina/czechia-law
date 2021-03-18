@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:23.C.11.2021.2",
+  "docket": "23 C 11/2021-16",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2b3409a-e9d4-4e50-a64c-15e7ffb8c2c3",
+  "source_sha256": "23022619d2d09ab3490ee4cec1f6aa68673547f49389d1782308dfab8c447fa7",
+  "source_id": "a2b3409a-e9d4-4e50-a64c-15e7ffb8c2c3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 11/2021-16",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Pašková",
+    "ecli": "ECLI:CZ:OSCV:2021:23.C.11.2021.2",
+    "predmetRizeni": "zaplacení 6 340,44 Kč s příslušenstvím (odběr elektřiny)",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-25",
+    "klicovaSlova": [
+      "dodávky energie",
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2b3409a-e9d4-4e50-a64c-15e7ffb8c2c3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
