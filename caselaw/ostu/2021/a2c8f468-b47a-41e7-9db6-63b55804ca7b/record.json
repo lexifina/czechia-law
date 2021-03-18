@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:19.C.52.2021.1",
+  "docket": "19 C 52/2021-11",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2c8f468-b47a-41e7-9db6-63b55804ca7b",
+  "source_sha256": "cfde0f35e76aa575e3cf3cb389b22a676b4d22b5129e6208b66a884356f018f2",
+  "source_id": "a2c8f468-b47a-41e7-9db6-63b55804ca7b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 52/2021-11",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Pavla Ondráčková",
+    "ecli": "ECLI:CZ:OSTU:2021:19.C.52.2021.1",
+    "predmetRizeni": "zaplacení 3 145 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2c8f468-b47a-41e7-9db6-63b55804ca7b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
