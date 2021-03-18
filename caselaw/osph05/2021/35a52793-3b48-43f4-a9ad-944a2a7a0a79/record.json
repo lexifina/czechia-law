@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:25.C.103.2021.1",
+  "docket": "25 C 103/2021-10",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/35a52793-3b48-43f4-a9ad-944a2a7a0a79",
+  "source_sha256": "28a5b65e8beb1bf961bfdb1eca8f15f61246c5c873c7a5494643cc5cfbd5dbe7",
+  "source_id": "35a52793-3b48-43f4-a9ad-944a2a7a0a79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 103/2021-10",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Martin Šalamoun",
+    "ecli": "ECLI:CZ:OSPH05:2021:25.C.103.2021.1",
+    "predmetRizeni": "O zaplacení 116 274,75 Kč",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/35a52793-3b48-43f4-a9ad-944a2a7a0a79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
