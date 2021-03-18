@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.188.2020.1",
+  "docket": "42 C 188/2020-105",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ee4cf09-d0b2-43db-b883-8a364f8b294f",
+  "source_sha256": "44b580fadfe72fdefc34a0a2d268075739b0cf04787acf6d25bb2d4f59ba47dc",
+  "source_id": "4ee4cf09-d0b2-43db-b883-8a364f8b294f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 188/2020-105",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.188.2020.1",
+    "predmetRizeni": "o zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "podílové spoluvlastnictví",
+      "veřejná dražba",
+      "zrušení spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ee4cf09-d0b2-43db-b883-8a364f8b294f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
