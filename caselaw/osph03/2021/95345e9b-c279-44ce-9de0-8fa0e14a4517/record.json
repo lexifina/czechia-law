@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:19.C.45.2021.1",
+  "docket": "19 C 45/2021-92",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/95345e9b-c279-44ce-9de0-8fa0e14a4517",
+  "source_sha256": "87b695979412472fdfe2f5f266ed8dc70ba56062d45b3b0c1307c8834133462e",
+  "source_id": "95345e9b-c279-44ce-9de0-8fa0e14a4517",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 45/2021-92",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Dáša Vítková",
+    "ecli": "ECLI:CZ:OSPH03:2021:19.C.45.2021.1",
+    "predmetRizeni": "15 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 45 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/95345e9b-c279-44ce-9de0-8fa0e14a4517"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
