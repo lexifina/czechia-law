@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.410.2020.1",
+  "docket": "36 C 410/2020",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b697c69-e3d9-4b91-9a33-aff27fdbd06d",
+  "source_sha256": "9219ed7dc3cdcf225adc0658e41d63547d8a65eb8dd6e8d65406c5fe0799a46c",
+  "source_id": "1b697c69-e3d9-4b91-9a33-aff27fdbd06d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 410/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.410.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b697c69-e3d9-4b91-9a33-aff27fdbd06d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
