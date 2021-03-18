@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:5.C.68.2021.1",
+  "docket": "5 C 68/2021-14",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5c3a7ca-e3e9-417c-b4f6-68cb4474d016",
+  "source_sha256": "ef4a476f37ee0e267dc0fc4ad7f37f65bf854a3068de1d0384f645f2702566a4",
+  "source_id": "d5c3a7ca-e3e9-417c-b4f6-68cb4474d016",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 68/2021-14",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2021:5.C.68.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 655 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5c3a7ca-e3e9-417c-b4f6-68cb4474d016"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
