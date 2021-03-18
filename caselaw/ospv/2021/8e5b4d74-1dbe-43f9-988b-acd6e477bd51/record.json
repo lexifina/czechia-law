@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:8.C.314.2020.1",
+  "docket": "8 C 314/2020-28",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e5b4d74-1dbe-43f9-988b-acd6e477bd51",
+  "source_sha256": "fbc4db71ecb4c9a527144ad66d7ca5e7037080b01380a3300bb2347d283be63d",
+  "source_id": "8e5b4d74-1dbe-43f9-988b-acd6e477bd51",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 314/2020-28",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Dana Malechová",
+    "ecli": "ECLI:CZ:OSPV:2021:8.C.314.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e5b4d74-1dbe-43f9-988b-acd6e477bd51"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
