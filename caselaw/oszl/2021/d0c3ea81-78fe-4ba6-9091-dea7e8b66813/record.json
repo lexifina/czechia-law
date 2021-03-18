@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:35.C.358.2020.2",
+  "docket": "35 C 358/2020-43",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0c3ea81-78fe-4ba6-9091-dea7e8b66813",
+  "source_sha256": "b82d6f50d0144bc8dea5c2109b28eedf710f8a82813e9a15d9466d890d0705bb",
+  "source_id": "d0c3ea81-78fe-4ba6-9091-dea7e8b66813",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 358/2020-43",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Martina Kocábová",
+    "ecli": "ECLI:CZ:OSZL:2021:35.C.358.2020.2",
+    "predmetRizeni": "zaplacení 21 950 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0c3ea81-78fe-4ba6-9091-dea7e8b66813"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
