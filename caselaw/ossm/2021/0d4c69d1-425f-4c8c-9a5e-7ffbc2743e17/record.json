@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Semilech",
+  "ecli": "ECLI:CZ:OSSM:2021:6.C.9.2021.1",
+  "docket": "6 C 9/2021-21",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d4c69d1-425f-4c8c-9a5e-7ffbc2743e17",
+  "source_sha256": "b755e9442f0d9dc435ec800000082159970ee755608d8817e63a651519ffda09",
+  "source_id": "0d4c69d1-425f-4c8c-9a5e-7ffbc2743e17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 9/2021-21",
+    "soud": "Okresní soud v Semilech",
+    "autor": "Mgr. Michal Polák",
+    "ecli": "ECLI:CZ:OSSM:2021:6.C.9.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d4c69d1-425f-4c8c-9a5e-7ffbc2743e17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
