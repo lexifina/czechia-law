@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:17.C.13.2021.1",
+  "docket": "17 C 13/2021-80",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6d38d85-f524-4367-8170-37e6191ad116",
+  "source_sha256": "7e20bf217bbd52ae406f8fc684b9eb21efe2bd14654e3505ab4586d9501b0b59",
+  "source_id": "e6d38d85-f524-4367-8170-37e6191ad116",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 13/2021-80",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "JUDr. Dáša Kozáková",
+    "ecli": "ECLI:CZ:OSME:2021:17.C.13.2021.1",
+    "predmetRizeni": "O zaplacení 23 056,80 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6d38d85-f524-4367-8170-37e6191ad116"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
