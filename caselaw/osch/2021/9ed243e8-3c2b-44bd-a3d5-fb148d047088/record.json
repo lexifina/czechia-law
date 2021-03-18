@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:9.C.166.2020.5",
+  "docket": "9 C 166/2020-26",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9ed243e8-3c2b-44bd-a3d5-fb148d047088",
+  "source_sha256": "f5b264e032a48fdd1a68779b4dfae2d3078e5c0470f49501f385109b9571f192",
+  "source_id": "9ed243e8-3c2b-44bd-a3d5-fb148d047088",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 166/2020-26",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Radka Nováková",
+    "ecli": "ECLI:CZ:OSCH:2021:9.C.166.2020.5",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9ed243e8-3c2b-44bd-a3d5-fb148d047088"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
