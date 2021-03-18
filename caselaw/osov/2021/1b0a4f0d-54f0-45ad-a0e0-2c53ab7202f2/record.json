@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:23.C.34.2021.2",
+  "docket": "23 C 34/2021-15",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b0a4f0d-54f0-45ad-a0e0-2c53ab7202f2",
+  "source_sha256": "99b162aad3c34afa1fc26aad6ac78653303e8fb3209cc24233c491c75f0242d1",
+  "source_id": "1b0a4f0d-54f0-45ad-a0e0-2c53ab7202f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 34/2021-15",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavlína Vrkočová",
+    "ecli": "ECLI:CZ:OSOV:2021:23.C.34.2021.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b0a4f0d-54f0-45ad-a0e0-2c53ab7202f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
