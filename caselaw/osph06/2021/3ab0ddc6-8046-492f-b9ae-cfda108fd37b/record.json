@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:28.C.108.2017.1",
+  "docket": "28 C 108/2017-31",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3ab0ddc6-8046-492f-b9ae-cfda108fd37b",
+  "source_sha256": "b20c6815991e221e0a9aae9d4333b7a003dd1fa27757df084d10b664e93c42c1",
+  "source_id": "3ab0ddc6-8046-492f-b9ae-cfda108fd37b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 108/2017-31",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Hana Šedivá",
+    "ecli": "ECLI:CZ:OSPH06:2021:28.C.108.2017.1",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "nájem bytu",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 711 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3ab0ddc6-8046-492f-b9ae-cfda108fd37b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
