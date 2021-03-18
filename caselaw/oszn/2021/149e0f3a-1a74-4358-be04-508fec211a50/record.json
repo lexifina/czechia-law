@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:23.C.15.2020.1",
+  "docket": "23 C 15/2020-50",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/149e0f3a-1a74-4358-be04-508fec211a50",
+  "source_sha256": "6a14b069659d959ce96f901e42e4970956eb3ebbdf7d88e7f89d233510bbb061",
+  "source_id": "149e0f3a-1a74-4358-be04-508fec211a50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 15/2020-50",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Roman Vystrčil",
+    "ecli": "ECLI:CZ:OSZN:2021:23.C.15.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 250 z. č. 262/2006 Sb.",
+      "§ 252 z. č. 262/2006 Sb.",
+      "§ 254 z. č. 262/2006 Sb.",
+      "§ 259 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/149e0f3a-1a74-4358-be04-508fec211a50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
