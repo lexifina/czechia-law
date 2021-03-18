@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:208.C.43.2021.1",
+  "docket": "208 C 43/2021-24",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f35aa9df-e1ae-4b1c-b19e-8163133ea98b",
+  "source_sha256": "7a783ee6a974b2e522cc654e1f5f0596be7a8ef742189a2a8c9ac4100a35fe4c",
+  "source_id": "f35aa9df-e1ae-4b1c-b19e-8163133ea98b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "208 C 43/2021-24",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Dana Zelenková",
+    "ecli": "ECLI:CZ:OSKD:2021:208.C.43.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2118 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f35aa9df-e1ae-4b1c-b19e-8163133ea98b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
