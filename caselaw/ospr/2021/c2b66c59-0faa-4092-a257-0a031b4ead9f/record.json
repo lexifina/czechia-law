@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:10.C.330.2020.1",
+  "docket": "10 C 330/2020-24",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2b66c59-0faa-4092-a257-0a031b4ead9f",
+  "source_sha256": "65b23ee21e9042190a710ba2dc1fce374cf52e1ac01acd60117f353482a89aef",
+  "source_id": "c2b66c59-0faa-4092-a257-0a031b4ead9f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 330/2020-24",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2021:10.C.330.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-09-15",
+    "klicovaSlova": [
+      "investiční fond",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "zajištění závazku",
+      "zastavení exekuce / výkonu rozhodnutí",
+      "zastavení výkonu rozhodnutí",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 358 z. č. 292/2013 Sb.",
+      "§ 268 z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 165a z. č. 89/2012 Sb.",
+      "§ 165 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2b66c59-0faa-4092-a257-0a031b4ead9f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
