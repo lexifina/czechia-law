@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:26.C.267.2020.1",
+  "docket": "26 C 267/2020-25",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/80de9f71-82e8-4afa-ab45-e553728460ba",
+  "source_sha256": "5821228855692620017d8060aadae57538714c3136699aeabdb23633d4107318",
+  "source_id": "80de9f71-82e8-4afa-ab45-e553728460ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 267/2020-25",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Iveta Nedozrálová",
+    "ecli": "ECLI:CZ:OSPH01:2021:26.C.267.2020.1",
+    "predmetRizeni": "o zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-08-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 89a z. č. 373/2011 Sb.",
+      "§ 149 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/80de9f71-82e8-4afa-ab45-e553728460ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
