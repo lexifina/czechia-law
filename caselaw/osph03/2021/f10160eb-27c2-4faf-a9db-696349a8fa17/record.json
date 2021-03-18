@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:6.C.26.2021.1",
+  "docket": "6 C 26/2021-18",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f10160eb-27c2-4faf-a9db-696349a8fa17",
+  "source_sha256": "4fa897d79a35d1f8a8c9fe10764942e7a90bac6a78dee64f8f3f8183e0c5a775",
+  "source_id": "f10160eb-27c2-4faf-a9db-696349a8fa17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 26/2021-18",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Miroslava Sixtová",
+    "ecli": "ECLI:CZ:OSPH03:2021:6.C.26.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f10160eb-27c2-4faf-a9db-696349a8fa17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
