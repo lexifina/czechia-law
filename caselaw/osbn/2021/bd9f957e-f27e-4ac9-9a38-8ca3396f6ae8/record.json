@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:5.C.31.2021.1",
+  "docket": "5 C 31/2021-20",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd9f957e-f27e-4ac9-9a38-8ca3396f6ae8",
+  "source_sha256": "ec04c019ca68a3f38f8631a76fbe41c616486c014be6257f1536e5db6ca0be47",
+  "source_id": "bd9f957e-f27e-4ac9-9a38-8ca3396f6ae8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 31/2021-20",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2021:5.C.31.2021.1",
+    "predmetRizeni": "o zaplacení 30 045 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd9f957e-f27e-4ac9-9a38-8ca3396f6ae8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
