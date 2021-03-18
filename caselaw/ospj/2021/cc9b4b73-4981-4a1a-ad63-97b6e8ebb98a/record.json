@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:11.C.389.2020.1",
+  "docket": "11 C 389/2020-48",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc9b4b73-4981-4a1a-ad63-97b6e8ebb98a",
+  "source_sha256": "35ce63e64d3b67809e5c9bb8f65afba3ea0eaf4ed1352689dea64bf3f9a9377d",
+  "source_id": "cc9b4b73-4981-4a1a-ad63-97b6e8ebb98a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 389/2020-48",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "Mgr. Markéta Kryslová",
+    "ecli": "ECLI:CZ:OSPJ:2021:11.C.389.2020.1",
+    "predmetRizeni": "O zaplacení 42 027,65 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc9b4b73-4981-4a1a-ad63-97b6e8ebb98a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
