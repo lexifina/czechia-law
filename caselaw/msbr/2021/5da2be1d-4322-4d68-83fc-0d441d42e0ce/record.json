@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:33.C.14.2021.1",
+  "docket": "33 C 14/2021-26",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5da2be1d-4322-4d68-83fc-0d441d42e0ce",
+  "source_sha256": "dbda280c965e8b7ef61eae3b856e50380394a2d385a202ebfb75ffbe8c94e631",
+  "source_id": "5da2be1d-4322-4d68-83fc-0d441d42e0ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 14/2021-26",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ivana Chlupová",
+    "ecli": "ECLI:CZ:MSBR:2021:33.C.14.2021.1",
+    "predmetRizeni": "zaplacení 3.648 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5da2be1d-4322-4d68-83fc-0d441d42e0ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
