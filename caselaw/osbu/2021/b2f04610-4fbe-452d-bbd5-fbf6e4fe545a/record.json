@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:208.C.1.2021.1",
+  "docket": "208 C 1/2021-18",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b2f04610-4fbe-452d-bbd5-fbf6e4fe545a",
+  "source_sha256": "b1267dd4ab839d9dd521684f940b3e016dfbd9db40f7e12e879979cb059780b1",
+  "source_id": "b2f04610-4fbe-452d-bbd5-fbf6e4fe545a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "208 C 1/2021-18",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Kristýna Stachová",
+    "ecli": "ECLI:CZ:OSBU:2021:208.C.1.2021.1",
+    "predmetRizeni": "11.087 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o ubytování"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 2326 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b2f04610-4fbe-452d-bbd5-fbf6e4fe545a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
