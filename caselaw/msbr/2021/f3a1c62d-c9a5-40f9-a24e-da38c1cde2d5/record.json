@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:48.C.117.2020.1",
+  "docket": "48 C 117/2020-34",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3a1c62d-c9a5-40f9-a24e-da38c1cde2d5",
+  "source_sha256": "3a3f1b0171dcfddeab5f72a2ff0a8d00f622e8570d468ccacfb334ff5d5b03a7",
+  "source_id": "f3a1c62d-c9a5-40f9-a24e-da38c1cde2d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 117/2020-34",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2021:48.C.117.2020.1",
+    "predmetRizeni": "zaplacení 5.962 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-09-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 1842 z. č. 89/2012 Sb.",
+      "§ 1841 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3a1c62d-c9a5-40f9-a24e-da38c1cde2d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
