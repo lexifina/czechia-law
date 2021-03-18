@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:9.C.47.2021.2",
+  "docket": "9 C 47/2021-30",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b38e4c81-cdae-4422-adf9-9cb3620e2a04",
+  "source_sha256": "0de34d06670f8e020d47cabe30080109d8f55ecc9948cceb0c75ced09db29a09",
+  "source_id": "b38e4c81-cdae-4422-adf9-9cb3620e2a04",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 47/2021-30",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "Mgr. František Strouha",
+    "ecli": "ECLI:CZ:OSCK:2021:9.C.47.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "elektronický platební rozkaz",
+      "peněžité plnění",
+      "platební rozkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 26 z. č. 273/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b38e4c81-cdae-4422-adf9-9cb3620e2a04"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
