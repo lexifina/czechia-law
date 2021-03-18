@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:15.C.24.2021.1",
+  "docket": "15 C 24/2021-30",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0dd080e5-4370-497c-b0b0-a6ed9d022748",
+  "source_sha256": "f495f4d0077dc5e5fa6dc920fa1461a3a7c5f9dc12556e657efdb13d7955410c",
+  "source_id": "0dd080e5-4370-497c-b0b0-a6ed9d022748",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 24/2021-30",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Ondřej Růžička",
+    "ecli": "ECLI:CZ:OSPH02:2021:15.C.24.2021.1",
+    "predmetRizeni": "O zaplacení 2 486 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2049 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0dd080e5-4370-497c-b0b0-a6ed9d022748"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
