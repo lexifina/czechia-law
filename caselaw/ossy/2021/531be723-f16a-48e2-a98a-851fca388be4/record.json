@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:6.C.353.2020.1",
+  "docket": "6 C 353/2020-46",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/531be723-f16a-48e2-a98a-851fca388be4",
+  "source_sha256": "e805c90f60cf6158fdc7f3d859e454399bebd92b28efed3a10dc821b22b2e3c0",
+  "source_id": "531be723-f16a-48e2-a98a-851fca388be4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 353/2020-46",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Lenka Knapčoková, Ph.D.",
+    "ecli": "ECLI:CZ:OSSY:2021:6.C.353.2020.1",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/531be723-f16a-48e2-a98a-851fca388be4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
