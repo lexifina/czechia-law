@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:19.C.54.2021.1",
+  "docket": "19 C 54/2021-11",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/28f63e48-f160-4860-9b44-63f8ce77d199",
+  "source_sha256": "870faa30b28c2bc71429366b5a0537623443cd6a3cfb73fcc5b035aad54d1e4c",
+  "source_id": "28f63e48-f160-4860-9b44-63f8ce77d199",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 54/2021-11",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Pavla Ondráčková",
+    "ecli": "ECLI:CZ:OSTU:2021:19.C.54.2021.1",
+    "predmetRizeni": "zaplacení 4 061,52 Kč s příslušenstvím - el. komunikace",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/28f63e48-f160-4860-9b44-63f8ce77d199"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
