@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:217.C.13.2021.1",
+  "docket": "217 C 13/2021-40",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79d5b13a-cff3-4aee-a1ff-3f8bd58c5061",
+  "source_sha256": "5ddf4b33583353fcf75cd3550a85f18f29869bfb6a1775a5675a7fa7dfe5383e",
+  "source_id": "79d5b13a-cff3-4aee-a1ff-3f8bd58c5061",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "217 C 13/2021-40",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Petra Nováková",
+    "ecli": "ECLI:CZ:OSKD:2021:217.C.13.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 164 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79d5b13a-cff3-4aee-a1ff-3f8bd58c5061"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
