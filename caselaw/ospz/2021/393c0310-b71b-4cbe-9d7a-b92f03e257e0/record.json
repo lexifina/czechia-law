@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:7.C.87.2021.1",
+  "docket": "7 C 87/2021",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/393c0310-b71b-4cbe-9d7a-b92f03e257e0",
+  "source_sha256": "0265820c9ee6a681d8eb1eb5e661dc58b03fdcc87ba6ae24e87f7754f349b5e4",
+  "source_id": "393c0310-b71b-4cbe-9d7a-b92f03e257e0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 87/2021",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Blanka Rejšková",
+    "ecli": "ECLI:CZ:OSPZ:2021:7.C.87.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/393c0310-b71b-4cbe-9d7a-b92f03e257e0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
