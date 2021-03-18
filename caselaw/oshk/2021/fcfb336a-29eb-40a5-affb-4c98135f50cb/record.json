@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:38.C.27.2021.1",
+  "docket": "38 C 27/2021-12",
+  "date": "2021-03-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fcfb336a-29eb-40a5-affb-4c98135f50cb",
+  "source_sha256": "17d79471cdbd510deb4d11764de75e37066da7a2474e12d3d6a58c39e9ca1073",
+  "source_id": "fcfb336a-29eb-40a5-affb-4c98135f50cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 27/2021-12",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Jana Ela Kliková",
+    "ecli": "ECLI:CZ:OSHK:2021:38.C.27.2021.1",
+    "predmetRizeni": "o zaplacení částky 29 790,47 Kč s příslušenstvím",
+    "datumVydani": "2021-03-18",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 205b z. č. 99/1963 Sb.",
+      "§ 8 z. č. 300/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fcfb336a-29eb-40a5-affb-4c98135f50cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
