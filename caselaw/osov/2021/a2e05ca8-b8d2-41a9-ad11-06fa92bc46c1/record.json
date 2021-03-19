@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:57.C.320.2019.3",
+  "docket": "57 C 320/2019-31",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2e05ca8-b8d2-41a9-ad11-06fa92bc46c1",
+  "source_sha256": "b30ae02a9acfa700d99538f4caee7eab63bb74a0dfbb58c0e19044696ee5f70a",
+  "source_id": "a2e05ca8-b8d2-41a9-ad11-06fa92bc46c1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 320/2019-31",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. David Šeremek",
+    "ecli": "ECLI:CZ:OSOV:2021:57.C.320.2019.3",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2e05ca8-b8d2-41a9-ad11-06fa92bc46c1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
