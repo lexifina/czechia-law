@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:41.C.36.2021.1",
+  "docket": "41 C 36/2021-14",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0eac4b7-0108-499f-8545-54f6c6dfa31b",
+  "source_sha256": "9db5470ebc0fb1ba3ef90231bb7bb6154e85cc006ff5dc8bb3c14ea752e96d70",
+  "source_id": "f0eac4b7-0108-499f-8545-54f6c6dfa31b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 36/2021-14",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Alice Martikánová",
+    "ecli": "ECLI:CZ:OSFM:2021:41.C.36.2021.1",
+    "predmetRizeni": "O zaplacení 8 383,97 Kč",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§  vyhl. č. 120/2014 Sb.",
+      "§ 65 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0eac4b7-0108-499f-8545-54f6c6dfa31b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
