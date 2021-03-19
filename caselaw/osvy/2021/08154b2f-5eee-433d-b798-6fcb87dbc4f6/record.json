@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:10.C.13.2021.1",
+  "docket": "10 C 13/2021-46",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08154b2f-5eee-433d-b798-6fcb87dbc4f6",
+  "source_sha256": "26a60f007dccd1a985cd1511fd228321a557c07d7be4e487c2b3fb8e9df317a3",
+  "source_id": "08154b2f-5eee-433d-b798-6fcb87dbc4f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 13/2021-46",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Mgr. Aleš Vylam",
+    "ecli": "ECLI:CZ:OSVY:2021:10.C.13.2021.1",
+    "predmetRizeni": "zaplacení částky 7 625 Kč s příslušenstvím - jízdné",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2578 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08154b2f-5eee-433d-b798-6fcb87dbc4f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
