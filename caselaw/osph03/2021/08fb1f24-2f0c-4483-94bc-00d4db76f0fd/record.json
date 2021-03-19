@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:21.C.60.2021.1",
+  "docket": "21 C 60/2021-18",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08fb1f24-2f0c-4483-94bc-00d4db76f0fd",
+  "source_sha256": "8e7dd5c9b217e61b539883832ab1d2ecd86574a8002d21ba58c048324751f7af",
+  "source_id": "08fb1f24-2f0c-4483-94bc-00d4db76f0fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 60/2021-18",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Zuzana Hanáková, LL.M.,",
+    "ecli": "ECLI:CZ:OSPH03:2021:21.C.60.2021.1",
+    "predmetRizeni": "42 720,55 Kč s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08fb1f24-2f0c-4483-94bc-00d4db76f0fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
