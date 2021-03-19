@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:7.C.28.2021.1",
+  "docket": "7 C 28/2021-36",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/015051e9-40a0-4562-8b17-d97f98ef64ca",
+  "source_sha256": "6883552216307db8bcd0e89b519f83738a9a07fa74af561dd1e1f247d4c09d4c",
+  "source_id": "015051e9-40a0-4562-8b17-d97f98ef64ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 28/2021-36",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Irena Voštová",
+    "ecli": "ECLI:CZ:OSPH06:2021:7.C.28.2021.1",
+    "predmetRizeni": "o zaplacení částky 7 620 Kč s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/015051e9-40a0-4562-8b17-d97f98ef64ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
