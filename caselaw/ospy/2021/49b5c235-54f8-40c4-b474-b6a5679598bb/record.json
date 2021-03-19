@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:34.C.258.2020.1",
+  "docket": "34 C 258/2020-22",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/49b5c235-54f8-40c4-b474-b6a5679598bb",
+  "source_sha256": "30802ff5df3208faab83a7639cabe1ff5d74bb1170a7d803cf702b19c0b6cf34",
+  "source_id": "49b5c235-54f8-40c4-b474-b6a5679598bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 258/2020-22",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Gabriela Kadlecová",
+    "ecli": "ECLI:CZ:OSPY:2021:34.C.258.2020.1",
+    "predmetRizeni": "o zaplacení částky 202.418 Kč s přísl.",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právní domněnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/49b5c235-54f8-40c4-b474-b6a5679598bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
