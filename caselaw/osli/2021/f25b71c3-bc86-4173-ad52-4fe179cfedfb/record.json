@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:18.C.311.2020.1",
+  "docket": "18 C 311/2020-27",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f25b71c3-bc86-4173-ad52-4fe179cfedfb",
+  "source_sha256": "8f51a0abffc05a06d5666938a3759b028ba0f0f260844d417db3613dc6b6e0a8",
+  "source_id": "f25b71c3-bc86-4173-ad52-4fe179cfedfb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 311/2020-27",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2021:18.C.311.2020.1",
+    "predmetRizeni": "Návrh na vydání PR - zaplacení částky 5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§  vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f25b71c3-bc86-4173-ad52-4fe179cfedfb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
