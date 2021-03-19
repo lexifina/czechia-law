@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:36.C.161.2020.3",
+  "docket": "36 C 161/2020-42",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db4335ff-4a1a-4293-838c-0879c26fa7e6",
+  "source_sha256": "e8a6ee2f2c3f3121a7f7c466989b23837e37501a198d03c70799ed178b4d9f5f",
+  "source_id": "db4335ff-4a1a-4293-838c-0879c26fa7e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 161/2020-42",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Alena Turaiová",
+    "ecli": "ECLI:CZ:OSCL:2021:36.C.161.2020.3",
+    "predmetRizeni": "o zaplacení částky 5 000 Kč s přísl.",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db4335ff-4a1a-4293-838c-0879c26fa7e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
