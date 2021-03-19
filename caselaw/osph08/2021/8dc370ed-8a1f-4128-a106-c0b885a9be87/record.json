@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:11.C.134.2017.1",
+  "docket": "11 C 134/2017-209",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8dc370ed-8a1f-4128-a106-c0b885a9be87",
+  "source_sha256": "53f8c6a058bb0df6650af3c5db03a286705f48f955d71559bf19e9a01dcdf139",
+  "source_id": "8dc370ed-8a1f-4128-a106-c0b885a9be87",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 134/2017-209",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Hana Suchánková",
+    "ecli": "ECLI:CZ:OSPH08:2021:11.C.134.2017.1",
+    "predmetRizeni": "O zaplacení 75 855 Kč s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 2774 z. č. 89/2012 Sb.",
+      "§ 155 z. č. 99/1963 Sb.",
+      "§ 47 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8dc370ed-8a1f-4128-a106-c0b885a9be87"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
