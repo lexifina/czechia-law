@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:11.C.207.2017.1",
+  "docket": "11 C 207/2017-234",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1deb13f3-5297-457d-af84-817a2d2c57cb",
+  "source_sha256": "405fdb830cb0971c221abc88d374d9b88d67a779072cb4138f1e310cd0ff8597",
+  "source_id": "1deb13f3-5297-457d-af84-817a2d2c57cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 207/2017-234",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Magdalena Fifková",
+    "ecli": "ECLI:CZ:OSPY:2021:11.C.207.2017.1",
+    "predmetRizeni": "- o zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-09-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozvod manželství",
+      "soukromá listina",
+      "veřejná listina",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 565 z. č. 89/2012 Sb.",
+      "§ 567 z. č. 89/2012 Sb.",
+      "§ 10 z. č. 21/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1deb13f3-5297-457d-af84-817a2d2c57cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
