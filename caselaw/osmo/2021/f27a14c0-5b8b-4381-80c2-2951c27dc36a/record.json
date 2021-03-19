@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:44.C.23.2021.2",
+  "docket": "44 C 23/2021-23",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f27a14c0-5b8b-4381-80c2-2951c27dc36a",
+  "source_sha256": "83ee30fc3630900ebc9afa6329065b26ca0a4c2a6e40eb46e6b407f5bbf54773",
+  "source_id": "f27a14c0-5b8b-4381-80c2-2951c27dc36a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 23/2021-23",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Davidová",
+    "ecli": "ECLI:CZ:OSMO:2021:44.C.23.2021.2",
+    "predmetRizeni": "1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f27a14c0-5b8b-4381-80c2-2951c27dc36a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
