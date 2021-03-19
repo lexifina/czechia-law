@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:11.C.102.2020.1",
+  "docket": "11 C 102/2020-16",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a603b6d-64e2-43dd-af29-4cc63042c0a8",
+  "source_sha256": "85beaaef53503a1db4eb10bfd6bf2f13312db128116e6e2b4d7095a943887a52",
+  "source_id": "1a603b6d-64e2-43dd-af29-4cc63042c0a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 102/2020-16",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. et Mgr. Martin Pavlík",
+    "ecli": "ECLI:CZ:OSFM:2021:11.C.102.2020.1",
+    "predmetRizeni": "O zaplacení 173 209,81 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "oddlužení",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a603b6d-64e2-43dd-af29-4cc63042c0a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
