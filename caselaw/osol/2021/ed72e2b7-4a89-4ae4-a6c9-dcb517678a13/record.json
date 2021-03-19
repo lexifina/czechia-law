@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:29.C.7.2021.3",
+  "docket": "29 C 7/2021-34",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed72e2b7-4a89-4ae4-a6c9-dcb517678a13",
+  "source_sha256": "574767047762acc8d07b533b7f638d532d2dc24a4a808b0bf8dd9879539ca281",
+  "source_id": "ed72e2b7-4a89-4ae4-a6c9-dcb517678a13",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 7/2021-34",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Sylva Teličková",
+    "ecli": "ECLI:CZ:OSOL:2021:29.C.7.2021.3",
+    "predmetRizeni": "o 12 500 Kč s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 89a z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed72e2b7-4a89-4ae4-a6c9-dcb517678a13"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
