@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:115.C.110.2021.1",
+  "docket": "115 C 110/2021-34",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/563d14da-cb9f-460e-b63d-4b4107970d29",
+  "source_sha256": "3f1eb283957909f36bd9f805f3c2435a2bea9cc1c22f5a360ddbe862bd2fcb79",
+  "source_id": "563d14da-cb9f-460e-b63d-4b4107970d29",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 110/2021-34",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Aleksandra Zubková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:115.C.110.2021.1",
+    "predmetRizeni": "1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 0/0 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/563d14da-cb9f-460e-b63d-4b4107970d29"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
