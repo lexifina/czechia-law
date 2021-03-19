@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:11.C.96.2020.1",
+  "docket": "11 C 96/2020-73",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bc5b415d-d8b8-4f20-bdb6-ae67e9181722",
+  "source_sha256": "69ed6cf14a0977839e510c41b58cc71187c244a54370bfcb8f68d02ba6a4649a",
+  "source_id": "bc5b415d-d8b8-4f20-bdb6-ae67e9181722",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 96/2020-73",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Pavla Kohoutková",
+    "ecli": "ECLI:CZ:OSVY:2021:11.C.96.2020.1",
+    "predmetRizeni": "zaplacení částky 6 318 Kč s příslušenstvím - vyúčtování",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2118 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bc5b415d-d8b8-4f20-bdb6-ae67e9181722"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
