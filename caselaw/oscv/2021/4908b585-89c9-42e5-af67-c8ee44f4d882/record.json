@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:8.C.23.2021.1",
+  "docket": "8 C 23/2021-45",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4908b585-89c9-42e5-af67-c8ee44f4d882",
+  "source_sha256": "ab17d3e08f79bd3ab75cd32564522fbec4f88b9b932cbf87eaa658147de3ea05",
+  "source_id": "4908b585-89c9-42e5-af67-c8ee44f4d882",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 23/2021-45",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Petr Karásek",
+    "ecli": "ECLI:CZ:OSCV:2021:8.C.23.2021.1",
+    "predmetRizeni": "zaplacení 17 180 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4908b585-89c9-42e5-af67-c8ee44f4d882"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
