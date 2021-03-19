@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:8.C.47.2021.1",
+  "docket": "8 C 47/2021-18",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0273c491-4b4a-464f-a3eb-0ef6ffd3a2aa",
+  "source_sha256": "ecff575169eb3f62c2b84ebf7a95e21206329dacc3fff77901049a1b265cf950",
+  "source_id": "0273c491-4b4a-464f-a3eb-0ef6ffd3a2aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 47/2021-18",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Kateřina Uhrynová",
+    "ecli": "ECLI:CZ:OSDC:2021:8.C.47.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 104 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0273c491-4b4a-464f-a3eb-0ef6ffd3a2aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
