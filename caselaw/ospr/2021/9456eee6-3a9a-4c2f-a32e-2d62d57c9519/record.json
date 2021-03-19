@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:14.C.126.2020.1",
+  "docket": "14 C 126/2020-24",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9456eee6-3a9a-4c2f-a32e-2d62d57c9519",
+  "source_sha256": "3f949732615b4af87a41e8a8ac61f97146db1106383b704c8cd462337dd6e773",
+  "source_id": "9456eee6-3a9a-4c2f-a32e-2d62d57c9519",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 126/2020-24",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Jan Růžička",
+    "ecli": "ECLI:CZ:OSPR:2021:14.C.126.2020.1",
+    "predmetRizeni": "rozvod manželství,",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9456eee6-3a9a-4c2f-a32e-2d62d57c9519"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
