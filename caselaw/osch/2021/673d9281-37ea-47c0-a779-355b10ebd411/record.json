@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:12.C.67.2021.2",
+  "docket": "12 C 67/2021-15",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/673d9281-37ea-47c0-a779-355b10ebd411",
+  "source_sha256": "94fcdd418b6b1cc73b3be92781d976385beaffb14efe665662ad97cda3eed6a0",
+  "source_id": "673d9281-37ea-47c0-a779-355b10ebd411",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 67/2021-15",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Zuzana Lasotová brabcová",
+    "ecli": "ECLI:CZ:OSCH:2021:12.C.67.2021.2",
+    "predmetRizeni": "O zaplacení 20 398 Kč s příslušenstvím",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/673d9281-37ea-47c0-a779-355b10ebd411"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
