@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:15.C.80.2020.1",
+  "docket": "15 C 80/2020-156",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/604091e6-be38-4223-a105-7339f4b545b7",
+  "source_sha256": "4a39c12e6ec9c4f99850d602b2f4603bb46a44845bfe818f2658c444a73f3f18",
+  "source_id": "604091e6-be38-4223-a105-7339f4b545b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 80/2020-156",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jana Moravcová",
+    "ecli": "ECLI:CZ:OSCB:2021:15.C.80.2020.1",
+    "predmetRizeni": "o určení neúčinnosti darovací smlouvy",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "insolvence",
+      "neúčinnost právního jednání",
+      "peněžité plnění",
+      "ručení",
+      "smlouva darovací",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 589 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 358/2019 Sb.",
+      "§ 590 z. č. 89/2012 Sb.",
+      "§ 591 z. č. 89/2012 Sb.",
+      "§ 594 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/604091e6-be38-4223-a105-7339f4b545b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
