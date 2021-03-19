@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:1.C.49.2021.1",
+  "docket": "1 C 49/2021-12",
+  "date": "2021-03-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e10655e-f0b6-46f9-afd4-6f6b653a4d86",
+  "source_sha256": "532ff7c79fe9d91f7b425466bd78c7236a849ef10df134c2d74de84e80d6bf74",
+  "source_id": "1e10655e-f0b6-46f9-afd4-6f6b653a4d86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 49/2021-12",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Zdeněk Tichý",
+    "ecli": "ECLI:CZ:OSPE:2021:1.C.49.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-19",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e10655e-f0b6-46f9-afd4-6f6b653a4d86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
