@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:31.C.299.2020.1",
+  "docket": "31 C 299/2020-49",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6ea8e3bc-a3d2-4043-b6f1-3837d7e053ee",
+  "source_sha256": "099b3bf7c9a61e660220fdaa378b89177c1ad59cd5be59b331c631c99f909cd3",
+  "source_id": "6ea8e3bc-a3d2-4043-b6f1-3837d7e053ee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 299/2020-49",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2021:31.C.299.2020.1",
+    "predmetRizeni": "zaplacení 1 500 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6ea8e3bc-a3d2-4043-b6f1-3837d7e053ee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
