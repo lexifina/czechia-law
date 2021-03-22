@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:233.C.36.2020.1",
+  "docket": "233 C 36/2020-24",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a4f7119-26a4-4ad7-a7ea-bf4fac0a95ab",
+  "source_sha256": "063f832040d5ccac15bce7217c20c063390ecb78e866e8687dd049aacab143c8",
+  "source_id": "8a4f7119-26a4-4ad7-a7ea-bf4fac0a95ab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "233 C 36/2020-24",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ivana Chlupová",
+    "ecli": "ECLI:CZ:MSBR:2021:233.C.36.2020.1",
+    "predmetRizeni": "zaplacení 400 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 17a z. č. 553/1991 Sb.",
+      "§ 11 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a4f7119-26a4-4ad7-a7ea-bf4fac0a95ab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
