@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:4.C.258.2020.1",
+  "docket": "4 C 258/2020-25",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/746a2051-1a05-402e-873c-e877e99f95cb",
+  "source_sha256": "87f086df2b0f5d20aeb88bd05a618a18920ff03a3daf4a8c4cff47fa3ae1b2bf",
+  "source_id": "746a2051-1a05-402e-873c-e877e99f95cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 258/2020-25",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Marek Horáček",
+    "ecli": "ECLI:CZ:OSCR:2021:4.C.258.2020.1",
+    "predmetRizeni": "o 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/746a2051-1a05-402e-873c-e877e99f95cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
