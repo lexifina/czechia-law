@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:2.C.35.2021.2",
+  "docket": "2 C 35/2021-20",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7be7115-884a-47bf-af57-f28a779514be",
+  "source_sha256": "9b02381dcd5013f82e66fed922bc30659479420122a6921a37a79dd9d4e2a4bc",
+  "source_id": "a7be7115-884a-47bf-af57-f28a779514be",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 35/2021-20",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2021:2.C.35.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§  z. č. 166/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7be7115-884a-47bf-af57-f28a779514be"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
