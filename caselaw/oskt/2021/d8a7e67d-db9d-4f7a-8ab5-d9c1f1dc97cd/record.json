@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.302.2020.1",
+  "docket": "9 C 302/2020-11",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d8a7e67d-db9d-4f7a-8ab5-d9c1f1dc97cd",
+  "source_sha256": "58069d61955ccbbd0ea775d521a846df74034a0771520afb233cfdd686ba984f",
+  "source_id": "d8a7e67d-db9d-4f7a-8ab5-d9c1f1dc97cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 302/2020-11",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.302.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755/1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d8a7e67d-db9d-4f7a-8ab5-d9c1f1dc97cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
