@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:25.C.216.2020.1",
+  "docket": "25 C 216/2020-21",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efbf6830-0191-4c0b-8de0-82b3be78fb09",
+  "source_sha256": "17c965039c913d26911bf5a17c6d8c83d074ba69581e9aaad6f77c6b105c8d30",
+  "source_id": "efbf6830-0191-4c0b-8de0-82b3be78fb09",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 216/2020-21",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Andrea Pěničková",
+    "ecli": "ECLI:CZ:OSDC:2021:25.C.216.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efbf6830-0191-4c0b-8de0-82b3be78fb09"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
