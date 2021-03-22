@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:10.C.215.2020.1",
+  "docket": "10 C 215/2020-41",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cfec2a97-7e40-462b-a727-5a83dad520b3",
+  "source_sha256": "2df873961c8c56389ec82f34a56e03fd2f4f6ed3a7da49119d650c4689b83ecc",
+  "source_id": "cfec2a97-7e40-462b-a727-5a83dad520b3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 215/2020-41",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Špoková",
+    "ecli": "ECLI:CZ:OSFM:2021:10.C.215.2020.1",
+    "predmetRizeni": "O zaplacení 7 030 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfec2a97-7e40-462b-a727-5a83dad520b3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
