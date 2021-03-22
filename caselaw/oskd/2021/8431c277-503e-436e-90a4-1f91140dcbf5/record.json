@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:207.C.23.2021.1",
+  "docket": "207 C 23/2021-41",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8431c277-503e-436e-90a4-1f91140dcbf5",
+  "source_sha256": "c091256097bc81e4b1d8f57906d96be68dd44329309bac29ea7578bc79336b80",
+  "source_id": "8431c277-503e-436e-90a4-1f91140dcbf5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "207 C 23/2021-41",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jarmila Tůmová",
+    "ecli": "ECLI:CZ:OSKD:2021:207.C.23.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 4 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8431c277-503e-436e-90a4-1f91140dcbf5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
