@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:119.C.253.2020.1",
+  "docket": "119 C 253/2020-74",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2eadfc8a-bf61-45fb-bc74-25bd52e001d4",
+  "source_sha256": "8b8870144bb20ae41f6a5d65e6df69c36e47ccdc1acf0049fa1053776e846d4d",
+  "source_id": "2eadfc8a-bf61-45fb-bc74-25bd52e001d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 253/2020-74",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zuzana Skripová",
+    "ecli": "ECLI:CZ:MSBR:2021:119.C.253.2020.1",
+    "predmetRizeni": "zaplacení 2.000 Kč s příslušenstvím ",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2eadfc8a-bf61-45fb-bc74-25bd52e001d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
