@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:16.C.54.2021.1",
+  "docket": "16 C 54/2021-39",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5293ac8d-6e94-41c7-9652-c4aff24ac2e3",
+  "source_sha256": "f6794f8aa0bc8a8737e5fc9a0f48605bc1c2ff1374429add22a844f2f40b8a11",
+  "source_id": "5293ac8d-6e94-41c7-9652-c4aff24ac2e3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 54/2021-39",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Ivo Mikolajek",
+    "ecli": "ECLI:CZ:OSSY:2021:16.C.54.2021.1",
+    "predmetRizeni": "o zaplacení 6 924 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 1812 z. č. 89/2012 Sb.",
+      "§ 433 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5293ac8d-6e94-41c7-9652-c4aff24ac2e3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
