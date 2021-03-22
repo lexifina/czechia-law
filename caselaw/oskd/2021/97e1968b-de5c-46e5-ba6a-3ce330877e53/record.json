@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:222.C.10.2021.1",
+  "docket": "222 C 10/2021-42",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/97e1968b-de5c-46e5-ba6a-3ce330877e53",
+  "source_sha256": "ec25fd25fc6f1b8817bbfa2ecc7e6139ff1ec2e3102aa1fde693cb4f5e5e149e",
+  "source_id": "97e1968b-de5c-46e5-ba6a-3ce330877e53",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "222 C 10/2021-42",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lukáš Randa",
+    "ecli": "ECLI:CZ:OSKD:2021:222.C.10.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/97e1968b-de5c-46e5-ba6a-3ce330877e53"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
