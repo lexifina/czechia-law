@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:223.C.245.2020.1",
+  "docket": "223 C 245/2020",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a2ad3de-82f5-4b5f-9c09-e80b1c21b8c9",
+  "source_sha256": "0acc0af2b7cd811f72abaf934cac10ec49786ed5342236c218930c0354f4c83a",
+  "source_id": "1a2ad3de-82f5-4b5f-9c09-e80b1c21b8c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "223 C 245/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Adriana Hasmanová",
+    "ecli": "ECLI:CZ:OSKD:2021:223.C.245.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a2ad3de-82f5-4b5f-9c09-e80b1c21b8c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
