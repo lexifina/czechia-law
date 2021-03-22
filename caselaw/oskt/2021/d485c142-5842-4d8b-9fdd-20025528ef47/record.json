@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.243.2020.1",
+  "docket": "9 C 243/2020-19",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d485c142-5842-4d8b-9fdd-20025528ef47",
+  "source_sha256": "868a663effa5a29d37537048cc2aafbb22e67d5a93658c3458aeddd50c82a877",
+  "source_id": "d485c142-5842-4d8b-9fdd-20025528ef47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 243/2020-19",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.243.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d485c142-5842-4d8b-9fdd-20025528ef47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
