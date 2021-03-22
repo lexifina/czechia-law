@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:26.C.12.2021.1",
+  "docket": "26 C 12/2021-14",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a57b737e-1f58-4e47-8389-a319d7c9ff64",
+  "source_sha256": "5724bd6d2d9820f8de0624b9496ce15dee7e0e530441d149884bee8d32f80757",
+  "source_id": "a57b737e-1f58-4e47-8389-a319d7c9ff64",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 12/2021-14",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Petr Hoček",
+    "ecli": "ECLI:CZ:OSLI:2021:26.C.12.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 3.060,00 Kč s přísl.",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a57b737e-1f58-4e47-8389-a319d7c9ff64"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
