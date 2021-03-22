@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:59.C.25.2021.1",
+  "docket": "59 C 25/2021-22",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d6485ce6-68af-43e3-9b02-0ef2174ff1ba",
+  "source_sha256": "2aa785dc6fe48e22462d8afecab9a13ec48cd0383b42231ec1a2231d806b54e6",
+  "source_id": "d6485ce6-68af-43e3-9b02-0ef2174ff1ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "59 C 25/2021-22",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Darina Dvořáková",
+    "ecli": "ECLI:CZ:OSOV:2021:59.C.25.2021.1",
+    "predmetRizeni": "o zaplacení 4 976 Kč",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d6485ce6-68af-43e3-9b02-0ef2174ff1ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
