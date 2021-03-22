@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:15.C.49.2021.1",
+  "docket": "15 C 49/2021-35",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/75912eb5-14c7-446a-b8b1-56b93875c2cf",
+  "source_sha256": "0db60270abe8839380858340983fea6b84d0d6b3d2f431ea7c1e4e9e056a76d7",
+  "source_id": "75912eb5-14c7-446a-b8b1-56b93875c2cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 49/2021-35",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Michaela Koblasová",
+    "ecli": "ECLI:CZ:OSTU:2021:15.C.49.2021.1",
+    "predmetRizeni": "zaplacení 16 735 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/75912eb5-14c7-446a-b8b1-56b93875c2cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
