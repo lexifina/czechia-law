@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:22.C.13.2021.2",
+  "docket": "22 C 13/2021-20",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0aa25aa8-5cd8-40bb-86fa-fcf8cd34038a",
+  "source_sha256": "221132c8e810f5ee1b546f67011e69ce8aa504a81b80fac6b255b54289930c2f",
+  "source_id": "0aa25aa8-5cd8-40bb-86fa-fcf8cd34038a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 13/2021-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Denisa Hamerská",
+    "ecli": "ECLI:CZ:OSMO:2021:22.C.13.2021.2",
+    "predmetRizeni": "6 094,51 Kč",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozhodčí doložka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0aa25aa8-5cd8-40bb-86fa-fcf8cd34038a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
