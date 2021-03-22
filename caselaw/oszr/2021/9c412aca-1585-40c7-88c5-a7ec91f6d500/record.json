@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:7.C.258.2018.1",
+  "docket": "7 C 258/2018-207",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c412aca-1585-40c7-88c5-a7ec91f6d500",
+  "source_sha256": "20899a445652fac5f328ad780b3a61bfce7b00207ea863a7fd60383d18b897b5",
+  "source_id": "9c412aca-1585-40c7-88c5-a7ec91f6d500",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 258/2018-207",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Aleš Landsman",
+    "ecli": "ECLI:CZ:OSZR:2021:7.C.258.2018.1",
+    "predmetRizeni": "vypořádání společného jmění manželů",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "společné jmění manželů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 740 z. č. 89/2012 Sb.",
+      "§ 708 z. č. 89/2012 Sb.",
+      "§ 742 z. č. 89/2012 Sb.",
+      "§ 709 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c412aca-1585-40c7-88c5-a7ec91f6d500"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
