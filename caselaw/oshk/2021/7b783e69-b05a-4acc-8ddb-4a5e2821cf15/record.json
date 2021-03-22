@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:9.C.18.2021.1",
+  "docket": "9 C 18/2021-15",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b783e69-b05a-4acc-8ddb-4a5e2821cf15",
+  "source_sha256": "37aea1d758976cadf057706c392923b50de834771ec222b0530da432e3fc1ec6",
+  "source_id": "7b783e69-b05a-4acc-8ddb-4a5e2821cf15",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 18/2021-15",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Jindřich Rajman",
+    "ecli": "ECLI:CZ:OSHK:2021:9.C.18.2021.1",
+    "predmetRizeni": "o zaplacení částky 3 032 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b783e69-b05a-4acc-8ddb-4a5e2821cf15"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
