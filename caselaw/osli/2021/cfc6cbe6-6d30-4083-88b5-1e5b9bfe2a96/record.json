@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:16.C.8.2021.1",
+  "docket": "16 C 8/2021-15",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cfc6cbe6-6d30-4083-88b5-1e5b9bfe2a96",
+  "source_sha256": "0c0310aae2a0152c108b5917779b6eeea801501f94195495260ef338cd987ffa",
+  "source_id": "cfc6cbe6-6d30-4083-88b5-1e5b9bfe2a96",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 8/2021-15",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Martin Košek",
+    "ecli": "ECLI:CZ:OSLI:2021:16.C.8.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 1.020,00 Kč s přísl.",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfc6cbe6-6d30-4083-88b5-1e5b9bfe2a96"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
