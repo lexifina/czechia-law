@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:41.C.35.2021.1",
+  "docket": "41 C 35/2021-14",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5e49e072-04ac-4825-8d37-6ad08089a4a6",
+  "source_sha256": "02d2a02ed768e6ed01d50702b57459979feefa93ae46484024411221eca023ae",
+  "source_id": "5e49e072-04ac-4825-8d37-6ad08089a4a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 35/2021-14",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Alice Martikánová",
+    "ecli": "ECLI:CZ:OSFM:2021:41.C.35.2021.1",
+    "predmetRizeni": "O zaplacení 35 474,93 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 1798 z. č. 89/2012 Sb.",
+      "§ 1799 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5e49e072-04ac-4825-8d37-6ad08089a4a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
