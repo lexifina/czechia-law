@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:8.C.66.2021.1",
+  "docket": "8 C 66/2021-33",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2cb37d7a-b9b7-4e8e-ba6c-279502c2caac",
+  "source_sha256": "19d8249d126f87b01b8e32e4448ca7ba5f91a2422c57a80b6e34dd74c29a22ea",
+  "source_id": "2cb37d7a-b9b7-4e8e-ba6c-279502c2caac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 66/2021-33",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Daniela Ševelová",
+    "ecli": "ECLI:CZ:OSPR:2021:8.C.66.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 1982 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2cb37d7a-b9b7-4e8e-ba6c-279502c2caac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
