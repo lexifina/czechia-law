@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:5.C.300.2020.1",
+  "docket": "5 C 300/2020-21",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3267cb10-9914-4d1e-a851-b2de2b2d158f",
+  "source_sha256": "67670fc30ef07b744bf9cff626894fdd573be862c9c8e9df6aa1e62a6fb95e0e",
+  "source_id": "3267cb10-9914-4d1e-a851-b2de2b2d158f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 300/2020-21",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:5.C.300.2020.1",
+    "predmetRizeni": "O zaplacení 86 251,30 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/96 Sb.",
+      "§ 11 vyhl. č. 177/96 Sb.",
+      "§ 1796 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3267cb10-9914-4d1e-a851-b2de2b2d158f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
