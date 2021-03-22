@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:26.C.23.2021.3",
+  "docket": "26 C 23/2021-14",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0940503d-49c9-4830-845a-146e76516190",
+  "source_sha256": "b3361ed28a2a957e383999a37065532ac1e619a6d378d09f3c02b54bc45a0248",
+  "source_id": "0940503d-49c9-4830-845a-146e76516190",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 23/2021-14",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jiří Šopek",
+    "ecli": "ECLI:CZ:OSOV:2021:26.C.23.2021.3",
+    "predmetRizeni": "o zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0940503d-49c9-4830-845a-146e76516190"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
