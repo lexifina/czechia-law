@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:119.C.261.2020.1",
+  "docket": "119 C 261/2020-45",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb421fb9-8891-4217-82ef-b05d6faf9c10",
+  "source_sha256": "3a40d3909a6e4f3ca2cb28e2b1a252d87cc8e547ad2bc8683c34a7257e6e1fcb",
+  "source_id": "cb421fb9-8891-4217-82ef-b05d6faf9c10",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 261/2020-45",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zuzana Skripová",
+    "ecli": "ECLI:CZ:MSBR:2021:119.C.261.2020.1",
+    "predmetRizeni": "zaplacení 7.337,34 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "náhrada škody",
+      "pojištění odpovědnosti za škodu",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 24 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb421fb9-8891-4217-82ef-b05d6faf9c10"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
