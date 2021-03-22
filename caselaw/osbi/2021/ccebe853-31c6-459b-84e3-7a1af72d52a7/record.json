@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:33.C.267.2020.1",
+  "docket": "33 C 267/2020-36",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ccebe853-31c6-459b-84e3-7a1af72d52a7",
+  "source_sha256": "58fbfb9cb6687e0f6449bf712cf971f01990f8fd9b82afa6dc9b0ac14f38b49f",
+  "source_id": "ccebe853-31c6-459b-84e3-7a1af72d52a7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 267/2020-36",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Eva Lišková",
+    "ecli": "ECLI:CZ:OSBI:2021:33.C.267.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 389 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ccebe853-31c6-459b-84e3-7a1af72d52a7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
