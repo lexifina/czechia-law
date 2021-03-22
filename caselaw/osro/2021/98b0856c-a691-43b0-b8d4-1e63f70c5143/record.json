@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.216.2020.1",
+  "docket": "5 C 216/2020-16",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/98b0856c-a691-43b0-b8d4-1e63f70c5143",
+  "source_sha256": "eff2893cb9a068309ca2add999642378c42d744b4ac2c73e05376dc1f6a1b28c",
+  "source_id": "98b0856c-a691-43b0-b8d4-1e63f70c5143",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 216/2020-16",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.216.2020.1",
+    "predmetRizeni": "zaplacení 22 450 Kč s přísl.",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/98b0856c-a691-43b0-b8d4-1e63f70c5143"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
