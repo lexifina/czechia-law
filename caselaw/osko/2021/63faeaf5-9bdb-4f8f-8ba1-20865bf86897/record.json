@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:12.C.10.2021.1",
+  "docket": "12 C 10/2021-39",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/63faeaf5-9bdb-4f8f-8ba1-20865bf86897",
+  "source_sha256": "771350b5577d05bdd54eb4b74abd99fbb1df6ff4fc12855a96e039b77b2fa793",
+  "source_id": "63faeaf5-9bdb-4f8f-8ba1-20865bf86897",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 10/2021-39",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Renáta Bielová",
+    "ecli": "ECLI:CZ:OSKO:2021:12.C.10.2021.1",
+    "predmetRizeni": "O zaplacení 27 200 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/63faeaf5-9bdb-4f8f-8ba1-20865bf86897"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
