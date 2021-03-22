@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:23.C.43.2021.1",
+  "docket": "23 C 43/2021-15",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bec4ef98-9851-421e-98e5-be2fb10848b3",
+  "source_sha256": "032a6ad930327d7f196b859ef53f147ac07afaf07b9275644a1ae8cfabec529a",
+  "source_id": "bec4ef98-9851-421e-98e5-be2fb10848b3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 43/2021-15",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "Mgr. Karolina Tolarová",
+    "ecli": "ECLI:CZ:OSPJ:2021:23.C.43.2021.1",
+    "predmetRizeni": "O zaplacení 1 851 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bec4ef98-9851-421e-98e5-be2fb10848b3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
