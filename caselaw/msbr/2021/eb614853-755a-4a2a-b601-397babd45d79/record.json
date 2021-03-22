@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:32.C.94.2020.1",
+  "docket": "32 C 94/2020-22",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb614853-755a-4a2a-b601-397babd45d79",
+  "source_sha256": "66c86e443dae22b1f33ae43bd6f989562ef38bc0465f50779df4099198257e0c",
+  "source_id": "eb614853-755a-4a2a-b601-397babd45d79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 94/2020-22",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jan Sedláček",
+    "ecli": "ECLI:CZ:MSBR:2021:32.C.94.2020.1",
+    "predmetRizeni": "zaplacení 2.108 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb614853-755a-4a2a-b601-397babd45d79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
