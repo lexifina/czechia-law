@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:17.C.118.2020.1",
+  "docket": "17 C 118/2020-27",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8fa3ef13-ed0d-4d95-b348-47448e445ed9",
+  "source_sha256": "fcf1f32886a775051f169aa0e91f285d6e8804f5d78455e307400ce43df97993",
+  "source_id": "8fa3ef13-ed0d-4d95-b348-47448e445ed9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 118/2020-27",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Michal Sýkora",
+    "ecli": "ECLI:CZ:OSDO:2021:17.C.118.2020.1",
+    "predmetRizeni": "O zaplacení 4 500 Kč s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 351/2013 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8fa3ef13-ed0d-4d95-b348-47448e445ed9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
