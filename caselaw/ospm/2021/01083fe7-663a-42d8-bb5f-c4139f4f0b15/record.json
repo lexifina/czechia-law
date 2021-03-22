@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:31.C.16.2021.1",
+  "docket": "31 C 16/2021-31",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/01083fe7-663a-42d8-bb5f-c4139f4f0b15",
+  "source_sha256": "b7d6565d9472207146caeb35c1a09d7a0d08271e4d96ea1483f49def1dc8d0d8",
+  "source_id": "01083fe7-663a-42d8-bb5f-c4139f4f0b15",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 16/2021-31",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Monika Mlíčková",
+    "ecli": "ECLI:CZ:OSPM:2021:31.C.16.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/01083fe7-663a-42d8-bb5f-c4139f4f0b15"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
