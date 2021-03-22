@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:12.C.186.2020.1",
+  "docket": "12 C 186/2020-44",
+  "date": "2021-03-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9f5d96b-830d-4ddf-9e20-ccd5e69585ae",
+  "source_sha256": "5dcd5842ed897bd6b98163fe8999dc72b214680ed68760510c9b7347a9e33e4d",
+  "source_id": "a9f5d96b-830d-4ddf-9e20-ccd5e69585ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 186/2020-44",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jan Špalek",
+    "ecli": "ECLI:CZ:OSPM:2021:12.C.186.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-22",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "poučovací povinnost soudu",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9f5d96b-830d-4ddf-9e20-ccd5e69585ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
