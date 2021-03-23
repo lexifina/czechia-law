@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:158.C.70.2020.3",
+  "docket": "158 C 70/2020-69",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e9f5c43-e601-4fa5-b098-f702c9a7e1bc",
+  "source_sha256": "b81da2a1f5decb474b350a6d9de2942b06a45e4e7ded5fcc856956ea6089c761",
+  "source_id": "8e9f5c43-e601-4fa5-b098-f702c9a7e1bc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "158 C 70/2020-69",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Adam Urbańczyk",
+    "ecli": "ECLI:CZ:OSOV:2021:158.C.70.2020.3",
+    "predmetRizeni": "o 6 405 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "smlouva nájemní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 9 z. č. 177/2020 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e9f5c43-e601-4fa5-b098-f702c9a7e1bc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
