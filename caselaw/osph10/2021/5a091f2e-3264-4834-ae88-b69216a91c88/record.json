@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:18.C.27.2021.1",
+  "docket": "18 C 27/2021-22",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a091f2e-3264-4834-ae88-b69216a91c88",
+  "source_sha256": "da201d7f430d066f055cc3093f8dca92f4eed4de5638fc0d03341464bf75dffb",
+  "source_id": "5a091f2e-3264-4834-ae88-b69216a91c88",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 27/2021-22",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Radka Veverková",
+    "ecli": "ECLI:CZ:OSPH10:2021:18.C.27.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 89e z. č. 373/2011 Sb.",
+      "§ 41 z. č. 372/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a091f2e-3264-4834-ae88-b69216a91c88"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
