@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Praze",
+  "ecli": "ECLI:CZ:KSPH:2021:56.Cm.28.2018.1",
+  "docket": "56 CM 28/2018-62",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/726f9299-1d86-403c-a726-c4d670c59ac9",
+  "source_sha256": "0ec8f98fa092302fdfcfb2b98bed0c31f0105476f76d3726d9c4ff03263a5a29",
+  "source_id": "726f9299-1d86-403c-a726-c4d670c59ac9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "56 CM 28/2018-62",
+    "soud": "Krajský soud v Praze",
+    "autor": "Mgr. Alena Watzková",
+    "ecli": "ECLI:CZ:KSPH:2021:56.Cm.28.2018.1",
+    "predmetRizeni": "o zaplacení částky ve výši 3 000 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "směnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 110 z. č. 99/1963 Sb.",
+      "§ 75 z. č. 191/1950 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/726f9299-1d86-403c-a726-c4d670c59ac9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
