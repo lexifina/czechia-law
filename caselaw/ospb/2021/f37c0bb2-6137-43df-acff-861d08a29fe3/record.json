@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:7.C.19.2021.1",
+  "docket": "7 C 19/2021-14",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f37c0bb2-6137-43df-acff-861d08a29fe3",
+  "source_sha256": "dac92ee0272c4700b4e5faf872bb7e77cea1b791f606f3f5e3c8fd9274ecb9da",
+  "source_id": "f37c0bb2-6137-43df-acff-861d08a29fe3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 19/2021-14",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Veronika Konšelová",
+    "ecli": "ECLI:CZ:OSPB:2021:7.C.19.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "rodinná domácnost",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f37c0bb2-6137-43df-acff-861d08a29fe3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
