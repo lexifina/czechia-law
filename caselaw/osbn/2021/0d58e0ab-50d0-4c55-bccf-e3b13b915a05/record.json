@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:5.C.347.2020.1",
+  "docket": "5 C 347/2020-22",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d58e0ab-50d0-4c55-bccf-e3b13b915a05",
+  "source_sha256": "b0862e3e9d203d61f99384e7fe44c2c042c66d457c9f8aa019ba0977a38153a3",
+  "source_id": "0d58e0ab-50d0-4c55-bccf-e3b13b915a05",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 347/2020-22",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2021:5.C.347.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d58e0ab-50d0-4c55-bccf-e3b13b915a05"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
