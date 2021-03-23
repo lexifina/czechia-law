@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:29.C.247.2020.1",
+  "docket": "29 C 247/2020-45",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4f509d5-1f0c-46d2-be67-307f65cdccaf",
+  "source_sha256": "f48f05eb0cde4e28f600fe8b8ed77a43fd6878665b77782264e96a81fd289c56",
+  "source_id": "a4f509d5-1f0c-46d2-be67-307f65cdccaf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 247/2020-45",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Miroslava Šebelová",
+    "ecli": "ECLI:CZ:OSBI:2021:29.C.247.2020.1",
+    "predmetRizeni": "O zaplacení 1 931,64 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4f509d5-1f0c-46d2-be67-307f65cdccaf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
