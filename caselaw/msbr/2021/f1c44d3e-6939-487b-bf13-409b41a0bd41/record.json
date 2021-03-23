@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:34.C.157.2020.1",
+  "docket": "34 C 157/2020-39",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f1c44d3e-6939-487b-bf13-409b41a0bd41",
+  "source_sha256": "0fc64a051a8710d901b18614c86f7cd9f56b84cc5499006da34f37b002bd9d97",
+  "source_id": "f1c44d3e-6939-487b-bf13-409b41a0bd41",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 157/2020-39",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Pavel Matouš",
+    "ecli": "ECLI:CZ:MSBR:2021:34.C.157.2020.1",
+    "predmetRizeni": "zaplacení 65.407 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f1c44d3e-6939-487b-bf13-409b41a0bd41"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
