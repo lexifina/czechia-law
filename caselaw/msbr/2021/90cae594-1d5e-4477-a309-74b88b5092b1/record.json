@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:104.C.60.2019.1",
+  "docket": "104 C 60/2019-56",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/90cae594-1d5e-4477-a309-74b88b5092b1",
+  "source_sha256": "771ed4bc559389d981e3e6dbac1bd1ef03870c603122163139bb3565ebdc4f85",
+  "source_id": "90cae594-1d5e-4477-a309-74b88b5092b1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "104 C 60/2019-56",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lenka Kovářová",
+    "ecli": "ECLI:CZ:MSBR:2021:104.C.60.2019.1",
+    "predmetRizeni": "zaplacení 47 690 Kč s příslušenstvím - kupní smlouva",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/90cae594-1d5e-4477-a309-74b88b5092b1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
