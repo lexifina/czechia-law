@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:12.C.270.2020.1",
+  "docket": "12 C 270/2020-55",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1ed7ef4-044f-422c-8685-5dcce4998dbc",
+  "source_sha256": "990141fd542760861db0a394e979fa5fe474bfd038b5f839949e44466c5421d5",
+  "source_id": "b1ed7ef4-044f-422c-8685-5dcce4998dbc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 270/2020-55",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Martin Masár",
+    "ecli": "ECLI:CZ:OSLT:2021:12.C.270.2020.1",
+    "predmetRizeni": "O zaplacení 4 200 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 114c z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1ed7ef4-044f-422c-8685-5dcce4998dbc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
