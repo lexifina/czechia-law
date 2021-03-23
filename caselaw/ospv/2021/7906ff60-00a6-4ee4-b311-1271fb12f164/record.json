@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:5.C.6.2021.1",
+  "docket": "5 C 6/2021-84",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7906ff60-00a6-4ee4-b311-1271fb12f164",
+  "source_sha256": "24d0815c0ae7d442af2f3cdbc3ed2c33011aae9991cff88081df4d73b74e66ba",
+  "source_id": "7906ff60-00a6-4ee4-b311-1271fb12f164",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 6/2021-84",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. et Mgr. Věroslav Řezáč",
+    "ecli": "ECLI:CZ:OSPV:2021:5.C.6.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-10-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7906ff60-00a6-4ee4-b311-1271fb12f164"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
