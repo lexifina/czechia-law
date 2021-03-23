@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:8.C.100.2021.1",
+  "docket": "8 C 100/2021-17",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f8f2a3d-6d65-4521-aeef-c0f628d3d84a",
+  "source_sha256": "7037da88483444e2b0325f97557b93abb5ee9178f5e616f4430b43335f95193e",
+  "source_id": "1f8f2a3d-6d65-4521-aeef-c0f628d3d84a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 100/2021-17",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jindřich Kříž",
+    "ecli": "ECLI:CZ:OSKH:2021:8.C.100.2021.1",
+    "predmetRizeni": "o zaplacení 193 169,66 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f8f2a3d-6d65-4521-aeef-c0f628d3d84a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
