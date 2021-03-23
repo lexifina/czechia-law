@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:9.C.298.2020.1",
+  "docket": "9 C 298/2020-30",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4a985cea-2f2b-4867-94fe-1887c2951e46",
+  "source_sha256": "24ae75e6deedf2f93bdb862f8f5f2a029616c34608b1a277f3dc48d59ce1f408",
+  "source_id": "4a985cea-2f2b-4867-94fe-1887c2951e46",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 298/2020-30",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Miroslava Kramná",
+    "ecli": "ECLI:CZ:OSOP:2021:9.C.298.2020.1",
+    "predmetRizeni": "o zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 1887 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4a985cea-2f2b-4867-94fe-1887c2951e46"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
