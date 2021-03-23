@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:10.C.38.2021.1",
+  "docket": "10 C 38/2021-38",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e56289a0-d03f-46c1-be83-bd0b33386989",
+  "source_sha256": "57a1950557e655a1cc2e3a350fc160164ce353aac64ccc50ec045b089b9b0210",
+  "source_id": "e56289a0-d03f-46c1-be83-bd0b33386989",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 38/2021-38",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Lucie Petráková",
+    "ecli": "ECLI:CZ:OSPB:2021:10.C.38.2021.1",
+    "predmetRizeni": "zaplacení 7 968 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e56289a0-d03f-46c1-be83-bd0b33386989"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
