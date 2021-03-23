@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:26.C.463.2020.1",
+  "docket": "26 C 463/2020-32",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e3bb464-04d2-4f4d-a8b2-e902223f07e3",
+  "source_sha256": "8575ff980e9b357bcb348e929b9bd6e0baf34ccf9469ddd622ab3efaf2559b92",
+  "source_id": "1e3bb464-04d2-4f4d-a8b2-e902223f07e3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 463/2020-32",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Štěpánka Dvouletá",
+    "ecli": "ECLI:CZ:OSPH10:2021:26.C.463.2020.1",
+    "predmetRizeni": "3 780 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "elektronický platební rozkaz",
+      "peněžité plnění",
+      "platební rozkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e3bb464-04d2-4f4d-a8b2-e902223f07e3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
