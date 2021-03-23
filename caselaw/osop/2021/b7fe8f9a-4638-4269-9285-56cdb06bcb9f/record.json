@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:38.C.34.2021.1",
+  "docket": "38 C 34/2021-32",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7fe8f9a-4638-4269-9285-56cdb06bcb9f",
+  "source_sha256": "97e864dd8f9df9a8ac535ad97749d584aa2f97656b649058c662e8a912c777c7",
+  "source_id": "b7fe8f9a-4638-4269-9285-56cdb06bcb9f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 34/2021-32",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Miloš Světlík",
+    "ecli": "ECLI:CZ:OSOP:2021:38.C.34.2021.1",
+    "predmetRizeni": "o zaplacení 1 423,53 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu",
+      "smlouva o vedení účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb.",
+      "§ 708 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7fe8f9a-4638-4269-9285-56cdb06bcb9f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
