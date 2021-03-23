@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:37.C.219.2020.1",
+  "docket": "37 C 219/2020-49",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7747f170-843d-4694-8e6c-d817d32a0860",
+  "source_sha256": "afe74a266d3e041b0a378593cac14b1dbdb0fdf109d972ed11cee83b7f2e43a6",
+  "source_id": "7747f170-843d-4694-8e6c-d817d32a0860",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 219/2020-49",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Karel Schiesser",
+    "ecli": "ECLI:CZ:OSOP:2021:37.C.219.2020.1",
+    "predmetRizeni": "O zaplacení 3 300 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-08-06",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7747f170-843d-4694-8e6c-d817d32a0860"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
