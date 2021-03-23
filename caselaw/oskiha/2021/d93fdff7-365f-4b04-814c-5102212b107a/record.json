@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:130.C.406.2020.1",
+  "docket": "130 C 406/2020-63",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d93fdff7-365f-4b04-814c-5102212b107a",
+  "source_sha256": "1026eb6a33974ef44f3689cf04a1ec60e2e22d2e6c20ff742c6a52cdc312f18f",
+  "source_id": "d93fdff7-365f-4b04-814c-5102212b107a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "130 C 406/2020-63",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Turčíková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:130.C.406.2020.1",
+    "predmetRizeni": "12 622,15 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-11-16",
+    "klicovaSlova": [
+      "dodávky energie",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 51 z. č. 458/2000 Sb.",
+      "§ 131 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d93fdff7-365f-4b04-814c-5102212b107a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
