@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:28.C.42.2021.1",
+  "docket": "28 C 42/2021-13",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e9c59198-c611-4eec-9bc9-f37dc038d832",
+  "source_sha256": "4073bff167a5198a35a85c072f6c0673de619182a64fa48c8bfd5cf6e9abb6ce",
+  "source_id": "e9c59198-c611-4eec-9bc9-f37dc038d832",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 42/2021-13",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Eva Bučková",
+    "ecli": "ECLI:CZ:OSZL:2021:28.C.42.2021.1",
+    "predmetRizeni": "zrušení registrovaného partnerství",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 17 z. č. 115/2006 Sb.",
+      "§ 16 z. č. 115/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e9c59198-c611-4eec-9bc9-f37dc038d832"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
