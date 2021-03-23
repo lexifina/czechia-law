@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:5.C.35.2021.1",
+  "docket": "5 C 35/2021-44",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4cd4a0c4-60aa-4ff1-b71a-e83c217f5c8b",
+  "source_sha256": "a6c9c5a492ef9b101586b5d4891cd11520b26195bd85ec22614b0343ab7a6735",
+  "source_id": "4cd4a0c4-60aa-4ff1-b71a-e83c217f5c8b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 35/2021-44",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Dana Nováková",
+    "ecli": "ECLI:CZ:OSPB:2021:5.C.35.2021.1",
+    "predmetRizeni": "zaplacení 9 900 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 145/2010 Sb.",
+      "§ 1879 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4cd4a0c4-60aa-4ff1-b71a-e83c217f5c8b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
