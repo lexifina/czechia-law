@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:13.C.29.2021.1",
+  "docket": "13 C 29/2021-15",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71bb706c-95d9-4545-89fe-0fe99803a97a",
+  "source_sha256": "cbe289aa676f06a7c2b8afbb6609cf7ff442872929447830010e2d19b125fc6a",
+  "source_id": "71bb706c-95d9-4545-89fe-0fe99803a97a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 29/2021-15",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Anna Tichá",
+    "ecli": "ECLI:CZ:OSHK:2021:13.C.29.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 520 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§  z. č. 111/94 Sb.",
+      "§ 18a z. č. 266/94 Sb.",
+      "§ 2554 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71bb706c-95d9-4545-89fe-0fe99803a97a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
