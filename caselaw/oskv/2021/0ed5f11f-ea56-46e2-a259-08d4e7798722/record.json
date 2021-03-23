@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:15.C.78.2021.1",
+  "docket": "15 C 78/2021-11",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0ed5f11f-ea56-46e2-a259-08d4e7798722",
+  "source_sha256": "402894bedf918b2f7f33bd15a0667043253339ab3799bb3166feecd8af845dc5",
+  "source_id": "0ed5f11f-ea56-46e2-a259-08d4e7798722",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 78/2021-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Kateřina Hendrichová",
+    "ecli": "ECLI:CZ:OSKV:2021:15.C.78.2021.1",
+    "predmetRizeni": "230 243,79 Kč / nájemné + služby",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2900 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0ed5f11f-ea56-46e2-a259-08d4e7798722"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
