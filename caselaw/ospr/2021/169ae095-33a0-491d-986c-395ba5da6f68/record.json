@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:11.C.10.2021.1",
+  "docket": "11 C 10/2021-33",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/169ae095-33a0-491d-986c-395ba5da6f68",
+  "source_sha256": "681ac69edc024b37247cb89e5259efacbd2c984ec8c909d049905ca85b8c7769",
+  "source_id": "169ae095-33a0-491d-986c-395ba5da6f68",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 10/2021-33",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Petr Andrýsek",
+    "ecli": "ECLI:CZ:OSPR:2021:11.C.10.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva nájemní",
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 1 vyhl. č. 177/1996 Sb.",
+      "§ 22 z. č. 85/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/169ae095-33a0-491d-986c-395ba5da6f68"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
