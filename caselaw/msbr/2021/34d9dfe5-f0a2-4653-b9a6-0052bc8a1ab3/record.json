@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:94.C.232.2016.1",
+  "docket": "94 C 232/2016-23",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/34d9dfe5-f0a2-4653-b9a6-0052bc8a1ab3",
+  "source_sha256": "9971a44f9ab6db8381b6bc859ccf4b88f0357c416d8f59debd93b0924d8c31a3",
+  "source_id": "34d9dfe5-f0a2-4653-b9a6-0052bc8a1ab3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "94 C 232/2016-23",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lucie Vymětalová",
+    "ecli": "ECLI:CZ:MSBR:2021:94.C.232.2016.1",
+    "predmetRizeni": "zaplacení 266.932,78 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "oddlužení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 140a z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34d9dfe5-f0a2-4653-b9a6-0052bc8a1ab3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
