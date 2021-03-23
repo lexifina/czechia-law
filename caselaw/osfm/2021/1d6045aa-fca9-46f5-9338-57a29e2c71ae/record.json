@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:15.C.308.2020.1",
+  "docket": "15 C 308/2020-30",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d6045aa-fca9-46f5-9338-57a29e2c71ae",
+  "source_sha256": "c4c28a7f089afcbcfb456bc09add85f18bae95a696b2b40785fb5e69372f070b",
+  "source_id": "1d6045aa-fca9-46f5-9338-57a29e2c71ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 308/2020-30",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Ladislava Olbrechtová",
+    "ecli": "ECLI:CZ:OSFM:2021:15.C.308.2020.1",
+    "predmetRizeni": "O zaplacení 27 040 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d6045aa-fca9-46f5-9338-57a29e2c71ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
