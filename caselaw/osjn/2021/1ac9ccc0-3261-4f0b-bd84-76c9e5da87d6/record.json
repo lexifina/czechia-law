@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:13.C.20.2021.1",
+  "docket": "13 C 20/2021-13",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1ac9ccc0-3261-4f0b-bd84-76c9e5da87d6",
+  "source_sha256": "f978e7cb2ba968b16829cbd4a67a9306faae48279e566ca27549f1ffa7f5399c",
+  "source_id": "1ac9ccc0-3261-4f0b-bd84-76c9e5da87d6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 20/2021-13",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Kateřina Kupková",
+    "ecli": "ECLI:CZ:OSJN:2021:13.C.20.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1ac9ccc0-3261-4f0b-bd84-76c9e5da87d6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
