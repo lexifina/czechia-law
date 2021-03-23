@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:6.C.116.2020.1",
+  "docket": "6 C 116/2020-102",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f75026f0-41c5-4b58-a113-b91371ff05cb",
+  "source_sha256": "4257e2e564c587e1d27af5ee2a5ab908637534e24adb4b77c1862948b8ce16ca",
+  "source_id": "f75026f0-41c5-4b58-a113-b91371ff05cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 116/2020-102",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Tereza Pirklová",
+    "ecli": "ECLI:CZ:OSME:2021:6.C.116.2020.1",
+    "predmetRizeni": "O zaplacení 100 537,86 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 251 z. č. 120/2001 Sb.",
+      "§  vyhl. č. 589/2020 Sb.",
+      "§ 156 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f75026f0-41c5-4b58-a113-b91371ff05cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
