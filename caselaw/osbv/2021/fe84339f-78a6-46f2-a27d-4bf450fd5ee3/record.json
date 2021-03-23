@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:5.C.141.2020.1",
+  "docket": "5 C 141/2020-68",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe84339f-78a6-46f2-a27d-4bf450fd5ee3",
+  "source_sha256": "9cd44d8f4d3615fd733405f62887d41cbc16a8449c0ced874a447812a24981ee",
+  "source_id": "fe84339f-78a6-46f2-a27d-4bf450fd5ee3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 141/2020-68",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Hana Krákora",
+    "ecli": "ECLI:CZ:OSBV:2021:5.C.141.2020.1",
+    "predmetRizeni": "16.000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe84339f-78a6-46f2-a27d-4bf450fd5ee3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
