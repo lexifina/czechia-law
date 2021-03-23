@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:34.C.140.2020.1",
+  "docket": "34 C 140/2020-24",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7888290-cf1b-4630-b725-d8681b1badaa",
+  "source_sha256": "50fdbf8dc510c46583ac71c679ac4fab568aa024e5d3b0e3d9de91ee2048490a",
+  "source_id": "a7888290-cf1b-4630-b725-d8681b1badaa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 140/2020-24",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Pavel Matouš",
+    "ecli": "ECLI:CZ:MSBR:2021:34.C.140.2020.1",
+    "predmetRizeni": "zaplacení 8.401 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7888290-cf1b-4630-b725-d8681b1badaa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
