@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:27.C.337.2020.1",
+  "docket": "27 C 337/2020-24",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aa232960-d742-46b2-8cc6-79ca0c299162",
+  "source_sha256": "35ff6c70d978da5772b66d530c9b9f3473f442fb1bdf124a946931ff2fef657f",
+  "source_id": "aa232960-d742-46b2-8cc6-79ca0c299162",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 337/2020-24",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Radka Podlešáková",
+    "ecli": "ECLI:CZ:OSCB:2021:27.C.337.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aa232960-d742-46b2-8cc6-79ca0c299162"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
