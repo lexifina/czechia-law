@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:18.C.271.2020.1",
+  "docket": "18 C 271/2020",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd7c1204-fb78-4961-9eec-e7b3a733c905",
+  "source_sha256": "eb0c8409164445d64cbb2dba824f0e3dc0df096cc1e5e850c0cd781bfb45c9dd",
+  "source_id": "dd7c1204-fb78-4961-9eec-e7b3a733c905",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 271/2020",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Hermanová",
+    "ecli": "ECLI:CZ:OSCV:2021:18.C.271.2020.1",
+    "predmetRizeni": "zaplacení 10 000 Kč s příslušenstvím (půjčka)",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd7c1204-fb78-4961-9eec-e7b3a733c905"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
