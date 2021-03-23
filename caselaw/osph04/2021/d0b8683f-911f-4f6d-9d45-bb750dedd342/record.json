@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:42.C.371.2020.1",
+  "docket": "42 C 371/2020-21",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0b8683f-911f-4f6d-9d45-bb750dedd342",
+  "source_sha256": "12face7dfc288f5fd5a817dbfd8e9059c2525bc88a03b86b1cea8350394503bf",
+  "source_id": "d0b8683f-911f-4f6d-9d45-bb750dedd342",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 371/2020-21",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Radovan Kulhánek",
+    "ecli": "ECLI:CZ:OSPH04:2021:42.C.371.2020.1",
+    "predmetRizeni": "O zaplacení 1 518 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0b8683f-911f-4f6d-9d45-bb750dedd342"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
