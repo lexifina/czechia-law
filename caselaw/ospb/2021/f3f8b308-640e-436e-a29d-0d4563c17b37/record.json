@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:5.C.32.2021.1",
+  "docket": "5 C 32/2021-49",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3f8b308-640e-436e-a29d-0d4563c17b37",
+  "source_sha256": "998d1fefa68e959294b71666d0fcd4007f2e270fcd5eab248e5944b3f41432a6",
+  "source_id": "f3f8b308-640e-436e-a29d-0d4563c17b37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 32/2021-49",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Dana Nováková",
+    "ecli": "ECLI:CZ:OSPB:2021:5.C.32.2021.1",
+    "predmetRizeni": "zaplacení 72 872,52 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3f8b308-640e-436e-a29d-0d4563c17b37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
