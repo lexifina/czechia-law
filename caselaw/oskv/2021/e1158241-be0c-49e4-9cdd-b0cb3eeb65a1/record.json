@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:15.C.75.2021.1",
+  "docket": "15 C 75/2021-11",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e1158241-be0c-49e4-9cdd-b0cb3eeb65a1",
+  "source_sha256": "8b66c7b69c10eccfe55624175308cd0f05a0c447a7acf6a5d61d6ff20b7229cb",
+  "source_id": "e1158241-be0c-49e4-9cdd-b0cb3eeb65a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 75/2021-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Kateřina Hendrichová",
+    "ecli": "ECLI:CZ:OSKV:2021:15.C.75.2021.1",
+    "predmetRizeni": "18.050 Kč / odtah vozidla",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 17a z. č. 553/1991 Sb.",
+      "§ 19 z. č. 13/1997 Sb.",
+      "§ 2 z. č. 56/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e1158241-be0c-49e4-9cdd-b0cb3eeb65a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
