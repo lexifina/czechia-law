@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:17.C.285.2020.5",
+  "docket": "17 C 285/2020-29",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07e8e0b4-12f1-4421-8cc4-6cbf2b1e3fa2",
+  "source_sha256": "2fbd890ef369e5168c28a6c28dbdef8225e7f5262bb912b0fd94042baa572429",
+  "source_id": "07e8e0b4-12f1-4421-8cc4-6cbf2b1e3fa2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 285/2020-29",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2021:17.C.285.2020.5",
+    "predmetRizeni": "1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "pozemní komunikace",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2894 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb.",
+      "§ 45 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07e8e0b4-12f1-4421-8cc4-6cbf2b1e3fa2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
