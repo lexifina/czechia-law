@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:14.C.9.2021.2",
+  "docket": "14 C 9/2021-19",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1164d4dc-60c1-4cc0-aaf0-c0c0cd1f50f4",
+  "source_sha256": "bb1c7760e45bb5aa4a8293e78dd3f45d0bd5be42d0529bf61d109195f839139c",
+  "source_id": "1164d4dc-60c1-4cc0-aaf0-c0c0cd1f50f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 9/2021-19",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Marek Bříza, , LL.M.",
+    "ecli": "ECLI:CZ:OSDC:2021:14.C.9.2021.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1164d4dc-60c1-4cc0-aaf0-c0c0cd1f50f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
