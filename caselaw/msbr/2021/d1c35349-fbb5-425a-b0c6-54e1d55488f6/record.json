@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:30.C.25.2020.1",
+  "docket": "30 C 25/2020-44",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d1c35349-fbb5-425a-b0c6-54e1d55488f6",
+  "source_sha256": "010fc5d762899f46bbb04ff2453b1c594bce6cce35bb15cf23517069f0a34938",
+  "source_id": "d1c35349-fbb5-425a-b0c6-54e1d55488f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 25/2020-44",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Dana Daňková",
+    "ecli": "ECLI:CZ:MSBR:2021:30.C.25.2020.1",
+    "predmetRizeni": "zaplacení 14.619 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d1c35349-fbb5-425a-b0c6-54e1d55488f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
