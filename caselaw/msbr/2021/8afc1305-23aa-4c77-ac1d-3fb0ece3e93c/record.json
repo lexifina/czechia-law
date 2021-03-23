@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:253.C.54.2019.1",
+  "docket": "253 C 54/2019-101",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8afc1305-23aa-4c77-ac1d-3fb0ece3e93c",
+  "source_sha256": "f247f10fd781ae59c66626f1cfb65f44f55ff4ed15c4ba664f14b95a5f0f9b79",
+  "source_id": "8afc1305-23aa-4c77-ac1d-3fb0ece3e93c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "253 C 54/2019-101",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Libuše Jeroušková",
+    "ecli": "ECLI:CZ:MSBR:2021:253.C.54.2019.1",
+    "predmetRizeni": "zaplacení 22 514 Kč s příslušenstvím - smlouva o úvěru",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8afc1305-23aa-4c77-ac1d-3fb0ece3e93c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
