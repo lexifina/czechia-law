@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:5.C.164.2020.1",
+  "docket": "5 C 164/2020-68",
+  "date": "2021-03-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/46040573-d240-461c-a250-cd5d31cfe42a",
+  "source_sha256": "0c0729e7bc19adb1b0b94a66ff06ff226b589152896be7a79a1b10813cbbcd7a",
+  "source_id": "46040573-d240-461c-a250-cd5d31cfe42a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 164/2020-68",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Ludmila Koubová",
+    "ecli": "ECLI:CZ:OSZN:2021:5.C.164.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-03-23",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/46040573-d240-461c-a250-cd5d31cfe42a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
