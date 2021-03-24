@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:11.C.1.2021.1",
+  "docket": "11 C 1/2021-36",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ffe3d1b-f025-42f6-a62d-b9a357442522",
+  "source_sha256": "15579976bc3aeb9eb83a1089b6acb51d7be6633e00bfcfcaf5a95727194d1596",
+  "source_id": "7ffe3d1b-f025-42f6-a62d-b9a357442522",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 1/2021-36",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Monika Nečasová",
+    "ecli": "ECLI:CZ:OSPU:2021:11.C.1.2021.1",
+    "predmetRizeni": "o zaplacení 17 381,19 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-10-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o běžném účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ffe3d1b-f025-42f6-a62d-b9a357442522"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
