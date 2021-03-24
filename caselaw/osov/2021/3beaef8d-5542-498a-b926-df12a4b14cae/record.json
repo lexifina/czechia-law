@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:25.C.11.2021.2",
+  "docket": "25 C 11/2021-17",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3beaef8d-5542-498a-b926-df12a4b14cae",
+  "source_sha256": "ca8d2ba8fb46ca84629e33eb0aa89017b6981c728425601bca15ea97aef05fa7",
+  "source_id": "3beaef8d-5542-498a-b926-df12a4b14cae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 11/2021-17",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Lucie Nohelová",
+    "ecli": "ECLI:CZ:OSOV:2021:25.C.11.2021.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 3074 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3beaef8d-5542-498a-b926-df12a4b14cae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
