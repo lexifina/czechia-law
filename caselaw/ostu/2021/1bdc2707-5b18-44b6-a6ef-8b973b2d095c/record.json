@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:30.C.38.2021.1",
+  "docket": "30 C 38/2021-24",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1bdc2707-5b18-44b6-a6ef-8b973b2d095c",
+  "source_sha256": "0cbfe07e5b31e675f64749c07e0112f19757207e4dbf4a322d35eb12a5eb121c",
+  "source_id": "1bdc2707-5b18-44b6-a6ef-8b973b2d095c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 38/2021-24",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Gabriela Řezníčková",
+    "ecli": "ECLI:CZ:OSTU:2021:30.C.38.2021.1",
+    "predmetRizeni": "zaplacení 1 798 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1bdc2707-5b18-44b6-a6ef-8b973b2d095c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
