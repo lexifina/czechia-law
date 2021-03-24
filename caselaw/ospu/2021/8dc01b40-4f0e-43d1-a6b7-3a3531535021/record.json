@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:111.C.28.2019.1",
+  "docket": "111 C 28/2019-116",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8dc01b40-4f0e-43d1-a6b7-3a3531535021",
+  "source_sha256": "9a81f492efe8e43eb480837095eca1fee588ac44d6310505e43b7d21cc8abf65",
+  "source_id": "8dc01b40-4f0e-43d1-a6b7-3a3531535021",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 28/2019-116",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Monika Nečasová",
+    "ecli": "ECLI:CZ:OSPU:2021:111.C.28.2019.1",
+    "predmetRizeni": "o zaplacení 13 586 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-11-10",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "podnájem",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8dc01b40-4f0e-43d1-a6b7-3a3531535021"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
