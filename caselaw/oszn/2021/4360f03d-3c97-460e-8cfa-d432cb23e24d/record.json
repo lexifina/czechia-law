@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:7.C.294.2020.1",
+  "docket": "7 C 294/2020-73",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4360f03d-3c97-460e-8cfa-d432cb23e24d",
+  "source_sha256": "6ed84474ee3963781cf6b208e31a9d54f5c657b14722c26fab969cb610ca0332",
+  "source_id": "4360f03d-3c97-460e-8cfa-d432cb23e24d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 294/2020-73",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Krčálová",
+    "ecli": "ECLI:CZ:OSZN:2021:7.C.294.2020.1",
+    "predmetRizeni": "[částka]",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2080 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4360f03d-3c97-460e-8cfa-d432cb23e24d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
