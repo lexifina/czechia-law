@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:11.C.67.2020.1",
+  "docket": "11 C 67/2020-39",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b90afb5-26f1-4204-86fa-023a6d47136d",
+  "source_sha256": "355a0e056b7615c67501f87163cebf05e7baccc2c2685ce2fb71933c7230f099",
+  "source_id": "1b90afb5-26f1-4204-86fa-023a6d47136d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 67/2020-39",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Martin Trepka",
+    "ecli": "ECLI:CZ:OSPH02:2021:11.C.67.2020.1",
+    "predmetRizeni": "o zaplacení 300 000 Kč (původně o zaplacení 300 000 Kč s příslušenstvím)",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 5 z. č. 82/1998 Sb.",
+      "§ 31a z. č. 82/1998 Sb.",
+      "§ 14, 15 z. č. 82/1988 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b90afb5-26f1-4204-86fa-023a6d47136d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
