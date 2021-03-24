@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:4.C.81.2020.1",
+  "docket": "4 C 81/2020-20",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d8ef3ded-e508-4d6b-8dfe-6cb26e31cb87",
+  "source_sha256": "880a4944bdc966c15d2e23f10367d5e53776494c5db79ccd0d24db547bab22b1",
+  "source_id": "d8ef3ded-e508-4d6b-8dfe-6cb26e31cb87",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 81/2020-20",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSZN:2021:4.C.81.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d8ef3ded-e508-4d6b-8dfe-6cb26e31cb87"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
