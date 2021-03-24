@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:12.C.6.2021.2",
+  "docket": "12 C 6/2021-21",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c236371-ff1c-4141-9ced-459937cb0207",
+  "source_sha256": "34cbe3925f5da245b888026578cc27a230d39e7e02800422b76480ad9f7b3d48",
+  "source_id": "9c236371-ff1c-4141-9ced-459937cb0207",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 6/2021-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Romana Malá",
+    "ecli": "ECLI:CZ:OSMO:2021:12.C.6.2021.2",
+    "predmetRizeni": "846 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 2991a z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c236371-ff1c-4141-9ced-459937cb0207"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
