@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:19.C.30.2021.1",
+  "docket": "19 C 30/2021-51",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7def2b57-5905-4419-a49d-7de1f5ac26cc",
+  "source_sha256": "1e211c250e5715a4c6852aa39f5855f0666b8de64f256ac8b30eb4bef1fbaae5",
+  "source_id": "7def2b57-5905-4419-a49d-7de1f5ac26cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 30/2021-51",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Olga Vymazalová",
+    "ecli": "ECLI:CZ:OSKM:2021:19.C.30.2021.1",
+    "predmetRizeni": "zaplacení 18 743,42 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7def2b57-5905-4419-a49d-7de1f5ac26cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
