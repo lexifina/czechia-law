@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:125.C.13.2020.5",
+  "docket": "125 C 13/2020-43",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f4a7eee-01d8-42c2-bad6-843a0cd036af",
+  "source_sha256": "81172090bd6298fda867f2bcab7dfd1c975e83248a102c7bbe76a0467a84dc0c",
+  "source_id": "0f4a7eee-01d8-42c2-bad6-843a0cd036af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "125 C 13/2020-43",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Lucie Nohelová",
+    "ecli": "ECLI:CZ:OSOV:2021:125.C.13.2020.5",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 2605 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f4a7eee-01d8-42c2-bad6-843a0cd036af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
