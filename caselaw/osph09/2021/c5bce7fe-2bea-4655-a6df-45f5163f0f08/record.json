@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:40.C.92.2021.1",
+  "docket": "40 C 92/2021-23",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c5bce7fe-2bea-4655-a6df-45f5163f0f08",
+  "source_sha256": "3532cdba00efecfda28ecae711083bb81937fe4f421fe8f62e65337cf291d0bd",
+  "source_id": "c5bce7fe-2bea-4655-a6df-45f5163f0f08",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 92/2021-23",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Iva Jablonská",
+    "ecli": "ECLI:CZ:OSPH09:2021:40.C.92.2021.1",
+    "predmetRizeni": "O zaplacení 2 855,11 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c5bce7fe-2bea-4655-a6df-45f5163f0f08"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
