@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:214.C.3.2021.1",
+  "docket": "214 C 3/2021-95",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0de256d8-ebf9-4aa3-8ebf-f58ec9e6805a",
+  "source_sha256": "c19d03eb8817d70da1b3ba6973b6a9cbbdb2e70c85c7bcaee8e3db121f809669",
+  "source_id": "0de256d8-ebf9-4aa3-8ebf-f58ec9e6805a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "214 C 3/2021-95",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Evženie Vodová",
+    "ecli": "ECLI:CZ:OSKD:2021:214.C.3.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0de256d8-ebf9-4aa3-8ebf-f58ec9e6805a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
