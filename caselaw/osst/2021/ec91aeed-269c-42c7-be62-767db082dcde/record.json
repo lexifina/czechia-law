@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:7.C.70.2021.1",
+  "docket": "7 C 70/2021-18",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec91aeed-269c-42c7-be62-767db082dcde",
+  "source_sha256": "26242133013eb4a8a96aa7bacb40c5937d64d26b7519df52b888595a537b8a40",
+  "source_id": "ec91aeed-269c-42c7-be62-767db082dcde",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 70/2021-18",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Marie Rychtářová",
+    "ecli": "ECLI:CZ:OSST:2021:7.C.70.2021.1",
+    "predmetRizeni": "O zaplacení 10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1883 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec91aeed-269c-42c7-be62-767db082dcde"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
