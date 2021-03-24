@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:11.C.182.2020.1",
+  "docket": "11 C 182/2020-15",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ccefca39-9059-4db8-a6af-695c36641870",
+  "source_sha256": "2b7abc7d68aca362ab1152f55833c64e1f00846afd03219c528aa2616b94e886",
+  "source_id": "ccefca39-9059-4db8-a6af-695c36641870",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 182/2020-15",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Sabina Kubáňová",
+    "ecli": "ECLI:CZ:OSMB:2021:11.C.182.2020.1",
+    "predmetRizeni": "o zaplacení 15 750 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ccefca39-9059-4db8-a6af-695c36641870"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
