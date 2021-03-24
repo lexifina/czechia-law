@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:36.C.67.2021.1",
+  "docket": "36 C 67/2021-7",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37d18e02-8131-454b-ab09-9e5e47666310",
+  "source_sha256": "2164037e9d60f62b9aab65fb2407726fda536df3871f1b8504de1ef78ab3d81a",
+  "source_id": "37d18e02-8131-454b-ab09-9e5e47666310",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 67/2021-7",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Alena Turaiová",
+    "ecli": "ECLI:CZ:OSCL:2021:36.C.67.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 131 z. č. 99/1963 Sb.",
+      "§ 386 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37d18e02-8131-454b-ab09-9e5e47666310"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
