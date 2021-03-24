@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:3.C.211.2020.1",
+  "docket": "3 C 211/2020-25",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f59d55c1-84db-4221-ae7a-0c1899e52ec5",
+  "source_sha256": "ffcf2ac704ea1759f4506723ce9f4b829c4a94791eb30d421de175e5d6b3f7d6",
+  "source_id": "f59d55c1-84db-4221-ae7a-0c1899e52ec5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 211/2020-25",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Ing. David Novotný",
+    "ecli": "ECLI:CZ:OSJE:2021:3.C.211.2020.1",
+    "predmetRizeni": "zrušení výživného rozvedené manželky",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "příspěvek na bydlení",
+      "rozvod manželství",
+      "výživné",
+      "zvýšení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 760 z. č. 89/2012 Sb.",
+      "§ 911 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f59d55c1-84db-4221-ae7a-0c1899e52ec5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
