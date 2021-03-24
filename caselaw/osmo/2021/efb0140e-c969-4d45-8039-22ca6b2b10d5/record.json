@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:22.C.429.2020.3",
+  "docket": "22 C 429/2020-33",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efb0140e-c969-4d45-8039-22ca6b2b10d5",
+  "source_sha256": "365cd5e97f064efa9ae8654c0abf24b99120f4146bcf5e38e39dce3944a6916a",
+  "source_id": "efb0140e-c969-4d45-8039-22ca6b2b10d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 429/2020-33",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Denisa Hamerská",
+    "ecli": "ECLI:CZ:OSMO:2021:22.C.429.2020.3",
+    "predmetRizeni": "1 150 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "rozhodčí doložka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 55 z. č. 89/2012 Sb.",
+      "§ 52 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efb0140e-c969-4d45-8039-22ca6b2b10d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
