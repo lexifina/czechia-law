@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:36.C.371.2020.1",
+  "docket": "36 C 371/2020-75",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2da3ad28-14a9-46e3-86cb-64c28553a523",
+  "source_sha256": "6a9bf320024f628e1e7ef1e6a1e153804321cbf90d35a778838550b1217586fc",
+  "source_id": "2da3ad28-14a9-46e3-86cb-64c28553a523",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 371/2020-75",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Martin Havlík",
+    "ecli": "ECLI:CZ:OSPM:2021:36.C.371.2020.1",
+    "predmetRizeni": "O zaplacení 3 799,99 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "postoupení smlouvy",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2da3ad28-14a9-46e3-86cb-64c28553a523"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
