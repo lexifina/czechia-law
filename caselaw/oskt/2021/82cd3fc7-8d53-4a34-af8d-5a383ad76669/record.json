@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:8.C.40.2021.1",
+  "docket": "8 C 40/2021-15",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82cd3fc7-8d53-4a34-af8d-5a383ad76669",
+  "source_sha256": "0979476742686012d78c8fdc096626b856fc0364585fe35bd2904ebb77d80607",
+  "source_id": "82cd3fc7-8d53-4a34-af8d-5a383ad76669",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 40/2021-15",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martin Matějíček",
+    "ecli": "ECLI:CZ:OSKT:2021:8.C.40.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82cd3fc7-8d53-4a34-af8d-5a383ad76669"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
