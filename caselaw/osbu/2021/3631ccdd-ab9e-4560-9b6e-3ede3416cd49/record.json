@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:19.C.240.2019.1",
+  "docket": "19 C 240/2019-38",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3631ccdd-ab9e-4560-9b6e-3ede3416cd49",
+  "source_sha256": "cff6da8b2699ff564da3de7016e69fe4cc477780efbed735a8fa75423401d005",
+  "source_id": "3631ccdd-ab9e-4560-9b6e-3ede3416cd49",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 240/2019-38",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Pavel Dočkal",
+    "ecli": "ECLI:CZ:OSBU:2021:19.C.240.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3631ccdd-ab9e-4560-9b6e-3ede3416cd49"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
