@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:207.C.11.2021.1",
+  "docket": "207 C 11/2021-36",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/39c152d5-479a-4c15-8d42-c860dc325daa",
+  "source_sha256": "1a75dc3a5f45789dde007d8b86f675e3be79c05d4d7ae47bd1d24d2203fa2b6f",
+  "source_id": "39c152d5-479a-4c15-8d42-c860dc325daa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "207 C 11/2021-36",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jarmila Tůmová",
+    "ecli": "ECLI:CZ:OSKD:2021:207.C.11.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 110 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/39c152d5-479a-4c15-8d42-c860dc325daa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
