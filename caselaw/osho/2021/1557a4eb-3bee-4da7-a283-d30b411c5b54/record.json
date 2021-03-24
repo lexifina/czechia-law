@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:10.C.2.2021.1",
+  "docket": "10 C 2/2021-31",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1557a4eb-3bee-4da7-a283-d30b411c5b54",
+  "source_sha256": "f6ee8ba8ad1230fa14e13e46f41521713f17c8c6dcc376bd0aaa3eb348a0e43a",
+  "source_id": "1557a4eb-3bee-4da7-a283-d30b411c5b54",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 2/2021-31",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Dagmar Štefancová",
+    "ecli": "ECLI:CZ:OSHO:2021:10.C.2.2021.1",
+    "predmetRizeni": "zaplacení 41 200 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "insolvence",
+      "notářský zápis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 115 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1557a4eb-3bee-4da7-a283-d30b411c5b54"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
