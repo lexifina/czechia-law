@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:8.C.110.2020.1",
+  "docket": "8 C 110/2020-44",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3fc4d78e-a734-43b7-92a5-f3a51bd0344c",
+  "source_sha256": "7735c545fab66d1028b4a725a9b19027cf5fdb66edb34d64f235942b5957ec14",
+  "source_id": "3fc4d78e-a734-43b7-92a5-f3a51bd0344c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 110/2020-44",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Petra Nováková",
+    "ecli": "ECLI:CZ:OSPU:2021:8.C.110.2020.1",
+    "predmetRizeni": "o zaplacení 11 644,93 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3fc4d78e-a734-43b7-92a5-f3a51bd0344c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
