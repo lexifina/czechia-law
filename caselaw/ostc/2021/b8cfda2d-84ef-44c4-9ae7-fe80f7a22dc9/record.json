@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:10.C.1.2021.1",
+  "docket": "10 C 1/2021-23",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8cfda2d-84ef-44c4-9ae7-fe80f7a22dc9",
+  "source_sha256": "55c21eda037be38f7569c3ec70d52b6241428654bd51ff9f5ef94029a7939a26",
+  "source_id": "b8cfda2d-84ef-44c4-9ae7-fe80f7a22dc9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 1/2021-23",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Petr Klein",
+    "ecli": "ECLI:CZ:OSTC:2021:10.C.1.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "soulož"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8cfda2d-84ef-44c4-9ae7-fe80f7a22dc9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
