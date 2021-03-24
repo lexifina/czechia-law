@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:19.C.288.2020.1",
+  "docket": "19 C 288/2020-62",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3d1223c-7a38-4819-9a39-ce93862f9137",
+  "source_sha256": "d77c15122bf5e05e307255e872a6a396570c74dfa59a4956601a1b9ea704cee1",
+  "source_id": "c3d1223c-7a38-4819-9a39-ce93862f9137",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 288/2020-62",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Pavel Dočkal",
+    "ecli": "ECLI:CZ:OSBU:2021:19.C.288.2020.1",
+    "predmetRizeni": "o zaplacení částky 4 350 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3d1223c-7a38-4819-9a39-ce93862f9137"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
