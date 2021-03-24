@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:12.C.29.2021.1",
+  "docket": "12 C 29/2021-17",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37c5fb00-31e4-4d81-b362-fe8714d04b63",
+  "source_sha256": "ee23c82698cc40ecfc095089fb536e1fa6887ca48e22348cfcf89f8d625e0642",
+  "source_id": "37c5fb00-31e4-4d81-b362-fe8714d04b63",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 29/2021-17",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milan Plhal",
+    "ecli": "ECLI:CZ:OSHK:2021:12.C.29.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37c5fb00-31e4-4d81-b362-fe8714d04b63"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
