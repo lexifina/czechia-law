@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:9.C.280.2020.1",
+  "docket": "9 C 280/2020-17",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cdae571d-ca5d-4128-b2d2-2ce5daf6e594",
+  "source_sha256": "38bd169a9d00bede72b21148697a5b1af1af04754e91e4b2cd0763f72581fd3d",
+  "source_id": "cdae571d-ca5d-4128-b2d2-2ce5daf6e594",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 280/2020-17",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Tomáš Machytka",
+    "ecli": "ECLI:CZ:OSLN:2021:9.C.280.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cdae571d-ca5d-4128-b2d2-2ce5daf6e594"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
