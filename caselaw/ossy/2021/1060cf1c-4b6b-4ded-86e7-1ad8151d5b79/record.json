@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:16.C.33.2021.1",
+  "docket": "16 C 33/2021-70",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1060cf1c-4b6b-4ded-86e7-1ad8151d5b79",
+  "source_sha256": "a402108f426a16e7f2dcfd4a84b9ceedcabfa0ec5ddd724f06fbb358a6c199d0",
+  "source_id": "1060cf1c-4b6b-4ded-86e7-1ad8151d5b79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 33/2021-70",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Ivo Mikolajek",
+    "ecli": "ECLI:CZ:OSSY:2021:16.C.33.2021.1",
+    "predmetRizeni": "o zaplacení 5 269,57 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-07-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1060cf1c-4b6b-4ded-86e7-1ad8151d5b79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
