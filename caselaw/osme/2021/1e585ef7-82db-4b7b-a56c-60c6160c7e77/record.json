@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:15.C.60.2021.1",
+  "docket": "15 C 60/2021-20",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e585ef7-82db-4b7b-a56c-60c6160c7e77",
+  "source_sha256": "7c520c2ae987e188bf064d29d43cf8f187ab4e8cf67b643a6a82e3be0ebb0893",
+  "source_id": "1e585ef7-82db-4b7b-a56c-60c6160c7e77",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 60/2021-20",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "JUDr. Kateřina Holubová",
+    "ecli": "ECLI:CZ:OSME:2021:15.C.60.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e585ef7-82db-4b7b-a56c-60c6160c7e77"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
