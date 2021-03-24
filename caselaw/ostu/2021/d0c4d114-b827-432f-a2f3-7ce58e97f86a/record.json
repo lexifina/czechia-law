@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:7.C.26.2021.1",
+  "docket": "7 C 26/2021-40",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0c4d114-b827-432f-a2f3-7ce58e97f86a",
+  "source_sha256": "1cff86d1cc6fd185d301d5a74e59243d09fd11c7b4d2e0797c11e0e9003cf6d2",
+  "source_id": "d0c4d114-b827-432f-a2f3-7ce58e97f86a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 26/2021-40",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Jiří Vošvrda",
+    "ecli": "ECLI:CZ:OSTU:2021:7.C.26.2021.1",
+    "predmetRizeni": "zaplacení 5 108 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0c4d114-b827-432f-a2f3-7ce58e97f86a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
