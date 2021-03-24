@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:14.C.23.2021.1",
+  "docket": "14 C 23/2021",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7bc06e96-14a4-4bd8-99db-64c51450831b",
+  "source_sha256": "55742cf62316a4d926e726fe930c941118b2aef9def281f342517126fa45b976",
+  "source_id": "7bc06e96-14a4-4bd8-99db-64c51450831b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 23/2021",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Magda Mocová",
+    "ecli": "ECLI:CZ:OSKO:2021:14.C.23.2021.1",
+    "predmetRizeni": "O zaplacení 102 929,99 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7bc06e96-14a4-4bd8-99db-64c51450831b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
