@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.22.2021.1",
+  "docket": "21 C 22/2021-36",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/99a8a1b8-7acc-4508-9fae-b69ffe3d6205",
+  "source_sha256": "7fd16edaf8324eeade08a217cc7ebb1eb64ec9923c5ae73687c349ce82bd4cec",
+  "source_id": "99a8a1b8-7acc-4508-9fae-b69ffe3d6205",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 22/2021-36",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.22.2021.1",
+    "predmetRizeni": "O zaplacení 35.884 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/99a8a1b8-7acc-4508-9fae-b69ffe3d6205"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
