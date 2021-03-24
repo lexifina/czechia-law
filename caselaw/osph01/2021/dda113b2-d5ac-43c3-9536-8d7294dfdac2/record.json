@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:22.C.321.2020.1",
+  "docket": "22 C 321/2020",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dda113b2-d5ac-43c3-9536-8d7294dfdac2",
+  "source_sha256": "c1f372ff6fcb0599720ce071f9f5e6784143180a4947b367be6647e0e5ed309b",
+  "source_id": "dda113b2-d5ac-43c3-9536-8d7294dfdac2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 321/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Vránová",
+    "ecli": "ECLI:CZ:OSPH01:2021:22.C.321.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dda113b2-d5ac-43c3-9536-8d7294dfdac2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
