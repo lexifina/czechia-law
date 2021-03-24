@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:12.C.20.2021.1",
+  "docket": "12 C 20/2021-21",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6572e287-4fe6-4394-a50d-a77b20fff988",
+  "source_sha256": "2a7feaab3d1a2fb2f5bce57e6d6f9ce831a42b1b1aa0d0b13a6bdbaa425b6b8f",
+  "source_id": "6572e287-4fe6-4394-a50d-a77b20fff988",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 20/2021-21",
+    "soud": "Okresní soud v Písku",
+    "autor": "Mgr. Daniela Špeldová",
+    "ecli": "ECLI:CZ:OSPI:2021:12.C.20.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 209 z. č. 40/2009 Sb.",
+      "§ 757 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6572e287-4fe6-4394-a50d-a77b20fff988"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
