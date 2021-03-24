@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:5.C.129.2018.1",
+  "docket": "5 C 129/2018-464",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0228ad2-6427-4942-8969-8999003ac620",
+  "source_sha256": "338217503cd3c1da0a22c5c8ffa582e9fd300795285e86c7e997fdaddd4825e7",
+  "source_id": "d0228ad2-6427-4942-8969-8999003ac620",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 129/2018-464",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:5.C.129.2018.1",
+    "predmetRizeni": "o nahrazení projevu vůle",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-11-25",
+    "klicovaSlova": [
+      "držba",
+      "náhradní pozemek",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "zastavení řízení",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 503/2012 Sb.",
+      "§ 14 vyhl. č. 182/1988 Sb.",
+      "§ 28a z. č. 229/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0228ad2-6427-4942-8969-8999003ac620"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
