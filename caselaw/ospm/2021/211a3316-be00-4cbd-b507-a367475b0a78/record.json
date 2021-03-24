@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:28.C.45.2021.1",
+  "docket": "28 C 45/2021-25",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/211a3316-be00-4cbd-b507-a367475b0a78",
+  "source_sha256": "3b45fd2a527285d2d9212ad665a6c19d6b4a5e47b6e9930713051a4f7e6522d7",
+  "source_id": "211a3316-be00-4cbd-b507-a367475b0a78",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 45/2021-25",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Kateřina Auterská šašková",
+    "ecli": "ECLI:CZ:OSPM:2021:28.C.45.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/211a3316-be00-4cbd-b507-a367475b0a78"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
