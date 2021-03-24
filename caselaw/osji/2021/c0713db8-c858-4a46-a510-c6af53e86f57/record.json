@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:21.C.71.2021.1",
+  "docket": "21 C 71/2021-29",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c0713db8-c858-4a46-a510-c6af53e86f57",
+  "source_sha256": "f1de7a365d6d4e5e4b23d2b15170413d918257e094b470c57e3a979c2df04deb",
+  "source_id": "c0713db8-c858-4a46-a510-c6af53e86f57",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 71/2021-29",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Zuzana Břízová",
+    "ecli": "ECLI:CZ:OSJI:2021:21.C.71.2021.1",
+    "predmetRizeni": "o 3 045,91 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 50 z. č. 458/2000 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c0713db8-c858-4a46-a510-c6af53e86f57"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
