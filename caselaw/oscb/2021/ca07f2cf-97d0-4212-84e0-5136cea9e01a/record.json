@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:16.C.314.2020.1",
+  "docket": "16 C 314/2020-39",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca07f2cf-97d0-4212-84e0-5136cea9e01a",
+  "source_sha256": "c135b4153d452da35b2454e9f6535ed0f27ac2c61f18f9b84e1de2b354fb66eb",
+  "source_id": "ca07f2cf-97d0-4212-84e0-5136cea9e01a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 314/2020-39",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Jana Traxlerová",
+    "ecli": "ECLI:CZ:OSCB:2021:16.C.314.2020.1",
+    "predmetRizeni": "o zrušení výživného zletilého dítěte",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 205 z. č. 99/1963 Sb.",
+      "§ 114c z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca07f2cf-97d0-4212-84e0-5136cea9e01a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
