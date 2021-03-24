@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:24.C.51.2021.1",
+  "docket": "24 C 51/2021-48",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cbc9ddd5-4e2f-4496-bf49-3e8185e09fc7",
+  "source_sha256": "ec3c7d7a2ccbe3e6f6b14d9d4122cb6b70b3e4bd2b9c6d84ddcb6a588958cd7e",
+  "source_id": "cbc9ddd5-4e2f-4496-bf49-3e8185e09fc7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 51/2021-48",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Naděžda Nováková",
+    "ecli": "ECLI:CZ:OSOL:2021:24.C.51.2021.1",
+    "predmetRizeni": "o 1 525 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cbc9ddd5-4e2f-4496-bf49-3e8185e09fc7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
