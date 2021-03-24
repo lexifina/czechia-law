@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:18.C.231.2020.1",
+  "docket": "18 C 231/2020-26",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cec935f-1714-4662-8b62-41ffb0cbbc90",
+  "source_sha256": "09d827b34d9ccf3a2ff195e3efd29868969cfe61d3ec202c97c40f589f900355",
+  "source_id": "8cec935f-1714-4662-8b62-41ffb0cbbc90",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 231/2020-26",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Dana Čuprová",
+    "ecli": "ECLI:CZ:OSLI:2021:18.C.231.2020.1",
+    "predmetRizeni": "Návrh na vydání PR - zaplacení částky 7 600 Kč s příslušenstvím",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2316 z. č. 89/2012 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cec935f-1714-4662-8b62-41ffb0cbbc90"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
