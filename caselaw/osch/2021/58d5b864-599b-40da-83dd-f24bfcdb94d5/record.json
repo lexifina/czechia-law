@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:20.C.10.2021.3",
+  "docket": "20 C 10/2021-22",
+  "date": "2021-03-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/58d5b864-599b-40da-83dd-f24bfcdb94d5",
+  "source_sha256": "d9782357a24f499a423dcd2397dea2b7b88937a86cfa0812485fd1c7dc3753a0",
+  "source_id": "58d5b864-599b-40da-83dd-f24bfcdb94d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 10/2021-22",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Robert Plášil",
+    "ecli": "ECLI:CZ:OSCH:2021:20.C.10.2021.3",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-03-24",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/58d5b864-599b-40da-83dd-f24bfcdb94d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
