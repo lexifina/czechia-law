@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:33.C.295.2020.3",
+  "docket": "33 C 295/2020-30",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecdd215e-739c-49ee-8f26-ed8e35ad96e1",
+  "source_sha256": "4035cf4a6b0f3b9fb46eb1c5e087c58b0ab80b0a5f5b6daa7176416e2bd4c6a6",
+  "source_id": "ecdd215e-739c-49ee-8f26-ed8e35ad96e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 295/2020-30",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Petr Blažej",
+    "ecli": "ECLI:CZ:OSUL:2021:33.C.295.2020.3",
+    "predmetRizeni": "O zaplacení 5 909,90 Kč",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2085 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2118 z. č. 89/2012 Sb.",
+      "§ 2087 z. č. 89/2012 Sb.",
+      "§ 1939 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecdd215e-739c-49ee-8f26-ed8e35ad96e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
