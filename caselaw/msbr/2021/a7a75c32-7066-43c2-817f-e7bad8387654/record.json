@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:116.C.1.2021.1",
+  "docket": "116 C 1/2021-19",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7a75c32-7066-43c2-817f-e7bad8387654",
+  "source_sha256": "4ef3ae8eb177e805539a9c297e6091382a9cb121f9063a265d6655f9d02ed004",
+  "source_id": "a7a75c32-7066-43c2-817f-e7bad8387654",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 1/2021-19",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Tamara Göthová",
+    "ecli": "ECLI:CZ:MSBR:2021:116.C.1.2021.1",
+    "predmetRizeni": "zaplacení 1.616 Kč s příslušenstvím ",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7a75c32-7066-43c2-817f-e7bad8387654"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
