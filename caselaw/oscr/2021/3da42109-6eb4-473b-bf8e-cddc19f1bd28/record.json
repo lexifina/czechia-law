@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:3.C.23.2021.1",
+  "docket": "3 C 23/2021-13",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3da42109-6eb4-473b-bf8e-cddc19f1bd28",
+  "source_sha256": "4cb6d7ec5caf9972ff565611e24a6af541c1047848f14a05291bec1c25dfb8ec",
+  "source_id": "3da42109-6eb4-473b-bf8e-cddc19f1bd28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 23/2021-13",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Jana Profousová",
+    "ecli": "ECLI:CZ:OSCR:2021:3.C.23.2021.1",
+    "predmetRizeni": "o 2 261 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3da42109-6eb4-473b-bf8e-cddc19f1bd28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
