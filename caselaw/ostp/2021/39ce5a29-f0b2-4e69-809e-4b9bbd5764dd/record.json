@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:25.C.46.2021.1",
+  "docket": "25 C 46/2021-20",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/39ce5a29-f0b2-4e69-809e-4b9bbd5764dd",
+  "source_sha256": "3493cabf487ce470cf7b64e5345fd75bc183fccbb84e962d2e653ec5f6b82aac",
+  "source_id": "39ce5a29-f0b2-4e69-809e-4b9bbd5764dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 46/2021-20",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Jana Hackerová",
+    "ecli": "ECLI:CZ:OSTP:2021:25.C.46.2021.1",
+    "predmetRizeni": "zaplacení 7 351 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 55 z. č. 48/1997 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/39ce5a29-f0b2-4e69-809e-4b9bbd5764dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
