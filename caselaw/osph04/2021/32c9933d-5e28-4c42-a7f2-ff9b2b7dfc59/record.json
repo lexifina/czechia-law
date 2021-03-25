@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:42.C.284.2019.1",
+  "docket": "42 C 284/2019-37",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32c9933d-5e28-4c42-a7f2-ff9b2b7dfc59",
+  "source_sha256": "ab63c2a584ff9f4b2afbeab8db9484183036a72cfd105cfbf14a16335b60a1da",
+  "source_id": "32c9933d-5e28-4c42-a7f2-ff9b2b7dfc59",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 284/2019-37",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Radovan Kulhánek",
+    "ecli": "ECLI:CZ:OSPH04:2021:42.C.284.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "notářský zápis",
+      "rozvod manželství",
+      "smlouva o manželském majetkovém režimu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32c9933d-5e28-4c42-a7f2-ff9b2b7dfc59"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
