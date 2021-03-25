@@ -1,0 +1,52 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:25.C.266.2020.1",
+  "docket": "25 C 266/2020-42",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cdb02086-d298-4a9b-bc7d-7eef825edcc9",
+  "source_sha256": "d26ae078e453c01d67a22186bd8f3b71add6e3549c2e55cc7a4df8bd0d372485",
+  "source_id": "cdb02086-d298-4a9b-bc7d-7eef825edcc9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 266/2020-42",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Martina Folková",
+    "ecli": "ECLI:CZ:OSPM:2021:25.C.266.2020.1",
+    "predmetRizeni": "O zaplacení 16 100 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-12-01",
+    "klicovaSlova": [
+      "lichva",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 577 z. č. 89/2012 Sb.",
+      "§ 45 z. č. 99/1963 Sb.",
+      "§ 1796 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cdb02086-d298-4a9b-bc7d-7eef825edcc9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
