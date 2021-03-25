@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:17.C.38.2021.1",
+  "docket": "17 C 38/2021-19",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96da3c83-3ec5-4b2a-8dfb-78c174c7f0bb",
+  "source_sha256": "15c253414fbd78052c1138e52a480099c3235e407b1dc20cfa7307fffc57dfd3",
+  "source_id": "96da3c83-3ec5-4b2a-8dfb-78c174c7f0bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 38/2021-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Petra Filová",
+    "ecli": "ECLI:CZ:MSBR:2021:17.C.38.2021.1",
+    "predmetRizeni": "zaplacení 5.296,54 Kč - faktura",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-08-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96da3c83-3ec5-4b2a-8dfb-78c174c7f0bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
