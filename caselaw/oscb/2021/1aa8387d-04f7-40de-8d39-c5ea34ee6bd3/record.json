@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:27.C.206.2020.1",
+  "docket": "27 C 206/2020-106",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1aa8387d-04f7-40de-8d39-c5ea34ee6bd3",
+  "source_sha256": "db954f9a676573913d2ac33c6a5c61de5edb1dc9ff18f48cd047a17952dc3e25",
+  "source_id": "1aa8387d-04f7-40de-8d39-c5ea34ee6bd3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 206/2020-106",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Radka Podlešáková",
+    "ecli": "ECLI:CZ:OSCB:2021:27.C.206.2020.1",
+    "predmetRizeni": "o žaloba na určení vlastnického práva k jednotce",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "duševní choroba",
+      "duševní porucha",
+      "podílové spoluvlastnictví",
+      "podjatost",
+      "smlouva darovací",
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 581 z. č. 89/2012 Sb.",
+      "§ 127a z. č. 99/1963 Sb.",
+      "§ 80 z. č. 99/1963 Sb.",
+      "§ 20 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1aa8387d-04f7-40de-8d39-c5ea34ee6bd3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
