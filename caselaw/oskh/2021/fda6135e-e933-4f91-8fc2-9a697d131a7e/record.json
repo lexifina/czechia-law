@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:7.C.71.2021.1",
+  "docket": "7 C 71/2021-16",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fda6135e-e933-4f91-8fc2-9a697d131a7e",
+  "source_sha256": "60e8e45703854be943e2589811d8c99d23748249edd623dcfded5ae034fdeeee",
+  "source_id": "fda6135e-e933-4f91-8fc2-9a697d131a7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 71/2021-16",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "JUDr. Dagmar Grenarová",
+    "ecli": "ECLI:CZ:OSKH:2021:7.C.71.2021.1",
+    "predmetRizeni": "O zaplacení 15 081 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fda6135e-e933-4f91-8fc2-9a697d131a7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
