@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:7.C.41.2021.3",
+  "docket": "7 C 41/2021-42",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/533432b9-9599-4f62-ad95-a23dfcd76520",
+  "source_sha256": "9e8b1e7e42021c1fc45b15eec3b2baf681cfd8a1e9c2418eeec408822a1a3ee0",
+  "source_id": "533432b9-9599-4f62-ad95-a23dfcd76520",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 41/2021-42",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Pavel Téra",
+    "ecli": "ECLI:CZ:OSUL:2021:7.C.41.2021.3",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o úschově"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 142od z. č. 99/1963 Sb.",
+      "§ 160od z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/533432b9-9599-4f62-ad95-a23dfcd76520"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
