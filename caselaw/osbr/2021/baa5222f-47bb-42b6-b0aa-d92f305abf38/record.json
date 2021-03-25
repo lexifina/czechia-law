@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:18.C.6.2021.1",
+  "docket": "18 C 6/2021",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/baa5222f-47bb-42b6-b0aa-d92f305abf38",
+  "source_sha256": "99a91449307fb793f6310b51cbca3c474383f7aa0afd77f410a4905f115e4b57",
+  "source_id": "baa5222f-47bb-42b6-b0aa-d92f305abf38",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 6/2021",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Veronika Sekerová",
+    "ecli": "ECLI:CZ:OSBR:2021:18.C.6.2021.1",
+    "predmetRizeni": "O zaplacení 3 440 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/baa5222f-47bb-42b6-b0aa-d92f305abf38"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
