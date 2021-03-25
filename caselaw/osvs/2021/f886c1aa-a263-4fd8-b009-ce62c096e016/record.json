@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:8.C.92.2020.1",
+  "docket": "8 C 92/2020-43",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f886c1aa-a263-4fd8-b009-ce62c096e016",
+  "source_sha256": "977e3e600e29f821a88129528dad52ab9a3b3f51db7e02883e1f061e19d76821",
+  "source_id": "f886c1aa-a263-4fd8-b009-ce62c096e016",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 92/2020-43",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Naděžda Janáčková",
+    "ecli": "ECLI:CZ:OSVS:2021:8.C.92.2020.1",
+    "predmetRizeni": "O zaplacení 27 067,60 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o běžném účtu",
+      "smlouva o účtu",
+      "smlouva o úvěru",
+      "smlouva o vedení účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f886c1aa-a263-4fd8-b009-ce62c096e016"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
