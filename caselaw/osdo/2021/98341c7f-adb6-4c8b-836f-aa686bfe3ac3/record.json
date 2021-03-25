@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:3.C.47.2021.1",
+  "docket": "3 C 47/2021-16",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/98341c7f-adb6-4c8b-836f-aa686bfe3ac3",
+  "source_sha256": "5f996ffb1975ace833014b7850615c1e4884cd4f517d6cd4f057ca7c27bf9577",
+  "source_id": "98341c7f-adb6-4c8b-836f-aa686bfe3ac3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 47/2021-16",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Vladimír Matějíček",
+    "ecli": "ECLI:CZ:OSDO:2021:3.C.47.2021.1",
+    "predmetRizeni": "O zaplacení 1 350 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-04-17",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/98341c7f-adb6-4c8b-836f-aa686bfe3ac3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
