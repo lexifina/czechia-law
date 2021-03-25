@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:8.C.25.2020.1",
+  "docket": "8 C 25/2020-23",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e06e024c-589e-4e57-91ac-42674c5f5221",
+  "source_sha256": "8795f178f68cbbc1007e0dcfffe6fbddb95ae4cbc9f453add2fb7cd4e7f580f2",
+  "source_id": "e06e024c-589e-4e57-91ac-42674c5f5221",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 25/2020-23",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Marek Peřina",
+    "ecli": "ECLI:CZ:OSKM:2021:8.C.25.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e06e024c-589e-4e57-91ac-42674c5f5221"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
