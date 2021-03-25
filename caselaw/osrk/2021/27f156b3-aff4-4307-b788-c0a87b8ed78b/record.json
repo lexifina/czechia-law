@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:7.C.18.2021.1",
+  "docket": "7 C 18/2021-45",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/27f156b3-aff4-4307-b788-c0a87b8ed78b",
+  "source_sha256": "912665584c5e5dd899321aff9792c627bf49765233063906591e6362fbaa8d18",
+  "source_id": "27f156b3-aff4-4307-b788-c0a87b8ed78b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 18/2021-45",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Renata Plná",
+    "ecli": "ECLI:CZ:OSRK:2021:7.C.18.2021.1",
+    "predmetRizeni": "o zaplacení 19.666 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 1810 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/27f156b3-aff4-4307-b788-c0a87b8ed78b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
