@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:3.C.98.2020.1",
+  "docket": "3 C 98/2020-43",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f6e29bc-5672-423e-ba7f-4065be8ae09e",
+  "source_sha256": "2d64eeac932947fdef5062ee086d2fbf0776b88c203c49d396165ad788b36e43",
+  "source_id": "9f6e29bc-5672-423e-ba7f-4065be8ae09e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 98/2020-43",
+    "soud": "Okresní soud v Písku",
+    "autor": "JUDr. Ondřej Mörtl",
+    "ecli": "ECLI:CZ:OSPI:2021:3.C.98.2020.1",
+    "predmetRizeni": "zaplacení 33 394,84 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f6e29bc-5672-423e-ba7f-4065be8ae09e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
