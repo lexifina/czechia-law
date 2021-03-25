@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:26.C.72.2021.1",
+  "docket": "26 C 72/2021-17",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/27ff36aa-578d-4d4c-8b06-db121172f74c",
+  "source_sha256": "fbaac566ac5bbf902f60bb14f721df2e009009081954892209af6e9a32bf1683",
+  "source_id": "27ff36aa-578d-4d4c-8b06-db121172f74c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 72/2021-17",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Štěpánka Dvouletá",
+    "ecli": "ECLI:CZ:OSPH10:2021:26.C.72.2021.1",
+    "predmetRizeni": "675 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/27ff36aa-578d-4d4c-8b06-db121172f74c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
