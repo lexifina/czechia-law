@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:18.C.82.2021.1",
+  "docket": "18 C 82/2021-13",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b77735e-43d4-4e26-b19d-269e0a06c72f",
+  "source_sha256": "69db0727fe5936df55b0dfc72a3bf9d28a74117cb49176885bcced195bc865a5",
+  "source_id": "2b77735e-43d4-4e26-b19d-269e0a06c72f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 82/2021-13",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Ivana Holubovská",
+    "ecli": "ECLI:CZ:OSKV:2021:18.C.82.2021.1",
+    "predmetRizeni": "18 943,62 Kč / úvěr",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva mandátní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b77735e-43d4-4e26-b19d-269e0a06c72f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
