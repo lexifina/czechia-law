@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:28.C.378.2020.1",
+  "docket": "28 C 378/2020-33",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0130c83-8936-4efb-b78e-a81b55b8ede8",
+  "source_sha256": "9ad00ee513971c6c05d384abbb65799e1469251a27c30d6d6e17e1a21fdcbd0e",
+  "source_id": "f0130c83-8936-4efb-b78e-a81b55b8ede8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 378/2020-33",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Hana Šedivá",
+    "ecli": "ECLI:CZ:OSPH06:2021:28.C.378.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 732 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0130c83-8936-4efb-b78e-a81b55b8ede8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
