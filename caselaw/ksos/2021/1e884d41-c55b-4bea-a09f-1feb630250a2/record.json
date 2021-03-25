@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ostravě",
+  "ecli": "ECLI:CZ:KSOS:2021:83.C.54.2020 .1",
+  "docket": "83 C 54/2020-25",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e884d41-c55b-4bea-a09f-1feb630250a2",
+  "source_sha256": "b25e485491070c677459765c4aa4fb3d83fdbe7ba2f8b81c941b0622bf404d13",
+  "source_id": "1e884d41-c55b-4bea-a09f-1feb630250a2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "83 C 54/2020-25",
+    "soud": "Krajský soud v Ostravě",
+    "autor": "JUDr. Eva Zavrtálková",
+    "ecli": "ECLI:CZ:KSOS:2021:83.C.54.2020 .1",
+    "predmetRizeni": "o částku 8.121 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "autorské dílo",
+      "peněžité plnění",
+      "smlouva licenční"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb.",
+      "§ 9 z. č. 99/1963 Sb.",
+      "§  z. č. 121/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e884d41-c55b-4bea-a09f-1feb630250a2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
