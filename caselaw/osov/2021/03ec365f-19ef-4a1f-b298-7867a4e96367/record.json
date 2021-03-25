@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:80.C.385.2020.2",
+  "docket": "80 C 385/2020-52",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03ec365f-19ef-4a1f-b298-7867a4e96367",
+  "source_sha256": "f7e591528bb88e076ba4e68a4f260f402382a5b022e6799188b9e4a3365cee70",
+  "source_id": "03ec365f-19ef-4a1f-b298-7867a4e96367",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "80 C 385/2020-52",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Hana Králová",
+    "ecli": "ECLI:CZ:OSOV:2021:80.C.385.2020.2",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03ec365f-19ef-4a1f-b298-7867a4e96367"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
