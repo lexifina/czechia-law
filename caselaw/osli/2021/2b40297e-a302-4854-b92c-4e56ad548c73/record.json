@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.370.2020.1",
+  "docket": "17 C 370/2020-55",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b40297e-a302-4854-b92c-4e56ad548c73",
+  "source_sha256": "789caf9e47da8faba64beccaf65de9ca30268c18ed3bf35fe06a6c51207e495c",
+  "source_id": "2b40297e-a302-4854-b92c-4e56ad548c73",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 370/2020-55",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.370.2020.1",
+    "predmetRizeni": "Žaloba - zaplacení částky 45.630,00 Kč s přísl.",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "sleva z ceny",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 2610 z. č. 89/2012 Sb.",
+      "§ 1987 z. č. 89/2012 Sb.",
+      "§ 2106 z. č. 89/2012 Sb.",
+      "§ 2615 z. č. 89/2012 Sb.",
+      "§ 2107 z. č. 89/2012 Sb.",
+      "§ 2605 z. č. 89/2012 Sb.",
+      "§ 2617 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b40297e-a302-4854-b92c-4e56ad548c73"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
