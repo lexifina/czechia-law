@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:34.C.17.2021.1",
+  "docket": "34 C 17/2021-17",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a77197bd-13e3-492c-b60d-8e4bb0a18699",
+  "source_sha256": "b92e854eaa109381516a187f3575f91155887ec784654c600ebe1771c6b0fc1f",
+  "source_id": "a77197bd-13e3-492c-b60d-8e4bb0a18699",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 17/2021-17",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jana Bojková",
+    "ecli": "ECLI:CZ:OSOV:2021:34.C.17.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a77197bd-13e3-492c-b60d-8e4bb0a18699"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
