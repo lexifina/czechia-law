@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:13.C.73.2021.1",
+  "docket": "13 C 73/2021-20",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c8f91d98-5c9b-4ebc-8b6d-36b9766805f8",
+  "source_sha256": "c56f9eb2e8d5a14f3c4c2c2de5409932b765846c9851eaece5bad3cef78137b2",
+  "source_id": "c8f91d98-5c9b-4ebc-8b6d-36b9766805f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 73/2021-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2021:13.C.73.2021.1",
+    "predmetRizeni": "5 615 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2779 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c8f91d98-5c9b-4ebc-8b6d-36b9766805f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
