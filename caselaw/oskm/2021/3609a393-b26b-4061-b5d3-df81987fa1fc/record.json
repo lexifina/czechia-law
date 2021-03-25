@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:11.C.7.2021.1",
+  "docket": "11 C 7/2021-24",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3609a393-b26b-4061-b5d3-df81987fa1fc",
+  "source_sha256": "a141da9090254ce16eccd1839e1a1a8836848662b0eab0214352a182e55439a3",
+  "source_id": "3609a393-b26b-4061-b5d3-df81987fa1fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 7/2021-24",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jarmila Gajdošová",
+    "ecli": "ECLI:CZ:OSKM:2021:11.C.7.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3609a393-b26b-4061-b5d3-df81987fa1fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
