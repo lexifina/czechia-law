@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:18.C.23.2021.1",
+  "docket": "18 C 23/2021-34",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c98742bf-b3c9-4edc-b2e2-405efa32a8d5",
+  "source_sha256": "beef40b2e1d7055293b7143381036174bb1c17d5d93d0ad3eeb1287e768b715e",
+  "source_id": "c98742bf-b3c9-4edc-b2e2-405efa32a8d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 23/2021-34",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Ivana Holubovská",
+    "ecli": "ECLI:CZ:OSKV:2021:18.C.23.2021.1",
+    "predmetRizeni": "8.401 Kč / služby elektronických komunikací",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2071 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c98742bf-b3c9-4edc-b2e2-405efa32a8d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
