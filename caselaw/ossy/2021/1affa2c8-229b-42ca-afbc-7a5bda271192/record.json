@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:6.C.23.2021.1",
+  "docket": "6 C 23/2021-20",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1affa2c8-229b-42ca-afbc-7a5bda271192",
+  "source_sha256": "c11bc279acfc67c897c9e8e01ccc22a7c982382d78eef356518705ac1138fb43",
+  "source_id": "1affa2c8-229b-42ca-afbc-7a5bda271192",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 23/2021-20",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Lenka Knapčoková, Ph.D.",
+    "ecli": "ECLI:CZ:OSSY:2021:6.C.23.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1affa2c8-229b-42ca-afbc-7a5bda271192"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
