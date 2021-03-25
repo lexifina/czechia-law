@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:11.C.247.2020.1",
+  "docket": "11 C 247/2020-85",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d3e721e5-cced-4b7a-877e-6fadb8c208f2",
+  "source_sha256": "17e1f9e146876d2f1f61664d127b40ee62382881d725f08e78c6b4e9b89b2dd1",
+  "source_id": "d3e721e5-cced-4b7a-877e-6fadb8c208f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 247/2020-85",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Lenka Šestáková",
+    "ecli": "ECLI:CZ:OSBI:2021:11.C.247.2020.1",
+    "predmetRizeni": "O zaplacení 45 679 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 3 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d3e721e5-cced-4b7a-877e-6fadb8c208f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
