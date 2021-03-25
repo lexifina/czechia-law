@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:5.C.24.2021.1",
+  "docket": "5 C 24/2021-41",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d65bf1cd-c792-4c8e-a46a-1f9cda35aee2",
+  "source_sha256": "aabdaa2035bcadb661fba2e67da0f3fe50f0183de1bb02e488b7ec741bd39852",
+  "source_id": "d65bf1cd-c792-4c8e-a46a-1f9cda35aee2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 24/2021-41",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Dana Nováková",
+    "ecli": "ECLI:CZ:OSPB:2021:5.C.24.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d65bf1cd-c792-4c8e-a46a-1f9cda35aee2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
