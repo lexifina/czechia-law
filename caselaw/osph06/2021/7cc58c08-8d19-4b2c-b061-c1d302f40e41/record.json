@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:33.C.149.2020.1",
+  "docket": "33 C 149/2020-37",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7cc58c08-8d19-4b2c-b061-c1d302f40e41",
+  "source_sha256": "340dafcad0cd34fee6fd6d43fe549526290ff92999ddd84ad4908fbea5b15c36",
+  "source_id": "7cc58c08-8d19-4b2c-b061-c1d302f40e41",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 149/2020-37",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tomáš Lehovec",
+    "ecli": "ECLI:CZ:OSPH06:2021:33.C.149.2020.1",
+    "predmetRizeni": "o zaplacení částky 7 162 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-10-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7cc58c08-8d19-4b2c-b061-c1d302f40e41"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
