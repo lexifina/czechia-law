@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:14.C.100.2019.8",
+  "docket": "14 C 100/2019-168",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65b26ded-230f-455f-a29d-649785bb4b7c",
+  "source_sha256": "d4f27bebfc2a2a996c5178b242ed5b8028b11a4019a576adc32b277f9a30e7cc",
+  "source_id": "65b26ded-230f-455f-a29d-649785bb4b7c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 100/2019-168",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2021:14.C.100.2019.8",
+    "predmetRizeni": "zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-08-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dražba",
+      "notářský zápis",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "rozvod manželství",
+      "smlouva kupní",
+      "spoluvlastnictví",
+      "věcná břemena",
+      "veřejná dražba",
+      "znalecký posudek",
+      "zrušení spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 119a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65b26ded-230f-455f-a29d-649785bb4b7c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
