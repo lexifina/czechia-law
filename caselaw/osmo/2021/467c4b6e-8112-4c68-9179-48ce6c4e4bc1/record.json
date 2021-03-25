@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:13.C.45.2021.1",
+  "docket": "13 C 45/2021-24",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/467c4b6e-8112-4c68-9179-48ce6c4e4bc1",
+  "source_sha256": "1c49531784e4f6717aeb61dee93c86a0c0bb7dbbd43a89a26cb517f83b824e46",
+  "source_id": "467c4b6e-8112-4c68-9179-48ce6c4e4bc1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 45/2021-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2021:13.C.45.2021.1",
+    "predmetRizeni": "2 730 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 50 z. č. 458/2000 Sb.",
+      "§ 517 nař. vl. č. 142/1994 Sb.",
+      "§ 5 z. č. 526/90 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/467c4b6e-8112-4c68-9179-48ce6c4e4bc1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
