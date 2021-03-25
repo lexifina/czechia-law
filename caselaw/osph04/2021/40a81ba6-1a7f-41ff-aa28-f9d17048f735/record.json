@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:51.C.79.2021.1",
+  "docket": "51 C 79/2021-37",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40a81ba6-1a7f-41ff-aa28-f9d17048f735",
+  "source_sha256": "f9f1e990e55c6fde8c7fa2f803defeda9d42f0df3159849e920b944bf46ccd5d",
+  "source_id": "40a81ba6-1a7f-41ff-aa28-f9d17048f735",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 79/2021-37",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Jitka Šimanová",
+    "ecli": "ECLI:CZ:OSPH04:2021:51.C.79.2021.1",
+    "predmetRizeni": "O zaplacení 77 450 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 17a z. č. 553/1991 Sb.",
+      "§ 2910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40a81ba6-1a7f-41ff-aa28-f9d17048f735"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
