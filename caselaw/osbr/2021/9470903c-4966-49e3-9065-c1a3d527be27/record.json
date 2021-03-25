@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:118.C.43.2020.1",
+  "docket": "118 C 43/2020-26",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9470903c-4966-49e3-9065-c1a3d527be27",
+  "source_sha256": "771ae0e536a3ad858bd29c0ac91da711dd07f395d1d0f9e61cceff18c5971400",
+  "source_id": "9470903c-4966-49e3-9065-c1a3d527be27",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "118 C 43/2020-26",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Monika Kloboučníková",
+    "ecli": "ECLI:CZ:OSBR:2021:118.C.43.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§  z. č. 218/2011 Sb.",
+      "§ 167 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9470903c-4966-49e3-9065-c1a3d527be27"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
