@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:5.C.44.2021.1",
+  "docket": "5 C 44/2021-17",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab30b3d1-3e78-484d-8469-0f101da53d23",
+  "source_sha256": "f79819afc486c02b002fc6a3ef71c6c9964e555b9eadd5c8c98be67c62ed600a",
+  "source_id": "ab30b3d1-3e78-484d-8469-0f101da53d23",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 44/2021-17",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Jan Tesař",
+    "ecli": "ECLI:CZ:OSTR:2021:5.C.44.2021.1",
+    "predmetRizeni": "zaplacení částky 9 704 Kč",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab30b3d1-3e78-484d-8469-0f101da53d23"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
