@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:8.C.52.2019.1",
+  "docket": "8 C 52/2019-30",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f901dc29-df8b-4170-990c-aea831cabb8f",
+  "source_sha256": "8553f236d1abfcae0b4965795015729ff248f0d2d078d486f137aac2f1e82124",
+  "source_id": "f901dc29-df8b-4170-990c-aea831cabb8f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 52/2019-30",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Stegurová",
+    "ecli": "ECLI:CZ:OSZN:2021:8.C.52.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f901dc29-df8b-4170-990c-aea831cabb8f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
