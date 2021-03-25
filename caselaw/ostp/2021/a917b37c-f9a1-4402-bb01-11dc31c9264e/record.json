@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:41.C.296.2020.1",
+  "docket": "41 C 296/2020-44",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a917b37c-f9a1-4402-bb01-11dc31c9264e",
+  "source_sha256": "b0d38dcc48c298412b73dd669ed2a3b0f56281cb319e43e1a3fbe834d839738c",
+  "source_id": "a917b37c-f9a1-4402-bb01-11dc31c9264e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 296/2020-44",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Ing. Bc. Martin Baťka, , Ph.D.",
+    "ecli": "ECLI:CZ:OSTP:2021:41.C.296.2020.1",
+    "predmetRizeni": "zaplacení 19 414 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a917b37c-f9a1-4402-bb01-11dc31c9264e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
