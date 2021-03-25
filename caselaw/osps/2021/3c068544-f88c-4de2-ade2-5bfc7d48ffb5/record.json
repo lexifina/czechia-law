@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:9.C.196.2020.3",
+  "docket": "9 C 196/2020-25",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3c068544-f88c-4de2-ade2-5bfc7d48ffb5",
+  "source_sha256": "94c34caf61b8b2e838b278f6d874955c1c03e1ae485a812b4e6690f634b14a95",
+  "source_id": "3c068544-f88c-4de2-ade2-5bfc7d48ffb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 196/2020-25",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPS:2021:9.C.196.2020.3",
+    "predmetRizeni": "5 850 Kč s přísl.",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4/1 nař. vl. č. 864/2007 Sb.",
+      "§ 18/2 nař. vl. č. 1215/2012 Sb.",
+      "§ 17/1c nař. vl. č. 1215/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3c068544-f88c-4de2-ade2-5bfc7d48ffb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
