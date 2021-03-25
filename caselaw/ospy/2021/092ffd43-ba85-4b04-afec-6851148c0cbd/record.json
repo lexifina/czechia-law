@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.350.2020.1",
+  "docket": "36 C 350/2020",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/092ffd43-ba85-4b04-afec-6851148c0cbd",
+  "source_sha256": "2475d8098a2fa3e9542e1aa33e7c72b887707e0b5e0310eb897961e780d0c56a",
+  "source_id": "092ffd43-ba85-4b04-afec-6851148c0cbd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 350/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.350.2020.1",
+    "predmetRizeni": "o zaplacení částky 2 659 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-10-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/092ffd43-ba85-4b04-afec-6851148c0cbd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
