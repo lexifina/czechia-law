@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:46.C.15.2021.2",
+  "docket": "46 C 15/2021-31",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44657eb8-c84f-42fb-be10-6d04ff1f05e9",
+  "source_sha256": "458d39a315910c446e91ac417d4274820eb3c2d637d2d9bc194fe31dd3d1c32a",
+  "source_id": "44657eb8-c84f-42fb-be10-6d04ff1f05e9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 15/2021-31",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Benešová",
+    "ecli": "ECLI:CZ:OSMO:2021:46.C.15.2021.2",
+    "predmetRizeni": "13 826 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44657eb8-c84f-42fb-be10-6d04ff1f05e9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
