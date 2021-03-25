@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:13.C.47.2020.3",
+  "docket": "13 C 47/2020-50",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f19cd57c-f513-4422-970f-d05b0afcde3a",
+  "source_sha256": "6bc93db2491cda20df1793313229ff487c5cad13366c19974728693f278a09d6",
+  "source_id": "f19cd57c-f513-4422-970f-d05b0afcde3a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 47/2020-50",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Milan Homolka",
+    "ecli": "ECLI:CZ:OSCH:2021:13.C.47.2020.3",
+    "predmetRizeni": "o 108 740 Kč s přísl.",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "majetková újma",
+      "nemajetková újma",
+      "okamžité zrušení pracovního poměru",
+      "peněžité plnění",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 257 z. č. 262/2006 Sb.",
+      "§ 250 z. č. 262/2006 Sb.",
+      "§ 249 z. č. 262/2006 Sb.",
+      "§ 352 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f19cd57c-f513-4422-970f-d05b0afcde3a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
