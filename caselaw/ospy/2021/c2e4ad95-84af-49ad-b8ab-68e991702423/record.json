@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.23.2021.1",
+  "docket": "36 C 23/2021",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2e4ad95-84af-49ad-b8ab-68e991702423",
+  "source_sha256": "5dc2d69cdb07b0ad4679141173c5abd74141526943d4e3dfaa79524604dbbce8",
+  "source_id": "c2e4ad95-84af-49ad-b8ab-68e991702423",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 23/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.23.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 150 Kč s příslušenstvím",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2e4ad95-84af-49ad-b8ab-68e991702423"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
