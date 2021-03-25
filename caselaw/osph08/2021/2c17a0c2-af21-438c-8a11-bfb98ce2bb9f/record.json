@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:26.C.218.2020.1",
+  "docket": "26 C 218/2020-37",
+  "date": "2021-03-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c17a0c2-af21-438c-8a11-bfb98ce2bb9f",
+  "source_sha256": "50303a9078789a69357bf823da63cd0d8d97fd115af4b2e7ff2791ae52919589",
+  "source_id": "2c17a0c2-af21-438c-8a11-bfb98ce2bb9f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 218/2020-37",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Beatrice Keményová",
+    "ecli": "ECLI:CZ:OSPH08:2021:26.C.218.2020.1",
+    "predmetRizeni": "o zaplacení 37.722 Kč s příslušenstvím,",
+    "datumVydani": "2021-03-25",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 2861 z. č. 89/2012 Sb.",
+      "§ 2770 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c17a0c2-af21-438c-8a11-bfb98ce2bb9f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
