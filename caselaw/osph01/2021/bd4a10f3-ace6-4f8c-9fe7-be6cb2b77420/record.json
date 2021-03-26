@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:65.C.307.2020.1",
+  "docket": "65 C 307/2020",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd4a10f3-ace6-4f8c-9fe7-be6cb2b77420",
+  "source_sha256": "3274e7bc034ec7e935b33111ca2cd2f7111a8073c5f3d74bbf3b93f9bea6f7cf",
+  "source_id": "bd4a10f3-ace6-4f8c-9fe7-be6cb2b77420",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "65 C 307/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Jiří Kohoutek",
+    "ecli": "ECLI:CZ:OSPH01:2021:65.C.307.2020.1",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd4a10f3-ace6-4f8c-9fe7-be6cb2b77420"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
