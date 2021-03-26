@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:11.C.19.2021.1",
+  "docket": "11 C 19/2021-24",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/379d8978-fcd7-4ebb-bd0e-c5d360584727",
+  "source_sha256": "03f3dfdb84be202cdcc6e6a7978c962e7b12d43dbe64a801cebfe9684378ec45",
+  "source_id": "379d8978-fcd7-4ebb-bd0e-c5d360584727",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 19/2021-24",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radek Černovský",
+    "ecli": "ECLI:CZ:OSKV:2021:11.C.19.2021.1",
+    "predmetRizeni": "42.599 Kč / nájemné",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 4 z. č. 549/91 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/379d8978-fcd7-4ebb-bd0e-c5d360584727"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
