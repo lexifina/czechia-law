@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:36.C.76.2020.1",
+  "docket": "36 C 76/2020-39",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05fba0c9-d969-44ee-9c25-8a4a8270f265",
+  "source_sha256": "17184e8ac8d1ab87795d0b16aba67dc59aa60caf38a516f28a213be666da4a20",
+  "source_id": "05fba0c9-d969-44ee-9c25-8a4a8270f265",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 76/2020-39",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2021:36.C.76.2020.1",
+    "predmetRizeni": "zaplacení 24.989 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05fba0c9-d969-44ee-9c25-8a4a8270f265"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
