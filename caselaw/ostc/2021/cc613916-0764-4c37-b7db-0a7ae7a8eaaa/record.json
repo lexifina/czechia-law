@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:10.C.33.2021.1",
+  "docket": "10 C 33/2021-19",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc613916-0764-4c37-b7db-0a7ae7a8eaaa",
+  "source_sha256": "fbf1a3e43baf963357de0a8cb5ffe34a5196632a02950e55fa6a3ee5b32559bc",
+  "source_id": "cc613916-0764-4c37-b7db-0a7ae7a8eaaa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 33/2021-19",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Petr Klein",
+    "ecli": "ECLI:CZ:OSTC:2021:10.C.33.2021.1",
+    "predmetRizeni": "O zaplacení 14 280 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2049 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc613916-0764-4c37-b7db-0a7ae7a8eaaa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
