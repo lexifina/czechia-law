@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:42.C.1.2021.1",
+  "docket": "42 C 1/2021-35",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/968f0cdd-15e3-41ba-8611-e28950824221",
+  "source_sha256": "1919885d8480753b62bdc088b5341ea670c98ac86d746410f12c85e7a31565de",
+  "source_id": "968f0cdd-15e3-41ba-8611-e28950824221",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 1/2021-35",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Petra Sedláčková",
+    "ecli": "ECLI:CZ:MSBR:2021:42.C.1.2021.1",
+    "predmetRizeni": "zaplacení 3.073 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/968f0cdd-15e3-41ba-8611-e28950824221"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
