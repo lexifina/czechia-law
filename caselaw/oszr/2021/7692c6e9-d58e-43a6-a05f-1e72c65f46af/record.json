@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:13.C.15.2021.1",
+  "docket": "13 C 15/2021-47",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7692c6e9-d58e-43a6-a05f-1e72c65f46af",
+  "source_sha256": "7f0643e7845f40f190def17730fb37cafdfb48f726dd8d57c46955e34186c0f2",
+  "source_id": "7692c6e9-d58e-43a6-a05f-1e72c65f46af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 15/2021-47",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2021:13.C.15.2021.1",
+    "predmetRizeni": "O zaplacení 1 537 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "opilost",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7692c6e9-d58e-43a6-a05f-1e72c65f46af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
