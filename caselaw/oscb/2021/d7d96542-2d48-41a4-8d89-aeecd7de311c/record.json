@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:16.C.196.2020.1",
+  "docket": "16 C 196/2020-47",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7d96542-2d48-41a4-8d89-aeecd7de311c",
+  "source_sha256": "8b560a9126f505227d7708ba54fee91888787eafee46924b26bd32e6bba98596",
+  "source_id": "d7d96542-2d48-41a4-8d89-aeecd7de311c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 196/2020-47",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Jana Traxlerová",
+    "ecli": "ECLI:CZ:OSCB:2021:16.C.196.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 27 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7d96542-2d48-41a4-8d89-aeecd7de311c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
