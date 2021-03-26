@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:24.C.463.2020.1",
+  "docket": "24 C 463/2020",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/484f872e-893e-4f1e-8d19-4044d2cfd1cd",
+  "source_sha256": "4a2ecc29df7d702d76597d8319b8d2aa38d79a731d21fb6b8850f334b7a15fe3",
+  "source_id": "484f872e-893e-4f1e-8d19-4044d2cfd1cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 463/2020",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:24.C.463.2020.1",
+    "predmetRizeni": "o zaplacení 185 047 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 2255 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/484f872e-893e-4f1e-8d19-4044d2cfd1cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
