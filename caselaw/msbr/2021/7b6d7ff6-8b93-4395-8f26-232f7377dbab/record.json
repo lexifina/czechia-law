@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:39.C.2.2021.1",
+  "docket": "39 C 2/2021-34",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b6d7ff6-8b93-4395-8f26-232f7377dbab",
+  "source_sha256": "07a15b52b2383e5ca6d51044ade16bbb2a30a1d8d2043f10fb05253f2ab7f02d",
+  "source_id": "7b6d7ff6-8b93-4395-8f26-232f7377dbab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 2/2021-34",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Václav Rozmahel",
+    "ecli": "ECLI:CZ:MSBR:2021:39.C.2.2021.1",
+    "predmetRizeni": "zaplacení 9.558 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 1721 z. č. 89/2012 Sb.",
+      "§ 3074 z. č. 89/2012 Sb.",
+      "§ 2302 z. č. 89/2012 Sb.",
+      "§ 2218 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b6d7ff6-8b93-4395-8f26-232f7377dbab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
