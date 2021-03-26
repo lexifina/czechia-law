@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:10.C.32.2021.1",
+  "docket": "10 C 32/2021-26",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6aae507-8900-445e-a46c-fe14428101e1",
+  "source_sha256": "fc8bb108c0e94855eafcc85980cd927bece376de1aeda30e55687230964f6968",
+  "source_id": "c6aae507-8900-445e-a46c-fe14428101e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 32/2021-26",
+    "soud": "Okresní soud v Písku",
+    "autor": "Mgr. Andrea Větrovská",
+    "ecli": "ECLI:CZ:OSPI:2021:10.C.32.2021.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6aae507-8900-445e-a46c-fe14428101e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
