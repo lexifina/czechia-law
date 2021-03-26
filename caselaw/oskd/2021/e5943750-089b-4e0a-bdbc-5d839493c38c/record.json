@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:220.C.200.2020.4",
+  "docket": "220 C 200/2020-58",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e5943750-089b-4e0a-bdbc-5d839493c38c",
+  "source_sha256": "3c285ee167145006107083c875b7629694c07a3b658738d6b7863c49559b97aa",
+  "source_id": "e5943750-089b-4e0a-bdbc-5d839493c38c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "220 C 200/2020-58",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Vítězslav Pleva",
+    "ecli": "ECLI:CZ:OSKD:2021:220.C.200.2020.4",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e5943750-089b-4e0a-bdbc-5d839493c38c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
