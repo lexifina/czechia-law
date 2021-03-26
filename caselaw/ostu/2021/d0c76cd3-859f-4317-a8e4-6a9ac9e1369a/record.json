@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:9.C.243.2020.1",
+  "docket": "9 C 243/2020-30",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0c76cd3-859f-4317-a8e4-6a9ac9e1369a",
+  "source_sha256": "2431c19f9dc06d9d76f92e7e1d9a77197cd9ad6b29432b295181bc4c1852bdbf",
+  "source_id": "d0c76cd3-859f-4317-a8e4-6a9ac9e1369a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 243/2020-30",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Tomáš Suchánek",
+    "ecli": "ECLI:CZ:OSTU:2021:9.C.243.2020.1",
+    "predmetRizeni": "zaplacení 24 457 Kč s příslušenstvím - nájemné",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-11-04",
+    "klicovaSlova": [
+      "dotace",
+      "náhradní pozemek",
+      "pacht",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2332 z. č. 89/2012 Sb.",
+      "§ 2221 z. č. 89/2012 Sb.",
+      "§ 2339 z. č. 89/2012 Sb.",
+      "§ 2345 z. č. 89/2012 Sb.",
+      "§ 2347 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0c76cd3-859f-4317-a8e4-6a9ac9e1369a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
