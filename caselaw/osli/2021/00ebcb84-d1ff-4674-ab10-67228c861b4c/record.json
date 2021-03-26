@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.432.2020.1",
+  "docket": "19 C 432/2020-22",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/00ebcb84-d1ff-4674-ab10-67228c861b4c",
+  "source_sha256": "d4868d3b05372461f6814b3a0f71d2507d69ff7e486a268d6996dda79a6fc404",
+  "source_id": "00ebcb84-d1ff-4674-ab10-67228c861b4c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 432/2020-22",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.432.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 7 156,59 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/00ebcb84-d1ff-4674-ab10-67228c861b4c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
