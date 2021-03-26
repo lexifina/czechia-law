@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:7.C.9.2021.1",
+  "docket": "7 C 9/2021-25",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4dfe8c6-2382-4f68-8f94-72766ef290af",
+  "source_sha256": "8fe96df3aa9df76307c93fe6734c7e6958b0dcab3a2e816f4ecb02a09326fc2a",
+  "source_id": "a4dfe8c6-2382-4f68-8f94-72766ef290af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 9/2021-25",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Hana Langerová",
+    "ecli": "ECLI:CZ:OSSU:2021:7.C.9.2021.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1842 z. č. 89/2012 Sb.",
+      "§ 1841 z. č. 89/2019 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4dfe8c6-2382-4f68-8f94-72766ef290af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
