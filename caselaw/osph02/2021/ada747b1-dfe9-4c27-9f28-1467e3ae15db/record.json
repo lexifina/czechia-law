@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:44.C.13.2020.4",
+  "docket": "44 C 13/2020-92",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ada747b1-dfe9-4c27-9f28-1467e3ae15db",
+  "source_sha256": "53f6c8ca78dbfc31cfcc00d0dc91ae11ca32a17bc7e82124d07b6ef2764fd4a4",
+  "source_id": "ada747b1-dfe9-4c27-9f28-1467e3ae15db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 13/2020-92",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Libor Zhříval",
+    "ecli": "ECLI:CZ:OSPH02:2021:44.C.13.2020.4",
+    "predmetRizeni": "o 1 920 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "porod",
+      "zadostiučinění / satisfakce",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 8 z. č. 82/1998 Sb.",
+      "§ 31a z. č. 82/1998 Sb.",
+      "§ 7 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ada747b1-dfe9-4c27-9f28-1467e3ae15db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
