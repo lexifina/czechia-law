@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:13.C.90.2021.1",
+  "docket": "13 C 90/2021-26",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4bcb8fc-2d80-489c-8bf3-71d2c5807ef2",
+  "source_sha256": "2a2f44bb4ff06b88ffff5d0af613131db0c7fb833c0fb6228abe2c9b276a4fe7",
+  "source_id": "b4bcb8fc-2d80-489c-8bf3-71d2c5807ef2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 90/2021-26",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Jiří Pacovský",
+    "ecli": "ECLI:CZ:OSPZ:2021:13.C.90.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-09-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4bcb8fc-2d80-489c-8bf3-71d2c5807ef2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
