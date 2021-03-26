@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:11.C.1.2014.1",
+  "docket": "11 C 1/2014-28",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fea90668-fc9c-4025-963b-297d274c6d3e",
+  "source_sha256": "3303ed17160a5195a2e3d034d908636a6af4bc1dcb88d637dfc33c4359900810",
+  "source_id": "fea90668-fc9c-4025-963b-297d274c6d3e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 1/2014-28",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Libor Lhoťan",
+    "ecli": "ECLI:CZ:OSCV:2021:11.C.1.2014.1",
+    "predmetRizeni": "úvěr - 20.156,93 Kč s přísl.",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-12-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "rozsudek pro zmeškání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fea90668-fc9c-4025-963b-297d274c6d3e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
