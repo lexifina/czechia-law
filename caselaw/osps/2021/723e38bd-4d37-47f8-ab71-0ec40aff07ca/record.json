@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:10.C.323.2020.2",
+  "docket": "10 C 323/2020-19",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/723e38bd-4d37-47f8-ab71-0ec40aff07ca",
+  "source_sha256": "1f762daa8aaebe810904e42d6637b4db5817cbd53f8d3f063a7bb1f70ca3c8f7",
+  "source_id": "723e38bd-4d37-47f8-ab71-0ec40aff07ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 323/2020-19",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPS:2021:10.C.323.2020.2",
+    "predmetRizeni": "15 176,06 Kč s přísl.",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "nájem dopravního prostředku",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2321 z. č. 89/2012 Sb.",
+      "§ 2324 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/723e38bd-4d37-47f8-ab71-0ec40aff07ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
