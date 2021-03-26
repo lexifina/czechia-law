@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:1.C.43.2021.1",
+  "docket": "1 C 43/2021-28",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/647edeb8-a7eb-4346-a9fe-a742546fb133",
+  "source_sha256": "70b312c0f39b6ac3d26ee61565fc0e4400cd3573a00f79a693dd35a2b66a8d90",
+  "source_id": "647edeb8-a7eb-4346-a9fe-a742546fb133",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 43/2021-28",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Zdeněk Tichý",
+    "ecli": "ECLI:CZ:OSPE:2021:1.C.43.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2390 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/647edeb8-a7eb-4346-a9fe-a742546fb133"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
