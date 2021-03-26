@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:14.C.54.2021.1",
+  "docket": "14 C 54/2021-26",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b652507e-7956-4399-9480-e2035fbceaae",
+  "source_sha256": "d798f3cda75f0e45bf71ff713139597fa1494662c48cb1d77ccd2ba7d7c828b6",
+  "source_id": "b652507e-7956-4399-9480-e2035fbceaae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 54/2021-26",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Eva Pořízová",
+    "ecli": "ECLI:CZ:OSPH06:2021:14.C.54.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b652507e-7956-4399-9480-e2035fbceaae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
