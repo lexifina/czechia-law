@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:15.C.364.2020.1",
+  "docket": "15 C 364/2020-29",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b373e273-7d6c-4c74-9c87-958f1164589a",
+  "source_sha256": "c7247bc97e060766633bbaa463e2b5cbcaf2152297a8197dd32b5b3073356b7c",
+  "source_id": "b373e273-7d6c-4c74-9c87-958f1164589a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 364/2020-29",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Roman Flanderka",
+    "ecli": "ECLI:CZ:OSLI:2021:15.C.364.2020.1",
+    "predmetRizeni": "918 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 89b z. č. 373/2011 Sb.",
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b373e273-7d6c-4c74-9c87-958f1164589a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
