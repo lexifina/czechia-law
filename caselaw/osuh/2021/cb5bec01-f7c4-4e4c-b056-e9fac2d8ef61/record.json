@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:11.C.25.2021.1",
+  "docket": "11 C 25/2021-18",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb5bec01-f7c4-4e4c-b056-e9fac2d8ef61",
+  "source_sha256": "bda3a76600e92019413a33565363f9ad34de48d97fe93a2c9af1acd69ba40ada",
+  "source_id": "cb5bec01-f7c4-4e4c-b056-e9fac2d8ef61",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 25/2021-18",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Ilona Miklová",
+    "ecli": "ECLI:CZ:OSUH:2021:11.C.25.2021.1",
+    "predmetRizeni": "1.000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb5bec01-f7c4-4e4c-b056-e9fac2d8ef61"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
