@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:30.C.38.2021.1",
+  "docket": "30 C 38/2021-29",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e5a943cc-8d94-4630-8a56-d114dd143c7c",
+  "source_sha256": "b45d9f16c298c2659c890433048bd24a65deaf7af2f4115699990c82e8a30ab9",
+  "source_id": "e5a943cc-8d94-4630-8a56-d114dd143c7c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 38/2021-29",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Iveta Nývltová, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH04:2021:30.C.38.2021.1",
+    "predmetRizeni": "O zaplacení 1 249,01 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 1798 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e5a943cc-8d94-4630-8a56-d114dd143c7c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
