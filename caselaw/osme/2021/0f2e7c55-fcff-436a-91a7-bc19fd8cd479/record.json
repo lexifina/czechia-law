@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:19.C.134.2020.1",
+  "docket": "19 C 134/2020-49",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f2e7c55-fcff-436a-91a7-bc19fd8cd479",
+  "source_sha256": "9ac512fa8d8dfaa3f501afa43929eb1601ba0d23cf168a6a60e9e54efea14f54",
+  "source_id": "0f2e7c55-fcff-436a-91a7-bc19fd8cd479",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 134/2020-49",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Tereza Pirklová",
+    "ecli": "ECLI:CZ:OSME:2021:19.C.134.2020.1",
+    "predmetRizeni": "O zaplacení 2 500 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f2e7c55-fcff-436a-91a7-bc19fd8cd479"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
