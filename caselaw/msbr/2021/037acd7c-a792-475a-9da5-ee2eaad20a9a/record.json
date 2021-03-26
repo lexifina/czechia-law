@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:36.C.211.2020.1",
+  "docket": "36 C 211/2020-27",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/037acd7c-a792-475a-9da5-ee2eaad20a9a",
+  "source_sha256": "7d73fb9bb6554e23742c348ee5ce462c7cca2c559f44cd24a68037d1394baf6c",
+  "source_id": "037acd7c-a792-475a-9da5-ee2eaad20a9a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 211/2020-27",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2021:36.C.211.2020.1",
+    "predmetRizeni": "zaplacení 19.562 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/037acd7c-a792-475a-9da5-ee2eaad20a9a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
