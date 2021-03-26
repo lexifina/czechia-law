@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:18.C.25.2021.1",
+  "docket": "18 C 25/2021-11",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2bafe36-9841-48e1-acc6-ef45719390d8",
+  "source_sha256": "85631bad96cee6aa9a26ab5db9acd5b9601e1f0f861a1b836f71f3df6d1f36f1",
+  "source_id": "d2bafe36-9841-48e1-acc6-ef45719390d8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 25/2021-11",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2021:18.C.25.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 3.060,00 Kč s přísl.",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-08-27",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 266/1994 Sb.",
+      "§  z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2bafe36-9841-48e1-acc6-ef45719390d8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
