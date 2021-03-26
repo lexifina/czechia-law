@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:15.C.30.2021.1",
+  "docket": "15 C 30/2021-61",
+  "date": "2021-03-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66d73387-35cc-43fb-92a2-5ae0c28866ac",
+  "source_sha256": "0188a28feb39c5375b3630ec9550c58da683752206d646442651873d444fd458",
+  "source_id": "66d73387-35cc-43fb-92a2-5ae0c28866ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 30/2021-61",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Pavla Doupovcová",
+    "ecli": "ECLI:CZ:OSPV:2021:15.C.30.2021.1",
+    "predmetRizeni": "zaplacení 3.076 Kč s příslušenstvím",
+    "datumVydani": "2021-03-26",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66d73387-35cc-43fb-92a2-5ae0c28866ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
