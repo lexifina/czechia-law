@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:41.C.49.2020.1",
+  "docket": "41 C 49/2020-19",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/27d45fac-c94b-4581-89b4-1adc716320b4",
+  "source_sha256": "05df72c25b3394799bf63a0239cee42b48722a7a053e631e7c43368a14755c45",
+  "source_id": "27d45fac-c94b-4581-89b4-1adc716320b4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 49/2020-19",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Bronislava Tinklová, LL.M.",
+    "ecli": "ECLI:CZ:OSZL:2021:41.C.49.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/27d45fac-c94b-4581-89b4-1adc716320b4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
