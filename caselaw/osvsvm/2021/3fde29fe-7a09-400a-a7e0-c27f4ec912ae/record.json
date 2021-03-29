@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+  "ecli": "ECLI:CZ:OSVSVM:2021:12.C.19.2021.1",
+  "docket": "12 C 19/2021-12",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3fde29fe-7a09-400a-a7e0-c27f4ec912ae",
+  "source_sha256": "c64fec4b56d9edd6330bf32c0920a6f6e1c4a9a29b1f7c15532215030592e105",
+  "source_id": "3fde29fe-7a09-400a-a7e0-c27f4ec912ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 19/2021-12",
+    "soud": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+    "autor": "JUDr. Alena Kopecká",
+    "ecli": "ECLI:CZ:OSVSVM:2021:12.C.19.2021.1",
+    "predmetRizeni": "O zaplacení 2 820 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3fde29fe-7a09-400a-a7e0-c27f4ec912ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
