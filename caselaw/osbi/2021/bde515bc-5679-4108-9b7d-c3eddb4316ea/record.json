@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:8.C.280.2020.2",
+  "docket": "8 C 280/2020-47",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bde515bc-5679-4108-9b7d-c3eddb4316ea",
+  "source_sha256": "4e4173c1f5b3bb8e81426de8ab0f44e743fb36992da47522c8d657b85d8d38fc",
+  "source_id": "bde515bc-5679-4108-9b7d-c3eddb4316ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 280/2020-47",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Soňa Nedbalová",
+    "ecli": "ECLI:CZ:OSBI:2021:8.C.280.2020.2",
+    "predmetRizeni": "O zaplacení 901 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 37/2004 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 40 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bde515bc-5679-4108-9b7d-c3eddb4316ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
