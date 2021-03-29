@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:19.C.286.2020.1",
+  "docket": "19 C 286/2020-9",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bdafe51d-e927-4a91-a3ae-c3f8de88fb36",
+  "source_sha256": "71c554ba1a5c6bc09f703328d59c451b742e80c6d97c0559cd718f75170cc42f",
+  "source_id": "bdafe51d-e927-4a91-a3ae-c3f8de88fb36",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 286/2020-9",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Pavla Ondráčková",
+    "ecli": "ECLI:CZ:OSTU:2021:19.C.286.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bdafe51d-e927-4a91-a3ae-c3f8de88fb36"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
