@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:24.C.21.2021.1",
+  "docket": "24 C 21/2021-16",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41c65fb7-3ee0-4301-a7a0-d50f691f486c",
+  "source_sha256": "86dcbe28b6569fe4199b06b2cb904d5ca273bbfa676664a7dfab9f8b93d7f783",
+  "source_id": "41c65fb7-3ee0-4301-a7a0-d50f691f486c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 21/2021-16",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Ing. Dana Semirádová",
+    "ecli": "ECLI:CZ:OSLI:2021:24.C.21.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41c65fb7-3ee0-4301-a7a0-d50f691f486c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
