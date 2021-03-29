@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:16.C.85.2020.1",
+  "docket": "16 C 85/2020-58",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/330c1e08-8795-4992-922b-759904418972",
+  "source_sha256": "3611de38177c97df5739c07a770031e0aaa4af03eb41d00e8d5fd9844772d4eb",
+  "source_id": "330c1e08-8795-4992-922b-759904418972",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 85/2020-58",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Marie Indrišková",
+    "ecli": "ECLI:CZ:OSBV:2021:16.C.85.2020.1",
+    "predmetRizeni": "4.791,67 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "korporace",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/330c1e08-8795-4992-922b-759904418972"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
