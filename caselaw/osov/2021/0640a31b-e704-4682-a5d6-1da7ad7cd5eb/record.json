@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:38.C.123.2020.3",
+  "docket": "38 C 123/2020-22",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0640a31b-e704-4682-a5d6-1da7ad7cd5eb",
+  "source_sha256": "7af2e83c8adef72804f49f32f62a28830948625c6f1d01a7d5ad17824276e662",
+  "source_id": "0640a31b-e704-4682-a5d6-1da7ad7cd5eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 123/2020-22",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Markéta Stochová",
+    "ecli": "ECLI:CZ:OSOV:2021:38.C.123.2020.3",
+    "predmetRizeni": "o zaplacení 9 162 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 167 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0640a31b-e704-4682-a5d6-1da7ad7cd5eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
