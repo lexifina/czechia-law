@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:11.C.34.2021.1",
+  "docket": "11 C 34/2021-21",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f89a6e56-f20f-494b-8eda-50a8c281c62c",
+  "source_sha256": "94d0ec391c3b46198bacb63c681403a43ab4b7f02979b8dce744c4e20ab709df",
+  "source_id": "f89a6e56-f20f-494b-8eda-50a8c281c62c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 34/2021-21",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Ing. Petr Slunský, , Ph.D., Ph.D.",
+    "ecli": "ECLI:CZ:OSZN:2021:11.C.34.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "nezvěstnost",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1721 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f89a6e56-f20f-494b-8eda-50a8c281c62c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
