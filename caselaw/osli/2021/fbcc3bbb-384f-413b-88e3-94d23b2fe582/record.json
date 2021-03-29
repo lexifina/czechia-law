@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:24.C.30.2021.1",
+  "docket": "24 C 30/2021-29",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fbcc3bbb-384f-413b-88e3-94d23b2fe582",
+  "source_sha256": "13cef16a95e5d4388686f7253836cd9f3fe0d5dbe61c827f369a1f1c0edb008e",
+  "source_id": "fbcc3bbb-384f-413b-88e3-94d23b2fe582",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 30/2021-29",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Ing. Dana Semirádová",
+    "ecli": "ECLI:CZ:OSLI:2021:24.C.30.2021.1",
+    "predmetRizeni": "zaplacení částky 1 516 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fbcc3bbb-384f-413b-88e3-94d23b2fe582"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
