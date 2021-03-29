@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:4.C.315.2020.1",
+  "docket": "4 C 315/2020-59",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d13bcc47-7fce-44e8-90fc-ae46d0cfdb55",
+  "source_sha256": "5a46f48914d3533ff62758a651072e152540b97950b26d9339f9cf9bbb263c97",
+  "source_id": "d13bcc47-7fce-44e8-90fc-ae46d0cfdb55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 315/2020-59",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2021:4.C.315.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d13bcc47-7fce-44e8-90fc-ae46d0cfdb55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
