@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:19.C.250.2020.1",
+  "docket": "19 C 250/2020-38",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffaac673-4c5d-46f4-9e4f-dd3278fbbc2f",
+  "source_sha256": "12b6921de7f9bfe367597dde536b9e3cd2ef34fa89fff43b3631ea1842324872",
+  "source_id": "ffaac673-4c5d-46f4-9e4f-dd3278fbbc2f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 250/2020-38",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Pavla Ondráčková",
+    "ecli": "ECLI:CZ:OSTU:2021:19.C.250.2020.1",
+    "predmetRizeni": "zrušení vyživovací povinnosti ke zletilým dětem",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "rozsudek pro uznání",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 50 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffaac673-4c5d-46f4-9e4f-dd3278fbbc2f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
