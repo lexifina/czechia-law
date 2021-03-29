@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:57.C.325.2020.2",
+  "docket": "57 C 325/2020-26",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f70d8640-fb1f-4708-bb80-5dfd53c85d91",
+  "source_sha256": "56f045a0c72c0260734540e3a8b942d6b416b8c173530ec2b7d8bffd5d95032d",
+  "source_id": "f70d8640-fb1f-4708-bb80-5dfd53c85d91",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 325/2020-26",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. David Šeremek",
+    "ecli": "ECLI:CZ:OSOV:2021:57.C.325.2020.2",
+    "predmetRizeni": "o zaplacení 1 079 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f70d8640-fb1f-4708-bb80-5dfd53c85d91"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
