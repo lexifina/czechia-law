@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:55.C.257.2020.1",
+  "docket": "55 C 257/2020-72",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d058d1a5-623f-4fcd-b531-3060d3ab7c37",
+  "source_sha256": "843c9f9eb53583069d9ec509d0de12423b877b4509c69399196f3684de5f6cd9",
+  "source_id": "d058d1a5-623f-4fcd-b531-3060d3ab7c37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 257/2020-72",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Stočková",
+    "ecli": "ECLI:CZ:MSBR:2021:55.C.257.2020.1",
+    "predmetRizeni": "zaplacení 3 940 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d058d1a5-623f-4fcd-b531-3060d3ab7c37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
