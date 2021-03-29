@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:20.C.79.2020.1",
+  "docket": "20 C 79/2020-42",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0afe943-43b5-4d39-b89d-e74e415989c1",
+  "source_sha256": "a40890e22ddc159aaddc4a45c547e5cbc2e009fb80c1082750cb1c5545b963bb",
+  "source_id": "f0afe943-43b5-4d39-b89d-e74e415989c1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 79/2020-42",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Lenka Šrytrová",
+    "ecli": "ECLI:CZ:OSHO:2021:20.C.79.2020.1",
+    "predmetRizeni": "zaplacení 18 700 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smír",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva pracovní",
+      "zpeněžování"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 43/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0afe943-43b5-4d39-b89d-e74e415989c1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
