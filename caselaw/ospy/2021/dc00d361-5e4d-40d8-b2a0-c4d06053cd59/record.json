@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:24.C.100.2021.1",
+  "docket": "24 C 100/2021-80",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dc00d361-5e4d-40d8-b2a0-c4d06053cd59",
+  "source_sha256": "dfa67ea74ded3bcd926dde9ead72e2a54f613bfdf4b6dd1d3ee480ea0c2e24f4",
+  "source_id": "dc00d361-5e4d-40d8-b2a0-c4d06053cd59",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 100/2021-80",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Hana Zdeňková",
+    "ecli": "ECLI:CZ:OSPY:2021:24.C.100.2021.1",
+    "predmetRizeni": "o zaplacení částky [částka]",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-12-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dc00d361-5e4d-40d8-b2a0-c4d06053cd59"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
