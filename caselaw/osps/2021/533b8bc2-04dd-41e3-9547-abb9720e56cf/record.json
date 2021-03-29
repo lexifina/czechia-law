@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.262.2020.3",
+  "docket": "4 C 262/2020-29",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/533b8bc2-04dd-41e3-9547-abb9720e56cf",
+  "source_sha256": "a89be6d5f156be310d887d40d1cf4cf318c5ee86d52af761b2701410a2322fff",
+  "source_id": "533b8bc2-04dd-41e3-9547-abb9720e56cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 262/2020-29",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Marek Poláček ",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.262.2020.3",
+    "predmetRizeni": "10 400 Kč s přísl.",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/533b8bc2-04dd-41e3-9547-abb9720e56cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
