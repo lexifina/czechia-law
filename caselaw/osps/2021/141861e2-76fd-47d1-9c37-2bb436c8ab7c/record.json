@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.303.2020.2",
+  "docket": "4 C 303/2020-23",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/141861e2-76fd-47d1-9c37-2bb436c8ab7c",
+  "source_sha256": "9676bd6861c460f9b035fbf77e7503fb593090fd1efb1e7a1da8f17211da1784",
+  "source_id": "141861e2-76fd-47d1-9c37-2bb436c8ab7c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 303/2020-23",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Marek Poláček ",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.303.2020.2",
+    "predmetRizeni": "37 623 Kč s přísl.",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění odpovědnosti za škodu",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/141861e2-76fd-47d1-9c37-2bb436c8ab7c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
