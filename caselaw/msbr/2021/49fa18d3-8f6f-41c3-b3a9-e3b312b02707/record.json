@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:55.C.232.2020.1",
+  "docket": "55 C 232/2020-51",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/49fa18d3-8f6f-41c3-b3a9-e3b312b02707",
+  "source_sha256": "702eeba34c88db39da3cb748536126d80024a02693ab6d11a17faa8bea8d8b4f",
+  "source_id": "49fa18d3-8f6f-41c3-b3a9-e3b312b02707",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 232/2020-51",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Stočková",
+    "ecli": "ECLI:CZ:MSBR:2021:55.C.232.2020.1",
+    "predmetRizeni": "zaplacení 380 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/49fa18d3-8f6f-41c3-b3a9-e3b312b02707"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
