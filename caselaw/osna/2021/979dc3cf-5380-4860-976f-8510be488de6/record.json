@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:6.C.203.2020.1",
+  "docket": "6 C 203/2020-15",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/979dc3cf-5380-4860-976f-8510be488de6",
+  "source_sha256": "c92ce1bb3c51fa63115142aa242f93b70693bf6ff1374e51fe0101b9a8492767",
+  "source_id": "979dc3cf-5380-4860-976f-8510be488de6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 203/2020-15",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Blanka Klicnarová",
+    "ecli": "ECLI:CZ:OSNA:2021:6.C.203.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "pěstounská péče",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/979dc3cf-5380-4860-976f-8510be488de6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
