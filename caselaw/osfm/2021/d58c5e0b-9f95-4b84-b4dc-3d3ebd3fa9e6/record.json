@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:12.C.403.2020.1",
+  "docket": "12 C 403/2020-19",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d58c5e0b-9f95-4b84-b4dc-3d3ebd3fa9e6",
+  "source_sha256": "7ed28955a6d102042e56e9908fe5320c4329a140762cb58cfdb204405c58eaa7",
+  "source_id": "d58c5e0b-9f95-4b84-b4dc-3d3ebd3fa9e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 403/2020-19",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Ludmila Kotásková",
+    "ecli": "ECLI:CZ:OSFM:2021:12.C.403.2020.1",
+    "predmetRizeni": "O zaplacení 13 755,48 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d58c5e0b-9f95-4b84-b4dc-3d3ebd3fa9e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
