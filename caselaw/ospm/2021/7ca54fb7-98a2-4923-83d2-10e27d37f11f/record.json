@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:24.C.370.2020.1",
+  "docket": "24 C 370/2020-36",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ca54fb7-98a2-4923-83d2-10e27d37f11f",
+  "source_sha256": "04331940accb0c63e1323b30654f6e07793a419dda4f53f51faadef6cfe43df9",
+  "source_id": "7ca54fb7-98a2-4923-83d2-10e27d37f11f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 370/2020-36",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jiří Fikar",
+    "ecli": "ECLI:CZ:OSPM:2021:24.C.370.2020.1",
+    "predmetRizeni": "O zaplacení 4 451,97 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ca54fb7-98a2-4923-83d2-10e27d37f11f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
