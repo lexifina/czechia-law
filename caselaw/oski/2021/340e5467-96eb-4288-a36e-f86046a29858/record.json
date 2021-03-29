@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:16.C.392.2020.1",
+  "docket": "16 C 392/2020-27",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/340e5467-96eb-4288-a36e-f86046a29858",
+  "source_sha256": "5cd569ed033e57d91ef5b5d8c2c53bb77ddfaaf4cbb0f34959ce2976bfd4feff",
+  "source_id": "340e5467-96eb-4288-a36e-f86046a29858",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 392/2020-27",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Irena Žaganová",
+    "ecli": "ECLI:CZ:OSKI:2021:16.C.392.2020.1",
+    "predmetRizeni": "4 000 Kč",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/340e5467-96eb-4288-a36e-f86046a29858"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
