@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:21.C.164.2020.1",
+  "docket": "21 C 164/2020-38",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f4bd2e1-534c-4221-865e-f2334c6c58d6",
+  "source_sha256": "ec8896cdd6770cc6c8f76fb14796e9924d563ca5771c0b33d3d4b4640aa4ab03",
+  "source_id": "1f4bd2e1-534c-4221-865e-f2334c6c58d6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 164/2020-38",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Jolana Stonawská",
+    "ecli": "ECLI:CZ:OSPH10:2021:21.C.164.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f4bd2e1-534c-4221-865e-f2334c6c58d6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
