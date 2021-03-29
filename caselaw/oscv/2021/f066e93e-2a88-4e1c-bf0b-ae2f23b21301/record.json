@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:12.C.362.2018.5",
+  "docket": "12 C 362/2018-46",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f066e93e-2a88-4e1c-bf0b-ae2f23b21301",
+  "source_sha256": "8da132b4f5808638880f181c8dc1a437257f292689b7b116494b201a9d2729b9",
+  "source_id": "f066e93e-2a88-4e1c-bf0b-ae2f23b21301",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 362/2018-46",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Gordana Křivosudská",
+    "ecli": "ECLI:CZ:OSCV:2021:12.C.362.2018.5",
+    "predmetRizeni": "zaplacení 54 667 Kč s příslušenstvím (příspěvky do fondu oprav, zálohy za služby)",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "stanovy"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 1180 z. č. 89/2012 Sb.",
+      "§ 46 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f066e93e-2a88-4e1c-bf0b-ae2f23b21301"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
