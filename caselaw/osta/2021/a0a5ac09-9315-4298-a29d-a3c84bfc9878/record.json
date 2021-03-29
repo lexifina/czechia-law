@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:13.C.22.2021.1",
+  "docket": "13 C 22/2021-14",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a0a5ac09-9315-4298-a29d-a3c84bfc9878",
+  "source_sha256": "855fa4ffb2e1d247652ead4d93a974d0e89c6a09adb583d26dc27f24d3aebaff",
+  "source_id": "a0a5ac09-9315-4298-a29d-a3c84bfc9878",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 22/2021-14",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Roman Winkler",
+    "ecli": "ECLI:CZ:OSTA:2021:13.C.22.2021.1",
+    "predmetRizeni": "O zaplacení 5 172 Kč s příslušenstvím",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a0a5ac09-9315-4298-a29d-a3c84bfc9878"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
