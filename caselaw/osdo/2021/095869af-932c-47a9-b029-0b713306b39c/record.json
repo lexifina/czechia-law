@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:17.C.98.2020.1",
+  "docket": "17 C 98/2020-26",
+  "date": "2021-03-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/095869af-932c-47a9-b029-0b713306b39c",
+  "source_sha256": "bd8be1e1f737d3241b7d1f364951974d52767929fc2537e0c53bc987543c6794",
+  "source_id": "095869af-932c-47a9-b029-0b713306b39c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 98/2020-26",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Michal Sýkora",
+    "ecli": "ECLI:CZ:OSDO:2021:17.C.98.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-29",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/095869af-932c-47a9-b029-0b713306b39c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
