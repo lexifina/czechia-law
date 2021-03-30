@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.26.2021.1",
+  "docket": "42 C 26/2021-16",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/78a53c6a-2802-4e77-a937-7e14feba3d8b",
+  "source_sha256": "b61fe7da96d86b83b7ce709dbe5ee0ef3e138ed220f7aeab8d5d2545cdace2a3",
+  "source_id": "78a53c6a-2802-4e77-a937-7e14feba3d8b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 26/2021-16",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.26.2021.1",
+    "predmetRizeni": "o zaplacení 712 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/78a53c6a-2802-4e77-a937-7e14feba3d8b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
