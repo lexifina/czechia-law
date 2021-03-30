@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:18.C.13.2021.1",
+  "docket": "18 C 13/2021-27",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91735b0e-579d-4e3d-9725-7c7c4971108a",
+  "source_sha256": "93646ed5c8d1faa5f1df38aa16fbaab7028a9e16c2d60a0fdc7a3ec5e12bf98e",
+  "source_id": "91735b0e-579d-4e3d-9725-7c7c4971108a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 13/2021-27",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Olga Reiserová",
+    "ecli": "ECLI:CZ:OSPM:2021:18.C.13.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91735b0e-579d-4e3d-9725-7c7c4971108a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
