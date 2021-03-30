@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:30.C.305.2020.1",
+  "docket": "30 C 305/2020-43",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5d52638-9278-4ef0-9545-e1e0dde8618c",
+  "source_sha256": "ee06cbfd66f39600704216ffcb025941a0f4dc84f9d94a9a1d2eb8186df3ff10",
+  "source_id": "a5d52638-9278-4ef0-9545-e1e0dde8618c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 305/2020-43",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Gabriela Řezníčková",
+    "ecli": "ECLI:CZ:OSTU:2021:30.C.305.2020.1",
+    "predmetRizeni": "zaplacení 5 000 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5d52638-9278-4ef0-9545-e1e0dde8618c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
