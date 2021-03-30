@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:18.C.20.2021.1",
+  "docket": "18 C 20/2021-24",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07cda6f7-8f81-4c25-9051-3a204c9e01db",
+  "source_sha256": "8bd8e1f8077cbd4c3223edf49b5983ab48f8223dae86109049e01817fd7561ec",
+  "source_id": "07cda6f7-8f81-4c25-9051-3a204c9e01db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 20/2021-24",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Martina Volfová",
+    "ecli": "ECLI:CZ:OSKO:2021:18.C.20.2021.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07cda6f7-8f81-4c25-9051-3a204c9e01db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
