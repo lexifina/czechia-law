@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:13.C.20.2021.1",
+  "docket": "13 C 20/2021-31",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b3f4f96-5224-434a-955c-a8b2837f9497",
+  "source_sha256": "ef95870c775e8ed45d63627e8f7e04449a7238489732b16e271249f78f288bf0",
+  "source_id": "2b3f4f96-5224-434a-955c-a8b2837f9497",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 20/2021-31",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Anna Tichá",
+    "ecli": "ECLI:CZ:OSHK:2021:13.C.20.2021.1",
+    "predmetRizeni": "o zaplacení částky 23 700 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 19 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b3f4f96-5224-434a-955c-a8b2837f9497"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
