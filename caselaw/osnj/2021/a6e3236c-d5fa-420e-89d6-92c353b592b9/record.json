@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:13.C.336.2020.2",
+  "docket": "13 C 336/2020-10",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a6e3236c-d5fa-420e-89d6-92c353b592b9",
+  "source_sha256": "0900086080f8d2202117f7e1cef8970909eecd182cdfd6eb90e4c44fca538e4c",
+  "source_id": "a6e3236c-d5fa-420e-89d6-92c353b592b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 336/2020-10",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Tomáš Hoza",
+    "ecli": "ECLI:CZ:OSNJ:2021:13.C.336.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a6e3236c-d5fa-420e-89d6-92c353b592b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
