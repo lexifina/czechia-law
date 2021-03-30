@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:9.C.595.2015.16",
+  "docket": "9 C 595/2015-230",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2dac8ac0-126d-4c9a-90d7-a5567471ddbf",
+  "source_sha256": "15c5008f5a37bf72114a6d23a0e632c43e2fe1b71a7d54e395944d0d01bd320b",
+  "source_id": "2dac8ac0-126d-4c9a-90d7-a5567471ddbf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 595/2015-230",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Martin Rozsypal",
+    "ecli": "ECLI:CZ:OSUL:2021:9.C.595.2015.16",
+    "predmetRizeni": "o vrácení restitucí",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-10-22",
+    "klicovaSlova": [
+      "pasivní legitimace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 80 z. č. 99/1963 Sb.",
+      "§ 8 z. č. 229/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2dac8ac0-126d-4c9a-90d7-a5567471ddbf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
