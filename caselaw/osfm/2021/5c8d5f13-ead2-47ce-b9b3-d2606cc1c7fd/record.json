@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:8.C.351.2020.1",
+  "docket": "8 C 351/2020-20",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5c8d5f13-ead2-47ce-b9b3-d2606cc1c7fd",
+  "source_sha256": "0e59366fb6098ba701179d5e279a449b0ec042888e94c1958dbcc10d14d3c090",
+  "source_id": "5c8d5f13-ead2-47ce-b9b3-d2606cc1c7fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 351/2020-20",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Radomír Josiek",
+    "ecli": "ECLI:CZ:OSFM:2021:8.C.351.2020.1",
+    "predmetRizeni": "o zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-09-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5c8d5f13-ead2-47ce-b9b3-d2606cc1c7fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
