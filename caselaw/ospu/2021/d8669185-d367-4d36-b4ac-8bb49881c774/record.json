@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:18.C.7.2021.1",
+  "docket": "18 C 7/2021-37",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d8669185-d367-4d36-b4ac-8bb49881c774",
+  "source_sha256": "d7949d19c9931a52edacff00be3cb1507a9be04b3b3e5285fe5b17d2d5366662",
+  "source_id": "d8669185-d367-4d36-b4ac-8bb49881c774",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 7/2021-37",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Leona Poplerová",
+    "ecli": "ECLI:CZ:OSPU:2021:18.C.7.2021.1",
+    "predmetRizeni": "o zaplacení 25 022 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 100 z. č. 89/2012 Sb.",
+      "§ 101 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d8669185-d367-4d36-b4ac-8bb49881c774"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
