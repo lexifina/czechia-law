@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:10.C.285.2020.1",
+  "docket": "10 C 285/2020-39",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f4fe1ab4-d28f-4eb6-ba5e-18b26d88c7a6",
+  "source_sha256": "50b4885e3cfa121f8b6a00ea4516f8af5db61253f61da84bacfc6068c66aeb77",
+  "source_id": "f4fe1ab4-d28f-4eb6-ba5e-18b26d88c7a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 285/2020-39",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Iveta Deriková",
+    "ecli": "ECLI:CZ:OSPU:2021:10.C.285.2020.1",
+    "predmetRizeni": "o zaplacení 7 540 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-08-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem",
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 211 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f4fe1ab4-d28f-4eb6-ba5e-18b26d88c7a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
