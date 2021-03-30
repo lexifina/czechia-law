@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:10.C.329.2020.1",
+  "docket": "10 C 329/2020-32",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a1dacab-609d-44fa-a0a4-011a26ec4520",
+  "source_sha256": "0f881e1557c846045f253e898c3b180b995b7acfe87c8e154a409318e90f3c8f",
+  "source_id": "7a1dacab-609d-44fa-a0a4-011a26ec4520",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 329/2020-32",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Petr Klein",
+    "ecli": "ECLI:CZ:OSTC:2021:10.C.329.2020.1",
+    "predmetRizeni": "o zaplacení částky 13.401 Kč s přísl.",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a1dacab-609d-44fa-a0a4-011a26ec4520"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
