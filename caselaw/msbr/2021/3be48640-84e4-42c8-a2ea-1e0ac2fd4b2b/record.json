@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:34.C.8.2021.1",
+  "docket": "34 C 8/2021-32",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3be48640-84e4-42c8-a2ea-1e0ac2fd4b2b",
+  "source_sha256": "a72d7f159888bcce58e111c7afe1da88bd0f0c62d36761aee28f505e2084cd51",
+  "source_id": "3be48640-84e4-42c8-a2ea-1e0ac2fd4b2b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 8/2021-32",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Pavel Matouš",
+    "ecli": "ECLI:CZ:MSBR:2021:34.C.8.2021.1",
+    "predmetRizeni": "zaplacení 10.972,50 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3be48640-84e4-42c8-a2ea-1e0ac2fd4b2b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
