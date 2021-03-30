@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:30.C.443.2020.1",
+  "docket": "30 C 443/2020-12",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc9e06b7-4439-472e-ae27-0754269098f9",
+  "source_sha256": "4ff54ba3a48594b970bd760bee5befa2f03a25558b98065c90f3623c3ef90e9b",
+  "source_id": "cc9e06b7-4439-472e-ae27-0754269098f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 443/2020-12",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Jan Kobera",
+    "ecli": "ECLI:CZ:OSPH07:2021:30.C.443.2020.1",
+    "predmetRizeni": "O zaplacení 10 635 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc9e06b7-4439-472e-ae27-0754269098f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
