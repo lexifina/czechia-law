@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:17.C.55.2021.1",
+  "docket": "17 C 55/2021-23",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59e33717-8c29-4f99-bc1d-dca794343d45",
+  "source_sha256": "086d51755baf5d3935656063b3a1f3d42c05b097c944ba21b61ece9f00dc621d",
+  "source_id": "59e33717-8c29-4f99-bc1d-dca794343d45",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 55/2021-23",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Milena Rejchová",
+    "ecli": "ECLI:CZ:OSHK:2021:17.C.55.2021.1",
+    "predmetRizeni": "o zaplacení částky 4 224,93 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-10-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59e33717-8c29-4f99-bc1d-dca794343d45"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
