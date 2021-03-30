@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:7.C.1.2021.1",
+  "docket": "7 C 1/2021",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d5e1d96-cfdc-40a0-acc2-254f62f36345",
+  "source_sha256": "850b3503e04de8f11ddedc330729b984ec28b7670a67a3157f7c9f729a872c85",
+  "source_id": "2d5e1d96-cfdc-40a0-acc2-254f62f36345",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 1/2021",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Jiří Malý",
+    "ecli": "ECLI:CZ:OSPH09:2021:7.C.1.2021.1",
+    "predmetRizeni": "zaplacení 35 000 Kč s přísl.",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d5e1d96-cfdc-40a0-acc2-254f62f36345"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
