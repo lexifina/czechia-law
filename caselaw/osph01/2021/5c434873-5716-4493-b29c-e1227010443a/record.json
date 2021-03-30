@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:24.C.23.2021.1",
+  "docket": "24 C 23/2021-11",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5c434873-5716-4493-b29c-e1227010443a",
+  "source_sha256": "942f27cb855632f2801f949844fef9035dd57ca332a7c8fbfe91a9a9cbe2207e",
+  "source_id": "5c434873-5716-4493-b29c-e1227010443a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 23/2021-11",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Miroslava Švarcová",
+    "ecli": "ECLI:CZ:OSPH01:2021:24.C.23.2021.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5c434873-5716-4493-b29c-e1227010443a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
