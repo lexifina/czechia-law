@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:7.C.66.2021.1",
+  "docket": "7 C 66/2021-12",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c53e451b-80fc-4a29-a8a8-abc603b4fafa",
+  "source_sha256": "79a8ccafbc2b296eed8e8be531d0aef36c6bf742b0c924b427e4f3a3e783d95f",
+  "source_id": "c53e451b-80fc-4a29-a8a8-abc603b4fafa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 66/2021-12",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jana Ivánková",
+    "ecli": "ECLI:CZ:OSKM:2021:7.C.66.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c53e451b-80fc-4a29-a8a8-abc603b4fafa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
