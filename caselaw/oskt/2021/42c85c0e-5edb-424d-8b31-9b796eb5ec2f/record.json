@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:6.C.20.2021.1",
+  "docket": "6 C 20/2021-54",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/42c85c0e-5edb-424d-8b31-9b796eb5ec2f",
+  "source_sha256": "6c4429216220ce09b63a3c826b0043bc193e1c1e119d506142bf9946e42294f9",
+  "source_id": "42c85c0e-5edb-424d-8b31-9b796eb5ec2f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 20/2021-54",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martina Matějková",
+    "ecli": "ECLI:CZ:OSKT:2021:6.C.20.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/42c85c0e-5edb-424d-8b31-9b796eb5ec2f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
