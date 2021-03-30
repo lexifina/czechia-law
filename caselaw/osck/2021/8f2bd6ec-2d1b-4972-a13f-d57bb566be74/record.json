@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:7.C.74.2021.2",
+  "docket": "7 C 74/2021-35",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f2bd6ec-2d1b-4972-a13f-d57bb566be74",
+  "source_sha256": "623811bb81cd21dfdc865047c6d3639f53524f045ccab1102dea3ef921b0de38",
+  "source_id": "8f2bd6ec-2d1b-4972-a13f-d57bb566be74",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 74/2021-35",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Daniel Levý",
+    "ecli": "ECLI:CZ:OSCK:2021:7.C.74.2021.2",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 145/2010 Sb.",
+      "§ 1879 z. č. 82/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f2bd6ec-2d1b-4972-a13f-d57bb566be74"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
