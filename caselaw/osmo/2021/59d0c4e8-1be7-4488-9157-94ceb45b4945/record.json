@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:17.C.17.2021.2",
+  "docket": "17 C 17/2021-26",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59d0c4e8-1be7-4488-9157-94ceb45b4945",
+  "source_sha256": "f43d2d5fa905bdbdfaafa238045f511c0cef74b8d0e48cb1382ca8114954d293",
+  "source_id": "59d0c4e8-1be7-4488-9157-94ceb45b4945",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 17/2021-26",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2021:17.C.17.2021.2",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59d0c4e8-1be7-4488-9157-94ceb45b4945"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
