@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:7.C.29.2021.1",
+  "docket": "7 C 29/2021-13",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d293bbc0-6b9e-4666-8c8c-e636ffc6e95c",
+  "source_sha256": "6b2b03d460a72e6f537f62f52cce8e5faa805bc04a19a7b02fe92aa545043b42",
+  "source_id": "d293bbc0-6b9e-4666-8c8c-e636ffc6e95c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 29/2021-13",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Barbora Nezkusilová",
+    "ecli": "ECLI:CZ:OSPH10:2021:7.C.29.2021.1",
+    "predmetRizeni": "44 043,38 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d293bbc0-6b9e-4666-8c8c-e636ffc6e95c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
