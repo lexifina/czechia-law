@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:14.C.60.2020.1",
+  "docket": "14 C 60/2020-27",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/60b3572e-bac8-4314-8ecc-20b040880977",
+  "source_sha256": "b155709219419f70c20a00831b87dc023c5e8faf281c425ad87967ca4ce47a5a",
+  "source_id": "60b3572e-bac8-4314-8ecc-20b040880977",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 60/2020-27",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Martin Lebeda, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH01:2021:14.C.60.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/60b3572e-bac8-4314-8ecc-20b040880977"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
