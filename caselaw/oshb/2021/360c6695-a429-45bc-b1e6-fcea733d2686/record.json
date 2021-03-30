@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:8.C.139.2020.3",
+  "docket": "8 C 139/2020-83",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/360c6695-a429-45bc-b1e6-fcea733d2686",
+  "source_sha256": "8fbe3aa3f5452354085bd556f9a5ae2698bc0618f86d982b06cca9b609454a12",
+  "source_id": "360c6695-a429-45bc-b1e6-fcea733d2686",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 139/2020-83",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "JUDr. Iveta Orlíková",
+    "ecli": "ECLI:CZ:OSHB:2021:8.C.139.2020.3",
+    "predmetRizeni": "zaplacení 6.650 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "majetková újma",
+      "podvod",
+      "smlouva o běžném účtu",
+      "smlouva o úvěru",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1824 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/360c6695-a429-45bc-b1e6-fcea733d2686"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
