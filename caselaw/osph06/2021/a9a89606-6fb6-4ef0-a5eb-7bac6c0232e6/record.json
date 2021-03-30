@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:8.C.79.2021.1",
+  "docket": "8 C 79/2021-29",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9a89606-6fb6-4ef0-a5eb-7bac6c0232e6",
+  "source_sha256": "7fa63de7a805cfb88b0ef71cb16ff1ed94a67465049e97aa917a71c276065cc9",
+  "source_id": "a9a89606-6fb6-4ef0-a5eb-7bac6c0232e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 79/2021-29",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Petra Andršová",
+    "ecli": "ECLI:CZ:OSPH06:2021:8.C.79.2021.1",
+    "predmetRizeni": "o zaplacení částky 2 981 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9a89606-6fb6-4ef0-a5eb-7bac6c0232e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
