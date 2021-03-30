@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:3.C.36.2021.1",
+  "docket": "3 C 36/2021-18",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7de84f7-b707-4961-b897-e9d3cea625c9",
+  "source_sha256": "61e28f55e31592d805a2480d3136491395b54e2e616022d8c82cd2f711b69004",
+  "source_id": "d7de84f7-b707-4961-b897-e9d3cea625c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 36/2021-18",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Magdalena Fifková",
+    "ecli": "ECLI:CZ:OSPY:2021:3.C.36.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7de84f7-b707-4961-b897-e9d3cea625c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
