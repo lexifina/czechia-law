@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:7.C.61.2021.1",
+  "docket": "7 C 61/2021-57",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/960c27e5-b369-4449-8956-2f8338515ab1",
+  "source_sha256": "e4b558dc0092892baae39cbf98fd199f1c92b501fd68f9bcf1a037b8c3f7b40a",
+  "source_id": "960c27e5-b369-4449-8956-2f8338515ab1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 61/2021-57",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Marie Rychtářová",
+    "ecli": "ECLI:CZ:OSST:2021:7.C.61.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/960c27e5-b369-4449-8956-2f8338515ab1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
