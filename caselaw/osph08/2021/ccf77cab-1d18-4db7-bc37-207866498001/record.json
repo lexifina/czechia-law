@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:26.C.225.2019.1",
+  "docket": "26 C 225/2019-80",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ccf77cab-1d18-4db7-bc37-207866498001",
+  "source_sha256": "df383ace9f6d3f5a1abd0c464ccdadecd31f5834e69afa84ff7ded15bd96aab0",
+  "source_id": "ccf77cab-1d18-4db7-bc37-207866498001",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 225/2019-80",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Beatrice Keményová",
+    "ecli": "ECLI:CZ:OSPH08:2021:26.C.225.2019.1",
+    "predmetRizeni": "o zaplacení 206.387,21 Kč s příslušenstvím,",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 107a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ccf77cab-1d18-4db7-bc37-207866498001"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
