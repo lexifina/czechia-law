@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:11.C.170.2020.1",
+  "docket": "11 C 170/2020-28",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae8e3a52-5827-4636-bd13-1f927bd5ac59",
+  "source_sha256": "a5079a505a6e72b4fd8dd336df98833ccedc7e30811c5f625461fbedef425036",
+  "source_id": "ae8e3a52-5827-4636-bd13-1f927bd5ac59",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 170/2020-28",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Pavla Kohoutková",
+    "ecli": "ECLI:CZ:OSVY:2021:11.C.170.2020.1",
+    "predmetRizeni": "zaplacení částky 1 525 Kč s příslušenstvím - jízdné",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2578 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae8e3a52-5827-4636-bd13-1f927bd5ac59"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
