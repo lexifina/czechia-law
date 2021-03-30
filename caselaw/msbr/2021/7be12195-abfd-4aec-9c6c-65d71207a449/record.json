@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:108.C.215.2020.1",
+  "docket": "108 C 215/2020-41",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7be12195-abfd-4aec-9c6c-65d71207a449",
+  "source_sha256": "aa0123087f24f0485a1e37b972fb8c51f6f2bf239d1c575364a0d5d89ab7bf49",
+  "source_id": "7be12195-abfd-4aec-9c6c-65d71207a449",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 215/2020-41",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Střítecká",
+    "ecli": "ECLI:CZ:MSBR:2021:108.C.215.2020.1",
+    "predmetRizeni": "O zaplacení 4 000 Kč s příslušenstvím - smlouva o úvěru",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 18 z. č. 99/1963 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 43 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7be12195-abfd-4aec-9c6c-65d71207a449"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
