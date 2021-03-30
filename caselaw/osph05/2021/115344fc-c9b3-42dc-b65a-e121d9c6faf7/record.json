@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:16.C.111.2021.1",
+  "docket": "16 C 111/2021-11",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/115344fc-c9b3-42dc-b65a-e121d9c6faf7",
+  "source_sha256": "364d12c43f9d695c4aac475dc1d9926854fb2c6a29a9b0e6686725f83307d21e",
+  "source_id": "115344fc-c9b3-42dc-b65a-e121d9c6faf7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 111/2021-11",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Klára Hronová",
+    "ecli": "ECLI:CZ:OSPH05:2021:16.C.111.2021.1",
+    "predmetRizeni": "O zaplacení 1 356 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "škodové pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/115344fc-c9b3-42dc-b65a-e121d9c6faf7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
