@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:9.C.7.2021.1",
+  "docket": "9 C 7/2021-18",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db5b90a2-30cc-4bd2-ae87-46420e49dec6",
+  "source_sha256": "ef5097470d6c091fbe4dc54253f804cd407eb6c2296631f57b1afbe30ebdc9e6",
+  "source_id": "db5b90a2-30cc-4bd2-ae87-46420e49dec6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 7/2021-18",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Petra Šárovcová",
+    "ecli": "ECLI:CZ:OSNB:2021:9.C.7.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db5b90a2-30cc-4bd2-ae87-46420e49dec6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
