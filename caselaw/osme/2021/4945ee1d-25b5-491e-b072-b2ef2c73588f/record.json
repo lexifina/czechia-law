@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:13.C.70.2020.1",
+  "docket": "13 C 70/2020-65",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4945ee1d-25b5-491e-b072-b2ef2c73588f",
+  "source_sha256": "85c38064990a9b04e9eebd2fd9ae167ab3d5f08aa254ebb4b9b1f2594067729c",
+  "source_id": "4945ee1d-25b5-491e-b072-b2ef2c73588f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 70/2020-65",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Radmila Vladyková",
+    "ecli": "ECLI:CZ:OSME:2021:13.C.70.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o zápůjčce",
+      "věcná příslušnost"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4945ee1d-25b5-491e-b072-b2ef2c73588f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
