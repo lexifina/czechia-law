@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:16.C.13.2021.1",
+  "docket": "16 C 13/2021-44",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7bf2d066-6d0e-4829-a18c-565bd3378e09",
+  "source_sha256": "9f99473e248393e9e25e8968900df0e4fb2a11cc10aa77b3af5fb04ee7c507db",
+  "source_id": "7bf2d066-6d0e-4829-a18c-565bd3378e09",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 13/2021-44",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Miroslav Král",
+    "ecli": "ECLI:CZ:MSBR:2021:16.C.13.2021.1",
+    "predmetRizeni": "zaplacení 9.148,98 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "rozhodčí doložka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7bf2d066-6d0e-4829-a18c-565bd3378e09"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
