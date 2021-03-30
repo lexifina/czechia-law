@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:85.C.4.2021.3",
+  "docket": "85 C 4/2021-16",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3d93841e-94b4-40c1-b394-e9741a0f3f37",
+  "source_sha256": "509dbc5e223c3dde441b45a976c73efc1734c059b02355814857533a72cd09af",
+  "source_id": "3d93841e-94b4-40c1-b394-e9741a0f3f37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "85 C 4/2021-16",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Dušan Broulík",
+    "ecli": "ECLI:CZ:OSOV:2021:85.C.4.2021.3",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 50 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3d93841e-94b4-40c1-b394-e9741a0f3f37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
