@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:25.C.67.2021.1",
+  "docket": "25 C 67/2021-14",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0214ba87-e99d-43f6-b6f3-6c1d060ba96f",
+  "source_sha256": "08717b7d0914a861cff552befcd62a8ed8effa7456933eb7d07247a93c457a2d",
+  "source_id": "0214ba87-e99d-43f6-b6f3-6c1d060ba96f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 67/2021-14",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Andrea Pěničková",
+    "ecli": "ECLI:CZ:OSDC:2021:25.C.67.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0214ba87-e99d-43f6-b6f3-6c1d060ba96f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
