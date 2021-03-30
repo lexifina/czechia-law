@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:7.C.141.2021.1",
+  "docket": "7 C 141/2021-20",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05eb8b27-845e-49bb-8252-eb120210cce9",
+  "source_sha256": "48bd457c267cf7c1f775d6cefdd84efdd9161dab21cfc5ea641c579f228eeb60",
+  "source_id": "05eb8b27-845e-49bb-8252-eb120210cce9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 141/2021-20",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2021:7.C.141.2021.1",
+    "predmetRizeni": "O zaplacení 20 318 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05eb8b27-845e-49bb-8252-eb120210cce9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
