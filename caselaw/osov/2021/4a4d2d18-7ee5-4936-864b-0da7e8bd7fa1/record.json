@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:85.C.32.2021.3",
+  "docket": "85 C 32/2021-13",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4a4d2d18-7ee5-4936-864b-0da7e8bd7fa1",
+  "source_sha256": "4b7fb548ca3df9913b8a01999e0dd71cc7c18eef8056abbbe8f247820b0e814e",
+  "source_id": "4a4d2d18-7ee5-4936-864b-0da7e8bd7fa1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "85 C 32/2021-13",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Dušan Broulík",
+    "ecli": "ECLI:CZ:OSOV:2021:85.C.32.2021.3",
+    "predmetRizeni": "o zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 12 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4a4d2d18-7ee5-4936-864b-0da7e8bd7fa1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
