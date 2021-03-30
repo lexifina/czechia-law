@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:8.C.73.2021.1",
+  "docket": "8 C 73/2021-19",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32f9ab62-ba29-444c-a4cf-c6985472e9d4",
+  "source_sha256": "aac26ddd61a5fe1f92d8c2789b48dabd0ef8f16daa8e31d6e4075ebf6042f2ab",
+  "source_id": "32f9ab62-ba29-444c-a4cf-c6985472e9d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 73/2021-19",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jindřich Kříž",
+    "ecli": "ECLI:CZ:OSKH:2021:8.C.73.2021.1",
+    "predmetRizeni": "O zaplacení 391 647,66 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 205 z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32f9ab62-ba29-444c-a4cf-c6985472e9d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
