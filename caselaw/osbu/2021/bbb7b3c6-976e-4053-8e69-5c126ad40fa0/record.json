@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:12.C.12.2021.1",
+  "docket": "12 C 12/2021-22",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bbb7b3c6-976e-4053-8e69-5c126ad40fa0",
+  "source_sha256": "390c547577c5918d8058d25fb842f7e0245ba10a0775891c2b71206743e7539c",
+  "source_id": "bbb7b3c6-976e-4053-8e69-5c126ad40fa0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 12/2021-22",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Hana Rapušáková",
+    "ecli": "ECLI:CZ:OSBU:2021:12.C.12.2021.1",
+    "predmetRizeni": "26.223 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-10-14",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bbb7b3c6-976e-4053-8e69-5c126ad40fa0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
