@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:30.C.33.2021.1",
+  "docket": "30 C 33/2021-35",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37bf34f3-451e-49ac-b7e0-038050a8bcee",
+  "source_sha256": "62c3024344e0f049a293b06f300b7d04f665e6708adf9ff7789945bcafbfcd5e",
+  "source_id": "37bf34f3-451e-49ac-b7e0-038050a8bcee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 33/2021-35",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Gabriela Řezníčková",
+    "ecli": "ECLI:CZ:OSTU:2021:30.C.33.2021.1",
+    "predmetRizeni": "zaplacení 9 325,79 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37bf34f3-451e-49ac-b7e0-038050a8bcee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
