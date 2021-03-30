@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:12.C.288.2020.1",
+  "docket": "12 C 288/2020-18",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f3934f2-4d03-4434-adef-a966dd337470",
+  "source_sha256": "5ed5b9f4558368a17d079ba49e99949a60d94670b0abef1d9a1f5b716a49259b",
+  "source_id": "1f3934f2-4d03-4434-adef-a966dd337470",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 288/2020-18",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Monika Bittnerová",
+    "ecli": "ECLI:CZ:OSJN:2021:12.C.288.2020.1",
+    "predmetRizeni": "o zaplacení 5 865 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f3934f2-4d03-4434-adef-a966dd337470"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
