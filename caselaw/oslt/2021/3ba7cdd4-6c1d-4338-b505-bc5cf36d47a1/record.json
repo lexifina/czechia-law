@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:8.C.288.2020.1",
+  "docket": "8 C 288/2020-15",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3ba7cdd4-6c1d-4338-b505-bc5cf36d47a1",
+  "source_sha256": "6e20fc057b1c262304d10188323010e90df29318a011d0a53345f9dc00265d40",
+  "source_id": "3ba7cdd4-6c1d-4338-b505-bc5cf36d47a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 288/2020-15",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Karolína Kudláčková řezáčová",
+    "ecli": "ECLI:CZ:OSLT:2021:8.C.288.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3ba7cdd4-6c1d-4338-b505-bc5cf36d47a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
