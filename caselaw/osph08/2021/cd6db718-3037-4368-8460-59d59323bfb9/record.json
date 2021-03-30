@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:27.C.203.2019.4",
+  "docket": "27 C 203/2019-101",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd6db718-3037-4368-8460-59d59323bfb9",
+  "source_sha256": "794dcb0a27df47952e410121856ca4e4edb3ef04358545ef2fc153f296b4ed05",
+  "source_id": "cd6db718-3037-4368-8460-59d59323bfb9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 203/2019-101",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Pavel Jaroš",
+    "ecli": "ECLI:CZ:OSPH08:2021:27.C.203.2019.4",
+    "predmetRizeni": "O zaplacení 42 594 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 22 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd6db718-3037-4368-8460-59d59323bfb9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
