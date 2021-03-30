@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:19.C.58.2021.1",
+  "docket": "19 C 58/2021-10",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91a7970d-a850-4f05-abd5-15f001d90ee4",
+  "source_sha256": "184733793729b190ae869725cca772b50cf7bac962348d7e591a9d40478cdee6",
+  "source_id": "91a7970d-a850-4f05-abd5-15f001d90ee4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 58/2021-10",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Lucie Vítková",
+    "ecli": "ECLI:CZ:OSPH02:2021:19.C.58.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91a7970d-a850-4f05-abd5-15f001d90ee4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
