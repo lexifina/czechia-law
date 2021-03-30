@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:12.C.84.2021.1",
+  "docket": "12 C 84/2021-18",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/20fcc55e-398a-495d-bcc7-94535e512f42",
+  "source_sha256": "d25efe898f8191d182a16b6348ad422e167886cbce202de31286ffd873896f1c",
+  "source_id": "20fcc55e-398a-495d-bcc7-94535e512f42",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 84/2021-18",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Eva Procházková",
+    "ecli": "ECLI:CZ:OSPH04:2021:12.C.84.2021.1",
+    "predmetRizeni": "O zaplacení 1 307 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/20fcc55e-398a-495d-bcc7-94535e512f42"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
