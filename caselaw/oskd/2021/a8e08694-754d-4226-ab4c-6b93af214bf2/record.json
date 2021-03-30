@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:217.C.39.2021.1",
+  "docket": "217 C 39/2021-47",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8e08694-754d-4226-ab4c-6b93af214bf2",
+  "source_sha256": "7a16160dc7e71642506dad71347cc33badfea81036edf011a6a3a3f98a197896",
+  "source_id": "a8e08694-754d-4226-ab4c-6b93af214bf2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "217 C 39/2021-47",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Petra Nováková",
+    "ecli": "ECLI:CZ:OSKD:2021:217.C.39.2021.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8e08694-754d-4226-ab4c-6b93af214bf2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
