@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:51.C.16.2021.2",
+  "docket": "51 C 16/2021-24",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a77ba555-9319-42fe-a2d9-bc2093402781",
+  "source_sha256": "17acff5712cd3165e830aae968f9648c80bf2996f2f658e112de4574adfe7dbe",
+  "source_id": "a77ba555-9319-42fe-a2d9-bc2093402781",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 16/2021-24",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Hana Cholastová",
+    "ecli": "ECLI:CZ:OSCL:2021:51.C.16.2021.2",
+    "predmetRizeni": "O zaplacení 12 245 Kč s příslušenstvím",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a77ba555-9319-42fe-a2d9-bc2093402781"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
