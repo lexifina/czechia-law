@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:6.C.368.2020.1",
+  "docket": "6 C 368/2020-22",
+  "date": "2021-03-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/235094ba-c521-4b1b-84eb-458ebbde1488",
+  "source_sha256": "779c40bb5f909b747aac78916f110c4cffa6ace690c16c64d1bcfffe4ed1cadb",
+  "source_id": "235094ba-c521-4b1b-84eb-458ebbde1488",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 368/2020-22",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2021:6.C.368.2020.1",
+    "predmetRizeni": "o rozvod manželsví",
+    "datumVydani": "2021-03-30",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/235094ba-c521-4b1b-84eb-458ebbde1488"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
