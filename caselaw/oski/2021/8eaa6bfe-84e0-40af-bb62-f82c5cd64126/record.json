@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:16.C.126.2020.1",
+  "docket": "16 C 126/2020-44",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8eaa6bfe-84e0-40af-bb62-f82c5cd64126",
+  "source_sha256": "bfd72df1352d9d414d21a5189f0338dcae7c6a8d15e257a137e516cabbb4e4c6",
+  "source_id": "8eaa6bfe-84e0-40af-bb62-f82c5cd64126",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 126/2020-44",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Irena Žaganová",
+    "ecli": "ECLI:CZ:OSKI:2021:16.C.126.2020.1",
+    "predmetRizeni": "2 470,60 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8eaa6bfe-84e0-40af-bb62-f82c5cd64126"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
