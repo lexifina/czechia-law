@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:8.C.34.2021.1",
+  "docket": "8 C 34/2021-29",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ed01053-78f6-4f6a-a1ef-ecfeeded3ebf",
+  "source_sha256": "5ba03741cb74243d8b1253e6149df8523de1c237232bb844cd54dc67018fa0a1",
+  "source_id": "8ed01053-78f6-4f6a-a1ef-ecfeeded3ebf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 34/2021-29",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Zuzana Masnerová",
+    "ecli": "ECLI:CZ:OSPB:2021:8.C.34.2021.1",
+    "predmetRizeni": "zaplacení 6 320 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ed01053-78f6-4f6a-a1ef-ecfeeded3ebf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
