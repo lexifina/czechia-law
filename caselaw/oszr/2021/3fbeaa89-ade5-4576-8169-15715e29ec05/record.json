@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.373.2018.1",
+  "docket": "12 C 373/2018-128",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3fbeaa89-ade5-4576-8169-15715e29ec05",
+  "source_sha256": "95eab76c098fb338b1ac517a586f240e40fa8b04607a9bf2bdc431b98bbf65fe",
+  "source_id": "3fbeaa89-ade5-4576-8169-15715e29ec05",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 373/2018-128",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.373.2018.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "odpovědnost za vady",
+      "peněžité plnění",
+      "sleva z ceny",
+      "smlouva o dílo",
+      "svědečné",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 159a z. č. 99/63 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3fbeaa89-ade5-4576-8169-15715e29ec05"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
