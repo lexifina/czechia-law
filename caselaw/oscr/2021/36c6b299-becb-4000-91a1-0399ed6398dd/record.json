@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:3.C.29.2021.1",
+  "docket": "3 C 29/2021-15",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36c6b299-becb-4000-91a1-0399ed6398dd",
+  "source_sha256": "53c8d6816cc5649f234c4fa0b8145150e7ca1d8ff6edbfa3294781de583ccc72",
+  "source_id": "36c6b299-becb-4000-91a1-0399ed6398dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 29/2021-15",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Jana Profousová",
+    "ecli": "ECLI:CZ:OSCR:2021:3.C.29.2021.1",
+    "predmetRizeni": "o 9 120 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§  z. č. 266/94 Sb.",
+      "§ 18a z. č. 111/94 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36c6b299-becb-4000-91a1-0399ed6398dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
