@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:6.C.69.2021.1",
+  "docket": "6 C 69/2021-11",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7b70766-2280-40ac-a1e1-fb4a5a754c25",
+  "source_sha256": "6d3e8e5a6e2a440e7e3c0d4668937031eec0fddfa8ebf1f8729068d3a07267c9",
+  "source_id": "a7b70766-2280-40ac-a1e1-fb4a5a754c25",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 69/2021-11",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2021:6.C.69.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7b70766-2280-40ac-a1e1-fb4a5a754c25"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
