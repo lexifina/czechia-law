@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:119.C.1.2021.1",
+  "docket": "119 C 1/2021-137",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2bf8e79-5d98-4b63-9404-37a864f5b930",
+  "source_sha256": "9a47a2ebb433f4c41a936c36d6798a5e864263897d9852df5f5ef16b96f39a95",
+  "source_id": "a2bf8e79-5d98-4b63-9404-37a864f5b930",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 1/2021-137",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jaroslav Lockenbauer",
+    "ecli": "ECLI:CZ:OSKD:2021:119.C.1.2021.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1969 nař. vl. č. 351/2013 Sb.",
+      "§ 1987 z. č. 89/2012 Sb.",
+      "§ 98 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2bf8e79-5d98-4b63-9404-37a864f5b930"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
