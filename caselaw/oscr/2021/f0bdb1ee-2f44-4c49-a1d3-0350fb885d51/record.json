@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:111.C.5.2020.1",
+  "docket": "111 C 5/2020-44",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0bdb1ee-2f44-4c49-a1d3-0350fb885d51",
+  "source_sha256": "3ca3f22f9687ad7790457735defe1b03d528716a4fd5b7546ddb36bd3ba5c4a9",
+  "source_id": "f0bdb1ee-2f44-4c49-a1d3-0350fb885d51",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 5/2020-44",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Hynek Baňouch, Ph.D.",
+    "ecli": "ECLI:CZ:OSCR:2021:111.C.5.2020.1",
+    "predmetRizeni": "o 37 8240 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0bdb1ee-2f44-4c49-a1d3-0350fb885d51"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
