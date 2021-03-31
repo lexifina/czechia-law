@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:11.C.145.2020.1",
+  "docket": "11 C 145/2020-26",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6e9c44b1-93ae-47b3-8df7-fa9de36a217f",
+  "source_sha256": "365fddd961407bbd8632fde18833581e00337325c6e17d0c78b7dd7162fb445c",
+  "source_id": "6e9c44b1-93ae-47b3-8df7-fa9de36a217f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 145/2020-26",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petr Strejc",
+    "ecli": "ECLI:CZ:OSPM:2021:11.C.145.2020.1",
+    "predmetRizeni": "o zaplacení částky ve výši 864 Kč s přísl.",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 2326 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6e9c44b1-93ae-47b3-8df7-fa9de36a217f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
