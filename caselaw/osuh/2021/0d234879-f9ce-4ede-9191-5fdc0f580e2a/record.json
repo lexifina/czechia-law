@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:14.C.32.2021.1",
+  "docket": "14 C 32/2021-41",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d234879-f9ce-4ede-9191-5fdc0f580e2a",
+  "source_sha256": "b0af5f2b2a333c1b3287df1a4ee78dbcd52dffca54e7ccfabd1839a67cc16342",
+  "source_id": "0d234879-f9ce-4ede-9191-5fdc0f580e2a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 32/2021-41",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Pavlína Potomská",
+    "ecli": "ECLI:CZ:OSUH:2021:14.C.32.2021.1",
+    "predmetRizeni": "29.960 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d234879-f9ce-4ede-9191-5fdc0f580e2a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
