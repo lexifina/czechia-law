@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:7.C.8.2021.5",
+  "docket": "7 C 8/2021-72",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/15b7ad1c-1a8f-4ad7-8f7a-39a6bf36f79b",
+  "source_sha256": "0e09a733398e42f1f578441df0db88b9db94857cfa5b862fe259fd3f35d04919",
+  "source_id": "15b7ad1c-1a8f-4ad7-8f7a-39a6bf36f79b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 8/2021-72",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Lenka Eliášová",
+    "ecli": "ECLI:CZ:OSPH05:2021:7.C.8.2021.5",
+    "predmetRizeni": "4 547 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o výpůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2193 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/15b7ad1c-1a8f-4ad7-8f7a-39a6bf36f79b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
