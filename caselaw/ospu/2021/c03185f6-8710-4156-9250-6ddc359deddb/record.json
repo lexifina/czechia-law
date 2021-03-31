@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:17.C.59.2021.1",
+  "docket": "17 C 59/2021-32",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c03185f6-8710-4156-9250-6ddc359deddb",
+  "source_sha256": "d07c365f24d5029eee283c508e7fa04186d271f1aa64e58d9924673630a4219d",
+  "source_id": "c03185f6-8710-4156-9250-6ddc359deddb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 59/2021-32",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Naděžda Librová",
+    "ecli": "ECLI:CZ:OSPU:2021:17.C.59.2021.1",
+    "predmetRizeni": "o zaplacení 30 643,99 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c03185f6-8710-4156-9250-6ddc359deddb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
