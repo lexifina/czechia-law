@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:19.C.12.2021.1",
+  "docket": "19 C 12/2021-65",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef68e51c-cbc9-4fa2-a6e3-7bcbad70d70e",
+  "source_sha256": "384e1641b6b328182ad71dc4c95c93da0e29f4e664b27178689d67083295abb5",
+  "source_id": "ef68e51c-cbc9-4fa2-a6e3-7bcbad70d70e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 12/2021-65",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Kateřina Gabrielová",
+    "ecli": "ECLI:CZ:MSBR:2021:19.C.12.2021.1",
+    "predmetRizeni": "zaplacení 17.543,90 Kč - smluvní pokuta",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef68e51c-cbc9-4fa2-a6e3-7bcbad70d70e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
