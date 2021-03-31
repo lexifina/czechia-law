@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:8.C.48.2021.1",
+  "docket": "8 C 48/2021-11",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40e88b30-933f-41d0-82f8-d6885989855c",
+  "source_sha256": "28801553eccda252e8169683621aec8a350100e693ba30074725ae9ef2081b1b",
+  "source_id": "40e88b30-933f-41d0-82f8-d6885989855c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 48/2021-11",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "Mgr. Milada Trůblová",
+    "ecli": "ECLI:CZ:OSPT:2021:8.C.48.2021.1",
+    "predmetRizeni": "o zaplacení 12 900 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40e88b30-933f-41d0-82f8-d6885989855c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
