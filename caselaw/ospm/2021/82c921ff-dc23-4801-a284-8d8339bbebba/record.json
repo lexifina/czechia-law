@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:28.C.289.2020.1",
+  "docket": "28 C 289/2020-68",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82c921ff-dc23-4801-a284-8d8339bbebba",
+  "source_sha256": "a2289a4e937c55cda00ab93e4bc2b5f4c387c1131002a154944e461f16ef473d",
+  "source_id": "82c921ff-dc23-4801-a284-8d8339bbebba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 289/2020-68",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Kateřina Auterská šašková",
+    "ecli": "ECLI:CZ:OSPM:2021:28.C.289.2020.1",
+    "predmetRizeni": "o zaplacení 48 381,32 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 544 z. č. 40/1964 Sb.",
+      "§ 504 z. č. 513/1991 Sb.",
+      "§ 37 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82c921ff-dc23-4801-a284-8d8339bbebba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
