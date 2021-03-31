@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:24.C.19.2021.1",
+  "docket": "24 C 19/2021-52",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f916440c-0192-4c9d-a18e-1a0a1d8143cc",
+  "source_sha256": "2845e61ddc81c2ba2df77b9b605c8a4553d1a0c83a04ca131e0f03eda99b7732",
+  "source_id": "f916440c-0192-4c9d-a18e-1a0a1d8143cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 19/2021-52",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Ing. Dana Semirádová",
+    "ecli": "ECLI:CZ:OSLI:2021:24.C.19.2021.1",
+    "predmetRizeni": "zaplacení částky 4 609,31 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2001 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f916440c-0192-4c9d-a18e-1a0a1d8143cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
