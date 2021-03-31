@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.35.2020.1",
+  "docket": "22 C 35/2020",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db6b9ee4-819b-4d00-8d9a-d30b1d416eb6",
+  "source_sha256": "de6e1af2a1285e0c3e7e849391e077ae26d7f5116eaac61482b6eb029d185b8d",
+  "source_id": "db6b9ee4-819b-4d00-8d9a-d30b1d416eb6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 35/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.35.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db6b9ee4-819b-4d00-8d9a-d30b1d416eb6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
