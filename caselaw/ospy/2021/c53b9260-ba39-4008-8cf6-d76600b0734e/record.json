@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:6.C.71.2021.1",
+  "docket": "6 C 71/2021-20",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c53b9260-ba39-4008-8cf6-d76600b0734e",
+  "source_sha256": "b13fd7bb31b726ac5af4a7b0a2a2dd34a7790950c30e1465ab26cca3c6e21917",
+  "source_id": "c53b9260-ba39-4008-8cf6-d76600b0734e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 71/2021-20",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Bartoš",
+    "ecli": "ECLI:CZ:OSPY:2021:6.C.71.2021.1",
+    "predmetRizeni": "O zaplacení 4 572 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c53b9260-ba39-4008-8cf6-d76600b0734e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
