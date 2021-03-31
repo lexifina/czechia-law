@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:221.C.35.2020.1",
+  "docket": "221 C 35/2020-35",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1708ee27-5fc4-4817-b85a-ef3ffe1e4478",
+  "source_sha256": "5255c936b97a492dc7704480b4f752be30768972faa5b1ababf570478148eac6",
+  "source_id": "1708ee27-5fc4-4817-b85a-ef3ffe1e4478",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "221 C 35/2020-35",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:221.C.35.2020.1",
+    "predmetRizeni": "zaplacení 17.000 Kč s příslušenstvím - bezdůvodné obohacení",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "držba",
+      "peněžité plnění",
+      "smlouva kupní",
+      "vydržení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 619 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1708ee27-5fc4-4817-b85a-ef3ffe1e4478"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
