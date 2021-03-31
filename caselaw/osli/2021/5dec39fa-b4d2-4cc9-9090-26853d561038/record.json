@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.21.2021.1",
+  "docket": "17 C 21/2021-22",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5dec39fa-b4d2-4cc9-9090-26853d561038",
+  "source_sha256": "344a216e87e264b7cf78f8a879822dcc0264fdb4cc3b3e15ee565cf31bc6412e",
+  "source_id": "5dec39fa-b4d2-4cc9-9090-26853d561038",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 21/2021-22",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.21.2021.1",
+    "predmetRizeni": "zaplacení částky 675,00 Kč s přísl.",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5dec39fa-b4d2-4cc9-9090-26853d561038"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
