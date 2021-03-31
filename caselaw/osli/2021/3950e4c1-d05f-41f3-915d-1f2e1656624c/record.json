@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.5.2021.1",
+  "docket": "19 C 5/2021-19",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3950e4c1-d05f-41f3-915d-1f2e1656624c",
+  "source_sha256": "95e8cde7dba7db80996286f4b127544c6e162b830b7ed84e33dc9c60fabde0a1",
+  "source_id": "3950e4c1-d05f-41f3-915d-1f2e1656624c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 5/2021-19",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.5.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 13.106,00 Kč s přísl.",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3950e4c1-d05f-41f3-915d-1f2e1656624c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
