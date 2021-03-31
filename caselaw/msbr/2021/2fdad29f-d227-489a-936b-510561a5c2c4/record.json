@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:18.C.101.2020.1",
+  "docket": "18 C 101/2020-38",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fdad29f-d227-489a-936b-510561a5c2c4",
+  "source_sha256": "e142c64a636cf984181c8ae4caa83229b1e2951b0742e435f03717a6ed8c3e2e",
+  "source_id": "2fdad29f-d227-489a-936b-510561a5c2c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 101/2020-38",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Hanáková",
+    "ecli": "ECLI:CZ:MSBR:2021:18.C.101.2020.1",
+    "predmetRizeni": "zaplacení 11.093,34 Kč s příslušenstvím - náhrada škody",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "pojištění odpovědnosti za škodu",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fdad29f-d227-489a-936b-510561a5c2c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
