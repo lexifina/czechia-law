@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:113.C.27.2020.1",
+  "docket": "113 C 27/2020",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9ee93c14-b304-44db-8b3e-67f7e03bd9e9",
+  "source_sha256": "1db8e7aa17c6984edfc4f6fcade060d3f37fbaf8a06c9282ac1fb1b882c4b153",
+  "source_id": "9ee93c14-b304-44db-8b3e-67f7e03bd9e9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "113 C 27/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Tomáš Štindl",
+    "ecli": "ECLI:CZ:OSBR:2021:113.C.27.2020.1",
+    "predmetRizeni": "o částku 7.516,07 Kč s přísl.",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2085 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9ee93c14-b304-44db-8b3e-67f7e03bd9e9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
