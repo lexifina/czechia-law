@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:36.C.32.2021.1",
+  "docket": "36 C 32/2021-56",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9e5d0d2b-18ed-4810-be27-ea5c85ca57ff",
+  "source_sha256": "83dbf5800698a606a16cda1bcbc1fd49d47e255a19b755214edb52686b3863e7",
+  "source_id": "9e5d0d2b-18ed-4810-be27-ea5c85ca57ff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 32/2021-56",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2021:36.C.32.2021.1",
+    "predmetRizeni": "zaplacení 4 821,09 Kč",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 588 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9e5d0d2b-18ed-4810-be27-ea5c85ca57ff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
