@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:17.C.204.2020.1",
+  "docket": "17 C 204/2020-41",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/baf0f3b5-e8fd-4323-8527-cc6e2ca9662c",
+  "source_sha256": "1f4d07b42c9fd81ca5a9c8c168ffdd5f205f88e0a03b37679a4c75a0a1efdc6a",
+  "source_id": "baf0f3b5-e8fd-4323-8527-cc6e2ca9662c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 204/2020-41",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPM:2021:17.C.204.2020.1",
+    "predmetRizeni": "o zaplacení částky 124.107 Kč s přísl.",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 484/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/baf0f3b5-e8fd-4323-8527-cc6e2ca9662c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
