@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:30.C.101.2021.2",
+  "docket": "30 C 101/2021-17",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8784fdc-9cb6-4d3b-8a16-8e8993ff1edb",
+  "source_sha256": "49b20ba6838ccc1c41b2b7c17d586d5c3a852f50900b46acf9522eb127343b6d",
+  "source_id": "a8784fdc-9cb6-4d3b-8a16-8e8993ff1edb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 101/2021-17",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petr Bílý",
+    "ecli": "ECLI:CZ:OSUL:2021:30.C.101.2021.2",
+    "predmetRizeni": "O zaplacení 3 488 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8784fdc-9cb6-4d3b-8a16-8e8993ff1edb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
