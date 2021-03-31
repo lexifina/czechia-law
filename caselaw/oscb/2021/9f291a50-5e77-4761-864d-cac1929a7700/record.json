@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:16.C.111.2021.1",
+  "docket": "16 C 111/2021-14",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f291a50-5e77-4761-864d-cac1929a7700",
+  "source_sha256": "994a5d36093ef724afaacca04bb696ed5d7216fe612161c47b13f51ecdcd801a",
+  "source_id": "9f291a50-5e77-4761-864d-cac1929a7700",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 111/2021-14",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Jana Traxlerová",
+    "ecli": "ECLI:CZ:OSCB:2021:16.C.111.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 4 201 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f291a50-5e77-4761-864d-cac1929a7700"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
