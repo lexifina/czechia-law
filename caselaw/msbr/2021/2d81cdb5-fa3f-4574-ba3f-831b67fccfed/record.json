@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:55.C.178.2019.1",
+  "docket": "55 C 178/2019-46",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d81cdb5-fa3f-4574-ba3f-831b67fccfed",
+  "source_sha256": "4e6a81d8ddc0a346029a93cc32ab184305e8651674be6a7d4a4e7a4ef43f52c6",
+  "source_id": "2d81cdb5-fa3f-4574-ba3f-831b67fccfed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 178/2019-46",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Stočková",
+    "ecli": "ECLI:CZ:MSBR:2021:55.C.178.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d81cdb5-fa3f-4574-ba3f-831b67fccfed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
