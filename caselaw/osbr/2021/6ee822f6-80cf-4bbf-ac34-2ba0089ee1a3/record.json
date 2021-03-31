@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:13.C.23.2021.1",
+  "docket": "13 C 23/2021",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6ee822f6-80cf-4bbf-ac34-2ba0089ee1a3",
+  "source_sha256": "23486f16fec932db576701e922523b1eb8d0b2bedd612bd9d995a97b3fdd5d4f",
+  "source_id": "6ee822f6-80cf-4bbf-ac34-2ba0089ee1a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 23/2021",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Tomáš Štindl",
+    "ecli": "ECLI:CZ:OSBR:2021:13.C.23.2021.1",
+    "predmetRizeni": "O zaplacení 17 400 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 2394 z. č. 89/2012 Sb.",
+      "§ 2393 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6ee822f6-80cf-4bbf-ac34-2ba0089ee1a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
