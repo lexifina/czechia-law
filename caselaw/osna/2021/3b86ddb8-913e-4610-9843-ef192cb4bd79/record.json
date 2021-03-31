@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:8.C.27.2020.1",
+  "docket": "8 C 27/2020-184",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b86ddb8-913e-4610-9843-ef192cb4bd79",
+  "source_sha256": "cc97718028461e00cc3d470199c0b992f7fd19d6f999ce26c7051bccce2ecdad",
+  "source_id": "3b86ddb8-913e-4610-9843-ef192cb4bd79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 27/2020-184",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Milan Baudyš",
+    "ecli": "ECLI:CZ:OSNA:2021:8.C.27.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "odpovědnost za vady",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 100 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b86ddb8-913e-4610-9843-ef192cb4bd79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
