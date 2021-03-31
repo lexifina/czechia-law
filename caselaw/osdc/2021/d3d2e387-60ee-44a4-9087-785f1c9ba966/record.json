@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:6.C.67.2021.1",
+  "docket": "6 C 67/2021-14",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d3d2e387-60ee-44a4-9087-785f1c9ba966",
+  "source_sha256": "79f4b09739b6aac5e49d4e028694cbfb9e7ead677ac40e2e2238e737c55cc99d",
+  "source_id": "d3d2e387-60ee-44a4-9087-785f1c9ba966",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 67/2021-14",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2021:6.C.67.2021.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1721 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d3d2e387-60ee-44a4-9087-785f1c9ba966"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
