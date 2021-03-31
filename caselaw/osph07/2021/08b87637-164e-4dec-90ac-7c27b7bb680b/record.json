@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:16.C.24.2021.1",
+  "docket": "16 C 24/2021-17",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08b87637-164e-4dec-90ac-7c27b7bb680b",
+  "source_sha256": "958b05fad4d1813aa120b1aa2a7b36ce1f0da1d58cb61f6ecc517876f063fc50",
+  "source_id": "08b87637-164e-4dec-90ac-7c27b7bb680b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 24/2021-17",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "JUDr. Jitka Poláchová",
+    "ecli": "ECLI:CZ:OSPH07:2021:16.C.24.2021.1",
+    "predmetRizeni": "O zaplacení 45 960,39 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1725 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2049 z. č. 89/2012 Sb.",
+      "§ 1723 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 2398 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08b87637-164e-4dec-90ac-7c27b7bb680b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
