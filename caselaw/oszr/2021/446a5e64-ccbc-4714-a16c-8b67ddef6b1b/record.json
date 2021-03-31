@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:6.C.165.2020.1",
+  "docket": "6 C 165/2020-58",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/446a5e64-ccbc-4714-a16c-8b67ddef6b1b",
+  "source_sha256": "d6371d9e963787b8939a721a5cda0cf6e382aadcb03450aae8fbdd32a0498862",
+  "source_id": "446a5e64-ccbc-4714-a16c-8b67ddef6b1b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 165/2020-58",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jana Homolová",
+    "ecli": "ECLI:CZ:OSZR:2021:6.C.165.2020.1",
+    "predmetRizeni": "O zaplacení 57 489 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/446a5e64-ccbc-4714-a16c-8b67ddef6b1b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
