@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:8.C.69.2020.1",
+  "docket": "8 C 69/2020-49",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d90c21c-5802-4678-8f66-c17bbfc31642",
+  "source_sha256": "064061d723441d5d285fb86d8698cf981ba0efeb8fcd8dadacf6500fd4bb6366",
+  "source_id": "1d90c21c-5802-4678-8f66-c17bbfc31642",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 69/2020-49",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Dita Coufalová",
+    "ecli": "ECLI:CZ:OSVY:2021:8.C.69.2020.1",
+    "predmetRizeni": "zaplacení částky 14 266 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d90c21c-5802-4678-8f66-c17bbfc31642"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
