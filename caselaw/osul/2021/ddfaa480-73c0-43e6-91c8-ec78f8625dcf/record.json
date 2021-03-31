@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:22.C.327.2020.3",
+  "docket": "22 C 327/2020-37",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ddfaa480-73c0-43e6-91c8-ec78f8625dcf",
+  "source_sha256": "01228a51794b8414e16e89a1f91d24edf0a3180d12924836fb51cc36f663835f",
+  "source_id": "ddfaa480-73c0-43e6-91c8-ec78f8625dcf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 327/2020-37",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Martin Chládek",
+    "ecli": "ECLI:CZ:OSUL:2021:22.C.327.2020.3",
+    "predmetRizeni": "O zaplacení 15 124 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddfaa480-73c0-43e6-91c8-ec78f8625dcf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
