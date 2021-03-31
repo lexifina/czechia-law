@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:7.C.31.2021.1",
+  "docket": "7 C 31/2021-39",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10e20150-2b94-4321-b03a-509265825b9a",
+  "source_sha256": "1f408c23b66d7690872a87e506d950fca1b55f2bdfbaad387d106f1aadd1e2db",
+  "source_id": "10e20150-2b94-4321-b03a-509265825b9a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 31/2021-39",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Jiří Vošvrda",
+    "ecli": "ECLI:CZ:OSTU:2021:7.C.31.2021.1",
+    "predmetRizeni": "zaplacení 22 146,32 Kč s příslušenstvím - uznání dluhu",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 133 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10e20150-2b94-4321-b03a-509265825b9a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
