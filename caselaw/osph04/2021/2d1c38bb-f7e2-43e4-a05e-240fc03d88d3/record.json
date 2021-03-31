@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:24.C.34.2020.1",
+  "docket": "24 C 34/2020-95",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d1c38bb-f7e2-43e4-a05e-240fc03d88d3",
+  "source_sha256": "855fae9e3516976e5438b54f1fc843059b14860c3aab58eaa938f93101f80121",
+  "source_id": "2d1c38bb-f7e2-43e4-a05e-240fc03d88d3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 34/2020-95",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Eva Rybářová",
+    "ecli": "ECLI:CZ:OSPH04:2021:24.C.34.2020.1",
+    "predmetRizeni": "o zaplacení 28 944 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-08-24",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 351 z. č. 513/1991 Sb.",
+      "§ 302 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d1c38bb-f7e2-43e4-a05e-240fc03d88d3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
