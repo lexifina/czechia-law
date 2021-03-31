@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:13.C.408.2020.1",
+  "docket": "13 C 408/2020-36",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5047c03-778c-44f9-bbdd-b8b068b4778e",
+  "source_sha256": "3e84ff622cdcd0ef29052a3305dce6ebc43f2ec7c095dbcf216d0fb6e344bc97",
+  "source_id": "a5047c03-778c-44f9-bbdd-b8b068b4778e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 408/2020-36",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Jiří Pacovský",
+    "ecli": "ECLI:CZ:OSPZ:2021:13.C.408.2020.1",
+    "predmetRizeni": "Návrh na rozvod manželství",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "notářský zápis",
+      "rozvod manželství",
+      "smlouva o manželském majetkovém režimu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5047c03-778c-44f9-bbdd-b8b068b4778e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
