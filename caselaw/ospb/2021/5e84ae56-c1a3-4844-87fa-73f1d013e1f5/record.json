@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:9.C.66.2021.1",
+  "docket": "9 C 66/2021-44",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5e84ae56-c1a3-4844-87fa-73f1d013e1f5",
+  "source_sha256": "d4e5ca0f0406780cb1ad7c8692d49d7bfa28a5fc461d24eed0db3bdc2faaacc5",
+  "source_id": "5e84ae56-c1a3-4844-87fa-73f1d013e1f5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 66/2021-44",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Vlasta Cízlová",
+    "ecli": "ECLI:CZ:OSPB:2021:9.C.66.2021.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5e84ae56-c1a3-4844-87fa-73f1d013e1f5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
