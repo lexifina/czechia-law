@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:8.C.408.2020.1",
+  "docket": "8 C 408/2020-56",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a49c59e6-a916-47a4-839d-c0e49cf8866f",
+  "source_sha256": "ef841fde9711fb704f4b0ee8703de64b30a75057b0e99e3ca3a9105a70c87646",
+  "source_id": "a49c59e6-a916-47a4-839d-c0e49cf8866f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 408/2020-56",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Dana Malechová",
+    "ecli": "ECLI:CZ:OSPV:2021:8.C.408.2020.1",
+    "predmetRizeni": "o zaplacení částky 2.246,40 Kč",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a49c59e6-a916-47a4-839d-c0e49cf8866f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
