@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:6.C.33.2021.2",
+  "docket": "6 C 33/2021-26",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b77c95f-8e16-47e6-9bf8-69f3e55f562f",
+  "source_sha256": "1e08b93c8767bbcf7009c6e99f4df945625ec3e0fb63125ed2175e64d069a837",
+  "source_id": "5b77c95f-8e16-47e6-9bf8-69f3e55f562f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 33/2021-26",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Milena Hrdličková",
+    "ecli": "ECLI:CZ:OSCK:2021:6.C.33.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b77c95f-8e16-47e6-9bf8-69f3e55f562f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
