@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:6.C.73.2021.1",
+  "docket": "6 C 73/2021-14",
+  "date": "2021-03-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59b116e0-83c6-493d-81cd-1682076151c8",
+  "source_sha256": "dacb4c37de915ab1f13d1a14ba9038d2bf6ba354ac7e25414733c251a048a4fc",
+  "source_id": "59b116e0-83c6-493d-81cd-1682076151c8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 73/2021-14",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Bartoš",
+    "ecli": "ECLI:CZ:OSPY:2021:6.C.73.2021.1",
+    "predmetRizeni": "O zaplacení 20 108 Kč s příslušenstvím",
+    "datumVydani": "2021-03-31",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59b116e0-83c6-493d-81cd-1682076151c8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
