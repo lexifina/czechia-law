@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:3.C.271.2020.1",
+  "docket": "3 C 271/2020-15",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a16c4473-d84d-4d04-ac33-cf8c9db8a691",
+  "source_sha256": "8ceaea996d7655cfda0782a92efbd53e9b9ecde2b78c819b4bfb2b5bbe7e5feb",
+  "source_id": "a16c4473-d84d-4d04-ac33-cf8c9db8a691",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 271/2020-15",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Vladimír Matějíček",
+    "ecli": "ECLI:CZ:OSDO:2021:3.C.271.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a16c4473-d84d-4d04-ac33-cf8c9db8a691"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
