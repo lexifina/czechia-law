@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:8.C.151.2020.1",
+  "docket": "8 C 151/2020-28",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/036627c3-a7a6-443a-bddb-183a17e45c69",
+  "source_sha256": "10271040d4f752fbbbb306528d06f64147bc2a0ea25fc8939547c4acde03e7a2",
+  "source_id": "036627c3-a7a6-443a-bddb-183a17e45c69",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 151/2020-28",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Naděžda Janáčková",
+    "ecli": "ECLI:CZ:OSVS:2021:8.C.151.2020.1",
+    "predmetRizeni": "návrh na rozvod manželství",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/036627c3-a7a6-443a-bddb-183a17e45c69"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
