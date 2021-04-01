@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:19.C.93.2020.1",
+  "docket": "19 C 93/2020-179",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fed753b3-85ac-48fa-96a7-c5ec7289d316",
+  "source_sha256": "33eab754a6abb07eed9f4dcc7f3ffb615a4e003482cc2b56659e7a7fce6daf9b",
+  "source_id": "fed753b3-85ac-48fa-96a7-c5ec7289d316",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 93/2020-179",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Pavla Ondráčková",
+    "ecli": "ECLI:CZ:OSTU:2021:19.C.93.2020.1",
+    "predmetRizeni": "zrušení věcného břemene",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-12-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "převod nemovitostí",
+      "služebnost",
+      "smlouva darovací",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 619 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb.",
+      "§ 1257 z. č. 89/2012 Sb.",
+      "§ 1299 z. č. 89/2012 Sb.",
+      "§ 1043 z. č. 89/2012 Sb.",
+      "§ 1259 z. č. 89/2012 Sb.",
+      "§ 633 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fed753b3-85ac-48fa-96a7-c5ec7289d316"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
