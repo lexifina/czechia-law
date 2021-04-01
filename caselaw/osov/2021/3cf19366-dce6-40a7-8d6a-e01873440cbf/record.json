@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:62.C.15.2021.2",
+  "docket": "62 C 15/2021-36",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3cf19366-dce6-40a7-8d6a-e01873440cbf",
+  "source_sha256": "b4715def93d297ea2be5b212393a865f5dc2838822a5738c56de3b6feeaa1e50",
+  "source_id": "3cf19366-dce6-40a7-8d6a-e01873440cbf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 15/2021-36",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2021:62.C.15.2021.2",
+    "predmetRizeni": "o zaplacení 23 531 Kč s příslušenstvím",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3cf19366-dce6-40a7-8d6a-e01873440cbf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
