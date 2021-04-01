@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:62.C.4.2021.2",
+  "docket": "62 C 4/2021-36",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec73d11e-5ae1-433a-aa5a-c1386a924315",
+  "source_sha256": "bb5cf125914f0b3867523a3c0ec10b4d602b9f2bb6cfa2b332cf2f3161771d9a",
+  "source_id": "ec73d11e-5ae1-433a-aa5a-c1386a924315",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 4/2021-36",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2021:62.C.4.2021.2",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec73d11e-5ae1-433a-aa5a-c1386a924315"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
