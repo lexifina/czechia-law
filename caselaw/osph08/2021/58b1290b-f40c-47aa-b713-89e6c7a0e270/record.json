@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:27.C.60.2020.4",
+  "docket": "27 C 60/2020-113",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/58b1290b-f40c-47aa-b713-89e6c7a0e270",
+  "source_sha256": "f617831499a7ac5d35ca0c6f2a33f4af431d092b6f377e314ee5a97b8d88d9fd",
+  "source_id": "58b1290b-f40c-47aa-b713-89e6c7a0e270",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 60/2020-113",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Pavel Jaroš",
+    "ecli": "ECLI:CZ:OSPH08:2021:27.C.60.2020.4",
+    "predmetRizeni": "O zaplacení 11 381 Kč s příslušenstvím",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 22 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/58b1290b-f40c-47aa-b713-89e6c7a0e270"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
