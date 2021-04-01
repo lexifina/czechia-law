@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:23.C.10.2021.1",
+  "docket": "23 C 10/2021",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea070e32-c479-417b-80ed-b50ab5604c27",
+  "source_sha256": "7b9c7206e106025ff596dd469c8de1da99d9dd58419b249070185798c0838d86",
+  "source_id": "ea070e32-c479-417b-80ed-b50ab5604c27",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 10/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Adriana Hasmanová",
+    "ecli": "ECLI:CZ:OSKD:2021:23.C.10.2021.1",
+    "predmetRizeni": "o zrušení registrovaného partnerství",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 16 z. č. 115/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea070e32-c479-417b-80ed-b50ab5604c27"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
