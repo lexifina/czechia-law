@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:15.C.30.2021.1",
+  "docket": "15 C 30/2021-17",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b88202d9-736a-4b0b-8ae9-0293cf09e010",
+  "source_sha256": "7e7c0b0670b2dcbf0852a03aabeca9f7a5b8b1b7f9a4caeebd488a89a1a8280d",
+  "source_id": "b88202d9-736a-4b0b-8ae9-0293cf09e010",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 30/2021-17",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Martina Jagošová",
+    "ecli": "ECLI:CZ:OSUH:2021:15.C.30.2021.1",
+    "predmetRizeni": "222.000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právní domněnka",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b88202d9-736a-4b0b-8ae9-0293cf09e010"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
