@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:9.C.74.2020.4",
+  "docket": "9 C 74/2020-50",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03cbdc42-1907-4420-bbb1-b30100437d9b",
+  "source_sha256": "10dbe85919c32da0f85ec56632cdaad3e6d83aee379226413e73438a7b1b6ccd",
+  "source_id": "03cbdc42-1907-4420-bbb1-b30100437d9b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 74/2020-50",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPS:2021:9.C.74.2020.4",
+    "predmetRizeni": "54 398,42 Kč s přísl.",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ čl18/2 nař. vl. č. 1215/2012 Sb.",
+      "§ čl17/1c nař. vl. č. 1215/2012 Sb.",
+      "§ čl6/1 nař. vl. č. 593/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03cbdc42-1907-4420-bbb1-b30100437d9b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
