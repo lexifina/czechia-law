@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:15.C.49.2021.1",
+  "docket": "15 C 49/2021-11",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc6bf5cc-176b-4ffa-8523-4d799443fc51",
+  "source_sha256": "5eea282f897535496b065bcb70f3fc305004b82b4fbce78c80b142daf3e2b804",
+  "source_id": "cc6bf5cc-176b-4ffa-8523-4d799443fc51",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 49/2021-11",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Alena Divíšková",
+    "ecli": "ECLI:CZ:OSCL:2021:15.C.49.2021.1",
+    "predmetRizeni": "O zaplacení 1 616 Kč s příslušenstvím",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc6bf5cc-176b-4ffa-8523-4d799443fc51"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
