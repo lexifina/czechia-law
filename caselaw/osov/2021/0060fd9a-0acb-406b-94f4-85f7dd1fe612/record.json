@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:36.C.120.2020.3",
+  "docket": "36 C 120/2020-36",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0060fd9a-0acb-406b-94f4-85f7dd1fe612",
+  "source_sha256": "4196040440612eba04efdbf5b2bf1b8f1b5301ec1234b9cc0e4dec0d950e8402",
+  "source_id": "0060fd9a-0acb-406b-94f4-85f7dd1fe612",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 120/2020-36",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Renáta Snášelová",
+    "ecli": "ECLI:CZ:OSOV:2021:36.C.120.2020.3",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "podnájem",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0060fd9a-0acb-406b-94f4-85f7dd1fe612"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
