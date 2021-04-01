@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:4.C.21.2021.1",
+  "docket": "4 C 21/2021-29",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f5f24a6-f1b6-4d00-85b3-4e77ddb3f471",
+  "source_sha256": "0e3ae191b4f1ac38fcd6989308e5503deb66e811d4252a57e8b744cffd7fd98f",
+  "source_id": "8f5f24a6-f1b6-4d00-85b3-4e77ddb3f471",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 21/2021-29",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petr Šimek",
+    "ecli": "ECLI:CZ:OSBN:2021:4.C.21.2021.1",
+    "predmetRizeni": "o zaplacení čáštky 3.260 Kč s přísl.",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2217 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f5f24a6-f1b6-4d00-85b3-4e77ddb3f471"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
