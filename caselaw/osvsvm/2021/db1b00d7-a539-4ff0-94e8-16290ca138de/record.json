@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+  "ecli": "ECLI:CZ:OSVSVM:2021:16.C.68.2020.1",
+  "docket": "16 C 68/2020-52",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db1b00d7-a539-4ff0-94e8-16290ca138de",
+  "source_sha256": "343c29721603234ba0cc6f213ecb6f102bfacf50bd7c65c451bddcf77fe0b051",
+  "source_id": "db1b00d7-a539-4ff0-94e8-16290ca138de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 68/2020-52",
+    "soud": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+    "autor": "JUDr. Pavel Kotrady",
+    "ecli": "ECLI:CZ:OSVSVM:2021:16.C.68.2020.1",
+    "predmetRizeni": "O zaplacení 8 680 Kč s příslušenstvím",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1968 nař. vl. č. 351/2013 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db1b00d7-a539-4ff0-94e8-16290ca138de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
