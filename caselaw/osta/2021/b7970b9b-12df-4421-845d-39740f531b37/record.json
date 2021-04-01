@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:10.C.57.2020.1",
+  "docket": "10 C 57/2020-101",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7970b9b-12df-4421-845d-39740f531b37",
+  "source_sha256": "a35360fda3102006a3a6246c1c437594fe84306ff19930205fd3924e0b6c4a60",
+  "source_id": "b7970b9b-12df-4421-845d-39740f531b37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 57/2020-101",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Lenka Pávková",
+    "ecli": "ECLI:CZ:OSTA:2021:10.C.57.2020.1",
+    "predmetRizeni": "O zaplacení 82 920 Kč s příslušenstvím",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "péče řádného hospodáře",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7970b9b-12df-4421-845d-39740f531b37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
