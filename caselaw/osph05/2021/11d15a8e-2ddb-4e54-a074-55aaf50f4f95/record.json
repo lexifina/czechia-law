@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:42.C.532.2020.1",
+  "docket": "42 C 532/2020-33",
+  "date": "2021-04-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/11d15a8e-2ddb-4e54-a074-55aaf50f4f95",
+  "source_sha256": "9241b11b605e601c2d150ab72de1d19017c1673a34ae81ddc80fbd00d4ab64f7",
+  "source_id": "11d15a8e-2ddb-4e54-a074-55aaf50f4f95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 532/2020-33",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Tereza Mašková",
+    "ecli": "ECLI:CZ:OSPH05:2021:42.C.532.2020.1",
+    "predmetRizeni": "69.200 Kč s příslušenstvím",
+    "datumVydani": "2021-04-01",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/11d15a8e-2ddb-4e54-a074-55aaf50f4f95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
