@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:74.C.21.2021.3",
+  "docket": "74 C 21/2021-31",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51f44e8e-4181-4169-a120-ce1d511e5f8a",
+  "source_sha256": "98b8d25e070e7fa2dd95538b32bc97144aa3cafc80eaeb55e885a777e085c386",
+  "source_id": "51f44e8e-4181-4169-a120-ce1d511e5f8a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 C 21/2021-31",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:74.C.21.2021.3",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51f44e8e-4181-4169-a120-ce1d511e5f8a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
