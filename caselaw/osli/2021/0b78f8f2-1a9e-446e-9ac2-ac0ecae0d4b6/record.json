@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:23.C.59.2021.1",
+  "docket": "23 C 59/2021-36",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b78f8f2-1a9e-446e-9ac2-ac0ecae0d4b6",
+  "source_sha256": "455b21f5ffc3f98a2cd3666f2d0c1f44d12d72321d21139a9945cdee9ff29dde",
+  "source_id": "0b78f8f2-1a9e-446e-9ac2-ac0ecae0d4b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 59/2021-36",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Pavel Preisler, Ph.D.",
+    "ecli": "ECLI:CZ:OSLI:2021:23.C.59.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 14.182,50 Kč s přísl.",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b78f8f2-1a9e-446e-9ac2-ac0ecae0d4b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
