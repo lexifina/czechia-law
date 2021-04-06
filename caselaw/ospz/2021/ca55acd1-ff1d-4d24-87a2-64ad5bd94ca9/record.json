@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:36.C.78.2021.1",
+  "docket": "36 C 78/2021-22",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca55acd1-ff1d-4d24-87a2-64ad5bd94ca9",
+  "source_sha256": "64a13fe7b8321ea67206018bfe61c34dc927977879a23ba910c64fbb1720c983",
+  "source_id": "ca55acd1-ff1d-4d24-87a2-64ad5bd94ca9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 78/2021-22",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Tomáš Behr",
+    "ecli": "ECLI:CZ:OSPZ:2021:36.C.78.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-08-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca55acd1-ff1d-4d24-87a2-64ad5bd94ca9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
