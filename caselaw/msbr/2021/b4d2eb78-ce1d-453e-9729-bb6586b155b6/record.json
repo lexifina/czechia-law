@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:16.C.44.2021.1",
+  "docket": "16 C 44/2021-28",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4d2eb78-ce1d-453e-9729-bb6586b155b6",
+  "source_sha256": "21fa8eb7ef78061212635f8035eb296dfb931c67ea673098a736ab4921077938",
+  "source_id": "b4d2eb78-ce1d-453e-9729-bb6586b155b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 44/2021-28",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Miroslav Král",
+    "ecli": "ECLI:CZ:MSBR:2021:16.C.44.2021.1",
+    "predmetRizeni": "zaplacení 6.500 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4d2eb78-ce1d-453e-9729-bb6586b155b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
