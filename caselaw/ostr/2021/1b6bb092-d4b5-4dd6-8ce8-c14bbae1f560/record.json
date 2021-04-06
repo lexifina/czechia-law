@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:5.C.20.2020.1",
+  "docket": "5 C 20/2020-39",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b6bb092-d4b5-4dd6-8ce8-c14bbae1f560",
+  "source_sha256": "0cb090d0451af289b7d8d7b410245f6b89733eb67a226b12f64c602dedefe6c2",
+  "source_id": "1b6bb092-d4b5-4dd6-8ce8-c14bbae1f560",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 20/2020-39",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Jan Tesař",
+    "ecli": "ECLI:CZ:OSTR:2021:5.C.20.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b6bb092-d4b5-4dd6-8ce8-c14bbae1f560"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
