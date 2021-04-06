@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:31.C.333.2020.4",
+  "docket": "31 C 333/2020-43",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/21eb784c-4dba-4802-9e46-24b80d77a6fe",
+  "source_sha256": "4debf352ec331e6f10fc5cc0d570372413e27dda6eccda5f923b44eacb7f6d5a",
+  "source_id": "21eb784c-4dba-4802-9e46-24b80d77a6fe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 333/2020-43",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jana Zonková",
+    "ecli": "ECLI:CZ:OSOV:2021:31.C.333.2020.4",
+    "predmetRizeni": "o zaplacení 8 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "investiční fond",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 95 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/21eb784c-4dba-4802-9e46-24b80d77a6fe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
