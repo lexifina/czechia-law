@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:13.C.77.2021.1",
+  "docket": "13 C 77/2021-27",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b824cfcb-c636-4a21-ae85-1ae74609143a",
+  "source_sha256": "c8890eae1ddbf460eadefc835feee8f07065c940800099c1aeab249def722041",
+  "source_id": "b824cfcb-c636-4a21-ae85-1ae74609143a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 77/2021-27",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. Stanislav Findejs",
+    "ecli": "ECLI:CZ:OSRK:2021:13.C.77.2021.1",
+    "predmetRizeni": "o zaplacení 4.270 Kč s příslušenstvím",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b824cfcb-c636-4a21-ae85-1ae74609143a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
