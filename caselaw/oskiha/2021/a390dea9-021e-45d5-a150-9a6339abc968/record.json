@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:117.C.152.2020.1",
+  "docket": "117 C 152/2020-69",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a390dea9-021e-45d5-a150-9a6339abc968",
+  "source_sha256": "f1bc5730ca72b39785f88b3edd0ef9410196ab2056e8cd7bfae53a1542f121bc",
+  "source_id": "a390dea9-021e-45d5-a150-9a6339abc968",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "117 C 152/2020-69",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "JUDr. Silvie Morongová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:117.C.152.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a390dea9-021e-45d5-a150-9a6339abc968"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
