@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.39.2021.1",
+  "docket": "42 C 39/2021-20",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf6c0e42-775c-401a-840d-5d9dcf86b179",
+  "source_sha256": "97c0e4ac24b79ccdb3ca1ee1a4704cf0496c46ddcb25d6e1680745eb33b36ed7",
+  "source_id": "bf6c0e42-775c-401a-840d-5d9dcf86b179",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 39/2021-20",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.39.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf6c0e42-775c-401a-840d-5d9dcf86b179"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
