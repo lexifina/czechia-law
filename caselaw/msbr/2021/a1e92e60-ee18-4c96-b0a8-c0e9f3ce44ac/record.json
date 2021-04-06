@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:51.C.17.2021.1",
+  "docket": "51 C 17/2021-26",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1e92e60-ee18-4c96-b0a8-c0e9f3ce44ac",
+  "source_sha256": "0830508092b64189e8e2296a10f66b9d11434d789f7b8a8841936c757a44e40a",
+  "source_id": "a1e92e60-ee18-4c96-b0a8-c0e9f3ce44ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 17/2021-26",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zdeněk Sýs",
+    "ecli": "ECLI:CZ:MSBR:2021:51.C.17.2021.1",
+    "predmetRizeni": "zaplacení 5.361 Kč s příslušenstvím - nájemné",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1e92e60-ee18-4c96-b0a8-c0e9f3ce44ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
