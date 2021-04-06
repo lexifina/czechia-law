@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:21.C.29.2021.2",
+  "docket": "21 C 29/2021-20",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12131c21-06fe-4362-9ae0-db86e041fb21",
+  "source_sha256": "ad6b03c03f76e617540457a5bee73deccc898f125d5ef7c58be4c82f90aca40b",
+  "source_id": "12131c21-06fe-4362-9ae0-db86e041fb21",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 29/2021-20",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Alena Mědílková",
+    "ecli": "ECLI:CZ:OSCV:2021:21.C.29.2021.2",
+    "predmetRizeni": "zaplacení 13 370,20 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12131c21-06fe-4362-9ae0-db86e041fb21"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
