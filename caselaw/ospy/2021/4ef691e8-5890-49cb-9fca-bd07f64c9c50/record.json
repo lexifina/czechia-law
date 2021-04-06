@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:7.C.403.2020.1",
+  "docket": "7 C 403/2020-17",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ef691e8-5890-49cb-9fca-bd07f64c9c50",
+  "source_sha256": "0f83925d9f4301133521ea28034daceca4c040d915459ef833af014c39ae3878",
+  "source_id": "4ef691e8-5890-49cb-9fca-bd07f64c9c50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 403/2020-17",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2021:7.C.403.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ef691e8-5890-49cb-9fca-bd07f64c9c50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
