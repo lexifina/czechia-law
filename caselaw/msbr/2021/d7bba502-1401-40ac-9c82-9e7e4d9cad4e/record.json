@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:53.C.56.2020.1",
+  "docket": "53 C 56/2020-68",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7bba502-1401-40ac-9c82-9e7e4d9cad4e",
+  "source_sha256": "99dca7a7b1ee24847e5dd7f3417c6aa625ea857e5f8f266b85c36af5e38069a7",
+  "source_id": "d7bba502-1401-40ac-9c82-9e7e4d9cad4e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 56/2020-68",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Libuše Jeroušková",
+    "ecli": "ECLI:CZ:MSBR:2021:53.C.56.2020.1",
+    "predmetRizeni": "zaplacení 105.574 Kč s příslušenstvím - nájemné",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "příspěvek na bydlení",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 2251 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7bba502-1401-40ac-9c82-9e7e4d9cad4e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
