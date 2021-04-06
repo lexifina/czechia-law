@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:20.C.247.2020.1",
+  "docket": "20 C 247/2020-25",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9a4f0a9-86a6-42f2-9df9-21f701affd74",
+  "source_sha256": "408c77697ae8c794f55e40389f5d6ff4aeb3892556da867b92dfda610181f1aa",
+  "source_id": "f9a4f0a9-86a6-42f2-9df9-21f701affd74",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 247/2020-25",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Marta Mandátová",
+    "ecli": "ECLI:CZ:MSBR:2021:20.C.247.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "omluvitelné vzrušení mysli",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9a4f0a9-86a6-42f2-9df9-21f701affd74"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
