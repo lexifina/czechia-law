@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:19.C.37.2021.1",
+  "docket": "19 C 37/2021-18",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb57bbba-1288-4646-8a31-bc4ab8a36abe",
+  "source_sha256": "4c9cfe623519b83ad27073bc7874fbdfec7dfb576b8c5ebca1a0196b0c715024",
+  "source_id": "eb57bbba-1288-4646-8a31-bc4ab8a36abe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 37/2021-18",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Ing. Patrik Kurz, Ph.D.",
+    "ecli": "ECLI:CZ:OSTC:2021:19.C.37.2021.1",
+    "predmetRizeni": "O zaplacení 1 442 Kč s příslušenstvím",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb57bbba-1288-4646-8a31-bc4ab8a36abe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
