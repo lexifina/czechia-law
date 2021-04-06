@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:41.C.136.2020.3",
+  "docket": "41 C 136/2020-37",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a976be0b-2fe9-4d3f-8f11-fe2a5017fc0f",
+  "source_sha256": "f6a41abe56ec5da368e451521d239500bdff31f39d54b5bd9865f1dbcc91d912",
+  "source_id": "a976be0b-2fe9-4d3f-8f11-fe2a5017fc0f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 136/2020-37",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Denisa Georgesová",
+    "ecli": "ECLI:CZ:OSBI:2021:41.C.136.2020.3",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-10-06",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a976be0b-2fe9-4d3f-8f11-fe2a5017fc0f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
