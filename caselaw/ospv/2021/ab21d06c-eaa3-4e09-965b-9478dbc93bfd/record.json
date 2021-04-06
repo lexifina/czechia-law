@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:7.C.124.2020.1",
+  "docket": "7 C 124/2020-67",
+  "date": "2021-04-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab21d06c-eaa3-4e09-965b-9478dbc93bfd",
+  "source_sha256": "ec46a957253edfd6af600fb6e31130a5ed3b60df58ed22b3d2937c066bc45666",
+  "source_id": "ab21d06c-eaa3-4e09-965b-9478dbc93bfd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 124/2020-67",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. et Mgr. Věroslav Řezáč",
+    "ecli": "ECLI:CZ:OSPV:2021:7.C.124.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-06",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab21d06c-eaa3-4e09-965b-9478dbc93bfd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
