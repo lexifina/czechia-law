@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:42.C.189.2020.4",
+  "docket": "42 C 189/2020-87",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e9d43b6-5785-4cde-b3d1-3dab438399c9",
+  "source_sha256": "e78e5b9ec51d7d1ea176ddd407ace450826d15bc0658c3ff6d0bba846d5f43d4",
+  "source_id": "1e9d43b6-5785-4cde-b3d1-3dab438399c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 189/2020-87",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Věra Voštová",
+    "ecli": "ECLI:CZ:OSSO:2021:42.C.189.2020.4",
+    "predmetRizeni": "zaplacení 5 082,78 Kč s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-08-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 581 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 173 z. č. 182/2006 Sb.",
+      "§ 397 z. č. 513/1991 Sb.",
+      "§ 409 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e9d43b6-5785-4cde-b3d1-3dab438399c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
