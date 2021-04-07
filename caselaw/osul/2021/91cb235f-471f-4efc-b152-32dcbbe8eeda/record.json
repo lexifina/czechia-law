@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:14.C.401.2020.3",
+  "docket": "14 C 401/2020-21",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91cb235f-471f-4efc-b152-32dcbbe8eeda",
+  "source_sha256": "ae4c7170a7f5221ae8c7bdb4211dac4acf1398bc55152221a68f5e5c1363cc73",
+  "source_id": "91cb235f-471f-4efc-b152-32dcbbe8eeda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 401/2020-21",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Otto Plachý",
+    "ecli": "ECLI:CZ:OSUL:2021:14.C.401.2020.3",
+    "predmetRizeni": "O zaplacení 4 199,20 Kč",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91cb235f-471f-4efc-b152-32dcbbe8eeda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
