@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:23.C.201.2020.1",
+  "docket": "23 C 201/2020-17",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/527321d8-661d-498b-b064-f3dc27d203ac",
+  "source_sha256": "c52b934afe6caf10782b677fbc98c5b46174e17b514cd305a6cef21303f8a4c7",
+  "source_id": "527321d8-661d-498b-b064-f3dc27d203ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 201/2020-17",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. František Sedláček",
+    "ecli": "ECLI:CZ:OSSO:2021:23.C.201.2020.1",
+    "predmetRizeni": "zaplacení 990 Kč s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2807 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/527321d8-661d-498b-b064-f3dc27d203ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
