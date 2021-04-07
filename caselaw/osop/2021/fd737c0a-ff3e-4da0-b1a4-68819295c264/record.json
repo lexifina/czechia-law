@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:17.C.54.2021.1",
+  "docket": "17 C 54/2021-30",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd737c0a-ff3e-4da0-b1a4-68819295c264",
+  "source_sha256": "50fff020f57ea2700c23e7d5f7bab31459a5bfeb8f33e5ce525ac8e13a0e2c53",
+  "source_id": "fd737c0a-ff3e-4da0-b1a4-68819295c264",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 54/2021-30",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Tereza Kravalová",
+    "ecli": "ECLI:CZ:OSOP:2021:17.C.54.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 10 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd737c0a-ff3e-4da0-b1a4-68819295c264"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
