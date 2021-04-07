@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:16.C.12.2021.1",
+  "docket": "16 C 12/2021-23",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/34124e8c-7d19-4623-9a11-991ec37a1286",
+  "source_sha256": "8891f70ad4c8a41da4a7bad7ff645a74dd489f6288cefcad0d2402e17b1a82cd",
+  "source_id": "34124e8c-7d19-4623-9a11-991ec37a1286",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 12/2021-23",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2021:16.C.12.2021.1",
+    "predmetRizeni": "110.750 Kč úvěr",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34124e8c-7d19-4623-9a11-991ec37a1286"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
