@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:209.C.33.2021.1",
+  "docket": "209 C 33/2021-29",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1fb60976-f6c6-49f4-b8f8-1fefa9cbe6ff",
+  "source_sha256": "934b71c7e3677dadecdb5c66452999b84bd3b35a17263bb7d6c7f6e93789c86d",
+  "source_id": "1fb60976-f6c6-49f4-b8f8-1fefa9cbe6ff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 33/2021-29",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2021:209.C.33.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1fb60976-f6c6-49f4-b8f8-1fefa9cbe6ff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
