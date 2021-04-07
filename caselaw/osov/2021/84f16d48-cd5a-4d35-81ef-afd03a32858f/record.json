@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:17.C.31.2021.2",
+  "docket": "17 C 31/2021-15",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/84f16d48-cd5a-4d35-81ef-afd03a32858f",
+  "source_sha256": "200aa841d5fc2dc214d163cc701caa88a8eda6ad6d7be60bd6ce78fc32f41327",
+  "source_id": "84f16d48-cd5a-4d35-81ef-afd03a32858f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 31/2021-15",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr., Ing. Lubomír Sušeň",
+    "ecli": "ECLI:CZ:OSOV:2021:17.C.31.2021.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 517 nař. vl. č. 142/1994 Sb.",
+      "§  z. č. 266/1994 Sb.",
+      "§  z. č. 111/1994 Sb.",
+      "§ 760 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/84f16d48-cd5a-4d35-81ef-afd03a32858f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
