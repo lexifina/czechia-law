@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:12.C.12.2021.2",
+  "docket": "12 C 12/2021-28",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/034c9bd6-eac0-471e-a483-7803c6bf20b5",
+  "source_sha256": "124750f47d2823be2d2f121d77576411cd5d0977592bf571c0d45ee098cc2532",
+  "source_id": "034c9bd6-eac0-471e-a483-7803c6bf20b5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 12/2021-28",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Romana Malá",
+    "ecli": "ECLI:CZ:OSMO:2021:12.C.12.2021.2",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "jízdné",
+      "odstoupení od smlouvy"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/034c9bd6-eac0-471e-a483-7803c6bf20b5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
