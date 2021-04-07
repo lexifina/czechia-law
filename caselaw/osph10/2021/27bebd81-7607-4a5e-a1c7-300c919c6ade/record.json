@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:15.C.174.2020.1",
+  "docket": "15 C 174/2020-27",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/27bebd81-7607-4a5e-a1c7-300c919c6ade",
+  "source_sha256": "ee8b2e8b78d6c3be344a00c6dd82749ce839ec5e52855f5b7c986b3f799603a5",
+  "source_id": "27bebd81-7607-4a5e-a1c7-300c919c6ade",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 174/2020-27",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Jolana Stonawská",
+    "ecli": "ECLI:CZ:OSPH10:2021:15.C.174.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "opuštění rodinné domácnosti",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 389 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/27bebd81-7607-4a5e-a1c7-300c919c6ade"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
