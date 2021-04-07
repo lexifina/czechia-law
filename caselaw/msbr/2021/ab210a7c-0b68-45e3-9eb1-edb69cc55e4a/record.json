@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:18.C.5.2021.1",
+  "docket": "18 C 5/2021-29",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab210a7c-0b68-45e3-9eb1-edb69cc55e4a",
+  "source_sha256": "2bb0d65503b0588223ca3e002f3edb85759d5b34815e3f70f0299d8acf5798a0",
+  "source_id": "ab210a7c-0b68-45e3-9eb1-edb69cc55e4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 5/2021-29",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Hanáková",
+    "ecli": "ECLI:CZ:MSBR:2021:18.C.5.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "oddlužení",
+      "rodinná domácnost",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2003 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab210a7c-0b68-45e3-9eb1-edb69cc55e4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
