@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:27.C.13.2021.2",
+  "docket": "27 C 13/2021-20",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/526b89c9-9f5e-4104-8e9e-9bfde2bbeb09",
+  "source_sha256": "55acb34fb601f76c81c776bb182f75cc797ce697f75c98ed97ea2b41ed0f5413",
+  "source_id": "526b89c9-9f5e-4104-8e9e-9bfde2bbeb09",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 13/2021-20",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Viktor Doležílek",
+    "ecli": "ECLI:CZ:OSOV:2021:27.C.13.2021.2",
+    "predmetRizeni": "o zaplacení 8 459,13 Kč s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/526b89c9-9f5e-4104-8e9e-9bfde2bbeb09"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
