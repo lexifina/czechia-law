@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:11.C.204.2020.1",
+  "docket": "11 C 204/2020-71",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2f90ddd-297d-4a42-be4b-a64816f3552c",
+  "source_sha256": "9ea65b5cf52b5509b898642bcf01ac43d5dc6b1eaa47512cb323d8c78ea722a3",
+  "source_id": "f2f90ddd-297d-4a42-be4b-a64816f3552c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 204/2020-71",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Hana Dobišarová",
+    "ecli": "ECLI:CZ:OSBV:2021:11.C.204.2020.1",
+    "predmetRizeni": "11.248,67 Kč",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2f90ddd-297d-4a42-be4b-a64816f3552c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
