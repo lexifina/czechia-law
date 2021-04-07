@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:9.C.49.2020.1",
+  "docket": "9 C 49/2020-114",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dc9ed58a-fcf5-41fa-b485-64899115b200",
+  "source_sha256": "1de37b9864eddc15717ec3bfb329325dbb1dde240a9f1dcaa238e959abaed5ff",
+  "source_id": "dc9ed58a-fcf5-41fa-b485-64899115b200",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 49/2020-114",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Tomáš Suchánek",
+    "ecli": "ECLI:CZ:OSTU:2021:9.C.49.2020.1",
+    "predmetRizeni": "zaplacení 82.000 Kč s přísl.",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "práce přesčas",
+      "pracovněprávní vztahy",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 136 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 262/2006 Sb.",
+      "§ 141 z. č. 262/2006 Sb.",
+      "§ 75 z. č. 262/2006 Sb.",
+      "§ 74 z. č. 262/2006 Sb.",
+      "§ 114 z. č. 262/2006 Sb.",
+      "§ 96 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dc9ed58a-fcf5-41fa-b485-64899115b200"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
