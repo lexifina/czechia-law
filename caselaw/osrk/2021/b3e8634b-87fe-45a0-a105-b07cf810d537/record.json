@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:9.C.42.2021.1",
+  "docket": "9 C 42/2021-48",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3e8634b-87fe-45a0-a105-b07cf810d537",
+  "source_sha256": "4e3d18b96a61bfe5789e573b692410699fae405f815429966ebcfbf47b6e3a12",
+  "source_id": "b3e8634b-87fe-45a0-a105-b07cf810d537",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 42/2021-48",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. et Mgr. Lucie Hrůšová",
+    "ecli": "ECLI:CZ:OSRK:2021:9.C.42.2021.1",
+    "predmetRizeni": "o zaplacení 3.684 Kč s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3e8634b-87fe-45a0-a105-b07cf810d537"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
