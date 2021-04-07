@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:19.C.55.2021.1",
+  "docket": "19 C 55/2021-44",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a83c1a00-8039-4239-bd47-152002cb98b5",
+  "source_sha256": "ffaee78db1e307158a9a7fb3837e6ea9cf4b6f281deadbabccdb872b78dc56dc",
+  "source_id": "a83c1a00-8039-4239-bd47-152002cb98b5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 55/2021-44",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Miroslava Dvořáková",
+    "ecli": "ECLI:CZ:OSOL:2021:19.C.55.2021.1",
+    "predmetRizeni": "o 1 764 Kč s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 2774 z. č. 89/2012 Sb.",
+      "§ 2775 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a83c1a00-8039-4239-bd47-152002cb98b5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
