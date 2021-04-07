@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:7.C.87.2020.1",
+  "docket": "7 C 87/2020",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e3a10a0-2d24-48d4-a40a-cb61f4bcd666",
+  "source_sha256": "62b34038c730a1949c5eb639aba8b2ccea3bea6d99f7c948ba85ada1689555c9",
+  "source_id": "1e3a10a0-2d24-48d4-a40a-cb61f4bcd666",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 87/2020",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Blanka Rejšková",
+    "ecli": "ECLI:CZ:OSPZ:2021:7.C.87.2020.1",
+    "predmetRizeni": "Žaloba o vyloučení věcí z exekuce",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-11-10",
+    "klicovaSlova": [
+      "exekuce",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 120/2001 Sb.",
+      "§ 219 z. č. 99/1963 Sb.",
+      "§ 57 z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 52 z. č. 120/2001 Sb.",
+      "§ 254 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e3a10a0-2d24-48d4-a40a-cb61f4bcd666"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
