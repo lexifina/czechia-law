@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:11.C.13.2021.1",
+  "docket": "11 C 13/2021-34",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/16b0162a-7ffe-4536-a501-174caf2064d1",
+  "source_sha256": "e5b16db845830e3fc754e8cbede6d3f67dab926560d862bf77a839087c8bff16",
+  "source_id": "16b0162a-7ffe-4536-a501-174caf2064d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 13/2021-34",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Sabina Kubáňová",
+    "ecli": "ECLI:CZ:OSMB:2021:11.C.13.2021.1",
+    "predmetRizeni": "o zaplacení 570 Kč s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/16b0162a-7ffe-4536-a501-174caf2064d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
