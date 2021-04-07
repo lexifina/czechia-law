@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:7.C.26.2021.1",
+  "docket": "7 C 26/2021-57",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db34ce5a-32bc-44f9-b71a-d19fc4ed5f38",
+  "source_sha256": "24b3aa9c83cbd61d2e7550962a5e0b0c498783d6a1d7a08f76e4ece5cf03d261",
+  "source_id": "db34ce5a-32bc-44f9-b71a-d19fc4ed5f38",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 26/2021-57",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Krčálová",
+    "ecli": "ECLI:CZ:OSZN:2021:7.C.26.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db34ce5a-32bc-44f9-b71a-d19fc4ed5f38"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
