@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:7.C.9.2021.4",
+  "docket": "7 C 9/2021-19",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd95d568-c4af-41c3-b36e-8d484fbc2a17",
+  "source_sha256": "4070dd35c6bff0515d49d7a5baea7ec72b42031a6fa94006275c1aa98b09797d",
+  "source_id": "dd95d568-c4af-41c3-b36e-8d484fbc2a17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 9/2021-19",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Silvie Slaná",
+    "ecli": "ECLI:CZ:OSNJ:2021:7.C.9.2021.4",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd95d568-c4af-41c3-b36e-8d484fbc2a17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
