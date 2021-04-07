@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:31.C.297.2020.3",
+  "docket": "31 C 297/2020-59",
+  "date": "2021-04-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a6fbc4ec-4787-4fd1-9f84-beca467d3cc9",
+  "source_sha256": "a5b826d27e0656643f096455f26b62a40d7126cf17c7daf864237b676b7b31d5",
+  "source_id": "a6fbc4ec-4787-4fd1-9f84-beca467d3cc9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 297/2020-59",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2021:31.C.297.2020.3",
+    "predmetRizeni": "zaplacení 2 000 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-04-07",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a6fbc4ec-4787-4fd1-9f84-beca467d3cc9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
