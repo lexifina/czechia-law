@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:23.C.148.2020 .1",
+  "docket": "23 C 148/2020-74",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9685e64c-b555-41c4-b328-3611095b1183",
+  "source_sha256": "e06b0bf470a6256e63114a73c353236e4b5fcac4cfb4e16fedcc69ce4f3dfeba",
+  "source_id": "9685e64c-b555-41c4-b328-3611095b1183",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 148/2020-74",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Lukáš Kratochvíl",
+    "ecli": "ECLI:CZ:OSPU:2021:23.C.148.2020 .1",
+    "predmetRizeni": "o osvojení zletilé osoby",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "osvojení",
+      "osvojení zletilého",
+      "pěstounská péče",
+      "porod"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 847 z. č. 89/2012 Sb.",
+      "§ 846 z. č. 89/2012 Sb.",
+      "§ 797 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9685e64c-b555-41c4-b328-3611095b1183"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
