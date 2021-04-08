@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:19.C.41.2021.2",
+  "docket": "19 C 41/2021-17",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5460672-69bf-44e5-a114-786912a4c29a",
+  "source_sha256": "8b6f5ecb29622f80e5954271d8fcc686871d9a5a35798271e287c77ebdeb39ec",
+  "source_id": "a5460672-69bf-44e5-a114-786912a4c29a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 41/2021-17",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Zuzana Šilhanová",
+    "ecli": "ECLI:CZ:OSOV:2021:19.C.41.2021.2",
+    "predmetRizeni": "o zaplacení 6 123 Kč",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "notářský zápis",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§  vyhl. č. 196/2001 Sb.",
+      "§ 80a z. č. 358/1992 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5460672-69bf-44e5-a114-786912a4c29a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
