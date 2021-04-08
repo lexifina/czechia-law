@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:106.C.133.2020.1",
+  "docket": "106 C 133/2020-42",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9bf48abe-463e-4557-982d-86040f4e29ec",
+  "source_sha256": "03a45fd09e4e07aca4e8c9238488a8f49148fa61bfe6e6c64f4f5c143d43fc3e",
+  "source_id": "9bf48abe-463e-4557-982d-86040f4e29ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 133/2020-42",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Hermannová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:106.C.133.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 391 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9bf48abe-463e-4557-982d-86040f4e29ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
