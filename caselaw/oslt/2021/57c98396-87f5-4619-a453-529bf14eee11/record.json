@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:12.C.233.2019.2",
+  "docket": "12 C 233/2019-64",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/57c98396-87f5-4619-a453-529bf14eee11",
+  "source_sha256": "addee9eb88d9d412dc4141f5eba6c4999fb543b7d68dd77d66aee52fa2709473",
+  "source_id": "57c98396-87f5-4619-a453-529bf14eee11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 233/2019-64",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Martin Masár",
+    "ecli": "ECLI:CZ:OSLT:2021:12.C.233.2019.2",
+    "predmetRizeni": "O zaplacení 24 843,58 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-10-12",
+    "klicovaSlova": [
+      "dodávky energie",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "rozsudek doplňující"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 50 z. č. 458/2000 Sb.",
+      "§ 1813 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/57c98396-87f5-4619-a453-529bf14eee11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
