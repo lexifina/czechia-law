@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:8.C.56.2021.2",
+  "docket": "8 C 56/2021-10",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f1eca6b-ea39-4b9d-a905-91a68386d8ed",
+  "source_sha256": "807c9dbe16c3bac57530ccd063ff035cc70f1590da201022b57a8de589d7e2dc",
+  "source_id": "0f1eca6b-ea39-4b9d-a905-91a68386d8ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 56/2021-10",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Taťána Hodaňová",
+    "ecli": "ECLI:CZ:OSNJ:2021:8.C.56.2021.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f1eca6b-ea39-4b9d-a905-91a68386d8ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
