@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:49.C.177.2020.1",
+  "docket": "49 C 177/2020-19",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8884df0d-61be-4326-baeb-1f488fabb56b",
+  "source_sha256": "d827b97ed6d7b9f7c19a34e4569b82763048f9ec88f333000004fe1287d829b5",
+  "source_id": "8884df0d-61be-4326-baeb-1f488fabb56b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "49 C 177/2020-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Monika Schön, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:49.C.177.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8884df0d-61be-4326-baeb-1f488fabb56b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
