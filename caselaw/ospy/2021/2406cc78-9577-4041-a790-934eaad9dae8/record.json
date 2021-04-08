@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:35.C.382.2020.1",
+  "docket": "35 C 382/2020-17",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2406cc78-9577-4041-a790-934eaad9dae8",
+  "source_sha256": "f0794695d1f472c07a3501b6e02f149f6685c5bd3a2b507f985aaa9c96ccf27e",
+  "source_id": "2406cc78-9577-4041-a790-934eaad9dae8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 382/2020-17",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Ing. Viktor Smolík",
+    "ecli": "ECLI:CZ:OSPY:2021:35.C.382.2020.1",
+    "predmetRizeni": "o zrušení vyživovací povinnosti",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 923 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2406cc78-9577-4041-a790-934eaad9dae8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
