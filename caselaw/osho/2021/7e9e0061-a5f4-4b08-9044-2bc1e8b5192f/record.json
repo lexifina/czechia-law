@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:4.C.35.2021.1",
+  "docket": "4 C 35/2021-31",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e9e0061-a5f4-4b08-9044-2bc1e8b5192f",
+  "source_sha256": "a8c06192a05b1b6d8c9edcd687fa0ad3f3ea09128c1f8bbe6cde6920be37ecd4",
+  "source_id": "7e9e0061-a5f4-4b08-9044-2bc1e8b5192f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 35/2021-31",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Petra Svačinová",
+    "ecli": "ECLI:CZ:OSHO:2021:4.C.35.2021.1",
+    "predmetRizeni": "zaplacení 6 146 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e9e0061-a5f4-4b08-9044-2bc1e8b5192f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
