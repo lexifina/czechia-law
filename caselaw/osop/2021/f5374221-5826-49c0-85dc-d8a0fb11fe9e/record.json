@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:16.C.304.2020.1",
+  "docket": "16 C 304/2020-27",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5374221-5826-49c0-85dc-d8a0fb11fe9e",
+  "source_sha256": "6102c94589f830d77422105e0295969e5abb8ce07e25beed1a4e7b72e0922c2c",
+  "source_id": "f5374221-5826-49c0-85dc-d8a0fb11fe9e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 304/2020-27",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Radek Solař",
+    "ecli": "ECLI:CZ:OSOP:2021:16.C.304.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "oddělené bydlení",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5374221-5826-49c0-85dc-d8a0fb11fe9e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
