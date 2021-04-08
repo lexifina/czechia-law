@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:61.C.4.2021.3",
+  "docket": "61 C 4/2021-18",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96d8fe20-6874-4bb7-9dc9-a9582e88db06",
+  "source_sha256": "8d5572ea0dacfc6029eb5617f44a0f511dd7a72424af2c1b7554575dcb087d45",
+  "source_id": "96d8fe20-6874-4bb7-9dc9-a9582e88db06",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 4/2021-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Ing. Lukáš Holenda",
+    "ecli": "ECLI:CZ:OSOV:2021:61.C.4.2021.3",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96d8fe20-6874-4bb7-9dc9-a9582e88db06"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
