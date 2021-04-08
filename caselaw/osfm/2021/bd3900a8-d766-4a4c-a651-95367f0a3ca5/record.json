@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:10.C.288.2020.1",
+  "docket": "10 C 288/2020-22",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd3900a8-d766-4a4c-a651-95367f0a3ca5",
+  "source_sha256": "0d19859baa518482bbfc47bc74b5f0c31bb8f6af979d8d3f05c5fa694fe9dca5",
+  "source_id": "bd3900a8-d766-4a4c-a651-95367f0a3ca5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 288/2020-22",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Špoková",
+    "ecli": "ECLI:CZ:OSFM:2021:10.C.288.2020.1",
+    "predmetRizeni": "O zaplacení 5 962,81 Kč",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-09-14",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd3900a8-d766-4a4c-a651-95367f0a3ca5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
