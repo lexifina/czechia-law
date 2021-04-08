@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:24.C.13.2021.1",
+  "docket": "24 C 13/2021-44",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bc65549e-df17-45ba-83c7-f4596fab3a33",
+  "source_sha256": "8ad626f4f6eb82edd09e53e36e35e290bea8ca18f38a39b82c8bbfa6511fa4e6",
+  "source_id": "bc65549e-df17-45ba-83c7-f4596fab3a33",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 13/2021-44",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Lucie Lubasová",
+    "ecli": "ECLI:CZ:OSPU:2021:24.C.13.2021.1",
+    "predmetRizeni": "o zaplacení 4 942,58 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-10-11",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 2225 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bc65549e-df17-45ba-83c7-f4596fab3a33"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
