@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:111.C.80.2021.1",
+  "docket": "111 C 80/2021-38",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d80491f4-dd9e-4bcd-ad8e-1d5558302295",
+  "source_sha256": "05f3a85c7e765bbbd97e0d6140784d7f49195183496fa78ae33464f41ce1de44",
+  "source_id": "d80491f4-dd9e-4bcd-ad8e-1d5558302295",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 80/2021-38",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Otto Slavík",
+    "ecli": "ECLI:CZ:OSKIHA:2021:111.C.80.2021.1",
+    "predmetRizeni": "5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d80491f4-dd9e-4bcd-ad8e-1d5558302295"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
