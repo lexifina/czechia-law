@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:10.C.1.2021.3",
+  "docket": "10 C 1/2021-21",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d6668f1-daff-4050-9e51-75dd4b2710e6",
+  "source_sha256": "a1f44b9c41dbc323fc00feb61a1f97ff99396fc2a42635332bf7b13b8e40ccc8",
+  "source_id": "7d6668f1-daff-4050-9e51-75dd4b2710e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 1/2021-21",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Ivana Hovorková",
+    "ecli": "ECLI:CZ:OSSO:2021:10.C.1.2021.3",
+    "predmetRizeni": "zaplacení 1 254 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-08-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 2759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d6668f1-daff-4050-9e51-75dd4b2710e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
