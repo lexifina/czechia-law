@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:55.C.380.2020.1",
+  "docket": "55 C 380/2020",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c631b85-6559-4dd8-bb6b-d9db49ecd780",
+  "source_sha256": "fa0e9de6063a70cb491b5f2cc17807e30a119444c4fc921bed82efed8cdc4538",
+  "source_id": "6c631b85-6559-4dd8-bb6b-d9db49ecd780",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 380/2020",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Pavel Pražák",
+    "ecli": "ECLI:CZ:OSPH04:2021:55.C.380.2020.1",
+    "predmetRizeni": "O zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c631b85-6559-4dd8-bb6b-d9db49ecd780"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
