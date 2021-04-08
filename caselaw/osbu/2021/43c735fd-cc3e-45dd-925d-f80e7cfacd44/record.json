@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:8.C.25.2021.1",
+  "docket": "8 C 25/2021-29",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/43c735fd-cc3e-45dd-925d-f80e7cfacd44",
+  "source_sha256": "edd4b59d7f8d14a2dbab2aae822f54208cf7270516eb44633479f4519dc2662c",
+  "source_id": "43c735fd-cc3e-45dd-925d-f80e7cfacd44",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 25/2021-29",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Kristýna Stachová",
+    "ecli": "ECLI:CZ:OSBU:2021:8.C.25.2021.1",
+    "predmetRizeni": "2.416 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/43c735fd-cc3e-45dd-925d-f80e7cfacd44"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
