@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:8.C.32.2021.1",
+  "docket": "8 C 32/2021-21",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f100080d-5d40-440a-b651-640535627cb3",
+  "source_sha256": "e830159fe03fd3bacb8a94665b2573a01b377ba7a63567792f0a228e7bd898dc",
+  "source_id": "f100080d-5d40-440a-b651-640535627cb3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 32/2021-21",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Kristýna Stachová",
+    "ecli": "ECLI:CZ:OSBU:2021:8.C.32.2021.1",
+    "predmetRizeni": "1.524 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 3 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f100080d-5d40-440a-b651-640535627cb3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
