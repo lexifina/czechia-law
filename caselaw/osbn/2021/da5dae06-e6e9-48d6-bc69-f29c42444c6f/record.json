@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:6.C.232.2020.1",
+  "docket": "6 C 232/2020-75",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da5dae06-e6e9-48d6-bc69-f29c42444c6f",
+  "source_sha256": "4de1d82af982c74f48fb719db28f2164c39d86118a9cfd880c6f637d6abca6a5",
+  "source_id": "da5dae06-e6e9-48d6-bc69-f29c42444c6f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 232/2020-75",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2021:6.C.232.2020.1",
+    "predmetRizeni": "o uzavření smlouvy o náhradě za vyvlastněné pozemky",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-11-26",
+    "klicovaSlova": [
+      "náhradní pozemek",
+      "pasivní legitimace",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 244 z. č. 99/1963 Sb.",
+      "§ 28 z. č. 184/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da5dae06-e6e9-48d6-bc69-f29c42444c6f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
