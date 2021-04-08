@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:22.C.340.2020.1",
+  "docket": "22 C 340/2020-15",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1d04795-2072-44c3-b91b-f8259cc5a15a",
+  "source_sha256": "d3e27d2f17b9cdce87fd2f7a3629bee5901e72054ba23af29ee9d440b6674cf1",
+  "source_id": "a1d04795-2072-44c3-b91b-f8259cc5a15a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 340/2020-15",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2021:22.C.340.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 1.020,00 Kč s přísl.",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1d04795-2072-44c3-b91b-f8259cc5a15a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
