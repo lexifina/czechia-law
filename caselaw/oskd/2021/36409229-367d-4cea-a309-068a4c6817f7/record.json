@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:112.C.12.2019.1",
+  "docket": "112 C 12/2019-106",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36409229-367d-4cea-a309-068a4c6817f7",
+  "source_sha256": "92cab7839f300cb07a73689baebf8025263f94f52ab5037404fca8b7a9836d24",
+  "source_id": "36409229-367d-4cea-a309-068a4c6817f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 12/2019-106",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jana Šedivá",
+    "ecli": "ECLI:CZ:OSKD:2021:112.C.12.2019.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-11-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení",
+      "smlouva příkazní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2430 z. č. 89/2012 Sb.",
+      "§ 2021 z. č. 89/2012 Sb.",
+      "§ 2018 z. č. 89/2012 Sb.",
+      "§ 2438 z. č. 89/2012 Sb.",
+      "§ 20 z. č. 85/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36409229-367d-4cea-a309-068a4c6817f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
