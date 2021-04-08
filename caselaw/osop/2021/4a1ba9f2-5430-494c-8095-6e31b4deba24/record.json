@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:37.C.226.2020.1",
+  "docket": "37 C 226/2020-74",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4a1ba9f2-5430-494c-8095-6e31b4deba24",
+  "source_sha256": "1cd1dae94c71c0a51964914d2f104c83cd56b4469b0e49522e5be34b62d22c4d",
+  "source_id": "4a1ba9f2-5430-494c-8095-6e31b4deba24",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 226/2020-74",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Karel Schiesser",
+    "ecli": "ECLI:CZ:OSOP:2021:37.C.226.2020.1",
+    "predmetRizeni": "O zaplacení 2 393,44 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 190 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4a1ba9f2-5430-494c-8095-6e31b4deba24"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
