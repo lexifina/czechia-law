@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:9.C.191.2020.5",
+  "docket": "9 C 191/2020-26",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e027c9cd-cbbb-4107-802e-f10f47840c3a",
+  "source_sha256": "2c9e851af37c00f735656de2c8f2927c8b65989fb1742f5e1ebb74db3b82d458",
+  "source_id": "e027c9cd-cbbb-4107-802e-f10f47840c3a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 191/2020-26",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "Mgr. František Strouha",
+    "ecli": "ECLI:CZ:OSCK:2021:9.C.191.2020.5",
+    "predmetRizeni": "o rozvod",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 29 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e027c9cd-cbbb-4107-802e-f10f47840c3a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
