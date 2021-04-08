@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:10.C.17.2021.1",
+  "docket": "10 C 17/2021-16",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce26d8ce-e97f-46d7-8af3-02de5a25bff4",
+  "source_sha256": "10a7172bdff6c417d73586deac81678e6c31e0216db21757d04276c29d8c73b2",
+  "source_id": "ce26d8ce-e97f-46d7-8af3-02de5a25bff4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 17/2021-16",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "JUDr. Kateřina Zatloukalová",
+    "ecli": "ECLI:CZ:OSSU:2021:10.C.17.2021.1",
+    "predmetRizeni": "o rozvod",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce26d8ce-e97f-46d7-8af3-02de5a25bff4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
