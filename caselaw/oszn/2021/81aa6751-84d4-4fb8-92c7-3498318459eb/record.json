@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:5.C.26.2021.1",
+  "docket": "5 C 26/2021-67",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/81aa6751-84d4-4fb8-92c7-3498318459eb",
+  "source_sha256": "c89ccab7fddf7d6984fd2d05e7520f578698817f5e74e914a1f4c309cf8e7ec7",
+  "source_id": "81aa6751-84d4-4fb8-92c7-3498318459eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 26/2021-67",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Ludmila Koubová",
+    "ecli": "ECLI:CZ:OSZN:2021:5.C.26.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/81aa6751-84d4-4fb8-92c7-3498318459eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
