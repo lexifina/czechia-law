@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:8.C.8.2021.1",
+  "docket": "8 C 8/2021-15",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/928d54de-70d2-4c4e-99e9-d30364cc2b8f",
+  "source_sha256": "f1bf4293d6f0c5e395b1b4bcc293ae59e189c7df3b62b5d5a8bbba407ea92085",
+  "source_id": "928d54de-70d2-4c4e-99e9-d30364cc2b8f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 8/2021-15",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Dagmar Kalousková",
+    "ecli": "ECLI:CZ:OSUO:2021:8.C.8.2021.1",
+    "predmetRizeni": "O zaplacení 11 739 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/928d54de-70d2-4c4e-99e9-d30364cc2b8f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
