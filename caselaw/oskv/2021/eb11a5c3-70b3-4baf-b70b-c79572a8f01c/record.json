@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:12.C.79.2021.1",
+  "docket": "12 C 79/2021-25",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb11a5c3-70b3-4baf-b70b-c79572a8f01c",
+  "source_sha256": "626cf71de09fb9026ffb23b26d0d6af61dc6e68b3b9975750fd42f979a608a51",
+  "source_id": "eb11a5c3-70b3-4baf-b70b-c79572a8f01c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 79/2021-25",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radomír Kubelka",
+    "ecli": "ECLI:CZ:OSKV:2021:12.C.79.2021.1",
+    "predmetRizeni": "13.127,99 Kč / úvěr",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb11a5c3-70b3-4baf-b70b-c79572a8f01c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
