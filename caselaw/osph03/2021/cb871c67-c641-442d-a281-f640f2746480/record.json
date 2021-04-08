@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:20.C.100.2021.1",
+  "docket": "20 C 100/2021-10",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb871c67-c641-442d-a281-f640f2746480",
+  "source_sha256": "509a3d1e1065cd6496bdf77aa5962a0b9ecf470db55859acbeea9312678a63d9",
+  "source_id": "cb871c67-c641-442d-a281-f640f2746480",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 100/2021-10",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Jiří Petrášek",
+    "ecli": "ECLI:CZ:OSPH03:2021:20.C.100.2021.1",
+    "predmetRizeni": "8 913 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb871c67-c641-442d-a281-f640f2746480"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
