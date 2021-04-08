@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:4.C.325.2020.1",
+  "docket": "4 C 325/2020-32",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3465fcbc-9a85-4a95-9914-1016cdc03fc4",
+  "source_sha256": "724749018e1194682a27ffde45efa99e0a23d95b856c4511272cc2a659320968",
+  "source_id": "3465fcbc-9a85-4a95-9914-1016cdc03fc4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 325/2020-32",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Petra Svačinová",
+    "ecli": "ECLI:CZ:OSHO:2021:4.C.325.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3465fcbc-9a85-4a95-9914-1016cdc03fc4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
