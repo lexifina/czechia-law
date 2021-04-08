@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:14.C.92.2021.2",
+  "docket": "14 C 92/2021-19",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ee102817-079c-4330-a532-e5d98ea6f311",
+  "source_sha256": "f82fab0dc96df27838bbdaf3c8725bb4be99ecd556ae6dff2dcb50884f684e70",
+  "source_id": "ee102817-079c-4330-a532-e5d98ea6f311",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 92/2021-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2021:14.C.92.2021.2",
+    "predmetRizeni": "20 968 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ee102817-079c-4330-a532-e5d98ea6f311"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
