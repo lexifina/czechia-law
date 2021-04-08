@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:108.C.240.2020.1",
+  "docket": "108 C 240/2020-16",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd438cea-ff2c-444e-9a5d-321ed06cd450",
+  "source_sha256": "2772c6ff1d07bc7156e37b13f966198fdea2af7d0e7b6265147aa504255353dc",
+  "source_id": "fd438cea-ff2c-444e-9a5d-321ed06cd450",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 240/2020-16",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Střítecká",
+    "ecli": "ECLI:CZ:MSBR:2021:108.C.240.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd438cea-ff2c-444e-9a5d-321ed06cd450"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
