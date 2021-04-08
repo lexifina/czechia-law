@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:26.C.13.2020.3",
+  "docket": "26 C 13/2020-59",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b2ac1b7-4cb9-4156-9669-45a250105c17",
+  "source_sha256": "869e3f5029bceb2f447a8a01c785eede02d2a3a22b1380c08ec06ef2c1fc1d34",
+  "source_id": "1b2ac1b7-4cb9-4156-9669-45a250105c17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 13/2020-59",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Šárka Henzlová",
+    "ecli": "ECLI:CZ:OSPH02:2021:26.C.13.2020.3",
+    "predmetRizeni": "o zaplacení 285 570 Kč s příslušenstvím a 135 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-12-20",
+    "klicovaSlova": [
+      "majetková újma",
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "ušlý zisk",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 9 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b2ac1b7-4cb9-4156-9669-45a250105c17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
