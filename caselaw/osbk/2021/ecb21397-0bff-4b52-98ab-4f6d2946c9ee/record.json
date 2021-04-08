@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:11.C.43.2021.1",
+  "docket": "11 C 43/2021-13",
+  "date": "2021-04-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecb21397-0bff-4b52-98ab-4f6d2946c9ee",
+  "source_sha256": "f3507685056eb4347a2438a251bd9f7586890178c64b3103d31403f9018c0253",
+  "source_id": "ecb21397-0bff-4b52-98ab-4f6d2946c9ee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 43/2021-13",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Tereza Richterová",
+    "ecli": "ECLI:CZ:OSBK:2021:11.C.43.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-08",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecb21397-0bff-4b52-98ab-4f6d2946c9ee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
