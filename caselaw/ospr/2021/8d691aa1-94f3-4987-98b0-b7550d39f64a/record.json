@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:11.C.51.2021.1",
+  "docket": "11 C 51/2021-28",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8d691aa1-94f3-4987-98b0-b7550d39f64a",
+  "source_sha256": "87b2ad425d2d91262e88a9d99c61ddc3d09199ba6e3f077705f041a1f03778fc",
+  "source_id": "8d691aa1-94f3-4987-98b0-b7550d39f64a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 51/2021-28",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Petr Andrýsek",
+    "ecli": "ECLI:CZ:OSPR:2021:11.C.51.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 588 z. č. 40/1964 Sb.",
+      "§ 517 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8d691aa1-94f3-4987-98b0-b7550d39f64a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
