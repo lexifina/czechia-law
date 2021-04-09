@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:11.C.351.2020.4",
+  "docket": "11 C 351/2020-24",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/787fe6df-748a-4ac4-9d35-7e00d8c16dd2",
+  "source_sha256": "021620ba320af916addb99bcec033f92c97326862d34d1d45ecb0cfefed89f75",
+  "source_id": "787fe6df-748a-4ac4-9d35-7e00d8c16dd2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 351/2020-24",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Stanislav Brabec",
+    "ecli": "ECLI:CZ:OSCH:2021:11.C.351.2020.4",
+    "predmetRizeni": "O zaplacení 2 970 Kč s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/787fe6df-748a-4ac4-9d35-7e00d8c16dd2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
