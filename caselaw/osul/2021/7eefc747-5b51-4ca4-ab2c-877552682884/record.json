@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:34.C.442.2015.3",
+  "docket": "34 C 442/2015-47",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7eefc747-5b51-4ca4-ab2c-877552682884",
+  "source_sha256": "af632a021ffd13b92b81e27dbcf500c28484146ade34ccde073c1b5939a0f3dd",
+  "source_id": "7eefc747-5b51-4ca4-ab2c-877552682884",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 442/2015-47",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Alice Karpíšková",
+    "ecli": "ECLI:CZ:OSUL:2021:34.C.442.2015.3",
+    "predmetRizeni": "O zaplacení 1 496 Kč s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 1895 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7eefc747-5b51-4ca4-ab2c-877552682884"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
