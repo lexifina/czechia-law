@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:20.C.256.2020.1",
+  "docket": "20 C 256/2020-17",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3be891b-7c87-49b1-a714-9cbe69ec8015",
+  "source_sha256": "fc681c36835f732777f902b1192f0147b66c485fd082eef09ce0a98122cdf024",
+  "source_id": "c3be891b-7c87-49b1-a714-9cbe69ec8015",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 256/2020-17",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Nadine Kovandová",
+    "ecli": "ECLI:CZ:OSDC:2021:20.C.256.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-06-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3be891b-7c87-49b1-a714-9cbe69ec8015"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
