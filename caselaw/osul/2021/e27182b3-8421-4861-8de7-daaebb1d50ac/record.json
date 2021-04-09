@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:75.C.366.2020.1",
+  "docket": "75 C 366/2020-35",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e27182b3-8421-4861-8de7-daaebb1d50ac",
+  "source_sha256": "41da2fecc597c6b7e0332b936c67701153f61c411a61ce3b954d3db6a7804f68",
+  "source_id": "e27182b3-8421-4861-8de7-daaebb1d50ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "75 C 366/2020-35",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Martin Rozsypal",
+    "ecli": "ECLI:CZ:OSUL:2021:75.C.366.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e27182b3-8421-4861-8de7-daaebb1d50ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
