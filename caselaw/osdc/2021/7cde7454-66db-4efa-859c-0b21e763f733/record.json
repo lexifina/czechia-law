@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:20.C.57.2020.1",
+  "docket": "20 C 57/2020-13",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7cde7454-66db-4efa-859c-0b21e763f733",
+  "source_sha256": "ce931f3b49195cc1a62640afc24a6d03241724f32ce8a2a4bd2b6519ff521597",
+  "source_id": "7cde7454-66db-4efa-859c-0b21e763f733",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 57/2020-13",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Nadine Kovandová",
+    "ecli": "ECLI:CZ:OSDC:2021:20.C.57.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7cde7454-66db-4efa-859c-0b21e763f733"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
