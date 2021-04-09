@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:60.C.13.2021.2",
+  "docket": "60 C 13/2021-22",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8bdc5341-1cb1-4b26-8f75-e42e9b760216",
+  "source_sha256": "87585fac341cb8f353b39b31767cb3430861e2a257613d6646d35fa1b16f8153",
+  "source_id": "8bdc5341-1cb1-4b26-8f75-e42e9b760216",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 13/2021-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2021:60.C.13.2021.2",
+    "predmetRizeni": "1 966 Kč s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 20 z. č. 37/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8bdc5341-1cb1-4b26-8f75-e42e9b760216"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
