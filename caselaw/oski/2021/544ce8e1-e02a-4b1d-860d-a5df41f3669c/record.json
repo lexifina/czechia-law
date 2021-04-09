@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:26.C.81.2021.1",
+  "docket": "26 C 81/2021-19",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/544ce8e1-e02a-4b1d-860d-a5df41f3669c",
+  "source_sha256": "30d27d0bd32fdd97928909c147d6b36732ba6445e5eac1a790c987be82ffd9c0",
+  "source_id": "544ce8e1-e02a-4b1d-860d-a5df41f3669c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 81/2021-19",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Marek Heczko",
+    "ecli": "ECLI:CZ:OSKI:2021:26.C.81.2021.1",
+    "predmetRizeni": "15 902 Kč s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/544ce8e1-e02a-4b1d-860d-a5df41f3669c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
