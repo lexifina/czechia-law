@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:15.C.101.2021.1",
+  "docket": "15 C 101/2021-18",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7a6b27e-280d-417e-a2d5-072d18a65727",
+  "source_sha256": "57db50a4b4cca6de4d430a683ba841244ddbf38a6aeac66d28c04715231ccc95",
+  "source_id": "c7a6b27e-280d-417e-a2d5-072d18a65727",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 101/2021-18",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jana Moravcová",
+    "ecli": "ECLI:CZ:OSCB:2021:15.C.101.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 1 516 Kč s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7a6b27e-280d-417e-a2d5-072d18a65727"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
