@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:76.C.1.2021.1",
+  "docket": "76 C 1/2021-25",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bb192996-41ff-43a7-9687-f8b5f3483618",
+  "source_sha256": "04da1b80c5b99e2054b1a30d00542a3214d11544b89ca8cf266742dd5fe9eb5c",
+  "source_id": "bb192996-41ff-43a7-9687-f8b5f3483618",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "76 C 1/2021-25",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Adam Čičmanec",
+    "ecli": "ECLI:CZ:OSUL:2021:76.C.1.2021.1",
+    "predmetRizeni": "pro zaplacení 2 500 Kč",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "smluvní pokuta",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 1753 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb192996-41ff-43a7-9687-f8b5f3483618"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
