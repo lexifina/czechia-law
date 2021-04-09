@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:9.C.75.2021.1",
+  "docket": "9 C 75/2021-39",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65cfd2e3-04f7-4430-b349-0c89b46f63a4",
+  "source_sha256": "b7eca923b29551c6671ee95166426876983efc29badfb2e0498e991c6ea901d9",
+  "source_id": "65cfd2e3-04f7-4430-b349-0c89b46f63a4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 75/2021-39",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Lucie Treglerová",
+    "ecli": "ECLI:CZ:OSJN:2021:9.C.75.2021.1",
+    "predmetRizeni": "o zaplacení 41 069,16 Kč s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65cfd2e3-04f7-4430-b349-0c89b46f63a4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
