@@ -1,0 +1,52 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:4.C.37.2020.1",
+  "docket": "4 C 37/2020",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ef12132-62f3-4eab-8f79-1e05e3598684",
+  "source_sha256": "c08906a0b7237ee6a3a69f47315c6f7f33eff6acf400d8a8eec768cbbafc0888",
+  "source_id": "5ef12132-62f3-4eab-8f79-1e05e3598684",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 37/2020",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Oldřich Kajzr",
+    "ecli": "ECLI:CZ:OSME:2021:4.C.37.2020.1",
+    "predmetRizeni": "žaloba o nezbytné cestě",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-09-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozemní komunikace",
+      "služebnost",
+      "smlouva darovací",
+      "smlouva kupní",
+      "smlouva o smlouvě budoucí",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 4 vyhl. č. 358/2019 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 154 z. č. 99/1963 Sb.",
+      "§ 1029 z. č. 89/2012 Sb.",
+      "§ 1032 z. č. 89/2012 Sb.",
+      "§ 131 z. č. 99/1963 Sb.",
+      "§ 1021 z. č. 89/2012 Sb.",
+      "§ 1022 z. č. 89/2012 Sb.",
+      "§ 4 vyhl. č. 389/2020 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ef12132-62f3-4eab-8f79-1e05e3598684"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
