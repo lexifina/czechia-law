@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:47.C.206.2020.1",
+  "docket": "47 C 206/2020-67",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/15cea5a8-2086-48ea-92c9-6a8c27d3b6ec",
+  "source_sha256": "25b8db6674e3cbc32e38d3789f2bf2faf2c5ce6f8ad3b49e02ad38ab92578451",
+  "source_id": "15cea5a8-2086-48ea-92c9-6a8c27d3b6ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 206/2020-67",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Radek Malenovský",
+    "ecli": "ECLI:CZ:MSBR:2021:47.C.206.2020.1",
+    "predmetRizeni": "zaplacení 1.649,60 Kč - smluvní pokuta",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1723 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/15cea5a8-2086-48ea-92c9-6a8c27d3b6ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
