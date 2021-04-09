@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:8.C.54.2021.1",
+  "docket": "8 C 54/2021-20",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/538ed6b1-f541-42d6-9667-08bc3b1c336f",
+  "source_sha256": "129a3c5b3cc049f35c3fc4703170caf7105e6ffc07b066b8e2da4d3c09afe317",
+  "source_id": "538ed6b1-f541-42d6-9667-08bc3b1c336f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 54/2021-20",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Kateřina Uhrynová",
+    "ecli": "ECLI:CZ:OSDC:2021:8.C.54.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/538ed6b1-f541-42d6-9667-08bc3b1c336f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
