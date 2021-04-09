@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:1.C.270.2020.1",
+  "docket": "1 C 270/2020-44",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba8c86b8-7c29-4338-9dd4-fe9c8276fcd8",
+  "source_sha256": "2ad645cf3906aa2c9a488b08d0f45f8569cef7b333b3c1a56acd2b27b8e932aa",
+  "source_id": "ba8c86b8-7c29-4338-9dd4-fe9c8276fcd8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 270/2020-44",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Vyskočilová",
+    "ecli": "ECLI:CZ:OSLN:2021:1.C.270.2020.1",
+    "predmetRizeni": "O zaplacení 4 783 Kč s příslušenstvím",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba8c86b8-7c29-4338-9dd4-fe9c8276fcd8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
