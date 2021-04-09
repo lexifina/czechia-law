@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:36.C.89.2021.1",
+  "docket": "36 C 89/2021-19",
+  "date": "2021-04-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2dff8f6-1c1c-457a-9cfc-47cb428aab6a",
+  "source_sha256": "0fecd6d069bf651b610eb21d6c89e092a23a9ca1e2e04c70a9b236a3a8e805c8",
+  "source_id": "a2dff8f6-1c1c-457a-9cfc-47cb428aab6a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 89/2021-19",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2021:36.C.89.2021.1",
+    "predmetRizeni": "zaplacení 3 000 Kč",
+    "datumVydani": "2021-04-09",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 2551 z. č. 89/2012 Sb.",
+      "§ 4 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2dff8f6-1c1c-457a-9cfc-47cb428aab6a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
