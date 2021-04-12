@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:16.C.3.2021.1",
+  "docket": "16 C 3/2021-18",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5bae0295-cd8b-4bf9-aa53-f4488db7496b",
+  "source_sha256": "6f4be4e067c3f633838dd136a2a3d8d36b772f8dab389672e666fd14f4d572e1",
+  "source_id": "5bae0295-cd8b-4bf9-aa53-f4488db7496b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 3/2021-18",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2021:16.C.3.2021.1",
+    "predmetRizeni": "44.786 Kč zápůjčka",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5bae0295-cd8b-4bf9-aa53-f4488db7496b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
