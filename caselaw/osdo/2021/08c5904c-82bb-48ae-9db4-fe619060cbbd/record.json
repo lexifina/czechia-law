@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:11.C.86.2020.1",
+  "docket": "11 C 86/2020-64",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08c5904c-82bb-48ae-9db4-fe619060cbbd",
+  "source_sha256": "834c0250b47ba2fa026e1adf9045b30a5b03c8112fad59523f8c06543f4336c4",
+  "source_id": "08c5904c-82bb-48ae-9db4-fe619060cbbd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 86/2020-64",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:11.C.86.2020.1",
+    "predmetRizeni": "o zapl. [částka] s přísl.",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08c5904c-82bb-48ae-9db4-fe619060cbbd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
