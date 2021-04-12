@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:54.C.72.2021.3",
+  "docket": "54 C 72/2021-18",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e45e8fbc-840e-41ba-98eb-f6fa3978b605",
+  "source_sha256": "83f309e693ca4e50ce98e030182d97926982b38e34fe81edad85f9a3d33bb8a2",
+  "source_id": "e45e8fbc-840e-41ba-98eb-f6fa3978b605",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 72/2021-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Monika Kotlánová",
+    "ecli": "ECLI:CZ:OSOV:2021:54.C.72.2021.3",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 266/1994 Sb.",
+      "§ 558 z. č. 89/2012 Sb.",
+      "§  z. č. 111/1994 Sb.",
+      "§ 760 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e45e8fbc-840e-41ba-98eb-f6fa3978b605"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
