@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:20.C.78.2020.5",
+  "docket": "20 C 78/2020-100",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb31bb67-fb0b-41b0-84c4-906d9c5fefaa",
+  "source_sha256": "922479753d8b268483b6cc96f0046c7d0d99378df7d9c88437ad0968399df3c1",
+  "source_id": "eb31bb67-fb0b-41b0-84c4-906d9c5fefaa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 78/2020-100",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Zdeněk Douděra",
+    "ecli": "ECLI:CZ:OSPH02:2021:20.C.78.2020.5",
+    "predmetRizeni": "o zaplacení 140 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "odpovědnost státu za škodu",
+      "peněžité plnění",
+      "věcná břemena",
+      "zadostiučinění / satisfakce",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 13 z. č. 82/1998 Sb.",
+      "§ 5 z. č. 82/1998 Sb.",
+      "§ 31a z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb31bb67-fb0b-41b0-84c4-906d9c5fefaa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
