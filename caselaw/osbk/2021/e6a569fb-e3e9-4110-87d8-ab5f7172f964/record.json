@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:3.C.22.2021.1",
+  "docket": "3 C 22/2021-16",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6a569fb-e3e9-4110-87d8-ab5f7172f964",
+  "source_sha256": "011d9be4cc83a1febc37829ed9912550d56fdf8c2060af51532b959959f4ded8",
+  "source_id": "e6a569fb-e3e9-4110-87d8-ab5f7172f964",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 22/2021-16",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Petra Burešová",
+    "ecli": "ECLI:CZ:OSBK:2021:3.C.22.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6a569fb-e3e9-4110-87d8-ab5f7172f964"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
