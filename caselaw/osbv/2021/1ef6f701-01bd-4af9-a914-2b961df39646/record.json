@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:9.C.265.2020.1",
+  "docket": "9 C 265/2020-56",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1ef6f701-01bd-4af9-a914-2b961df39646",
+  "source_sha256": "9000350c303a0481ce22d378322565a38ce23921ac51cfcf7c4080262b99f597",
+  "source_id": "1ef6f701-01bd-4af9-a914-2b961df39646",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 265/2020-56",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Josef Kavalec",
+    "ecli": "ECLI:CZ:OSBV:2021:9.C.265.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1ef6f701-01bd-4af9-a914-2b961df39646"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
