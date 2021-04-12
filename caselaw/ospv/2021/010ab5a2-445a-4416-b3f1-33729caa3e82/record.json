@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:9.C.401.2020.1",
+  "docket": "9 C 401/2020-48",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/010ab5a2-445a-4416-b3f1-33729caa3e82",
+  "source_sha256": "054710a7742256b24f071e47e76e7980fafc06172e5d9223ecbd1329edd2c23a",
+  "source_id": "010ab5a2-445a-4416-b3f1-33729caa3e82",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 401/2020-48",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2021:9.C.401.2020.1",
+    "predmetRizeni": "O zaplacení 3.500 Kč",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-09-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/010ab5a2-445a-4416-b3f1-33729caa3e82"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
