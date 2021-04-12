@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:42.C.89.2019.1",
+  "docket": "42 C 89/2019",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4016aa9f-9c57-480b-9a53-70c6d00ff390",
+  "source_sha256": "ed41e8ef219ab3eb74e13043c30c268b691c93e33ba4573fe30971c7f555a9ce",
+  "source_id": "4016aa9f-9c57-480b-9a53-70c6d00ff390",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 89/2019",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Andrea Boráková",
+    "ecli": "ECLI:CZ:OSBI:2021:42.C.89.2019.1",
+    "predmetRizeni": "vydání a vyklizení nemovité věci",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "právo užívání",
+      "smlouva darovací"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2072 z. č. 89/2012 Sb.",
+      "§ 1283 z. č. 89/2012 Sb.",
+      "§ 2073 z. č. 89/2012 Sb.",
+      "§ 2074 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4016aa9f-9c57-480b-9a53-70c6d00ff390"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
