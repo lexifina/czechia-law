@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:59.C.47.2021.1",
+  "docket": "59 C 47/2021-40",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4fd2cfb-0f9f-473b-880f-752cc6667ce9",
+  "source_sha256": "04213f0c0ef0918c599af84507bd03fb2bd0fe6cf3e99ebfe5fb56572b28b9e1",
+  "source_id": "a4fd2cfb-0f9f-473b-880f-752cc6667ce9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "59 C 47/2021-40",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Darina Dvořáková",
+    "ecli": "ECLI:CZ:OSOV:2021:59.C.47.2021.1",
+    "predmetRizeni": "o zaplacení 50 975,02 Kč s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4fd2cfb-0f9f-473b-880f-752cc6667ce9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
