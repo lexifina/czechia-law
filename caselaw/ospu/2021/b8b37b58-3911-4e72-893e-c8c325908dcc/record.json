@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:10.C.5.2021.1",
+  "docket": "10 C 5/2021-44",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8b37b58-3911-4e72-893e-c8c325908dcc",
+  "source_sha256": "a8459b5f2c6a2e02ef65098f78cd7eaf556bdc0877ab1a57300973186bed45b1",
+  "source_id": "b8b37b58-3911-4e72-893e-c8c325908dcc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 5/2021-44",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Iveta Deriková",
+    "ecli": "ECLI:CZ:OSPU:2021:10.C.5.2021.1",
+    "predmetRizeni": "o zaplacení 24 039,60 Kč s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-08-30",
+    "klicovaSlova": [
+      "notářský zápis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "řidičský průkaz",
+      "smlouva nájemní",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8b37b58-3911-4e72-893e-c8c325908dcc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
