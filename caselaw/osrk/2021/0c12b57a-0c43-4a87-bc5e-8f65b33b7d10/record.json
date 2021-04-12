@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:3.C.89.2021.1",
+  "docket": "3 C 89/2021-33",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c12b57a-0c43-4a87-bc5e-8f65b33b7d10",
+  "source_sha256": "00f5063ea7370d9c867a71b8fdc2b3040a03f230e953dc13cd9dd9c1e2a4fe35",
+  "source_id": "0c12b57a-0c43-4a87-bc5e-8f65b33b7d10",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 89/2021-33",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Jiří Fuks, Ph.D.",
+    "ecli": "ECLI:CZ:OSRK:2021:3.C.89.2021.1",
+    "predmetRizeni": "o zaplacení 6.558,05 Kč s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [
+      "nájem dopravního prostředku",
+      "smlouva o nájmu dopravního prostředku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 2321 z. č. 82/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c12b57a-0c43-4a87-bc5e-8f65b33b7d10"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
