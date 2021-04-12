@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:15.C.154.2020.4",
+  "docket": "15 C 154/2020-39",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fe4abdc-9e90-41d2-8a57-01c53cdc9308",
+  "source_sha256": "f583cfca1442276f08e3910eb45addc508a1794bcde0e29c3a869f54b2cb226e",
+  "source_id": "2fe4abdc-9e90-41d2-8a57-01c53cdc9308",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 154/2020-39",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "Mgr. Daria Vaňková",
+    "ecli": "ECLI:CZ:OSHB:2021:15.C.154.2020.4",
+    "predmetRizeni": "zaplacení 16.848 Kč s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "notářský zápis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fe4abdc-9e90-41d2-8a57-01c53cdc9308"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
