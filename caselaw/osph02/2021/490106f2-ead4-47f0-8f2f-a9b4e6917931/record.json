@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:10.C.143.2020.4",
+  "docket": "10 C 143/2020-106",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/490106f2-ead4-47f0-8f2f-a9b4e6917931",
+  "source_sha256": "1eac0b94667a2efeedef3476d07e7d65878ccf1715809f995ef19f4a16459f9f",
+  "source_id": "490106f2-ead4-47f0-8f2f-a9b4e6917931",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 143/2020-106",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Tomáš Bělohlávek",
+    "ecli": "ECLI:CZ:OSPH02:2021:10.C.143.2020.4",
+    "predmetRizeni": "o zaplacení 200 227, 30 s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "bolestné",
+      "nemajetková újma",
+      "odpovědnost státu za škodu",
+      "peněžité plnění",
+      "zastavení exekuce / výkonu rozhodnutí",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/490106f2-ead4-47f0-8f2f-a9b4e6917931"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
