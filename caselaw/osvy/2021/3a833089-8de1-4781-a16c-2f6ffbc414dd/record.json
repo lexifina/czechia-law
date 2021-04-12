@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:12.C.63.2020.1",
+  "docket": "12 C 63/2020-47",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3a833089-8de1-4781-a16c-2f6ffbc414dd",
+  "source_sha256": "776e8eddbb21d547533e7fbb403ce701de98f0a6ab0549f905b6490019199aa5",
+  "source_id": "3a833089-8de1-4781-a16c-2f6ffbc414dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 63/2020-47",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Karin Vrchová, , MBA",
+    "ecli": "ECLI:CZ:OSVY:2021:12.C.63.2020.1",
+    "predmetRizeni": "zaplacení částky 41 149,19 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3a833089-8de1-4781-a16c-2f6ffbc414dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
