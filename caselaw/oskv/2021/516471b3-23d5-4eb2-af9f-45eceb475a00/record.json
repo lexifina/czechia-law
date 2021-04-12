@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:16.C.25.2021.1",
+  "docket": "16 C 25/2021-15",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/516471b3-23d5-4eb2-af9f-45eceb475a00",
+  "source_sha256": "511b1b73bbb4c209999888983f1f0829c8a653b91d21235b9229563e0a16f00c",
+  "source_id": "516471b3-23d5-4eb2-af9f-45eceb475a00",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 25/2021-15",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2021:16.C.25.2021.1",
+    "predmetRizeni": "4.572 Kč jízdné",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 18a z. č. 111/94 Sb.",
+      "§ 4 z. č. 549/91 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/516471b3-23d5-4eb2-af9f-45eceb475a00"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
