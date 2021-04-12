@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:16.C.21.2021.1",
+  "docket": "16 C 21/2021-22",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/303bf605-ad4e-413a-b28b-665383ca36c7",
+  "source_sha256": "50ba92ca4167626f432a55bc8657be6566f77b9b91eaefff2f3328b334e7f326",
+  "source_id": "303bf605-ad4e-413a-b28b-665383ca36c7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 21/2021-22",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Martin Košek",
+    "ecli": "ECLI:CZ:OSLI:2021:16.C.21.2021.1",
+    "predmetRizeni": "o zaplacení částky 12 294,43 Kč s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "dodávky energie",
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 50 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/303bf605-ad4e-413a-b28b-665383ca36c7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
