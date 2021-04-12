@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:17.C.9.2021.1",
+  "docket": "17 C 9/2021-21",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/81121e32-6e41-4c90-9766-2af7899a1ec5",
+  "source_sha256": "4a7b7bedceec3dfd5971f1b4cd4b52ccb76b4949ddd7ff73b138f0cd96493170",
+  "source_id": "81121e32-6e41-4c90-9766-2af7899a1ec5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 9/2021-21",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Tereza Kravalová",
+    "ecli": "ECLI:CZ:OSOP:2021:17.C.9.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/81121e32-6e41-4c90-9766-2af7899a1ec5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
