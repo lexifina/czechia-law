@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:106.C.73.2021.1",
+  "docket": "106 C 73/2021-44",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a0196626-4b3c-4fef-a419-c342c5e13187",
+  "source_sha256": "2a4a7b2a364c24d3aaf513daea92bb2524b13f56e40ddf9c2822984d20ad670e",
+  "source_id": "a0196626-4b3c-4fef-a419-c342c5e13187",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 73/2021-44",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Hermannová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:106.C.73.2021.1",
+    "predmetRizeni": "5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "poučovací povinnost soudu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a0196626-4b3c-4fef-a419-c342c5e13187"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
