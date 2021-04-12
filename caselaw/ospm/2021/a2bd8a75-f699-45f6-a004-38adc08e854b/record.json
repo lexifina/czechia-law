@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:24.C.21.2021.1",
+  "docket": "24 C 21/2021-36",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2bd8a75-f699-45f6-a004-38adc08e854b",
+  "source_sha256": "fcf232178eb640d9dbd9b3a8a0f6d404b0eb89dbe7a562480d7ecd314df03875",
+  "source_id": "a2bd8a75-f699-45f6-a004-38adc08e854b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 21/2021-36",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jiří Fikar",
+    "ecli": "ECLI:CZ:OSPM:2021:24.C.21.2021.1",
+    "predmetRizeni": "O zaplacení 45 162,88 Kč s příslušenstvím",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 2291 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2bd8a75-f699-45f6-a004-38adc08e854b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
