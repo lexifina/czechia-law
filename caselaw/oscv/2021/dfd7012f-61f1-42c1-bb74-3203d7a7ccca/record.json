@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.353.2020.1",
+  "docket": "24 C 353/2020-108",
+  "date": "2021-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dfd7012f-61f1-42c1-bb74-3203d7a7ccca",
+  "source_sha256": "d8125a6cbc40d60c12fb7501a851080a8d31a0f0060251e9e5c14eb4eb7c670b",
+  "source_id": "dfd7012f-61f1-42c1-bb74-3203d7a7ccca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 353/2020-108",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.353.2020.1",
+    "predmetRizeni": "zaplacení 1 524 Kč s příslušenstvím (jízdné a přirážka k jízdnému)",
+    "datumVydani": "2021-04-12",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dfd7012f-61f1-42c1-bb74-3203d7a7ccca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
