@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:13.C.334.2020.1",
+  "docket": "13 C 334/2020-24",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36ef096a-e860-4b1a-a1d1-eef6bbce4a1c",
+  "source_sha256": "54f839a64c3d3e924eb3b2e2293b881b0a0b9650d292a35a16e0d252481081e9",
+  "source_id": "36ef096a-e860-4b1a-a1d1-eef6bbce4a1c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 334/2020-24",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Šoljaková",
+    "ecli": "ECLI:CZ:OSLI:2021:13.C.334.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36ef096a-e860-4b1a-a1d1-eef6bbce4a1c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
