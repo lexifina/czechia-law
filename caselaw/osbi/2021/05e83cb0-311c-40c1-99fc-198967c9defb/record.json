@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:29.C.38.2021.1",
+  "docket": "29 C 38/2021",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05e83cb0-311c-40c1-99fc-198967c9defb",
+  "source_sha256": "39fe2c596245d583fd378802fd7fd05985a566427b8c8f0923e45d11e54be70f",
+  "source_id": "05e83cb0-311c-40c1-99fc-198967c9defb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 38/2021",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Miroslava Šebelová",
+    "ecli": "ECLI:CZ:OSBI:2021:29.C.38.2021.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05e83cb0-311c-40c1-99fc-198967c9defb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
