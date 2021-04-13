@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:25.C.155.2021.1",
+  "docket": "25 C 155/2021-12",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff4db9cb-f2e1-4883-8850-8534b6795b17",
+  "source_sha256": "24ae0ed2911d4d739ab5411a097e6a57b6f2aeff1f55dea865ef115089409d2a",
+  "source_id": "ff4db9cb-f2e1-4883-8850-8534b6795b17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 155/2021-12",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Marta Toufarová",
+    "ecli": "ECLI:CZ:OSCB:2021:25.C.155.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff4db9cb-f2e1-4883-8850-8534b6795b17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
