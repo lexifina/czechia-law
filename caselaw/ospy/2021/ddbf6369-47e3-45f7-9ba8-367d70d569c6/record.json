@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:9.C.7.2021.1",
+  "docket": "9 C 7/2021",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ddbf6369-47e3-45f7-9ba8-367d70d569c6",
+  "source_sha256": "7789541bf843e9f31fdb14dc6d2ffea8e8db671dfc5f600903dd984b4296ecec",
+  "source_id": "ddbf6369-47e3-45f7-9ba8-367d70d569c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 7/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Jana Stejskalová",
+    "ecli": "ECLI:CZ:OSPY:2021:9.C.7.2021.1",
+    "predmetRizeni": "O zaplacení 97 443,26 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání",
+      "ručení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 2021 z. č. 89/2012 Sb.",
+      "§ 2018 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddbf6369-47e3-45f7-9ba8-367d70d569c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
