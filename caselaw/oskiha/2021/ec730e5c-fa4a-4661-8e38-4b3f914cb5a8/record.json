@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:108.C.85.2021.1",
+  "docket": "108 C 85/2021-27",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec730e5c-fa4a-4661-8e38-4b3f914cb5a8",
+  "source_sha256": "7a9a640e69a45fc023dba4959119dc0050f50084cd8261dcccb940de822740ea",
+  "source_id": "ec730e5c-fa4a-4661-8e38-4b3f914cb5a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 85/2021-27",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Jitka Zavázalová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:108.C.85.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec730e5c-fa4a-4661-8e38-4b3f914cb5a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
