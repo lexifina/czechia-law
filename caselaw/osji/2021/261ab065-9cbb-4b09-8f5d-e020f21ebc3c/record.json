@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:8.C.67.2020.1",
+  "docket": "8 C 67/2020-70",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/261ab065-9cbb-4b09-8f5d-e020f21ebc3c",
+  "source_sha256": "27dbc06bec97a0376e4e3433c06f0bb47df97ff693c87006e72888e754f61a74",
+  "source_id": "261ab065-9cbb-4b09-8f5d-e020f21ebc3c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 67/2020-70",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Radek Pavlačka",
+    "ecli": "ECLI:CZ:OSJI:2021:8.C.67.2020.1",
+    "predmetRizeni": "o 1 505 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/261ab065-9cbb-4b09-8f5d-e020f21ebc3c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
