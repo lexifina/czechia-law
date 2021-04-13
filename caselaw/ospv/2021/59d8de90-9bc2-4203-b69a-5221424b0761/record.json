@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.21.2021 .1",
+  "docket": "13 C 21/2021-44",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59d8de90-9bc2-4203-b69a-5221424b0761",
+  "source_sha256": "ab2b519cf41fc454b0ad174fb7d51da6926875b37a9a72123508e8fa15b69867",
+  "source_id": "59d8de90-9bc2-4203-b69a-5221424b0761",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 21/2021-44",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.21.2021 .1",
+    "predmetRizeni": "pro zaplacení 3.953 Kč s příslušenstvím,",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59d8de90-9bc2-4203-b69a-5221424b0761"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
