@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:65.C.65.2019.1",
+  "docket": "65 C 65/2019",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4782f0e8-71f4-40fd-9718-69cdc700ee16",
+  "source_sha256": "91274374a1562cb3bbf746064d2dfa51cbf0c54f556a39a42af95b14e64aa366",
+  "source_id": "4782f0e8-71f4-40fd-9718-69cdc700ee16",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "65 C 65/2019",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Jiří Kohoutek",
+    "ecli": "ECLI:CZ:OSPH01:2021:65.C.65.2019.1",
+    "predmetRizeni": "o zaplacení 104 640,80 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4782f0e8-71f4-40fd-9718-69cdc700ee16"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
