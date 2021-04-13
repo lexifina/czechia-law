@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:51.C.135.2020.1",
+  "docket": "51 C 135/2020-20",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a07a9ef-314a-4fc6-8063-5a95a5c186d7",
+  "source_sha256": "79ab5692874ad151614204a611d493f0ad2c9b76c94381582a7f7c89c5b4c941",
+  "source_id": "2a07a9ef-314a-4fc6-8063-5a95a5c186d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 135/2020-20",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zdeněk Sýs",
+    "ecli": "ECLI:CZ:MSBR:2021:51.C.135.2020.1",
+    "predmetRizeni": "zaplacení 1.920 Kč s příslušenstvím - náklady na odtah vozidla",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "smlouva mandátní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 45 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a07a9ef-314a-4fc6-8063-5a95a5c186d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
