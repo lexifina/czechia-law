@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:13.C.50.2021.1",
+  "docket": "13 C 50/2021-16",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f9c7a5d-686e-4a81-b573-ced471fb63d7",
+  "source_sha256": "899eeb97c11943b3ca981de406c19a8e260a8455fae2076f6976a7252fa71828",
+  "source_id": "0f9c7a5d-686e-4a81-b573-ced471fb63d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 50/2021-16",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Helena Podveská",
+    "ecli": "ECLI:CZ:OSHO:2021:13.C.50.2021.1",
+    "predmetRizeni": "zaplacení 7 645 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f9c7a5d-686e-4a81-b573-ced471fb63d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
