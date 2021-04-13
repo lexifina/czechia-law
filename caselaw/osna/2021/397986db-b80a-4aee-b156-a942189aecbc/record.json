@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:5.C.72.2021.2",
+  "docket": "5 C 72/2021-22",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/397986db-b80a-4aee-b156-a942189aecbc",
+  "source_sha256": "b0bf563555538580ce6bd855c58162a94fda7fc7134e569cd0607cd81927bdf5",
+  "source_id": "397986db-b80a-4aee-b156-a942189aecbc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 72/2021-22",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2021:5.C.72.2021.2",
+    "predmetRizeni": "o zaplacení 3.000 Kč s příslušenstvím (služby)",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/397986db-b80a-4aee-b156-a942189aecbc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
