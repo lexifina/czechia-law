@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:104.C.35.2020.1",
+  "docket": "104 C 35/2020-57",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/75d03a13-5e4e-4a7e-8947-cf9f2d4fae37",
+  "source_sha256": "a7d10afff17545922f2e3663d37f8772ce01ca01f2be3c68faa6f514778c54f7",
+  "source_id": "75d03a13-5e4e-4a7e-8947-cf9f2d4fae37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "104 C 35/2020-57",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Marek Horáček",
+    "ecli": "ECLI:CZ:OSCR:2021:104.C.35.2020.1",
+    "predmetRizeni": "o 34 564 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/75d03a13-5e4e-4a7e-8947-cf9f2d4fae37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
