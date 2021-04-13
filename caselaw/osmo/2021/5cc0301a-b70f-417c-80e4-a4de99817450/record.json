@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:44.C.21.2021.3",
+  "docket": "44 C 21/2021-28",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5cc0301a-b70f-417c-80e4-a4de99817450",
+  "source_sha256": "0249547c571767b90d0159a264b759a0f8f3083759cba7b786321d3fdae5e081",
+  "source_id": "5cc0301a-b70f-417c-80e4-a4de99817450",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 21/2021-28",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Davidová",
+    "ecli": "ECLI:CZ:OSMO:2021:44.C.21.2021.3",
+    "predmetRizeni": "23 490,20 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§  z. č. 43/2013 Sb.",
+      "§  z. č. 110/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5cc0301a-b70f-417c-80e4-a4de99817450"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
