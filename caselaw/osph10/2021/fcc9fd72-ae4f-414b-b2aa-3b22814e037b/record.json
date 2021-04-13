@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:59.C.61.2021.1",
+  "docket": "59 C 61/2021-16",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fcc9fd72-ae4f-414b-b2aa-3b22814e037b",
+  "source_sha256": "161c0d676aed1c38502216d88173a562e8bbbd89edee4da2d3af9c35e6f94821",
+  "source_id": "fcc9fd72-ae4f-414b-b2aa-3b22814e037b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "59 C 61/2021-16",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Blanka Ježková",
+    "ecli": "ECLI:CZ:OSPH10:2021:59.C.61.2021.1",
+    "predmetRizeni": "675 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 153 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fcc9fd72-ae4f-414b-b2aa-3b22814e037b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
