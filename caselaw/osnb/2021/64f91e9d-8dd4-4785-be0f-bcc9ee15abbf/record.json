@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:12.C.34.2021.2",
+  "docket": "12 C 34/2021-46",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/64f91e9d-8dd4-4785-be0f-bcc9ee15abbf",
+  "source_sha256": "143e156fef0d418aa353f364b496f1ce3364883a2bd440f8f1c996dbf02bb7bf",
+  "source_id": "64f91e9d-8dd4-4785-be0f-bcc9ee15abbf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 34/2021-46",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Blanka Jirsáková",
+    "ecli": "ECLI:CZ:OSNB:2021:12.C.34.2021.2",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "dražba",
+      "peněžité plnění",
+      "veřejná dražba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/64f91e9d-8dd4-4785-be0f-bcc9ee15abbf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
