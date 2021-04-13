@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:51.C.65.2020.1",
+  "docket": "51 C 65/2020-21",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e31cfab-51f3-4ba4-a623-2f9bd7549ee7",
+  "source_sha256": "9397b8e1fd90b0bf6d803198cdcf3a0d103c597e658f2cf8ee724cbd22901e13",
+  "source_id": "3e31cfab-51f3-4ba4-a623-2f9bd7549ee7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 65/2020-21",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zdeněk Sýs",
+    "ecli": "ECLI:CZ:MSBR:2021:51.C.65.2020.1",
+    "predmetRizeni": "zaplacení 17.500 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 156 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e31cfab-51f3-4ba4-a623-2f9bd7549ee7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
