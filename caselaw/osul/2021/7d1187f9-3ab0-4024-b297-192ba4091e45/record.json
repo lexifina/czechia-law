@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:29.C.48.2021.1",
+  "docket": "29 C 48/2021-55",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d1187f9-3ab0-4024-b297-192ba4091e45",
+  "source_sha256": "152a4a7412d61d67cc2c46481c700e475ec4bdca63b9dfdf78fb4a8f6db6ce39",
+  "source_id": "7d1187f9-3ab0-4024-b297-192ba4091e45",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 48/2021-55",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Karel Šemík",
+    "ecli": "ECLI:CZ:OSUL:2021:29.C.48.2021.1",
+    "predmetRizeni": "O zaplacení 5 000 Kč",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "rozhodčí doložka",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d1187f9-3ab0-4024-b297-192ba4091e45"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
