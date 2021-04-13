@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:11.C.148.2020.4",
+  "docket": "11 C 148/2020-72",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4a63230-2690-4b86-9061-50b8a1d8096c",
+  "source_sha256": "3052def315ddd741ed9834102b561c28c1e8b4f975d47bdf371933d2eae24940",
+  "source_id": "a4a63230-2690-4b86-9061-50b8a1d8096c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 148/2020-72",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Štěpán Slavík",
+    "ecli": "ECLI:CZ:OSPB:2021:11.C.148.2020.4",
+    "predmetRizeni": "zaplacení 35 710 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 609 z. č. 89/2012 Sb.",
+      "§ 619 z. č. 89/2012 Sb.",
+      "§ 610 z. č. 89/2012 Sb.",
+      "§ 611 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4a63230-2690-4b86-9061-50b8a1d8096c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
