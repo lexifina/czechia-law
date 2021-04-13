@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:25.C.22.2021.1",
+  "docket": "25 C 22/2021-16",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d47d7bbe-808d-4409-b2e1-d7ac2591c881",
+  "source_sha256": "a245415a50273df988f669b14317f26f1b58a7634967bcdd2b36e1d6c0335fe9",
+  "source_id": "d47d7bbe-808d-4409-b2e1-d7ac2591c881",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 22/2021-16",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Andrea Pěničková",
+    "ecli": "ECLI:CZ:OSDC:2021:25.C.22.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-08-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§  z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d47d7bbe-808d-4409-b2e1-d7ac2591c881"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
