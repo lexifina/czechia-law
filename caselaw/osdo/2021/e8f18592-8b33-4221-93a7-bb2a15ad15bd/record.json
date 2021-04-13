@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:7.C.171.2020.3",
+  "docket": "7 C 171/2020-73",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e8f18592-8b33-4221-93a7-bb2a15ad15bd",
+  "source_sha256": "a2d7de1d0a2486dac2716844bd85061736cc040ea9240c6c096ee7eae34d1af4",
+  "source_id": "e8f18592-8b33-4221-93a7-bb2a15ad15bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 171/2020-73",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Kateřina Martincová",
+    "ecli": "ECLI:CZ:OSDO:2021:7.C.171.2020.3",
+    "predmetRizeni": "o určení vlastnictví",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-11-22",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "převod nemovitostí",
+      "smlouva kupní",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce",
+      "společné jmění manželů",
+      "vypořádání SJM"
+    ],
+    "zminenaUstanoveni": [
+      "§ 559 z. č. 89/2012 Sb.",
+      "§ 2002 z. č. 89/2012 Sb.",
+      "§ 2001 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e8f18592-8b33-4221-93a7-bb2a15ad15bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
