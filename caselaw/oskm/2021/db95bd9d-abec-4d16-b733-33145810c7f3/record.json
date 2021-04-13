@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:18.C.213.2020.1",
+  "docket": "18 C 213/2020-22",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db95bd9d-abec-4d16-b733-33145810c7f3",
+  "source_sha256": "70db513a16327a36b7475cbd35f10fc9eae77024e00cb99bc4c98c6d5f16e932",
+  "source_id": "db95bd9d-abec-4d16-b733-33145810c7f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 213/2020-22",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Marek Peřina",
+    "ecli": "ECLI:CZ:OSKM:2021:18.C.213.2020.1",
+    "predmetRizeni": "zaplacení 11 810 Kč s příslušenstvím",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "nájem bytu",
+      "nájem domu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 2293 z. č. 89/2012 Sb.",
+      "§ 3074 z. č. 89/2012 Sb.",
+      "§ 2251 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb.",
+      "§ 2267 z. č. 89/2012 Sb.",
+      "§ 2236 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db95bd9d-abec-4d16-b733-33145810c7f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
