@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:51.C.114.2019.1",
+  "docket": "51 C 114/2019-92",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/944ba933-9735-4254-a34d-bfd1237c30a4",
+  "source_sha256": "b302459ed93d67b1f196f4c9075cc5b287c10dab46790f3d03c7ab3b5a0cef4f",
+  "source_id": "944ba933-9735-4254-a34d-bfd1237c30a4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 114/2019-92",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zdeněk Sýs",
+    "ecli": "ECLI:CZ:MSBR:2021:51.C.114.2019.1",
+    "predmetRizeni": "vyloučení věci z exekuce",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "exekuce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 1937 z. č. 89/2012 Sb.",
+      "§ 553 z. č. 89/2012 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 44a z. č. 120/2001 Sb.",
+      "§ 133 z. č. 89/2012 Sb.",
+      "§ 314 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/944ba933-9735-4254-a34d-bfd1237c30a4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
