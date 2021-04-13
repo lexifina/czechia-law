@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+  "ecli": "ECLI:CZ:OSVSVM:2021:16.C.40.2020.1",
+  "docket": "16 C 40/2020-26",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cf32e657-d8d1-44bc-b474-a083e4b7aab6",
+  "source_sha256": "6262696f2b676ad3ace1b48692fa1ddd3a50755e219b4371cfdd0360583ae928",
+  "source_id": "cf32e657-d8d1-44bc-b474-a083e4b7aab6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 40/2020-26",
+    "soud": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+    "autor": "JUDr. Pavel Kotrady",
+    "ecli": "ECLI:CZ:OSVSVM:2021:16.C.40.2020.1",
+    "predmetRizeni": "O zaplacení 7 104 Kč",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cf32e657-d8d1-44bc-b474-a083e4b7aab6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
