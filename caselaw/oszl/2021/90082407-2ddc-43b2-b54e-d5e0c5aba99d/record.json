@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:35.C.265.2020.1",
+  "docket": "35 C 265/2020-94",
+  "date": "2021-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2022-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/90082407-2ddc-43b2-b54e-d5e0c5aba99d",
+  "source_sha256": "433b61525fb0b3c3d73f0cb53ecafd69e1ae7851cc4fb86966bd5405d346d62d",
+  "source_id": "90082407-2ddc-43b2-b54e-d5e0c5aba99d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 265/2020-94",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Martina Kocábová",
+    "ecli": "ECLI:CZ:OSZL:2021:35.C.265.2020.1",
+    "predmetRizeni": "výživné zletilého dítěte",
+    "datumVydani": "2021-04-13",
+    "datumZverejneni": "2022-01-03",
+    "klicovaSlova": [
+      "výživné",
+      "zvýšení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb.",
+      "§ 915 z. č. 89/2012 Sb.",
+      "§ 169 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/90082407-2ddc-43b2-b54e-d5e0c5aba99d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
