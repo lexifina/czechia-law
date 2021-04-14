@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:12.C.123.2010.6",
+  "docket": "12 C 123/2010-135",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d8d8aacf-702a-40fc-8f64-2a1597259738",
+  "source_sha256": "eafbf42f60c7e6b7c52b69b46fd7a83cf3c5b259b1256d015eb1b474aacfffc7",
+  "source_id": "d8d8aacf-702a-40fc-8f64-2a1597259738",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 123/2010-135",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2021:12.C.123.2010.6",
+    "predmetRizeni": "zaplacení částky Kč [číslo] - s přísl.",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 226 z. č. 141/1961 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d8d8aacf-702a-40fc-8f64-2a1597259738"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
