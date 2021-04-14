@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:61.C.259.2020.1",
+  "docket": "61 C 259/2020-20",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f119cd17-b577-4e95-a1db-27edd1683dc8",
+  "source_sha256": "70fc85ba27c0658204973ea041da1ed54bb207184cfc42c5bd7afd9c655ea622",
+  "source_id": "f119cd17-b577-4e95-a1db-27edd1683dc8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 259/2020-20",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Mezníková",
+    "ecli": "ECLI:CZ:MSBR:2021:61.C.259.2020.1",
+    "predmetRizeni": "zaplacení 1.500 Kč s příslušenstvím - náklady na odtah vozidla",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 19 z. č. 13/1997 Sb.",
+      "§ 1723 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f119cd17-b577-4e95-a1db-27edd1683dc8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
