@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:26.C.198.2020.3",
+  "docket": "26 C 198/2020-44",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1acd8e46-6de7-4c5b-a574-ade4331b52a3",
+  "source_sha256": "78f4d99bfeb477feb5ace7ebfb4aada2952329c6fc89e49adbdbdf30cad9ebf6",
+  "source_id": "1acd8e46-6de7-4c5b-a574-ade4331b52a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 198/2020-44",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jiří Šopek",
+    "ecli": "ECLI:CZ:OSOV:2021:26.C.198.2020.3",
+    "predmetRizeni": "o 6 500 Kč + náklady řízení - pracovněprávní vztah",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "dohoda o rozvázání pracovního poměru",
+      "náhrada mzdy",
+      "skončení pracovního poměru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 65 z. č. 262/2006 Sb.",
+      "§ 192 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1acd8e46-6de7-4c5b-a574-ade4331b52a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
