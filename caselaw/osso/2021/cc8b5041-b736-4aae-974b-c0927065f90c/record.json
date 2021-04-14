@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:23.C.64.2020.2",
+  "docket": "23 C 64/2020-18",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc8b5041-b736-4aae-974b-c0927065f90c",
+  "source_sha256": "a3434fe954f4d734fab3562842422d067ad7776b93dfdc8cd78ac5cc81e2f656",
+  "source_id": "cc8b5041-b736-4aae-974b-c0927065f90c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 64/2020-18",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. František Sedláček",
+    "ecli": "ECLI:CZ:OSSO:2021:23.C.64.2020.2",
+    "predmetRizeni": "zaplacení 2 093 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 607 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc8b5041-b736-4aae-974b-c0927065f90c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
