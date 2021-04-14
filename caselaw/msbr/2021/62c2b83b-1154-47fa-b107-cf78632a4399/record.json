@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:31.C.27.2021.1",
+  "docket": "31 C 27/2021-24",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62c2b83b-1154-47fa-b107-cf78632a4399",
+  "source_sha256": "de6033a750fa2c6b2717b99da000e20135b20f065aa0d32b21efb0f0a00aa301",
+  "source_id": "62c2b83b-1154-47fa-b107-cf78632a4399",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 27/2021-24",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Kamila Krausová",
+    "ecli": "ECLI:CZ:MSBR:2021:31.C.27.2021.1",
+    "predmetRizeni": "zaplacení 2.360 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62c2b83b-1154-47fa-b107-cf78632a4399"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
