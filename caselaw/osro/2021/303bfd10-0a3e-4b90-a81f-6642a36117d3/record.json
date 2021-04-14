@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.218.2020.1",
+  "docket": "5 C 218/2020-33",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/303bfd10-0a3e-4b90-a81f-6642a36117d3",
+  "source_sha256": "2d16e68ae66cff015209d141c076ef89122f5b124867f7fea74dde735744c23b",
+  "source_id": "303bfd10-0a3e-4b90-a81f-6642a36117d3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 218/2020-33",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.218.2020.1",
+    "predmetRizeni": "zaplacení 27 764,15 Kč s přísl.",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/303bfd10-0a3e-4b90-a81f-6642a36117d3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
