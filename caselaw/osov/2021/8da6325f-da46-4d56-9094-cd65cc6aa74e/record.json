@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:25.C.200.2020.3",
+  "docket": "25 C 200/2020-49",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8da6325f-da46-4d56-9094-cd65cc6aa74e",
+  "source_sha256": "84557227ebdb6b9aa5b6a5cd97c372d29564e7fcb7fd8650eda89f685d87f606",
+  "source_id": "8da6325f-da46-4d56-9094-cd65cc6aa74e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 200/2020-49",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Lucie Nohelová",
+    "ecli": "ECLI:CZ:OSOV:2021:25.C.200.2020.3",
+    "predmetRizeni": "o vyklizení",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "družstevní byt",
+      "nájem bytu",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1042 z. č. 89/2012 Sb.",
+      "§ 515 z. č. 90/2012 Sb.",
+      "§ 615 z. č. 90/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8da6325f-da46-4d56-9094-cd65cc6aa74e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
