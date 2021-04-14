@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:60.C.20.2021.2",
+  "docket": "60 C 20/2021-24",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7f0af6a-2ded-4d8b-8d9f-aa55527a7310",
+  "source_sha256": "6fde4f82f89b8721ee3dca44379a909f2c96722020442dce7118ea6ac43a2bd5",
+  "source_id": "b7f0af6a-2ded-4d8b-8d9f-aa55527a7310",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 20/2021-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2021:60.C.20.2021.2",
+    "predmetRizeni": "39 173 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 21 z. č. 458/2000 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7f0af6a-2ded-4d8b-8d9f-aa55527a7310"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
