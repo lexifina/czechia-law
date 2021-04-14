@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:14.C.53.2021.1",
+  "docket": "14 C 53/2021-22",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/887da744-7c37-4e2d-8066-63d067ae8684",
+  "source_sha256": "80ed37f76c78eae740e78440097c41e8f9b21ffaf2a70e3fd8112a650bd2a467",
+  "source_id": "887da744-7c37-4e2d-8066-63d067ae8684",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 53/2021-22",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Otto Plachý",
+    "ecli": "ECLI:CZ:OSUL:2021:14.C.53.2021.1",
+    "predmetRizeni": "O zaplacení 8 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/887da744-7c37-4e2d-8066-63d067ae8684"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
