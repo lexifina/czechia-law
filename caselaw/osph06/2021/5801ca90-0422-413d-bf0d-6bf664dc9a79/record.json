@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:9.EC.174.2012.1",
+  "docket": "9 EC 174/2012",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5801ca90-0422-413d-bf0d-6bf664dc9a79",
+  "source_sha256": "38ec9053669670d7cd211b90f5dcc6ce45dcf55ea88b2255ddf15c64ff58c759",
+  "source_id": "5801ca90-0422-413d-bf0d-6bf664dc9a79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 EC 174/2012",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Kateřina Melková",
+    "ecli": "ECLI:CZ:OSPH06:2021:9.EC.174.2012.1",
+    "predmetRizeni": "Návrh na vydání elektronického platebního rozkazu na částku 81.719,00 Kč",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dodávky energie",
+      "obchodní podíl",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 524 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 269 z. č. 513/1991 Sb.",
+      "§ 580 z. č. 40/1964 Sb.",
+      "§ 525 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5801ca90-0422-413d-bf0d-6bf664dc9a79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
