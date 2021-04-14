@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:37.C.43.2021.1",
+  "docket": "37 C 43/2021-29",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a25f217-8c71-4fff-a4b7-0a6393b38d7b",
+  "source_sha256": "cb63dc3158ba0f4fa83a59b10d11cc962c4717cd7882e0672821f99a2e4593f2",
+  "source_id": "8a25f217-8c71-4fff-a4b7-0a6393b38d7b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 43/2021-29",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Roman Koťátko",
+    "ecli": "ECLI:CZ:OSCL:2021:37.C.43.2021.1",
+    "predmetRizeni": "O zaplacení 22 675 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a25f217-8c71-4fff-a4b7-0a6393b38d7b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
