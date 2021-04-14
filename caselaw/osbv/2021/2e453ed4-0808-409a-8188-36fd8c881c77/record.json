@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:16.C.245.2020.1",
+  "docket": "16 C 245/2020-40",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e453ed4-0808-409a-8188-36fd8c881c77",
+  "source_sha256": "cd111f3a345031fffbb8b589c0b65a50957ab4dcb218555cd12416a5d9217fbd",
+  "source_id": "2e453ed4-0808-409a-8188-36fd8c881c77",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 245/2020-40",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Marie Indrišková",
+    "ecli": "ECLI:CZ:OSBV:2021:16.C.245.2020.1",
+    "predmetRizeni": "2.566 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-08-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 2758 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e453ed4-0808-409a-8188-36fd8c881c77"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
