@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:106.C.29.2020.1",
+  "docket": "106 C 29/2020-29",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/77f03dec-af44-4871-8cc5-0dddac33c0da",
+  "source_sha256": "cb5768bb003c5d0b68a0e9fed28be72b8aa69c432b835eddd0d69293566872b9",
+  "source_id": "77f03dec-af44-4871-8cc5-0dddac33c0da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 29/2020-29",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2021:106.C.29.2020.1",
+    "predmetRizeni": "9.582 Kč s přísl. - zboží",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/77f03dec-af44-4871-8cc5-0dddac33c0da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
