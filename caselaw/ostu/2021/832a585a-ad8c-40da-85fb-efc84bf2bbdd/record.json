@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:6.C.66.2021.1",
+  "docket": "6 C 66/2021-33",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/832a585a-ad8c-40da-85fb-efc84bf2bbdd",
+  "source_sha256": "b2e246a2c6a96c900fb3efac89ce1f92bf7c2fd6a8f47896e4a303e96227c003",
+  "source_id": "832a585a-ad8c-40da-85fb-efc84bf2bbdd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 66/2021-33",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2021:6.C.66.2021.1",
+    "predmetRizeni": "zaplacení 32 536,20 Kč s příslušenstvím - dodávky elektřiny",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 50 z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/832a585a-ad8c-40da-85fb-efc84bf2bbdd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
