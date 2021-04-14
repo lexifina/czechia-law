@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:36.C.97.2021.1",
+  "docket": "36 C 97/2021-20",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4fd0fec2-097c-4619-bc25-28ebd6e6fe7a",
+  "source_sha256": "34f4957e98d86d3201731d04b4763acd539c7698cc4b1304eb088c5f0fb2aed2",
+  "source_id": "4fd0fec2-097c-4619-bc25-28ebd6e6fe7a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 97/2021-20",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2021:36.C.97.2021.1",
+    "predmetRizeni": "zaplacení 1 000 Kč",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "jízdné",
+      "oddlužení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 2551 z. č. 89/2012 Sb.",
+      "§ 4 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4fd0fec2-097c-4619-bc25-28ebd6e6fe7a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
