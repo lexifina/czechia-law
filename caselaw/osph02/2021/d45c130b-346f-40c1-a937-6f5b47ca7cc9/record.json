@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:20.C.16.2021.1",
+  "docket": "20 C 16/2021-41",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d45c130b-346f-40c1-a937-6f5b47ca7cc9",
+  "source_sha256": "300d80be89a9f7146336635da264ca64f53662eeb339c385e286212d490b9f96",
+  "source_id": "d45c130b-346f-40c1-a937-6f5b47ca7cc9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 16/2021-41",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Zdeněk Douděra",
+    "ecli": "ECLI:CZ:OSPH02:2021:20.C.16.2021.1",
+    "predmetRizeni": "O zaplacení 2 627 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d45c130b-346f-40c1-a937-6f5b47ca7cc9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
