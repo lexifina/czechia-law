@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:12.C.201.2020.1",
+  "docket": "12 C 201/2020-44",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c0733c48-12c2-4ac3-a156-b534b3278309",
+  "source_sha256": "0064ba65b1d2dd2d8f9fc156e7b7f05a9bbe020d22047beadb8cc73fc2c26953",
+  "source_id": "c0733c48-12c2-4ac3-a156-b534b3278309",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 201/2020-44",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Blanka Jirsáková",
+    "ecli": "ECLI:CZ:OSNB:2021:12.C.201.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c0733c48-12c2-4ac3-a156-b534b3278309"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
