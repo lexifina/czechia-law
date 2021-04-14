@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:12.C.52.2021.1",
+  "docket": "12 C 52/2021-17",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ad3ed190-d7cc-44dc-b5a8-801c5faf942b",
+  "source_sha256": "6f65cb4e83dd8b1a910badbb05ae76a827585c63bc0bfedf45366c99a24de723",
+  "source_id": "ad3ed190-d7cc-44dc-b5a8-801c5faf942b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 52/2021-17",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Magdaléna Renfus, LLM.",
+    "ecli": "ECLI:CZ:OSNA:2021:12.C.52.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ad3ed190-d7cc-44dc-b5a8-801c5faf942b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
