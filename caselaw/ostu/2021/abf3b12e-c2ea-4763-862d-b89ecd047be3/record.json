@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:6.C.70.2021.1",
+  "docket": "6 C 70/2021-35",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/abf3b12e-c2ea-4763-862d-b89ecd047be3",
+  "source_sha256": "1ab3d2355362f5284f7d6aeb7986164ef3a77c0bdc3023c4c05446858a7f066c",
+  "source_id": "abf3b12e-c2ea-4763-862d-b89ecd047be3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 70/2021-35",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2021:6.C.70.2021.1",
+    "predmetRizeni": "zaplacení 6 579,03 Kč s příslušenstvím - el. komunikace",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/abf3b12e-c2ea-4763-862d-b89ecd047be3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
