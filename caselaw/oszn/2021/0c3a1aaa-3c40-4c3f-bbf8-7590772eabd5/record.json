@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:9.C.54.2021.1",
+  "docket": "9 C 54/2021-31",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c3a1aaa-3c40-4c3f-bbf8-7590772eabd5",
+  "source_sha256": "9f2ebfdc02a4bf867dee386d283a7a8b50969a72e16877a446bf1986d21bd1ac",
+  "source_id": "0c3a1aaa-3c40-4c3f-bbf8-7590772eabd5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 54/2021-31",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Marie Hladíková",
+    "ecli": "ECLI:CZ:OSZN:2021:9.C.54.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c3a1aaa-3c40-4c3f-bbf8-7590772eabd5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
