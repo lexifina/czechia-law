@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:42.C.83.2021.1",
+  "docket": "42 C 83/2021-17",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bc716894-0472-4ddc-92dc-6a7a8cea5a49",
+  "source_sha256": "f2d7fa80818ea5d12ba157e582fd95eeec09e9169bbb9647fb400b32b0ccb2d4",
+  "source_id": "bc716894-0472-4ddc-92dc-6a7a8cea5a49",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 83/2021-17",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Věra Voštová",
+    "ecli": "ECLI:CZ:OSSO:2021:42.C.83.2021.1",
+    "predmetRizeni": "zaplacení 1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bc716894-0472-4ddc-92dc-6a7a8cea5a49"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
