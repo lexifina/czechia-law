@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:18.C.252.2020.1",
+  "docket": "18 C 252/2020-33",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b54eb729-0421-4682-86b6-78cb5d7da216",
+  "source_sha256": "d387d1e5bcacd641c2974127acc6cd51e0685c919c99b1c4dda9afbc7685d0a4",
+  "source_id": "b54eb729-0421-4682-86b6-78cb5d7da216",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 252/2020-33",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Eva Němečková",
+    "ecli": "ECLI:CZ:OSPH09:2021:18.C.252.2020.1",
+    "predmetRizeni": "vyklizení nemovitosti",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pěstounská péče",
+      "předkupní právo",
+      "smlouva nájemní",
+      "smlouva o zápůjčce",
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b54eb729-0421-4682-86b6-78cb5d7da216"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
