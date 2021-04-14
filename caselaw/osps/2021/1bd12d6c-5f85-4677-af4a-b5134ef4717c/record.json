@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:5.C.166.2020.2",
+  "docket": "5 C 166/2020-50",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1bd12d6c-5f85-4677-af4a-b5134ef4717c",
+  "source_sha256": "2b863d76052868235a7294bcf62a78814a66d96df19a30b267cd8cb006affc49",
+  "source_id": "1bd12d6c-5f85-4677-af4a-b5134ef4717c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 166/2020-50",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Antonín Pektor",
+    "ecli": "ECLI:CZ:OSPS:2021:5.C.166.2020.2",
+    "predmetRizeni": "[číslo], [anonymizováno] Kč s přísl.",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "lichva",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "úroky",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 2395-2400 z. č. 89/2012 Sb.",
+      "§ 2048-2052 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1bd12d6c-5f85-4677-af4a-b5134ef4717c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
