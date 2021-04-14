@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.361.2020 .1",
+  "docket": "13 C 361/2020-25",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e9e6e57a-9639-4e7d-840f-c97f3374b3ea",
+  "source_sha256": "df5c1c723c1ef1d25f3754fb11c49231a46ee55c1cc324af2356640218b01b72",
+  "source_id": "e9e6e57a-9639-4e7d-840f-c97f3374b3ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 361/2020-25",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.361.2020 .1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e9e6e57a-9639-4e7d-840f-c97f3374b3ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
