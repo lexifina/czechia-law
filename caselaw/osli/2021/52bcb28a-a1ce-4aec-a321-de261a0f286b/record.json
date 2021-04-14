@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.13.2021.1",
+  "docket": "17 C 13/2021-17",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/52bcb28a-a1ce-4aec-a321-de261a0f286b",
+  "source_sha256": "ee7917a96689714bb8f0afe108a6e94d452c2c0ccdcb9969fa8af3b1239a1049",
+  "source_id": "52bcb28a-a1ce-4aec-a321-de261a0f286b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 13/2021-17",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.13.2021.1",
+    "predmetRizeni": "zaplacení částky 2 040 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/52bcb28a-a1ce-4aec-a321-de261a0f286b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
