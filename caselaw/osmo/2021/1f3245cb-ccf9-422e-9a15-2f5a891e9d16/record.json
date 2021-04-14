@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:22.C.52.2021.2",
+  "docket": "22 C 52/2021-21",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f3245cb-ccf9-422e-9a15-2f5a891e9d16",
+  "source_sha256": "e2b3ae8f5a07cda49ec6d2819f87c5526c23188cc1a7ca1012dbcc0f42c04e29",
+  "source_id": "1f3245cb-ccf9-422e-9a15-2f5a891e9d16",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 52/2021-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Denisa Hamerská",
+    "ecli": "ECLI:CZ:OSMO:2021:22.C.52.2021.2",
+    "predmetRizeni": "5 231 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§ 1725 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f3245cb-ccf9-422e-9a15-2f5a891e9d16"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
