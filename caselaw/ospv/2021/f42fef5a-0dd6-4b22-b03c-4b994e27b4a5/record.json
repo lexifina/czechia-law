@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.398.2020 .1",
+  "docket": "13 C 398/2020-59",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f42fef5a-0dd6-4b22-b03c-4b994e27b4a5",
+  "source_sha256": "caf13b8105281b4ef9631ab11851f4d31d049bc1166f76c88223dbaf39690f2f",
+  "source_id": "f42fef5a-0dd6-4b22-b03c-4b994e27b4a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 398/2020-59",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.398.2020 .1",
+    "predmetRizeni": "o zaplacení 1.914,50 Kč",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f42fef5a-0dd6-4b22-b03c-4b994e27b4a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
