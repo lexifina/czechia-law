@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:37.C.44.2021.1",
+  "docket": "37 C 44/2021-13",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/68ed3152-5468-44b2-aaba-e3206fd02a0b",
+  "source_sha256": "bf3c57aa99538a34373e392080a76f7b4c3d13f1ff633f7808dd1fdcad55f23b",
+  "source_id": "68ed3152-5468-44b2-aaba-e3206fd02a0b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 44/2021-13",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Roman Koťátko",
+    "ecli": "ECLI:CZ:OSCL:2021:37.C.44.2021.1",
+    "predmetRizeni": "O zaplacení 1 510 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 2550 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/68ed3152-5468-44b2-aaba-e3206fd02a0b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
