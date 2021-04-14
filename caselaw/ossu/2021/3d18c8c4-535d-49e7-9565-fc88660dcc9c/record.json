@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:16.C.9.2021.1",
+  "docket": "16 C 9/2021-32",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3d18c8c4-535d-49e7-9565-fc88660dcc9c",
+  "source_sha256": "f1d6aac052272747971dba91c44c7eb8bf0f605288d110f335fc558dcedbb564",
+  "source_id": "3d18c8c4-535d-49e7-9565-fc88660dcc9c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 9/2021-32",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Simona Řežuchová",
+    "ecli": "ECLI:CZ:OSSU:2021:16.C.9.2021.1",
+    "predmetRizeni": "o 8.337 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3d18c8c4-535d-49e7-9565-fc88660dcc9c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
