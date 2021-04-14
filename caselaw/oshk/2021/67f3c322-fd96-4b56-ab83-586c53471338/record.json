@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:12.C.33.2021.1",
+  "docket": "12 C 33/2021-16",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/67f3c322-fd96-4b56-ab83-586c53471338",
+  "source_sha256": "16d7f40bcbe24562ea65587a0640deea2534064cba06ebcbe296b01d7c5ea23c",
+  "source_id": "67f3c322-fd96-4b56-ab83-586c53471338",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 33/2021-16",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milan Plhal",
+    "ecli": "ECLI:CZ:OSHK:2021:12.C.33.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 520 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/67f3c322-fd96-4b56-ab83-586c53471338"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
