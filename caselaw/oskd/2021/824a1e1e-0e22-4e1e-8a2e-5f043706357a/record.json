@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:214.C.58.2021.1",
+  "docket": "214 C 58/2021",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/824a1e1e-0e22-4e1e-8a2e-5f043706357a",
+  "source_sha256": "b08c80f6dfe3167dba059453e6483b0ed8bf3e207bc1b4a175ac0bda737d9571",
+  "source_id": "824a1e1e-0e22-4e1e-8a2e-5f043706357a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "214 C 58/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Evženie Vodová",
+    "ecli": "ECLI:CZ:OSKD:2021:214.C.58.2021.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2316 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/824a1e1e-0e22-4e1e-8a2e-5f043706357a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
