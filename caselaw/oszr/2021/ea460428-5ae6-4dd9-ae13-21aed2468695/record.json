@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.261.2020.1",
+  "docket": "12 C 261/2020-20",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea460428-5ae6-4dd9-ae13-21aed2468695",
+  "source_sha256": "5ba99ad736185089f0fb9e7e09c5df2171d3f3c40251a48f96fd4440d1232d8f",
+  "source_id": "ea460428-5ae6-4dd9-ae13-21aed2468695",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 261/2020-20",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.261.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea460428-5ae6-4dd9-ae13-21aed2468695"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
