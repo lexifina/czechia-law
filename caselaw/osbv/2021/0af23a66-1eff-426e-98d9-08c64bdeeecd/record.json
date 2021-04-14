@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:7.C.21.2021.1",
+  "docket": "7 C 21/2021-41",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0af23a66-1eff-426e-98d9-08c64bdeeecd",
+  "source_sha256": "2ce197ba5426075809b810b856cb942de83015cb8c99e856ee6f04d3a17f9baa",
+  "source_id": "0af23a66-1eff-426e-98d9-08c64bdeeecd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 21/2021-41",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. PhDr. Roman Novák",
+    "ecli": "ECLI:CZ:OSBV:2021:7.C.21.2021.1",
+    "predmetRizeni": "11.714 Kč s příslušenstvím",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 8 z. č. 274/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0af23a66-1eff-426e-98d9-08c64bdeeecd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
