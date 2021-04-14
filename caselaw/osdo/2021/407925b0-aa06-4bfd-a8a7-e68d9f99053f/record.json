@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:11.C.88.2020.2",
+  "docket": "11 C 88/2020-91",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/407925b0-aa06-4bfd-a8a7-e68d9f99053f",
+  "source_sha256": "ddc37df7271164bae2cbf0e6a8e3cbb992b993652288d39c71d2fbbe7f0f4ae4",
+  "source_id": "407925b0-aa06-4bfd-a8a7-e68d9f99053f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 88/2020-91",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2021:11.C.88.2020.2",
+    "predmetRizeni": "o zapl. 124.837 Kč s přísl.",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-10-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 1419 z. č. 89/2012 Sb.",
+      "§ 1420 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/407925b0-aa06-4bfd-a8a7-e68d9f99053f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
