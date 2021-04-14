@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:10.C.315.2020.3",
+  "docket": "10 C 315/2020-26",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd4bb02f-1d18-4110-8b77-f6c3818974b5",
+  "source_sha256": "d24db7e2ef19259fc184a9654ef4162179c0bfb2ca0f42a517191fa10d8cd1ea",
+  "source_id": "fd4bb02f-1d18-4110-8b77-f6c3818974b5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 315/2020-26",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPS:2021:10.C.315.2020.3",
+    "predmetRizeni": "6 904 Kč s přísl.",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd4bb02f-1d18-4110-8b77-f6c3818974b5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
