@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:16.C.96.2020.1",
+  "docket": "16 C 96/2020-32",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a736e7fb-752c-4874-86f1-55f6befc4b93",
+  "source_sha256": "6fb232317c3672195b943de70db154bdf3df4714e800a9c9d83d18c9a5f2f649",
+  "source_id": "a736e7fb-752c-4874-86f1-55f6befc4b93",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 96/2020-32",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Simona Řežuchová",
+    "ecli": "ECLI:CZ:OSSU:2021:16.C.96.2020.1",
+    "predmetRizeni": "o rozvod",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 15a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a736e7fb-752c-4874-86f1-55f6befc4b93"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
