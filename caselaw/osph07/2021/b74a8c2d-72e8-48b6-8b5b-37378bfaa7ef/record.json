@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:4.C.178.2018.5",
+  "docket": "4 C 178/2018-36",
+  "date": "2021-04-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b74a8c2d-72e8-48b6-8b5b-37378bfaa7ef",
+  "source_sha256": "8e7ad559123685fd7ae9cfa093259b630263faa660bed845565afa0bc25afe3b",
+  "source_id": "b74a8c2d-72e8-48b6-8b5b-37378bfaa7ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 178/2018-36",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Tomáš Mottl",
+    "ecli": "ECLI:CZ:OSPH07:2021:4.C.178.2018.5",
+    "predmetRizeni": "Žaloba dle § 299 zákona o zvl. řízeních soudních",
+    "datumVydani": "2021-04-14",
+    "datumZverejneni": "2021-11-22",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 159a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b74a8c2d-72e8-48b6-8b5b-37378bfaa7ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
