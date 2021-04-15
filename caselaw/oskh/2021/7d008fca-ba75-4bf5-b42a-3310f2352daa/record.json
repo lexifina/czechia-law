@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:11.C.104.2021.1",
+  "docket": "11 C 104/2021-13",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d008fca-ba75-4bf5-b42a-3310f2352daa",
+  "source_sha256": "ddadd1f892c0db82041436ffe05c71adb40163e2a649c653288af974ea115283",
+  "source_id": "7d008fca-ba75-4bf5-b42a-3310f2352daa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 104/2021-13",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Tereza Martínková",
+    "ecli": "ECLI:CZ:OSKH:2021:11.C.104.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d008fca-ba75-4bf5-b42a-3310f2352daa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
