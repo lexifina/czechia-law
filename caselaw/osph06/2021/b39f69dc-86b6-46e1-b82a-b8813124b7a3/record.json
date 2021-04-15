@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:28.C.375.2020.1",
+  "docket": "28 C 375/2020-21",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b39f69dc-86b6-46e1-b82a-b8813124b7a3",
+  "source_sha256": "89c857b0e33e363651412a8fd53d5e435d0414bffe4a637e4df790a3d37f34e1",
+  "source_id": "b39f69dc-86b6-46e1-b82a-b8813124b7a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 375/2020-21",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Hana Šedivá",
+    "ecli": "ECLI:CZ:OSPH06:2021:28.C.375.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 716 z. č. 89/2012 Sb.",
+      "§ 736 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b39f69dc-86b6-46e1-b82a-b8813124b7a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
