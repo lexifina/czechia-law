@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:4.C.37.2021.1",
+  "docket": "4 C 37/2021-39",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a116ba68-48c9-4c1f-b819-1cfa0baceb17",
+  "source_sha256": "d9365e1815b6b85cf2bc9dcfab76c3a54d1b3657766377d5eef27428ec74e061",
+  "source_id": "a116ba68-48c9-4c1f-b819-1cfa0baceb17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 37/2021-39",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2021:4.C.37.2021.1",
+    "predmetRizeni": "zaplacení částky 10 000 Kč s příslušenstvím - dluh",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2202 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a116ba68-48c9-4c1f-b819-1cfa0baceb17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
