@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:24.C.196.2020.1",
+  "docket": "24 C 196/2020-41",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b1db6b0-a3d3-4668-a529-ac6131347fa6",
+  "source_sha256": "2e695b784f0ba9e53bc406553c86d5b26527ef90c12dbd8fd08b498d968d7ac5",
+  "source_id": "7b1db6b0-a3d3-4668-a529-ac6131347fa6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 196/2020-41",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Lucie Lubasová",
+    "ecli": "ECLI:CZ:OSPU:2021:24.C.196.2020.1",
+    "predmetRizeni": "o zaplacení 1 190,64 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-09-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§  z. č. 48/1997 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b1db6b0-a3d3-4668-a529-ac6131347fa6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
