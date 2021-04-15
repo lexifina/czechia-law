@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:38.C.59.2021.1",
+  "docket": "38 C 59/2021-64",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d95d2dd2-9e9d-4516-bda8-5c27bd3e487a",
+  "source_sha256": "e16a121b7c7cfd8a39e2ebdf9ad5482d9a3ce06619692ee223f354c22415f6ac",
+  "source_id": "d95d2dd2-9e9d-4516-bda8-5c27bd3e487a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 59/2021-64",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Jiří Němec",
+    "ecli": "ECLI:CZ:OSZL:2021:38.C.59.2021.1",
+    "predmetRizeni": "zaplacení 11 627 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "příspěvek na bydlení",
+      "smlouva nájemní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d95d2dd2-9e9d-4516-bda8-5c27bd3e487a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
