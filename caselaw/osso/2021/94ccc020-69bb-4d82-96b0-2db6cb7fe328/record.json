@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:10.C.18.2021.3",
+  "docket": "10 C 18/2021-25",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94ccc020-69bb-4d82-96b0-2db6cb7fe328",
+  "source_sha256": "800bac85dcc518e78c5f422b3b072da030bd7439c33c8d15df99327dce912f63",
+  "source_id": "94ccc020-69bb-4d82-96b0-2db6cb7fe328",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 18/2021-25",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Ivana Hovorková",
+    "ecli": "ECLI:CZ:OSSO:2021:10.C.18.2021.3",
+    "predmetRizeni": "zaplacení 11 123,83 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94ccc020-69bb-4d82-96b0-2db6cb7fe328"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
