@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:49.C.158.2020.1",
+  "docket": "49 C 158/2020-57",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9075397f-77a2-45ba-a55a-19fa6c855584",
+  "source_sha256": "30f33384c1775c8ea39a2ee2a12a9b279ecf849a8766a6a6186e04e059358181",
+  "source_id": "9075397f-77a2-45ba-a55a-19fa6c855584",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "49 C 158/2020-57",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Monika Schön, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:49.C.158.2020.1",
+    "predmetRizeni": "zaplacení 23.245 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9075397f-77a2-45ba-a55a-19fa6c855584"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
