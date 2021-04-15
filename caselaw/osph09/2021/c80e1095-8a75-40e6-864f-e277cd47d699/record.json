@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:19.C.32.2021.1",
+  "docket": "19 C 32/2021-19",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c80e1095-8a75-40e6-864f-e277cd47d699",
+  "source_sha256": "32600eadef6faf9f09ecd9f40d3fe5dc3127a74f732bdef09cf3cf14f8fe99dc",
+  "source_id": "c80e1095-8a75-40e6-864f-e277cd47d699",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 32/2021-19",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Radmila Chadimová",
+    "ecli": "ECLI:CZ:OSPH09:2021:19.C.32.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c80e1095-8a75-40e6-864f-e277cd47d699"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
