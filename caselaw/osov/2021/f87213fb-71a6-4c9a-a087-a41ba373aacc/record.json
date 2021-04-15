@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:34.C.451.2020.3",
+  "docket": "34 C 451/2020-41",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f87213fb-71a6-4c9a-a087-a41ba373aacc",
+  "source_sha256": "34f3365e2aa83fca2246de465d5b51b005c05489830f5bfe6dfc9f8a91c49927",
+  "source_id": "f87213fb-71a6-4c9a-a087-a41ba373aacc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 451/2020-41",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jana Bojková",
+    "ecli": "ECLI:CZ:OSOV:2021:34.C.451.2020.3",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 398 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f87213fb-71a6-4c9a-a087-a41ba373aacc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
