@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:5.C.167.2019.1",
+  "docket": "5 C 167/2019-55",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecb14d2e-642f-40ae-aae4-bc9d63d647c7",
+  "source_sha256": "2a40d32c51aa1e2e780be3111c3b0c9de0591885e7286e5c87a6e54c8b21c7dc",
+  "source_id": "ecb14d2e-642f-40ae-aae4-bc9d63d647c7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 167/2019-55",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Pavla Doupovcová",
+    "ecli": "ECLI:CZ:OSPV:2021:5.C.167.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecb14d2e-642f-40ae-aae4-bc9d63d647c7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
