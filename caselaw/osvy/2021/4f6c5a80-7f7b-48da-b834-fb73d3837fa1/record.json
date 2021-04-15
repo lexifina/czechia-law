@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:10.C.25.2009.1",
+  "docket": "10 C 25/2009-98",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f6c5a80-7f7b-48da-b834-fb73d3837fa1",
+  "source_sha256": "5ad0997ea6b347205e21931ae4e20b6e235163af02e6f14dd164c6175f639faf",
+  "source_id": "4f6c5a80-7f7b-48da-b834-fb73d3837fa1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 25/2009-98",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Mgr. Aleš Vylam",
+    "ecli": "ECLI:CZ:OSVY:2021:10.C.25.2009.1",
+    "predmetRizeni": "zaplacení částky 1.013 - Kč s přísl. - jízdné",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 524 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 484/2000 Sb.",
+      "§ 879a z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f6c5a80-7f7b-48da-b834-fb73d3837fa1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
