@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:15.C.373.2020.1",
+  "docket": "15 C 373/2020",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0cfb1d71-c726-4c2f-a7f8-74f329b1c340",
+  "source_sha256": "3925fab1deecd9cbdd73b7608f0394c0c6673fd32b7bd6e3d8f73638c07eae51",
+  "source_id": "0cfb1d71-c726-4c2f-a7f8-74f329b1c340",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 373/2020",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "JUDr. Kateřina Holubová",
+    "ecli": "ECLI:CZ:OSME:2021:15.C.373.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0cfb1d71-c726-4c2f-a7f8-74f329b1c340"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
