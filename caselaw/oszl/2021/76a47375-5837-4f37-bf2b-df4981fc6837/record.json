@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:46.C.75.2021.1",
+  "docket": "46 C 75/2021-25",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/76a47375-5837-4f37-bf2b-df4981fc6837",
+  "source_sha256": "434a86ed4873a07a7ced36b3d5c4fac1227bdbc27de8ab49b7f96fe60a454675",
+  "source_id": "76a47375-5837-4f37-bf2b-df4981fc6837",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 75/2021-25",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Tomáš Pavlíček",
+    "ecli": "ECLI:CZ:OSZL:2021:46.C.75.2021.1",
+    "predmetRizeni": "zaplacení 10 000 Kč",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/76a47375-5837-4f37-bf2b-df4981fc6837"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
