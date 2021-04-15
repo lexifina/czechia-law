@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:10.C.202.2020.1",
+  "docket": "10 C 202/2020-31",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2784497-2923-4799-bdc1-1b4ccbd5d19a",
+  "source_sha256": "9ea6d2df03baa740dd42e83cdc95301bbc925a1855ee77730544f37621b47b94",
+  "source_id": "f2784497-2923-4799-bdc1-1b4ccbd5d19a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 202/2020-31",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jarmila Krejzková",
+    "ecli": "ECLI:CZ:OSZR:2021:10.C.202.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2784497-2923-4799-bdc1-1b4ccbd5d19a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
