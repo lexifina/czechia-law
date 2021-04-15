@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:23.C.78.2021.1",
+  "docket": "23 C 78/2021",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d7f1b67-3750-4c85-a62b-daf3d4809df8",
+  "source_sha256": "20f49a27b3b34ba28c6a44cbdd4d07f1d37a9bfc6fd15b5c8da78cda99d48ea2",
+  "source_id": "9d7f1b67-3750-4c85-a62b-daf3d4809df8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 78/2021",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Pavel Preisler, Ph.D.",
+    "ecli": "ECLI:CZ:OSLI:2021:23.C.78.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 28.518,21 Kč s přísl.",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d7f1b67-3750-4c85-a62b-daf3d4809df8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
