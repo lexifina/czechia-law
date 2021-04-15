@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:35.C.11.2019.1",
+  "docket": "35 C 11/2019-69",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0026e6bc-f9cc-4c3d-aec6-e9d9052c7c91",
+  "source_sha256": "4e9d55f2517557771befd12f6ae0f1a64ace87cf9ca1fcffa7ccf66aeafd49e4",
+  "source_id": "0026e6bc-f9cc-4c3d-aec6-e9d9052c7c91",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 11/2019-69",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lucie Vymětalová",
+    "ecli": "ECLI:CZ:MSBR:2021:35.C.11.2019.1",
+    "predmetRizeni": "zaplacení 199.458 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0026e6bc-f9cc-4c3d-aec6-e9d9052c7c91"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
