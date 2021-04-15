@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:9.C.184.2020.1",
+  "docket": "9 C 184/2020-58",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6f3aaf6-3a31-4b8c-bac3-a2a157530fe4",
+  "source_sha256": "0f6406c3ad5178c057e2e200ec2118b820f9066cf3ffa1c45c254c12abc48dd3",
+  "source_id": "e6f3aaf6-3a31-4b8c-bac3-a2a157530fe4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 184/2020-58",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "JUDr. Adéla Sedláčková, LL.M.",
+    "ecli": "ECLI:CZ:OSSU:2021:9.C.184.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "investiční fond",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6f3aaf6-3a31-4b8c-bac3-a2a157530fe4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
