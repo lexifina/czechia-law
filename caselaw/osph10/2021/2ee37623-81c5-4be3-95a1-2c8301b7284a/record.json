@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:17.C.342.2020.1",
+  "docket": "17 C 342/2020-26",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ee37623-81c5-4be3-95a1-2c8301b7284a",
+  "source_sha256": "13fd0bc94530b6202293da2a026ae3cd6aa9560bdd853c431bae12b06b192529",
+  "source_id": "2ee37623-81c5-4be3-95a1-2c8301b7284a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 342/2020-26",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Alena Novotná",
+    "ecli": "ECLI:CZ:OSPH10:2021:17.C.342.2020.1",
+    "predmetRizeni": "[částka]",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ee37623-81c5-4be3-95a1-2c8301b7284a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
