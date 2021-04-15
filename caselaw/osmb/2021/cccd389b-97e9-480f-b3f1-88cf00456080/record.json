@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:20.C.82.2020.1",
+  "docket": "20 C 82/2020-90",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cccd389b-97e9-480f-b3f1-88cf00456080",
+  "source_sha256": "47279a5626bc2550eda6ef7d477fb635e3eaa688405cd4da2304f342fb1abb7a",
+  "source_id": "cccd389b-97e9-480f-b3f1-88cf00456080",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 82/2020-90",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Petra Svobodová",
+    "ecli": "ECLI:CZ:OSMB:2021:20.C.82.2020.1",
+    "predmetRizeni": "o zaplacení 65 072 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-11-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cccd389b-97e9-480f-b3f1-88cf00456080"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
