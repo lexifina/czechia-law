@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:18.C.46.2021.1",
+  "docket": "18 C 46/2021-21",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9a22a31-321c-4d41-ac6c-05ca348e8995",
+  "source_sha256": "4e20fc06653bb7b672b33c41d8918224f1f14b63d3fcb01f47888cfd941e031b",
+  "source_id": "d9a22a31-321c-4d41-ac6c-05ca348e8995",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 46/2021-21",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Petra Pipková",
+    "ecli": "ECLI:CZ:OSJI:2021:18.C.46.2021.1",
+    "predmetRizeni": "o 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 89b z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9a22a31-321c-4d41-ac6c-05ca348e8995"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
