@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:18.C.25.2021.1",
+  "docket": "18 C 25/2021-19",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efa6058e-8a82-48b9-91cf-861240293dcb",
+  "source_sha256": "0452dfce22601f950ed37b400dfeb1d91c453a8b31b0206e3568b5ec101e3ca6",
+  "source_id": "efa6058e-8a82-48b9-91cf-861240293dcb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 25/2021-19",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Eva Tabetová",
+    "ecli": "ECLI:CZ:OSHK:2021:18.C.25.2021.1",
+    "predmetRizeni": "o zaplacení částky 19 150 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "insolvence",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 634/1992 Sb.",
+      "§ 586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efa6058e-8a82-48b9-91cf-861240293dcb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
