@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:5.C.55.2021.1",
+  "docket": "5 C 55/2021-21",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd9f9bd9-d29f-4419-be0b-2e13a1431999",
+  "source_sha256": "05fcaeea76a8aa9a52dc6b9d583aa6623a0722fa2ed3b69b8b291c952aebcdbc",
+  "source_id": "dd9f9bd9-d29f-4419-be0b-2e13a1431999",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 55/2021-21",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Martin Nováček",
+    "ecli": "ECLI:CZ:OSPE:2021:5.C.55.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 1792 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd9f9bd9-d29f-4419-be0b-2e13a1431999"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
