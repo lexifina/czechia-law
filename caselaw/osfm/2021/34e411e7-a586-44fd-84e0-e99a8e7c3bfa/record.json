@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:14.C.14.2021.1",
+  "docket": "14 C 14/2021-22",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/34e411e7-a586-44fd-84e0-e99a8e7c3bfa",
+  "source_sha256": "7b741027aff5b312c1b76115eda6a25e5f8ea17528e67488855f1103e1d5b423",
+  "source_id": "34e411e7-a586-44fd-84e0-e99a8e7c3bfa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 14/2021-22",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Szkanderová",
+    "ecli": "ECLI:CZ:OSFM:2021:14.C.14.2021.1",
+    "predmetRizeni": "O zaplacení 4 964 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34e411e7-a586-44fd-84e0-e99a8e7c3bfa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
