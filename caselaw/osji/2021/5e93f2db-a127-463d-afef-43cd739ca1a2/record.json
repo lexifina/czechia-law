@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:8.C.20.2021.1",
+  "docket": "8 C 20/2021-26",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5e93f2db-a127-463d-afef-43cd739ca1a2",
+  "source_sha256": "32f9056f466ab4438b680c6490b5a0f8f5325c487348862191a9d71aefed65ef",
+  "source_id": "5e93f2db-a127-463d-afef-43cd739ca1a2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 20/2021-26",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Radek Pavlačka",
+    "ecli": "ECLI:CZ:OSJI:2021:8.C.20.2021.1",
+    "predmetRizeni": "o 927,71 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5e93f2db-a127-463d-afef-43cd739ca1a2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
