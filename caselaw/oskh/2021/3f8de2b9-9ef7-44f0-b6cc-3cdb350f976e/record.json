@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:9.C.84.2021.1",
+  "docket": "9 C 84/2021-34",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f8de2b9-9ef7-44f0-b6cc-3cdb350f976e",
+  "source_sha256": "20632a6ab0e5fe16ce160fe44328b1b7f966c6c5310faa4ee855fa415099acf0",
+  "source_id": "3f8de2b9-9ef7-44f0-b6cc-3cdb350f976e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 84/2021-34",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jan Buchar",
+    "ecli": "ECLI:CZ:OSKH:2021:9.C.84.2021.1",
+    "predmetRizeni": "o zaplacení 50 932,88 Kč s příslušenstvím",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 110 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f8de2b9-9ef7-44f0-b6cc-3cdb350f976e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
