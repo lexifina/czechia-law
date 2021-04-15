@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:8.C.4.2021.1",
+  "docket": "8 C 4/2021",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/56f8f0d1-ee89-4e67-8828-0de4554db3f6",
+  "source_sha256": "bb85bd8e184b1d26c48764ef13b7376fea08e6ccb6da264104114eaf814f6d70",
+  "source_id": "56f8f0d1-ee89-4e67-8828-0de4554db3f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 4/2021",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2021:8.C.4.2021.1",
+    "predmetRizeni": "zaplacení 2 799,89 Kč s přísl.",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/56f8f0d1-ee89-4e67-8828-0de4554db3f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
