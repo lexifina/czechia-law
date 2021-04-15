@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:62.C.81.2021.1",
+  "docket": "62 C 81/2021-10",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae542e01-f45a-43c8-abfb-00fae5aa8a2a",
+  "source_sha256": "ba593bd2012a17cf41a663cd5f6115eaf0aedba6bff452aa479900c9eef1e391",
+  "source_id": "ae542e01-f45a-43c8-abfb-00fae5aa8a2a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 81/2021-10",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2021:62.C.81.2021.1",
+    "predmetRizeni": "o osvojení zletilého",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "osvojení",
+      "osvojení zletilého"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 847 z. č. 89/2012 Sb.",
+      "§ 846 z. č. 89/2012 Sb.",
+      "§ 797 z. č. 89/2012 Sb.",
+      "§ 852 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae542e01-f45a-43c8-abfb-00fae5aa8a2a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
