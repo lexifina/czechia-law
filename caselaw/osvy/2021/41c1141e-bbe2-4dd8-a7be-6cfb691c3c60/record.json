@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:8.C.103.2020.1",
+  "docket": "8 C 103/2020-45",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41c1141e-bbe2-4dd8-a7be-6cfb691c3c60",
+  "source_sha256": "3079395c25b6c24b509824b2e13ac7541b45ae01dd277f73f3641d5604f0de4c",
+  "source_id": "41c1141e-bbe2-4dd8-a7be-6cfb691c3c60",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 103/2020-45",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Dita Coufalová",
+    "ecli": "ECLI:CZ:OSVY:2021:8.C.103.2020.1",
+    "predmetRizeni": "zaplacení částky 9 773 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41c1141e-bbe2-4dd8-a7be-6cfb691c3c60"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
