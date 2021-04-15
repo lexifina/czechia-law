@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:44.C.28.2021.1",
+  "docket": "44 C 28/2021-25",
+  "date": "2021-04-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd39c06a-21e2-45f0-a46a-20a3f4bca86a",
+  "source_sha256": "068e5e05d6503376811e42712d9428ec574b88d85ac63ca9b29fd1974808bef9",
+  "source_id": "dd39c06a-21e2-45f0-a46a-20a3f4bca86a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 28/2021-25",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ing. Daniel Bartoň",
+    "ecli": "ECLI:CZ:MSBR:2021:44.C.28.2021.1",
+    "predmetRizeni": "zaplacení 1.485 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-04-15",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd39c06a-21e2-45f0-a46a-20a3f4bca86a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
