@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:115.C.213.2020.1",
+  "docket": "115 C 213/2020-69",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f4c5f74c-166a-4c93-b276-ebcc5588d308",
+  "source_sha256": "dc6abc6bb4e564632a6ca71177852cc39bc353de061c9c1478d5c98f434cf81c",
+  "source_id": "f4c5f74c-166a-4c93-b276-ebcc5588d308",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 213/2020-69",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Slaná",
+    "ecli": "ECLI:CZ:MSBR:2021:115.C.213.2020.1",
+    "predmetRizeni": "zaplacení 7.342,68 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f4c5f74c-166a-4c93-b276-ebcc5588d308"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
