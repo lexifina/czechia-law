@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:34.C.37.2021.1",
+  "docket": "34 C 37/2021-14",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b63146f6-82fd-4631-8127-084baa547759",
+  "source_sha256": "5aca785855e79b3b5e42f09db6a00239f12e9fd0d8766becd28e14686e03c212",
+  "source_id": "b63146f6-82fd-4631-8127-084baa547759",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 37/2021-14",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Tomáš Kamenický",
+    "ecli": "ECLI:CZ:OSPM:2021:34.C.37.2021.1",
+    "predmetRizeni": "O zaplacení 9 958,45 Kč s příslušenstvím",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b63146f6-82fd-4631-8127-084baa547759"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
