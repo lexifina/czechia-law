@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.21.2021.1",
+  "docket": "36 C 21/2021",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/38104df0-9722-4e2b-b719-8f8c4f40babe",
+  "source_sha256": "02004678d96d917c4979116b92ffcab60d518130ba23c4934e440eb88627e3f0",
+  "source_id": "38104df0-9722-4e2b-b719-8f8c4f40babe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 21/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.21.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/38104df0-9722-4e2b-b719-8f8c4f40babe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
