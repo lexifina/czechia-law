@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:7.C.257.2020.5",
+  "docket": "7 C 257/2020-193",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f26a196-73e5-4a78-8466-7ab49111385b",
+  "source_sha256": "0690e3a11ca32e2d593d5026b1cbd03b7f3a5b83fbe8ae0bde439685414d6b0c",
+  "source_id": "0f26a196-73e5-4a78-8466-7ab49111385b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 257/2020-193",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Daniel Levý",
+    "ecli": "ECLI:CZ:OSCK:2021:7.C.257.2020.5",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f26a196-73e5-4a78-8466-7ab49111385b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
