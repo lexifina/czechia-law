@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:13.C.32.2021.1",
+  "docket": "13 C 32/2021-87",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c5d1187d-cb40-4fd9-a1b7-80d48694e4ad",
+  "source_sha256": "842beca2cc7d578a23bfff5032d5a29fab32174a2bd382e8d2846f1319f91a78",
+  "source_id": "c5d1187d-cb40-4fd9-a1b7-80d48694e4ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 32/2021-87",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Šoljaková",
+    "ecli": "ECLI:CZ:OSLI:2021:13.C.32.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 181.515,92 Kč s přísl.",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo",
+      "započtení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3036 z. č. 89/2012 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 554 z. č. 89/2012 Sb.",
+      "§ 553 z. č. 89/2012 Sb.",
+      "§ 397 z. č. 513/1991 Sb.",
+      "§ 536 z. č. 513/1991 Sb.",
+      "§ 548 z. č. 513/1991 Sb.",
+      "§ 388 z. č. 513/1991 Sb.",
+      "§ 391 z. č. 513/1991 Sb.",
+      "§ 392 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c5d1187d-cb40-4fd9-a1b7-80d48694e4ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
