@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:13.C.84.2021.1",
+  "docket": "13 C 84/2021-11",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2f3da1ea-49ce-4b1b-a381-3529cb4828e2",
+  "source_sha256": "7b3efe172dd3e1515ce08976c91c179646cce2280ec1c2a9cd179f926fd3f90a",
+  "source_id": "2f3da1ea-49ce-4b1b-a381-3529cb4828e2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 84/2021-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2021:13.C.84.2021.1",
+    "predmetRizeni": "8.100 Kč / pojistné",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2f3da1ea-49ce-4b1b-a381-3529cb4828e2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
