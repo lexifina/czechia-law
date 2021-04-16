@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:44.C.81.2019.4",
+  "docket": "44 C 81/2019-102",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/611e5673-b671-4874-9b2d-88c9e9646ffd",
+  "source_sha256": "fa020eb70a34e445c0fab0a0ad392cb1371ac4395a42720932d62de38edc3efc",
+  "source_id": "611e5673-b671-4874-9b2d-88c9e9646ffd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 81/2019-102",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Davidová",
+    "ecli": "ECLI:CZ:OSMO:2021:44.C.81.2019.4",
+    "predmetRizeni": "žaloba o určení vlastnického práva k nemovitosti",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "převod nemovitostí",
+      "rozvod manželství",
+      "smlouva darovací",
+      "vrácení daru",
+      "výživné",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 548 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 985 z. č. 89/2012 Sb.",
+      "§ 2072 z. č. 89/2012 Sb.",
+      "§ 2075 z. č. 89/2012 Sb.",
+      "§ 1105 z. č. 89/2012 Sb.",
+      "§ 2070 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/611e5673-b671-4874-9b2d-88c9e9646ffd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
