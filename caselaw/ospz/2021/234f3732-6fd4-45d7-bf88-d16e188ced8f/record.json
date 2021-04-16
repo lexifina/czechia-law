@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:8.C.441.2020.1",
+  "docket": "8 C 441/2020-30",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/234f3732-6fd4-45d7-bf88-d16e188ced8f",
+  "source_sha256": "f43baff57d91d8bb126ab4241fa0ca8ab1f1cacbcb13253af588148538780b1a",
+  "source_id": "234f3732-6fd4-45d7-bf88-d16e188ced8f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 441/2020-30",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2021:8.C.441.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/234f3732-6fd4-45d7-bf88-d16e188ced8f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
