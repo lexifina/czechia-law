@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.18.2021.1",
+  "docket": "22 C 18/2021-53",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/01f1e7d6-900b-4dc7-b3ac-b19a3f9c9f01",
+  "source_sha256": "8a913eda216b13f95e85987fca7d2aab993f235232dc8b5b53f19089d8d8744f",
+  "source_id": "01f1e7d6-900b-4dc7-b3ac-b19a3f9c9f01",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 18/2021-53",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.18.2021.1",
+    "predmetRizeni": "O zaplacení 73 592,34 Kč s příslušenstvím",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/01f1e7d6-900b-4dc7-b3ac-b19a3f9c9f01"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
