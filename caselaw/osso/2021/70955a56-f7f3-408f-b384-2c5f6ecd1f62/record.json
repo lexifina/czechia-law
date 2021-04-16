@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:16.C.97.2021.1",
+  "docket": "16 C 97/2021-28",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70955a56-f7f3-408f-b384-2c5f6ecd1f62",
+  "source_sha256": "0df91a0f3e66b7bf724d2851bbb94c0d051c9a070af748701a18aa68cc471f6f",
+  "source_id": "70955a56-f7f3-408f-b384-2c5f6ecd1f62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 97/2021-28",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Lenka Pokorná",
+    "ecli": "ECLI:CZ:OSSO:2021:16.C.97.2021.1",
+    "predmetRizeni": "zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70955a56-f7f3-408f-b384-2c5f6ecd1f62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
