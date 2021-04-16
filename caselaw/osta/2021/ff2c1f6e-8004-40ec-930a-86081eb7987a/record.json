@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:4.C.62.2021.1",
+  "docket": "4 C 62/2021-12",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff2c1f6e-8004-40ec-930a-86081eb7987a",
+  "source_sha256": "66dc2de7c5c9ead2ccef53120716575926809cc5ad48c15292fa8c3cb29b17a3",
+  "source_id": "ff2c1f6e-8004-40ec-930a-86081eb7987a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 62/2021-12",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Michaela Bílá",
+    "ecli": "ECLI:CZ:OSTA:2021:4.C.62.2021.1",
+    "predmetRizeni": "O zaplacení 5 282 Kč s příslušenstvím",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff2c1f6e-8004-40ec-930a-86081eb7987a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
