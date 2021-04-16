@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:224.C.325.2020.1",
+  "docket": "224 C 325/2020-53",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a6ed12e-9856-4b3a-bc4b-1908a3e42202",
+  "source_sha256": "d5319896bae8c5ac7a3dfe8980ec429c1a3f48a976e94cc78f09f9a119640342",
+  "source_id": "5a6ed12e-9856-4b3a-bc4b-1908a3e42202",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "224 C 325/2020-53",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jitka Sikorová",
+    "ecli": "ECLI:CZ:OSKD:2021:224.C.325.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a6ed12e-9856-4b3a-bc4b-1908a3e42202"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
