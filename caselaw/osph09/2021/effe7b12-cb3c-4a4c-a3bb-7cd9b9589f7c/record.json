@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:52.C.160.2019.1",
+  "docket": "52 C 160/2019-83",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/effe7b12-cb3c-4a4c-a3bb-7cd9b9589f7c",
+  "source_sha256": "1bf9c6577172d16fe3cfb5883aa9e2fd4f4ff968a1661c2a6a4fa9ed52e7bcad",
+  "source_id": "effe7b12-cb3c-4a4c-a3bb-7cd9b9589f7c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 160/2019-83",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Katarína Kuhnová",
+    "ecli": "ECLI:CZ:OSPH09:2021:52.C.160.2019.1",
+    "predmetRizeni": "vydání věci",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-10-22",
+    "klicovaSlova": [
+      "cizina",
+      "peněžité plnění",
+      "smlouva kupní",
+      "vydání věci",
+      "vypořádání SJM"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/effe7b12-cb3c-4a4c-a3bb-7cd9b9589f7c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
