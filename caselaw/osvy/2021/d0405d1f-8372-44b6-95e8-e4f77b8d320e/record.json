@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:11.C.155.2020.1",
+  "docket": "11 C 155/2020-60",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0405d1f-8372-44b6-95e8-e4f77b8d320e",
+  "source_sha256": "7ef7db2978b6e75a92ad7f1b3ee8f353e25453a84826339c7f03527a78d42473",
+  "source_id": "d0405d1f-8372-44b6-95e8-e4f77b8d320e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 155/2020-60",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Pavla Kohoutková",
+    "ecli": "ECLI:CZ:OSVY:2021:11.C.155.2020.1",
+    "predmetRizeni": "zaplacení částky 14 850 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 420 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0405d1f-8372-44b6-95e8-e4f77b8d320e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
