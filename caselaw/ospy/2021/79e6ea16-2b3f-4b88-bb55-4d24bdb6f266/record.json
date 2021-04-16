@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:6.C.91.2021.1",
+  "docket": "6 C 91/2021-19",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79e6ea16-2b3f-4b88-bb55-4d24bdb6f266",
+  "source_sha256": "27bb93780eae034964a47d1a833251a568c357107f7e6be3af5ec4b3178f5e1e",
+  "source_id": "79e6ea16-2b3f-4b88-bb55-4d24bdb6f266",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 91/2021-19",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Bartoš",
+    "ecli": "ECLI:CZ:OSPY:2021:6.C.91.2021.1",
+    "predmetRizeni": "O zaplacení 12 787 Kč s příslušenstvím",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79e6ea16-2b3f-4b88-bb55-4d24bdb6f266"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
