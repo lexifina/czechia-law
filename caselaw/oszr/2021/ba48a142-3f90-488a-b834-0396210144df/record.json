@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.79.2021.1",
+  "docket": "12 C 79/2021-16",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba48a142-3f90-488a-b834-0396210144df",
+  "source_sha256": "25eb6334dfeb52c14430467b2873d543e546ae8dd72f9f27d60d820858f0bd81",
+  "source_id": "ba48a142-3f90-488a-b834-0396210144df",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 79/2021-16",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.79.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba48a142-3f90-488a-b834-0396210144df"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
