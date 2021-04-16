@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.148.2019.1",
+  "docket": "19 C 148/2019-42",
+  "date": "2021-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bbec8416-3986-4f4a-8776-18cd792cc378",
+  "source_sha256": "0c3bf201b7e5e4cb6db7b236f3551e249cd9d48345f36e21410cdf581ee3c8cb",
+  "source_id": "bbec8416-3986-4f4a-8776-18cd792cc378",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 148/2019-42",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.148.2019.1",
+    "predmetRizeni": "Návrh na rozvod manželství",
+    "datumVydani": "2021-04-16",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bbec8416-3986-4f4a-8776-18cd792cc378"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
