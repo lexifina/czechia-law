@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:5.C.50.2021.1",
+  "docket": "5 C 50/2021-26",
+  "date": "2021-04-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/357a9ff9-4458-49b3-8b33-b734e6d481bf",
+  "source_sha256": "a6ec2ac94dc6fa26f88d4a6bf54e7481ba3f967bcdd4b13d192300a806eb283e",
+  "source_id": "357a9ff9-4458-49b3-8b33-b734e6d481bf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 50/2021-26",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Kopecká",
+    "ecli": "ECLI:CZ:OSLN:2021:5.C.50.2021.1",
+    "predmetRizeni": "O zaplacení 5 092 Kč s příslušenstvím",
+    "datumVydani": "2021-04-17",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 10 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/357a9ff9-4458-49b3-8b33-b734e6d481bf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
