@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:15.C.107.2020.2",
+  "docket": "15 C 107/2020-21",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b30e39e3-6193-410c-aeb9-3842c62115b9",
+  "source_sha256": "b495ecc0b84dd3b7d2d9f1e8f161d1c161ebacaa74b304b7d2d2f0539ee64c4d",
+  "source_id": "b30e39e3-6193-410c-aeb9-3842c62115b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 107/2020-21",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Ing. Vladimír Doležal",
+    "ecli": "ECLI:CZ:OSCH:2021:15.C.107.2020.2",
+    "predmetRizeni": "O zaplacení 2 000 Kč",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b30e39e3-6193-410c-aeb9-3842c62115b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
