@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:1980:12.C.37.2021.1",
+  "docket": "12 C 37/2021-31",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c592a00-be0f-4a49-a263-46d6e3243407",
+  "source_sha256": "3676eda670bb4660bdd40408e91f06934553a2923d33e56fbe4700bb9e3d2e6e",
+  "source_id": "1c592a00-be0f-4a49-a263-46d6e3243407",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 37/2021-31",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Magdaléna Renfus, LLM.",
+    "ecli": "ECLI:CZ:OSNA:1980:12.C.37.2021.1",
+    "predmetRizeni": "o zaplacení 41 199,88 Kč s příslušenstvím (dluh)",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 524 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 558 z. č. 89/2012 Sb.",
+      "§ 85 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb.",
+      "§ 9 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c592a00-be0f-4a49-a263-46d6e3243407"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
