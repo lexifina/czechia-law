@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:8.C.191.2020.1",
+  "docket": "8 C 191/2020-39",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c4a9ad50-316a-46fa-8c73-238e254af44e",
+  "source_sha256": "659eb5616822b40b138cd5bf7c725886ac2f3f7af65e40d10040131ae05d4863",
+  "source_id": "c4a9ad50-316a-46fa-8c73-238e254af44e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 191/2020-39",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Kristýna Stachová",
+    "ecli": "ECLI:CZ:OSBU:2021:8.C.191.2020.1",
+    "predmetRizeni": "2.017 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ § 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c4a9ad50-316a-46fa-8c73-238e254af44e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
