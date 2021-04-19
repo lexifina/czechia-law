@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:19.C.52.2021.1",
+  "docket": "19 C 52/2021-33",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c9e5099f-93e1-444d-8581-aaedcca1f638",
+  "source_sha256": "dd1e8eda0c0b8d41c3545aeab0c6f2d0e72c0e5c8135cd452cba9ab7ac90057e",
+  "source_id": "c9e5099f-93e1-444d-8581-aaedcca1f638",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 52/2021-33",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Zdeněk Hammer",
+    "ecli": "ECLI:CZ:OSLT:2021:19.C.52.2021.1",
+    "predmetRizeni": "O zaplacení 2 750 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c9e5099f-93e1-444d-8581-aaedcca1f638"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
