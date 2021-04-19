@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:19.C.316.2019.1",
+  "docket": "19 C 316/2019-66",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dab994ff-da70-4e37-99aa-6640d5c099e7",
+  "source_sha256": "61c51df1919ed7325fb94843044240e61a819e4e788933f9af3b6f0440abc8af",
+  "source_id": "dab994ff-da70-4e37-99aa-6640d5c099e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 316/2019-66",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Zuzana Benešová",
+    "ecli": "ECLI:CZ:OSFM:2021:19.C.316.2019.1",
+    "predmetRizeni": "o zaplacení 22 533,74 Kč s příslušenstvím - vyúčtování služeb",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-10-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dab994ff-da70-4e37-99aa-6640d5c099e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
