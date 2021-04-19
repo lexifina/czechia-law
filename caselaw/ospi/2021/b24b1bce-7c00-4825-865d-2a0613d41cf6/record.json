@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:3.C.97.2020.1",
+  "docket": "3 C 97/2020-33",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b24b1bce-7c00-4825-865d-2a0613d41cf6",
+  "source_sha256": "f4b55a4674a4f6aae0f60081cbc39727652d392d5a6947f6ff1a2596ba5ecc4d",
+  "source_id": "b24b1bce-7c00-4825-865d-2a0613d41cf6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 97/2020-33",
+    "soud": "Okresní soud v Písku",
+    "autor": "JUDr. Ondřej Mörtl",
+    "ecli": "ECLI:CZ:OSPI:2021:3.C.97.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 91/2012 Sb.",
+      "§ 23 z. č. 36/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b24b1bce-7c00-4825-865d-2a0613d41cf6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
