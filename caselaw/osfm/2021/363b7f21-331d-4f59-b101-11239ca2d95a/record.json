@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:19.C.362.2020.1",
+  "docket": "19 C 362/2020-21",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/363b7f21-331d-4f59-b101-11239ca2d95a",
+  "source_sha256": "f8821c6908cbb01cf7b6195b9d2671bf0a41a094a9062cbdfe48629d0de5a47e",
+  "source_id": "363b7f21-331d-4f59-b101-11239ca2d95a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 362/2020-21",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Zuzana Benešová",
+    "ecli": "ECLI:CZ:OSFM:2021:19.C.362.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 576 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/363b7f21-331d-4f59-b101-11239ca2d95a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
