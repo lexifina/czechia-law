@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:14.C.238.2020.1",
+  "docket": "14 C 238/2020-66",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ceed13a2-0320-4b5c-95b7-59912ad1c2d4",
+  "source_sha256": "4be7da54ae0257120c6f22bda9ba7bd373011454d01dbc34ac54153cea250fa3",
+  "source_id": "ceed13a2-0320-4b5c-95b7-59912ad1c2d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 238/2020-66",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Irena Šolínová",
+    "ecli": "ECLI:CZ:OSTU:2021:14.C.238.2020.1",
+    "predmetRizeni": "vyloučení věci z výkonu rozhodnutí",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "exekuce",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 138 z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 68 z. č. 120/2001 Sb.",
+      "§ 2 z. č. 549/91 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ceed13a2-0320-4b5c-95b7-59912ad1c2d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
