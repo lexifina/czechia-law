@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:26.C.91.2021.1",
+  "docket": "26 C 91/2021-28",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/75c01727-a480-45f4-80eb-ab2e404816b1",
+  "source_sha256": "7a074ed6e7ee245918c3cce29339409064761f70d1e89e36329e04aaeed900a2",
+  "source_id": "75c01727-a480-45f4-80eb-ab2e404816b1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 91/2021-28",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Marek Heczko",
+    "ecli": "ECLI:CZ:OSKI:2021:26.C.91.2021.1",
+    "predmetRizeni": "9 825,26 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/75c01727-a480-45f4-80eb-ab2e404816b1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
