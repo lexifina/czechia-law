@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:5.C.35.2021.1",
+  "docket": "5 C 35/2021-48",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c64969f4-0d9d-4035-b5c3-c1077c6eb6e5",
+  "source_sha256": "eddf22be169a6d5a65bdbcbe9ee33750043cf21861647ecf545337c95a4e6b68",
+  "source_id": "c64969f4-0d9d-4035-b5c3-c1077c6eb6e5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 35/2021-48",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. et Mgr. Věroslav Řezáč",
+    "ecli": "ECLI:CZ:OSPV:2021:5.C.35.2021.1",
+    "predmetRizeni": "O zaplacení 12.956 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c64969f4-0d9d-4035-b5c3-c1077c6eb6e5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
