@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:3.C.24.2021.1",
+  "docket": "3 C 24/2021-30",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0a22d288-5361-45c9-8b84-2da1ea8f8cce",
+  "source_sha256": "94cdd97d29fa66e0588031c0f1bb926f04aeef84ef7c27e2218477fa16b769e0",
+  "source_id": "0a22d288-5361-45c9-8b84-2da1ea8f8cce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 24/2021-30",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Petra Burešová",
+    "ecli": "ECLI:CZ:OSBK:2021:3.C.24.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0a22d288-5361-45c9-8b84-2da1ea8f8cce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
