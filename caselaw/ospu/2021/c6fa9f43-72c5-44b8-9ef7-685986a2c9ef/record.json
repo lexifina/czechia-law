@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:15.C.31.2021.1",
+  "docket": "15 C 31/2021-29",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6fa9f43-72c5-44b8-9ef7-685986a2c9ef",
+  "source_sha256": "a25ed5cd45a711eeda1cd22d71a8f01fe59f2ab330078c3b46349a0205f0cef0",
+  "source_id": "c6fa9f43-72c5-44b8-9ef7-685986a2c9ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 31/2021-29",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Pavel Tureček",
+    "ecli": "ECLI:CZ:OSPU:2021:15.C.31.2021.1",
+    "predmetRizeni": "o zaplacení 7 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6fa9f43-72c5-44b8-9ef7-685986a2c9ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
