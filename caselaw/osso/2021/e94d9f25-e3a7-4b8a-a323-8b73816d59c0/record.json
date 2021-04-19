@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:7.C.7.2021.3",
+  "docket": "7 C 7/2021-32",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e94d9f25-e3a7-4b8a-a323-8b73816d59c0",
+  "source_sha256": "2df6dcb403c1c128e5d63ff31919d92aa0d8afb674ffca090ef74f2f0d05e25f",
+  "source_id": "e94d9f25-e3a7-4b8a-a323-8b73816d59c0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 7/2021-32",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Martina Burachovičová",
+    "ecli": "ECLI:CZ:OSSO:2021:7.C.7.2021.3",
+    "predmetRizeni": "zaplacení 18 153,11 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2665 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 2663 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e94d9f25-e3a7-4b8a-a323-8b73816d59c0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
