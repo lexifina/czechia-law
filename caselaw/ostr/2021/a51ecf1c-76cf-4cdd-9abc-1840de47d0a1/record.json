@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:7.C.27.2021.1",
+  "docket": "7 C 27/2021-31",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a51ecf1c-76cf-4cdd-9abc-1840de47d0a1",
+  "source_sha256": "94255d8af7c4f37e404fe26d7d6d174933ca89a15196e79c9e19c07169b815d3",
+  "source_id": "a51ecf1c-76cf-4cdd-9abc-1840de47d0a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 27/2021-31",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Petra Rutarová",
+    "ecli": "ECLI:CZ:OSTR:2021:7.C.27.2021.1",
+    "predmetRizeni": "zaplacení příslušenství",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 261 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a51ecf1c-76cf-4cdd-9abc-1840de47d0a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
