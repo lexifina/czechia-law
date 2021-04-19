@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:3.C.273.2020.1",
+  "docket": "3 C 273/2020-41",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/429fb56b-a377-400d-a9a1-d1ca164d7273",
+  "source_sha256": "a878ebfb53c785a72e163907cbf0692380bda3742785f09d57d2f772b5fe11d1",
+  "source_id": "429fb56b-a377-400d-a9a1-d1ca164d7273",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 273/2020-41",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Petra Burešová",
+    "ecli": "ECLI:CZ:OSBK:2021:3.C.273.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 19a z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/429fb56b-a377-400d-a9a1-d1ca164d7273"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
