@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:209.C.8.2021.1",
+  "docket": "209 C 8/2021-27",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cba709c5-c4ab-46ee-a471-b6fa3498ade0",
+  "source_sha256": "8a658abf2fd2e5bcf007261add218843d1e6f661c966417ff776e36a32134c38",
+  "source_id": "cba709c5-c4ab-46ee-a471-b6fa3498ade0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 8/2021-27",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2021:209.C.8.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-10-21",
+    "klicovaSlova": [
+      "insolvence",
+      "insolvenční návrh",
+      "oddlužení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cba709c5-c4ab-46ee-a471-b6fa3498ade0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
