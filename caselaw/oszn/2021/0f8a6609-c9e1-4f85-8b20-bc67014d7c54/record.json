@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:12.C.9.2021.1",
+  "docket": "12 C 9/2021-53",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f8a6609-c9e1-4f85-8b20-bc67014d7c54",
+  "source_sha256": "56a3e4ecdcc30294a6b88d2da2a4cbc3418d9dd793d6e2670aab4a7811059b76",
+  "source_id": "0f8a6609-c9e1-4f85-8b20-bc67014d7c54",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 9/2021-53",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Dana Hamzová",
+    "ecli": "ECLI:CZ:OSZN:2021:12.C.9.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 74 z. č. 284/2009 Sb.",
+      "§ 75 z. č. 284/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f8a6609-c9e1-4f85-8b20-bc67014d7c54"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
