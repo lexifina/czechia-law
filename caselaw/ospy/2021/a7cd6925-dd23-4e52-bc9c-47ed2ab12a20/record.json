@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.190.2021.1",
+  "docket": "36 C 190/2021",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7cd6925-dd23-4e52-bc9c-47ed2ab12a20",
+  "source_sha256": "d8a3258b246d9c9d0fef0592a84bb7615b9d8ba917f1386f48370fe644f2176c",
+  "source_id": "a7cd6925-dd23-4e52-bc9c-47ed2ab12a20",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 190/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.190.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7cd6925-dd23-4e52-bc9c-47ed2ab12a20"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
