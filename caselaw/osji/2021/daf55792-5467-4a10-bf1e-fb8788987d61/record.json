@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:11.C.42.2021.1",
+  "docket": "11 C 42/2021-7",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/daf55792-5467-4a10-bf1e-fb8788987d61",
+  "source_sha256": "197ae97a5f1dab67fb4e41b70fda23395a7e8d15470167394315159e0cea9f5e",
+  "source_id": "daf55792-5467-4a10-bf1e-fb8788987d61",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 42/2021-7",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Ing. Lubomír Křikava",
+    "ecli": "ECLI:CZ:OSJI:2021:11.C.42.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/daf55792-5467-4a10-bf1e-fb8788987d61"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
