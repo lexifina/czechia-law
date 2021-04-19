@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.19.2021.1",
+  "docket": "5 C 19/2021-22",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd23ded2-7b42-450f-a573-d1a1029eb140",
+  "source_sha256": "d80acb7399446cfdb646eb01be91b1f1009793e335d30ac11a5d4e9eb5dcbebc",
+  "source_id": "cd23ded2-7b42-450f-a573-d1a1029eb140",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 19/2021-22",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.19.2021.1",
+    "predmetRizeni": "zaplacení 22 651,72 Kč s přísl.",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd23ded2-7b42-450f-a573-d1a1029eb140"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
