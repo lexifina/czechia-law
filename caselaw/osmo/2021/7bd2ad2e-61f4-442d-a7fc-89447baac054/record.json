@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:11.C.68.2021.1",
+  "docket": "11 C 68/2021-15",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7bd2ad2e-61f4-442d-a7fc-89447baac054",
+  "source_sha256": "5d7ed5a37661074b7c17a1c005d2dcd2bfe01bc0290c97876af6cd2aa665cbe5",
+  "source_id": "7bd2ad2e-61f4-442d-a7fc-89447baac054",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 68/2021-15",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2021:11.C.68.2021.1",
+    "predmetRizeni": "24 806 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1180 z. č. 89/2012 Sb.",
+      "§ 1175 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7bd2ad2e-61f4-442d-a7fc-89447baac054"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
