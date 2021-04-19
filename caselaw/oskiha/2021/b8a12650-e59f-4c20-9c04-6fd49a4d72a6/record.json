@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:130.C.70.2021.1",
+  "docket": "130 C 70/2021-42",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8a12650-e59f-4c20-9c04-6fd49a4d72a6",
+  "source_sha256": "96d4959882d26cd13508b3f626c17835e78cc5094f6dacbb6e245751479d937d",
+  "source_id": "b8a12650-e59f-4c20-9c04-6fd49a4d72a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "130 C 70/2021-42",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Turčíková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:130.C.70.2021.1",
+    "predmetRizeni": "2 719,73 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8a12650-e59f-4c20-9c04-6fd49a4d72a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
