@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:17.C.41.2021.1",
+  "docket": "17 C 41/2021-19",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/27c599a1-d59c-476c-b3c6-9153845bff52",
+  "source_sha256": "b52aefded7ad9b76bdddc9adbec9175b0d3d266950ed754b3e866e99fc53a487",
+  "source_id": "27c599a1-d59c-476c-b3c6-9153845bff52",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 41/2021-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Petra Filová",
+    "ecli": "ECLI:CZ:MSBR:2021:17.C.41.2021.1",
+    "predmetRizeni": "zaplacení 810 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-09-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/27c599a1-d59c-476c-b3c6-9153845bff52"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
