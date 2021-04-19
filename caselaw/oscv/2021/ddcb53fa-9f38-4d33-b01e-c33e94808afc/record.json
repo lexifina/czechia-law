@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:9.C.319.2019.1",
+  "docket": "9 C 319/2019-68",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ddcb53fa-9f38-4d33-b01e-c33e94808afc",
+  "source_sha256": "9eca07cb48dda79d0b4cc42f129b84484a0847b12051a8dd51efc5df2d16d338",
+  "source_id": "ddcb53fa-9f38-4d33-b01e-c33e94808afc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 319/2019-68",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Vladislava Štulcová",
+    "ecli": "ECLI:CZ:OSCV:2021:9.C.319.2019.1",
+    "predmetRizeni": "zaplacení 33 126,84 Kč s příslušenstvím (kupní cena)",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-08-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddcb53fa-9f38-4d33-b01e-c33e94808afc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
