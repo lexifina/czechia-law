@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:26.C.27.2021.3",
+  "docket": "26 C 27/2021-15",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e9acd06-2f68-42a8-bd37-d8202e3d0907",
+  "source_sha256": "3ce20fdd9949423da87cf4a1bf99c68f4f8a3f57ef400dbfb80a6ba4114f3b76",
+  "source_id": "1e9acd06-2f68-42a8-bd37-d8202e3d0907",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 27/2021-15",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jiří Šopek",
+    "ecli": "ECLI:CZ:OSOV:2021:26.C.27.2021.3",
+    "predmetRizeni": "o zaplacení 1 000 Kč",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e9acd06-2f68-42a8-bd37-d8202e3d0907"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
