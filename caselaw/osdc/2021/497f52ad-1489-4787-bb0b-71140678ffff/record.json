@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:19.C.23.2020.1",
+  "docket": "19 C 23/2020-42",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/497f52ad-1489-4787-bb0b-71140678ffff",
+  "source_sha256": "2972fa3e83c4f4debb1d6cf3acdf87523487956b78f3a86f3048817d3c73ec6f",
+  "source_id": "497f52ad-1489-4787-bb0b-71140678ffff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 23/2020-42",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Vladimír Diviš",
+    "ecli": "ECLI:CZ:OSDC:2021:19.C.23.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/497f52ad-1489-4787-bb0b-71140678ffff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
