@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:8.C.40.2021 .1",
+  "docket": "8 C 40/2021-12",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b2d0405-1d3e-428c-900e-40d4808e4198",
+  "source_sha256": "dec16692153847ff7050ac94012de24bb448a11b1845a1f1cbf73f35e0f5bf62",
+  "source_id": "3b2d0405-1d3e-428c-900e-40d4808e4198",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 40/2021-12",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Milan Baudyš",
+    "ecli": "ECLI:CZ:OSNA:2021:8.C.40.2021 .1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b2d0405-1d3e-428c-900e-40d4808e4198"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
