@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:17.C.236.2018.1",
+  "docket": "17 C 236/2018-39",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f8cd0ba0-8c22-4177-8997-60b25b6acfcb",
+  "source_sha256": "bb6e2f65e5038dc7b11a71b4feb147be2099e73bdb3d8c0e18ccd395f28500b6",
+  "source_id": "f8cd0ba0-8c22-4177-8997-60b25b6acfcb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 236/2018-39",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Jana Veselá",
+    "ecli": "ECLI:CZ:OSSU:2021:17.C.236.2018.1",
+    "predmetRizeni": "o rozvod",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f8cd0ba0-8c22-4177-8997-60b25b6acfcb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
