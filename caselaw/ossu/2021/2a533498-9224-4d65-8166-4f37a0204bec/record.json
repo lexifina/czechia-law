@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:17.C.17.2021.1",
+  "docket": "17 C 17/2021-18",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a533498-9224-4d65-8166-4f37a0204bec",
+  "source_sha256": "b36794d6d5c15a28f0355700d7970e403553c7d885dec9e3db20ee3790ba86fc",
+  "source_id": "2a533498-9224-4d65-8166-4f37a0204bec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 17/2021-18",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Jana Veselá",
+    "ecli": "ECLI:CZ:OSSU:2021:17.C.17.2021.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a533498-9224-4d65-8166-4f37a0204bec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
