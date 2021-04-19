@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:12.C.478.2019.1",
+  "docket": "12 C 478/2019-79",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9680a9f7-539a-46b0-bbb9-1092ddc38c37",
+  "source_sha256": "064c1b9ddf1871a41c4abd294c3e0426c3afe6c582beaa30e9cf7e405ee69af1",
+  "source_id": "9680a9f7-539a-46b0-bbb9-1092ddc38c37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 478/2019-79",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Kateřina Janitorová sixtová",
+    "ecli": "ECLI:CZ:OSPH03:2021:12.C.478.2019.1",
+    "predmetRizeni": "o nahrazení souhlasu s odevzdáním věci",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "dražba",
+      "peněžité plnění",
+      "smlouva kupní",
+      "veřejná dražba",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1109 z. č. 89/2012 Sb.",
+      "§ 1011 z. č. 89/2012 Sb.",
+      "§ 1112 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9680a9f7-539a-46b0-bbb9-1092ddc38c37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
