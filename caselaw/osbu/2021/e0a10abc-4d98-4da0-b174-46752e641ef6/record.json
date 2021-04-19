@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:18.C.34.2021.1",
+  "docket": "18 C 34/2021-40",
+  "date": "2021-04-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e0a10abc-4d98-4da0-b174-46752e641ef6",
+  "source_sha256": "fbfcdd28c6c49f83efdf281565206410d8f6d1d7675ef12732ad100fedb585a5",
+  "source_id": "e0a10abc-4d98-4da0-b174-46752e641ef6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 34/2021-40",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Jana Tihelková",
+    "ecli": "ECLI:CZ:OSBU:2021:18.C.34.2021.1",
+    "predmetRizeni": "51.391,73 Kč s příslušenstvím",
+    "datumVydani": "2021-04-19",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e0a10abc-4d98-4da0-b174-46752e641ef6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
