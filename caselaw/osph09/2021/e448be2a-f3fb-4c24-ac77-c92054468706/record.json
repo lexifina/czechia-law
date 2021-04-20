@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:19.C.127.2021.1",
+  "docket": "19 C 127/2021-22",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e448be2a-f3fb-4c24-ac77-c92054468706",
+  "source_sha256": "6047f4cfd0550a930cc70278b65f66509e00b6cbb738a86cfb52ae00adfa9e3c",
+  "source_id": "e448be2a-f3fb-4c24-ac77-c92054468706",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 127/2021-22",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Radmila Chadimová",
+    "ecli": "ECLI:CZ:OSPH09:2021:19.C.127.2021.1",
+    "predmetRizeni": "O zaplacení 16 250 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e448be2a-f3fb-4c24-ac77-c92054468706"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
