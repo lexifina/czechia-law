@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:51.C.15.2019.1",
+  "docket": "51 C 15/2019-222",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71d98321-5a7f-4d49-aa75-eae8dac1d5e2",
+  "source_sha256": "71dcf5de3c9f175a19e587d221f4e14193fd99539b3f92abdb963d855996b4d7",
+  "source_id": "71d98321-5a7f-4d49-aa75-eae8dac1d5e2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 15/2019-222",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zdeněk Sýs",
+    "ecli": "ECLI:CZ:MSBR:2021:51.C.15.2019.1",
+    "predmetRizeni": "zaplacení 452 024,71 Kč s příslušenstvím - náhrada škody",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodej podniku",
+      "přikázání pohledávky",
+      "smlouva nájemní",
+      "smlouva o prodeji podniku",
+      "ušlý zisk"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 420 z. č. 40/1964 Sb.",
+      "§ 442 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 85/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71d98321-5a7f-4d49-aa75-eae8dac1d5e2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
