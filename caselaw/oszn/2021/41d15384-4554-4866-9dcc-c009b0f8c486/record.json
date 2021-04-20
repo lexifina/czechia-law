@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:21.C.21.2021.1",
+  "docket": "21 C 21/2021-33",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41d15384-4554-4866-9dcc-c009b0f8c486",
+  "source_sha256": "b2507c9522f749022a3212ed8ba9ef5c01659bc4589dded04718cc7266def214",
+  "source_id": "41d15384-4554-4866-9dcc-c009b0f8c486",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 21/2021-33",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Bc. Boris Janíček",
+    "ecli": "ECLI:CZ:OSZN:2021:21.C.21.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41d15384-4554-4866-9dcc-c009b0f8c486"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
