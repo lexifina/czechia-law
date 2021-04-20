@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:51.C.124.2020.1",
+  "docket": "51 C 124/2020-59",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e68b098-284f-47c6-a044-b4cab4459b36",
+  "source_sha256": "b9ae687d5e7cdbb858a839d28213283db2920046019244a8c3898106add2542f",
+  "source_id": "1e68b098-284f-47c6-a044-b4cab4459b36",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 124/2020-59",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zdeněk Sýs",
+    "ecli": "ECLI:CZ:MSBR:2021:51.C.124.2020.1",
+    "predmetRizeni": "zaplacení 2.000 Kč - smluvní pokuta",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 156 z. č. 99/1963 Sb.",
+      "§ 1800 z. č. 89/2012 Sb.",
+      "§ 1798 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e68b098-284f-47c6-a044-b4cab4459b36"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
