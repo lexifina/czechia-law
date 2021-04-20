@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:8.C.114.2018.1",
+  "docket": "8 C 114/2018-187",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e8801734-3e93-4d41-a5d7-0dcd07520a34",
+  "source_sha256": "31f9eda15817b24df4e1158a9dece1e292eee2ba9b0f869fd8e065059ad2a3d0",
+  "source_id": "e8801734-3e93-4d41-a5d7-0dcd07520a34",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 114/2018-187",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Ing. Tomáš Kubec",
+    "ecli": "ECLI:CZ:OSPH08:2021:8.C.114.2018.1",
+    "predmetRizeni": "na odvolání daru dědici",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-12-17",
+    "klicovaSlova": [
+      "notářský zápis",
+      "vrácení daru",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2072 z. č. 89/2012 Sb.",
+      "§ 2074 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e8801734-3e93-4d41-a5d7-0dcd07520a34"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
