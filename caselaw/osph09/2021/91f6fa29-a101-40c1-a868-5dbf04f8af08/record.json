@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:33.C.83.2020.1",
+  "docket": "33 C 83/2020-35",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91f6fa29-a101-40c1-a868-5dbf04f8af08",
+  "source_sha256": "1b4db0d1edcc0b5b3cd0bc564f9d93023c3149bbe511773c6eb8ac82aa7474f3",
+  "source_id": "91f6fa29-a101-40c1-a868-5dbf04f8af08",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 83/2020-35",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Blanka Schramová",
+    "ecli": "ECLI:CZ:OSPH09:2021:33.C.83.2020.1",
+    "predmetRizeni": "O zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91f6fa29-a101-40c1-a868-5dbf04f8af08"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
