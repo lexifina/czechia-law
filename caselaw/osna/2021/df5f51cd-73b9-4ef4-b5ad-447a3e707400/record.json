@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:14.C.76.2021.1",
+  "docket": "14 C 76/2021-32",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df5f51cd-73b9-4ef4-b5ad-447a3e707400",
+  "source_sha256": "85321b1e74434f5db95e84b2925767f3dcb1431c6a414cd687fd0c7ec151011e",
+  "source_id": "df5f51cd-73b9-4ef4-b5ad-447a3e707400",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 76/2021-32",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jiří Kučera",
+    "ecli": "ECLI:CZ:OSNA:2021:14.C.76.2021.1",
+    "predmetRizeni": "O zaplacení 6.803 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "investiční fond",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df5f51cd-73b9-4ef4-b5ad-447a3e707400"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
