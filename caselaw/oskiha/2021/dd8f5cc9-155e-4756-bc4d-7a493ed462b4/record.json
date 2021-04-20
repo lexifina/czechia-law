@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:106.C.86.2021.1",
+  "docket": "106 C 86/2021-69",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd8f5cc9-155e-4756-bc4d-7a493ed462b4",
+  "source_sha256": "46e5d1158367ced3b5da6d0bc06778aa871385f43d09e3e9d6f7847024ab450f",
+  "source_id": "dd8f5cc9-155e-4756-bc4d-7a493ed462b4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 86/2021-69",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Hermannová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:106.C.86.2021.1",
+    "predmetRizeni": "5 941,27 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "odstoupení od smlouvy",
+      "postoupení pohledávky",
+      "postoupení smlouvy",
+      "poučovací povinnost soudu",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd8f5cc9-155e-4756-bc4d-7a493ed462b4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
