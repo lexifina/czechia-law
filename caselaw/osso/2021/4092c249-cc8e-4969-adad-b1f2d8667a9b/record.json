@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:8.C.233.2020.2",
+  "docket": "8 C 233/2020-24",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4092c249-cc8e-4969-adad-b1f2d8667a9b",
+  "source_sha256": "1a6cf92d39a4ca1dffa90b4c41dba5eb72a352316290a0b9d9bb07a82e859873",
+  "source_id": "4092c249-cc8e-4969-adad-b1f2d8667a9b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 233/2020-24",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Stanislav Janků",
+    "ecli": "ECLI:CZ:OSSO:2021:8.C.233.2020.2",
+    "predmetRizeni": "zaplacení 2 000 Kč",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4092c249-cc8e-4969-adad-b1f2d8667a9b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
