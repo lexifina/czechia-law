@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:17.C.183.2020.5",
+  "docket": "17 C 183/2020-50",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd7a8b2b-ca80-4656-bb19-801f8f0270c0",
+  "source_sha256": "4d83ce4b6f37fd3e9d4275d31be1337a6b3a27414f27202ea819422814660f49",
+  "source_id": "cd7a8b2b-ca80-4656-bb19-801f8f0270c0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 183/2020-50",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Kateřina Pelišová",
+    "ecli": "ECLI:CZ:OSPH02:2021:17.C.183.2020.5",
+    "predmetRizeni": "o zaplacení 10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd7a8b2b-ca80-4656-bb19-801f8f0270c0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
