@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:24.C.321.2020.1",
+  "docket": "24 C 321/2020-30",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/053204b3-00fd-455b-9061-ffa0fdaf3635",
+  "source_sha256": "ce83f1055f655125f1b6ce8c378802fd0fff720a42b67e2e0de2db7a231b46b6",
+  "source_id": "053204b3-00fd-455b-9061-ffa0fdaf3635",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 321/2020-30",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Milan Pelikán, , Ph.D.",
+    "ecli": "ECLI:CZ:OSKI:2021:24.C.321.2020.1",
+    "predmetRizeni": "2 360,77 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/053204b3-00fd-455b-9061-ffa0fdaf3635"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
