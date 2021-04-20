@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:7.C.49.2021.1",
+  "docket": "7 C 49/2021-48",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c929c89e-e0f9-4ca8-9d37-60eb1249d25e",
+  "source_sha256": "fc746473ad3ff9b7269d12c989c75b87886fd34849c2c474be28922cfb96784b",
+  "source_id": "c929c89e-e0f9-4ca8-9d37-60eb1249d25e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 49/2021-48",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Kateřina Martincová",
+    "ecli": "ECLI:CZ:OSDO:2021:7.C.49.2021.1",
+    "predmetRizeni": "o zapl. 61 025 Kč s přísl.",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-10-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c929c89e-e0f9-4ca8-9d37-60eb1249d25e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
