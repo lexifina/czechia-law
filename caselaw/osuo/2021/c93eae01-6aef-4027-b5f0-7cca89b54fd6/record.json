@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:210.C.5.2020.1",
+  "docket": "210 C 5/2020",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c93eae01-6aef-4027-b5f0-7cca89b54fd6",
+  "source_sha256": "10f2a2d10c745d821edcdd90f21188ee4ae4946794402c964dd5de79af350026",
+  "source_id": "c93eae01-6aef-4027-b5f0-7cca89b54fd6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "210 C 5/2020",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Věra Bartůňková",
+    "ecli": "ECLI:CZ:OSUO:2021:210.C.5.2020.1",
+    "predmetRizeni": "zaplacení 49 718 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-08-24",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c93eae01-6aef-4027-b5f0-7cca89b54fd6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
