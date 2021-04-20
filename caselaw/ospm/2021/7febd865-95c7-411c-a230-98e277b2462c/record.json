@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:34.C.185.2020.1",
+  "docket": "34 C 185/2020-102",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7febd865-95c7-411c-a230-98e277b2462c",
+  "source_sha256": "d85a8be364f46397038cda1f5f7f4202a9e2dfb90bace0add8d36ed107e04e32",
+  "source_id": "7febd865-95c7-411c-a230-98e277b2462c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 185/2020-102",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Tomáš Kamenický",
+    "ecli": "ECLI:CZ:OSPM:2021:34.C.185.2020.1",
+    "predmetRizeni": "O zaplacení 46 429,48 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 1811 z. č. 89/2012 Sb.",
+      "§ 237 z. č. 99/1963 Sb.",
+      "§ 219 z. č. 99/1963 Sb.",
+      "§ 3002 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7febd865-95c7-411c-a230-98e277b2462c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
