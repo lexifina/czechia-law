@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:5.C.142.2020.2",
+  "docket": "5 C 142/2020-36",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5eb3b800-a3cd-4dc3-97e3-89200180fe04",
+  "source_sha256": "d43907944816937225a5fbd9768d75e98a48cf3faba27818a4911981cda47b62",
+  "source_id": "5eb3b800-a3cd-4dc3-97e3-89200180fe04",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 142/2020-36",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Jarmila Senešiová",
+    "ecli": "ECLI:CZ:OSPH03:2021:5.C.142.2020.2",
+    "predmetRizeni": "3 195,40 Kč",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 45 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5eb3b800-a3cd-4dc3-97e3-89200180fe04"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
