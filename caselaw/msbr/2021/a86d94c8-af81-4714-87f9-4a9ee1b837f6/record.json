@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:42.C.219.2015.1",
+  "docket": "42 C 219/2015-207",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a86d94c8-af81-4714-87f9-4a9ee1b837f6",
+  "source_sha256": "9cfa577add999ddc92e05f792a5a140ba28124874c4f69f48d79d5d7ddb86b9d",
+  "source_id": "a86d94c8-af81-4714-87f9-4a9ee1b837f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 219/2015-207",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Miroslav Král",
+    "ecli": "ECLI:CZ:MSBR:2021:42.C.219.2015.1",
+    "predmetRizeni": "185.000 Kč s přísl. - náhrada škody",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-10-06",
+    "klicovaSlova": [
+      "majetková újma",
+      "peněžité plnění",
+      "smlouva kupní",
+      "ušlý zisk",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2900 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2912 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a86d94c8-af81-4714-87f9-4a9ee1b837f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
