@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:23.C.11.2021.1",
+  "docket": "23 C 11/2021-55",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb2288a9-9d66-416f-bf7f-a118ec1fa25f",
+  "source_sha256": "626367ee7264b3d2fa4011cdbe5998a2389abc723a14766211bf80a6f9eb4ad7",
+  "source_id": "fb2288a9-9d66-416f-bf7f-a118ec1fa25f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 11/2021-55",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Roman Vystrčil",
+    "ecli": "ECLI:CZ:OSZN:2021:23.C.11.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "bolestné",
+      "odtah vozidla",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 24 z. č. 168/1999 Sb.",
+      "§ 4 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb2288a9-9d66-416f-bf7f-a118ec1fa25f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
