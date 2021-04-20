@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:212.C.32.2018.1",
+  "docket": "212 C 32/2018",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cfcc60bd-9df5-48d5-92fa-c4bb33a0c15d",
+  "source_sha256": "cee85c1df03544c5d8a5078646331e67cdad26ed9f9940959ffa49390a0f12f2",
+  "source_id": "cfcc60bd-9df5-48d5-92fa-c4bb33a0c15d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "212 C 32/2018",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jana Šedivá",
+    "ecli": "ECLI:CZ:OSKD:2021:212.C.32.2018.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "osvojení",
+      "postoupení pohledávky",
+      "pozůstalost",
+      "prohlášení o vydědění",
+      "smlouva nájemní",
+      "smlouva o nápomoci",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "věcná příslušnost",
+      "vydědění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfcc60bd-9df5-48d5-92fa-c4bb33a0c15d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
