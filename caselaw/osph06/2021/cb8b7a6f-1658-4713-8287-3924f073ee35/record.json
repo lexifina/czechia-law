@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:27.C.353.2020.1",
+  "docket": "27 C 353/2020-20",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb8b7a6f-1658-4713-8287-3924f073ee35",
+  "source_sha256": "dc8c8fae088936ff3fb82ea8c6c8d71efd0326e6bd310d452a8693e4f5e7b590",
+  "source_id": "cb8b7a6f-1658-4713-8287-3924f073ee35",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 353/2020-20",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Lubomír Janoušek, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH06:2021:27.C.353.2020.1",
+    "predmetRizeni": "o zaplacení částky 4 510,98 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb8b7a6f-1658-4713-8287-3924f073ee35"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
