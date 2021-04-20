@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:12.C.93.2021.1",
+  "docket": "12 C 93/2021-12",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/47a44da7-ea4e-49c2-8962-19ab9ae05b48",
+  "source_sha256": "d328ff51bc51a979a7124cac4026931a4d24289aacb0993cadf2336d63b71a8d",
+  "source_id": "47a44da7-ea4e-49c2-8962-19ab9ae05b48",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 93/2021-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radomír Kubelka",
+    "ecli": "ECLI:CZ:OSKV:2021:12.C.93.2021.1",
+    "predmetRizeni": "9.155,17 Kč / služby třetích stran",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/47a44da7-ea4e-49c2-8962-19ab9ae05b48"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
