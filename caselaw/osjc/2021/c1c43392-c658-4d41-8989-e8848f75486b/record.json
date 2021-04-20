@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:3.C.26.2021.1",
+  "docket": "3 C 26/2021-34",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1c43392-c658-4d41-8989-e8848f75486b",
+  "source_sha256": "59559e93aaa7b4f0dd0ccc82002cf9af8e68447a287ae87b441239d696ec99c0",
+  "source_id": "c1c43392-c658-4d41-8989-e8848f75486b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 26/2021-34",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Drahomíra Šorfová",
+    "ecli": "ECLI:CZ:OSJC:2021:3.C.26.2021.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právní domněnka",
+      "smlouva o zápůjčce",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb.",
+      "§ 23a z. č. 85/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1c43392-c658-4d41-8989-e8848f75486b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
