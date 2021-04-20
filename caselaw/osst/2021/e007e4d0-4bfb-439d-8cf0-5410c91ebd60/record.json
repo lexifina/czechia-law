@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:7.C.90.2021.1",
+  "docket": "7 C 90/2021-25",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e007e4d0-4bfb-439d-8cf0-5410c91ebd60",
+  "source_sha256": "d7cb71ade849a4a507680dc8de712d4376e1e7e1f71671600ffe6ffa2f96cf4a",
+  "source_id": "e007e4d0-4bfb-439d-8cf0-5410c91ebd60",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 90/2021-25",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Marie Rychtářová",
+    "ecli": "ECLI:CZ:OSST:2021:7.C.90.2021.1",
+    "predmetRizeni": "O zaplacení 2 050 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1883 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e007e4d0-4bfb-439d-8cf0-5410c91ebd60"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
