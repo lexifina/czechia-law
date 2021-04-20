@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:10.C.81.2021.1",
+  "docket": "10 C 81/2021-15",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af983f98-5b6e-465d-a7fc-a645ef02302b",
+  "source_sha256": "d125fdd1a9d6f2c682f0bf8711d6125797e7b66d879dbea04241185cbd163680",
+  "source_id": "af983f98-5b6e-465d-a7fc-a645ef02302b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 81/2021-15",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jiří Kučera",
+    "ecli": "ECLI:CZ:OSNA:2021:10.C.81.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af983f98-5b6e-465d-a7fc-a645ef02302b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
