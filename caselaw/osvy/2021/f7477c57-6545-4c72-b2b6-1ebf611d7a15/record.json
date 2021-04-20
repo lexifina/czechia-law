@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.64.2021.1",
+  "docket": "7 C 64/2021-31",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7477c57-6545-4c72-b2b6-1ebf611d7a15",
+  "source_sha256": "9ae101a56a781d0f4582e6923c5a0c4ab85be54e86dc1da92afb2088cebd851e",
+  "source_id": "f7477c57-6545-4c72-b2b6-1ebf611d7a15",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 64/2021-31",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.64.2021.1",
+    "predmetRizeni": "zaplacení částky 12 010,07 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "cizina",
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 103 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7477c57-6545-4c72-b2b6-1ebf611d7a15"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
