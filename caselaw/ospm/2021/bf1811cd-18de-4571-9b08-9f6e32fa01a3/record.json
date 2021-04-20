@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:39.C.19.2021.1",
+  "docket": "39 C 19/2021-61",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf1811cd-18de-4571-9b08-9f6e32fa01a3",
+  "source_sha256": "4b476a5668b71f92a708cccf72cec6b84d38641230887e63f7594ccad129a760",
+  "source_id": "bf1811cd-18de-4571-9b08-9f6e32fa01a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 19/2021-61",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petra Pavlíčková",
+    "ecli": "ECLI:CZ:OSPM:2021:39.C.19.2021.1",
+    "predmetRizeni": "o vyúčtování poplatků za byt",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 2252 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 67/2013 Sb.",
+      "§ 2246 z. č. 89/2012 Sb.",
+      "§ 2237 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 89/2012 Sb.",
+      "§ 556 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 67/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf1811cd-18de-4571-9b08-9f6e32fa01a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
