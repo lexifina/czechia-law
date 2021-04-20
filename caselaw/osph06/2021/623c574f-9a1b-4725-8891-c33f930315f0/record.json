@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:28.C.56.2021.1",
+  "docket": "28 C 56/2021-31",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/623c574f-9a1b-4725-8891-c33f930315f0",
+  "source_sha256": "7f0b6b65fc3c9c70713690b42d7f97e45da9512c53d1043968c8feb26e3369b1",
+  "source_id": "623c574f-9a1b-4725-8891-c33f930315f0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 56/2021-31",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Hana Šedivá",
+    "ecli": "ECLI:CZ:OSPH06:2021:28.C.56.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/623c574f-9a1b-4725-8891-c33f930315f0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
