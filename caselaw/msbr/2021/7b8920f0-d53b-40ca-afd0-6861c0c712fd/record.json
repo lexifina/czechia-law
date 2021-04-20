@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:44.C.17.2021.1",
+  "docket": "44 C 17/2021-24",
+  "date": "2021-04-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b8920f0-d53b-40ca-afd0-6861c0c712fd",
+  "source_sha256": "b746ef95ba33bb865e63c1007b80f1fdd226c00e07ea69a086731fed53590a4c",
+  "source_id": "7b8920f0-d53b-40ca-afd0-6861c0c712fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 17/2021-24",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ing. Daniel Bartoň",
+    "ecli": "ECLI:CZ:MSBR:2021:44.C.17.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-20",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b8920f0-d53b-40ca-afd0-6861c0c712fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
