@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:15.C.124.2018.1",
+  "docket": "15 C 124/2018-127",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc027fd3-5165-4a78-9c4a-32c5626616be",
+  "source_sha256": "a7bf756bcef7a0437f010dac551dcbf1c5502f422e8b20046102fc414674543d",
+  "source_id": "cc027fd3-5165-4a78-9c4a-32c5626616be",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 124/2018-127",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Marta Gottwaldová",
+    "ecli": "ECLI:CZ:OSPH04:2021:15.C.124.2018.1",
+    "predmetRizeni": "o náhradu škody",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "insolvence",
+      "péče řádného hospodáře",
+      "peněžité plnění",
+      "smlouva zástavní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 249 z. č. 182/2006 Sb.",
+      "§ 415 z. č. 40/1964 Sb.",
+      "§ 373 z. č. 513/1991 Sb.",
+      "§ 58 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc027fd3-5165-4a78-9c4a-32c5626616be"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
