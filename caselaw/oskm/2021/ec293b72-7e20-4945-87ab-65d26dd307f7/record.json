@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:16.C.40.2021.3",
+  "docket": "16 C 40/2021-55",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec293b72-7e20-4945-87ab-65d26dd307f7",
+  "source_sha256": "672e9fe4b32fb1377538e4499c58a2eb8f92930a46f7443cceb616e6cfc7252e",
+  "source_id": "ec293b72-7e20-4945-87ab-65d26dd307f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 40/2021-55",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Radim Slezák",
+    "ecli": "ECLI:CZ:OSKM:2021:16.C.40.2021.3",
+    "predmetRizeni": "zaplacení 184 106 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "dražba",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 174a z. č. 99/1963 Sb.",
+      "§ 2040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec293b72-7e20-4945-87ab-65d26dd307f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
