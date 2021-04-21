@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:11.C.195.2020.1",
+  "docket": "11 C 195/2020-59",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea8baad9-1f41-4e97-a78c-43b633c7beff",
+  "source_sha256": "eb16327b5f860507fb08da4906c6968575e650135876d09d899c2769e1b633db",
+  "source_id": "ea8baad9-1f41-4e97-a78c-43b633c7beff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 195/2020-59",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petr Strejc",
+    "ecli": "ECLI:CZ:OSPM:2021:11.C.195.2020.1",
+    "predmetRizeni": "73.398 Kč s přísl.",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea8baad9-1f41-4e97-a78c-43b633c7beff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
