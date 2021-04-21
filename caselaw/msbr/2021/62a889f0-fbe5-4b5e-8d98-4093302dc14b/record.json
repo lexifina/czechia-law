@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:220.C.21.2019.1",
+  "docket": "220 C 21/2019-138",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62a889f0-fbe5-4b5e-8d98-4093302dc14b",
+  "source_sha256": "3e23876b3d8f6d2b2af57dfaa6c3901e84149dbdbfa1dbffcfaff503019865dd",
+  "source_id": "62a889f0-fbe5-4b5e-8d98-4093302dc14b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "220 C 21/2019-138",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Marta Mandátová",
+    "ecli": "ECLI:CZ:MSBR:2021:220.C.21.2019.1",
+    "predmetRizeni": "zaplacení 51482 Kč s příslušenstvím - smlouva o úvěru, 8563,68 Kč smluvní pokuta",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 95 z. č. 99/1963 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62a889f0-fbe5-4b5e-8d98-4093302dc14b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
