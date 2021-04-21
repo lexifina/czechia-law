@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:20.C.212.2020.1",
+  "docket": "20 C 212/2020-25",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f5316a7-5cf4-4700-83a4-0bf5b2ab1ff8",
+  "source_sha256": "d147e54cef6ab6fe980d61a0a4692f22418af830dab7f2306d727c4494b713da",
+  "source_id": "4f5316a7-5cf4-4700-83a4-0bf5b2ab1ff8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 212/2020-25",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Marta Mandátová",
+    "ecli": "ECLI:CZ:MSBR:2021:20.C.212.2020.1",
+    "predmetRizeni": "zaplacení 2.418 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f5316a7-5cf4-4700-83a4-0bf5b2ab1ff8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
