@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:18.C.10.2019.1",
+  "docket": "18 C 10/2019-105",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c89e55b-7f3f-4624-b897-3d793ebab827",
+  "source_sha256": "34f8c7f82bb94e9e13d7aa1c6acf845ed32f51a71454a26ca83662c92aba3ef3",
+  "source_id": "4c89e55b-7f3f-4624-b897-3d793ebab827",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 10/2019-105",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Eva Němečková",
+    "ecli": "ECLI:CZ:OSPH09:2021:18.C.10.2019.1",
+    "predmetRizeni": "určení neplatnosti závěti",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "duševní choroba",
+      "duševní porucha",
+      "omezení svéprávnosti",
+      "peněžité plnění",
+      "pozůstalost",
+      "smlouva nájemní",
+      "věcná břemena",
+      "závěť",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 1673 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 37/1967 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c89e55b-7f3f-4624-b897-3d793ebab827"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
