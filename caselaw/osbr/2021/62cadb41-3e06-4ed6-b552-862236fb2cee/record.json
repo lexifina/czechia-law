@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:113.C.12.2020.1",
+  "docket": "113 C 12/2020-71",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62cadb41-3e06-4ed6-b552-862236fb2cee",
+  "source_sha256": "a55b595f53189c067ef8841a624267b748686625ccbee89ce3cc206e1a6350e0",
+  "source_id": "62cadb41-3e06-4ed6-b552-862236fb2cee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "113 C 12/2020-71",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Tomáš Štindl",
+    "ecli": "ECLI:CZ:OSBR:2021:113.C.12.2020.1",
+    "predmetRizeni": "Návrh na zahájení řízení o zaplacení částky 480 183,50 Kč s příslušenstvím a 190 800 Kč na vydání platebního rozkazu.",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva mandátní",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 544 z. č. 89/2012 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 544 z. č. 40/1964 Sb.",
+      "§ 556 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62cadb41-3e06-4ed6-b552-862236fb2cee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
