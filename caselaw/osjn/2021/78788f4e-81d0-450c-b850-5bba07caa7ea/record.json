@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:9.C.83.2021.1",
+  "docket": "9 C 83/2021-8",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/78788f4e-81d0-450c-b850-5bba07caa7ea",
+  "source_sha256": "0b1e24efacd2ee8a140d7ae4e5093b667c0dd16fc718b88cb7ff3e1dc88addf1",
+  "source_id": "78788f4e-81d0-450c-b850-5bba07caa7ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 83/2021-8",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Lucie Treglerová",
+    "ecli": "ECLI:CZ:OSJN:2021:9.C.83.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/78788f4e-81d0-450c-b850-5bba07caa7ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
