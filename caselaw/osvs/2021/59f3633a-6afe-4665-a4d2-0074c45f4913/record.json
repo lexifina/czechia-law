@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:10.C.140.2019.1",
+  "docket": "10 C 140/2019-39",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59f3633a-6afe-4665-a4d2-0074c45f4913",
+  "source_sha256": "118a24dee2e1f31e58e11e4f78a62ee25a89fba57a5fc216eb1ec355fdd9789c",
+  "source_id": "59f3633a-6afe-4665-a4d2-0074c45f4913",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 140/2019-39",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Michal Halamíček",
+    "ecli": "ECLI:CZ:OSVS:2021:10.C.140.2019.1",
+    "predmetRizeni": "žaloba o rozvod manželství",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59f3633a-6afe-4665-a4d2-0074c45f4913"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
