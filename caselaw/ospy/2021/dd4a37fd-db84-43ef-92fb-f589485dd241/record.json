@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:24.C.117.2021.1",
+  "docket": "24 C 117/2021-13",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd4a37fd-db84-43ef-92fb-f589485dd241",
+  "source_sha256": "8e2234f20546ab76a002f7cfebdbb244ca186429bfad74daecacc2811e8912fe",
+  "source_id": "dd4a37fd-db84-43ef-92fb-f589485dd241",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 117/2021-13",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Hana Zdeňková",
+    "ecli": "ECLI:CZ:OSPY:2021:24.C.117.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd4a37fd-db84-43ef-92fb-f589485dd241"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
