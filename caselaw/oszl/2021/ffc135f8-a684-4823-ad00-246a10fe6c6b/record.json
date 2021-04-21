@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:36.C.365.2020.1",
+  "docket": "36 C 365/2020-18",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffc135f8-a684-4823-ad00-246a10fe6c6b",
+  "source_sha256": "d276cc7cd004d4ea9e60527a1f754ddf9d934d579f21f4e2fb4154d3b4d2deb4",
+  "source_id": "ffc135f8-a684-4823-ad00-246a10fe6c6b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 365/2020-18",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2021:36.C.365.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffc135f8-a684-4823-ad00-246a10fe6c6b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
