@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:14.C.442.2020.2",
+  "docket": "14 C 442/2020-16",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4b4ace42-d177-4def-b88e-c7cfd0b8db6b",
+  "source_sha256": "4d83edd809f51305618c8fffb66224df7001b596c068580e949010558ad552b1",
+  "source_id": "4b4ace42-d177-4def-b88e-c7cfd0b8db6b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 442/2020-16",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Otto Plachý",
+    "ecli": "ECLI:CZ:OSUL:2021:14.C.442.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4b4ace42-d177-4def-b88e-c7cfd0b8db6b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
