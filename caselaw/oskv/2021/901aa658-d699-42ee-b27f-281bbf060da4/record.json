@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:17.C.22.2021.1",
+  "docket": "17 C 22/2021-26",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/901aa658-d699-42ee-b27f-281bbf060da4",
+  "source_sha256": "f727fd8eeabc5f1b2eea4c4f4bcf6598daf87354224a1327f9741a3b6ce82cb8",
+  "source_id": "901aa658-d699-42ee-b27f-281bbf060da4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 22/2021-26",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Ondřej Doubek",
+    "ecli": "ECLI:CZ:OSKV:2021:17.C.22.2021.1",
+    "predmetRizeni": "17.099 Kč / úvěr",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 1814 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2395 z. č. 89/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/901aa658-d699-42ee-b27f-281bbf060da4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
