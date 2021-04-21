@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:37.C.49.2021.1",
+  "docket": "37 C 49/2021-20",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/463cc207-0f0e-46b5-90f4-211f605c1d81",
+  "source_sha256": "c4edf49af65ac4c8e6db2eaf6a2cd8a2ee24a7d3ecd0cb991ec43ad91ff1d545",
+  "source_id": "463cc207-0f0e-46b5-90f4-211f605c1d81",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 49/2021-20",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Roman Koťátko",
+    "ecli": "ECLI:CZ:OSCL:2021:37.C.49.2021.1",
+    "predmetRizeni": "O zaplacení 6 066 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/463cc207-0f0e-46b5-90f4-211f605c1d81"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
