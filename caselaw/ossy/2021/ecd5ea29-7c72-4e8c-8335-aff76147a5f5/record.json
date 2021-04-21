@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:5.C.151.2020.1",
+  "docket": "5 C 151/2020-27",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecd5ea29-7c72-4e8c-8335-aff76147a5f5",
+  "source_sha256": "d3b71f3fe831d642795b4aeec96bbada209bbe2e53690dc8ee8eaa84709ab043",
+  "source_id": "ecd5ea29-7c72-4e8c-8335-aff76147a5f5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 151/2020-27",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Martina Šuláková, Ph.D.",
+    "ecli": "ECLI:CZ:OSSY:2021:5.C.151.2020.1",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 1042 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecd5ea29-7c72-4e8c-8335-aff76147a5f5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
