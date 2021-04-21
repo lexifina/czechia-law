@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:29.C.339.2020.1",
+  "docket": "29 C 339/2020-14",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e7c17ae-8561-453e-aabe-e3c52dc062f3",
+  "source_sha256": "a044a2177fd87c380c999e7d795438d0798a93b8259e648b796acee280d82028",
+  "source_id": "1e7c17ae-8561-453e-aabe-e3c52dc062f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 339/2020-14",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2021:29.C.339.2020.1",
+    "predmetRizeni": "zaplacení částky 3 460 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e7c17ae-8561-453e-aabe-e3c52dc062f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
