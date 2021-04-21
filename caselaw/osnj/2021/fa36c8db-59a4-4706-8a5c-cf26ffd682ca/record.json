@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:7.C.49.2020.4",
+  "docket": "7 C 49/2020-66",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa36c8db-59a4-4706-8a5c-cf26ffd682ca",
+  "source_sha256": "0fb3e59bf8bc87d45ec77e4514ba8aa08215d6919ff0cd6f47f81b6fa7a15e56",
+  "source_id": "fa36c8db-59a4-4706-8a5c-cf26ffd682ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 49/2020-66",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Silvie Slaná",
+    "ecli": "ECLI:CZ:OSNJ:2021:7.C.49.2020.4",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-11-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 6 z. č. 91/2012 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 87 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa36c8db-59a4-4706-8a5c-cf26ffd682ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
