@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:23.C.219.2019.1",
+  "docket": "23 C 219/2019-63",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9e8510c-b681-4b25-ab2f-be9900435270",
+  "source_sha256": "b3c592b11afd2ec83494590ff5315e9f7835d47bf293e6d343745c23f6b7d130",
+  "source_id": "a9e8510c-b681-4b25-ab2f-be9900435270",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 219/2019-63",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Michal Novotný",
+    "ecli": "ECLI:CZ:OSPH08:2021:23.C.219.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-12-20",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9e8510c-b681-4b25-ab2f-be9900435270"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
