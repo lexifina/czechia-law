@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:19.C.53.2021.1",
+  "docket": "19 C 53/2021-10",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1846bd5c-3a9b-4746-bde6-740c3e78a976",
+  "source_sha256": "e2ad96725f68586da7234c88c12f4e1b86d284f52ddb7179bb657c4c2c51c101",
+  "source_id": "1846bd5c-3a9b-4746-bde6-740c3e78a976",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 53/2021-10",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Aleš Fikker",
+    "ecli": "ECLI:CZ:OSKV:2021:19.C.53.2021.1",
+    "predmetRizeni": "1.237 Kč / debet účtu",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o běžném účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1846bd5c-3a9b-4746-bde6-740c3e78a976"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
