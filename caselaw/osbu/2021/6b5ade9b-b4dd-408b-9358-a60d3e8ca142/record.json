@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:18.C.215.2020.1",
+  "docket": "18 C 215/2020-63",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6b5ade9b-b4dd-408b-9358-a60d3e8ca142",
+  "source_sha256": "9ebb8b22c58a17de552cfaa6647e6dd28aba8f6ebabc72bf14f2ccda18ce0b41",
+  "source_id": "6b5ade9b-b4dd-408b-9358-a60d3e8ca142",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 215/2020-63",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Jana Tihelková",
+    "ecli": "ECLI:CZ:OSBU:2021:18.C.215.2020.1",
+    "predmetRizeni": "2.563,20 Kč",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6b5ade9b-b4dd-408b-9358-a60d3e8ca142"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
