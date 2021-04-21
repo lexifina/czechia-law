@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:6.C.140.2020.1",
+  "docket": "6 C 140/2020",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ea59292-d60f-4e15-8d5c-754a34841f11",
+  "source_sha256": "ea350a857acaf5424b5d5d7e7ae92a94d8badc4fdb498b9a10720b3373c6fefb",
+  "source_id": "5ea59292-d60f-4e15-8d5c-754a34841f11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 140/2020",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. František Jurtík",
+    "ecli": "ECLI:CZ:OSPV:2021:6.C.140.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ea59292-d60f-4e15-8d5c-754a34841f11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
