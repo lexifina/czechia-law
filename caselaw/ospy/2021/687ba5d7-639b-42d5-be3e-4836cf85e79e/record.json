@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:44.T.19.2021.1",
+  "docket": "44 T 19/2021-83",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/687ba5d7-639b-42d5-be3e-4836cf85e79e",
+  "source_sha256": "25c040ab31d02439cc0f1b49dd4c2ef7e917970077a99d49ba1e8000a9105d90",
+  "source_id": "687ba5d7-639b-42d5-be3e-4836cf85e79e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 T 19/2021-83",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Pavlína Bočková",
+    "ecli": "ECLI:CZ:OSPY:2021:44.T.19.2021.1",
+    "predmetRizeni": "Trestní věc",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-12-10",
+    "klicovaSlova": [
+      "návyková látka",
+      "ohrožení pod vlivem návykové látky",
+      "peněžitý trest",
+      "škoda značná",
+      "trest odnětí svobody",
+      "trest zákazu činnosti",
+      "úhrnný trest",
+      "úplatek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 43 z. č. 40/2009 Sb.",
+      "§ 274 z. č. 40/2009 Sb.",
+      "§ 73 z. č. 40/2009 Sb.",
+      "§ 68 z. č. 40/2009 Sb.",
+      "§ 332 z. č. 40/2009 Sb.",
+      "§ 82 z. č. 40/2009 Sb.",
+      "§ 67 z. č. 40/2009 Sb.",
+      "§ 58 z. č. 40/2009 Sb.",
+      "§ 251 z. č. 141/1961 Sb.",
+      "§ 127 z. č. 40/2009 Sb.",
+      "§ 206c z. č. 141/1961 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/687ba5d7-639b-42d5-be3e-4836cf85e79e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
