@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:15.C.40.2020.1",
+  "docket": "15 C 40/2020-54",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fbd7911d-7971-4724-a1af-b38e4222c071",
+  "source_sha256": "a0b2ed924eb3e4bb31b903c0a002f265ae19b1a4e640ead3e377035509407f38",
+  "source_id": "fbd7911d-7971-4724-a1af-b38e4222c071",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 40/2020-54",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Radek Paclík",
+    "ecli": "ECLI:CZ:OSPH01:2021:15.C.40.2020.1",
+    "predmetRizeni": "o zaplacení 8 513,43 Kč",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 166 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fbd7911d-7971-4724-a1af-b38e4222c071"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
