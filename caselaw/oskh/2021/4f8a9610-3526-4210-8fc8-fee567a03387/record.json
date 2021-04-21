@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:4.C.17.2020.1",
+  "docket": "4 C 17/2020-45",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f8a9610-3526-4210-8fc8-fee567a03387",
+  "source_sha256": "4cc6bdcf661269c84cfcb0c2e5c8bd640d2b6f1ef94df0ceb369d78062d72365",
+  "source_id": "4f8a9610-3526-4210-8fc8-fee567a03387",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 17/2020-45",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Pavla Fukalová",
+    "ecli": "ECLI:CZ:OSKH:2021:4.C.17.2020.1",
+    "predmetRizeni": "O zaplacení 3 500 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f8a9610-3526-4210-8fc8-fee567a03387"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
