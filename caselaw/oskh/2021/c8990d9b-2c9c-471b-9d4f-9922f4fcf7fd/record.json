@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:4.C.36.2021.1",
+  "docket": "4 C 36/2021-13",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c8990d9b-2c9c-471b-9d4f-9922f4fcf7fd",
+  "source_sha256": "13fb7e162f0a16d35b7dc555c562c013b0fd90e8cd44f2e230249bd739614a7c",
+  "source_id": "c8990d9b-2c9c-471b-9d4f-9922f4fcf7fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 36/2021-13",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Pavla Fukalová",
+    "ecli": "ECLI:CZ:OSKH:2021:4.C.36.2021.1",
+    "predmetRizeni": "O zaplacení 2 296,40 Kč",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c8990d9b-2c9c-471b-9d4f-9922f4fcf7fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
