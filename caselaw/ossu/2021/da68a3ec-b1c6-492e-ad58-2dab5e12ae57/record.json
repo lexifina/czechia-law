@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:18.C.239.2020.1",
+  "docket": "18 C 239/2020-24",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da68a3ec-b1c6-492e-ad58-2dab5e12ae57",
+  "source_sha256": "464a45a80b7b6db648c3bcd4520d76bd8de5eab75fdd6de90c9d397373e3ec17",
+  "source_id": "da68a3ec-b1c6-492e-ad58-2dab5e12ae57",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 239/2020-24",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Milan J. Lipenský",
+    "ecli": "ECLI:CZ:OSSU:2021:18.C.239.2020.1",
+    "predmetRizeni": "o 5.000 Kč",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da68a3ec-b1c6-492e-ad58-2dab5e12ae57"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
