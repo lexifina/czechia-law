@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:218.C.12.2020.1",
+  "docket": "218 C 12/2020-77",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05a8cb4f-1c8e-4675-8a52-c8f5c3ed9416",
+  "source_sha256": "e45aaadbabcab5d89f1cfdebe72322cb5a4a6c36027781b63dea5dc82b944b05",
+  "source_id": "05a8cb4f-1c8e-4675-8a52-c8f5c3ed9416",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "218 C 12/2020-77",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Milan J. Lipenský",
+    "ecli": "ECLI:CZ:OSSU:2021:218.C.12.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05a8cb4f-1c8e-4675-8a52-c8f5c3ed9416"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
