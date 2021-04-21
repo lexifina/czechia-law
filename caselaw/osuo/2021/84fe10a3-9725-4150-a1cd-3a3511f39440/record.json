@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:7.C.220.2020.1",
+  "docket": "7 C 220/2020-47",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/84fe10a3-9725-4150-a1cd-3a3511f39440",
+  "source_sha256": "64a2999f1fd33ecd9bccf0671a0ae652d24c6d40efa08dc790b6adbbb4c0f872",
+  "source_id": "84fe10a3-9725-4150-a1cd-3a3511f39440",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 220/2020-47",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Jan Morávek",
+    "ecli": "ECLI:CZ:OSUO:2021:7.C.220.2020.1",
+    "predmetRizeni": "o zaplacení 29 996,39 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "převzetí dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 369 z. č. 513/1991 Sb.",
+      "§ 51 z. č. 40/1964 Sb.",
+      "§ 531 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/84fe10a3-9725-4150-a1cd-3a3511f39440"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
