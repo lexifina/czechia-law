@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:207.C.9.2021.1",
+  "docket": "207 C 9/2021",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b917bcd-6641-4494-a2c7-91f89e7b8639",
+  "source_sha256": "f46560ebd3cfa2839742a6103ae076b05812ed340a09f725a54e89c9eb71f9cf",
+  "source_id": "1b917bcd-6641-4494-a2c7-91f89e7b8639",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "207 C 9/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jarmila Tůmová",
+    "ecli": "ECLI:CZ:OSKD:2021:207.C.9.2021.1",
+    "predmetRizeni": "ozaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 18 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b917bcd-6641-4494-a2c7-91f89e7b8639"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
