@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+  "ecli": "ECLI:CZ:OSVSVM:2021:19.C.20.2021.1",
+  "docket": "19 C 20/2021-29",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9300bd99-6bd3-42ed-bf20-03ea8f21871a",
+  "source_sha256": "f8ef01aab2cb8349295ab59bc2ba68f905aa8a45579892cb695b1f14ce7ec5c5",
+  "source_id": "9300bd99-6bd3-42ed-bf20-03ea8f21871a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 20/2021-29",
+    "soud": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+    "autor": "Mgr. Kateřina Punčochářová",
+    "ecli": "ECLI:CZ:OSVSVM:2021:19.C.20.2021.1",
+    "predmetRizeni": "O zaplacení 3 885,33 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb.",
+      "§ 1939 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9300bd99-6bd3-42ed-bf20-03ea8f21871a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
