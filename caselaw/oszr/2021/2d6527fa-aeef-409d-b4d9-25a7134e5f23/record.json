@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.22.2021.1",
+  "docket": "12 C 22/2021-32",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d6527fa-aeef-409d-b4d9-25a7134e5f23",
+  "source_sha256": "6ea8b79a140be6f6c4e6fe801fe606ee1ac3c2102f5bc20d4e5526ea0142c7d0",
+  "source_id": "2d6527fa-aeef-409d-b4d9-25a7134e5f23",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 22/2021-32",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.22.2021.1",
+    "predmetRizeni": "zaplacení částky [částka] s přísl. a vydání věci",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vydání věci"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2225 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d6527fa-aeef-409d-b4d9-25a7134e5f23"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
