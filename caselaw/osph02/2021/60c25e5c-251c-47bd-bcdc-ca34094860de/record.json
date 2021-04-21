@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:11.C.2.2021.1",
+  "docket": "11 C 2/2021-24",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/60c25e5c-251c-47bd-bcdc-ca34094860de",
+  "source_sha256": "94fc066c246629faf213c9723057e1e637beddf6a4cb387aaea2df9501d09638",
+  "source_id": "60c25e5c-251c-47bd-bcdc-ca34094860de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 2/2021-24",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Martin Trepka",
+    "ecli": "ECLI:CZ:OSPH02:2021:11.C.2.2021.1",
+    "predmetRizeni": "O zaplacení 9 595 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-10-01",
+    "klicovaSlova": [
+      "odpovědnost za škodu způsobenou provozem dopravních prostředků",
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/60c25e5c-251c-47bd-bcdc-ca34094860de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
