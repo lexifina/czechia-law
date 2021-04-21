@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:48.C.49.2021.1",
+  "docket": "48 C 49/2021-39",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8996a3bc-3424-4dc2-8d3c-8a8d09e525b2",
+  "source_sha256": "65037f705941d7f8207c941d62c04080e4aceba1d29c7cc72c08cf05fb356e90",
+  "source_id": "8996a3bc-3424-4dc2-8d3c-8a8d09e525b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 49/2021-39",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Daniel Nevečeřal",
+    "ecli": "ECLI:CZ:OSMO:2021:48.C.49.2021.1",
+    "predmetRizeni": "8 614 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8996a3bc-3424-4dc2-8d3c-8a8d09e525b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
