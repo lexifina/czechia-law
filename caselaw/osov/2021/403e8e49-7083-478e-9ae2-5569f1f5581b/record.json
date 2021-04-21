@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:25.C.275.2020.3",
+  "docket": "25 C 275/2020-44",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/403e8e49-7083-478e-9ae2-5569f1f5581b",
+  "source_sha256": "3b871bc3270f79b11c2202617ebcf18fc8e8841b78b7a3f788a838e45294e4e6",
+  "source_id": "403e8e49-7083-478e-9ae2-5569f1f5581b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 275/2020-44",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Lucie Nohelová",
+    "ecli": "ECLI:CZ:OSOV:2021:25.C.275.2020.3",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/403e8e49-7083-478e-9ae2-5569f1f5581b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
