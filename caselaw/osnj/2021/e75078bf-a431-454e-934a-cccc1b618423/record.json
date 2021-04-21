@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:17.C.40.2021.2",
+  "docket": "17 C 40/2021-11",
+  "date": "2021-04-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e75078bf-a431-454e-934a-cccc1b618423",
+  "source_sha256": "bed16e060f52dc325ecc98d701cfe86b7643c2a2537b7ef0aa1e2ffec95c410d",
+  "source_id": "e75078bf-a431-454e-934a-cccc1b618423",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 40/2021-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jana Fejtová",
+    "ecli": "ECLI:CZ:OSNJ:2021:17.C.40.2021.2",
+    "predmetRizeni": "O zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-21",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e75078bf-a431-454e-934a-cccc1b618423"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
