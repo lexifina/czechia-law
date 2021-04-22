@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:6.C.98.2021.1",
+  "docket": "6 C 98/2021-26",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9a8293ed-082a-4a3a-8c70-4ca79eb6286a",
+  "source_sha256": "33ffb684f43b82c2c4ead140a24a5320d451ec43fd1a500264d1ba2d57bba9bb",
+  "source_id": "9a8293ed-082a-4a3a-8c70-4ca79eb6286a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 98/2021-26",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2021:6.C.98.2021.1",
+    "predmetRizeni": "o zaplacení 19 011 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-10-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86,87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9a8293ed-082a-4a3a-8c70-4ca79eb6286a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
