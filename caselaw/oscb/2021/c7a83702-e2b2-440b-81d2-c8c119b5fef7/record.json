@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:25.C.139.2021.1",
+  "docket": "25 C 139/2021-24",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7a83702-e2b2-440b-81d2-c8c119b5fef7",
+  "source_sha256": "0701b157ac549a3064df7467827bfe80b512526cfc7333b149d5e915f5e80c09",
+  "source_id": "c7a83702-e2b2-440b-81d2-c8c119b5fef7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 139/2021-24",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Marta Toufarová",
+    "ecli": "ECLI:CZ:OSCB:2021:25.C.139.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7a83702-e2b2-440b-81d2-c8c119b5fef7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
