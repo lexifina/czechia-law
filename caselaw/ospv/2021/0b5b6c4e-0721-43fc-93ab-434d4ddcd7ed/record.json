@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:8.C.240.2020 .1",
+  "docket": "8 C 240/2020-62",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b5b6c4e-0721-43fc-93ab-434d4ddcd7ed",
+  "source_sha256": "69ca328b2dcae1a48c8f5a996a9233b9b66b153b65089c4998b9aed76d6ed39c",
+  "source_id": "0b5b6c4e-0721-43fc-93ab-434d4ddcd7ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 240/2020-62",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Dana Malechová",
+    "ecli": "ECLI:CZ:OSPV:2021:8.C.240.2020 .1",
+    "predmetRizeni": "o zaplacení částky 4.967,47 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b5b6c4e-0721-43fc-93ab-434d4ddcd7ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
