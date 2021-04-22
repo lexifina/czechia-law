@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:21.C.8.2021.1",
+  "docket": "21 C 8/2021-44",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/55fe891e-4a7a-4e89-9604-0d10b5272404",
+  "source_sha256": "f10e7a796bc967cebcf46ea7b213a9e1098d0c29d5e7bc3cc8c3c52f443c22e2",
+  "source_id": "55fe891e-4a7a-4e89-9604-0d10b5272404",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 8/2021-44",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Bc. Boris Janíček",
+    "ecli": "ECLI:CZ:OSZN:2021:21.C.8.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55fe891e-4a7a-4e89-9604-0d10b5272404"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
