@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:29.C.368.2020.2",
+  "docket": "29 C 368/2020-22",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aa2e721e-ad3d-4802-9de3-667d06436123",
+  "source_sha256": "82c68a76e65c7c831da6511db89d842ef8174f0f0d8236a43e5eb12a22736a79",
+  "source_id": "aa2e721e-ad3d-4802-9de3-667d06436123",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 368/2020-22",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Hana Langová",
+    "ecli": "ECLI:CZ:OSOV:2021:29.C.368.2020.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 15 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aa2e721e-ad3d-4802-9de3-667d06436123"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
