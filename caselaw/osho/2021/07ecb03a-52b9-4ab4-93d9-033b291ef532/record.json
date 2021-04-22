@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:14.C.243.2020.1",
+  "docket": "14 C 243/2020-29",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07ecb03a-52b9-4ab4-93d9-033b291ef532",
+  "source_sha256": "0f8b625a6f8b6295fbfac7cf5a234be46819ad6c6d6a60d8a88600f0a6a4152c",
+  "source_id": "07ecb03a-52b9-4ab4-93d9-033b291ef532",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 243/2020-29",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Květoslav Šárka",
+    "ecli": "ECLI:CZ:OSHO:2021:14.C.243.2020.1",
+    "predmetRizeni": "zaplacení 4 300 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07ecb03a-52b9-4ab4-93d9-033b291ef532"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
