@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:6.C.106.2020.1",
+  "docket": "6 C 106/2020-62",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5da21496-7a8f-42e1-a015-cd2f1e05702d",
+  "source_sha256": "85740c0a7738521920ace3a702dc882c1a9ba89c58077fd7cf1dab5b8cbe0236",
+  "source_id": "5da21496-7a8f-42e1-a015-cd2f1e05702d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 106/2020-62",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Josef Mužík",
+    "ecli": "ECLI:CZ:OSBV:2021:6.C.106.2020.1",
+    "predmetRizeni": "5.074 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5da21496-7a8f-42e1-a015-cd2f1e05702d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
