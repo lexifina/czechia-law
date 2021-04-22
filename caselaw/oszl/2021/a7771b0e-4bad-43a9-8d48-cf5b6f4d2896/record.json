@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:38.C.85.2021.1",
+  "docket": "38 C 85/2021-74",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7771b0e-4bad-43a9-8d48-cf5b6f4d2896",
+  "source_sha256": "890db48d5a3234073d25609e317c0c1599ed7f973387f77c734e62411fde0fe1",
+  "source_id": "a7771b0e-4bad-43a9-8d48-cf5b6f4d2896",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 85/2021-74",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Jiří Němec",
+    "ecli": "ECLI:CZ:OSZL:2021:38.C.85.2021.1",
+    "predmetRizeni": "zaplacení 16 500 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7771b0e-4bad-43a9-8d48-cf5b6f4d2896"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
