@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:44.C.244.2020.1",
+  "docket": "44 C 244/2020-29",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9e389666-da0f-488d-b43e-99a5f9332b8e",
+  "source_sha256": "df747557e9e7ba295d04a0a197f004b062f30f792b638410a6f3001f031e3e4a",
+  "source_id": "9e389666-da0f-488d-b43e-99a5f9332b8e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 244/2020-29",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ing. Daniel Bartoň",
+    "ecli": "ECLI:CZ:MSBR:2021:44.C.244.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb.",
+      "§  z. č. 292/2013 Sb.",
+      "§ 100 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9e389666-da0f-488d-b43e-99a5f9332b8e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
