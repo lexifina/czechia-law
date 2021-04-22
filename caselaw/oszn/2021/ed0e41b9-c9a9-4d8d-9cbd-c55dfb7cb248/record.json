@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:21.C.2.2021.1",
+  "docket": "21 C 2/2021-56",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed0e41b9-c9a9-4d8d-9cbd-c55dfb7cb248",
+  "source_sha256": "ec2c16533173ed5f6df2cd72fdaf55233bb6058aaf98577498167664abfb573d",
+  "source_id": "ed0e41b9-c9a9-4d8d-9cbd-c55dfb7cb248",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 2/2021-56",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Bc. Boris Janíček",
+    "ecli": "ECLI:CZ:OSZN:2021:21.C.2.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed0e41b9-c9a9-4d8d-9cbd-c55dfb7cb248"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
