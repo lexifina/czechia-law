@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:5.C.138.2020.1",
+  "docket": "5 C 138/2020-35",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab89f456-2ccf-4f91-8252-76edf8f17849",
+  "source_sha256": "a9c4924efefe2982088737f21f9afff3f68df6b3e1cfbb30e10b8a14798f7450",
+  "source_id": "ab89f456-2ccf-4f91-8252-76edf8f17849",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 138/2020-35",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Martin Nováček",
+    "ecli": "ECLI:CZ:OSPE:2021:5.C.138.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab89f456-2ccf-4f91-8252-76edf8f17849"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
