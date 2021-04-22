@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:19.C.66.2021.1",
+  "docket": "19 C 66/2021-11",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f31f016-ae0d-4066-a9e0-dc016a7b1b55",
+  "source_sha256": "78a5985c2525fa2bca54d2db6d1d9ebc60610b5bd3d205c774ca7596819e3f6a",
+  "source_id": "4f31f016-ae0d-4066-a9e0-dc016a7b1b55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 66/2021-11",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Pavla Ondráčková",
+    "ecli": "ECLI:CZ:OSTU:2021:19.C.66.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f31f016-ae0d-4066-a9e0-dc016a7b1b55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
