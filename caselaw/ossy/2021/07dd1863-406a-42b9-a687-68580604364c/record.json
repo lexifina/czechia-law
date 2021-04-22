@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:6.C.67.2021.1",
+  "docket": "6 C 67/2021-50",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07dd1863-406a-42b9-a687-68580604364c",
+  "source_sha256": "358aeb9607fb95a1aa2608a1a912c0bcf2cf0703410d4d661fb3d4ab46f9d6f9",
+  "source_id": "07dd1863-406a-42b9-a687-68580604364c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 67/2021-50",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Lenka Knapčoková, Ph.D.",
+    "ecli": "ECLI:CZ:OSSY:2021:6.C.67.2021.1",
+    "predmetRizeni": "o zaplacení 69 130,46 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 145/2010 Sb.",
+      "§ 174a z. č. 99/1963 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07dd1863-406a-42b9-a687-68580604364c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
