@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:27.C.46.2021.1",
+  "docket": "27 C 46/2021-29",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e5b8f54b-e0df-48b9-b1ad-891c676daa55",
+  "source_sha256": "d3d9c2bc3abc6770909e858159e379c435dce5c81d3302460cac40b225b7169b",
+  "source_id": "e5b8f54b-e0df-48b9-b1ad-891c676daa55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 46/2021-29",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Roman Hlaváč",
+    "ecli": "ECLI:CZ:OSKI:2021:27.C.46.2021.1",
+    "predmetRizeni": "40 517 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e5b8f54b-e0df-48b9-b1ad-891c676daa55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
