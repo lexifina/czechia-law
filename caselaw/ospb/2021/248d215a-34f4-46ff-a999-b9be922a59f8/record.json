@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:10.C.3.2021.1",
+  "docket": "10 C 3/2021-50",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/248d215a-34f4-46ff-a999-b9be922a59f8",
+  "source_sha256": "4b2a6f706ffa8fb06fbf180f659f2c296d9a027f3924492ebd802cc0705e7f8f",
+  "source_id": "248d215a-34f4-46ff-a999-b9be922a59f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 3/2021-50",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Lucie Petráková",
+    "ecli": "ECLI:CZ:OSPB:2021:10.C.3.2021.1",
+    "predmetRizeni": "zaplacení 4 409 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/248d215a-34f4-46ff-a999-b9be922a59f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
