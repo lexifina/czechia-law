@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:18.C.147.2020.5",
+  "docket": "18 C 147/2020-44",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1e58151-8730-445b-9dc2-8700a635bb12",
+  "source_sha256": "efca06206f377d298d3b6ae6f812bbce16dc5c7ed2a3624fa90e7b1eb014bbd5",
+  "source_id": "a1e58151-8730-445b-9dc2-8700a635bb12",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 147/2020-44",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Hermanová",
+    "ecli": "ECLI:CZ:OSCV:2021:18.C.147.2020.5",
+    "predmetRizeni": "zaplacení 3 000 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1e58151-8730-445b-9dc2-8700a635bb12"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
