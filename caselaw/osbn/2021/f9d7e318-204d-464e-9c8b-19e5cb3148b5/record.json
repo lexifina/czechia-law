@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:5.C.97.2019.1",
+  "docket": "5 C 97/2019-194",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9d7e318-204d-464e-9c8b-19e5cb3148b5",
+  "source_sha256": "f5b0178bc547d726e4da89f022b00426bcc9110834feb37e82e78fdda9aac8cd",
+  "source_id": "f9d7e318-204d-464e-9c8b-19e5cb3148b5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 97/2019-194",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2021:5.C.97.2019.1",
+    "predmetRizeni": "vrácení zápůjčky ve výši [částka]",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-11-24",
+    "klicovaSlova": [
+      "dotace",
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce",
+      "smlouva zprostředkovatelská"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9d7e318-204d-464e-9c8b-19e5cb3148b5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
