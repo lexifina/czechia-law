@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:8.C.186.2021.1",
+  "docket": "8 C 186/2021-33",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7178216-aca9-44d9-8fa5-1133ca2c9baa",
+  "source_sha256": "0500591afa2ec15db38719ae74c31c616bb76a8e3b6fcf2b14b7bc91eb864bc4",
+  "source_id": "f7178216-aca9-44d9-8fa5-1133ca2c9baa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 186/2021-33",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2021:8.C.186.2021.1",
+    "predmetRizeni": "O zaplacení 27 813 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dobré mravy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7178216-aca9-44d9-8fa5-1133ca2c9baa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
