@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:33.C.145.2017.1",
+  "docket": "33 C 145/2017-139",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70686182-ce08-48d0-a712-4bb671be7bdf",
+  "source_sha256": "dea6f3d2abc09062aa53bb86cc5f9c0d446d5ec8b64a8810e4588377c00860ef",
+  "source_id": "70686182-ce08-48d0-a712-4bb671be7bdf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 145/2017-139",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tomáš Lehovec",
+    "ecli": "ECLI:CZ:OSPH06:2021:33.C.145.2017.1",
+    "predmetRizeni": "o náhradu újmy na zdraví",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-12-13",
+    "klicovaSlova": [
+      "bolestné",
+      "nemajetková újma",
+      "peněžité plnění",
+      "rehabilitace",
+      "znalecký posudek",
+      "ztížení společenského uplatnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 420 z. č. 89/2012 Sb.",
+      "§ 3036 z. č. 89/2012 Sb.",
+      "§ 3079 z. č. 89/2012 Sb.",
+      "§ 444 z. č. 40/1964 Sb.",
+      "§ 106 z. č. 40/1964 Sb.",
+      "§ 449 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70686182-ce08-48d0-a712-4bb671be7bdf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
