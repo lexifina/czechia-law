@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:21.C.71.2021.1",
+  "docket": "21 C 71/2021-25",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fe88721-e681-40ea-9ff8-039f0158e705",
+  "source_sha256": "bdcef8a768de851174ff7e0cf08843f1299f3b48c0ee600f0d014e1fdf403fb0",
+  "source_id": "2fe88721-e681-40ea-9ff8-039f0158e705",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 71/2021-25",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Alena Mědílková",
+    "ecli": "ECLI:CZ:OSCV:2021:21.C.71.2021.1",
+    "predmetRizeni": "zaplacení 2 387,57 Kč s příslušenstvím (pronájem zařízení, smluvní pokuta)",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozhodčí doložka",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fe88721-e681-40ea-9ff8-039f0158e705"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
