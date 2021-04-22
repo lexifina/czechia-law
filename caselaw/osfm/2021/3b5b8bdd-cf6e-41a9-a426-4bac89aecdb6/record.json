@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:10.C.361.2020.1",
+  "docket": "10 C 361/2020-23",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b5b8bdd-cf6e-41a9-a426-4bac89aecdb6",
+  "source_sha256": "5400162da2bba9551e2e36315873c2e86e5942fa769dbc041f4965340d9b0498",
+  "source_id": "3b5b8bdd-cf6e-41a9-a426-4bac89aecdb6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 361/2020-23",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Špoková",
+    "ecli": "ECLI:CZ:OSFM:2021:10.C.361.2020.1",
+    "predmetRizeni": "O zaplacení 5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b5b8bdd-cf6e-41a9-a426-4bac89aecdb6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
