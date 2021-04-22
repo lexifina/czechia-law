@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:10.C.154.2021.1",
+  "docket": "10 C 154/2021-14",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c55e8b5c-0450-4d92-978e-997b7440bfdb",
+  "source_sha256": "53d600f55c4bdef3c17d06b6083c4f32c67166daf30a5b62cb0c59d4dd6e3161",
+  "source_id": "c55e8b5c-0450-4d92-978e-997b7440bfdb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 154/2021-14",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Lucie Kubová",
+    "ecli": "ECLI:CZ:OSCB:2021:10.C.154.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 15 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c55e8b5c-0450-4d92-978e-997b7440bfdb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
