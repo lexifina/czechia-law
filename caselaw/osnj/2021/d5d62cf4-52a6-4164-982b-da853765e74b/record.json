@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:8.C.65.2021.3",
+  "docket": "8 C 65/2021-26",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5d62cf4-52a6-4164-982b-da853765e74b",
+  "source_sha256": "7dedec8a93ae4e8d1d21c198b2fbaf3973b6dfc6d52b908c641ae963d56feff0",
+  "source_id": "d5d62cf4-52a6-4164-982b-da853765e74b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 65/2021-26",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Taťána Hodaňová",
+    "ecli": "ECLI:CZ:OSNJ:2021:8.C.65.2021.3",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5d62cf4-52a6-4164-982b-da853765e74b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
