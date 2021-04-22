@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:28.C.289.2020.1",
+  "docket": "28 C 289/2020-32",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c132d6b-e21d-4d87-bc0b-bb92765e4581",
+  "source_sha256": "3d7f0bad52bb6af36704606e7ed756c16514d9d66d5c5c8e6e9a380a1a853d4c",
+  "source_id": "2c132d6b-e21d-4d87-bc0b-bb92765e4581",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 289/2020-32",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Eduard Levý",
+    "ecli": "ECLI:CZ:OSCB:2021:28.C.289.2020.1",
+    "predmetRizeni": "o určení výživného",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c132d6b-e21d-4d87-bc0b-bb92765e4581"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
