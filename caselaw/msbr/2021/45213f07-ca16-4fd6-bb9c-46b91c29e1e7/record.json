@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:48.C.14.2021.1",
+  "docket": "48 C 14/2021-19",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/45213f07-ca16-4fd6-bb9c-46b91c29e1e7",
+  "source_sha256": "9bca8d05e5d73e8384b8c7f085af16ae6d9b92f0a3e65420a85a2a1b069441d5",
+  "source_id": "45213f07-ca16-4fd6-bb9c-46b91c29e1e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 14/2021-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2021:48.C.14.2021.1",
+    "predmetRizeni": "zaplacení 6.900 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-10-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/45213f07-ca16-4fd6-bb9c-46b91c29e1e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
