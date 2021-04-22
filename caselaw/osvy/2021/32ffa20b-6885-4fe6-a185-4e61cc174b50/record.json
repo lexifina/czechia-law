@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.51.2021.1",
+  "docket": "7 C 51/2021-42",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32ffa20b-6885-4fe6-a185-4e61cc174b50",
+  "source_sha256": "c3093a0e83b60106ba1f3f0b97a2432ba354fe244ac5a9320871f4f75b03a66d",
+  "source_id": "32ffa20b-6885-4fe6-a185-4e61cc174b50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 51/2021-42",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.51.2021.1",
+    "predmetRizeni": "zaplacení částky 1 007 Kč s příslušenstvím - příspěvek",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32ffa20b-6885-4fe6-a185-4e61cc174b50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
