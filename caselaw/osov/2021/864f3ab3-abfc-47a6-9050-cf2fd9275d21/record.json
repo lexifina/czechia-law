@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:29.C.78.2021.2",
+  "docket": "29 C 78/2021-15",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/864f3ab3-abfc-47a6-9050-cf2fd9275d21",
+  "source_sha256": "b183f4ca7637ac0c4564e86f2e5b878b5bc285d650be650d6e96b907c28fc6ba",
+  "source_id": "864f3ab3-abfc-47a6-9050-cf2fd9275d21",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 78/2021-15",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Hana Langová",
+    "ecli": "ECLI:CZ:OSOV:2021:29.C.78.2021.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/94 Sb.",
+      "§ 18a z. č. 111/94 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/864f3ab3-abfc-47a6-9050-cf2fd9275d21"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
