@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:7.C.298.2020.1",
+  "docket": "7 C 298/2020-40",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2745c89-8ec5-4451-ab9e-cff5cd6bc02f",
+  "source_sha256": "4f95a4f090e70342f7feaad6a39ea8f5239fbff815818f359f2a7d746f9fd101",
+  "source_id": "d2745c89-8ec5-4451-ab9e-cff5cd6bc02f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 298/2020-40",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Martin Valehrach",
+    "ecli": "ECLI:CZ:OSPH08:2021:7.C.298.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2745c89-8ec5-4451-ab9e-cff5cd6bc02f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
