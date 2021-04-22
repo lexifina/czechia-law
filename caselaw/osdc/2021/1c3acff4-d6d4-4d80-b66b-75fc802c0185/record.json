@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:18.C.41.2021.1",
+  "docket": "18 C 41/2021-13",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c3acff4-d6d4-4d80-b66b-75fc802c0185",
+  "source_sha256": "dffadb74bee3c0bad9d8777589e40ac94f17a4cc4682d4ddc582b8c8defd2d5f",
+  "source_id": "1c3acff4-d6d4-4d80-b66b-75fc802c0185",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 41/2021-13",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Červinka",
+    "ecli": "ECLI:CZ:OSDC:2021:18.C.41.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c3acff4-d6d4-4d80-b66b-75fc802c0185"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
