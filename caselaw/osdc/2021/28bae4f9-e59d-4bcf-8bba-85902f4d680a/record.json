@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:18.C.352.2020.1",
+  "docket": "18 C 352/2020-15",
+  "date": "2021-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/28bae4f9-e59d-4bcf-8bba-85902f4d680a",
+  "source_sha256": "7c4097cd7bcfc8f46e7482dca9e6eb56f72f14d9218664607eefb77efe364dfe",
+  "source_id": "28bae4f9-e59d-4bcf-8bba-85902f4d680a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 352/2020-15",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Červinka",
+    "ecli": "ECLI:CZ:OSDC:2021:18.C.352.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-04-22",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1724 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/28bae4f9-e59d-4bcf-8bba-85902f4d680a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
