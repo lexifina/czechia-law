@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:18.C.246.2020.1",
+  "docket": "18 C 246/2020-53",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bcad03b0-20bc-4133-bd5c-a945f330ba36",
+  "source_sha256": "0f9dbe016557ed4bce7f843df3966f91e18e8b464ccaefdde089794bb697a53f",
+  "source_id": "bcad03b0-20bc-4133-bd5c-a945f330ba36",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 246/2020-53",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Jana Tihelková",
+    "ecli": "ECLI:CZ:OSBU:2021:18.C.246.2020.1",
+    "predmetRizeni": "50.313,81 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bcad03b0-20bc-4133-bd5c-a945f330ba36"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
