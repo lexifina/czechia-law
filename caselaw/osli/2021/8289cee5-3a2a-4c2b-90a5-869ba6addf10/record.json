@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.37.2021.1",
+  "docket": "19 C 37/2021-19",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8289cee5-3a2a-4c2b-90a5-869ba6addf10",
+  "source_sha256": "6148be8f3e8f44eec71dd84379bac69ebfff4d9b076593d700bc76b583a4fb4d",
+  "source_id": "8289cee5-3a2a-4c2b-90a5-869ba6addf10",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 37/2021-19",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.37.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 23.000,00 Kč s přísl.",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-06-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8289cee5-3a2a-4c2b-90a5-869ba6addf10"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
