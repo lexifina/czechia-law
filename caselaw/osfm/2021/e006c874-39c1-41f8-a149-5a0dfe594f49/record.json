@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:19.C.308.2013.1",
+  "docket": "19 C 308/2013-246",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e006c874-39c1-41f8-a149-5a0dfe594f49",
+  "source_sha256": "a3fd74316cdecc6bd09aae29bdb95ce8cf13dec65eeded8592e8456da6aed028",
+  "source_id": "e006c874-39c1-41f8-a149-5a0dfe594f49",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 308/2013-246",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Zuzana Benešová",
+    "ecli": "ECLI:CZ:OSFM:2021:19.C.308.2013.1",
+    "predmetRizeni": "o určení neexistence zástavního práva",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-09-02",
+    "klicovaSlova": [
+      "smlouva kupní",
+      "smlouva o úvěru",
+      "smlouva zástavní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 40/1964 Sb.",
+      "§ 161 z. č. 40/1964 Sb.",
+      "§ 3054 z. č. 89/2012 Sb.",
+      "§ 20 z. č. 40/1964 Sb.",
+      "§ 31 z. č. 40/1964 Sb.",
+      "§ 33 z. č. 40/1964 Sb.",
+      "§ 156 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e006c874-39c1-41f8-a149-5a0dfe594f49"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
