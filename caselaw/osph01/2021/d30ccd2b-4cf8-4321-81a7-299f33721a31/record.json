@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:65.C.20.2021.1",
+  "docket": "65 C 20/2021",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d30ccd2b-4cf8-4321-81a7-299f33721a31",
+  "source_sha256": "7193c413bc0eb1171521a79d06590053d89d40318fc0b2decd56c336c3e7ef05",
+  "source_id": "d30ccd2b-4cf8-4321-81a7-299f33721a31",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "65 C 20/2021",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Jiří Kohoutek",
+    "ecli": "ECLI:CZ:OSPH01:2021:65.C.20.2021.1",
+    "predmetRizeni": "o zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 17 z. č. 379/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d30ccd2b-4cf8-4321-81a7-299f33721a31"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
