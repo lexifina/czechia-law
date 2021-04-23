@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.64.2021.1",
+  "docket": "19 C 64/2021-33",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c43023d4-b3bf-46a3-be25-9954111d0551",
+  "source_sha256": "3b7f2b525827f214e9069eb9884e38a6b7ff4c1f22f149c72d473ff7f1c539a6",
+  "source_id": "c43023d4-b3bf-46a3-be25-9954111d0551",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 64/2021-33",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.64.2021.1",
+    "predmetRizeni": "Žaloba - zaplacení částky 35 400,74 Kč s přísl.",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-08-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c43023d4-b3bf-46a3-be25-9954111d0551"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
