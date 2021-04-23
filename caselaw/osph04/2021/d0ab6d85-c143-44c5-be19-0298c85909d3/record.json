@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:38.C.312.2020.1",
+  "docket": "38 C 312/2020-43",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0ab6d85-c143-44c5-be19-0298c85909d3",
+  "source_sha256": "345192fd674d3eb6f1a5213e9abb26a4aa311780fa624b2e0f38447743901a9a",
+  "source_id": "d0ab6d85-c143-44c5-be19-0298c85909d3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 312/2020-43",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Ing. Lumír Hodina",
+    "ecli": "ECLI:CZ:OSPH04:2021:38.C.312.2020.1",
+    "predmetRizeni": "O zaplacení 2 825 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-09-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0ab6d85-c143-44c5-be19-0298c85909d3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
