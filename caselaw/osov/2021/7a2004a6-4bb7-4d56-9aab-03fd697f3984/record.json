@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:32.C.81.2021.2",
+  "docket": "32 C 81/2021-13",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a2004a6-4bb7-4d56-9aab-03fd697f3984",
+  "source_sha256": "ba8c62155f80e4b82c26d5081f9365b8a0dbbe1657d593f05bc0ab9aeb0c2ff1",
+  "source_id": "7a2004a6-4bb7-4d56-9aab-03fd697f3984",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 81/2021-13",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jitka Kulichová",
+    "ecli": "ECLI:CZ:OSOV:2021:32.C.81.2021.2",
+    "predmetRizeni": "o zaplacení 4 564 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 3 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a2004a6-4bb7-4d56-9aab-03fd697f3984"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
