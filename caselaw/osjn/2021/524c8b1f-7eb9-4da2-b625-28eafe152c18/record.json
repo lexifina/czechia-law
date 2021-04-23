@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:12.C.234.2019.2",
+  "docket": "12 C 234/2019-95",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/524c8b1f-7eb9-4da2-b625-28eafe152c18",
+  "source_sha256": "317d1d6f7340318628ba180fa24809f46adf499140128cb2f6ce526d65f423b3",
+  "source_id": "524c8b1f-7eb9-4da2-b625-28eafe152c18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 234/2019-95",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2021:12.C.234.2019.2",
+    "predmetRizeni": "o zaplacení 50 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "odstupné",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva zprostředkovatelská",
+      "ušlý zisk",
+      "zajištění závazku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 1814 z. č. 89/2012 Sb.",
+      "§ 2445 z. č. 89/2012 Sb.",
+      "§ 2404 z. č. 89/2012 Sb.",
+      "§ 2545 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/524c8b1f-7eb9-4da2-b625-28eafe152c18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
