@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:13.C.55.2021.1",
+  "docket": "13 C 55/2021-23",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/be249c03-5161-4046-8fe5-92aa07130f7c",
+  "source_sha256": "c469a43d243e0fc660d219260ff3491d672bb3b8a485544749355a1e2ca98914",
+  "source_id": "be249c03-5161-4046-8fe5-92aa07130f7c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 55/2021-23",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Tomáš Hoza",
+    "ecli": "ECLI:CZ:OSNJ:2021:13.C.55.2021.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2920 z. č. 89/2012 Sb.",
+      "§  z. č. 109/2002 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/be249c03-5161-4046-8fe5-92aa07130f7c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
