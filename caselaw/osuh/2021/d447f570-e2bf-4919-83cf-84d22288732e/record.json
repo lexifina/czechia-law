@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:4.C.41.2021.1",
+  "docket": "4 C 41/2021-46",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d447f570-e2bf-4919-83cf-84d22288732e",
+  "source_sha256": "1a5d8b9ebf8b2ccb279bdf449b3342f3b57e145a65a98b87b99f0430f40e07ed",
+  "source_id": "d447f570-e2bf-4919-83cf-84d22288732e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 41/2021-46",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "JUDr. Jaroslava Hamadová",
+    "ecli": "ECLI:CZ:OSUH:2021:4.C.41.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d447f570-e2bf-4919-83cf-84d22288732e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
