@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:29.C.107.2021.1",
+  "docket": "29 C 107/2021-51",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e63ebe76-6170-4cbd-95d5-aeda42c0895a",
+  "source_sha256": "50fa500ac10fa938e6e139cd1cb07ab66f88149cfb01c125a436f93889405b87",
+  "source_id": "e63ebe76-6170-4cbd-95d5-aeda42c0895a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 107/2021-51",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Hana Suchánková",
+    "ecli": "ECLI:CZ:OSPH08:2021:29.C.107.2021.1",
+    "predmetRizeni": "o zaplacení 1 490 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e63ebe76-6170-4cbd-95d5-aeda42c0895a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
