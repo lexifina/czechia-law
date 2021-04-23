@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:37.C.24.2021.2",
+  "docket": "37 C 24/2021-33",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2dde8129-8f2f-405b-88ba-bb201bae1472",
+  "source_sha256": "7a8139e6a41dbdb11140282b49986dc48b31ae5b8efb16058a0d5f8f81893a4a",
+  "source_id": "2dde8129-8f2f-405b-88ba-bb201bae1472",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 24/2021-33",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Leona Cibulková",
+    "ecli": "ECLI:CZ:OSOV:2021:37.C.24.2021.2",
+    "predmetRizeni": "o zaplacení 4 402 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2dde8129-8f2f-405b-88ba-bb201bae1472"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
