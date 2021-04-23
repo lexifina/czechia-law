@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:20.C.3.2021.1",
+  "docket": "20 C 3/2021-25",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ae51951-3123-432f-80ed-43b451835d0c",
+  "source_sha256": "23d55a5485049f53b3224a8cdd5e69936c29ca8f1929cd1ba50e04d7952d7aff",
+  "source_id": "4ae51951-3123-432f-80ed-43b451835d0c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 3/2021-25",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "Mgr. Miroslav Neuer",
+    "ecli": "ECLI:CZ:OSVS:2021:20.C.3.2021.1",
+    "predmetRizeni": "O zaplacení 4 000 Kč",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ae51951-3123-432f-80ed-43b451835d0c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
