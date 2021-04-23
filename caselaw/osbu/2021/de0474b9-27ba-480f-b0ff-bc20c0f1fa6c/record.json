@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:9.C.117.2020.1",
+  "docket": "9 C 117/2020-62",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de0474b9-27ba-480f-b0ff-bc20c0f1fa6c",
+  "source_sha256": "12ca79a6ede10e3f19d460b7f0088f4981cb0af13490ea6fd7c7ece51a9cf0ec",
+  "source_id": "de0474b9-27ba-480f-b0ff-bc20c0f1fa6c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 117/2020-62",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Eva Daříčková",
+    "ecli": "ECLI:CZ:OSBU:2021:9.C.117.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de0474b9-27ba-480f-b0ff-bc20c0f1fa6c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
