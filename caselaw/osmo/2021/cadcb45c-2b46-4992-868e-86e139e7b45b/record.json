@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:60.C.50.2021.2",
+  "docket": "60 C 50/2021-23",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cadcb45c-2b46-4992-868e-86e139e7b45b",
+  "source_sha256": "563e320ef2b441e505576f632cfbe5652bc35f89a13dd4fdb4db0b1e9dd16e8e",
+  "source_id": "cadcb45c-2b46-4992-868e-86e139e7b45b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 50/2021-23",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2021:60.C.50.2021.2",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cadcb45c-2b46-4992-868e-86e139e7b45b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
