@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:12.C.98.2020.1",
+  "docket": "12 C 98/2020-62",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e879e12-cd38-4c1b-aafb-c72a9250c7b1",
+  "source_sha256": "6d6366555e9fd7a0666d50f00572cdacce0157b9186d5bb81c9418738a017cc0",
+  "source_id": "7e879e12-cd38-4c1b-aafb-c72a9250c7b1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 98/2020-62",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milan Plhal",
+    "ecli": "ECLI:CZ:OSHK:2021:12.C.98.2020.1",
+    "predmetRizeni": "o zaplacení částky 35 700 Kč s příslušenstvím",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva zprostředkovatelská",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 548 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e879e12-cd38-4c1b-aafb-c72a9250c7b1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
