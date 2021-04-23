@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:115.C.103.2020.1",
+  "docket": "115 C 103/2020-60",
+  "date": "2021-04-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/465576f6-1cb3-489a-bd57-3c75ddcc35f5",
+  "source_sha256": "923efcd820ae66955bd74379eb4eac3b2d9a36a29bb5a5363e673035f3ecbdce",
+  "source_id": "465576f6-1cb3-489a-bd57-3c75ddcc35f5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 103/2020-60",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Slaná",
+    "ecli": "ECLI:CZ:MSBR:2021:115.C.103.2020.1",
+    "predmetRizeni": "určení vlastnického práva k nemovitým věcem a vyklizení nemovitých věcí",
+    "datumVydani": "2021-04-23",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "jmění",
+      "podílové spoluvlastnictví",
+      "smlouva darovací",
+      "spoluvlastnictví",
+      "vrácení daru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2072 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/465576f6-1cb3-489a-bd57-3c75ddcc35f5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
