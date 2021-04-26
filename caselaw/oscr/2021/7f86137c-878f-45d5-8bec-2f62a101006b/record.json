@@ -1,0 +1,52 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:11.C.301.2018.1",
+  "docket": "11 C 301/2018-284",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f86137c-878f-45d5-8bec-2f62a101006b",
+  "source_sha256": "74871abe524b55ed4ec2376ff899f3e2144975e5e8df7095ccccdd644de0ab01",
+  "source_id": "7f86137c-878f-45d5-8bec-2f62a101006b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 301/2018-284",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Hynek Baňouch, Ph.D.",
+    "ecli": "ECLI:CZ:OSCR:2021:11.C.301.2018.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-11-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "rozsudek mezitímní",
+      "smlouva darovací",
+      "smlouva kupní",
+      "smlouva nájemní",
+      "věcná břemena",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 136 z. č. 99/1963 Sb.",
+      "§ 13 z. č. 89/2012 Sb.",
+      "§ 2231 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 229/1991 Sb.",
+      "§  z. č. 2/1992 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f86137c-878f-45d5-8bec-2f62a101006b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
