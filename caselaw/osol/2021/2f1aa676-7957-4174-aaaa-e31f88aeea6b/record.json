@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:12.C.75.2021.2",
+  "docket": "12 C 75/2021-20",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2f1aa676-7957-4174-aaaa-e31f88aeea6b",
+  "source_sha256": "37b414b6baab811f5e0d47c925ef60a309479af829a0354d251d27197bbc8509",
+  "source_id": "2f1aa676-7957-4174-aaaa-e31f88aeea6b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 75/2021-20",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Jitka Rollerová, Dr.",
+    "ecli": "ECLI:CZ:OSOL:2021:12.C.75.2021.2",
+    "predmetRizeni": "o 1 620 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 5 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2f1aa676-7957-4174-aaaa-e31f88aeea6b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
