@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:17.C.89.2021.1",
+  "docket": "17 C 89/2021-8",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd95e4ec-2a98-46eb-978e-9ca4570a3830",
+  "source_sha256": "c71d3e493a3fef1c03b874c33a851d2988d903b8c7a8025a7cdf3c0db43ac38b",
+  "source_id": "bd95e4ec-2a98-46eb-978e-9ca4570a3830",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 89/2021-8",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Tereza Brandová",
+    "ecli": "ECLI:CZ:OSNB:2021:17.C.89.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd95e4ec-2a98-46eb-978e-9ca4570a3830"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
