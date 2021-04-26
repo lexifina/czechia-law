@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:35.C.60.2021.1",
+  "docket": "35 C 60/2021-36",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/edadb4e2-25d4-4df1-9ab1-e7bfba0d871d",
+  "source_sha256": "f6326db519181c9194a995e39b87600956bdce0886767b41dc0c6f951507f18d",
+  "source_id": "edadb4e2-25d4-4df1-9ab1-e7bfba0d871d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 60/2021-36",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Ing. Viktor Smolík",
+    "ecli": "ECLI:CZ:OSPY:2021:35.C.60.2021.1",
+    "predmetRizeni": "O zaplacení 7 228 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 110 z. č. 257/2016 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 104 z. č. 257/2016 Sb.",
+      "§ 7 z. č. 297/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/edadb4e2-25d4-4df1-9ab1-e7bfba0d871d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
