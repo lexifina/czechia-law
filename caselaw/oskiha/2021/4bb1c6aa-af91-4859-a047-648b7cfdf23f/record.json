@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:111.C.382.2020.1",
+  "docket": "111 C 382/2020-35",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4bb1c6aa-af91-4859-a047-648b7cfdf23f",
+  "source_sha256": "e765dc8c56a11e29154eb3e0a1c8d982fc036648fc3caa8b7c63e9248e49f1d2",
+  "source_id": "4bb1c6aa-af91-4859-a047-648b7cfdf23f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 382/2020-35",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Otto Slavík",
+    "ecli": "ECLI:CZ:OSKIHA:2021:111.C.382.2020.1",
+    "predmetRizeni": "3 780 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4bb1c6aa-af91-4859-a047-648b7cfdf23f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
