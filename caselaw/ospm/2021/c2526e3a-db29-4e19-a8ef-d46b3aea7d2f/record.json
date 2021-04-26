@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:31.C.10.2021.1",
+  "docket": "31 C 10/2021-42",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2526e3a-db29-4e19-a8ef-d46b3aea7d2f",
+  "source_sha256": "90de73453b3d6c3a639a12539a5b227f09b80cb47b978e370fea244861cef4fb",
+  "source_id": "c2526e3a-db29-4e19-a8ef-d46b3aea7d2f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 10/2021-42",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Monika Mlíčková",
+    "ecli": "ECLI:CZ:OSPM:2021:31.C.10.2021.1",
+    "predmetRizeni": "O zaplacení 62 030 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2526e3a-db29-4e19-a8ef-d46b3aea7d2f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
