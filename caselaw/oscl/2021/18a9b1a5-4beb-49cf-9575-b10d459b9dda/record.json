@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:14.C.135.2020.2",
+  "docket": "14 C 135/2020-19",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/18a9b1a5-4beb-49cf-9575-b10d459b9dda",
+  "source_sha256": "23b10a163992c3c85c7251c218ae671c8ee3cab65e3f0a0bdc2c101680ae7af8",
+  "source_id": "18a9b1a5-4beb-49cf-9575-b10d459b9dda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 135/2020-19",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Ing. Ivana Šmakalová",
+    "ecli": "ECLI:CZ:OSCL:2021:14.C.135.2020.2",
+    "predmetRizeni": "O zaplacení 29 151,40 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/18a9b1a5-4beb-49cf-9575-b10d459b9dda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
