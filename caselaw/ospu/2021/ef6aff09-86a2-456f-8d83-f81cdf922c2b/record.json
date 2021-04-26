@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:17.C.86.2021.1",
+  "docket": "17 C 86/2021-31",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef6aff09-86a2-456f-8d83-f81cdf922c2b",
+  "source_sha256": "a476b340faad5c06ba414ece0ef73fa972058b796af5505c99987d13b081d670",
+  "source_id": "ef6aff09-86a2-456f-8d83-f81cdf922c2b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 86/2021-31",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Naděžda Librová",
+    "ecli": "ECLI:CZ:OSPU:2021:17.C.86.2021.1",
+    "predmetRizeni": "o zaplacení 1 927 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef6aff09-86a2-456f-8d83-f81cdf922c2b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
