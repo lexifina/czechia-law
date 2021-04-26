@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rakovníku",
+  "ecli": "ECLI:CZ:OSRA:2021:7.C.98.2020.1",
+  "docket": "7 C 98/2020-60",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4606cd81-abda-400f-98b6-ee78e4d754f6",
+  "source_sha256": "2aa061f654504fe0568d3aaa66c232081717af23bbf7e785aa36f47c7eabb50f",
+  "source_id": "4606cd81-abda-400f-98b6-ee78e4d754f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 98/2020-60",
+    "soud": "Okresní soud v Rakovníku",
+    "autor": "Mgr. et  Mgr. Eva Pechlátová",
+    "ecli": "ECLI:CZ:OSRA:2021:7.C.98.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 201 z. č. 99/1963 Sb.",
+      "§ 12a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4606cd81-abda-400f-98b6-ee78e4d754f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
