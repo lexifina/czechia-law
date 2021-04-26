@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:16.C.268.2020.2",
+  "docket": "16 C 268/2020-42",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5d1ff98-df4f-47c0-a496-a29db4a2b2fd",
+  "source_sha256": "d1af920fa2108f8c9a39322957beff36deeea4ede079378c71d9a766f34858f3",
+  "source_id": "d5d1ff98-df4f-47c0-a496-a29db4a2b2fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 268/2020-42",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Marie Švecová",
+    "ecli": "ECLI:CZ:OSMO:2021:16.C.268.2020.2",
+    "predmetRizeni": "11 656,56 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 1908 z. č. 89/2012 Sb.",
+      "§ 168 z. č. 257/2016 Sb.",
+      "§ 1930 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5d1ff98-df4f-47c0-a496-a29db4a2b2fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
