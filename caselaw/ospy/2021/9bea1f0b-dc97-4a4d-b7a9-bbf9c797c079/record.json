@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.173.2021.1",
+  "docket": "36 C 173/2021",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9bea1f0b-dc97-4a4d-b7a9-bbf9c797c079",
+  "source_sha256": "7eccf73d0ad917fb972b952b77eacb4155cfd77fafad06dda1a124ee47967d74",
+  "source_id": "9bea1f0b-dc97-4a4d-b7a9-bbf9c797c079",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 173/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.173.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "notářský zápis",
+      "rozvod manželství",
+      "společné jmění manželů"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9bea1f0b-dc97-4a4d-b7a9-bbf9c797c079"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
