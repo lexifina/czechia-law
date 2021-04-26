@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:7.C.439.2020.2",
+  "docket": "7 C 439/2020-42",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba70a05b-661e-4bf4-a81c-147db7885c75",
+  "source_sha256": "df97f46def9eed3a205a8ff9f5c667dfff8f80bc0322ac02442f93aecbbe62d2",
+  "source_id": "ba70a05b-661e-4bf4-a81c-147db7885c75",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 439/2020-42",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Pavel Téra",
+    "ecli": "ECLI:CZ:OSUL:2021:7.C.439.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 142od z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba70a05b-661e-4bf4-a81c-147db7885c75"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
