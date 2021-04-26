@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:12.C.58.2021.1",
+  "docket": "12 C 58/2021-39",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6a665437-8ae1-4117-b849-df9c6e133806",
+  "source_sha256": "34c96dc0aaeb6113258b780e2e5a1dabf6a5ed8776d6b78c1b363a50501b33bd",
+  "source_id": "6a665437-8ae1-4117-b849-df9c6e133806",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 58/2021-39",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Renáta Bielová",
+    "ecli": "ECLI:CZ:OSKO:2021:12.C.58.2021.1",
+    "predmetRizeni": "o zaplacení 34 434,80 Kč s přísl.",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6a665437-8ae1-4117-b849-df9c6e133806"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
