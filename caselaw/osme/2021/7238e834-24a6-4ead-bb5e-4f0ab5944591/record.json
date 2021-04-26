@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:12.C.95.2021.1",
+  "docket": "12 C 95/2021",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7238e834-24a6-4ead-bb5e-4f0ab5944591",
+  "source_sha256": "efb71e8453ad187653c28eede60272b08425bbff8d583e853931bf44dcdde4ae",
+  "source_id": "7238e834-24a6-4ead-bb5e-4f0ab5944591",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 95/2021",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Daniela Kulíková",
+    "ecli": "ECLI:CZ:OSME:2021:12.C.95.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7238e834-24a6-4ead-bb5e-4f0ab5944591"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
