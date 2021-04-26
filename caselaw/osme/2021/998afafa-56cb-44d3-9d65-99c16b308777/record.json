@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:16.C.96.2021.1",
+  "docket": "16 C 96/2021-26",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/998afafa-56cb-44d3-9d65-99c16b308777",
+  "source_sha256": "1be133ce21ebccc38222f96712a71e14cddf9f1e6e3d30906bf11d8fa15cbf73",
+  "source_id": "998afafa-56cb-44d3-9d65-99c16b308777",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 96/2021-26",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Michaela Dvořáčková",
+    "ecli": "ECLI:CZ:OSME:2021:16.C.96.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/998afafa-56cb-44d3-9d65-99c16b308777"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
