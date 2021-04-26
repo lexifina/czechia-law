@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:3.C.2.2021.1",
+  "docket": "3 C 2/2021-44",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aea3b941-efaa-439d-a8b0-b65fbe222545",
+  "source_sha256": "d3dc06fcfbb2a3928b7bd036efad91ee8fb5ef467ae2769a7569a35d5a598801",
+  "source_id": "aea3b941-efaa-439d-a8b0-b65fbe222545",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 2/2021-44",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Petra Burešová",
+    "ecli": "ECLI:CZ:OSBK:2021:3.C.2.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb.",
+      "§ 178 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aea3b941-efaa-439d-a8b0-b65fbe222545"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
