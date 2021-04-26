@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:19.C.37.2020.1",
+  "docket": "19 C 37/2020",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6565fc74-cc86-4892-a196-66718cca88b6",
+  "source_sha256": "77723add1c040a6406f6444732554c17850338880ae5349d1cfda1212ef8800b",
+  "source_id": "6565fc74-cc86-4892-a196-66718cca88b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 37/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jaroslav Lockenbauer",
+    "ecli": "ECLI:CZ:OSKD:2021:19.C.37.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 123 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6565fc74-cc86-4892-a196-66718cca88b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
