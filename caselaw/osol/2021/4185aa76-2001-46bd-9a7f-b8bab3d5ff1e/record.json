@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:16.C.310.2020.2",
+  "docket": "16 C 310/2020-24",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4185aa76-2001-46bd-9a7f-b8bab3d5ff1e",
+  "source_sha256": "ee6f627c4d68744ee5c773c1d142e9d3b272e4f7a4a8a6c02a174bf108e04d54",
+  "source_id": "4185aa76-2001-46bd-9a7f-b8bab3d5ff1e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 310/2020-24",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Libor Brokeš",
+    "ecli": "ECLI:CZ:OSOL:2021:16.C.310.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4185aa76-2001-46bd-9a7f-b8bab3d5ff1e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
