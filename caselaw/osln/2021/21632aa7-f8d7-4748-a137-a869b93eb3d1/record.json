@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:5.C.4.2021.1",
+  "docket": "5 C 4/2021-17",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/21632aa7-f8d7-4748-a137-a869b93eb3d1",
+  "source_sha256": "b191a2af09032fd6780d81c0ea20b53c8ca0a21f9c0862cc434618d31bc4dcba",
+  "source_id": "21632aa7-f8d7-4748-a137-a869b93eb3d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 4/2021-17",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Kopecká",
+    "ecli": "ECLI:CZ:OSLN:2021:5.C.4.2021.1",
+    "predmetRizeni": "O zaplacení 10 399,67 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/21632aa7-f8d7-4748-a137-a869b93eb3d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
