@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:24.C.44.2021.2",
+  "docket": "24 C 44/2021-34",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b43bf3bb-5820-4602-b346-95ade03cdc7d",
+  "source_sha256": "9135f5d7967e07a44c12863894a8379eab58b768cdcd6422458889b099de4f5a",
+  "source_id": "b43bf3bb-5820-4602-b346-95ade03cdc7d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 44/2021-34",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Naděžda Nováková",
+    "ecli": "ECLI:CZ:OSOL:2021:24.C.44.2021.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b43bf3bb-5820-4602-b346-95ade03cdc7d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
