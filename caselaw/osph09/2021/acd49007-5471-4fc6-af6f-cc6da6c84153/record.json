@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:40.C.27.2021.1",
+  "docket": "40 C 27/2021-29",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/acd49007-5471-4fc6-af6f-cc6da6c84153",
+  "source_sha256": "f0c95f29c6410da65c32b4a4e282257c0bebc861374ac19b5e42000f88586a42",
+  "source_id": "acd49007-5471-4fc6-af6f-cc6da6c84153",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 27/2021-29",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Iva Jablonská",
+    "ecli": "ECLI:CZ:OSPH09:2021:40.C.27.2021.1",
+    "predmetRizeni": "O zaplacení 2 834 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-08-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/acd49007-5471-4fc6-af6f-cc6da6c84153"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
