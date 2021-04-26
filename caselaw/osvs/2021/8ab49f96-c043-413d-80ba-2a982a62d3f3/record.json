@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:20.C.162.2020.1",
+  "docket": "20 C 162/2020-34",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ab49f96-c043-413d-80ba-2a982a62d3f3",
+  "source_sha256": "997e8e1e5a6434ee62b360c05391a736dde646a55da5b61000d60783defc805c",
+  "source_id": "8ab49f96-c043-413d-80ba-2a982a62d3f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 162/2020-34",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "Mgr. Miroslav Neuer",
+    "ecli": "ECLI:CZ:OSVS:2021:20.C.162.2020.1",
+    "predmetRizeni": "O zaplacení 54 493,81 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ab49f96-c043-413d-80ba-2a982a62d3f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
