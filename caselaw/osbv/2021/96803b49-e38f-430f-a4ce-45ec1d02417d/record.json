@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:6.C.27.2020.1",
+  "docket": "6 C 27/2020-43",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96803b49-e38f-430f-a4ce-45ec1d02417d",
+  "source_sha256": "8f875f510be617e3fb16a90b334f3bbb6b00dcb9d6d3d4bb93f1cebfa8607e98",
+  "source_id": "96803b49-e38f-430f-a4ce-45ec1d02417d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 27/2020-43",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Josef Mužík",
+    "ecli": "ECLI:CZ:OSBV:2021:6.C.27.2020.1",
+    "predmetRizeni": "16.000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "poplatek z prodlení",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 524 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 21/1992 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 41 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96803b49-e38f-430f-a4ce-45ec1d02417d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
