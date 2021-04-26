@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:15.C.37.2021.1",
+  "docket": "15 C 37/2021-24",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d171775a-d692-44a1-8e8c-fdaf49bf74bb",
+  "source_sha256": "df46d8667447eb51fdc193f804a2d185a86cdb1359d863dcf52c0c8d879dc08e",
+  "source_id": "d171775a-d692-44a1-8e8c-fdaf49bf74bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 37/2021-24",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Machačka",
+    "ecli": "ECLI:CZ:OSSY:2021:15.C.37.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "státní občanství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 383 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d171775a-d692-44a1-8e8c-fdaf49bf74bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
