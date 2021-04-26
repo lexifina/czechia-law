@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:8.C.83.2021.1",
+  "docket": "8 C 83/2021-13",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec08cc54-eae4-4722-af32-7628f39f134f",
+  "source_sha256": "d75cd5e42176f4822999687660d71e751b8106056bb46680f28657d73291ca01",
+  "source_id": "ec08cc54-eae4-4722-af32-7628f39f134f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 83/2021-13",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "Mgr. Milada Trůblová",
+    "ecli": "ECLI:CZ:OSPT:2021:8.C.83.2021.1",
+    "predmetRizeni": "o zaplacení 25 134 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 64 z. č. 127/2005 Sb.",
+      "§ 129 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec08cc54-eae4-4722-af32-7628f39f134f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
