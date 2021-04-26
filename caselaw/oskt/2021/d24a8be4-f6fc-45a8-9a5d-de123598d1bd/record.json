@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.11.2021.1",
+  "docket": "9 C 11/2021-33",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d24a8be4-f6fc-45a8-9a5d-de123598d1bd",
+  "source_sha256": "ed95e8f587e0f096cc1dc1cd0314979cf3b4ed80030f5d6fde85be4b94c78a43",
+  "source_id": "d24a8be4-f6fc-45a8-9a5d-de123598d1bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 11/2021-33",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.11.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d24a8be4-f6fc-45a8-9a5d-de123598d1bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
