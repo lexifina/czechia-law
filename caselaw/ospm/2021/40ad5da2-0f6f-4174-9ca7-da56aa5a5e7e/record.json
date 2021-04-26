@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:11.C.12.2021.1",
+  "docket": "11 C 12/2021-26",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40ad5da2-0f6f-4174-9ca7-da56aa5a5e7e",
+  "source_sha256": "67783ab14edb6735535d9de428c8a1ff371594a46971ff59aad8cb7fa69ea7f4",
+  "source_id": "40ad5da2-0f6f-4174-9ca7-da56aa5a5e7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 12/2021-26",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petr Strejc",
+    "ecli": "ECLI:CZ:OSPM:2021:11.C.12.2021.1",
+    "predmetRizeni": "O zaplacení 4 330 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40ad5da2-0f6f-4174-9ca7-da56aa5a5e7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
