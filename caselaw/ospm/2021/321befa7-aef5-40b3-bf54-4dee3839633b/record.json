@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:11.C.29.2021.1",
+  "docket": "11 C 29/2021-23",
+  "date": "2021-04-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/321befa7-aef5-40b3-bf54-4dee3839633b",
+  "source_sha256": "2f94bf9b9fbe6b04e0abab6cafcfab0ca08405efb07341da614f140d781b96da",
+  "source_id": "321befa7-aef5-40b3-bf54-4dee3839633b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 29/2021-23",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petr Strejc",
+    "ecli": "ECLI:CZ:OSPM:2021:11.C.29.2021.1",
+    "predmetRizeni": "O zaplacení 1 880 Kč s příslušenstvím",
+    "datumVydani": "2021-04-26",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/321befa7-aef5-40b3-bf54-4dee3839633b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
