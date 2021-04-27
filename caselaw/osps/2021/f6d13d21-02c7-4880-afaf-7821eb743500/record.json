@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:8.C.2.2021.2",
+  "docket": "8 C 2/2021-15",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f6d13d21-02c7-4880-afaf-7821eb743500",
+  "source_sha256": "5543194e1972814ec1bebd088bad8a49f877b8f674dba840aa8f6296bfa2abe9",
+  "source_id": "f6d13d21-02c7-4880-afaf-7821eb743500",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 2/2021-15",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Václav Kokožka",
+    "ecli": "ECLI:CZ:OSPS:2021:8.C.2.2021.2",
+    "predmetRizeni": "2 101 Kč s přísl.",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2783 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f6d13d21-02c7-4880-afaf-7821eb743500"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
