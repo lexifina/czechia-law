@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:9.C.41.2021.1",
+  "docket": "9 C 41/2021-13",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/95b8dcbd-cedf-4f82-a841-fcebbcb0ca62",
+  "source_sha256": "43c04868687fa1ccac998b6319b55acf7be813382a3bf7c3881e46d553c2d9dc",
+  "source_id": "95b8dcbd-cedf-4f82-a841-fcebbcb0ca62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 41/2021-13",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Horák",
+    "ecli": "ECLI:CZ:OSSY:2021:9.C.41.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/95b8dcbd-cedf-4f82-a841-fcebbcb0ca62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
