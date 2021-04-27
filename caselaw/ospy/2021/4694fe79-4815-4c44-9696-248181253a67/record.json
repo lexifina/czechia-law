@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:21.C.86.2021.1",
+  "docket": "21 C 86/2021-19",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4694fe79-4815-4c44-9696-248181253a67",
+  "source_sha256": "9017e78fd83f3ca15e3441dbd9a9f07eb4a10b1163d7cf62449a057cbcfc531e",
+  "source_id": "4694fe79-4815-4c44-9696-248181253a67",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 86/2021-19",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Dana Fiedlerová",
+    "ecli": "ECLI:CZ:OSPY:2021:21.C.86.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2779 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4694fe79-4815-4c44-9696-248181253a67"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
