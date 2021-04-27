@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:12.C.248.2020.1",
+  "docket": "12 C 248/2020-40",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3cf39c0e-a844-435b-bd78-9664c5d4a687",
+  "source_sha256": "44b7142b59c6e24b36bdb203b807cec463466462ca0d1390e6381c8605613bf4",
+  "source_id": "3cf39c0e-a844-435b-bd78-9664c5d4a687",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 248/2020-40",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Daniela Kulíková",
+    "ecli": "ECLI:CZ:OSME:2021:12.C.248.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s přísl.",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2247 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3cf39c0e-a844-435b-bd78-9664c5d4a687"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
