@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:11.C.93.2021.1",
+  "docket": "11 C 93/2021-26",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1ab8aba2-83bd-46ec-9006-824a750ae5e6",
+  "source_sha256": "f5b5583c69f9b7e868ad5f0a44db5f1a2fefe8141aa66f9ed68aafe6278319ca",
+  "source_id": "1ab8aba2-83bd-46ec-9006-824a750ae5e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 93/2021-26",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Milan Virag",
+    "ecli": "ECLI:CZ:OSTP:2021:11.C.93.2021.1",
+    "predmetRizeni": "zaplacení 3 044 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1ab8aba2-83bd-46ec-9006-824a750ae5e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
