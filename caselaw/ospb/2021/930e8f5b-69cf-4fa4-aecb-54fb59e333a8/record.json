@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:5.C.56.2021.1",
+  "docket": "5 C 56/2021-25",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/930e8f5b-69cf-4fa4-aecb-54fb59e333a8",
+  "source_sha256": "be78ef3027b94afc37cb0fee59615e0b9a87a81cf73f411bde57b3a9a3cc18d1",
+  "source_id": "930e8f5b-69cf-4fa4-aecb-54fb59e333a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 56/2021-25",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Dana Nováková",
+    "ecli": "ECLI:CZ:OSPB:2021:5.C.56.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/930e8f5b-69cf-4fa4-aecb-54fb59e333a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
