@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:11.C.164.2020.1",
+  "docket": "11 C 164/2020-59",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a11b5e27-3de2-48bb-819e-660fcef597bd",
+  "source_sha256": "9fe5306cf08ed75b3e42e7a48b92a54c3bba671e14d3c21135891c4cea3acc4a",
+  "source_id": "a11b5e27-3de2-48bb-819e-660fcef597bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 164/2020-59",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Petr Andrýsek",
+    "ecli": "ECLI:CZ:OSPR:2021:11.C.164.2020.1",
+    "predmetRizeni": "vyklizení nemovité věci,",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-12-02",
+    "klicovaSlova": [
+      "smlouva kupní",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a11b5e27-3de2-48bb-819e-660fcef597bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
