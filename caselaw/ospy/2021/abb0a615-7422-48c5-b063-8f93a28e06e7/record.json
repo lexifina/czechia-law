@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:34.C.62.2021.1",
+  "docket": "34 C 62/2021",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/abb0a615-7422-48c5-b063-8f93a28e06e7",
+  "source_sha256": "e3b4b7477db83886e451c261db70b8a3577fb1f10242a46a570e910d8f95fad9",
+  "source_id": "abb0a615-7422-48c5-b063-8f93a28e06e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 62/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Tereza Valešová",
+    "ecli": "ECLI:CZ:OSPY:2021:34.C.62.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/abb0a615-7422-48c5-b063-8f93a28e06e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
