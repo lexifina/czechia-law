@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:20.C.37.2021.2",
+  "docket": "20 C 37/2021-19",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d6c99a7-2d74-45a0-99a8-313eefa886d7",
+  "source_sha256": "5a1e2a4ab18352f79c129796cb5a76286d8e32cb477c8c7cac08dd32ca9855ca",
+  "source_id": "7d6c99a7-2d74-45a0-99a8-313eefa886d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 37/2021-19",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Robert Plášil",
+    "ecli": "ECLI:CZ:OSCH:2021:20.C.37.2021.2",
+    "predmetRizeni": "O zaplacení 4 980,83 Kč",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d6c99a7-2d74-45a0-99a8-313eefa886d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
