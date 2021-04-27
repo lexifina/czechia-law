@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:18.C.48.2021.1",
+  "docket": "18 C 48/2021",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2040f6a-6262-4fbe-8e9f-e7e4ababf8bc",
+  "source_sha256": "4c1090cf2a54dd4b324697b2c10f87dcf57cfd6d7c0ab1e96ec864f5c9c9a2f6",
+  "source_id": "f2040f6a-6262-4fbe-8e9f-e7e4ababf8bc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 48/2021",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Ladislav Nevole",
+    "ecli": "ECLI:CZ:OSPH04:2021:18.C.48.2021.1",
+    "predmetRizeni": "zaplacení částky 26 527,80 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-12-13",
+    "klicovaSlova": [
+      "smlouva o vkladu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  z. č. 501/1991 Sb.",
+      "§  z. č. 126/2002 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2040f6a-6262-4fbe-8e9f-e7e4ababf8bc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
