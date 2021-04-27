@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:30.C.243.2020.1",
+  "docket": "30 C 243/2020-48",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d897e6c5-f0fa-49f8-a636-f0e8b7360254",
+  "source_sha256": "aef03bd3087d26069128c46c1c5da4118ca89f77a849ce2143bb9b6c7e1eb9a9",
+  "source_id": "d897e6c5-f0fa-49f8-a636-f0e8b7360254",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 243/2020-48",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Gabriela Řezníčková",
+    "ecli": "ECLI:CZ:OSTU:2021:30.C.243.2020.1",
+    "predmetRizeni": "vyloučení věcí z výkonu rozhodnutí",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "exekuce",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 549/1991 Sb.",
+      "§ 267 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d897e6c5-f0fa-49f8-a636-f0e8b7360254"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
