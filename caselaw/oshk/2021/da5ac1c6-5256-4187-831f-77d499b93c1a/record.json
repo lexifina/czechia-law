@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:13.C.85.2021.1",
+  "docket": "13 C 85/2021-15",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da5ac1c6-5256-4187-831f-77d499b93c1a",
+  "source_sha256": "aae901e0b2e939a9e11ec9eb0024b5725a1c1a686501d3ba6cb2aad3f0928128",
+  "source_id": "da5ac1c6-5256-4187-831f-77d499b93c1a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 85/2021-15",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Anna Tichá",
+    "ecli": "ECLI:CZ:OSHK:2021:13.C.85.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 713 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da5ac1c6-5256-4187-831f-77d499b93c1a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
