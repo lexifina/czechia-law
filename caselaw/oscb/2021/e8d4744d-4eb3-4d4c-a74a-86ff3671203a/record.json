@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:12.C.109.2021.1",
+  "docket": "12 C 109/2021-24",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e8d4744d-4eb3-4d4c-a74a-86ff3671203a",
+  "source_sha256": "e2d2753b925c1dbcb6575adc548011c9e595b212f20b5d5a13d658eadf7a732d",
+  "source_id": "e8d4744d-4eb3-4d4c-a74a-86ff3671203a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 109/2021-24",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Eva Veselá",
+    "ecli": "ECLI:CZ:OSCB:2021:12.C.109.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 20 360,34 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 235/2004 Sb.",
+      "§ 363 nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e8d4744d-4eb3-4d4c-a74a-86ff3671203a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
