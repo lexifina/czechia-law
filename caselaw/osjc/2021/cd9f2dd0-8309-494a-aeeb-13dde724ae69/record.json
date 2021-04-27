@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:7.C.56.2021.1",
+  "docket": "7 C 56/2021-65",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd9f2dd0-8309-494a-aeeb-13dde724ae69",
+  "source_sha256": "daa07c7ab5a63265ebe322e50872d4dfb13d311a07f2e479a470f82ec6d49dd7",
+  "source_id": "cd9f2dd0-8309-494a-aeeb-13dde724ae69",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 56/2021-65",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Jana Valentová",
+    "ecli": "ECLI:CZ:OSJC:2021:7.C.56.2021.1",
+    "predmetRizeni": "o 675 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd9f2dd0-8309-494a-aeeb-13dde724ae69"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
