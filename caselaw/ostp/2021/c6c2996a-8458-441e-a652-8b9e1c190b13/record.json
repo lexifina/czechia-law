@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:11.C.72.2021.1",
+  "docket": "11 C 72/2021-36",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6c2996a-8458-441e-a652-8b9e1c190b13",
+  "source_sha256": "321ec6b1d4dda78aa458a2921f0acded902cef6118a507084e426dc3e39187de",
+  "source_id": "c6c2996a-8458-441e-a652-8b9e1c190b13",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 72/2021-36",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Milan Virag",
+    "ecli": "ECLI:CZ:OSTP:2021:11.C.72.2021.1",
+    "predmetRizeni": "zaplacení 24 458,68 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6c2996a-8458-441e-a652-8b9e1c190b13"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
