@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:13.C.55.2021.1",
+  "docket": "13 C 55/2021-34",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7d7c3ef-76cb-45fa-92aa-05bd493d7451",
+  "source_sha256": "a5bfd3b80eef2600ee0719ce29fb48807d85f324bc7919c103c06778dcb5418f",
+  "source_id": "b7d7c3ef-76cb-45fa-92aa-05bd493d7451",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 55/2021-34",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2021:13.C.55.2021.1",
+    "predmetRizeni": "O zaplacení 1 088 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 13 odst 2 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7d7c3ef-76cb-45fa-92aa-05bd493d7451"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
