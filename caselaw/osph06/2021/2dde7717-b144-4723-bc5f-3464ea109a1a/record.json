@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:27.C.72.2021.1",
+  "docket": "27 C 72/2021-30",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2dde7717-b144-4723-bc5f-3464ea109a1a",
+  "source_sha256": "11c89654ab395aef33b56897382af43e4f7779a330f4e1e6a09a6135454ab055",
+  "source_id": "2dde7717-b144-4723-bc5f-3464ea109a1a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 72/2021-30",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Lubomír Janoušek, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH06:2021:27.C.72.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2dde7717-b144-4723-bc5f-3464ea109a1a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
