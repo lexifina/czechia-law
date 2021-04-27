@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:117.C.102.2021.1",
+  "docket": "117 C 102/2021-50",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/01e2df83-c09b-4dec-837c-cfd5ad7fe5b9",
+  "source_sha256": "e8ec983a68c0c461e27872313dde7a12b3ec99643c1a2016d7e657addd53d249",
+  "source_id": "01e2df83-c09b-4dec-837c-cfd5ad7fe5b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "117 C 102/2021-50",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "JUDr. Silvie Morongová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:117.C.102.2021.1",
+    "predmetRizeni": "2 500 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/01e2df83-c09b-4dec-837c-cfd5ad7fe5b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
