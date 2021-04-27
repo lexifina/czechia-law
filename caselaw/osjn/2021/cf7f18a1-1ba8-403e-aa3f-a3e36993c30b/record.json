@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:5.C.134.2020.2",
+  "docket": "5 C 134/2020-24",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cf7f18a1-1ba8-403e-aa3f-a3e36993c30b",
+  "source_sha256": "2fa71e986fc0883c0fa5e1b997f1d478468cd8109b2c59f721eeeaa6bdb3b5c6",
+  "source_id": "cf7f18a1-1ba8-403e-aa3f-a3e36993c30b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 134/2020-24",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Jan Věženský",
+    "ecli": "ECLI:CZ:OSJN:2021:5.C.134.2020.2",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cf7f18a1-1ba8-403e-aa3f-a3e36993c30b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
