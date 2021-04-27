@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:45.C.180.2020.3",
+  "docket": "45 C 180/2020-14",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecdb1b03-fbc1-4cb8-946e-813446fd0e20",
+  "source_sha256": "dd33db521d5c6b815f0f49dfa12c649f3d75a1cc74f3dad0646edfdcc95df616",
+  "source_id": "ecdb1b03-fbc1-4cb8-946e-813446fd0e20",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "45 C 180/2020-14",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Kateřina Takácsová",
+    "ecli": "ECLI:CZ:OSPH02:2021:45.C.180.2020.3",
+    "predmetRizeni": "o rozvod manželství,",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 371 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecdb1b03-fbc1-4cb8-946e-813446fd0e20"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
