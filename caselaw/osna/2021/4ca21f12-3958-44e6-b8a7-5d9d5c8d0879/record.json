@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:5.C.80.2021.2",
+  "docket": "5 C 80/2021-33",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ca21f12-3958-44e6-b8a7-5d9d5c8d0879",
+  "source_sha256": "bc33392e0464e5181475732ac3ad5cb9745dd2a76472fbfc1a4f8e06930dfb2c",
+  "source_id": "4ca21f12-3958-44e6-b8a7-5d9d5c8d0879",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 80/2021-33",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2021:5.C.80.2021.2",
+    "predmetRizeni": "o zaplacení 19 513 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1931 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ca21f12-3958-44e6-b8a7-5d9d5c8d0879"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
