@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:2.C.71.2021.1",
+  "docket": "2 C 71/2021-18",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/19921f7b-fd81-40c2-943b-3ace67a90320",
+  "source_sha256": "fcf271f33340ca2a5bbdd990ca43f9c190e7d777d1289965f46cbf8940653056",
+  "source_id": "19921f7b-fd81-40c2-943b-3ace67a90320",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 71/2021-18",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Martina Štorkánová",
+    "ecli": "ECLI:CZ:OSTA:2021:2.C.71.2021.1",
+    "predmetRizeni": "O zaplacení 1 001,93 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/19921f7b-fd81-40c2-943b-3ace67a90320"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
