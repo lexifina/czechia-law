@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:14.C.30.2021.4",
+  "docket": "14 C 30/2021-44",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a70a96b0-0b58-4fae-8c4f-5e176d1eda52",
+  "source_sha256": "37e2147d9889d2a21aeacf4c655e40eb36904fa8d75b3a95efb6d0fb314b12c5",
+  "source_id": "a70a96b0-0b58-4fae-8c4f-5e176d1eda52",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 30/2021-44",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Josef Pelcner",
+    "ecli": "ECLI:CZ:OSPB:2021:14.C.30.2021.4",
+    "predmetRizeni": "zaplacení 25 300 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 524 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a70a96b0-0b58-4fae-8c4f-5e176d1eda52"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
