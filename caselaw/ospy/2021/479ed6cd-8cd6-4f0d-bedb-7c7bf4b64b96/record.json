@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:21.C.91.2021.1",
+  "docket": "21 C 91/2021-24",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/479ed6cd-8cd6-4f0d-bedb-7c7bf4b64b96",
+  "source_sha256": "f01aa3750952d5823b8e4a3ed03ad20df0d87ae88028ae8a853102433426d5dd",
+  "source_id": "479ed6cd-8cd6-4f0d-bedb-7c7bf4b64b96",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 91/2021-24",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Dana Fiedlerová",
+    "ecli": "ECLI:CZ:OSPY:2021:21.C.91.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/479ed6cd-8cd6-4f0d-bedb-7c7bf4b64b96"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
