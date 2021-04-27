@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:10.C.42.2021.1",
+  "docket": "10 C 42/2021-45",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c82ec7df-b8ee-40ab-92a9-0c31b623d8fb",
+  "source_sha256": "ebc424f3e3eef657b7f4ebc0d2cb4ce0da4d3af325c4af0f03b80dac2a190b60",
+  "source_id": "c82ec7df-b8ee-40ab-92a9-0c31b623d8fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 42/2021-45",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Ladislava Mišková",
+    "ecli": "ECLI:CZ:OSPH06:2021:10.C.42.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c82ec7df-b8ee-40ab-92a9-0c31b623d8fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
