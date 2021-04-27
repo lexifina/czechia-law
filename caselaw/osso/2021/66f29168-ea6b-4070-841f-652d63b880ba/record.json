@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:8.C.38.2021.1",
+  "docket": "8 C 38/2021-10",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66f29168-ea6b-4070-841f-652d63b880ba",
+  "source_sha256": "e980a6481ac690fdaecd8e2fb1975de0a76d4ae835eb47d20f8605a876448a3d",
+  "source_id": "66f29168-ea6b-4070-841f-652d63b880ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 38/2021-10",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Stanislav Janků",
+    "ecli": "ECLI:CZ:OSSO:2021:8.C.38.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66f29168-ea6b-4070-841f-652d63b880ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
