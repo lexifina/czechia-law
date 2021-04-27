@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:13.C.53.2021.1",
+  "docket": "13 C 53/2021-43",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9bd07b39-a22a-4cbc-bec8-27ae8c3405ac",
+  "source_sha256": "a71f28bb98a3d49dd55f24c151565d5801ff7a8966cc67820db215c3b83f9250",
+  "source_id": "9bd07b39-a22a-4cbc-bec8-27ae8c3405ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 53/2021-43",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2021:13.C.53.2021.1",
+    "predmetRizeni": "O zaplacení 7 625 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 15 vyhl. č. 175/2000 Sb.",
+      "§ 37 odst. 6 z. č. 266/1994 Sb.",
+      "§ 37 odst 5 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9bd07b39-a22a-4cbc-bec8-27ae8c3405ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
