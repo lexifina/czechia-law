@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:28.C.56.2020.1",
+  "docket": "28 C 56/2020-22",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e8c8807f-857f-48e8-b28c-168ac36ce250",
+  "source_sha256": "8067e90eb081463fe882e79f28fb24cc6cece3a58051593e7eace8ec00601b27",
+  "source_id": "e8c8807f-857f-48e8-b28c-168ac36ce250",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 56/2020-22",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Hana Šedivá",
+    "ecli": "ECLI:CZ:OSPH06:2021:28.C.56.2020.1",
+    "predmetRizeni": "o zaplacení částky 500 euro s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "náhrada škody",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e8c8807f-857f-48e8-b28c-168ac36ce250"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
