@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:52.C.41.2021.1",
+  "docket": "52 C 41/2021-23",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e65981c6-4942-4baa-a017-ec65fe79827a",
+  "source_sha256": "b13df01fbd96fb1cf02ab428d2e5acfb98e7198aa35a0719feed40075a6439e3",
+  "source_id": "e65981c6-4942-4baa-a017-ec65fe79827a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 41/2021-23",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jiří Štark",
+    "ecli": "ECLI:CZ:MSBR:2021:52.C.41.2021.1",
+    "predmetRizeni": "zaplacení 20.006,27 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e65981c6-4942-4baa-a017-ec65fe79827a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
