@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:18.C.204.2020.1",
+  "docket": "18 C 204/2020-52",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71b18637-4edd-4aee-b41d-8d2554f6cbe5",
+  "source_sha256": "d2994aa5783e0edc983abfa6ac2bed0833d0e150d321af47d2a9258cc099c412",
+  "source_id": "71b18637-4edd-4aee-b41d-8d2554f6cbe5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 204/2020-52",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Marek Peřina",
+    "ecli": "ECLI:CZ:OSKM:2021:18.C.204.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-09-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71b18637-4edd-4aee-b41d-8d2554f6cbe5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
