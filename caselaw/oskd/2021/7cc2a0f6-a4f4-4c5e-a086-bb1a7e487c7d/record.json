@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:221.C.73.2021.1",
+  "docket": "221 C 73/2021",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7cc2a0f6-a4f4-4c5e-a086-bb1a7e487c7d",
+  "source_sha256": "60473367d64c912cec927e96cac0dff4ee32dd4581677b596abde02ecaea3c14",
+  "source_id": "7cc2a0f6-a4f4-4c5e-a086-bb1a7e487c7d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "221 C 73/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Martina Burešová",
+    "ecli": "ECLI:CZ:OSKD:2021:221.C.73.2021.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7cc2a0f6-a4f4-4c5e-a086-bb1a7e487c7d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
