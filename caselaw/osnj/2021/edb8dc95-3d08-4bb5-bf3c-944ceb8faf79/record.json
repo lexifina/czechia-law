@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:8.C.92.2021.2",
+  "docket": "8 C 92/2021-11",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/edb8dc95-3d08-4bb5-bf3c-944ceb8faf79",
+  "source_sha256": "1fbedbeab40befd9699eeacac3c5e684fe0360942d7646dc6a4befac03bb67bf",
+  "source_id": "edb8dc95-3d08-4bb5-bf3c-944ceb8faf79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 92/2021-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Taťána Hodaňová",
+    "ecli": "ECLI:CZ:OSNJ:2021:8.C.92.2021.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1724 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/edb8dc95-3d08-4bb5-bf3c-944ceb8faf79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
