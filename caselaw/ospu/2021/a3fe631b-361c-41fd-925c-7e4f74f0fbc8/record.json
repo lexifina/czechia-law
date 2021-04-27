@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:15.C.46.2021.1",
+  "docket": "15 C 46/2021-34",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a3fe631b-361c-41fd-925c-7e4f74f0fbc8",
+  "source_sha256": "5b858029b534eb12a9b099de124b215c35821ce2d1380fabda2c920c5d3f13d6",
+  "source_id": "a3fe631b-361c-41fd-925c-7e4f74f0fbc8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 46/2021-34",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Pavel Tureček",
+    "ecli": "ECLI:CZ:OSPU:2021:15.C.46.2021.1",
+    "predmetRizeni": "o zaplacení 1 115,59 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a3fe631b-361c-41fd-925c-7e4f74f0fbc8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
