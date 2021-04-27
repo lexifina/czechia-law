@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:7.C.71.2021.1",
+  "docket": "7 C 71/2021-31",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3cb8619a-bf21-4550-ba79-c5d3cb1df31a",
+  "source_sha256": "1b62817e04c1483dff4a7b1816e2568c883a00595a28d570b20fddc50ae7d866",
+  "source_id": "3cb8619a-bf21-4550-ba79-c5d3cb1df31a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 71/2021-31",
+    "soud": "Okresní soud v Tachově",
+    "autor": "prom. práv. František Kříž",
+    "ecli": "ECLI:CZ:OSTC:2021:7.C.71.2021.1",
+    "predmetRizeni": "O zaplacení 20 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3cb8619a-bf21-4550-ba79-c5d3cb1df31a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
