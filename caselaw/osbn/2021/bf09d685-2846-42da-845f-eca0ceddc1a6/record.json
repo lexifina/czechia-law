@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:5.C.87.2021.1",
+  "docket": "5 C 87/2021-20",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf09d685-2846-42da-845f-eca0ceddc1a6",
+  "source_sha256": "4524f800cd775b7f1cafe09777764e7ca6aa66dc7c5e978d416258eafe90d276",
+  "source_id": "bf09d685-2846-42da-845f-eca0ceddc1a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 87/2021-20",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2021:5.C.87.2021.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf09d685-2846-42da-845f-eca0ceddc1a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
