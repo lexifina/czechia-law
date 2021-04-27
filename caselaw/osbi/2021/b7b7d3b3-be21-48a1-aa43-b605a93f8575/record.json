@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:14.C.6.2021.1",
+  "docket": "14 C 6/2021",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7b7d3b3-be21-48a1-aa43-b605a93f8575",
+  "source_sha256": "3ba9d9aa54be54cda68284f66e19fa302e0044b08f2d728166834ae1124330af",
+  "source_id": "b7b7d3b3-be21-48a1-aa43-b605a93f8575",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 6/2021",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Břetislav Cvan",
+    "ecli": "ECLI:CZ:OSBI:2021:14.C.6.2021.1",
+    "predmetRizeni": "O zaplacení 1 200 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7b7d3b3-be21-48a1-aa43-b605a93f8575"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
