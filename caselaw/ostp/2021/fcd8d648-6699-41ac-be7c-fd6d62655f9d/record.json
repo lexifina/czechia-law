@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:18.C.82.2021.1",
+  "docket": "18 C 82/2021-54",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fcd8d648-6699-41ac-be7c-fd6d62655f9d",
+  "source_sha256": "c6b0272d9403d06366286fb5e3868d39cd0945c48474ea60cf84c5c85ce15582",
+  "source_id": "fcd8d648-6699-41ac-be7c-fd6d62655f9d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 82/2021-54",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Jitka Škodová",
+    "ecli": "ECLI:CZ:OSTP:2021:18.C.82.2021.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fcd8d648-6699-41ac-be7c-fd6d62655f9d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
