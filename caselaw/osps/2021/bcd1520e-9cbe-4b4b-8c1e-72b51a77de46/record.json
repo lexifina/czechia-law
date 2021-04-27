@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:8.C.420.2020.2",
+  "docket": "8 C 420/2020-18",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bcd1520e-9cbe-4b4b-8c1e-72b51a77de46",
+  "source_sha256": "eebd3dd436aa02c3c4ca17b0eaef5c5ae23f57d955d4ee1515b84a6944168ba0",
+  "source_id": "bcd1520e-9cbe-4b4b-8c1e-72b51a77de46",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 420/2020-18",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Václav Kokožka",
+    "ecli": "ECLI:CZ:OSPS:2021:8.C.420.2020.2",
+    "predmetRizeni": "3 068 Kč s přísl.",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bcd1520e-9cbe-4b4b-8c1e-72b51a77de46"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
