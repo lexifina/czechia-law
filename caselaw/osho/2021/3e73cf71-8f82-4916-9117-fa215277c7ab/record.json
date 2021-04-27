@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:22.C.52.2021.1",
+  "docket": "22 C 52/2021-18",
+  "date": "2021-04-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e73cf71-8f82-4916-9117-fa215277c7ab",
+  "source_sha256": "6d8746b7d863b730b7965370588d81193fa6ceefc2753a30c6c916fe78c13269",
+  "source_id": "3e73cf71-8f82-4916-9117-fa215277c7ab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 52/2021-18",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Kateřina Krůpová",
+    "ecli": "ECLI:CZ:OSHO:2021:22.C.52.2021.1",
+    "predmetRizeni": "zaplacení 1 371 Kč s příslušenstvím",
+    "datumVydani": "2021-04-27",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2772 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e73cf71-8f82-4916-9117-fa215277c7ab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
