@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:22.C.28.2021.2",
+  "docket": "22 C 28/2021-30",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/551f480c-42bf-4b6e-8f16-5a167ca891d7",
+  "source_sha256": "e3a7a17d9603f2d38c75012c31142544902c4eb69585f6d51c61ac38644885fa",
+  "source_id": "551f480c-42bf-4b6e-8f16-5a167ca891d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 28/2021-30",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Denisa Hamerská",
+    "ecli": "ECLI:CZ:OSMO:2021:22.C.28.2021.2",
+    "predmetRizeni": "zvýšení výživného pro zletilou osobu",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-10-20",
+    "klicovaSlova": [
+      "výživné",
+      "zvýšení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb.",
+      "§ 915 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/551f480c-42bf-4b6e-8f16-5a167ca891d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
