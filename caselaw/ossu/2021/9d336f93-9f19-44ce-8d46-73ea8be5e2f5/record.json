@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:8.C.54.2021.1",
+  "docket": "8 C 54/2021-18",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d336f93-9f19-44ce-8d46-73ea8be5e2f5",
+  "source_sha256": "d4df80d3dae0870843fd2df3b8958923fd692a87003ac2d4f52f1181b2e59024",
+  "source_id": "9d336f93-9f19-44ce-8d46-73ea8be5e2f5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 54/2021-18",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Pavel Janků",
+    "ecli": "ECLI:CZ:OSSU:2021:8.C.54.2021.1",
+    "predmetRizeni": "o 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d336f93-9f19-44ce-8d46-73ea8be5e2f5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
