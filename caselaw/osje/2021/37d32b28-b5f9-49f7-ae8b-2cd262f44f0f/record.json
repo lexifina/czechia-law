@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:111.C.2.2021.1",
+  "docket": "111 C 2/2021-43",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37d32b28-b5f9-49f7-ae8b-2cd262f44f0f",
+  "source_sha256": "e23e6c9d862d4de19191f5e88fb484673569d4c1b519aa649cc283d36ba33720",
+  "source_id": "37d32b28-b5f9-49f7-ae8b-2cd262f44f0f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 2/2021-43",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Věra Procházková",
+    "ecli": "ECLI:CZ:OSJE:2021:111.C.2.2021.1",
+    "predmetRizeni": "o zaplacení příslušenství",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-10-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37d32b28-b5f9-49f7-ae8b-2cd262f44f0f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
