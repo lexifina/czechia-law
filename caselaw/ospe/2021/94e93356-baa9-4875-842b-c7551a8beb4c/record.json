@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:6.C.14.2020.1",
+  "docket": "6 C 14/2020-53",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94e93356-baa9-4875-842b-c7551a8beb4c",
+  "source_sha256": "24ba2f2d7695225976bad4c5d42de26acad3fc21767554b99c324e85560588be",
+  "source_id": "94e93356-baa9-4875-842b-c7551a8beb4c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 14/2020-53",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Alena Jírů",
+    "ecli": "ECLI:CZ:OSPE:2021:6.C.14.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva pracovní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 250 z. č. 262/2006 Sb.",
+      "§  nař. vl. č. 33/2010 Sb.",
+      "§ 49 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94e93356-baa9-4875-842b-c7551a8beb4c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
