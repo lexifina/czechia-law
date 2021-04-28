@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jindřichově Hradci",
+  "ecli": "ECLI:CZ:OSJH:2021:2.C.155.2020.1",
+  "docket": "2 C 155/2020-57",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/523c111d-08d8-4ba5-84a2-650d2d524e8a",
+  "source_sha256": "818c1a6d18aca025175b3e658e4ece03bc47d739e7a2950df236c63375b4cf35",
+  "source_id": "523c111d-08d8-4ba5-84a2-650d2d524e8a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 155/2020-57",
+    "soud": "Okresní soud v Jindřichově Hradci",
+    "autor": "JUDr. Jana Kučerová",
+    "ecli": "ECLI:CZ:OSJH:2021:2.C.155.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "náklady léčení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 55 z. č. 48/1997 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 55 z. č. 48/97 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/523c111d-08d8-4ba5-84a2-650d2d524e8a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
