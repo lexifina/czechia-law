@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:6.C.27.2020.1",
+  "docket": "6 C 27/2020-163",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8145a30-3519-4a61-add9-5c5fa67d8dd6",
+  "source_sha256": "9ac5503e2c1dfd07360e495087226878dccc1c1256f42ac79704d205b36ebef5",
+  "source_id": "b8145a30-3519-4a61-add9-5c5fa67d8dd6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 27/2020-163",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2021:6.C.27.2020.1",
+    "predmetRizeni": "zaplacení částky 300 000 Kč - plnění",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "nájem prostoru sloužícího k podnikání",
+      "nemajetková újma",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "ušlý zisk",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 607 z. č. 89/2012 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 2302 z. č. 89/2012 Sb.",
+      "§ 570 z. č. 89/2012 Sb.",
+      "§ 2001 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8145a30-3519-4a61-add9-5c5fa67d8dd6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
