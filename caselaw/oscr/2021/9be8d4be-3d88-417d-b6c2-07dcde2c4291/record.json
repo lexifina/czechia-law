@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:12.C.37.2021.1",
+  "docket": "12 C 37/2021-32",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9be8d4be-3d88-417d-b6c2-07dcde2c4291",
+  "source_sha256": "d79444e1c3087fdf26b9634d2390524a32df0f5576dde4b9b5c61fd80d298a13",
+  "source_id": "9be8d4be-3d88-417d-b6c2-07dcde2c4291",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 37/2021-32",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Eva Bačkovská",
+    "ecli": "ECLI:CZ:OSCR:2021:12.C.37.2021.1",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2285 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9be8d4be-3d88-417d-b6c2-07dcde2c4291"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
