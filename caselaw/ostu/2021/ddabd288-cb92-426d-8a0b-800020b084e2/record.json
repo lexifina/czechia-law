@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:6.C.1.2019.1",
+  "docket": "6 C 1/2019-90",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ddabd288-cb92-426d-8a0b-800020b084e2",
+  "source_sha256": "1757ff6e23becdc3434b155ca67a1b7321663180093db4e6c28e476464fe3e1f",
+  "source_id": "ddabd288-cb92-426d-8a0b-800020b084e2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 1/2019-90",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2021:6.C.1.2019.1",
+    "predmetRizeni": "zrušení a vypořádání podílového spoluvlastnictví k nemovité věci",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-09-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "předkupní právo",
+      "smlouva darovací",
+      "smlouva kupní",
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1158 z. č. 89/2012 Sb.",
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb.",
+      "§ 1141 z. č. 89/2012 Sb.",
+      "§ 1149 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddabd288-cb92-426d-8a0b-800020b084e2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
