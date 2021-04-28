@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:15.C.206.2020.1",
+  "docket": "15 C 206/2020-36",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c952e42f-0a3b-4fcc-8391-9cc013c6a0d1",
+  "source_sha256": "0e13c7d34b023d61e44b059bba2b3337382c03d189202b1282ed31c94e2cabdb",
+  "source_id": "c952e42f-0a3b-4fcc-8391-9cc013c6a0d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 206/2020-36",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Radek Paclík",
+    "ecli": "ECLI:CZ:OSPH01:2021:15.C.206.2020.1",
+    "predmetRizeni": "o zaplacení 2 650 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 45 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c952e42f-0a3b-4fcc-8391-9cc013c6a0d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
