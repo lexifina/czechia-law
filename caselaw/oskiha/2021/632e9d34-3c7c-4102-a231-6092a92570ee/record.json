@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:111.C.51.2021.1",
+  "docket": "111 C 51/2021-44",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/632e9d34-3c7c-4102-a231-6092a92570ee",
+  "source_sha256": "f8f055458606df669453c82124b9accc342c2a3adf4155828cc205f1865b0b81",
+  "source_id": "632e9d34-3c7c-4102-a231-6092a92570ee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 51/2021-44",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Otto Slavík",
+    "ecli": "ECLI:CZ:OSKIHA:2021:111.C.51.2021.1",
+    "predmetRizeni": "8 401 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/632e9d34-3c7c-4102-a231-6092a92570ee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
