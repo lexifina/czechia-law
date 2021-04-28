@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:31.C.352.2020.1",
+  "docket": "31 C 352/2020-54",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87740b39-91e6-4734-b5d5-aeef5bdc2ded",
+  "source_sha256": "593863af7c8ca848736ebc818045e89887832155c4ea61ba2eb159e966a95574",
+  "source_id": "87740b39-91e6-4734-b5d5-aeef5bdc2ded",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 352/2020-54",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2021:31.C.352.2020.1",
+    "predmetRizeni": "zaplacení 2 465,16 Kč s příslušenstvím (kupní cena)",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87740b39-91e6-4734-b5d5-aeef5bdc2ded"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
