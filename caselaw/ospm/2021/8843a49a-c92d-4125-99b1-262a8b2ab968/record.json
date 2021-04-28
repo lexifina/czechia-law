@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:34.C.72.2020.1",
+  "docket": "34 C 72/2020-103",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8843a49a-c92d-4125-99b1-262a8b2ab968",
+  "source_sha256": "15258d5fb6eabf688a5752b5a813524fa5998509afc1a861277ce5a04772ee61",
+  "source_id": "8843a49a-c92d-4125-99b1-262a8b2ab968",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 72/2020-103",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Tomáš Kamenický",
+    "ecli": "ECLI:CZ:OSPM:2021:34.C.72.2020.1",
+    "predmetRizeni": "o zaplacení částky ve výši 98.044 Kč s přísl.",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-12-31",
+    "klicovaSlova": [
+      "smlouva kupní",
+      "smlouva o dílo",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 555 z. č. 89/2012 Sb.",
+      "§ 206 z. č. 40/2009 Sb.",
+      "§ 209 z. č. 40/2009 Sb.",
+      "§ 441 z. č. 89/2012 Sb.",
+      "§ 440 z. č. 89/2012 Sb.",
+      "§ 436 z. č. 89/2012 Sb.",
+      "§ 446 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8843a49a-c92d-4125-99b1-262a8b2ab968"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
