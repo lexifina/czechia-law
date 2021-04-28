@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:5.C.112.2021.1",
+  "docket": "5 C 112/2021-19",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/777567fb-1c8b-4c6c-b0de-37cdd9ab1138",
+  "source_sha256": "2bd93432a6285c846cae1693c0005796f5e0dae3a67ca8ea414c3ebdee1a942d",
+  "source_id": "777567fb-1c8b-4c6c-b0de-37cdd9ab1138",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 112/2021-19",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Simona Kačerová",
+    "ecli": "ECLI:CZ:OSPZ:2021:5.C.112.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/777567fb-1c8b-4c6c-b0de-37cdd9ab1138"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
