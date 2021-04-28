@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:6.C.96.2021.1",
+  "docket": "6 C 96/2021-32",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc00a226-faa4-47b2-9697-03d8066a0b72",
+  "source_sha256": "1d94991ec38e92aae33a5205d222b25b84bd28fa8f6537df100e4b06557170a3",
+  "source_id": "fc00a226-faa4-47b2-9697-03d8066a0b72",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 96/2021-32",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Jindřich Mařík",
+    "ecli": "ECLI:CZ:OSPB:2021:6.C.96.2021.1",
+    "predmetRizeni": "zaplacení 5 564 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc00a226-faa4-47b2-9697-03d8066a0b72"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
