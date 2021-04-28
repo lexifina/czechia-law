@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:74.C.75.2021.2",
+  "docket": "74 C 75/2021-19",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd1665d4-2ad1-46ac-b20a-ffaf62f8cffc",
+  "source_sha256": "07f9453440adabc51f8cca46c223ac2776ab972b148878360b9d1ea001873c5b",
+  "source_id": "dd1665d4-2ad1-46ac-b20a-ffaf62f8cffc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 C 75/2021-19",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:74.C.75.2021.2",
+    "predmetRizeni": "O zaplacení 4 556 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd1665d4-2ad1-46ac-b20a-ffaf62f8cffc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
