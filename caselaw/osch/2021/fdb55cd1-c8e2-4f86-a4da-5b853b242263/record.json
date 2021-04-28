@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:10.C.50.2021.2",
+  "docket": "10 C 50/2021-18",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fdb55cd1-c8e2-4f86-a4da-5b853b242263",
+  "source_sha256": "e33db177c8d2cb2adae6427af5f392a5b39a5988cc15552ccb75741a9e0d6134",
+  "source_id": "fdb55cd1-c8e2-4f86-a4da-5b853b242263",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 50/2021-18",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Alexandra Vaňková",
+    "ecli": "ECLI:CZ:OSCH:2021:10.C.50.2021.2",
+    "predmetRizeni": "O zaplacení 1 351,19 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fdb55cd1-c8e2-4f86-a4da-5b853b242263"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
