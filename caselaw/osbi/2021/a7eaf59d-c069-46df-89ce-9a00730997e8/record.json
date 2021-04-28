@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:14.C.268.2020.1",
+  "docket": "14 C 268/2020",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7eaf59d-c069-46df-89ce-9a00730997e8",
+  "source_sha256": "f8043a91ef54bd7d55977fed06ad1d05be891dea89703bdd623d671df10b3502",
+  "source_id": "a7eaf59d-c069-46df-89ce-9a00730997e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 268/2020",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Břetislav Cvan",
+    "ecli": "ECLI:CZ:OSBI:2021:14.C.268.2020.1",
+    "predmetRizeni": "zaplacení 3 990 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "omezení svéprávnosti",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 581 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7eaf59d-c069-46df-89ce-9a00730997e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
