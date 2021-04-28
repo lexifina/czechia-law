@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:114.C.3.2021.1",
+  "docket": "114 C 3/2021",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e7ccfb0-449c-4c4e-8563-7814bc642057",
+  "source_sha256": "9936e75d61a489717d4af42822a27b545be93046b7df1defd6c5ba363ae79b89",
+  "source_id": "3e7ccfb0-449c-4c4e-8563-7814bc642057",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "114 C 3/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Evženie Vodová",
+    "ecli": "ECLI:CZ:OSKD:2021:114.C.3.2021.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ústavní výchova"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 1721 z. č. 89/2012 Sb.",
+      "§ 1723 z. č. 89/2012 Sb.",
+      "§ 26 z. č. 273/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e7ccfb0-449c-4c4e-8563-7814bc642057"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
