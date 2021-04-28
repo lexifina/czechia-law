@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:74.T.43.2021.1",
+  "docket": "74 T 43/2021-1019",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3e50a65-e34c-4b3a-b177-d02738a6a990",
+  "source_sha256": "dc0e6a92cc274db9041cda3a19a300c45c8a8ef7030b675e63a3cac7e7ef9d23",
+  "source_id": "b3e50a65-e34c-4b3a-b177-d02738a6a990",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 T 43/2021-1019",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Karel Kudrna soudce",
+    "ecli": "ECLI:CZ:OSOV:2021:74.T.43.2021.1",
+    "predmetRizeni": "trestní věc",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "dohoda o vině a trestu",
+      "peněžitý trest",
+      "propadnutí věci",
+      "trest zákazu činnosti",
+      "úplatek",
+      "zjednodušený rozsudek",
+      "zmocněnec"
+    ],
+    "zminenaUstanoveni": [
+      "§ 129 z. č. 141/1961 Sb.",
+      "§ 73 z. č. 40/2009 Sb.",
+      "§ 68 z. č. 40/2009 Sb.",
+      "§ 332 z. č. 40/2009 Sb.",
+      "§ 151 z. č. 89/2012 Sb.",
+      "§ 314r z. č. 141/1961 Sb.",
+      "§ 18 z. č. 418/2011 Sb.",
+      "§ 70 z. č. 40/2009 Sb.",
+      "§ 19 z. č. 418/2011 Sb.",
+      "§ 21 z. č. 418/2011 Sb.",
+      "§ 34 z. č. 418/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3e50a65-e34c-4b3a-b177-d02738a6a990"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
