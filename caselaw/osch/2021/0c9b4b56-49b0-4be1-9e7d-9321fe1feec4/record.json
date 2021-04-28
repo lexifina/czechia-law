@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:10.C.99.2021.1",
+  "docket": "10 C 99/2021-20",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c9b4b56-49b0-4be1-9e7d-9321fe1feec4",
+  "source_sha256": "7be9aa8c79c3d9ec419c219612217cba264e759d8806a307946d56f915afb57f",
+  "source_id": "0c9b4b56-49b0-4be1-9e7d-9321fe1feec4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 99/2021-20",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Alexandra Vaňková",
+    "ecli": "ECLI:CZ:OSCH:2021:10.C.99.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 47 z. č. 91/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb.",
+      "§ 218 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c9b4b56-49b0-4be1-9e7d-9321fe1feec4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
