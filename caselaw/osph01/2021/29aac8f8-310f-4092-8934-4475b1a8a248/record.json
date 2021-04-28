@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:14.C.51.2018.1",
+  "docket": "14 C 51/2018-116",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/29aac8f8-310f-4092-8934-4475b1a8a248",
+  "source_sha256": "5a9cfc7048478efc97eb95a85938f44c4d6c8e3be6f459b2ef47ba25254f9e38",
+  "source_id": "29aac8f8-310f-4092-8934-4475b1a8a248",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 51/2018-116",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Martin Lebeda, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH01:2021:14.C.51.2018.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "bolestné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 26 z. č. 13/1997 Sb.",
+      "§ 27 z. č. 13/1997 Sb.",
+      "§ 41 vyhl. č. 104/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/29aac8f8-310f-4092-8934-4475b1a8a248"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
