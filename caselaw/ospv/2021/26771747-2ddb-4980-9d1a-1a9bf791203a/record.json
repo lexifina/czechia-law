@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.11.2021 .1",
+  "docket": "13 C 11/2021-55",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/26771747-2ddb-4980-9d1a-1a9bf791203a",
+  "source_sha256": "7846ad55bb401d2588b60e39d394dcbd6c1158a5732c8c610b8913283fedc27f",
+  "source_id": "26771747-2ddb-4980-9d1a-1a9bf791203a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 11/2021-55",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.11.2021 .1",
+    "predmetRizeni": "o zaplacení 9.100,08 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/26771747-2ddb-4980-9d1a-1a9bf791203a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
