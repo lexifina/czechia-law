@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:7.C.45.2020.1",
+  "docket": "7 C 45/2020-29",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/77c1a5ce-65fb-4203-aeed-3a28d4975ae7",
+  "source_sha256": "bcd31ea975d01e98e7da047c27760b7ebcbfc07484f0bba1d80bed9dd83d8d5b",
+  "source_id": "77c1a5ce-65fb-4203-aeed-3a28d4975ae7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 45/2020-29",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Irena Voštová",
+    "ecli": "ECLI:CZ:OSPH06:2021:7.C.45.2020.1",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "nájem bytu",
+      "smlouva nájemní",
+      "vyklizení bytu",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2288 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/77c1a5ce-65fb-4203-aeed-3a28d4975ae7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
