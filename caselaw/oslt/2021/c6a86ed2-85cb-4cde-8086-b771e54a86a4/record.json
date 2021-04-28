@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:10.C.46.2021.1",
+  "docket": "10 C 46/2021-19",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6a86ed2-85cb-4cde-8086-b771e54a86a4",
+  "source_sha256": "c984dc775bcc5468c06cab9a878933b685b46b854105507e5068c77b883bbdbf",
+  "source_id": "c6a86ed2-85cb-4cde-8086-b771e54a86a4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 46/2021-19",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Alena Herčíková",
+    "ecli": "ECLI:CZ:OSLT:2021:10.C.46.2021.1",
+    "predmetRizeni": "O zaplacení 13 349 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6a86ed2-85cb-4cde-8086-b771e54a86a4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
