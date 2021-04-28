@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:26.C.14.2021.3",
+  "docket": "26 C 14/2021-17",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e85e6d72-f057-449d-8ebb-176df97c2c4a",
+  "source_sha256": "c03e6106473b590f216e7f39b3ef74dc165786f395cab4ce8b1bc5ff78cc2839",
+  "source_id": "e85e6d72-f057-449d-8ebb-176df97c2c4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 14/2021-17",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jiří Šopek",
+    "ecli": "ECLI:CZ:OSOV:2021:26.C.14.2021.3",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e85e6d72-f057-449d-8ebb-176df97c2c4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
