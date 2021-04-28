@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:30.C.136.2021.1",
+  "docket": "30 C 136/2021-13",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0904fa5a-2979-4eb7-80f1-d0c50fb5be5c",
+  "source_sha256": "7dbeadb4a25f50bae4eb7f6c8d1e1dcef2d3a1f954ce0006b8e319ece9f4468b",
+  "source_id": "0904fa5a-2979-4eb7-80f1-d0c50fb5be5c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 136/2021-13",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Daniel Macháček",
+    "ecli": "ECLI:CZ:OSCB:2021:30.C.136.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0904fa5a-2979-4eb7-80f1-d0c50fb5be5c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
