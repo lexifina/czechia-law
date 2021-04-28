@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:6.C.95.2021.3",
+  "docket": "6 C 95/2021-41",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/49a25bb8-5a9f-477d-bbc3-1be44982a797",
+  "source_sha256": "074eda079850ae3e2e9be793834d2d08497275b2a9e11af1768bfa79ba118174",
+  "source_id": "49a25bb8-5a9f-477d-bbc3-1be44982a797",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 95/2021-41",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Blanka Klicnarová",
+    "ecli": "ECLI:CZ:OSNA:2021:6.C.95.2021.3",
+    "predmetRizeni": "o zaplacení 2.000 Kč (smluvní pokuta)",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/49a25bb8-5a9f-477d-bbc3-1be44982a797"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
