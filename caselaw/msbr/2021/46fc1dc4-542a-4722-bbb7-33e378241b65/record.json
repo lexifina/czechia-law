@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:273.EC.10272.2011.1",
+  "docket": "273 EC 10272/2011-67",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/46fc1dc4-542a-4722-bbb7-33e378241b65",
+  "source_sha256": "0c1a24ee2e1eaa843f2a81b365d2f4a4950bd968639a0c47d0e9cb4d29c6dff1",
+  "source_id": "46fc1dc4-542a-4722-bbb7-33e378241b65",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "273 EC 10272/2011-67",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2021:273.EC.10272.2011.1",
+    "predmetRizeni": "Návrh na vydání elektronického platebního rozkazu na částku 1.022,00 Kč",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "jízdné",
+      "oddlužení",
+      "postoupení pohledávky",
+      "rozhodnutí o úpadku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/46fc1dc4-542a-4722-bbb7-33e378241b65"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
