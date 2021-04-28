@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:23.C.100.2019.1",
+  "docket": "23 C 100/2019-87",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/58ffce19-20a7-468c-9800-21d9b1d21036",
+  "source_sha256": "ff310d1e21f5fbd1fbcaf03f9382807b903624f8e6463e1f7a07ab2dbafbaf7c",
+  "source_id": "58ffce19-20a7-468c-9800-21d9b1d21036",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 100/2019-87",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Michal Novotný",
+    "ecli": "ECLI:CZ:OSPH08:2021:23.C.100.2019.1",
+    "predmetRizeni": "o zaplacení 94 615 Kč s přísl.",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "sleva z ceny",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/58ffce19-20a7-468c-9800-21d9b1d21036"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
