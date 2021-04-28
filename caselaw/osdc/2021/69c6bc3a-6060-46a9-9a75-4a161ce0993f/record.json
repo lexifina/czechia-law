@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:6.C.224.2020.2",
+  "docket": "6 C 224/2020-18",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/69c6bc3a-6060-46a9-9a75-4a161ce0993f",
+  "source_sha256": "d65b3b560896ba87af215530c8dfa4ad795e1a67202b8104d6e14ee970d2dc29",
+  "source_id": "69c6bc3a-6060-46a9-9a75-4a161ce0993f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 224/2020-18",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2021:6.C.224.2020.2",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "nájem bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 67/2013 Sb.",
+      "§ 2274 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/69c6bc3a-6060-46a9-9a75-4a161ce0993f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
