@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:106.C.32.2018.1",
+  "docket": "106 C 32/2018-134",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e4cc5b2e-d847-4ec7-a203-bb8dcac6f45e",
+  "source_sha256": "91c9fd2b2a9eefd4b64eeb1d938836537aa7e2f2756b66e18ab17a0e479be6f7",
+  "source_id": "e4cc5b2e-d847-4ec7-a203-bb8dcac6f45e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 32/2018-134",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2021:106.C.32.2018.1",
+    "predmetRizeni": "135.267 Kč s přísl. - smlouva o dílo",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-11-23",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o dílo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 2002 z. č. 89/2012 Sb.",
+      "§ 2615 z. č. 89/2012 Sb.",
+      "§ 2617 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e4cc5b2e-d847-4ec7-a203-bb8dcac6f45e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
