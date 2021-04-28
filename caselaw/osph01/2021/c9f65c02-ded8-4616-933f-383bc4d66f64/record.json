@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:15.C.236.2020.1",
+  "docket": "15 C 236/2020-30",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c9f65c02-ded8-4616-933f-383bc4d66f64",
+  "source_sha256": "d408bd86dc00aa573de1808e539784bbf0f429d57d2282d2b9c00812c195956f",
+  "source_id": "c9f65c02-ded8-4616-933f-383bc4d66f64",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 236/2020-30",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Radek Paclík",
+    "ecli": "ECLI:CZ:OSPH01:2021:15.C.236.2020.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c9f65c02-ded8-4616-933f-383bc4d66f64"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
