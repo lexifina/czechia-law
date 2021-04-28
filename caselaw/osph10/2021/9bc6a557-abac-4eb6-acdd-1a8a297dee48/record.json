@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:23.C.68.2021.1",
+  "docket": "23 C 68/2021-25",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9bc6a557-abac-4eb6-acdd-1a8a297dee48",
+  "source_sha256": "bad0257b08f34f6645acea4e8142349ff811a491f98d50ac16b5ca434119390b",
+  "source_id": "9bc6a557-abac-4eb6-acdd-1a8a297dee48",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 68/2021-25",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Lenka Vávrová",
+    "ecli": "ECLI:CZ:OSPH10:2021:23.C.68.2021.1",
+    "predmetRizeni": "uložení povinnost vydat plynoměr",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 56 z. č. 458/2000 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9bc6a557-abac-4eb6-acdd-1a8a297dee48"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
