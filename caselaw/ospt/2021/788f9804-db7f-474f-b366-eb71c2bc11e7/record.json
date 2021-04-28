@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:8.C.86.2021.1",
+  "docket": "8 C 86/2021-11",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/788f9804-db7f-474f-b366-eb71c2bc11e7",
+  "source_sha256": "59a10e9f760f33c254aa58b7486535ce9035c9b9fcbdbdd37f3e6dd6518cad02",
+  "source_id": "788f9804-db7f-474f-b366-eb71c2bc11e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 86/2021-11",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "Mgr. Milada Trůblová samosoudkyně",
+    "ecli": "ECLI:CZ:OSPT:2021:8.C.86.2021.1",
+    "predmetRizeni": "o zaplacení 13 973,94 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/788f9804-db7f-474f-b366-eb71c2bc11e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
