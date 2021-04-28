@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:11.C.247.2020.1",
+  "docket": "11 C 247/2020-15",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d6c25f9f-6f73-4c0c-bd22-91b626f1ebec",
+  "source_sha256": "b52d39e96739b5e2c2cd0fa7825bafab01b2bc4c97fbdedd38b3e1a5c5f99fb0",
+  "source_id": "d6c25f9f-6f73-4c0c-bd22-91b626f1ebec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 247/2020-15",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Ilona Miklová",
+    "ecli": "ECLI:CZ:OSUH:2021:11.C.247.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d6c25f9f-6f73-4c0c-bd22-91b626f1ebec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
