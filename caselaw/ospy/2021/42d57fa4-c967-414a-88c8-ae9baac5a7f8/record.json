@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.238.2020.1",
+  "docket": "22 C 238/2020-34",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/42d57fa4-c967-414a-88c8-ae9baac5a7f8",
+  "source_sha256": "ed64dc71d9a0f19cae0ef6fa5934b96c278d965f1b60abde93ef3cd4a0a01ed8",
+  "source_id": "42d57fa4-c967-414a-88c8-ae9baac5a7f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 238/2020-34",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.238.2020.1",
+    "predmetRizeni": "o zaplacení částky 2.094 Kč s přísl.",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-12-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2321 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/42d57fa4-c967-414a-88c8-ae9baac5a7f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
