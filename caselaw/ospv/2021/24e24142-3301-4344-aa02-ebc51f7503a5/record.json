@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:5.C.46.2021.1",
+  "docket": "5 C 46/2021-33",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/24e24142-3301-4344-aa02-ebc51f7503a5",
+  "source_sha256": "92090acec681fb286da4a2ce54f97761db7377262cb2e6d159a7921328b8bc2a",
+  "source_id": "24e24142-3301-4344-aa02-ebc51f7503a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 46/2021-33",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. et Mgr. Věroslav Řezáč",
+    "ecli": "ECLI:CZ:OSPV:2021:5.C.46.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/24e24142-3301-4344-aa02-ebc51f7503a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
