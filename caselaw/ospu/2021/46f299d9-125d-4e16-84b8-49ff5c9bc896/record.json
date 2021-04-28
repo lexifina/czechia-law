@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:9.C.69.2021.1",
+  "docket": "9 C 69/2021-39",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/46f299d9-125d-4e16-84b8-49ff5c9bc896",
+  "source_sha256": "bbb4e8649e1790cdb68d8dd0146e2efab63a2d0fb90b8fb8d58a28be13ebf953",
+  "source_id": "46f299d9-125d-4e16-84b8-49ff5c9bc896",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 69/2021-39",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Jaroslava Sádovská",
+    "ecli": "ECLI:CZ:OSPU:2021:9.C.69.2021.1",
+    "predmetRizeni": "o zaplacení 841 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/46f299d9-125d-4e16-84b8-49ff5c9bc896"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
