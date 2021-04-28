@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:8.C.619.2020.2",
+  "docket": "8 C 619/2020-43",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51186c2a-fb7f-45f1-a227-4b079f36b6b2",
+  "source_sha256": "2f7db1ccefb91f163e1946f4fbcf8f05e01f223de791d0085c117a43880bdf6c",
+  "source_id": "51186c2a-fb7f-45f1-a227-4b079f36b6b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 619/2020-43",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Martin Skalický",
+    "ecli": "ECLI:CZ:OSCH:2021:8.C.619.2020.2",
+    "predmetRizeni": "O zaplacení 1 300 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51186c2a-fb7f-45f1-a227-4b079f36b6b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
