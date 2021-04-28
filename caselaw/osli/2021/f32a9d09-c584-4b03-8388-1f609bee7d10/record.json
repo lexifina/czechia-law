@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:18.C.413.2020.1",
+  "docket": "18 C 413/2020-54",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f32a9d09-c584-4b03-8388-1f609bee7d10",
+  "source_sha256": "dafb49b61f41d1d22f5756c9648871ad35470b5e0ff95e8dbf114c2e44322067",
+  "source_id": "f32a9d09-c584-4b03-8388-1f609bee7d10",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 413/2020-54",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2021:18.C.413.2020.1",
+    "predmetRizeni": "Žaloba - zaplacení částky 124 892,29 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f32a9d09-c584-4b03-8388-1f609bee7d10"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
