@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:23.C.226.2020.2",
+  "docket": "23 C 226/2020-13",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/61d94205-378b-40b5-a9f5-0ebb77f7c3c5",
+  "source_sha256": "18e7131f616c2aad1caaf46cd624921a707426d1f4ba0169883165122da931d4",
+  "source_id": "61d94205-378b-40b5-a9f5-0ebb77f7c3c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 226/2020-13",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. František Sedláček",
+    "ecli": "ECLI:CZ:OSSO:2021:23.C.226.2020.2",
+    "predmetRizeni": "zaplacení 2 590 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 1932 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/61d94205-378b-40b5-a9f5-0ebb77f7c3c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
