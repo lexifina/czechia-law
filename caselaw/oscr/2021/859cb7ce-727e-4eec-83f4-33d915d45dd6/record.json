@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:3.C.91.2021.1",
+  "docket": "3 C 91/2021-11",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/859cb7ce-727e-4eec-83f4-33d915d45dd6",
+  "source_sha256": "361573f2fbc3e8695504708937838170eb26f33e38b52cda612df763916870ce",
+  "source_id": "859cb7ce-727e-4eec-83f4-33d915d45dd6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 91/2021-11",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Jana Profousová",
+    "ecli": "ECLI:CZ:OSCR:2021:3.C.91.2021.1",
+    "predmetRizeni": "o 7 679 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 153a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/859cb7ce-727e-4eec-83f4-33d915d45dd6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
