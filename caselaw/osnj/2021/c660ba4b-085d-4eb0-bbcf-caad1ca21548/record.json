@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:24.C.66.2021.3",
+  "docket": "24 C 66/2021-14",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c660ba4b-085d-4eb0-bbcf-caad1ca21548",
+  "source_sha256": "655c94965ab27c1033ec6f3db57d1666158e21d862f0485ca0313b94fc0342f9",
+  "source_id": "c660ba4b-085d-4eb0-bbcf-caad1ca21548",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 66/2021-14",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Ivan Holub, , Ph.D.",
+    "ecli": "ECLI:CZ:OSNJ:2021:24.C.66.2021.3",
+    "predmetRizeni": "O zaplacení 18 171,37 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva mandátní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c660ba4b-085d-4eb0-bbcf-caad1ca21548"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
