@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:KSUL:2021:47.C.1.2021.1",
+  "docket": "47 C 1/2021-29",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fe16c40-0769-43e6-b8ee-f32e066023c1",
+  "source_sha256": "ebdbf0b85fc0ad5d065915c95d9dcc862b0f648b843c7899456fed681dcef1b9",
+  "source_id": "2fe16c40-0769-43e6-b8ee-f32e066023c1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 1/2021-29",
+    "soud": "Krajský soud v Ústí nad Labem",
+    "autor": "Mgr. Pavel Suchý",
+    "ecli": "ECLI:CZ:KSUL:2021:47.C.1.2021.1",
+    "predmetRizeni": "o povolení vkladu výmazu věcného břemene do katastru nemovitostí,",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "společné jmění manželů",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 716 z. č. 89/2012 Sb.",
+      "§ 250i z. č. 99/1963 Sb.",
+      "§ 1 z. č. 256/2013 Sb.",
+      "§ 17 z. č. 256/2013 Sb.",
+      "§ 66 vyhl. č. 357/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fe16c40-0769-43e6-b8ee-f32e066023c1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
