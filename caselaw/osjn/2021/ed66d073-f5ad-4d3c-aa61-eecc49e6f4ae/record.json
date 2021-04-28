@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:6.C.17.2021.1",
+  "docket": "6 C 17/2021-32",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed66d073-f5ad-4d3c-aa61-eecc49e6f4ae",
+  "source_sha256": "20758fd38e8f6f8922384869774cfa621b34e7cb1f8440d6f6f37132e66e922c",
+  "source_id": "ed66d073-f5ad-4d3c-aa61-eecc49e6f4ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 17/2021-32",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Petra Dostálová kunická",
+    "ecli": "ECLI:CZ:OSJN:2021:6.C.17.2021.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "příspěvek na bydlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed66d073-f5ad-4d3c-aa61-eecc49e6f4ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
