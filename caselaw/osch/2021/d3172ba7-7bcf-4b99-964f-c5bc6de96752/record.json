@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:8.C.633.2020.2",
+  "docket": "8 C 633/2020-25",
+  "date": "2021-04-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d3172ba7-7bcf-4b99-964f-c5bc6de96752",
+  "source_sha256": "754fbbe6476a8d0cb7ca58093a5e199109682ecc7b7ea299be43dccb359438ff",
+  "source_id": "d3172ba7-7bcf-4b99-964f-c5bc6de96752",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 633/2020-25",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Martin Skalický",
+    "ecli": "ECLI:CZ:OSCH:2021:8.C.633.2020.2",
+    "predmetRizeni": "O zaplacení 16 517 Kč s příslušenstvím",
+    "datumVydani": "2021-04-28",
+    "datumZverejneni": "2021-09-16",
+    "klicovaSlova": [
+      "dodávky energie",
+      "postoupení pohledávky",
+      "rozsudek pro zmeškání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d3172ba7-7bcf-4b99-964f-c5bc6de96752"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
