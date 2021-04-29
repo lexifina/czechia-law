@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:10.C.27.2021.1",
+  "docket": "10 C 27/2021-46",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2ed0d5a-1215-4c0c-b20a-39d32a7e2cc8",
+  "source_sha256": "58fe05b495ea8b323b29dc577ca2dbbfb541e7c117679050132b06300002d812",
+  "source_id": "c2ed0d5a-1215-4c0c-b20a-39d32a7e2cc8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 27/2021-46",
+    "soud": "Okresní soud v Písku",
+    "autor": "Mgr. Andrea Větrovská",
+    "ecli": "ECLI:CZ:OSPI:2021:10.C.27.2021.1",
+    "predmetRizeni": "zaplacení 45 547 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 517 nař. vl. č. 142/1994 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2ed0d5a-1215-4c0c-b20a-39d32a7e2cc8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
