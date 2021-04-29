@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:18.C.75.2021.2",
+  "docket": "18 C 75/2021-16",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/201bd541-a3a2-43e3-b093-604f567b53fe",
+  "source_sha256": "e2c85b26590feec4f16239aa6f5a91778add6feb2d1bb75acad4a35cfc6e89fd",
+  "source_id": "201bd541-a3a2-43e3-b093-604f567b53fe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 75/2021-16",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Marek Vlaškovský",
+    "ecli": "ECLI:CZ:OSOV:2021:18.C.75.2021.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/201bd541-a3a2-43e3-b093-604f567b53fe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
