@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:13.C.12.2021.2",
+  "docket": "13 C 12/2021-18",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c4a98c9-17e3-4638-87cf-267944c64a73",
+  "source_sha256": "28409c276c27169d97c5d27b9a8a02965673ab44a3c293baac07e76b888f3a19",
+  "source_id": "8c4a98c9-17e3-4638-87cf-267944c64a73",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 12/2021-18",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Milan Homolka",
+    "ecli": "ECLI:CZ:OSCH:2021:13.C.12.2021.2",
+    "predmetRizeni": "O zaplacení 4 800,40 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c4a98c9-17e3-4638-87cf-267944c64a73"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
