@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:10.C.83.2021.1",
+  "docket": "10 C 83/2021-23",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8eec6e2e-5794-4c41-b4ba-d238328aa0bd",
+  "source_sha256": "7ca4cdd970a99fdbbe0b3c31b17d0b1da8e732409c1a7c9f4570c8e4e9a5c71d",
+  "source_id": "8eec6e2e-5794-4c41-b4ba-d238328aa0bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 83/2021-23",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2021:10.C.83.2021.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 89e z. č. 373/2011 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§  z. č. 219/2000 Sb.",
+      "§ 17od z. č. 379/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8eec6e2e-5794-4c41-b4ba-d238328aa0bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
