@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:4.C.37.2021.1",
+  "docket": "4 C 37/2021-18",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a3942ac4-d0f4-4328-8e86-6fb3d56a0b0d",
+  "source_sha256": "26c6be1447627b432d3d0d6142c082b1e9120027999c358e9f4e85a94c0ff13e",
+  "source_id": "a3942ac4-d0f4-4328-8e86-6fb3d56a0b0d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 37/2021-18",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Radim Kostík, Ph.D.",
+    "ecli": "ECLI:CZ:OSTR:2021:4.C.37.2021.1",
+    "predmetRizeni": "zaplacení částky 8 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 82/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a3942ac4-d0f4-4328-8e86-6fb3d56a0b0d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
