@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:16.C.215.2020.1",
+  "docket": "16 C 215/2020-65",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a59eae93-b865-407f-bc31-a7422eee6bc8",
+  "source_sha256": "1047591949d883a9c1da98586d2c09c9eb252a289b5ba60956685501d0a46bdc",
+  "source_id": "a59eae93-b865-407f-bc31-a7422eee6bc8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 215/2020-65",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Michaela Dvořáčková",
+    "ecli": "ECLI:CZ:OSME:2021:16.C.215.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a59eae93-b865-407f-bc31-a7422eee6bc8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
