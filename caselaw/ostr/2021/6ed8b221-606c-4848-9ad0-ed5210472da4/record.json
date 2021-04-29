@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:12.C.52.2021.1",
+  "docket": "12 C 52/2021-53",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6ed8b221-606c-4848-9ad0-ed5210472da4",
+  "source_sha256": "d36f780058d989a9babaae6b7cb378d6cf48c5afc7e7f0fd6aae16015a42c673",
+  "source_id": "6ed8b221-606c-4848-9ad0-ed5210472da4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 52/2021-53",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2021:12.C.52.2021.1",
+    "predmetRizeni": "určení obsahu smlouvy,nahrazení projevu vůle žalovaného uzavřít smlouvu o zřízení věcného břemene",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "osobní služebnost",
+      "peněžité plnění",
+      "služebnost",
+      "smlouva o smlouvě budoucí",
+      "tíseň",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 25 z. č. 458/2000 Sb.",
+      "§ 1257 z. č. 89/2012 Sb.",
+      "§ 1785 z. č. 89/2012 Sb.",
+      "§ 1787 z. č. 89/2012 Sb.",
+      "§ 509 z. č. 89/2012 Sb.",
+      "§  z. č. 256/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6ed8b221-606c-4848-9ad0-ed5210472da4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
