@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:8.C.13.2020.1",
+  "docket": "8 C 13/2020-163",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/492c57a9-ba30-407d-a35b-0b5cfe811deb",
+  "source_sha256": "5d2580098e456c02215f0afdb2f7ead8c65ef0c15f5ea5725cec2f62a56c9b39",
+  "source_id": "492c57a9-ba30-407d-a35b-0b5cfe811deb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 13/2020-163",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Dita Coufalová",
+    "ecli": "ECLI:CZ:OSVY:2021:8.C.13.2020.1",
+    "predmetRizeni": "zaplacení částky 83 309,54 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/492c57a9-ba30-407d-a35b-0b5cfe811deb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
