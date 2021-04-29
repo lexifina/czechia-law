@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:19.C.263.2020.1",
+  "docket": "19 C 263/2020-26",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cd22e83-1a39-406a-84cc-6d3290c964ae",
+  "source_sha256": "97bb24d8aded4ea2a437f935a865310a6e2385ce913cb089f88f0466f623d450",
+  "source_id": "8cd22e83-1a39-406a-84cc-6d3290c964ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 263/2020-26",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Radmila Chadimová",
+    "ecli": "ECLI:CZ:OSPH09:2021:19.C.263.2020.1",
+    "predmetRizeni": "žaloba o vyklizení",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 2302 z. č. 89/2012 Sb.",
+      "§ 2215 z. č. 89/2012 Sb.",
+      "§ 2314 z. č. 89/2012 Sb.",
+      "§ 2312 z. č. 89/2012 Sb.",
+      "§ 2310 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cd22e83-1a39-406a-84cc-6d3290c964ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
