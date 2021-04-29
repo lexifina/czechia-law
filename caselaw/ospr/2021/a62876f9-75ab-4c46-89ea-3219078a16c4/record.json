@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:16.C.42.2021.1",
+  "docket": "16 C 42/2021-78",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a62876f9-75ab-4c46-89ea-3219078a16c4",
+  "source_sha256": "25893c74f1efa30bbf725bc5736b3c742c1ad3fe639ab011d96b8b5d23f49db9",
+  "source_id": "a62876f9-75ab-4c46-89ea-3219078a16c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 42/2021-78",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Jaroslav Hikl",
+    "ecli": "ECLI:CZ:OSPR:2021:16.C.42.2021.1",
+    "predmetRizeni": "zaplacení [částka] s přísl. - smlouva o poskytování služeb",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 269 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a62876f9-75ab-4c46-89ea-3219078a16c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
