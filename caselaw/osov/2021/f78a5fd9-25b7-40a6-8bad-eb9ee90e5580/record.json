@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:85.C.95.2021.2",
+  "docket": "85 C 95/2021-19",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f78a5fd9-25b7-40a6-8bad-eb9ee90e5580",
+  "source_sha256": "27ca03cf7a6604290e01bc20be52839ff8d82c46cfb12220999b6fea02fde83e",
+  "source_id": "f78a5fd9-25b7-40a6-8bad-eb9ee90e5580",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "85 C 95/2021-19",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Dušan Broulík",
+    "ecli": "ECLI:CZ:OSOV:2021:85.C.95.2021.2",
+    "predmetRizeni": "o výživu neprovdané matky",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "příspěvek na bydlení",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 922 z. č. 89/2012 Sb.",
+      "§ 920 z. č. 89/2012 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 162 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f78a5fd9-25b7-40a6-8bad-eb9ee90e5580"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
