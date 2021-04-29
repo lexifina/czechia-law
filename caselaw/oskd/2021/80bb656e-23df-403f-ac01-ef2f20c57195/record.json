@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:208.C.8.2021.1",
+  "docket": "208 C 8/2021-66",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/80bb656e-23df-403f-ac01-ef2f20c57195",
+  "source_sha256": "ae7926f108635171dd21481ebf6c88b5ab9207ca7f7df9e82c75575082df7892",
+  "source_id": "80bb656e-23df-403f-ac01-ef2f20c57195",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "208 C 8/2021-66",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Dana Zelenková",
+    "ecli": "ECLI:CZ:OSKD:2021:208.C.8.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 420 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 2398 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 586 z. č. 89/2012 Sb.",
+      "§ 577 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 547 z. č. 89/2012 Sb.",
+      "§ 1800 z. č. 89/2012 Sb.",
+      "§ 559 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/80bb656e-23df-403f-ac01-ef2f20c57195"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
