@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:14.C.123.2021.1",
+  "docket": "14 C 123/2021-12",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3fa7b82-144c-47c9-8993-5dba19f676f5",
+  "source_sha256": "cc57a1af163f2a7c94b253ae920f16cd8c2298a1e262706de4066376f2f04531",
+  "source_id": "c3fa7b82-144c-47c9-8993-5dba19f676f5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 123/2021-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Vladimíra Fikkerová",
+    "ecli": "ECLI:CZ:OSKV:2021:14.C.123.2021.1",
+    "predmetRizeni": "1.785 Kč / pojistné",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3fa7b82-144c-47c9-8993-5dba19f676f5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
