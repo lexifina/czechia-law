@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:18.C.11.2020.1",
+  "docket": "18 C 11/2020",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce458b80-b7d7-4120-bdc9-941c4551901a",
+  "source_sha256": "599b7f89951e03bd1667da61b81f222e7ea2dbc7f41060eecf694064f5742808",
+  "source_id": "ce458b80-b7d7-4120-bdc9-941c4551901a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 11/2020",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Alena Bernklau",
+    "ecli": "ECLI:CZ:OSUL:2021:18.C.11.2020.1",
+    "predmetRizeni": "o určení výživného",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "jízdné",
+      "smlouva pracovní",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce458b80-b7d7-4120-bdc9-941c4551901a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
