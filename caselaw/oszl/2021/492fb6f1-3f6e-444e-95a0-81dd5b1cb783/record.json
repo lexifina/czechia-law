@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:38.C.109.2021.1",
+  "docket": "38 C 109/2021-19",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/492fb6f1-3f6e-444e-95a0-81dd5b1cb783",
+  "source_sha256": "f1b6fc0318cd0ba244b0df2731b600ef0c97f22297a1b89f94ae91795570ee69",
+  "source_id": "492fb6f1-3f6e-444e-95a0-81dd5b1cb783",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 109/2021-19",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Jiří Němec",
+    "ecli": "ECLI:CZ:OSZL:2021:38.C.109.2021.1",
+    "predmetRizeni": "zaplacení 2 000 Kč",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/492fb6f1-3f6e-444e-95a0-81dd5b1cb783"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
