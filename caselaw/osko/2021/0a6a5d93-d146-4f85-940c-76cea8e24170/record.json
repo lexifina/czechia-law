@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:18.C.29.2021.1",
+  "docket": "18 C 29/2021-28",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0a6a5d93-d146-4f85-940c-76cea8e24170",
+  "source_sha256": "56b55cf8f535d9d05260dcc1f2a7bf731fb311ed437d8ceb0a90e63282a08dcc",
+  "source_id": "0a6a5d93-d146-4f85-940c-76cea8e24170",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 29/2021-28",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Martina Volfová",
+    "ecli": "ECLI:CZ:OSKO:2021:18.C.29.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0a6a5d93-d146-4f85-940c-76cea8e24170"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
