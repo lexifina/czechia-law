@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:19.C.133.2019.1",
+  "docket": "19 C 133/2019-93",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0147ce71-f121-49eb-84dd-97c0f6377299",
+  "source_sha256": "31b7ebb55f8fec22d461691dc20e2906a0b99cb3ace0f49e0f6e073d80b8a1f8",
+  "source_id": "0147ce71-f121-49eb-84dd-97c0f6377299",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 133/2019-93",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Radmila Chadimová",
+    "ecli": "ECLI:CZ:OSPH09:2021:19.C.133.2019.1",
+    "predmetRizeni": "zaplacení 2 070 Kč s přísl.",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-18",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0147ce71-f121-49eb-84dd-97c0f6377299"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
