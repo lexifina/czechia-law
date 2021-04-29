@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:35.C.111.2021.1",
+  "docket": "35 C 111/2021-18",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f51185b0-f765-4c9c-930e-b2083b87ed60",
+  "source_sha256": "ee8a58b72b6d6ee49e47dc3e0e2c075aba8a83bbd9ea6d8bab1bf301b767f8aa",
+  "source_id": "f51185b0-f765-4c9c-930e-b2083b87ed60",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 111/2021-18",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Martina Kocábová",
+    "ecli": "ECLI:CZ:OSZL:2021:35.C.111.2021.1",
+    "predmetRizeni": "zaplacení 4 470 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f51185b0-f765-4c9c-930e-b2083b87ed60"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
