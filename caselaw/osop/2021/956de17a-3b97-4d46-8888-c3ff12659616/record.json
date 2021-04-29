@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:11.C.112.2020.1",
+  "docket": "11 C 112/2020-36",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/956de17a-3b97-4d46-8888-c3ff12659616",
+  "source_sha256": "35a5d40eef865607d7ed72cf15302b65c274b660ee076d9d507fe1b7de12ac86",
+  "source_id": "956de17a-3b97-4d46-8888-c3ff12659616",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 112/2020-36",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Marta Kožušníková",
+    "ecli": "ECLI:CZ:OSOP:2021:11.C.112.2020.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "investiční fond",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 1887 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/956de17a-3b97-4d46-8888-c3ff12659616"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
