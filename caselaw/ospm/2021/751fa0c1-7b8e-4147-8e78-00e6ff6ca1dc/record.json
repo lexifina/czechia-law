@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:38.C.73.2021.1",
+  "docket": "38 C 73/2021",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/751fa0c1-7b8e-4147-8e78-00e6ff6ca1dc",
+  "source_sha256": "7ce27770d47f9ed8e7437edeb32ff1867cf6e671f147de133357723bca7fdc6b",
+  "source_id": "751fa0c1-7b8e-4147-8e78-00e6ff6ca1dc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 73/2021",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Alena Chaloupková",
+    "ecli": "ECLI:CZ:OSPM:2021:38.C.73.2021.1",
+    "predmetRizeni": "O zaplacení 1 000 Kč",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/751fa0c1-7b8e-4147-8e78-00e6ff6ca1dc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
