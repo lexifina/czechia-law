@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:27.C.14.2021.1",
+  "docket": "27 C 14/2021-28",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/364eda3a-d58c-4e47-b6cd-ee42befa428f",
+  "source_sha256": "e3240539900f18c0479c312e8860d84009c0e868f7ef044db1554b015dfdee71",
+  "source_id": "364eda3a-d58c-4e47-b6cd-ee42befa428f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 14/2021-28",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Lukášková",
+    "ecli": "ECLI:CZ:OSPH01:2021:27.C.14.2021.1",
+    "predmetRizeni": "o zaplacení 5 500 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-11-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/364eda3a-d58c-4e47-b6cd-ee42befa428f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
