@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:9.C.2.2021.1",
+  "docket": "9 C 2/2021-71",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e45001a-bea9-43fc-99b8-496de067371f",
+  "source_sha256": "a554acf29c9a8cad1745744b3579dc339f6f3b0d2a6d07318844997a9f2b6f8c",
+  "source_id": "3e45001a-bea9-43fc-99b8-496de067371f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 2/2021-71",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Jaroslava Sádovská",
+    "ecli": "ECLI:CZ:OSPU:2021:9.C.2.2021.1",
+    "predmetRizeni": "o zaplacení 8 730 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "neplatnost právního jednání",
+      "postoupení pohledávky",
+      "smlouva kupní",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 574 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e45001a-bea9-43fc-99b8-496de067371f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
