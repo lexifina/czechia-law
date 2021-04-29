@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:11.C.22.2021.1",
+  "docket": "11 C 22/2021-28",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1a2d610-2507-4840-8b59-34502a2f37d0",
+  "source_sha256": "091d9aa4de738a0ace2082cfd26f15e1f8bd5bdbe99a0e21924302ec6d12ed47",
+  "source_id": "c1a2d610-2507-4840-8b59-34502a2f37d0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 22/2021-28",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSUL:2021:11.C.22.2021.1",
+    "predmetRizeni": "o soudní prodej zástavy",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-10-26",
+    "klicovaSlova": [
+      "oddlužení",
+      "postoupení pohledávky",
+      "předkupní právo",
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1a2d610-2507-4840-8b59-34502a2f37d0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
