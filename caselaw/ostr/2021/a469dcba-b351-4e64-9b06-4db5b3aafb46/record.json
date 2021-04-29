@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:12.C.86.2019.1",
+  "docket": "12 C 86/2019-35",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a469dcba-b351-4e64-9b06-4db5b3aafb46",
+  "source_sha256": "daf3df3b90768af8a73cabad2ca54c9def5442b39c422fbf5d91352a178b8a30",
+  "source_id": "a469dcba-b351-4e64-9b06-4db5b3aafb46",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 86/2019-35",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2021:12.C.86.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb.",
+      "§ 201 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a469dcba-b351-4e64-9b06-4db5b3aafb46"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
