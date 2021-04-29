@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:11.C.4.2021.1",
+  "docket": "11 C 4/2021-27",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ff5fe6d-0122-42a6-b8bd-71a6a9ff6b7e",
+  "source_sha256": "f8ab62d1122fd0030281459ed238e8bfcdfc039a8e99b9e45870eca089ccbfee",
+  "source_id": "7ff5fe6d-0122-42a6-b8bd-71a6a9ff6b7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 4/2021-27",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Jana Matoušková",
+    "ecli": "ECLI:CZ:OSKO:2021:11.C.4.2021.1",
+    "predmetRizeni": "O zaplacení 5 134 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem",
+      "postoupení pohledávky",
+      "právní domněnka",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ff5fe6d-0122-42a6-b8bd-71a6a9ff6b7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
