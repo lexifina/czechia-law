@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rakovníku",
+  "ecli": "ECLI:CZ:OSRA:2021:11.C.25.2021.1",
+  "docket": "11 C 25/2021-17",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2dd9c0f6-9b51-4c63-bbd7-847176e4d0ef",
+  "source_sha256": "1e5c7f216a09d81c51e128ded1f154d7e343bdd5e9295d28b7357f06dfe42cc0",
+  "source_id": "2dd9c0f6-9b51-4c63-bbd7-847176e4d0ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 25/2021-17",
+    "soud": "Okresní soud v Rakovníku",
+    "autor": "Mgr. Petr Nitka",
+    "ecli": "ECLI:CZ:OSRA:2021:11.C.25.2021.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2dd9c0f6-9b51-4c63-bbd7-847176e4d0ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
