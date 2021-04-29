@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:14.C.105.2021.1",
+  "docket": "14 C 105/2021",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e5cdf18-bbc6-4804-afa5-23a6e2628ef3",
+  "source_sha256": "aea6089c46edd29bd5b514edd844921a41e508cf85aba47e22823aa7466ff5c2",
+  "source_id": "3e5cdf18-bbc6-4804-afa5-23a6e2628ef3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 105/2021",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Břetislav Cvan",
+    "ecli": "ECLI:CZ:OSBI:2021:14.C.105.2021.1",
+    "predmetRizeni": "O zaplacení 965 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e5cdf18-bbc6-4804-afa5-23a6e2628ef3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
