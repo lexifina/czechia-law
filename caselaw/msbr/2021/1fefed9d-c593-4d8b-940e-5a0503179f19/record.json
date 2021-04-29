@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:53.C.131.2020.1",
+  "docket": "53 C 131/2020-43",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1fefed9d-c593-4d8b-940e-5a0503179f19",
+  "source_sha256": "054c6d5da356c63cdfcaaf900ec7ddbc2b1e2c282a64c242851a01365201eddd",
+  "source_id": "1fefed9d-c593-4d8b-940e-5a0503179f19",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 131/2020-43",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Libuše Jeroušková",
+    "ecli": "ECLI:CZ:MSBR:2021:53.C.131.2020.1",
+    "predmetRizeni": "zaplacení 5.000 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 236 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1fefed9d-c593-4d8b-940e-5a0503179f19"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
