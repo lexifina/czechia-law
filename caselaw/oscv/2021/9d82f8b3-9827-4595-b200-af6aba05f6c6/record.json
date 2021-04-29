@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:23.C.52.2021.2",
+  "docket": "23 C 52/2021-14",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d82f8b3-9827-4595-b200-af6aba05f6c6",
+  "source_sha256": "6200cdde4085600ff9b51e187eb2de13efa583171447bcd19db816ee11d29d59",
+  "source_id": "9d82f8b3-9827-4595-b200-af6aba05f6c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 52/2021-14",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Pašková",
+    "ecli": "ECLI:CZ:OSCV:2021:23.C.52.2021.2",
+    "predmetRizeni": "zaplacení 10 018 Kč s příslušenstvím (příspěvek nepojištěného)",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 1970 vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d82f8b3-9827-4595-b200-af6aba05f6c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
