@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:29.C.83.2021.2",
+  "docket": "29 C 83/2021-45",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e6ecb70-1a95-494a-892a-f0f4a8893282",
+  "source_sha256": "4d67c3e32068e67133017999db12e3a102a8ee3edbdbdad03c9011f18ad24f9f",
+  "source_id": "2e6ecb70-1a95-494a-892a-f0f4a8893282",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 83/2021-45",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Sylva Teličková",
+    "ecli": "ECLI:CZ:OSOL:2021:29.C.83.2021.2",
+    "predmetRizeni": "o 3 143,34 Kč",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 1931 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 64 z. č. 127/2005 Sb.",
+      "§ 2225 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e6ecb70-1a95-494a-892a-f0f4a8893282"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
