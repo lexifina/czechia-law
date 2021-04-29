@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:30.C.386.2020.1",
+  "docket": "30 C 386/2020-66",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0bc272ad-216f-4370-b081-ea0ede60a50e",
+  "source_sha256": "8816b05dfbdf03de06c7aa7fe2ebe5750d3375d9f02f20d54b4518be89cc38fe",
+  "source_id": "0bc272ad-216f-4370-b081-ea0ede60a50e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 386/2020-66",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Kotrbatý",
+    "ecli": "ECLI:CZ:OSPM:2021:30.C.386.2020.1",
+    "predmetRizeni": "O zaplacení 1 754 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-09-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0bc272ad-216f-4370-b081-ea0ede60a50e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
