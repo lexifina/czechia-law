@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:25.C.265.2020.1",
+  "docket": "25 C 265/2020-29",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c427a8bb-ced5-4282-b17d-4a26a7cf1e8f",
+  "source_sha256": "ae6033127401d539f59302afd0aa7405eede6f47b6f11d0220fe84ef7622dee2",
+  "source_id": "c427a8bb-ced5-4282-b17d-4a26a7cf1e8f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 265/2020-29",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Jana Hackerová",
+    "ecli": "ECLI:CZ:OSTP:2021:25.C.265.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c427a8bb-ced5-4282-b17d-4a26a7cf1e8f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
