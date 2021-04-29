@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:9.C.5.2021.1",
+  "docket": "9 C 5/2021-34",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e57e830a-ede4-407c-a837-87eea9b0cbae",
+  "source_sha256": "2977d5e72338b31f67f980798811c505b77ef0f854ae06b10058622f3c0aa535",
+  "source_id": "e57e830a-ede4-407c-a837-87eea9b0cbae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 5/2021-34",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Petra Šárovcová",
+    "ecli": "ECLI:CZ:OSNB:2021:9.C.5.2021.1",
+    "predmetRizeni": "O zaplacení 7 000 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e57e830a-ede4-407c-a837-87eea9b0cbae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
