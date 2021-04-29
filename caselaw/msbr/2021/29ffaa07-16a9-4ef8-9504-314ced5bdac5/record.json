@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:29.C.253.2020.1",
+  "docket": "29 C 253/2020-25",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/29ffaa07-16a9-4ef8-9504-314ced5bdac5",
+  "source_sha256": "5511cfa2b754e5dfbc3ad85bb263550a073ea9d7dfaf03c00574eb9a823490af",
+  "source_id": "29ffaa07-16a9-4ef8-9504-314ced5bdac5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 253/2020-25",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Romana Sobolová",
+    "ecli": "ECLI:CZ:MSBR:2021:29.C.253.2020.1",
+    "predmetRizeni": "zaplacení 4.600 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/29ffaa07-16a9-4ef8-9504-314ced5bdac5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
