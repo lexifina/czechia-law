@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:35.C.95.2021.1",
+  "docket": "35 C 95/2021-28",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e60416c9-996b-4cc8-9b56-f59f63c241de",
+  "source_sha256": "f3ceda45f1844fc33fe528a3544a785eb6ee9a62e1e32848723a55974ca61a93",
+  "source_id": "e60416c9-996b-4cc8-9b56-f59f63c241de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 95/2021-28",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Martina Kocábová",
+    "ecli": "ECLI:CZ:OSZL:2021:35.C.95.2021.1",
+    "predmetRizeni": "zaplacení 1 224 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "příspěvek na dopravu",
+      "řidičský průkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§  vyhl. č. 333/2018 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 21 z. č. 65/2017 Sb.",
+      "§ 20 z. č. 65/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e60416c9-996b-4cc8-9b56-f59f63c241de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
