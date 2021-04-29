@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:6.C.33.2021.1",
+  "docket": "6 C 33/2021-53",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b23ca34-5ae5-46b7-a552-10615a59cd45",
+  "source_sha256": "8779abf5609e7ac4f17e40cbd8126f9f694c25f5431defa8f30aa2e5ab624734",
+  "source_id": "3b23ca34-5ae5-46b7-a552-10615a59cd45",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 33/2021-53",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martina Matějková",
+    "ecli": "ECLI:CZ:OSKT:2021:6.C.33.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "omezení svéprávnosti",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b23ca34-5ae5-46b7-a552-10615a59cd45"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
