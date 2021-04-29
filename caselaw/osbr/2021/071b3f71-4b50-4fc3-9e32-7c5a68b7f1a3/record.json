@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:18.C.336.2020.1",
+  "docket": "18 C 336/2020",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/071b3f71-4b50-4fc3-9e32-7c5a68b7f1a3",
+  "source_sha256": "a2db31c9c48a1841948d685351223dccfc6eba0dc5954fa118908df1d43908dd",
+  "source_id": "071b3f71-4b50-4fc3-9e32-7c5a68b7f1a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 336/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Veronika Sekerová",
+    "ecli": "ECLI:CZ:OSBR:2021:18.C.336.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "osvojení",
+      "porod",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/071b3f71-4b50-4fc3-9e32-7c5a68b7f1a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
