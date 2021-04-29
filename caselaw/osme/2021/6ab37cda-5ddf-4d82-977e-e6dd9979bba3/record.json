@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:17.C.110.2021.1",
+  "docket": "17 C 110/2021-38",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6ab37cda-5ddf-4d82-977e-e6dd9979bba3",
+  "source_sha256": "74621aeebd8019661cc0d43fbd7f5de75d80d2d0a3551804afdd8e98fb95517f",
+  "source_id": "6ab37cda-5ddf-4d82-977e-e6dd9979bba3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 110/2021-38",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "JUDr. Dáša Kozáková",
+    "ecli": "ECLI:CZ:OSME:2021:17.C.110.2021.1",
+    "predmetRizeni": "O zaplacení 45 285 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§  z. č. 67/2013 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 2251 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb.",
+      "§ 2274 z. č. 89/2012 Sb.",
+      "§ 2275 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6ab37cda-5ddf-4d82-977e-e6dd9979bba3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
