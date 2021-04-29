@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:11.C.33.2021.1",
+  "docket": "11 C 33/2021-30",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e902a24-5929-4e66-9c34-d934214051dd",
+  "source_sha256": "726fcffa2fa3cda2419d9a09d795ebc37b35ace1653a26d15ca311b493aaf34f",
+  "source_id": "7e902a24-5929-4e66-9c34-d934214051dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 33/2021-30",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Hynek Baňouch, Ph.D.",
+    "ecli": "ECLI:CZ:OSCR:2021:11.C.33.2021.1",
+    "predmetRizeni": "o 3 014 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e902a24-5929-4e66-9c34-d934214051dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
