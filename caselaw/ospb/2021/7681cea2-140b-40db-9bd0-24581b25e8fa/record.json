@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:12.C.74.2021.1",
+  "docket": "12 C 74/2021-42",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7681cea2-140b-40db-9bd0-24581b25e8fa",
+  "source_sha256": "5696f366b02f5fd88d2a12b3dd39bc51a9c21900fa49fc316f81b89684c8dbae",
+  "source_id": "7681cea2-140b-40db-9bd0-24581b25e8fa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 74/2021-42",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Lenka Melmuková",
+    "ecli": "ECLI:CZ:OSPB:2021:12.C.74.2021.1",
+    "predmetRizeni": "zaplacení 1 000 Kč",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7681cea2-140b-40db-9bd0-24581b25e8fa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
