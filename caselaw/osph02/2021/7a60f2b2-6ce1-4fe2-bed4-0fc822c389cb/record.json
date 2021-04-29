@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:18.C.180.2020.4",
+  "docket": "18 C 180/2020-41",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a60f2b2-6ce1-4fe2-bed4-0fc822c389cb",
+  "source_sha256": "a3d0f624cc634d14e85f776f6348ec18d9065ad70cf94bc6b98c9eedf726c131",
+  "source_id": "7a60f2b2-6ce1-4fe2-bed4-0fc822c389cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 180/2020-41",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Lucie Šenková",
+    "ecli": "ECLI:CZ:OSPH02:2021:18.C.180.2020.4",
+    "predmetRizeni": "o zaplacení 67 890 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "odpovědnost státu za škodu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a60f2b2-6ce1-4fe2-bed4-0fc822c389cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
