@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:53.C.187.2020.1",
+  "docket": "53 C 187/2020-22",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e4c883c1-53c2-4b67-8804-e26b16ba5469",
+  "source_sha256": "5992243c565a0487cd75eff5fd3c5af838e63824c867bfd75b56bde25a83f05f",
+  "source_id": "e4c883c1-53c2-4b67-8804-e26b16ba5469",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 187/2020-22",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Libuše Jeroušková",
+    "ecli": "ECLI:CZ:MSBR:2021:53.C.187.2020.1",
+    "predmetRizeni": "zaplacení 5.000 Kč - půjčka",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 236 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e4c883c1-53c2-4b67-8804-e26b16ba5469"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
