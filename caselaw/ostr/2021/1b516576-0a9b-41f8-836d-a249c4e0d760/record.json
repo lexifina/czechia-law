@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:12.C.82.2021.1",
+  "docket": "12 C 82/2021-16",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b516576-0a9b-41f8-836d-a249c4e0d760",
+  "source_sha256": "ca4598d446493fdaa55a389c0c9860b08f30428c533c46855ec897da15531471",
+  "source_id": "1b516576-0a9b-41f8-836d-a249c4e0d760",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 82/2021-16",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2021:12.C.82.2021.1",
+    "predmetRizeni": "zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b516576-0a9b-41f8-836d-a249c4e0d760"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
