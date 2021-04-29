@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:208.C.34.2021.1",
+  "docket": "208 C 34/2021-34",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44ef4595-56b7-406e-9f77-64343d0f9057",
+  "source_sha256": "8aff63402abcf8d3fd75ca85b0dd15c4d3915d039240c1f8f9078a9eef09a3bc",
+  "source_id": "44ef4595-56b7-406e-9f77-64343d0f9057",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "208 C 34/2021-34",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Dana Zelenková",
+    "ecli": "ECLI:CZ:OSKD:2021:208.C.34.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44ef4595-56b7-406e-9f77-64343d0f9057"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
