@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:10.C.22.2021.1",
+  "docket": "10 C 22/2021-18",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b28764ca-8ff1-4d40-bacd-8ab63f8ac726",
+  "source_sha256": "2d175df4b15f0bd79fab27be226b660bcc95879ab191927b8a1629c454a21d70",
+  "source_id": "b28764ca-8ff1-4d40-bacd-8ab63f8ac726",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 22/2021-18",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Iva Winklerová",
+    "ecli": "ECLI:CZ:OSKO:2021:10.C.22.2021.1",
+    "predmetRizeni": "O zaplacení 6 596 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b28764ca-8ff1-4d40-bacd-8ab63f8ac726"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
