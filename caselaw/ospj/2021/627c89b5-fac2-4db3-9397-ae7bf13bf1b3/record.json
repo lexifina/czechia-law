@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:11.C.72.2021.1",
+  "docket": "11 C 72/2021-19",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/627c89b5-fac2-4db3-9397-ae7bf13bf1b3",
+  "source_sha256": "fdd5562c2a96a01b08a6e4cd13e2c451a9706506724fa5b03271c2003cadb163",
+  "source_id": "627c89b5-fac2-4db3-9397-ae7bf13bf1b3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 72/2021-19",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "Mgr. Markéta Kryslová",
+    "ecli": "ECLI:CZ:OSPJ:2021:11.C.72.2021.1",
+    "predmetRizeni": "zrušení vyživovací povinnosti",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "výživné",
+      "zrušení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 909 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/627c89b5-fac2-4db3-9397-ae7bf13bf1b3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
