@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:27.C.44.2021.1",
+  "docket": "27 C 44/2021-30",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aaa1ae26-b63c-4cec-bdde-c3fc5a5e95aa",
+  "source_sha256": "d2a4c1fbe614011eba6728b4715d6c9af49b7b7ab98c6391e70016a35f86e2c5",
+  "source_id": "aaa1ae26-b63c-4cec-bdde-c3fc5a5e95aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 44/2021-30",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Markéta Pokorná",
+    "ecli": "ECLI:CZ:OSOL:2021:27.C.44.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aaa1ae26-b63c-4cec-bdde-c3fc5a5e95aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
