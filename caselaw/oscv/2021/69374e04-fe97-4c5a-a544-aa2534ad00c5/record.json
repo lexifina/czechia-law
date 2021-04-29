@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:1.C.173.2020.2",
+  "docket": "1 C 173/2020-36",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/69374e04-fe97-4c5a-a544-aa2534ad00c5",
+  "source_sha256": "b14027d97425a58a0766800bc3d5d05c6a472ea2f8d9a45374d43218f7acff5f",
+  "source_id": "69374e04-fe97-4c5a-a544-aa2534ad00c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 173/2020-36",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Petr Šustr",
+    "ecli": "ECLI:CZ:OSCV:2021:1.C.173.2020.2",
+    "predmetRizeni": "zaplacení 6 533 Kč (úvěr)",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "elektronický podpis",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 104 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/69374e04-fe97-4c5a-a544-aa2534ad00c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
