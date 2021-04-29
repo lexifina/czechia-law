@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:19.C.78.2021.2",
+  "docket": "19 C 78/2021-23",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c61e9b7-a9c5-4592-a2c1-5ffa422ab5bf",
+  "source_sha256": "2a4fe92958a5784fc2dc1c3df1435bb70c6f1b2046205e3aa25ed9dcf2c10544",
+  "source_id": "6c61e9b7-a9c5-4592-a2c1-5ffa422ab5bf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 78/2021-23",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Miroslava Dvořáková",
+    "ecli": "ECLI:CZ:OSOL:2021:19.C.78.2021.2",
+    "predmetRizeni": "o 2 500 Kč s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "omamné a psychotropní látky",
+      "opilost",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 17 z. č. 379/2005 Sb.",
+      "§ 16 z. č. 379/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c61e9b7-a9c5-4592-a2c1-5ffa422ab5bf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
