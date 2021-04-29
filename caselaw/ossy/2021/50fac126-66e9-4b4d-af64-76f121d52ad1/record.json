@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:9.C.22.2021.1",
+  "docket": "9 C 22/2021-121",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/50fac126-66e9-4b4d-af64-76f121d52ad1",
+  "source_sha256": "67d5c04286d719ae6a238e3675905d6621e1516a3e1877ca30f06b44119daeff",
+  "source_id": "50fac126-66e9-4b4d-af64-76f121d52ad1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 22/2021-121",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Horák",
+    "ecli": "ECLI:CZ:OSSY:2021:9.C.22.2021.1",
+    "predmetRizeni": "o nahrazení projevu vůle žalovaného",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "osobní služebnost",
+      "služebnost",
+      "smlouva kupní",
+      "smlouva o smlouvě budoucí",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 1257 z. č. 89/2012 Sb.",
+      "§ 1785 z. č. 89/2012 Sb.",
+      "§ 1786 z. č. 89/2012 Sb.",
+      "§ 1787 z. č. 89/2012 Sb.",
+      "§ 509 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/50fac126-66e9-4b4d-af64-76f121d52ad1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
