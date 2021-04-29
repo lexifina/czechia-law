@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:8.C.72.2020.1",
+  "docket": "8 C 72/2020-53",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4a0dfc14-0fa4-4190-92b8-cf6a4510cba0",
+  "source_sha256": "f718adbeb8d7ba77d330e5c719629a19568245fddd65000833b60b241ab694d9",
+  "source_id": "4a0dfc14-0fa4-4190-92b8-cf6a4510cba0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 72/2020-53",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Dita Coufalová",
+    "ecli": "ECLI:CZ:OSVY:2021:8.C.72.2020.1",
+    "predmetRizeni": "zaplacení částky 12 916 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 420 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 652 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4a0dfc14-0fa4-4190-92b8-cf6a4510cba0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
