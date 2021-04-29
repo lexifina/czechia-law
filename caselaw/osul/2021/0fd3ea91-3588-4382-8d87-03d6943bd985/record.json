@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:30.C.415.2020.1",
+  "docket": "30 C 415/2020-33",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0fd3ea91-3588-4382-8d87-03d6943bd985",
+  "source_sha256": "27b93ffdaf7144c2f7d518a8535577f070d4537ce1d3792ddb8d07b857788650",
+  "source_id": "0fd3ea91-3588-4382-8d87-03d6943bd985",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 415/2020-33",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petr Bílý",
+    "ecli": "ECLI:CZ:OSUL:2021:30.C.415.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "elektronický platební rozkaz",
+      "platební rozkaz",
+      "státní občanství",
+      "způsobilost procesní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 104 z. č. 99/1963 Sb.",
+      "§ 169 z. č. 99/1963 Sb.",
+      "§ 43 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0fd3ea91-3588-4382-8d87-03d6943bd985"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
