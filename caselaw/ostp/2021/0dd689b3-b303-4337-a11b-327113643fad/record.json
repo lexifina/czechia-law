@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:41.C.281.2020.1",
+  "docket": "41 C 281/2020",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0dd689b3-b303-4337-a11b-327113643fad",
+  "source_sha256": "b65637c9c522eb1a9b079feafdfc63aed4b8075ee3c7dba777c1bb71901027b7",
+  "source_id": "0dd689b3-b303-4337-a11b-327113643fad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 281/2020",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Ing. Bc. Martin Baťka, , Ph.D.",
+    "ecli": "ECLI:CZ:OSTP:2021:41.C.281.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "opuštění rodinné domácnosti",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0dd689b3-b303-4337-a11b-327113643fad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
