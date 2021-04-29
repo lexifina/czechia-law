@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:7.C.134.2021.1",
+  "docket": "7 C 134/2021-20",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/24da44b1-3368-4b80-93fa-06f06f4dccb7",
+  "source_sha256": "676d989a6ed4264a80b585e59001f8672b5cde6c3d21b5901245d400a3134f22",
+  "source_id": "24da44b1-3368-4b80-93fa-06f06f4dccb7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 134/2021-20",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Pavel Téra",
+    "ecli": "ECLI:CZ:OSUL:2021:7.C.134.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "prodlení věřitele"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 142od z. č. 99/1963 Sb.",
+      "§ 160od z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/24da44b1-3368-4b80-93fa-06f06f4dccb7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
