@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:33.C.301.2020.1",
+  "docket": "33 C 301/2020-27",
+  "date": "2021-04-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7285f91-5a98-4fd8-90ff-1b51704d3873",
+  "source_sha256": "373f70083423b01bc8c90660c83e5e263123639ec9d17b559d3b94afd5fc02f5",
+  "source_id": "f7285f91-5a98-4fd8-90ff-1b51704d3873",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 301/2020-27",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Petr Blažej",
+    "ecli": "ECLI:CZ:OSUL:2021:33.C.301.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-29",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7285f91-5a98-4fd8-90ff-1b51704d3873"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
