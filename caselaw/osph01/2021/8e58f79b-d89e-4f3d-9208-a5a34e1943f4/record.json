@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:65.C.12.2021.1",
+  "docket": "65 C 12/2021",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e58f79b-d89e-4f3d-9208-a5a34e1943f4",
+  "source_sha256": "727bfc69e2a634f18afb2761038245bfb936e58638e22460431fb8e98cc96a24",
+  "source_id": "8e58f79b-d89e-4f3d-9208-a5a34e1943f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "65 C 12/2021",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Jiří Kohoutek",
+    "ecli": "ECLI:CZ:OSPH01:2021:65.C.12.2021.1",
+    "predmetRizeni": "o zaplacení 9 516,64 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 72 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e58f79b-d89e-4f3d-9208-a5a34e1943f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
