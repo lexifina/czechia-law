@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:14.C.86.2021.3",
+  "docket": "14 C 86/2021-46",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/191f5d1e-bc02-4055-890f-1328370b16f8",
+  "source_sha256": "a4e353700d3b98d06ab383eb82fd0e7d1fe0de246bd5e5d8c409d1b780f54b2c",
+  "source_id": "191f5d1e-bc02-4055-890f-1328370b16f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 86/2021-46",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jiří Kučera",
+    "ecli": "ECLI:CZ:OSNA:2021:14.C.86.2021.3",
+    "predmetRizeni": "o zaplacení 22.250 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/191f5d1e-bc02-4055-890f-1328370b16f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
