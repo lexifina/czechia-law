@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:10.C.86.2021.1",
+  "docket": "10 C 86/2021-23",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c939092e-ab99-463b-ae74-8077b3861b90",
+  "source_sha256": "5cf4ace66223c5562da5861b536bb1933841c4f904921c0fa4afac389cc7eabd",
+  "source_id": "c939092e-ab99-463b-ae74-8077b3861b90",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 86/2021-23",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milena Heřmanová",
+    "ecli": "ECLI:CZ:OSHK:2021:10.C.86.2021.1",
+    "predmetRizeni": "o zaplacení částky 57 704,94 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c939092e-ab99-463b-ae74-8077b3861b90"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
