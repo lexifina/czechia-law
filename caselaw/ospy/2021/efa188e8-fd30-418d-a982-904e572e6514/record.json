@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:7.C.203.2021.1",
+  "docket": "7 C 203/2021-17",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efa188e8-fd30-418d-a982-904e572e6514",
+  "source_sha256": "8c9d54a3f690ab9c27692af9ede9dfae834cd681ab945f5474aeeffd5531e5cc",
+  "source_id": "efa188e8-fd30-418d-a982-904e572e6514",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 203/2021-17",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2021:7.C.203.2021.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efa188e8-fd30-418d-a982-904e572e6514"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
