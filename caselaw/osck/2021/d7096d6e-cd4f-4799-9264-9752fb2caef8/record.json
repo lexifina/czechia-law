@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:7.C.412.2020.1",
+  "docket": "7 C 412/2020-8",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7096d6e-cd4f-4799-9264-9752fb2caef8",
+  "source_sha256": "df4f806d0379ba96b4eee5d2e9c87ee4ecfc613b9fbde28d3e3209203db1d1b2",
+  "source_id": "d7096d6e-cd4f-4799-9264-9752fb2caef8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 412/2020-8",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Daniel Levý",
+    "ecli": "ECLI:CZ:OSCK:2021:7.C.412.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7096d6e-cd4f-4799-9264-9752fb2caef8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
