@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:16.C.45.2021.1",
+  "docket": "16 C 45/2021-22",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac98f48d-7659-4085-bd86-82474b37fa88",
+  "source_sha256": "749617fa6f7e95f44c436dce20fd0092bebeafb53fbd0ca6f25833545c147abe",
+  "source_id": "ac98f48d-7659-4085-bd86-82474b37fa88",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 45/2021-22",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "JUDr. Jitka Poláchová",
+    "ecli": "ECLI:CZ:OSPH07:2021:16.C.45.2021.1",
+    "predmetRizeni": "O zaplacení 2 603 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac98f48d-7659-4085-bd86-82474b37fa88"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
