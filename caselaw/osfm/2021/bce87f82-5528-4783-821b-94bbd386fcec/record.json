@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:15.C.45.2021.1",
+  "docket": "15 C 45/2021-11",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bce87f82-5528-4783-821b-94bbd386fcec",
+  "source_sha256": "3942573239336709507dc986859c211a284b7ed8253e8f4ad94af3f5505993fd",
+  "source_id": "bce87f82-5528-4783-821b-94bbd386fcec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 45/2021-11",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Ladislava Olbrechtová",
+    "ecli": "ECLI:CZ:OSFM:2021:15.C.45.2021.1",
+    "predmetRizeni": "O zaplacení 11 695 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2293 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bce87f82-5528-4783-821b-94bbd386fcec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
