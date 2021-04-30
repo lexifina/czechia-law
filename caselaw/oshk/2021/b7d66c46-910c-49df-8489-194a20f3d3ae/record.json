@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:8.C.41.2021.1",
+  "docket": "8 C 41/2021-16",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7d66c46-910c-49df-8489-194a20f3d3ae",
+  "source_sha256": "b233c4d558bd91b1980bc93d944426952d53e9c89e566947f7e0f0d5c4b36403",
+  "source_id": "b7d66c46-910c-49df-8489-194a20f3d3ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 41/2021-16",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Michaela Nováková",
+    "ecli": "ECLI:CZ:OSHK:2021:8.C.41.2021.1",
+    "predmetRizeni": "o zaplacení částky 12 160 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 47 z. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7d66c46-910c-49df-8489-194a20f3d3ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
