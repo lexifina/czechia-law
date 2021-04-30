@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:19.C.355.2020.1",
+  "docket": "19 C 355/2020-33",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3ca04c40-48c6-474d-8fd8-beb75f09034e",
+  "source_sha256": "bd02f882d998ea16ec2112166701340e4e1799a37d102dc221e066c0ae0a390e",
+  "source_id": "3ca04c40-48c6-474d-8fd8-beb75f09034e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 355/2020-33",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Zuzana Benešová",
+    "ecli": "ECLI:CZ:OSFM:2021:19.C.355.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-09-03",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 7 z. č. 549/1991 Sb.",
+      "§ 210a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3ca04c40-48c6-474d-8fd8-beb75f09034e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
