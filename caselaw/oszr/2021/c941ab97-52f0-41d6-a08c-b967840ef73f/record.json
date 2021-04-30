@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:6.C.30.2021.1",
+  "docket": "6 C 30/2021-30",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c941ab97-52f0-41d6-a08c-b967840ef73f",
+  "source_sha256": "1c38ce166dafdc111b8fc79ce783b5fa14e975260299c67eec4065bdede47ac3",
+  "source_id": "c941ab97-52f0-41d6-a08c-b967840ef73f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 30/2021-30",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jana Homolová",
+    "ecli": "ECLI:CZ:OSZR:2021:6.C.30.2021.1",
+    "predmetRizeni": "O zaplacení 2 620 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c941ab97-52f0-41d6-a08c-b967840ef73f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
