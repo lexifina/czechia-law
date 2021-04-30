@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:15.C.160.2020.1",
+  "docket": "15 C 160/2020-51",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6deefd94-010a-4964-9939-18c459de553d",
+  "source_sha256": "467dfe930214d258a46c62b0b44a885e12cd767a1c48050d86a8eed9a1802b5b",
+  "source_id": "6deefd94-010a-4964-9939-18c459de553d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 160/2020-51",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "JUDr. Iva Kaňáková",
+    "ecli": "ECLI:CZ:OSPH07:2021:15.C.160.2020.1",
+    "predmetRizeni": "Evropské řízení o drobných nárocích",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-08-26",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "podvod",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 86 z. č. 99/1963 Sb.",
+      "§ 433 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6deefd94-010a-4964-9939-18c459de553d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
