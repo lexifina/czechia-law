@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:7.C.217.2020.1",
+  "docket": "7 C 217/2020-25",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4b8c39a8-2e89-4be8-a3c3-83fbbab1efa7",
+  "source_sha256": "d9d1e5e50e10902a8da8d3229694e333d47ab01014ced8d2122531486501a0f2",
+  "source_id": "4b8c39a8-2e89-4be8-a3c3-83fbbab1efa7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 217/2020-25",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Kateřina Martincová",
+    "ecli": "ECLI:CZ:OSDO:2021:7.C.217.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4b8c39a8-2e89-4be8-a3c3-83fbbab1efa7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
