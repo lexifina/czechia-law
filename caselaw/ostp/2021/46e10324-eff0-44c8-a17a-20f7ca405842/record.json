@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:120.C.18.2020.1",
+  "docket": "120 C 18/2020-76",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/46e10324-eff0-44c8-a17a-20f7ca405842",
+  "source_sha256": "723423507722fa6fa2ace05b8e2d660361f2db740031a4106b743f762a4020b3",
+  "source_id": "46e10324-eff0-44c8-a17a-20f7ca405842",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "120 C 18/2020-76",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Jan Sýkora",
+    "ecli": "ECLI:CZ:OSTP:2021:120.C.18.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 67/2013 Sb.",
+      "§  z. č. 7/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/46e10324-eff0-44c8-a17a-20f7ca405842"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
