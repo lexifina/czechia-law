@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:20.C.76.2021.2",
+  "docket": "20 C 76/2021-15",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d054e041-1b16-4190-a9fc-b3c9eccc054a",
+  "source_sha256": "49ff8c7adbb548b96e9b1ad9fb67104eec7f77b4efe3b453b2cfdf129dadd7a6",
+  "source_id": "d054e041-1b16-4190-a9fc-b3c9eccc054a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 76/2021-15",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Petra Svobodová",
+    "ecli": "ECLI:CZ:OSMB:2021:20.C.76.2021.2",
+    "predmetRizeni": "o zaplacení 7 021 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d054e041-1b16-4190-a9fc-b3c9eccc054a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
