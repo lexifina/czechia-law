@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:29.C.111.2021.1",
+  "docket": "29 C 111/2021-30",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05054ffa-6341-4756-94da-79d7f64b9b83",
+  "source_sha256": "6fdea16a1f784a949f43f0fdf1718000787dcaf05b98e555605e3a1c67c74cb7",
+  "source_id": "05054ffa-6341-4756-94da-79d7f64b9b83",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 111/2021-30",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Hana Suchánková",
+    "ecli": "ECLI:CZ:OSPH08:2021:29.C.111.2021.1",
+    "predmetRizeni": "o zaplacení 6 035 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§  z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05054ffa-6341-4756-94da-79d7f64b9b83"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
