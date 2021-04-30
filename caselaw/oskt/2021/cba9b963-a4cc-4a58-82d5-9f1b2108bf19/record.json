@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:7.C.76.2021.1",
+  "docket": "7 C 76/2021-41",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cba9b963-a4cc-4a58-82d5-9f1b2108bf19",
+  "source_sha256": "55cb8d8faf49caf2f839dc74f269744ed96b9d40158a83c252cf7bd6eedebfcc",
+  "source_id": "cba9b963-a4cc-4a58-82d5-9f1b2108bf19",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 76/2021-41",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Luboš Koranda",
+    "ecli": "ECLI:CZ:OSKT:2021:7.C.76.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-09-22",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cba9b963-a4cc-4a58-82d5-9f1b2108bf19"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
