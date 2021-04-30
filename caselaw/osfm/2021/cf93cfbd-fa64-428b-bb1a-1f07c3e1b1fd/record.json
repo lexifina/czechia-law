@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:16.C.96.2021.1",
+  "docket": "16 C 96/2021-9",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cf93cfbd-fa64-428b-bb1a-1f07c3e1b1fd",
+  "source_sha256": "44212d3e9fff104bf13c2199e7df3e8a94464a2328dc5a61d99ae07a07c69459",
+  "source_id": "cf93cfbd-fa64-428b-bb1a-1f07c3e1b1fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 96/2021-9",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. David Mařádek",
+    "ecli": "ECLI:CZ:OSFM:2021:16.C.96.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cf93cfbd-fa64-428b-bb1a-1f07c3e1b1fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
