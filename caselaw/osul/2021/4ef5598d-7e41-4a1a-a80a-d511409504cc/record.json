@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:74.C.102.2021.1",
+  "docket": "74 C 102/2021-33",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ef5598d-7e41-4a1a-a80a-d511409504cc",
+  "source_sha256": "a7652d13145f5cd8f813f59fb29582d7487aad1aeabad669683db61f4813bb65",
+  "source_id": "4ef5598d-7e41-4a1a-a80a-d511409504cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 C 102/2021-33",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:74.C.102.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ef5598d-7e41-4a1a-a80a-d511409504cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
