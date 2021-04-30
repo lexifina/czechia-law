@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:22.C.104.2021.2",
+  "docket": "22 C 104/2021-23",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/20bc9cc0-67a5-4c05-8db3-34c1beaa4720",
+  "source_sha256": "40941be11bcd57e8fa6b71cb8f0f390d81dbaa3fc89441ba6d37a8c1dff9e979",
+  "source_id": "20bc9cc0-67a5-4c05-8db3-34c1beaa4720",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 104/2021-23",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Hana Chabičová",
+    "ecli": "ECLI:CZ:OSOV:2021:22.C.104.2021.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/20bc9cc0-67a5-4c05-8db3-34c1beaa4720"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
