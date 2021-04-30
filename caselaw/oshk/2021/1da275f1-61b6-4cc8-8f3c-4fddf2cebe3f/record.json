@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:8.C.73.2021.1",
+  "docket": "8 C 73/2021-18",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1da275f1-61b6-4cc8-8f3c-4fddf2cebe3f",
+  "source_sha256": "376035e9dba3ef7ff5b7839600fb46d0a0e5e35cd62fed0f0d1e9e81f7d34827",
+  "source_id": "1da275f1-61b6-4cc8-8f3c-4fddf2cebe3f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 73/2021-18",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Michaela Nováková",
+    "ecli": "ECLI:CZ:OSHK:2021:8.C.73.2021.1",
+    "predmetRizeni": "o zaplacení částky 53 071,90 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva mandátní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1da275f1-61b6-4cc8-8f3c-4fddf2cebe3f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
