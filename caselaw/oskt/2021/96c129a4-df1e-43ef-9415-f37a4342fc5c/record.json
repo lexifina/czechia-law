@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:7.C.68.2021.1",
+  "docket": "7 C 68/2021-31",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96c129a4-df1e-43ef-9415-f37a4342fc5c",
+  "source_sha256": "ffa9dc5a91f86117da105451877f0f27bc377b86731a00247d22a5d74e908727",
+  "source_id": "96c129a4-df1e-43ef-9415-f37a4342fc5c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 68/2021-31",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Luboš Koranda",
+    "ecli": "ECLI:CZ:OSKT:2021:7.C.68.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-09-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96c129a4-df1e-43ef-9415-f37a4342fc5c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
