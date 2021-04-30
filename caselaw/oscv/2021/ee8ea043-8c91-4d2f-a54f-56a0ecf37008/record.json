@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:8.C.49.2021.1",
+  "docket": "8 C 49/2021-61",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ee8ea043-8c91-4d2f-a54f-56a0ecf37008",
+  "source_sha256": "66d5a3b994b4401d2187a258c3875aefacaf20d0007923ee0dc63283ea5b8453",
+  "source_id": "ee8ea043-8c91-4d2f-a54f-56a0ecf37008",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 49/2021-61",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Petr Karásek",
+    "ecli": "ECLI:CZ:OSCV:2021:8.C.49.2021.1",
+    "predmetRizeni": "zaplacení 3 836 Kč s příslušenstvím (pojistné)",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ee8ea043-8c91-4d2f-a54f-56a0ecf37008"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
