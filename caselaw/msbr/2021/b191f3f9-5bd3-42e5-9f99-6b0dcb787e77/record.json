@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:54.C.32.2021.1",
+  "docket": "54 C 32/2021-24",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b191f3f9-5bd3-42e5-9f99-6b0dcb787e77",
+  "source_sha256": "0ebb8566a7808dc1c9cfe630b9fb0be0a59ffa98359282a1c434ae9526c0bfed",
+  "source_id": "b191f3f9-5bd3-42e5-9f99-6b0dcb787e77",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 32/2021-24",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Daniela Schwarzová",
+    "ecli": "ECLI:CZ:MSBR:2021:54.C.32.2021.1",
+    "predmetRizeni": "zaplacení 4.575 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 2551 z. č. 89/2012 Sb.",
+      "§ 19 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 111/94 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b191f3f9-5bd3-42e5-9f99-6b0dcb787e77"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
