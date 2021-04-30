@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:39.C.193.2020.1",
+  "docket": "39 C 193/2020-33",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce6402c2-62ef-4121-933c-dbc59e36571b",
+  "source_sha256": "6ca191e70674a917c7bcc71c2106d0ad6bba952d6d736305c42569260610b468",
+  "source_id": "ce6402c2-62ef-4121-933c-dbc59e36571b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 193/2020-33",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Václav Rozmahel",
+    "ecli": "ECLI:CZ:MSBR:2021:39.C.193.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb.",
+      "§ 389 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce6402c2-62ef-4121-933c-dbc59e36571b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
