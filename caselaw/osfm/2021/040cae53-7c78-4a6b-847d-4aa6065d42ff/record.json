@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.64.2021.1",
+  "docket": "42 C 64/2021-16",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/040cae53-7c78-4a6b-847d-4aa6065d42ff",
+  "source_sha256": "cd006792b0f7fcce721f4c0cdf0ce5706884bf5016c28286673097f14dad29a2",
+  "source_id": "040cae53-7c78-4a6b-847d-4aa6065d42ff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 64/2021-16",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.64.2021.1",
+    "predmetRizeni": "o zaplacení 9 970 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/040cae53-7c78-4a6b-847d-4aa6065d42ff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
