@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:14.C.374.2020.1",
+  "docket": "14 C 374/2020-72",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e4b3b07-a6a8-46f4-a1c6-7bb6078edd4f",
+  "source_sha256": "d9a18d8002f13ce146d28fa2d0b5d7775902b77dd9748ddfbdb6edaf7804ce2a",
+  "source_id": "0e4b3b07-a6a8-46f4-a1c6-7bb6078edd4f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 374/2020-72",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Ivan Šišma",
+    "ecli": "ECLI:CZ:OSPV:2021:14.C.374.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e4b3b07-a6a8-46f4-a1c6-7bb6078edd4f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
