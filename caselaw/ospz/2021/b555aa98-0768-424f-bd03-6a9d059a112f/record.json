@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:8.C.31.2020.1",
+  "docket": "8 C 31/2020-95",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b555aa98-0768-424f-bd03-6a9d059a112f",
+  "source_sha256": "eb08814b789b5053d7794e7ac20cf54ef42cce0dbaef7920bdafb08e81320e88",
+  "source_id": "b555aa98-0768-424f-bd03-6a9d059a112f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 31/2020-95",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2021:8.C.31.2020.1",
+    "predmetRizeni": "Žaloba na určení neplatnosti výpovědi z nájmu",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-11-05",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem prostoru sloužícího k podnikání",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď smlouvy",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2309 z. č. 89/2012 Sb.",
+      "§ 2314 z. č. 89/2012 Sb.",
+      "§ 2310 z. č. 89/2012 Sb.",
+      "§  z. č. 412/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b555aa98-0768-424f-bd03-6a9d059a112f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
