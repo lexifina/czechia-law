@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:8.C.80.2021.1",
+  "docket": "8 C 80/2021-25",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/19e2a868-c818-4add-a2b9-8eba79f530ba",
+  "source_sha256": "d1173f3d1bcacdd651f344bc6b4a854f8c1f92e2fbf7ce537543d71f3ec87507",
+  "source_id": "19e2a868-c818-4add-a2b9-8eba79f530ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 80/2021-25",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Michaela Nováková",
+    "ecli": "ECLI:CZ:OSHK:2021:8.C.80.2021.1",
+    "predmetRizeni": "o zaplacení částky 20 315,12 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 5 z. č. 177/2020 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/19e2a868-c818-4add-a2b9-8eba79f530ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
