@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:10.C.14.2021.1",
+  "docket": "10 C 14/2021-20",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1956d44e-d43b-484f-8505-8edb56f77b0b",
+  "source_sha256": "35ed4e2c49379a810ad6f9ad385a8ccb09a41c86d800a1cd41c6acb168df45b6",
+  "source_id": "1956d44e-d43b-484f-8505-8edb56f77b0b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 14/2021-20",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Michal Halamíček",
+    "ecli": "ECLI:CZ:OSVS:2021:10.C.14.2021.1",
+    "predmetRizeni": "O zaplacení 4 258 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "náklady léčení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 55 z. č. 48/1997 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 7od z. č. 251/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1956d44e-d43b-484f-8505-8edb56f77b0b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
