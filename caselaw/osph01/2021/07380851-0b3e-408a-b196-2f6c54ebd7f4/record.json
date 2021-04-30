@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:65.C.40.2021.1",
+  "docket": "65 C 40/2021-1",
+  "date": "2021-04-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07380851-0b3e-408a-b196-2f6c54ebd7f4",
+  "source_sha256": "9e0c52ad59ac80873d9bf970b9d8761c3b04e15fdf1e6ddafed362734895f722",
+  "source_id": "07380851-0b3e-408a-b196-2f6c54ebd7f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "65 C 40/2021-1",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Jiří Kohoutek",
+    "ecli": "ECLI:CZ:OSPH01:2021:65.C.40.2021.1",
+    "predmetRizeni": "o zaplacení 3 750 Kč s příslušenstvím",
+    "datumVydani": "2021-04-30",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07380851-0b3e-408a-b196-2f6c54ebd7f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
