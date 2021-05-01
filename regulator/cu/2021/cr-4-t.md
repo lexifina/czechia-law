@@ -1,0 +1,22 @@
+---
+citace: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 4/T/2021"
+nazev: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 4/T/2021, kterým se stanoví změny pevných cen pro konečného spotřebitele cigaret - 3. dodatek………………………………………………………………………………"
+druh: "Cenové rozhodnutí"
+vyhlaseno: "Cenový věstník, částka 6/2021, 2021-04-21"
+zdroj: "https://www.mf.gov.cz/assets/attachments/Cenovy-vestnik_2021-c-06.pdf"
+---
+
+# Cenové rozhodnutí CÚ pro Středočeský kraj č. 4/T/2021, kterým se stanoví změny pevných cen pro konečného spotřebitele cigaret - 3. dodatek………………………………………………………………………………
+
+Cenové rozhodnutí CÚ pro Středočeský kraj č. 4/T/2021, kterým se stanoví změny pevných cen pro konečného spotřebitele
+cigaret - 3. dodatek
+Celní úřad pro Středočeský kraj podle § 10 zákona č. 526/1990 Sb., o cenách, pro výrobky zahrnuté v položce č. 1 Cenového rozhodnutí CÚ pro Středočeský kraj č. 01/2021, kterým se vydává seznam zboží s regulovanými cenami, uvedenými v seznamu cigaret, stanoví: 1. změny pevných cen uvedené v dodatku, který je nedílnou přílohou tohoto Cenového rozhodnutí.
+Pevné ceny pro konečného spotřebitele zahrnují výkon obchodu včetně daně z přidané hodnoty a platí pro všechny prodeje konečnému spotřebiteli na území ČR. Cenové rozhodnutí nabývá účinnosti dnem 1. 5. 2021, pro výrobky vyrobené a dovezené*1) na daňové území ČR, nebo dopravené z jiného členského státu EU na daňové území ČR od tohoto data s těmito cenami vytištěnými podle § 114 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+Vyřizuje: Andrea Tinková Mgr. Jan Václavíček v. r.
+ředitel celního úřadu Celní úřad pro Středočeský kraj tel.: +420 327 539 211
+\*1) § 3 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+Příloha rozhodnutí CÚ pro Středočeský kraj č. 4/T/2021
+3\. dodatek k seznamu cigaret s pevnými cenami pro konečného spotřebitele
+1\. ZMĚNY PEVNÝCH CEN
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 1/T/2021 se u výrobku Burton Blue (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „102,00“ nahrazuje pevnou cenou „107,00“; u výrobku Burton Blue BB (22 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „109,00“ nahrazuje pevnou cenou „115,00“; u výrobku Burton Original (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „102,00“ nahrazuje pevnou cenou „107,00“; u výrobku Burton Original BB (22 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „109,00“ nahrazuje pevnou cenou „115,00“; u výrobku L&M FORWARD KS RCB 20 (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „117,00“ nahrazuje pevnou cenou „123,00“; u výrobku RGD RED 100 BOX 20 (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „110,00“ nahrazuje pevnou cenou „116,00“; u výrobku SPARTA BLUE KS BOX 20 (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „120,00“ nahrazuje pevnou cenou „126,00“.
+Vydává: Ministerstvo financí ČR, Letenská 15, 118 10 Praha 1 - Redakce: Lucie Petrová, Voctářova 11, 180 00 Praha 8, telefon 257 042 535, e-mail: Lucie.Petrova@mfcr.cz
