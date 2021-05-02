@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:20.C.93.2020.1",
+  "docket": "20 C 93/2020-29",
+  "date": "2021-05-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9efc0a71-93b0-4eb1-8a73-aff8d9279a72",
+  "source_sha256": "f7ede455b2f2af297f97464ce90794a8a9cac31fbe0d81a57366faef7d687175",
+  "source_id": "9efc0a71-93b0-4eb1-8a73-aff8d9279a72",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 93/2020-29",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Lenka Šrytrová",
+    "ecli": "ECLI:CZ:OSHO:2021:20.C.93.2020.1",
+    "predmetRizeni": "zaplacení 2 987 Kč s příslušenstvím",
+    "datumVydani": "2021-05-02",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9efc0a71-93b0-4eb1-8a73-aff8d9279a72"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
