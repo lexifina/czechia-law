@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.10.2021.1",
+  "docket": "5 C 10/2021-55",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51d5644f-9cfc-4bbc-8030-26ea43f0f41c",
+  "source_sha256": "48e0d25381ec3aded8068549761bdc42f22c6a800dd369d92b15c266f67f2bee",
+  "source_id": "51d5644f-9cfc-4bbc-8030-26ea43f0f41c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 10/2021-55",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.10.2021.1",
+    "predmetRizeni": "zaplacení 154 484,64 Kč s přísl.",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51d5644f-9cfc-4bbc-8030-26ea43f0f41c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
