@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:12.C.308.2020.4",
+  "docket": "12 C 308/2020-59",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/48dc754f-447b-4e08-aaf5-04d4e1b33814",
+  "source_sha256": "ea10cf0df9d66d3e08a4c118920c062acf7c2921754cd1962a0ac5308e1aabed",
+  "source_id": "48dc754f-447b-4e08-aaf5-04d4e1b33814",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 308/2020-59",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Ivana Lukášová",
+    "ecli": "ECLI:CZ:OSCL:2021:12.C.308.2020.4",
+    "predmetRizeni": "o zaplacení částky 6 500 Kč s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/96 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/48dc754f-447b-4e08-aaf5-04d4e1b33814"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
