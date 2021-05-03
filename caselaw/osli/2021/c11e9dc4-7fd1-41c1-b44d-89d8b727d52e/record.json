@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:12.C.260.2019.1",
+  "docket": "12 C 260/2019-222",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c11e9dc4-7fd1-41c1-b44d-89d8b727d52e",
+  "source_sha256": "a0bff2332d5d16457277abf7f825b6352a5e77512dc095f0199117f7980a2d9f",
+  "source_id": "c11e9dc4-7fd1-41c1-b44d-89d8b727d52e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 260/2019-222",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Renata Urbánková",
+    "ecli": "ECLI:CZ:OSLI:2021:12.C.260.2019.1",
+    "predmetRizeni": "uložení povinnosti zaplatit vypořádání podílů na společných částech domu, pozemkových parcelách [číslo] zhodnocení nebytové jednotky [číslo] vzájemný návrh",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-12-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 9 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c11e9dc4-7fd1-41c1-b44d-89d8b727d52e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
