@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:17.C.70.2021.1",
+  "docket": "17 C 70/2021-38",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/17ff3d48-b061-4420-8957-f7880655250d",
+  "source_sha256": "00931331519df0311bc50da71ce5ccd7956470c74630569df094638b9e3e759f",
+  "source_id": "17ff3d48-b061-4420-8957-f7880655250d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 70/2021-38",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Martina Suchánková",
+    "ecli": "ECLI:CZ:OSKO:2021:17.C.70.2021.1",
+    "predmetRizeni": "O zaplacení 20 755 Kč s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "ochrana osobních údajů",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1810 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/17ff3d48-b061-4420-8957-f7880655250d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
