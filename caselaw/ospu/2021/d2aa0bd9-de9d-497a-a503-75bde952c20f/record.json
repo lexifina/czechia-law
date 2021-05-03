@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:10.C.199.2019.3",
+  "docket": "10 C 199/2019-49",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2aa0bd9-de9d-497a-a503-75bde952c20f",
+  "source_sha256": "4d1ad4cd737e901ddb404610987c6ba00930dc20929b0f848d46443132e86f74",
+  "source_id": "d2aa0bd9-de9d-497a-a503-75bde952c20f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 199/2019-49",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Iveta Deriková",
+    "ecli": "ECLI:CZ:OSPU:2021:10.C.199.2019.3",
+    "predmetRizeni": "",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-10-15",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 164 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2aa0bd9-de9d-497a-a503-75bde952c20f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
