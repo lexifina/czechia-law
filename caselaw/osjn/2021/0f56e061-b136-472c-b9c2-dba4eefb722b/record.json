@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:19.C.105.2019.2",
+  "docket": "19 C 105/2019-60",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f56e061-b136-472c-b9c2-dba4eefb722b",
+  "source_sha256": "ec1074cc1690188629eb6b91f70262564074d965e38754ee275330fcc5915c56",
+  "source_id": "0f56e061-b136-472c-b9c2-dba4eefb722b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 105/2019-60",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Jan Kušnír",
+    "ecli": "ECLI:CZ:OSJN:2021:19.C.105.2019.2",
+    "predmetRizeni": "o zaplacení 53 049,64 Kč s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 109 z. č. 182/2006 Sb.",
+      "§ 658 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f56e061-b136-472c-b9c2-dba4eefb722b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
