@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:22.C.16.2021.3",
+  "docket": "22 C 16/2021-24",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffe8a4d7-5c65-499d-be51-5cb7df1e2bca",
+  "source_sha256": "a2eaf8d06ac847aa02fb60fbc0c84a56ed8989980500b611397eec6b0c464ef5",
+  "source_id": "ffe8a4d7-5c65-499d-be51-5cb7df1e2bca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 16/2021-24",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Alžběta Durdová",
+    "ecli": "ECLI:CZ:OSSO:2021:22.C.16.2021.3",
+    "predmetRizeni": "zaplacení 5 755,36 Kč s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-08-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffe8a4d7-5c65-499d-be51-5cb7df1e2bca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
