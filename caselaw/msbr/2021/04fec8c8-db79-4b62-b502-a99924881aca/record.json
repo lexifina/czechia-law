@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:119.C.271.2020.1",
+  "docket": "119 C 271/2020-48",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/04fec8c8-db79-4b62-b502-a99924881aca",
+  "source_sha256": "c3f59a1a587eeb7718c110dbafd24c8d8f5e8262202499d189ae01622ce6c1c2",
+  "source_id": "04fec8c8-db79-4b62-b502-a99924881aca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 271/2020-48",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zuzana Skripová",
+    "ecli": "ECLI:CZ:MSBR:2021:119.C.271.2020.1",
+    "predmetRizeni": "zaplacení 1.018,09 Kč ",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/04fec8c8-db79-4b62-b502-a99924881aca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
