@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:23.C.84.2021.1",
+  "docket": "23 C 84/2021-26",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/77f0fff7-fcf1-41fe-adb7-2157fd9efdbf",
+  "source_sha256": "ee5459c65050bab2924c35e97c37ba282c7e880da362a56bd616298e771f9cfd",
+  "source_id": "77f0fff7-fcf1-41fe-adb7-2157fd9efdbf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 84/2021-26",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Ing. Marie Miczková",
+    "ecli": "ECLI:CZ:OSKI:2021:23.C.84.2021.1",
+    "predmetRizeni": "5 010,32 Kč",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 65 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/77f0fff7-fcf1-41fe-adb7-2157fd9efdbf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
