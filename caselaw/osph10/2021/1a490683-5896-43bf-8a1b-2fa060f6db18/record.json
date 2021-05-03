@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:8.C.102.2021.1",
+  "docket": "8 C 102/2021-22",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a490683-5896-43bf-8a1b-2fa060f6db18",
+  "source_sha256": "8615aa5e0aaef1af55b2dfc400a7a34278c66456aaac62cc70b6a7b78391270e",
+  "source_id": "1a490683-5896-43bf-8a1b-2fa060f6db18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 102/2021-22",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Andrea Löffelmannová",
+    "ecli": "ECLI:CZ:OSPH10:2021:8.C.102.2021.1",
+    "predmetRizeni": "[částka]",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2316 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a490683-5896-43bf-8a1b-2fa060f6db18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
