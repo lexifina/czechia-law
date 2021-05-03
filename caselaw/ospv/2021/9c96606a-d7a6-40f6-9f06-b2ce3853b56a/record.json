@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:5.C.18.2021.1",
+  "docket": "5 C 18/2021-43",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c96606a-d7a6-40f6-9f06-b2ce3853b56a",
+  "source_sha256": "6cc880b9893cb0732dec10d38819958d6f9ed82ed7b42922b02841d656cf0831",
+  "source_id": "9c96606a-d7a6-40f6-9f06-b2ce3853b56a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 18/2021-43",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. et Mgr. Věroslav Řezáč",
+    "ecli": "ECLI:CZ:OSPV:2021:5.C.18.2021.1",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c96606a-d7a6-40f6-9f06-b2ce3853b56a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
