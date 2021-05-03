@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:16.C.49.2021.1",
+  "docket": "16 C 49/2021-65",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9be64f23-fba4-4217-ba7d-ebb553b52276",
+  "source_sha256": "a91d1133fad5a8f3dcb44e373c213eeb119ae4124de9fab60ca411f134820e88",
+  "source_id": "9be64f23-fba4-4217-ba7d-ebb553b52276",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 49/2021-65",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Michaela Dvořáčková",
+    "ecli": "ECLI:CZ:OSME:2021:16.C.49.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9be64f23-fba4-4217-ba7d-ebb553b52276"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
