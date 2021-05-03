@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.41.2021.1",
+  "docket": "5 C 41/2021-12",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65728729-3261-450c-a189-ffe4228e6c43",
+  "source_sha256": "6fa0a2987e11c8c0347e6df3fe2ca5381fc461f74596440878a020867b1fbbd0",
+  "source_id": "65728729-3261-450c-a189-ffe4228e6c43",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 41/2021-12",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.41.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65728729-3261-450c-a189-ffe4228e6c43"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
