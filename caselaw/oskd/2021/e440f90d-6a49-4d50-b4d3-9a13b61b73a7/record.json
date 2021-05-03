@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:23.C.16.2021.1",
+  "docket": "23 C 16/2021",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e440f90d-6a49-4d50-b4d3-9a13b61b73a7",
+  "source_sha256": "3906d1c9f298c84158b1e86bcf2df34c9dddfd80ea71eb196656f8ac97849fbc",
+  "source_id": "e440f90d-6a49-4d50-b4d3-9a13b61b73a7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 16/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Adriana Hasmanová",
+    "ecli": "ECLI:CZ:OSKD:2021:23.C.16.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e440f90d-6a49-4d50-b4d3-9a13b61b73a7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
