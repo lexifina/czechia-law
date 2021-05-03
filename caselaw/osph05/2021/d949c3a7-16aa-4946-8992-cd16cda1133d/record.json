@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:20.C.23.2021.2",
+  "docket": "20 C 23/2021-17",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d949c3a7-16aa-4946-8992-cd16cda1133d",
+  "source_sha256": "c907033af7fc2956fc28361422c994f7912154066281ad142bbbc31fbde9ae95",
+  "source_id": "d949c3a7-16aa-4946-8992-cd16cda1133d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 23/2021-17",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Andrea Lomozová",
+    "ecli": "ECLI:CZ:OSPH05:2021:20.C.23.2021.2",
+    "predmetRizeni": "O zaplacení 4 184 Kč s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-09-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d949c3a7-16aa-4946-8992-cd16cda1133d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
