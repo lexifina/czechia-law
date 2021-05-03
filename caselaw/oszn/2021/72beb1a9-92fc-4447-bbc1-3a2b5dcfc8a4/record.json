@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:12.C.69.2021.1",
+  "docket": "12 C 69/2021-42",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72beb1a9-92fc-4447-bbc1-3a2b5dcfc8a4",
+  "source_sha256": "fcf4fc962ae127f6f41f91d28f8c622dafa9ecdb71d5738160bf4d4a805dbf55",
+  "source_id": "72beb1a9-92fc-4447-bbc1-3a2b5dcfc8a4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 69/2021-42",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Dana Hamzová",
+    "ecli": "ECLI:CZ:OSZN:2021:12.C.69.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-08-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72beb1a9-92fc-4447-bbc1-3a2b5dcfc8a4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
