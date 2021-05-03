@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.39.2021.1",
+  "docket": "9 C 39/2021-17",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd3fb319-d7c6-44b1-92f1-bb4e53c5ef92",
+  "source_sha256": "d673eea73e4712a830a6eae4b7e0efbc5697fb4019396c616763f94695f5f824",
+  "source_id": "cd3fb319-d7c6-44b1-92f1-bb4e53c5ef92",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 39/2021-17",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.39.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd3fb319-d7c6-44b1-92f1-bb4e53c5ef92"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
