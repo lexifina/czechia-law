@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:28.C.317.2020.1",
+  "docket": "28 C 317/2020-30",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8affca8-d34c-49cb-b386-a923018487a7",
+  "source_sha256": "a7e7932b7499f22fea0a4b0952f298c6e38148041853acf96c597822f8bad39f",
+  "source_id": "b8affca8-d34c-49cb-b386-a923018487a7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 317/2020-30",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Eduard Levý",
+    "ecli": "ECLI:CZ:OSCB:2021:28.C.317.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8affca8-d34c-49cb-b386-a923018487a7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
