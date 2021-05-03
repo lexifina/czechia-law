@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:8.C.111.2021.1",
+  "docket": "8 C 111/2021-18",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d3eced4-5fa7-4475-b678-c3cd9e4bc73a",
+  "source_sha256": "59723fbc1c7baf3adffb577d6ee993cf1c09dadc86586b7b8c3a6e0d135e60dc",
+  "source_id": "0d3eced4-5fa7-4475-b678-c3cd9e4bc73a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 111/2021-18",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Andrea Löffelmannová",
+    "ecli": "ECLI:CZ:OSPH10:2021:8.C.111.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 269 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d3eced4-5fa7-4475-b678-c3cd9e4bc73a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
