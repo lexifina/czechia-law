@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:33.C.76.2021.1",
+  "docket": "33 C 76/2021-45",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f2ffee6-2e13-487d-b8ff-9cb0a20cfe43",
+  "source_sha256": "978f0bed60127708d734f36afa9290601d7f6c2d6d0665f5e264dc20363a4d21",
+  "source_id": "9f2ffee6-2e13-487d-b8ff-9cb0a20cfe43",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 76/2021-45",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Eva Lišková",
+    "ecli": "ECLI:CZ:OSBI:2021:33.C.76.2021.1",
+    "predmetRizeni": "O zaplacení 4 446,19 Kč s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1820 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f2ffee6-2e13-487d-b8ff-9cb0a20cfe43"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
