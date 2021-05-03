@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:4.C.17.2021.1",
+  "docket": "4 C 17/2021-15",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1fcdaa78-6823-4fab-b5a4-08666641b944",
+  "source_sha256": "fd40688a165bcb28e9695c710afddc65a6e0b7e103bc956610655744fe5e3112",
+  "source_id": "1fcdaa78-6823-4fab-b5a4-08666641b944",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 17/2021-15",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ludmila Horská",
+    "ecli": "ECLI:CZ:OSRO:2021:4.C.17.2021.1",
+    "predmetRizeni": "zaplacení 2 146 Kč s přísl.",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1fcdaa78-6823-4fab-b5a4-08666641b944"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
