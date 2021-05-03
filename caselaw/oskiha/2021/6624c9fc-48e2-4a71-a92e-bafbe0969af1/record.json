@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:116.C.108.2021.1",
+  "docket": "116 C 108/2021-47",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6624c9fc-48e2-4a71-a92e-bafbe0969af1",
+  "source_sha256": "d9db4ce60bdc62f6db95c90eb6fa88b31ca3e0fad724d646a53ae06d7655c68c",
+  "source_id": "6624c9fc-48e2-4a71-a92e-bafbe0969af1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 108/2021-47",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Ivana Josieková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:116.C.108.2021.1",
+    "predmetRizeni": "11 755,54 Kč s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6624c9fc-48e2-4a71-a92e-bafbe0969af1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
