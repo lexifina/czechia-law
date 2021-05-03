@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:154.C.27.2020.5",
+  "docket": "154 C 27/2020-29",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dadcf248-d693-4fe5-8f63-54b6eff1896a",
+  "source_sha256": "5579da31675999bd36b9e9c286800019f7b029de3f23cf501e208266542c990a",
+  "source_id": "dadcf248-d693-4fe5-8f63-54b6eff1896a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "154 C 27/2020-29",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Monika Kotlánová",
+    "ecli": "ECLI:CZ:OSOV:2021:154.C.27.2020.5",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/91 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dadcf248-d693-4fe5-8f63-54b6eff1896a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
