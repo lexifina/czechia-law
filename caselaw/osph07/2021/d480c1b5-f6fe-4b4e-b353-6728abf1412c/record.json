@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:15.C.266.2020.1",
+  "docket": "15 C 266/2020-66",
+  "date": "2021-05-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d480c1b5-f6fe-4b4e-b353-6728abf1412c",
+  "source_sha256": "f11e80897b8395b510c3a07d091df599128b301cf0d3dc72f781cb0eb7559520",
+  "source_id": "d480c1b5-f6fe-4b4e-b353-6728abf1412c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 266/2020-66",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "JUDr. Iva Kaňáková",
+    "ecli": "ECLI:CZ:OSPH07:2021:15.C.266.2020.1",
+    "predmetRizeni": "O zaplacení 15 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-03",
+    "datumZverejneni": "2021-08-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 369 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d480c1b5-f6fe-4b4e-b353-6728abf1412c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
