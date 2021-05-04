@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:7.C.223.2020.1",
+  "docket": "7 C 223/2020-109",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7bb013a-5d37-48a4-9fd6-90708ae6fc18",
+  "source_sha256": "8e617a55af60ced4e3b27904f20cda54fd75eaf3b7d4a37652089b72a5d37851",
+  "source_id": "c7bb013a-5d37-48a4-9fd6-90708ae6fc18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 223/2020-109",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Jana Valentová",
+    "ecli": "ECLI:CZ:OSJC:2021:7.C.223.2020.1",
+    "predmetRizeni": "o 11 752,50 Kč",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7bb013a-5d37-48a4-9fd6-90708ae6fc18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
