@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:19.C.82.2021.1",
+  "docket": "19 C 82/2021",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5de0cca8-a868-4fca-9ad1-b362e2b411a3",
+  "source_sha256": "765928ffe45277412a13bac3916d3c3b537938b2d015fdd64af8d424145c3e4c",
+  "source_id": "5de0cca8-a868-4fca-9ad1-b362e2b411a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 82/2021",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Marek Jäger, Ph.D.",
+    "ecli": "ECLI:CZ:OSKO:2021:19.C.82.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5de0cca8-a868-4fca-9ad1-b362e2b411a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
