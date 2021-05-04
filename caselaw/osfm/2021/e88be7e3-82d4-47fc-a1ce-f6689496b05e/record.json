@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:16.C.24.2021.1",
+  "docket": "16 C 24/2021-26",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e88be7e3-82d4-47fc-a1ce-f6689496b05e",
+  "source_sha256": "388649101bd7dc7543443db1f549323214d8bc054d12c413b605f8e034373e99",
+  "source_id": "e88be7e3-82d4-47fc-a1ce-f6689496b05e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 24/2021-26",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. David Mařádek",
+    "ecli": "ECLI:CZ:OSFM:2021:16.C.24.2021.1",
+    "predmetRizeni": "O zaplacení 965 Kč s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právní domněnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2 z. č. 168/1999 Sb.",
+      "§ 4 z. č. 168/199 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e88be7e3-82d4-47fc-a1ce-f6689496b05e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
