@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:11.C.34.2021.1",
+  "docket": "11 C 34/2021-28",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bfba5800-a3d8-4211-8dc0-1bb3c8e223d7",
+  "source_sha256": "cb0fcd5d40bf9b9dfbdce4b4a1851e79941edaf884f480a6d2c8fe71ece55240",
+  "source_id": "bfba5800-a3d8-4211-8dc0-1bb3c8e223d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 34/2021-28",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Jana Matoušková",
+    "ecli": "ECLI:CZ:OSKO:2021:11.C.34.2021.1",
+    "predmetRizeni": "O zaplacení 32 114,13 Kč s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bfba5800-a3d8-4211-8dc0-1bb3c8e223d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
