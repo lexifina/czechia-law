@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:21.C.3.2021.2",
+  "docket": "21 C 3/2021-32",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4dc41d80-3502-4e7c-9cac-b43db8ea949f",
+  "source_sha256": "023c8025f807eabf197b033a53892637d8e9a5c5ed29d3f5ba4cac57abddae90",
+  "source_id": "4dc41d80-3502-4e7c-9cac-b43db8ea949f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 3/2021-32",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Alena Mědílková",
+    "ecli": "ECLI:CZ:OSCV:2021:21.C.3.2021.2",
+    "predmetRizeni": "zaplacení 8 290 Kč s příslušenstvím (příspěvek nepojištěného)",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4dc41d80-3502-4e7c-9cac-b43db8ea949f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
