@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:36.C.41.2021.1",
+  "docket": "36 C 41/2021-54",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c963a66-538c-4747-8459-b3d1fa604ec0",
+  "source_sha256": "6bc2c0b7e25e07bd05197cca4d9aa8fbe9964b6c98109ab7ff8b12b36ebb9d8b",
+  "source_id": "0c963a66-538c-4747-8459-b3d1fa604ec0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 41/2021-54",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2021:36.C.41.2021.1",
+    "predmetRizeni": "zaplacení 61 200 Kč",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "diskriminace",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "smlouva kolektivní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 4 vyhl. č. 589/2020 Sb.",
+      "§ 52 z. č. 262/2006 Sb.",
+      "§ 156 z. č. 262/2006 Sb.",
+      "§ 1 vyhl. č. 589/2020 Sb.",
+      "§ 265 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c963a66-538c-4747-8459-b3d1fa604ec0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
