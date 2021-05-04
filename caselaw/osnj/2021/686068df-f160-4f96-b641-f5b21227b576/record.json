@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:18.C.96.2021.1",
+  "docket": "18 C 96/2021-11",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/686068df-f160-4f96-b641-f5b21227b576",
+  "source_sha256": "bdf92a25f819bf7511617e00b8006948c1f59b4ca4c4a75ec1b4e2f615e952ff",
+  "source_id": "686068df-f160-4f96-b641-f5b21227b576",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 96/2021-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jaroslav Sosík",
+    "ecli": "ECLI:CZ:OSNJ:2021:18.C.96.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/686068df-f160-4f96-b641-f5b21227b576"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
