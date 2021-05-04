@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:26.C.242.2020.1",
+  "docket": "26 C 242/2020-42",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce5fe5ae-f9c8-4697-94a1-62ef2d3053ba",
+  "source_sha256": "0fdca7c5f88d9ee32bdc3620b86d0056b9ca79a42f4d1c87b8434456067bf0b1",
+  "source_id": "ce5fe5ae-f9c8-4697-94a1-62ef2d3053ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 242/2020-42",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Šárka Henzlová",
+    "ecli": "ECLI:CZ:OSPH02:2021:26.C.242.2020.1",
+    "predmetRizeni": "o zaplacení 468 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-09-03",
+    "klicovaSlova": [
+      "dražba",
+      "nemajetková újma",
+      "peněžité plnění",
+      "zadostiučinění / satisfakce",
+      "zastavení exekuce / výkonu rozhodnutí",
+      "zastavení výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce5fe5ae-f9c8-4697-94a1-62ef2d3053ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
