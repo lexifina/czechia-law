@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:11.C.85.2021.1",
+  "docket": "11 C 85/2021-30",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cea44f77-d015-4cee-b636-a39d4bfad22b",
+  "source_sha256": "ea7d16730dec07c12c6d3e9c65af3265ec1d765a3a1f187681724fd416dd50e1",
+  "source_id": "cea44f77-d015-4cee-b636-a39d4bfad22b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 85/2021-30",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. David Kolumber, Ph.D.",
+    "ecli": "ECLI:CZ:OSZL:2021:11.C.85.2021.1",
+    "predmetRizeni": "zaplacení 5 015,82 Kč",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cea44f77-d015-4cee-b636-a39d4bfad22b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
