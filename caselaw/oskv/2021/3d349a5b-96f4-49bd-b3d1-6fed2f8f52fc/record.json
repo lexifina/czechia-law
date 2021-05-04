@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:11.C.122.2021.1",
+  "docket": "11 C 122/2021-12",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3d349a5b-96f4-49bd-b3d1-6fed2f8f52fc",
+  "source_sha256": "a55e33df6ad4023f78f9a3b25788f93716d75d68a260b5adbc0276281d41c6fb",
+  "source_id": "3d349a5b-96f4-49bd-b3d1-6fed2f8f52fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 122/2021-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radek Černovský",
+    "ecli": "ECLI:CZ:OSKV:2021:11.C.122.2021.1",
+    "predmetRizeni": "1.520 Kč / jízdné",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3d349a5b-96f4-49bd-b3d1-6fed2f8f52fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
