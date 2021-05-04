@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.212.2018.1",
+  "docket": "7 C 212/2018-276",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f244d46-6949-4d59-bde3-a70200b14a3d",
+  "source_sha256": "a650de7b88c6181b17d11e81bebe4bec4bab26c7130f308b64b8c57982a42714",
+  "source_id": "8f244d46-6949-4d59-bde3-a70200b14a3d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 212/2018-276",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.212.2018.1",
+    "predmetRizeni": "vypořádání společného jmění manželů",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-10-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "svědečné",
+      "vypořádání SJM",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 740 z. č. 89/2012 Sb.",
+      "§ 736 z. č. 89/2012 Sb.",
+      "§ 709 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f244d46-6949-4d59-bde3-a70200b14a3d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
