@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:15.C.100.2021.1",
+  "docket": "15 C 100/2021-17",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d1bca5d0-2fa0-492e-8090-e2dc46b66a61",
+  "source_sha256": "974986d815c69b5c33be43204307f5b6111223c5aab72481dfdf3cb7670e154e",
+  "source_id": "d1bca5d0-2fa0-492e-8090-e2dc46b66a61",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 100/2021-17",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Monika Primusová",
+    "ecli": "ECLI:CZ:OSPH09:2021:15.C.100.2021.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-10-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d1bca5d0-2fa0-492e-8090-e2dc46b66a61"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
