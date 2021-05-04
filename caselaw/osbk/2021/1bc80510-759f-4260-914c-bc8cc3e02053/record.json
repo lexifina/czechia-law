@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:2.C.40.2021.1",
+  "docket": "2 C 40/2021-45",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1bc80510-759f-4260-914c-bc8cc3e02053",
+  "source_sha256": "96a1c01b27cfaa245bb475d7b015b8fced98bf589b36100f4825e43a70bf1a1d",
+  "source_id": "1bc80510-759f-4260-914c-bc8cc3e02053",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 40/2021-45",
+    "soud": "Okresní soud v Blansku",
+    "autor": "Mgr. Klára Cásková",
+    "ecli": "ECLI:CZ:OSBK:2021:2.C.40.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "elektronický podpis",
+      "právní domněnka",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1824 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§  z. č. 297/2016 Sb.",
+      "§ 1751 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1bc80510-759f-4260-914c-bc8cc3e02053"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
