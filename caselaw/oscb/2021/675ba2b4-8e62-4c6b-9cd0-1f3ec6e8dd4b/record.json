@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:17.C.141.2021.1",
+  "docket": "17 C 141/2021-61",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/675ba2b4-8e62-4c6b-9cd0-1f3ec6e8dd4b",
+  "source_sha256": "d3fc3db88f9082dd363d1eaf015ec82b53f4b1942ebe74a1d8befb366d7fc832",
+  "source_id": "675ba2b4-8e62-4c6b-9cd0-1f3ec6e8dd4b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 141/2021-61",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jiří Křivanec",
+    "ecli": "ECLI:CZ:OSCB:2021:17.C.141.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/675ba2b4-8e62-4c6b-9cd0-1f3ec6e8dd4b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
