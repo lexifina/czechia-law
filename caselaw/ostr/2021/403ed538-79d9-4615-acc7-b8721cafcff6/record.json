@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:5.C.65.2021.1",
+  "docket": "5 C 65/2021-17",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/403ed538-79d9-4615-acc7-b8721cafcff6",
+  "source_sha256": "e3344322418dd9d68a22a80362b0d06effc10f3a573eda0698df0b33ec7c4033",
+  "source_id": "403ed538-79d9-4615-acc7-b8721cafcff6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 65/2021-17",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Jan Tesař",
+    "ecli": "ECLI:CZ:OSTR:2021:5.C.65.2021.1",
+    "predmetRizeni": "zaplacení částky 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/403ed538-79d9-4615-acc7-b8721cafcff6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
