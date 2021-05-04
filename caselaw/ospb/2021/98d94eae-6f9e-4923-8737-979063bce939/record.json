@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:11.C.3.2021.5",
+  "docket": "11 C 3/2021-55",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/98d94eae-6f9e-4923-8737-979063bce939",
+  "source_sha256": "9e695eab2b802dafaba2e7162776809fcb3a2428a1712a02b46074eb5cfa9f11",
+  "source_id": "98d94eae-6f9e-4923-8737-979063bce939",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 3/2021-55",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Štěpán Slavík",
+    "ecli": "ECLI:CZ:OSPB:2021:11.C.3.2021.5",
+    "predmetRizeni": "zaplacení 19 250 Kč s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "řidičský průkaz",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/98d94eae-6f9e-4923-8737-979063bce939"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
