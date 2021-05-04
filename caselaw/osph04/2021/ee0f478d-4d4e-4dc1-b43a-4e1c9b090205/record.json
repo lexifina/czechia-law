@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:42.C.34.2021.1",
+  "docket": "42 C 34/2021-39",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ee0f478d-4d4e-4dc1-b43a-4e1c9b090205",
+  "source_sha256": "09a1bc8e9fa3860edddd747dd0b79a25a51ebf0fde4bb86c3ef735d0e41ccd84",
+  "source_id": "ee0f478d-4d4e-4dc1-b43a-4e1c9b090205",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 34/2021-39",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Radovan Kulhánek",
+    "ecli": "ECLI:CZ:OSPH04:2021:42.C.34.2021.1",
+    "predmetRizeni": "O zaplacení 221 650,51 Kč s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb.",
+      "§ 2001 z. č. 89/2012 Sb.",
+      "§ 273 z. č. 513/1991 Sb.",
+      "§ 708 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ee0f478d-4d4e-4dc1-b43a-4e1c9b090205"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
