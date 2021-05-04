@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:209.C.36.2020.1",
+  "docket": "209 C 36/2020-110",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2916d416-248b-4030-b6e0-bdc57a1e2c62",
+  "source_sha256": "0efe371b7aafb1f6803aed3c67870b5d5b1594bcb281fde1105f810219cdeb78",
+  "source_id": "2916d416-248b-4030-b6e0-bdc57a1e2c62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 36/2020-110",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "JUDr. Adéla Sedláčková, LL.M.",
+    "ecli": "ECLI:CZ:OSSU:2021:209.C.36.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím, o [částka] a příslušenství",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2398 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 2397 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2916d416-248b-4030-b6e0-bdc57a1e2c62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
