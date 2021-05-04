@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:6.C.94.2021.1",
+  "docket": "6 C 94/2021-17",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41f52268-2345-4110-9762-83397afb055c",
+  "source_sha256": "c15d84127723334c0b6a510b2c979fcddab6c5e26b1d6b54107c212b69f4e4d4",
+  "source_id": "41f52268-2345-4110-9762-83397afb055c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 94/2021-17",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Josef Miller",
+    "ecli": "ECLI:CZ:OSPJ:2021:6.C.94.2021.1",
+    "predmetRizeni": "O zaplacení 2 100 Kč",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41f52268-2345-4110-9762-83397afb055c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
