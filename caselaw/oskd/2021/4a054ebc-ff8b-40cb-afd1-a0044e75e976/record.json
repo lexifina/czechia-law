@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:217.C.81.2021.1",
+  "docket": "217 C 81/2021-30",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4a054ebc-ff8b-40cb-afd1-a0044e75e976",
+  "source_sha256": "1a903440f1f072aab604bb3a5547a31b4e0d30fb59913160a1ea7278f8a90a96",
+  "source_id": "4a054ebc-ff8b-40cb-afd1-a0044e75e976",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "217 C 81/2021-30",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Petra Nováková",
+    "ecli": "ECLI:CZ:OSKD:2021:217.C.81.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4a054ebc-ff8b-40cb-afd1-a0044e75e976"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
