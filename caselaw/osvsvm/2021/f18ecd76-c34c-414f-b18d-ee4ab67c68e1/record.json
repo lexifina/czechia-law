@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+  "ecli": "ECLI:CZ:OSVSVM:2021:19.C.33.2021.1",
+  "docket": "19 C 33/2021-30",
+  "date": "2021-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f18ecd76-c34c-414f-b18d-ee4ab67c68e1",
+  "source_sha256": "5595f429bd29d326faa02196ee2171cd1d77b481f8b96ac8d9f84496e03913e4",
+  "source_id": "f18ecd76-c34c-414f-b18d-ee4ab67c68e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 33/2021-30",
+    "soud": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+    "autor": "Mgr. Kateřina Punčochářová",
+    "ecli": "ECLI:CZ:OSVSVM:2021:19.C.33.2021.1",
+    "predmetRizeni": "O zaplacení 35 623 Kč s příslušenstvím",
+    "datumVydani": "2021-05-04",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb.",
+      "§ 3 nař. vl. č. 351/2003 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f18ecd76-c34c-414f-b18d-ee4ab67c68e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
