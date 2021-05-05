@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:8.C.128.2021.1",
+  "docket": "8 C 128/2021-23",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a57e65c-e504-4135-9011-15aff1815b0e",
+  "source_sha256": "3ca2c25940f29be72a20e896137e0a33416381426826ec1ec5608fe6d1d45133",
+  "source_id": "1a57e65c-e504-4135-9011-15aff1815b0e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 128/2021-23",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Daniela Ševelová",
+    "ecli": "ECLI:CZ:OSPR:2021:8.C.128.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a57e65c-e504-4135-9011-15aff1815b0e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
