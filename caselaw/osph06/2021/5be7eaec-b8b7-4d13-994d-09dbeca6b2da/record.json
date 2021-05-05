@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:7.C.65.2017.1",
+  "docket": "7 C 65/2017-135",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5be7eaec-b8b7-4d13-994d-09dbeca6b2da",
+  "source_sha256": "274a113ac818beb5949847c8d12f2ae67aa2214618112ae4e69c3132afbafba2",
+  "source_id": "5be7eaec-b8b7-4d13-994d-09dbeca6b2da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 65/2017-135",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Irena Voštová",
+    "ecli": "ECLI:CZ:OSPH06:2021:7.C.65.2017.1",
+    "predmetRizeni": "o zaplacení částky 57.884 Kč s přísl.",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-09-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 577 z. č. 89/2012 Sb.",
+      "§ 431 z. č. 89/2012 Sb.",
+      "§ 440 z. č. 89/2012 Sb.",
+      "§ 436 z. č. 89/2012 Sb.",
+      "§ 164 z. č. 89/2012 Sb.",
+      "§ 44 z. č. 90/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5be7eaec-b8b7-4d13-994d-09dbeca6b2da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
