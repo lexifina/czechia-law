@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:7.C.222.2020.1",
+  "docket": "7 C 222/2020-33",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dcd0ca5d-8f32-4d87-bfad-5994a44e7dd3",
+  "source_sha256": "10af3cdaff6407fd8443744d7c1e96c50f486257bb5e9ed747288bf5fa63bc57",
+  "source_id": "dcd0ca5d-8f32-4d87-bfad-5994a44e7dd3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 222/2020-33",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Daniela Liscová",
+    "ecli": "ECLI:CZ:OSLT:2021:7.C.222.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "pěstounská péče",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dcd0ca5d-8f32-4d87-bfad-5994a44e7dd3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
