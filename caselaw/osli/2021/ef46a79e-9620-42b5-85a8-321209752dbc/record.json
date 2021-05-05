@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.179.2020.1",
+  "docket": "17 C 179/2020-21",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef46a79e-9620-42b5-85a8-321209752dbc",
+  "source_sha256": "62e6f93eb08aeb6c64cf45dd7a53b2fcde94f997bbbe19bc7b7d1bf2b62efec3",
+  "source_id": "ef46a79e-9620-42b5-85a8-321209752dbc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 179/2020-21",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.179.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef46a79e-9620-42b5-85a8-321209752dbc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
