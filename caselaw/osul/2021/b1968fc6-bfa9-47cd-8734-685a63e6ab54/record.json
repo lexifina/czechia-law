@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:12.C.359.2014.1",
+  "docket": "12 C 359/2014-67",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1968fc6-bfa9-47cd-8734-685a63e6ab54",
+  "source_sha256": "eefae9182d44b8a5b4fc1221dc9ba233211dc1becd01c7c9d67b352411bf72fd",
+  "source_id": "b1968fc6-bfa9-47cd-8734-685a63e6ab54",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 359/2014-67",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:12.C.359.2014.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "oddlužení",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§  z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1968fc6-bfa9-47cd-8734-685a63e6ab54"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
