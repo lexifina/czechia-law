@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:5.C.265.2015.1",
+  "docket": "5 C 265/2015-56",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3e1934d-3e58-4aaf-ae19-e66ac0dc2e8e",
+  "source_sha256": "bdfc401e8768829a3a43f55bb4ffcea5baedf19d7e45dee3168e573d1b2c9e8d",
+  "source_id": "f3e1934d-3e58-4aaf-ae19-e66ac0dc2e8e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 265/2015-56",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Martina Šuláková, Ph.D.",
+    "ecli": "ECLI:CZ:OSSY:2021:5.C.265.2015.1",
+    "predmetRizeni": "o zaplacení 17.812,39 Kč s příslušenstvím",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "oddlužení",
+      "postoupení pohledávky",
+      "rozhodnutí o úpadku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3e1934d-3e58-4aaf-ae19-e66ac0dc2e8e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
