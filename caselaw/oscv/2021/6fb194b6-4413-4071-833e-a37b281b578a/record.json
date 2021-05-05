@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:9.C.217.2019.3",
+  "docket": "9 C 217/2019-15",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6fb194b6-4413-4071-833e-a37b281b578a",
+  "source_sha256": "b9c15926e9f80f2b1fd62911c4958ddf48c4701ac4ce8c7ce2a55028601a9d74",
+  "source_id": "6fb194b6-4413-4071-833e-a37b281b578a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 217/2019-15",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Vladislava Štulcová",
+    "ecli": "ECLI:CZ:OSCV:2021:9.C.217.2019.3",
+    "predmetRizeni": "zaplacení 4 736 Kč (úvěr)",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "dobré mravy",
+      "peněžité plnění",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "zajištění závazku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6fb194b6-4413-4071-833e-a37b281b578a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
