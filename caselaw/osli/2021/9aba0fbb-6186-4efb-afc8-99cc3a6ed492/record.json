@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:18.C.40.2021.1",
+  "docket": "18 C 40/2021-10",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9aba0fbb-6186-4efb-afc8-99cc3a6ed492",
+  "source_sha256": "606ace54f09bc7690115aaedbf7c2cbaa7def38862ace659565f2f124bc099af",
+  "source_id": "9aba0fbb-6186-4efb-afc8-99cc3a6ed492",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 40/2021-10",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2021:18.C.40.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 16.341,00 Kč s přísl.",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9aba0fbb-6186-4efb-afc8-99cc3a6ed492"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
