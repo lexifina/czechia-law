@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.196.2020.1",
+  "docket": "5 C 196/2020-27",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f1452635-73e3-4e75-a6c5-70c0bb168cf3",
+  "source_sha256": "fc471838af16cc66b406898b3a91937ed8bd26985dcca9e7950564d48a262d0e",
+  "source_id": "f1452635-73e3-4e75-a6c5-70c0bb168cf3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 196/2020-27",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.196.2020.1",
+    "predmetRizeni": "zaplacení 1 210 Kč s přísl.",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f1452635-73e3-4e75-a6c5-70c0bb168cf3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
