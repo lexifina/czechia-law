@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:20.C.343.2020.1",
+  "docket": "20 C 343/2020-19",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9edabff6-fce0-4bfa-bcf5-39d5e0bf74f3",
+  "source_sha256": "6c3a9c6f8e59709c5b4cd7a98746800c10d56a37dee40a0de9d0c39f8a44ae86",
+  "source_id": "9edabff6-fce0-4bfa-bcf5-39d5e0bf74f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 343/2020-19",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Nadine Kovandová",
+    "ecli": "ECLI:CZ:OSDC:2021:20.C.343.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9edabff6-fce0-4bfa-bcf5-39d5e0bf74f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
