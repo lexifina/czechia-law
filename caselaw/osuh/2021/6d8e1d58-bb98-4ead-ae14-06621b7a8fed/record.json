@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:4.C.244.2020.1",
+  "docket": "4 C 244/2020-92",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6d8e1d58-bb98-4ead-ae14-06621b7a8fed",
+  "source_sha256": "35e5911a243d5146420e146344ace51f269b85a3ba3a14f60edf4c22739cc0b0",
+  "source_id": "6d8e1d58-bb98-4ead-ae14-06621b7a8fed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 244/2020-92",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "JUDr. Jaroslava Hamadová",
+    "ecli": "ECLI:CZ:OSUH:2021:4.C.244.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-09-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 502 z. č. 513/1991 Sb.",
+      "§ 544 z. č. 40/1964 Sb.",
+      "§ 369 z. č. 513/1991 Sb.",
+      "§ 273 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6d8e1d58-bb98-4ead-ae14-06621b7a8fed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
