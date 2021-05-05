@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:8.C.94.2021.1",
+  "docket": "8 C 94/2021-32",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/145acd0b-7602-44df-b10f-a848a116efec",
+  "source_sha256": "64a09b1db1c6d37f815568595f3a252a8b9c14a9f2454375641c56b944ba8eb7",
+  "source_id": "145acd0b-7602-44df-b10f-a848a116efec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 94/2021-32",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Andrea Venclíková",
+    "ecli": "ECLI:CZ:OSPH03:2021:8.C.94.2021.1",
+    "predmetRizeni": "1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/145acd0b-7602-44df-b10f-a848a116efec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
