@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.241.2020.1",
+  "docket": "12 C 241/2020-56",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e7e2f947-281e-4e94-95aa-74de858a8112",
+  "source_sha256": "6b6bc50ef0d8eef3b02b8e0ddb8af42030cb76bc9f5b773f9f9f87d6b946455b",
+  "source_id": "e7e2f947-281e-4e94-95aa-74de858a8112",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 241/2020-56",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.241.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e7e2f947-281e-4e94-95aa-74de858a8112"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
