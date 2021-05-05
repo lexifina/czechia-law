@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:159.C.31.2018.5",
+  "docket": "159 C 31/2018-115",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9ff7093-ed0c-4cf7-9db6-bb555a9dafc8",
+  "source_sha256": "74aba3662d6b407cc19c948b37144ebf4a9fba0c2ee6f19f73284b30a01c38f8",
+  "source_id": "d9ff7093-ed0c-4cf7-9db6-bb555a9dafc8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "159 C 31/2018-115",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Darina Dvořáková",
+    "ecli": "ECLI:CZ:OSOV:2021:159.C.31.2018.5",
+    "predmetRizeni": "o 67 017 Kč",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "ručení",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 97 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9ff7093-ed0c-4cf7-9db6-bb555a9dafc8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
