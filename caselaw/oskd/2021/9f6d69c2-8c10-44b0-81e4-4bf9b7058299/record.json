@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:25.C.10.2021.1",
+  "docket": "25 C 10/2021",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f6d69c2-8c10-44b0-81e4-4bf9b7058299",
+  "source_sha256": "6beec85d69b2761721baa78b596b7d942cb78a30fea4bd61803f94bdeb6b02a1",
+  "source_id": "9f6d69c2-8c10-44b0-81e4-4bf9b7058299",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 10/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lucie Vybíralová, LL.M.",
+    "ecli": "ECLI:CZ:OSKD:2021:25.C.10.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 123 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f6d69c2-8c10-44b0-81e4-4bf9b7058299"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
