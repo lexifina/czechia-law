@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:23.C.177.2020.2",
+  "docket": "23 C 177/2020-15",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5206b04b-42a0-4b3f-9586-9716a87828fd",
+  "source_sha256": "5bb7a46e40b90242597c3933beb323c263933ca43155bced529ed3f5b0e8e5bb",
+  "source_id": "5206b04b-42a0-4b3f-9586-9716a87828fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 177/2020-15",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. František Sedláček",
+    "ecli": "ECLI:CZ:OSSO:2021:23.C.177.2020.2",
+    "predmetRizeni": "zaplacení 4 554 Kč s příslušenstvím",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 3 vyhl. č. 175/2000 Sb.",
+      "§ 15b vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5206b04b-42a0-4b3f-9586-9716a87828fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
