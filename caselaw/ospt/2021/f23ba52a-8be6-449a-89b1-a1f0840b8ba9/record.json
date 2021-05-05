@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:9.C.98.2021.1",
+  "docket": "9 C 98/2021-11",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f23ba52a-8be6-449a-89b1-a1f0840b8ba9",
+  "source_sha256": "5eb82e7cc2e600fe6fbefbc2a1d81d55e5fc92c7038e65f52c836dfd81f4e8dc",
+  "source_id": "f23ba52a-8be6-449a-89b1-a1f0840b8ba9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 98/2021-11",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Simona Vojíková",
+    "ecli": "ECLI:CZ:OSPT:2021:9.C.98.2021.1",
+    "predmetRizeni": "o zaplacení 34 446 Kč s příslušenstvím",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f23ba52a-8be6-449a-89b1-a1f0840b8ba9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
