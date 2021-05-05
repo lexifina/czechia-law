@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:17.C.13.2021.1",
+  "docket": "17 C 13/2021-72",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea9620ee-3d7c-4d87-b4cb-8a91259e4495",
+  "source_sha256": "9ecfa9959d9fc4a01d5ae3cf089d27690c56bfdd1e15b459e3e292b795c34859",
+  "source_id": "ea9620ee-3d7c-4d87-b4cb-8a91259e4495",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 13/2021-72",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Ondřej Doubek",
+    "ecli": "ECLI:CZ:OSKV:2021:17.C.13.2021.1",
+    "predmetRizeni": "12.676,76 Kč / bezdůvodné obohacení",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-09-27",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "oddlužení",
+      "peněžité plnění",
+      "rozhodnutí o úpadku",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 140c z. č. 182/2006 Sb.",
+      "§ 141a z. č. 182/2006 Sb.",
+      "§ 109 z. č. 182/2006 Sb.",
+      "§ 173 z. č. 182/2006 Sb.",
+      "§ 1 z. č. 456/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea9620ee-3d7c-4d87-b4cb-8a91259e4495"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
