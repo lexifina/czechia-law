@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:7.C.56.2021.1",
+  "docket": "7 C 56/2021-39",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/affb91bc-533f-473f-b026-ac632c3111cd",
+  "source_sha256": "bcc3c2a0ad09525369b5f2a70d88aebae9a3ae840fb4e49f772b7224815856de",
+  "source_id": "affb91bc-533f-473f-b026-ac632c3111cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 56/2021-39",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Aleš Landsman",
+    "ecli": "ECLI:CZ:OSZR:2021:7.C.56.2021.1",
+    "predmetRizeni": "o zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/affb91bc-533f-473f-b026-ac632c3111cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
