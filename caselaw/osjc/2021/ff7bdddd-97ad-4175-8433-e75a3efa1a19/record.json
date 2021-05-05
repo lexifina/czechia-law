@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:6.C.116.2021.2",
+  "docket": "6 C 116/2021-6",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff7bdddd-97ad-4175-8433-e75a3efa1a19",
+  "source_sha256": "9a570efd32775fe0ffcd281dce917b9e186cc8d169bb34391f12ae5689f7980d",
+  "source_id": "ff7bdddd-97ad-4175-8433-e75a3efa1a19",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 116/2021-6",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Naděžda Červenková",
+    "ecli": "ECLI:CZ:OSJC:2021:6.C.116.2021.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff7bdddd-97ad-4175-8433-e75a3efa1a19"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
