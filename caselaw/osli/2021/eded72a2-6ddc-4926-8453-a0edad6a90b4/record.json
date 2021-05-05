@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:13.C.69.2021.1",
+  "docket": "13 C 69/2021",
+  "date": "2021-05-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eded72a2-6ddc-4926-8453-a0edad6a90b4",
+  "source_sha256": "dee706622f9c59013defb30c8fbd1f10a49138159f8d3750110bdd6b5e1129a5",
+  "source_id": "eded72a2-6ddc-4926-8453-a0edad6a90b4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 69/2021",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Šoljaková",
+    "ecli": "ECLI:CZ:OSLI:2021:13.C.69.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 2.000,00 Kč s přísl.",
+    "datumVydani": "2021-05-05",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "pořádková pokuta",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eded72a2-6ddc-4926-8453-a0edad6a90b4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
