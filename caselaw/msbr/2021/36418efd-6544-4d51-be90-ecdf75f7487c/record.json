@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:49.C.192.2020.1",
+  "docket": "49 C 192/2020-26",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36418efd-6544-4d51-be90-ecdf75f7487c",
+  "source_sha256": "e95702475361ad62683c4343758e9462f1231868b4ac2183ca25c619210e2f17",
+  "source_id": "36418efd-6544-4d51-be90-ecdf75f7487c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "49 C 192/2020-26",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Monika Schön, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:49.C.192.2020.1",
+    "predmetRizeni": "zaplacení 2.000 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36418efd-6544-4d51-be90-ecdf75f7487c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
