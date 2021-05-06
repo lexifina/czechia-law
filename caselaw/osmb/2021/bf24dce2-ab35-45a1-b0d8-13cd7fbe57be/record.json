@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:20.C.100.2021.2",
+  "docket": "20 C 100/2021-25",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf24dce2-ab35-45a1-b0d8-13cd7fbe57be",
+  "source_sha256": "187b794b695610a963ed740258501dfaa3d567fa88ed796f6827d7dd9bcbc65b",
+  "source_id": "bf24dce2-ab35-45a1-b0d8-13cd7fbe57be",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 100/2021-25",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Petra Svobodová",
+    "ecli": "ECLI:CZ:OSMB:2021:20.C.100.2021.2",
+    "predmetRizeni": "o zaplacení 29 150 Kč s příslušenstvím",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 2225 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf24dce2-ab35-45a1-b0d8-13cd7fbe57be"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
