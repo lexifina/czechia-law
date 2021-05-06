@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:29.C.75.2020.2",
+  "docket": "29 C 75/2020-30",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/865fc4ee-7e87-4517-945c-5d204a491da5",
+  "source_sha256": "509c80dea2db91f77eeee1b9478d11821715fcb74035db7a2bb7f655564eea62",
+  "source_id": "865fc4ee-7e87-4517-945c-5d204a491da5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 75/2020-30",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Hana Langová",
+    "ecli": "ECLI:CZ:OSOV:2021:29.C.75.2020.2",
+    "predmetRizeni": "o nahrazení projevu vůle žalovaného",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-08-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "služebnost",
+      "smlouva o smlouvě budoucí",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 1257 z. č. 89/2012 Sb.",
+      "§ 509 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/865fc4ee-7e87-4517-945c-5d204a491da5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
