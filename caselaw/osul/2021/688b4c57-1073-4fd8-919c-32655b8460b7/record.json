@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:33.C.321.2020.4",
+  "docket": "33 C 321/2020-55",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/688b4c57-1073-4fd8-919c-32655b8460b7",
+  "source_sha256": "11fe27b93a993a6b87296a28df6d243f16be0e64b634d750b954bd75db4a8ea8",
+  "source_id": "688b4c57-1073-4fd8-919c-32655b8460b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 321/2020-55",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Petr Blažej",
+    "ecli": "ECLI:CZ:OSUL:2021:33.C.321.2020.4",
+    "predmetRizeni": "o zaplacení 11 950,22 Kč s příslušenstvím",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 9 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/688b4c57-1073-4fd8-919c-32655b8460b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
