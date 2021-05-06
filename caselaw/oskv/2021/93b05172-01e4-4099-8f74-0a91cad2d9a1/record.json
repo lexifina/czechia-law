@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:10.C.51.2021.1",
+  "docket": "10 C 51/2021-19",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/93b05172-01e4-4099-8f74-0a91cad2d9a1",
+  "source_sha256": "c821a6fb26b2eb168d2d02aeac15c3742d015fe81ddc84f5dac18e3e00868102",
+  "source_id": "93b05172-01e4-4099-8f74-0a91cad2d9a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 51/2021-19",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Blanka Magliová",
+    "ecli": "ECLI:CZ:OSKV:2021:10.C.51.2021.1",
+    "predmetRizeni": "19.565,40 Kč / úvěr",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 1814 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/93b05172-01e4-4099-8f74-0a91cad2d9a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
