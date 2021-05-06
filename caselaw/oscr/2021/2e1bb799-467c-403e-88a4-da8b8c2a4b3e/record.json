@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:3.C.263.2020.1",
+  "docket": "3 C 263/2020-24",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e1bb799-467c-403e-88a4-da8b8c2a4b3e",
+  "source_sha256": "f1e33ea8e55a1f315a56a8e88aa7c8b2b255766dc2208203103a5be33948280c",
+  "source_id": "2e1bb799-467c-403e-88a4-da8b8c2a4b3e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 263/2020-24",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Jana Profousová",
+    "ecli": "ECLI:CZ:OSCR:2021:3.C.263.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e1bb799-467c-403e-88a4-da8b8c2a4b3e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
