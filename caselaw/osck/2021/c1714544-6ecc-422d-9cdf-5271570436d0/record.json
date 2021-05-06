@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:5.C.125.2021.2",
+  "docket": "5 C 125/2021-47",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1714544-6ecc-422d-9cdf-5271570436d0",
+  "source_sha256": "f70f729d385e2c9e75ae8b955693a95ac55b1330e605c3a37b2e7b6231ceb841",
+  "source_id": "c1714544-6ecc-422d-9cdf-5271570436d0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 125/2021-47",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2021:5.C.125.2021.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 262 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1714544-6ecc-422d-9cdf-5271570436d0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
