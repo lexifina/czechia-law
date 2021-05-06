@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:10.C.4.2021.1",
+  "docket": "10 C 4/2021-23",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e7b3edb-710d-4c23-87d2-bc05f0fee644",
+  "source_sha256": "d6dc6d1372e1422162919753fe6e8f794f371443ed31452c92069f6396f9060e",
+  "source_id": "0e7b3edb-710d-4c23-87d2-bc05f0fee644",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 4/2021-23",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Jana Kantoříková",
+    "ecli": "ECLI:CZ:OSRO:2021:10.C.4.2021.1",
+    "predmetRizeni": "3 297 Kč s přísl.",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-12-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1721 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e7b3edb-710d-4c23-87d2-bc05f0fee644"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
