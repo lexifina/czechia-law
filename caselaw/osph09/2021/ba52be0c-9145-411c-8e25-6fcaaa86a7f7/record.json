@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:19.C.161.2021.1",
+  "docket": "19 C 161/2021-18",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba52be0c-9145-411c-8e25-6fcaaa86a7f7",
+  "source_sha256": "ba02127bcb9ca608239bb945342b3c58ed57fd1f3b3aec97227eec8940d4e2ad",
+  "source_id": "ba52be0c-9145-411c-8e25-6fcaaa86a7f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 161/2021-18",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Radmila Chadimová",
+    "ecli": "ECLI:CZ:OSPH09:2021:19.C.161.2021.1",
+    "predmetRizeni": "O zaplacení 799 Kč s příslušenstvím",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba52be0c-9145-411c-8e25-6fcaaa86a7f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
