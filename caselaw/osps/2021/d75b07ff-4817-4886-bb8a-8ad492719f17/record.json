@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.424.2020.5",
+  "docket": "4 C 424/2020-32",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d75b07ff-4817-4886-bb8a-8ad492719f17",
+  "source_sha256": "2ab1cb7527f65513290753e2e3a852049cba3f53452a4a9413f2f855f2880727",
+  "source_id": "d75b07ff-4817-4886-bb8a-8ad492719f17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 424/2020-32",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Tereza Andrlová",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.424.2020.5",
+    "predmetRizeni": "8.401 Kč s přísl.",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-07-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní",
+      "smluvní pokuta",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d75b07ff-4817-4886-bb8a-8ad492719f17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
