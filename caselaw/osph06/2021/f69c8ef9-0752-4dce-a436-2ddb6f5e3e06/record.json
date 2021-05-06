@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:28.C.86.2021.1",
+  "docket": "28 C 86/2021-29",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f69c8ef9-0752-4dce-a436-2ddb6f5e3e06",
+  "source_sha256": "80923b7cb6f9ad36c298b153f0d0a06d082a30f924ebb55f1851bd53d476bcd5",
+  "source_id": "f69c8ef9-0752-4dce-a436-2ddb6f5e3e06",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 86/2021-29",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Hana Šedivá",
+    "ecli": "ECLI:CZ:OSPH06:2021:28.C.86.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f69c8ef9-0752-4dce-a436-2ddb6f5e3e06"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
