@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:19.C.319.2020.1",
+  "docket": "19 C 319/2020-17",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/16a625d4-0059-4dba-a660-41ec9e751096",
+  "source_sha256": "f66909b5023cd9ea8f7944fc408b01a74aa324802f1758744cd182d031086a44",
+  "source_id": "16a625d4-0059-4dba-a660-41ec9e751096",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 319/2020-17",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Tomáš Foltýn, Ph.D.",
+    "ecli": "ECLI:CZ:OSDO:2021:19.C.319.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/16a625d4-0059-4dba-a660-41ec9e751096"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
