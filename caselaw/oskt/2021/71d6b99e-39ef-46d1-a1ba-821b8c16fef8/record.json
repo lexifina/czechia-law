@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:6.C.52.2021.1",
+  "docket": "6 C 52/2021-36",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71d6b99e-39ef-46d1-a1ba-821b8c16fef8",
+  "source_sha256": "fb1d09869574974ff987d293bf8a4b51cbbf0351e7346f47178ed7af40dd00e4",
+  "source_id": "71d6b99e-39ef-46d1-a1ba-821b8c16fef8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 52/2021-36",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martina Matějková",
+    "ecli": "ECLI:CZ:OSKT:2021:6.C.52.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-07-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71d6b99e-39ef-46d1-a1ba-821b8c16fef8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
