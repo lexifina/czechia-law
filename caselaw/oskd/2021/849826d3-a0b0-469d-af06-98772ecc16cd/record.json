@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:118.C.1.2021.1",
+  "docket": "118 C 1/2021-34",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/849826d3-a0b0-469d-af06-98772ecc16cd",
+  "source_sha256": "2687b6c0aeefca5bf03dd4d4b95c94e35c63b60a3bb0f45a051b8dee016c352f",
+  "source_id": "849826d3-a0b0-469d-af06-98772ecc16cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "118 C 1/2021-34",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jaroslava Tenglerová",
+    "ecli": "ECLI:CZ:OSKD:2021:118.C.1.2021.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "opilost",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 89b z. č. 373/2011 Sb.",
+      "§ 11 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/849826d3-a0b0-469d-af06-98772ecc16cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
