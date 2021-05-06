@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:62.C.75.2021.2",
+  "docket": "62 C 75/2021-20",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0de7c66c-67bc-4690-bdcb-dbf976075130",
+  "source_sha256": "6682426b7b36f8fab35cc48216fb0f997785a1fb4b9a8563c4ede58f3202487a",
+  "source_id": "0de7c66c-67bc-4690-bdcb-dbf976075130",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 75/2021-20",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2021:62.C.75.2021.2",
+    "predmetRizeni": "o zaplacení 1 525 Kč s příslušenstvím",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0de7c66c-67bc-4690-bdcb-dbf976075130"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
