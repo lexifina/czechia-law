@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:13.C.265.2019.1",
+  "docket": "13 C 265/2019-74",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b5135c81-8b00-4cdb-a352-6be0b84819b6",
+  "source_sha256": "07d368a3086b600b3ff9ce52643382a75f4c540475a6277f1cd0e0b98713e916",
+  "source_id": "b5135c81-8b00-4cdb-a352-6be0b84819b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 265/2019-74",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Ivana Dvořáková",
+    "ecli": "ECLI:CZ:OSTP:2021:13.C.265.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b5135c81-8b00-4cdb-a352-6be0b84819b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
