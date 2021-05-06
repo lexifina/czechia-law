@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:8.C.49.2021.1",
+  "docket": "8 C 49/2021",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d11c5b7f-fb6e-4d6a-93da-60d7aad74ab4",
+  "source_sha256": "9af40b8f64348e56a4d24968d83b7ad4aacd67e753d48ada426cdc5bf15939f0",
+  "source_id": "d11c5b7f-fb6e-4d6a-93da-60d7aad74ab4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 49/2021",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2021:8.C.49.2021.1",
+    "predmetRizeni": "zaplacení 6 104,92 Kč s přísl.",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 153a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d11c5b7f-fb6e-4d6a-93da-60d7aad74ab4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
