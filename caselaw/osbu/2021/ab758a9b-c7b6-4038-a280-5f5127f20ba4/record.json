@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:8.C.142.2017.1",
+  "docket": "8 C 142/2017-210",
+  "date": "2021-05-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab758a9b-c7b6-4038-a280-5f5127f20ba4",
+  "source_sha256": "81683b1329084e54ffcc5a92bd0e11a222019a66f7d723a5cb81691ca67d745f",
+  "source_id": "ab758a9b-c7b6-4038-a280-5f5127f20ba4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 142/2017-210",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Kristýna Stachová",
+    "ecli": "ECLI:CZ:OSBU:2021:8.C.142.2017.1",
+    "predmetRizeni": "zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2021-05-06",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "smlouva kupní",
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 140 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab758a9b-c7b6-4038-a280-5f5127f20ba4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
