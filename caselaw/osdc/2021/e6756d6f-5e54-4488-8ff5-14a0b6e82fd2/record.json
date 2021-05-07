@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:20.C.410.2019.1",
+  "docket": "20 C 410/2019-40",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6756d6f-5e54-4488-8ff5-14a0b6e82fd2",
+  "source_sha256": "b1a07c16c03d7a8a5a09360520160e7f7f8d61fff4664e04ed18bce0981f49d6",
+  "source_id": "e6756d6f-5e54-4488-8ff5-14a0b6e82fd2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 410/2019-40",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Nadine Kovandová",
+    "ecli": "ECLI:CZ:OSDC:2021:20.C.410.2019.1",
+    "predmetRizeni": "snížení výživného zletilých [celé jméno žalovaného], [celé jméno žalované]",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "výživné",
+      "zvýšení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6756d6f-5e54-4488-8ff5-14a0b6e82fd2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
