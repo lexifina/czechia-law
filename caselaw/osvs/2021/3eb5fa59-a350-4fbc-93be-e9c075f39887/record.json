@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:8.C.10.2021.1",
+  "docket": "8 C 10/2021-18",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3eb5fa59-a350-4fbc-93be-e9c075f39887",
+  "source_sha256": "3083b2b70f54ef832c219a0386f72ac8133a24f242c8fbdcf5d632c04c7ce397",
+  "source_id": "3eb5fa59-a350-4fbc-93be-e9c075f39887",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 10/2021-18",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Naděžda Janáčková",
+    "ecli": "ECLI:CZ:OSVS:2021:8.C.10.2021.1",
+    "predmetRizeni": "O zaplacení 1 936 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3eb5fa59-a350-4fbc-93be-e9c075f39887"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
