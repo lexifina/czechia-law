@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:9.C.73.2021.1",
+  "docket": "9 C 73/2021-40",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d09cc104-3a09-46f6-bd82-87a7c6f7110d",
+  "source_sha256": "a48ab6422c77f1ee7dfbb053e6ac4f2b7ab6ccc67dc6d5bc129a44d137b89ccd",
+  "source_id": "d09cc104-3a09-46f6-bd82-87a7c6f7110d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 73/2021-40",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Tomáš Suchánek",
+    "ecli": "ECLI:CZ:OSTU:2021:9.C.73.2021.1",
+    "predmetRizeni": "zvýšení výživného",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "insolvence",
+      "oddlužení",
+      "výživné",
+      "zvýšení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 140c z. č. 182/2006 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb.",
+      "§ 915 z. č. 89/2012 Sb.",
+      "§ 923 z. č. 89/2012 Sb.",
+      "§ 169 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d09cc104-3a09-46f6-bd82-87a7c6f7110d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
