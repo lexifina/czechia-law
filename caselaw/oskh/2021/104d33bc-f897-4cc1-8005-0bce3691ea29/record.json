@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:9.C.69.2021.1",
+  "docket": "9 C 69/2021-22",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/104d33bc-f897-4cc1-8005-0bce3691ea29",
+  "source_sha256": "d3261bce355e94ba10abde08cbc14ed93d20a6b6f9fc19d120eacfed25dc8253",
+  "source_id": "104d33bc-f897-4cc1-8005-0bce3691ea29",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 69/2021-22",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jan Buchar",
+    "ecli": "ECLI:CZ:OSKH:2021:9.C.69.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/104d33bc-f897-4cc1-8005-0bce3691ea29"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
