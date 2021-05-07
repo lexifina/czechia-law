@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:15.C.42.2021.1",
+  "docket": "15 C 42/2021-11",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/942fe30c-4681-492c-9647-8c4ced7a346b",
+  "source_sha256": "4896a83865c9a950c976c8ff935d95c1a6a383dee6961b9202ca97bee8d4c87b",
+  "source_id": "942fe30c-4681-492c-9647-8c4ced7a346b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 42/2021-11",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Jan Linhart",
+    "ecli": "ECLI:CZ:OSHK:2021:15.C.42.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 568 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/942fe30c-4681-492c-9647-8c4ced7a346b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
