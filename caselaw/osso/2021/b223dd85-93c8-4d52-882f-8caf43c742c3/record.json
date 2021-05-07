@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:16.C.117.2021.1",
+  "docket": "16 C 117/2021-25",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b223dd85-93c8-4d52-882f-8caf43c742c3",
+  "source_sha256": "8aefe144dde7d21dfdb205a04631423f93a93146df17ade37ea0cf4ffab33eb3",
+  "source_id": "b223dd85-93c8-4d52-882f-8caf43c742c3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 117/2021-25",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Lenka Pokorná",
+    "ecli": "ECLI:CZ:OSSO:2021:16.C.117.2021.1",
+    "predmetRizeni": "zaplacení 13 705 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "investiční fond",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1824 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b223dd85-93c8-4d52-882f-8caf43c742c3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
