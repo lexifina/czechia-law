@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:16.C.122.2021.1",
+  "docket": "16 C 122/2021-26",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4c8fe05-cbeb-43f6-a89a-47d410443378",
+  "source_sha256": "d76be2bfd4908a6fde529e772de3517822b98acf6d9693bf3537678428135d32",
+  "source_id": "b4c8fe05-cbeb-43f6-a89a-47d410443378",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 122/2021-26",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Lenka Pokorná",
+    "ecli": "ECLI:CZ:OSSO:2021:16.C.122.2021.1",
+    "predmetRizeni": "zaplacení 16 003 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-08-24",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 1824 z. č. 89/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4c8fe05-cbeb-43f6-a89a-47d410443378"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
