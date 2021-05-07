@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "(nezadán)",
+  "ecli": "ECLI:CZ:none:2021:47.C.226.2020.1",
+  "docket": "47 C 226/2020-46",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/affacb5b-e0af-44a1-bfa0-c58e06b81daf",
+  "source_sha256": "a9b7b61629f7cadf05244f1a7d2a1dbdd295c92d34d3037eed982226c56b4e25",
+  "source_id": "affacb5b-e0af-44a1-bfa0-c58e06b81daf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 226/2020-46",
+    "soud": "(nezadán)",
+    "autor": "JUDr. Radek Malenovský",
+    "ecli": "ECLI:CZ:none:2021:47.C.226.2020.1",
+    "predmetRizeni": "o zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/affacb5b-e0af-44a1-bfa0-c58e06b81daf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
