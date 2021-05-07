@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:53.C.212.2018.1",
+  "docket": "53 C 212/2018",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d8748e73-1bcb-477e-9285-7560ce80d3fe",
+  "source_sha256": "a8d02a61f4757f5a8be750cf1b3a3a1663de2f19266427da96b9a3f48d5f264e",
+  "source_id": "d8748e73-1bcb-477e-9285-7560ce80d3fe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 212/2018",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:53.C.212.2018.1",
+    "predmetRizeni": "zaplacení částky 1 505 171 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-11-08",
+    "klicovaSlova": [
+      "bolestné",
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "znalecký posudek",
+      "ztížení společenského uplatnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 2956 z. č. 89/2012 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 2958 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 372/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d8748e73-1bcb-477e-9285-7560ce80d3fe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
