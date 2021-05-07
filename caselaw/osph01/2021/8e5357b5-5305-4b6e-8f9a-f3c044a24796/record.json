@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:22.C.207.2020.1",
+  "docket": "22 C 207/2020",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e5357b5-5305-4b6e-8f9a-f3c044a24796",
+  "source_sha256": "f8e6c69758c53500678b58a8cbc84a72f7a20b859b6a58168ce121212d5cb7da",
+  "source_id": "8e5357b5-5305-4b6e-8f9a-f3c044a24796",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 207/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Vránová",
+    "ecli": "ECLI:CZ:OSPH01:2021:22.C.207.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e5357b5-5305-4b6e-8f9a-f3c044a24796"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
