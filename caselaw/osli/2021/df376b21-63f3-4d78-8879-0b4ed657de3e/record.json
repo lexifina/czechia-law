@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:20.C.94.2013.1",
+  "docket": "20 C 94/2013-597",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df376b21-63f3-4d78-8879-0b4ed657de3e",
+  "source_sha256": "4f0de3a29293a83493ee69f70ea068ffdc9b23ab697a6a3c6712a2ec57354b6d",
+  "source_id": "df376b21-63f3-4d78-8879-0b4ed657de3e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 94/2013-597",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:20.C.94.2013.1",
+    "predmetRizeni": "Žaloba o vypořádání společného jmění manželů",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-11-08",
+    "klicovaSlova": [
+      "daň silniční",
+      "jmění",
+      "peněžité plnění",
+      "rozvod manželství",
+      "smlouva kupní",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "společné jmění manželů",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 89/2012 Sb.",
+      "§ 488 z. č. 40/1964 Sb.",
+      "§ 6 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df376b21-63f3-4d78-8879-0b4ed657de3e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
