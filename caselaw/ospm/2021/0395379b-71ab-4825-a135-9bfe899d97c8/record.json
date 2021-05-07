@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:34.C.46.2021.1",
+  "docket": "34 C 46/2021-19",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0395379b-71ab-4825-a135-9bfe899d97c8",
+  "source_sha256": "8cdcaab7143c7fbcfbdaedeaf443cc4616e5f86a508f9ffa82e06b5fcf177df2",
+  "source_id": "0395379b-71ab-4825-a135-9bfe899d97c8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 46/2021-19",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Tomáš Kamenický",
+    "ecli": "ECLI:CZ:OSPM:2021:34.C.46.2021.1",
+    "predmetRizeni": "O zaplacení 7 590 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0395379b-71ab-4825-a135-9bfe899d97c8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
