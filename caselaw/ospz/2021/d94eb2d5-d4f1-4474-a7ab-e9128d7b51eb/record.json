@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:36.C.277.2020.1",
+  "docket": "36 C 277/2020-37",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d94eb2d5-d4f1-4474-a7ab-e9128d7b51eb",
+  "source_sha256": "2b644e7435c76e261003a51ac8aac832a825580ae28fc68ebd36a99745a8a9f9",
+  "source_id": "d94eb2d5-d4f1-4474-a7ab-e9128d7b51eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 277/2020-37",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Tomáš Behr",
+    "ecli": "ECLI:CZ:OSPZ:2021:36.C.277.2020.1",
+    "predmetRizeni": "zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d94eb2d5-d4f1-4474-a7ab-e9128d7b51eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
