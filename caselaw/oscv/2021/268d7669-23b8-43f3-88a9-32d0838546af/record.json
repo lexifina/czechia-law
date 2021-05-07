@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:7.C.396.2020.1",
+  "docket": "7 C 396/2020-14",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/268d7669-23b8-43f3-88a9-32d0838546af",
+  "source_sha256": "bdc50b2de6b2b1912e44dd939ffb3375c14f74458c404332faac493572eb1439",
+  "source_id": "268d7669-23b8-43f3-88a9-32d0838546af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 396/2020-14",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Nikola Reifová",
+    "ecli": "ECLI:CZ:OSCV:2021:7.C.396.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/268d7669-23b8-43f3-88a9-32d0838546af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
