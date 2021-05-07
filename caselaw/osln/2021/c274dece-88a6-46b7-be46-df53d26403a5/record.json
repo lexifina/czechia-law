@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:10.C.13.2021.1",
+  "docket": "10 C 13/2021-25",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c274dece-88a6-46b7-be46-df53d26403a5",
+  "source_sha256": "25618620fef33047b37b96e150f2f7eaaab30a32c1709bd4a8ae670bf50897dc",
+  "source_id": "c274dece-88a6-46b7-be46-df53d26403a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 13/2021-25",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Petr Šilhan",
+    "ecli": "ECLI:CZ:OSLN:2021:10.C.13.2021.1",
+    "predmetRizeni": "O zaplacení 6 410 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c274dece-88a6-46b7-be46-df53d26403a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
