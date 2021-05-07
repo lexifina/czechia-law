@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:18.C.181.2020.1",
+  "docket": "18 C 181/2020-97",
+  "date": "2021-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/daf74a03-a3ea-4d33-88b3-4b54405ecdab",
+  "source_sha256": "a03d400953113b50306560604e931ed37b00527ebe5a66d044a22de74d188c56",
+  "source_id": "daf74a03-a3ea-4d33-88b3-4b54405ecdab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 181/2020-97",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Milan J. Lipenský",
+    "ecli": "ECLI:CZ:OSSU:2021:18.C.181.2020.1",
+    "predmetRizeni": "o 27.923,25 Kč s příslušenstvím",
+    "datumVydani": "2021-05-07",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 61 z. č. 127/2005 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/daf74a03-a3ea-4d33-88b3-4b54405ecdab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
