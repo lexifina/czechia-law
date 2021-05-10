@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.321.2020.2",
+  "docket": "24 C 321/2020-50",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7804084-025f-4dba-949b-4c33c70e25eb",
+  "source_sha256": "73cd9f6aec0ce54c01cae29c3287ddaee3ce9920e0d94f0da27a9b74c2f3d5f2",
+  "source_id": "f7804084-025f-4dba-949b-4c33c70e25eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 321/2020-50",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.321.2020.2",
+    "predmetRizeni": "zaplacení 15 070 Kč s příslušenstvím ",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-10-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 145/2010 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 570 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7804084-025f-4dba-949b-4c33c70e25eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
