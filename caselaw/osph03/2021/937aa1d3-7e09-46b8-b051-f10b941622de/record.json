@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:7.C.63.2021.1",
+  "docket": "7 C 63/2021-38",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/937aa1d3-7e09-46b8-b051-f10b941622de",
+  "source_sha256": "364b0c8cca4412bbe5eb57a06b2e53e89033b67ed0af8b3a02edd81e73ca8519",
+  "source_id": "937aa1d3-7e09-46b8-b051-f10b941622de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 63/2021-38",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. et Bc. Veronika Hlinková",
+    "ecli": "ECLI:CZ:OSPH03:2021:7.C.63.2021.1",
+    "predmetRizeni": "52 200 Kč s příslušenstvím",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 17a z. č. 553/1991 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 19 z. č. 13/1997 Sb.",
+      "§ 59 z. č. 131/2000 Sb.",
+      "§ 27 z. č. 250/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/937aa1d3-7e09-46b8-b051-f10b941622de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
