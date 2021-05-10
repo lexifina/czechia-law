@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:11.C.25.2021.1",
+  "docket": "11 C 25/2021-34",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da54c48c-db03-4e81-b909-4d51a2a48104",
+  "source_sha256": "0025aee4d6176492841f61f40b2d89f1122e84bc6280ff717995183a16704200",
+  "source_id": "da54c48c-db03-4e81-b909-4d51a2a48104",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 25/2021-34",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Michal Princ",
+    "ecli": "ECLI:CZ:OSPH01:2021:11.C.25.2021.1",
+    "predmetRizeni": "o zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 89b z. č. 373/2011 Sb.",
+      "§ 89e z. č. 373/2011 Sb.",
+      "§ 89a z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da54c48c-db03-4e81-b909-4d51a2a48104"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
