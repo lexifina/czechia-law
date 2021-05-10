@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:18.C.95.2021.1",
+  "docket": "18 C 95/2021-16",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/710d23e0-67d2-422d-b9de-d86befcc2bee",
+  "source_sha256": "a129848490a2636c03965ece9a1313f967e4cc349af7258e1fc9fd67369389ee",
+  "source_id": "710d23e0-67d2-422d-b9de-d86befcc2bee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 95/2021-16",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Ivana Holubovská",
+    "ecli": "ECLI:CZ:OSKV:2021:18.C.95.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 6 z. č. 91/2012 Sb.",
+      "§ 47 z. č. 91/2012 Sb.",
+      "§ 49 z. č. 91/2012 Sb.",
+      "§ 2 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/710d23e0-67d2-422d-b9de-d86befcc2bee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
