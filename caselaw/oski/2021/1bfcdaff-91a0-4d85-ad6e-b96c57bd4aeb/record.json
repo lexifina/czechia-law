@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:19.C.144.2014.1",
+  "docket": "19 C 144/2014-43",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1bfcdaff-91a0-4d85-ad6e-b96c57bd4aeb",
+  "source_sha256": "9bc1d35d6edc1378854dbdfce4f605d8a07d1d55dacc1285c2bf69f5d167db64",
+  "source_id": "1bfcdaff-91a0-4d85-ad6e-b96c57bd4aeb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 144/2014-43",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Pavlína Jurášková",
+    "ecli": "ECLI:CZ:OSKI:2021:19.C.144.2014.1",
+    "predmetRizeni": "15507 Kč s přísl.",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "oddlužení",
+      "rozhodnutí o úpadku",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 140a z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1bfcdaff-91a0-4d85-ad6e-b96c57bd4aeb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
