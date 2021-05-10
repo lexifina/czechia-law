@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:3.C.55.2021.1",
+  "docket": "3 C 55/2021-27",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/93b6a6dc-2282-425a-9597-e1ac27385043",
+  "source_sha256": "3f117e4828e3b51812d6156e998883db7fe716a64de636040f2fbf79afabca31",
+  "source_id": "93b6a6dc-2282-425a-9597-e1ac27385043",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 55/2021-27",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Zuzana Matulová",
+    "ecli": "ECLI:CZ:OSUH:2021:3.C.55.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-11-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/93b6a6dc-2282-425a-9597-e1ac27385043"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
