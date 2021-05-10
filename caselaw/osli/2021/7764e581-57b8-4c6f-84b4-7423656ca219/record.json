@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:16.C.31.2021.1",
+  "docket": "16 C 31/2021-5",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7764e581-57b8-4c6f-84b4-7423656ca219",
+  "source_sha256": "37a06ac9b34df3c981aa28f4ed7f20a1a1f5c288f659d85f8295fbcb75d2ed4d",
+  "source_id": "7764e581-57b8-4c6f-84b4-7423656ca219",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 31/2021-5",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Martin Košek",
+    "ecli": "ECLI:CZ:OSLI:2021:16.C.31.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7764e581-57b8-4c6f-84b4-7423656ca219"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
