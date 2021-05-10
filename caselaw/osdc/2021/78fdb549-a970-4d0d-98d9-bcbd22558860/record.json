@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:18.C.72.2021.1",
+  "docket": "18 C 72/2021-14",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/78fdb549-a970-4d0d-98d9-bcbd22558860",
+  "source_sha256": "f33315a972fd8dd8de6812a1c2fb7b3069a3c8b2b86ca99e7bfb0733a0281630",
+  "source_id": "78fdb549-a970-4d0d-98d9-bcbd22558860",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 72/2021-14",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Červinka",
+    "ecli": "ECLI:CZ:OSDC:2021:18.C.72.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-11-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 497 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/78fdb549-a970-4d0d-98d9-bcbd22558860"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
