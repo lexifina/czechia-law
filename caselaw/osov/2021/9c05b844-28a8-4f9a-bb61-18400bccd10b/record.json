@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:26.C.63.2021.3",
+  "docket": "26 C 63/2021-29",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c05b844-28a8-4f9a-bb61-18400bccd10b",
+  "source_sha256": "0fb9f2af703614022541283f261d810225284f30fcc126baf1de88663f3313af",
+  "source_id": "9c05b844-28a8-4f9a-bb61-18400bccd10b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 63/2021-29",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jiří Šopek",
+    "ecli": "ECLI:CZ:OSOV:2021:26.C.63.2021.3",
+    "predmetRizeni": "o zaplacení 4 466,66 Kč s příslušenstvím",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-08-30",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c05b844-28a8-4f9a-bb61-18400bccd10b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
