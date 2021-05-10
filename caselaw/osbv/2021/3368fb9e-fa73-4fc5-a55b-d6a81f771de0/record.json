@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:105.EC.36.2012.1",
+  "docket": "105 EC 36/2012-182",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3368fb9e-fa73-4fc5-a55b-d6a81f771de0",
+  "source_sha256": "99361f63788418350ac6862a38dd1678ece82fe89b6088f1faa55974780beaf5",
+  "source_id": "3368fb9e-fa73-4fc5-a55b-d6a81f771de0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "105 EC 36/2012-182",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Josef Kavalec",
+    "ecli": "ECLI:CZ:OSBV:2021:105.EC.36.2012.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "konkurs",
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "postoupení pohledávky",
+      "smlouva o běžném účtu",
+      "smlouva o účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 708 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3368fb9e-fa73-4fc5-a55b-d6a81f771de0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
