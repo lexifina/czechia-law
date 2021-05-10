@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:8.C.7.2021.2",
+  "docket": "8 C 7/2021-66",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b27232b1-9aea-4328-bb7e-5da25892fcfa",
+  "source_sha256": "ff6239f3d760600feecb319525a009ef60b232d80e9b4bfb7c23e556fce62b59",
+  "source_id": "b27232b1-9aea-4328-bb7e-5da25892fcfa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 7/2021-66",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Soňa Nedbalová",
+    "ecli": "ECLI:CZ:OSBI:2021:8.C.7.2021.2",
+    "predmetRizeni": "O zaplacení 1 106 Kč s příslušenstvím",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 89/2012 Sb.",
+      "§ 2786 z. č. 89/2012 Sb.",
+      "§ 582 z. č. 89/2012 Sb.",
+      "§ 2773 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b27232b1-9aea-4328-bb7e-5da25892fcfa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
