@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:19.C.93.2021.1",
+  "docket": "19 C 93/2021-11",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8fb47ee3-c8c2-47a0-8baa-5c38179abb95",
+  "source_sha256": "213370523fa013267f6988b1499825336c48eca0706a7d2fd4782321744efdbe",
+  "source_id": "8fb47ee3-c8c2-47a0-8baa-5c38179abb95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 93/2021-11",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Pavla Ondráčková",
+    "ecli": "ECLI:CZ:OSTU:2021:19.C.93.2021.1",
+    "predmetRizeni": "zaplacení 10 502,96 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-06-18",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8fb47ee3-c8c2-47a0-8baa-5c38179abb95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
