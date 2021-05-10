@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:12.C.268.2020.1",
+  "docket": "12 C 268/2020-60",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e188c28-525c-456b-a174-35b8ec3467f1",
+  "source_sha256": "d75c3eb0decc5c7634679105bfa7ed3a9f7c6edc7af3e8c89c5f8ebb7b64089e",
+  "source_id": "7e188c28-525c-456b-a174-35b8ec3467f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 268/2020-60",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Dana Hamzová",
+    "ecli": "ECLI:CZ:OSZN:2021:12.C.268.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-08-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e188c28-525c-456b-a174-35b8ec3467f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
