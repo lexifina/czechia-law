@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:5.C.213.2020.3",
+  "docket": "5 C 213/2020-78",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3cac347b-36da-4aff-8d19-f70c1e610a40",
+  "source_sha256": "2e65718748ab0e11f93c4239c48a2350804272eeb4d537d543a73fc6e2e595e5",
+  "source_id": "3cac347b-36da-4aff-8d19-f70c1e610a40",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 213/2020-78",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Antonín Pektor",
+    "ecli": "ECLI:CZ:OSPS:2021:5.C.213.2020.3",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-08-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smluvní pokuta",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2316 z. č. 89/2012 Sb.",
+      "§ 2048-2052 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3cac347b-36da-4aff-8d19-f70c1e610a40"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
