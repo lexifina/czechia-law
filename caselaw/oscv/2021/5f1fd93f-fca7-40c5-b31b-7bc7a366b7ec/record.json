@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.330.2020.2",
+  "docket": "24 C 330/2020-70",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f1fd93f-fca7-40c5-b31b-7bc7a366b7ec",
+  "source_sha256": "550e3d541f8c2230e4bb690a99630bdb1a3f41bb4004429522bd8f87186ccbd0",
+  "source_id": "5f1fd93f-fca7-40c5-b31b-7bc7a366b7ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 330/2020-70",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.330.2020.2",
+    "predmetRizeni": "zaplacení 2 997,64 Kč s příslušenstvím ",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-10-05",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f1fd93f-fca7-40c5-b31b-7bc7a366b7ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
