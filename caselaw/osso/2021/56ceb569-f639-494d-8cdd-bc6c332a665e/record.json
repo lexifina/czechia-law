@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:12.C.19.2018.1",
+  "docket": "12 C 19/2018-24",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/56ceb569-f639-494d-8cdd-bc6c332a665e",
+  "source_sha256": "79272c8a30e5de92528da1a892ff929e222890f201c8fed3ceff0283a9a62461",
+  "source_id": "56ceb569-f639-494d-8cdd-bc6c332a665e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 19/2018-24",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Martina Burachovičová",
+    "ecli": "ECLI:CZ:OSSO:2021:12.C.19.2018.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/56ceb569-f639-494d-8cdd-bc6c332a665e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
