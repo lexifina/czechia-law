@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:11.C.203.2018.1",
+  "docket": "11 C 203/2018-83",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d782424f-886c-4289-bf3b-41f30ee9b21f",
+  "source_sha256": "24cc6ef71f50e1e04c16642a0f32d4448d8111677d200731887ae84e9e23222c",
+  "source_id": "d782424f-886c-4289-bf3b-41f30ee9b21f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 203/2018-83",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Hana Suchánková",
+    "ecli": "ECLI:CZ:OSPH08:2021:11.C.203.2018.1",
+    "predmetRizeni": "o zaplacení 6.387 Kč s přísl.",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 136 z. č. 99/1963 Sb.",
+      "§ 2952 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d782424f-886c-4289-bf3b-41f30ee9b21f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
