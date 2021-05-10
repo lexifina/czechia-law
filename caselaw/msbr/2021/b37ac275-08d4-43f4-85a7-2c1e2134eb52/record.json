@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:33.C.16.2021.1",
+  "docket": "33 C 16/2021-17",
+  "date": "2021-05-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b37ac275-08d4-43f4-85a7-2c1e2134eb52",
+  "source_sha256": "83f7ae91d2d57dbf7a2e87025d9fe2118769ff42c6b4306eaaa56b3967a323aa",
+  "source_id": "b37ac275-08d4-43f4-85a7-2c1e2134eb52",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 16/2021-17",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ivana Chlupová",
+    "ecli": "ECLI:CZ:MSBR:2021:33.C.16.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-10",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b37ac275-08d4-43f4-85a7-2c1e2134eb52"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
