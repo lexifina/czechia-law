@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:3.C.388.2020.1",
+  "docket": "3 C 388/2020-110",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb3a7eb5-3e44-411b-9c23-781f72fee785",
+  "source_sha256": "12b416871d782ad79f4573d786b404e5f92c06d831589c143d36dd3a7a17c82d",
+  "source_id": "eb3a7eb5-3e44-411b-9c23-781f72fee785",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 388/2020-110",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Magdalena Fifková",
+    "ecli": "ECLI:CZ:OSPY:2021:3.C.388.2020.1",
+    "predmetRizeni": "o vyklizení domu",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-08-31",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o smlouvě budoucí",
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2004 z. č. 89/2012 Sb.",
+      "§ 2001 z. č. 89/2012 Sb.",
+      "§ 1785 z. č. 89/2012 Sb.",
+      "§ 1786 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb3a7eb5-3e44-411b-9c23-781f72fee785"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
