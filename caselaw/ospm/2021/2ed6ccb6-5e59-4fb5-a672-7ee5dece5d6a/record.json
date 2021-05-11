@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:25.C.337.2020.1",
+  "docket": "25 C 337/2020-96",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ed6ccb6-5e59-4fb5-a672-7ee5dece5d6a",
+  "source_sha256": "39c16df8c895592b09468e2901270c2f6f48ff2715a3d7495af3b5e88bd2a275",
+  "source_id": "2ed6ccb6-5e59-4fb5-a672-7ee5dece5d6a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 337/2020-96",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Martina Folková",
+    "ecli": "ECLI:CZ:OSPM:2021:25.C.337.2020.1",
+    "predmetRizeni": "o zaplacení částky 79 914,14 Kč s přísl.",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 577 z. č. 89/2012 Sb.",
+      "§ 1796 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 40/1964 Sb.",
+      "§ 497 z. č. 213/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ed6ccb6-5e59-4fb5-a672-7ee5dece5d6a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
