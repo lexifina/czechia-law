@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:20.C.95.2021.1",
+  "docket": "20 C 95/2021-16",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bbb913bd-14ec-4543-a07f-2f96c8df7dbe",
+  "source_sha256": "f94268226e7c95ae131ee7e178b148badeb8320a96e368f5f4923748c470f088",
+  "source_id": "bbb913bd-14ec-4543-a07f-2f96c8df7dbe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 95/2021-16",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Petra Svobodová",
+    "ecli": "ECLI:CZ:OSMB:2021:20.C.95.2021.1",
+    "predmetRizeni": "o zaplacení 25 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-10-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smlouva o nájmu dopravního prostředku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 6 z. č. 89/2012 Sb.",
+      "§ 2321 z. č. 89/2012 Sb.",
+      "§ 1808 z. č. 89/2012 Sb.",
+      "§ 2325 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bbb913bd-14ec-4543-a07f-2f96c8df7dbe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
