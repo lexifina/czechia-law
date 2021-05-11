@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:6.C.349.2020.1",
+  "docket": "6 C 349/2020-24",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b89c0ba0-0a57-4e5c-ac50-c6e22764b3e7",
+  "source_sha256": "7fd0b742847e409185d2e802ddf3cb92de03f4e9b9d35f0a836921b287403a3f",
+  "source_id": "b89c0ba0-0a57-4e5c-ac50-c6e22764b3e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 349/2020-24",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2021:6.C.349.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b89c0ba0-0a57-4e5c-ac50-c6e22764b3e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
