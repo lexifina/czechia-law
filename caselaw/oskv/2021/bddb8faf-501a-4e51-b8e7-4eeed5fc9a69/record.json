@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:15.C.81.2021.1",
+  "docket": "15 C 81/2021-14",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bddb8faf-501a-4e51-b8e7-4eeed5fc9a69",
+  "source_sha256": "e5e27defe01dc8b1890a2a010547e9a1112557b50ddfd9180c07de0302dec9bd",
+  "source_id": "bddb8faf-501a-4e51-b8e7-4eeed5fc9a69",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 81/2021-14",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Kateřina Hendrichová",
+    "ecli": "ECLI:CZ:OSKV:2021:15.C.81.2021.1",
+    "predmetRizeni": "1 000 Kč / služby elektronických komunikací",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bddb8faf-501a-4e51-b8e7-4eeed5fc9a69"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
