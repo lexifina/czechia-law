@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:5.C.102.2021.1",
+  "docket": "5 C 102/2021-17",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed6e0ebe-808b-43bd-9541-0051f169ed99",
+  "source_sha256": "9735d5356f0fded76dfdf8234722c17831869ecea7b73627c8e2ebe73a0140f4",
+  "source_id": "ed6e0ebe-808b-43bd-9541-0051f169ed99",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 102/2021-17",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2021:5.C.102.2021.1",
+    "predmetRizeni": "o zaplacení 8 088 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "notářský zápis",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed6e0ebe-808b-43bd-9541-0051f169ed99"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
