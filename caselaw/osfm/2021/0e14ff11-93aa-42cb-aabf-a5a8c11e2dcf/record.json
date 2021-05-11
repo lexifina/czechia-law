@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:11.C.103.2021.1",
+  "docket": "11 C 103/2021-19",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e14ff11-93aa-42cb-aabf-a5a8c11e2dcf",
+  "source_sha256": "3b2e6d6ef16a9e870ad1a3c4cc9000370d100321ddfb2924473041e3f10fe84d",
+  "source_id": "0e14ff11-93aa-42cb-aabf-a5a8c11e2dcf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 103/2021-19",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. et Mgr. Martin Pavlík",
+    "ecli": "ECLI:CZ:OSFM:2021:11.C.103.2021.1",
+    "predmetRizeni": "O zaplacení 5 512,80 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-08-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e14ff11-93aa-42cb-aabf-a5a8c11e2dcf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
