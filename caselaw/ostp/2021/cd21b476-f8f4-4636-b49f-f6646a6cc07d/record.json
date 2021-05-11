@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:17.C.105.2021.1",
+  "docket": "17 C 105/2021-24",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd21b476-f8f4-4636-b49f-f6646a6cc07d",
+  "source_sha256": "47cb3244e5571df2a995793917153ac1bd765a119681da70f1af63cefd484611",
+  "source_id": "cd21b476-f8f4-4636-b49f-f6646a6cc07d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 105/2021-24",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Daniela Novotná",
+    "ecli": "ECLI:CZ:OSTP:2021:17.C.105.2021.1",
+    "predmetRizeni": "zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd21b476-f8f4-4636-b49f-f6646a6cc07d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
