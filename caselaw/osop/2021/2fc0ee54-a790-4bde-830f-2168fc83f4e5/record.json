@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:9.C.141.2020.1",
+  "docket": "9 C 141/2020-33",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fc0ee54-a790-4bde-830f-2168fc83f4e5",
+  "source_sha256": "fc0b7017032b23d783e3dbba5641bc4548ecec53760825a6c5377203f853b951",
+  "source_id": "2fc0ee54-a790-4bde-830f-2168fc83f4e5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 141/2020-33",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Miroslava Kramná",
+    "ecli": "ECLI:CZ:OSOP:2021:9.C.141.2020.1",
+    "predmetRizeni": "O zaplacení 9 820 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "duševní porucha",
+      "omezení svéprávnosti",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 581 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fc0ee54-a790-4bde-830f-2168fc83f4e5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
