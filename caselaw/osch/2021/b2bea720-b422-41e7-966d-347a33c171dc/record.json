@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:13.C.25.2021.2",
+  "docket": "13 C 25/2021-14",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b2bea720-b422-41e7-966d-347a33c171dc",
+  "source_sha256": "293a995c5165b1c8c64ba88c47e41a2e747adc8f17d892d44c13eca024c815d4",
+  "source_id": "b2bea720-b422-41e7-966d-347a33c171dc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 25/2021-14",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Milan Homolka",
+    "ecli": "ECLI:CZ:OSCH:2021:13.C.25.2021.2",
+    "predmetRizeni": "O zaplacení 967,45 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1969 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b2bea720-b422-41e7-966d-347a33c171dc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
