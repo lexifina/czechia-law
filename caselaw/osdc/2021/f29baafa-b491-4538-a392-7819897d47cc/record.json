@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:121.C.24.2020.1",
+  "docket": "121 C 24/2020-24",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f29baafa-b491-4538-a392-7819897d47cc",
+  "source_sha256": "23148bef15b8888ff38e3681808bfa8a466abcb902589b1d09a29b660b172dfe",
+  "source_id": "f29baafa-b491-4538-a392-7819897d47cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "121 C 24/2020-24",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Bohdana Parýzková",
+    "ecli": "ECLI:CZ:OSDC:2021:121.C.24.2020.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f29baafa-b491-4538-a392-7819897d47cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
