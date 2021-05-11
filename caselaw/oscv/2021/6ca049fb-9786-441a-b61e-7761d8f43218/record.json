@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:23.C.55.2021.2",
+  "docket": "23 C 55/2021-17",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6ca049fb-9786-441a-b61e-7761d8f43218",
+  "source_sha256": "406bd8b6d04a53583064d170f73e20e6b68f1a2f2bdf569de5f3591b9f686491",
+  "source_id": "6ca049fb-9786-441a-b61e-7761d8f43218",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 55/2021-17",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Pašková",
+    "ecli": "ECLI:CZ:OSCV:2021:23.C.55.2021.2",
+    "predmetRizeni": "zaplacení 8 112,36 Kč (služby třetích stran + smluvní pokuta)",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6ca049fb-9786-441a-b61e-7761d8f43218"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
