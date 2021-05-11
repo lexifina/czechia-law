@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:27.C.107.2021.1",
+  "docket": "27 C 107/2021-27",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5d100663-9a2b-46fc-93c5-953c916fa022",
+  "source_sha256": "fa995f7bfc8b5d5d484b72231069739abdac57c7477005ce911fab7f0762cb1f",
+  "source_id": "5d100663-9a2b-46fc-93c5-953c916fa022",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 107/2021-27",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Lukášková",
+    "ecli": "ECLI:CZ:OSPH01:2021:27.C.107.2021.1",
+    "predmetRizeni": "o zaplacení 2 439 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-11-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5d100663-9a2b-46fc-93c5-953c916fa022"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
