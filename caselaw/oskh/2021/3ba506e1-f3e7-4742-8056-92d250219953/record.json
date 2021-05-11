@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:8.C.153.2021.1",
+  "docket": "8 C 153/2021-15",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3ba506e1-f3e7-4742-8056-92d250219953",
+  "source_sha256": "3b3b1da655f50afb064a7ecad60568c06f4279a3183347e998c4091b0a438deb",
+  "source_id": "3ba506e1-f3e7-4742-8056-92d250219953",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 153/2021-15",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jindřich Kříž",
+    "ecli": "ECLI:CZ:OSKH:2021:8.C.153.2021.1",
+    "predmetRizeni": "O zaplacení 11 845 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3ba506e1-f3e7-4742-8056-92d250219953"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
