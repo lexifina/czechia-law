@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:18.C.65.2020.4",
+  "docket": "18 C 65/2020-144",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1ae5f9bd-3858-41ff-9a2b-4ee6e6215fe8",
+  "source_sha256": "2cdf9a836bbfe55b52b3e73c382c8d1bcf212f371fd5e1e42e458b170249c17f",
+  "source_id": "1ae5f9bd-3858-41ff-9a2b-4ee6e6215fe8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 65/2020-144",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Marek Vlaškovský",
+    "ecli": "ECLI:CZ:OSOV:2021:18.C.65.2020.4",
+    "predmetRizeni": "o vydání věci",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-10-18",
+    "klicovaSlova": [
+      "daň z příjmů",
+      "peněžité plnění",
+      "smlouva o dílo",
+      "vydání věci",
+      "zadržovací právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 441 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1ae5f9bd-3858-41ff-9a2b-4ee6e6215fe8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
