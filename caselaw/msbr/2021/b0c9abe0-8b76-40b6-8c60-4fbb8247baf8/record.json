@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:48.C.32.2021.1",
+  "docket": "48 C 32/2021-21",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b0c9abe0-8b76-40b6-8c60-4fbb8247baf8",
+  "source_sha256": "ab4e9bf3a3c5b0af6dd217e248cbe49bb6c6cea540a8739bea832e29766c968d",
+  "source_id": "b0c9abe0-8b76-40b6-8c60-4fbb8247baf8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 32/2021-21",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2021:48.C.32.2021.1",
+    "predmetRizeni": "zaplacení 998 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-10-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/99 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b0c9abe0-8b76-40b6-8c60-4fbb8247baf8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
