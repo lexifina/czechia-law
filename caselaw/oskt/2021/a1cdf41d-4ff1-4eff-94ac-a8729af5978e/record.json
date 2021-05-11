@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:6.C.84.2021.1",
+  "docket": "6 C 84/2021-54",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1cdf41d-4ff1-4eff-94ac-a8729af5978e",
+  "source_sha256": "89da2ee01d320a9946b4ad7f177ebf120b1b8f58057d8e760bae7ef395062b96",
+  "source_id": "a1cdf41d-4ff1-4eff-94ac-a8729af5978e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 84/2021-54",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martina Matějková",
+    "ecli": "ECLI:CZ:OSKT:2021:6.C.84.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-07-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1cdf41d-4ff1-4eff-94ac-a8729af5978e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
