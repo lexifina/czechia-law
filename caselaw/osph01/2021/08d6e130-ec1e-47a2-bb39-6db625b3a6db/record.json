@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:35.C.56.2020.1",
+  "docket": "35 C 56/2020-22",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08d6e130-ec1e-47a2-bb39-6db625b3a6db",
+  "source_sha256": "f9b27c4cc4507775b7305c4822b48aedd806fc1c4eb3ca6dabfb87810288513e",
+  "source_id": "08d6e130-ec1e-47a2-bb39-6db625b3a6db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 56/2020-22",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Anna Vandáková",
+    "ecli": "ECLI:CZ:OSPH01:2021:35.C.56.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-11-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08d6e130-ec1e-47a2-bb39-6db625b3a6db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
