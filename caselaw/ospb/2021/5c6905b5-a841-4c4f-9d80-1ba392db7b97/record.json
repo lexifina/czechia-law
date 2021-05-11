@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:17.C.1.2021.1",
+  "docket": "17 C 1/2021-49",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5c6905b5-a841-4c4f-9d80-1ba392db7b97",
+  "source_sha256": "0c2bd65c4fcd2b3e97bf4f333e3ed8226bfe2a8b7bcf0035367fc68813d79b14",
+  "source_id": "5c6905b5-a841-4c4f-9d80-1ba392db7b97",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 1/2021-49",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Marie Jelínková",
+    "ecli": "ECLI:CZ:OSPB:2021:17.C.1.2021.1",
+    "predmetRizeni": "zaplacení 7 872 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5c6905b5-a841-4c4f-9d80-1ba392db7b97"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
