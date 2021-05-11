@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:8.C.111.2021.1",
+  "docket": "8 C 111/2021-21",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/49827587-8d7a-4cf1-807d-4c45e4df5f94",
+  "source_sha256": "8bf759d7c8e7f4e2adb24bf3e87aadb5482264f91d7acbd5a462abbb84c8d1b9",
+  "source_id": "49827587-8d7a-4cf1-807d-4c45e4df5f94",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 111/2021-21",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jindřich Kříž",
+    "ecli": "ECLI:CZ:OSKH:2021:8.C.111.2021.1",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/49827587-8d7a-4cf1-807d-4c45e4df5f94"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
