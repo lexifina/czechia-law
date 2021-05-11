@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:17.C.282.2019.1",
+  "docket": "17 C 282/2019-58",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/92b30d8e-224f-457c-a6e7-930ac608b84e",
+  "source_sha256": "d0bc8d11591f8553e5911c9b5779738e72ade4459a06b8c02ff1a3b2750eb0ea",
+  "source_id": "92b30d8e-224f-457c-a6e7-930ac608b84e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 282/2019-58",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Irena Trombiková",
+    "ecli": "ECLI:CZ:OSKI:2021:17.C.282.2019.1",
+    "predmetRizeni": "rozvod",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/92b30d8e-224f-457c-a6e7-930ac608b84e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
