@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:15.C.54.2021.3",
+  "docket": "15 C 54/2021-42",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/64c336d6-e46c-449f-a16a-b72153ac3791",
+  "source_sha256": "8a140a2997dd05ec8440e1aade6eee9968761a70bc1aa9aeba84eff6ada2750b",
+  "source_id": "64c336d6-e46c-449f-a16a-b72153ac3791",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 54/2021-42",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Martina Svobodová",
+    "ecli": "ECLI:CZ:OSMB:2021:15.C.54.2021.3",
+    "predmetRizeni": "o zaplacení 2 777,56 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-09-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o právní pomoci",
+      "smlouva o účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2665 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/64c336d6-e46c-449f-a16a-b72153ac3791"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
