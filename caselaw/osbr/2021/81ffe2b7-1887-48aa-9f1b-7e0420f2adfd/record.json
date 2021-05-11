@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:12.C.140.2021.1",
+  "docket": "12 C 140/2021",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/81ffe2b7-1887-48aa-9f1b-7e0420f2adfd",
+  "source_sha256": "72799a6ab2dd3b63316023769da781848b96a649047f7fb883191d53664603a3",
+  "source_id": "81ffe2b7-1887-48aa-9f1b-7e0420f2adfd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 140/2021",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Petr Pomahač",
+    "ecli": "ECLI:CZ:OSBR:2021:12.C.140.2021.1",
+    "predmetRizeni": "O zaplacení 1 531 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "oddlužení",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 109 z. č. 182/2006 Sb.",
+      "§ 104 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/81ffe2b7-1887-48aa-9f1b-7e0420f2adfd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
