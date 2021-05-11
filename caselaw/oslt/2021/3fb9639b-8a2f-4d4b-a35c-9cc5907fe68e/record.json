@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:9.C.314.2020.1",
+  "docket": "9 C 314/2020-38",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3fb9639b-8a2f-4d4b-a35c-9cc5907fe68e",
+  "source_sha256": "4f82e62861550b7b37af6100ec78628f09f27a7f495add32aa244f172a0e73ba",
+  "source_id": "3fb9639b-8a2f-4d4b-a35c-9cc5907fe68e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 314/2020-38",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Helena Koniorová",
+    "ecli": "ECLI:CZ:OSLT:2021:9.C.314.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "alkoholismus",
+      "insolvence",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 393 z. č. 292/2013 Sb.",
+      "§ 754 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3fb9639b-8a2f-4d4b-a35c-9cc5907fe68e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
