@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:24.C.451.2020.1",
+  "docket": "24 C 451/2020-71",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d1c70b5f-bbd6-48a5-8e69-1c211ab07e37",
+  "source_sha256": "8b324dada61247d3ed15be2ad726bb24bbf6a386e88f0829e2949b8d494cb656",
+  "source_id": "d1c70b5f-bbd6-48a5-8e69-1c211ab07e37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 451/2020-71",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jiří Vaněk",
+    "ecli": "ECLI:CZ:OSTA:2021:24.C.451.2020.1",
+    "predmetRizeni": "o zaplacení 223 079, 10 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "uznání dluhu",
+      "vyklizení bytu",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2293 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d1c70b5f-bbd6-48a5-8e69-1c211ab07e37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
