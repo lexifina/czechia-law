@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:11.C.46.2021.1",
+  "docket": "11 C 46/2021-80",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b0ad3fd-f662-4a4a-bec9-b078c803b8b2",
+  "source_sha256": "187145a77b57a88cacd2c96fa02cec357944767389272aac94caca279a070066",
+  "source_id": "9b0ad3fd-f662-4a4a-bec9-b078c803b8b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 46/2021-80",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Lenka Šestáková",
+    "ecli": "ECLI:CZ:OSBI:2021:11.C.46.2021.1",
+    "predmetRizeni": "O zaplacení 74 538,05 Kč s příslušenstvím",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "insolvence",
+      "insolvenční návrh",
+      "oddlužení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b0ad3fd-f662-4a4a-bec9-b078c803b8b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
