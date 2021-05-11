@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:9.C.73.2021.1",
+  "docket": "9 C 73/2021-18",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6106750f-42de-49c9-853b-43a601e2e349",
+  "source_sha256": "89c3ae6803e993cf5dfab1e7dfaf593b98f24398ba9aa4e39415165029f080c1",
+  "source_id": "6106750f-42de-49c9-853b-43a601e2e349",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 73/2021-18",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:9.C.73.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6106750f-42de-49c9-853b-43a601e2e349"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
