@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:11.C.6.2021.3",
+  "docket": "11 C 6/2021-21",
+  "date": "2021-05-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b9a7868-271c-4098-a127-081a4f7fb61c",
+  "source_sha256": "fca3ab838f1daca1722e521b04c3fe9ff912bdb7f02eb6b91f239dc4b3187d71",
+  "source_id": "3b9a7868-271c-4098-a127-081a4f7fb61c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 6/2021-21",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Pavel Ruml",
+    "ecli": "ECLI:CZ:OSNA:2021:11.C.6.2021.3",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-05-11",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "družstevní byt",
+      "peněžité plnění",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 1042 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b9a7868-271c-4098-a127-081a4f7fb61c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
