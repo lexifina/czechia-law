@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.182.2020.1",
+  "docket": "12 C 182/2020-35",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cebe85ca-43cb-4d81-b56e-1804866b5f4d",
+  "source_sha256": "4069af40f743d15d9c8d7e8ee393bd0d641fdb6fd850c63b71ad862835919051",
+  "source_id": "cebe85ca-43cb-4d81-b56e-1804866b5f4d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 182/2020-35",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.182.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cebe85ca-43cb-4d81-b56e-1804866b5f4d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
