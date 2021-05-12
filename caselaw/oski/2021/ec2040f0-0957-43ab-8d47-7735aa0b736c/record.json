@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:21.C.4.2021.1",
+  "docket": "21 C 4/2021-40",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec2040f0-0957-43ab-8d47-7735aa0b736c",
+  "source_sha256": "bc05aa9082f2a378f8b678b673339982319ba432ea6d277c0e84e0784d43bf2d",
+  "source_id": "ec2040f0-0957-43ab-8d47-7735aa0b736c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 4/2021-40",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Jana Babušková",
+    "ecli": "ECLI:CZ:OSKI:2021:21.C.4.2021.1",
+    "predmetRizeni": "14 131 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec2040f0-0957-43ab-8d47-7735aa0b736c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
