@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:40.C.14.2020.1",
+  "docket": "40 C 14/2020-70",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c718e578-e730-47ff-a881-de21c90cb7be",
+  "source_sha256": "bdef2b59c5bbcf89c1f8ab6149270d716bd8c7cf5a6cfae258a123cff8a66c58",
+  "source_id": "c718e578-e730-47ff-a881-de21c90cb7be",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 14/2020-70",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Marcela Vlčková",
+    "ecli": "ECLI:CZ:OSFM:2021:40.C.14.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c718e578-e730-47ff-a881-de21c90cb7be"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
