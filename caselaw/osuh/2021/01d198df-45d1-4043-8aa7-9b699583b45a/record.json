@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:14.C.40.2021.1",
+  "docket": "14 C 40/2021-31",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/01d198df-45d1-4043-8aa7-9b699583b45a",
+  "source_sha256": "0fb562ce7ead72d2c3180d9681c8811b37e6397078b89d26ea1b0374b5acb3d7",
+  "source_id": "01d198df-45d1-4043-8aa7-9b699583b45a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 40/2021-31",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Pavlína Potomská",
+    "ecli": "ECLI:CZ:OSUH:2021:14.C.40.2021.1",
+    "predmetRizeni": "6.797,30 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 9 z. č. 177/2020 Sb.",
+      "§ 122 z. č. 186/2020 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/01d198df-45d1-4043-8aa7-9b699583b45a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
