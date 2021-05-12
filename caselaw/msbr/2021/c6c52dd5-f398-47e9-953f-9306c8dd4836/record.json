@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:36.C.235.2019.1",
+  "docket": "36 C 235/2019-88",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6c52dd5-f398-47e9-953f-9306c8dd4836",
+  "source_sha256": "857ed7d1abc932dda966df26fcac0ff3c05c7a07a115f4a088f6b958f8bd763c",
+  "source_id": "c6c52dd5-f398-47e9-953f-9306c8dd4836",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 235/2019-88",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2021:36.C.235.2019.1",
+    "predmetRizeni": "zaplacení 100.782,85 Kč s příslušenstvím - debetní zůstatek",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6c52dd5-f398-47e9-953f-9306c8dd4836"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
