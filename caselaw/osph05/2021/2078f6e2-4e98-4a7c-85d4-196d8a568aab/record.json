@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:4.C.430.2020.1",
+  "docket": "4 C 430/2020-32",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2078f6e2-4e98-4a7c-85d4-196d8a568aab",
+  "source_sha256": "28074b6aecd2880f76fdd6c2a05d01b18e6144bc98c2cd260ebcb4a18cf5c7f5",
+  "source_id": "2078f6e2-4e98-4a7c-85d4-196d8a568aab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 430/2020-32",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Michala Dvořáková",
+    "ecli": "ECLI:CZ:OSPH05:2021:4.C.430.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2078f6e2-4e98-4a7c-85d4-196d8a568aab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
