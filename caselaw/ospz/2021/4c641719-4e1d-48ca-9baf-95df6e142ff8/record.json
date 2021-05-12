@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:16.C.151.2021.1",
+  "docket": "16 C 151/2021-67",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c641719-4e1d-48ca-9baf-95df6e142ff8",
+  "source_sha256": "06bf00a4601d178bf373357f22fde77673855d477a3a25b4207a78d27d6853b3",
+  "source_id": "4c641719-4e1d-48ca-9baf-95df6e142ff8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 151/2021-67",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Ing. arch. Zdeněk Blažek",
+    "ecli": "ECLI:CZ:OSPZ:2021:16.C.151.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c641719-4e1d-48ca-9baf-95df6e142ff8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
