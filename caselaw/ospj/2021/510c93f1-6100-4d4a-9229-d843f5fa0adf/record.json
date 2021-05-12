@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:8.C.76.2021.1",
+  "docket": "8 C 76/2021-18",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/510c93f1-6100-4d4a-9229-d843f5fa0adf",
+  "source_sha256": "35ae81d729860b51deabe837fe07f400338c435cc35f4f3e80ed41b30cd2b05b",
+  "source_id": "510c93f1-6100-4d4a-9229-d843f5fa0adf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 76/2021-18",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Dana Reimannová",
+    "ecli": "ECLI:CZ:OSPJ:2021:8.C.76.2021.1",
+    "predmetRizeni": "zaplacení částky 427 Kč s přísl.",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 89e z. č. 373/2011 Sb.",
+      "§ 11 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/510c93f1-6100-4d4a-9229-d843f5fa0adf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
