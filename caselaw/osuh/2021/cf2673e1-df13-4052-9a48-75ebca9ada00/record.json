@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:14.C.56.2021.1",
+  "docket": "14 C 56/2021-60",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cf2673e1-df13-4052-9a48-75ebca9ada00",
+  "source_sha256": "66b7e06f09bfa3535ce9b2c33bd57c0420e5beaacbab5a6f07645aada82e2238",
+  "source_id": "cf2673e1-df13-4052-9a48-75ebca9ada00",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 56/2021-60",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Pavlína Potomská",
+    "ecli": "ECLI:CZ:OSUH:2021:14.C.56.2021.1",
+    "predmetRizeni": "57 516,17 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 95 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cf2673e1-df13-4052-9a48-75ebca9ada00"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
