@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.25.2021.1",
+  "docket": "42 C 25/2021-168",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c86a08e-fdbe-42b4-a2fc-704362805416",
+  "source_sha256": "b07d4a969c7c1ebcc79aa1019094be8198ca09c2bd7a34a6551ce228034b6b4d",
+  "source_id": "2c86a08e-fdbe-42b4-a2fc-704362805416",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 25/2021-168",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.25.2021.1",
+    "predmetRizeni": "o neplatnost výpovědi z nájmu",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-11-30",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 2290 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c86a08e-fdbe-42b4-a2fc-704362805416"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
