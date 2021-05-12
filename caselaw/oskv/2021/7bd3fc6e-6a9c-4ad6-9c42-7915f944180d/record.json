@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:9.C.93.2021.1",
+  "docket": "9 C 93/2021-17",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7bd3fc6e-6a9c-4ad6-9c42-7915f944180d",
+  "source_sha256": "0d53a126afa27c1f1a53d92aa239221539ff2cf0c46b26cef0a3c842cd6faae0",
+  "source_id": "7bd3fc6e-6a9c-4ad6-9c42-7915f944180d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 93/2021-17",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Bc. Lukáš Ludvík",
+    "ecli": "ECLI:CZ:OSKV:2021:9.C.93.2021.1",
+    "predmetRizeni": "36.375 Kč / úvěr",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7bd3fc6e-6a9c-4ad6-9c42-7915f944180d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
