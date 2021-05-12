@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:9.C.100.2021.1",
+  "docket": "9 C 100/2021-54",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2419d418-2762-43b9-89c5-8fffe4ffcf23",
+  "source_sha256": "a1f7d48939c2b001503383217ae1a4f13b1f6138c52b54cfeed0840d79b1c27a",
+  "source_id": "2419d418-2762-43b9-89c5-8fffe4ffcf23",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 100/2021-54",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Marie Hladíková",
+    "ecli": "ECLI:CZ:OSZN:2021:9.C.100.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2419d418-2762-43b9-89c5-8fffe4ffcf23"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
