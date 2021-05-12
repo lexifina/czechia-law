@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:5.C.32.2021.1",
+  "docket": "5 C 32/2021-14",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6fdc4981-2661-4a76-8117-06747a8f9ca6",
+  "source_sha256": "64f3a8f488d4e5a09df0fcf4787666f6b1062170ca526c49edc7270288224cec",
+  "source_id": "6fdc4981-2661-4a76-8117-06747a8f9ca6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 32/2021-14",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:5.C.32.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6fdc4981-2661-4a76-8117-06747a8f9ca6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
