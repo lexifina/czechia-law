@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:10.C.164.2020.1",
+  "docket": "10 C 164/2020-29",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f045e336-94a1-42c5-bc46-6f80eef096fb",
+  "source_sha256": "d703c799e3ed7171e08141c01acaed451349cefaa02d099c1860bdbdcf3fa7b4",
+  "source_id": "f045e336-94a1-42c5-bc46-6f80eef096fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 164/2020-29",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Michal Halamíček",
+    "ecli": "ECLI:CZ:OSVS:2021:10.C.164.2020.1",
+    "predmetRizeni": "žaloba o zaplacení částky 3.000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 173 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f045e336-94a1-42c5-bc46-6f80eef096fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
