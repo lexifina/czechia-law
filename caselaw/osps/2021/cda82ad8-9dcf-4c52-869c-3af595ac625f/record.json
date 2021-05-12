@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.10.2021.2",
+  "docket": "4 C 10/2021-17",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cda82ad8-9dcf-4c52-869c-3af595ac625f",
+  "source_sha256": "2807d287b120684645606f7ad84d3c01b4e2ad2ab52a935a362b6e7f49965ac3",
+  "source_id": "cda82ad8-9dcf-4c52-869c-3af595ac625f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 10/2021-17",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Antonín Pektor",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.10.2021.2",
+    "predmetRizeni": "2 075 Kč s přísl.",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 2758-2872 z. č. 89/2012 Sb.",
+      "§ 2a nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cda82ad8-9dcf-4c52-869c-3af595ac625f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
