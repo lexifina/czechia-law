@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:61.C.235.2020.1",
+  "docket": "61 C 235/2020-23",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c4193817-9058-43be-8a9c-9ef6429826c2",
+  "source_sha256": "5fc6b63bbc54f50a75363e7701ec66f67f70554255e4f6dc46d4f25efbd9224e",
+  "source_id": "c4193817-9058-43be-8a9c-9ef6429826c2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 235/2020-23",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Mezníková",
+    "ecli": "ECLI:CZ:MSBR:2021:61.C.235.2020.1",
+    "predmetRizeni": "zaplacení 2.000 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 3 z. č. 145/2020 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c4193817-9058-43be-8a9c-9ef6429826c2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
