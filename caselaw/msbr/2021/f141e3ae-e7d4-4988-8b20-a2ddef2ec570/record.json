@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:61.C.63.2021.1",
+  "docket": "61 C 63/2021-21",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f141e3ae-e7d4-4988-8b20-a2ddef2ec570",
+  "source_sha256": "e80aa57edc61e3d524fa2e0647cda8a393860f046ca0152a903d84e54ce28876",
+  "source_id": "f141e3ae-e7d4-4988-8b20-a2ddef2ec570",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 63/2021-21",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Mezníková",
+    "ecli": "ECLI:CZ:MSBR:2021:61.C.63.2021.1",
+    "predmetRizeni": "zaplacení 1.525 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f141e3ae-e7d4-4988-8b20-a2ddef2ec570"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
