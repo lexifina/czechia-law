@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:5.C.3.2021.1",
+  "docket": "5 C 3/2021-46",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4a80f7f8-9387-4d3a-8429-2c3f6016cdc7",
+  "source_sha256": "708b35fd484b8d68003eee48cebbb6c74c148b6002ba7f255ba09efdb9f3351c",
+  "source_id": "4a80f7f8-9387-4d3a-8429-2c3f6016cdc7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 3/2021-46",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:5.C.3.2021.1",
+    "predmetRizeni": "o zapl. 7.740,65 Kč s přísl.",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4a80f7f8-9387-4d3a-8429-2c3f6016cdc7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
