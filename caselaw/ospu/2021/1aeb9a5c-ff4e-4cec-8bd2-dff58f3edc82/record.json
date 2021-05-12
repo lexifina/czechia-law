@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:117.C.37.2019.1",
+  "docket": "117 C 37/2019",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1aeb9a5c-ff4e-4cec-8bd2-dff58f3edc82",
+  "source_sha256": "1bb356175526d4d7e19956c7f71a86bb9c9242d2e743a92d7c218fc1114254dd",
+  "source_id": "1aeb9a5c-ff4e-4cec-8bd2-dff58f3edc82",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "117 C 37/2019",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Naděžda Librová",
+    "ecli": "ECLI:CZ:OSPU:2021:117.C.37.2019.1",
+    "predmetRizeni": "o zaplacení 349 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-09-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 2604 z. č. 89/2012 Sb.",
+      "§ 2627 z. č. 89/2012 Sb.",
+      "§ 29 z. č. 222/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1aeb9a5c-ff4e-4cec-8bd2-dff58f3edc82"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
