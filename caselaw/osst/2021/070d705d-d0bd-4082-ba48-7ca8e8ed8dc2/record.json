@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:6.C.44.2020.1",
+  "docket": "6 C 44/2020-126",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/070d705d-d0bd-4082-ba48-7ca8e8ed8dc2",
+  "source_sha256": "a9606ef29af7f61d2633c2246da4d8a59752ca404530b6353bbc01f491d47c60",
+  "source_id": "070d705d-d0bd-4082-ba48-7ca8e8ed8dc2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 44/2020-126",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Pavla Potužníková",
+    "ecli": "ECLI:CZ:OSST:2021:6.C.44.2020.1",
+    "predmetRizeni": "O zaplacení 57 466 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 118 z. č. 99/1963 Sb.",
+      "§ 2086 z. č. 89/2012 Sb.",
+      "§ 2604 z. č. 89/2012 Sb.",
+      "§ 2605 z. č. 89/2012 Sb.",
+      "§ 2589 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/070d705d-d0bd-4082-ba48-7ca8e8ed8dc2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
