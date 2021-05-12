@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:9.C.245.2020.1",
+  "docket": "9 C 245/2020-36",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3bf3aa3-fe3d-4d62-bc9d-5bc2738099de",
+  "source_sha256": "934b3c5843ab637294c9016b239318bb9cf0a8a3a5827af40f589f4b610e7221",
+  "source_id": "c3bf3aa3-fe3d-4d62-bc9d-5bc2738099de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 245/2020-36",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Josef Kavalec",
+    "ecli": "ECLI:CZ:OSBV:2021:9.C.245.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 10 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3bf3aa3-fe3d-4d62-bc9d-5bc2738099de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
