@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:20.C.76.2021.4",
+  "docket": "20 C 76/2021-27",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/98a51ccb-3deb-4776-9132-7619082ebbbd",
+  "source_sha256": "1a0b8a7c75e7679c05602775df6135ee372e54eddb9d089679844b3bdf358e68",
+  "source_id": "98a51ccb-3deb-4776-9132-7619082ebbbd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 76/2021-27",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Ludmila Papicová",
+    "ecli": "ECLI:CZ:OSOL:2021:20.C.76.2021.4",
+    "predmetRizeni": "o 2 500 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 17 z. č. 379/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/98a51ccb-3deb-4776-9132-7619082ebbbd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
