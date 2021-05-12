@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:7.C.40.2021.2",
+  "docket": "7 C 40/2021-15",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a38a699e-816f-419c-be9d-1a13d15b22fb",
+  "source_sha256": "5d89f7bc1f2933a5b539f66ac75f0d446abb66ebf1a3d81c91a1e3317429ed27",
+  "source_id": "a38a699e-816f-419c-be9d-1a13d15b22fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 40/2021-15",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Jarmila Millerová",
+    "ecli": "ECLI:CZ:OSPS:2021:7.C.40.2021.2",
+    "predmetRizeni": "3 000 Kč s přísl.",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [
+      "opilost",
+      "peněžité plnění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 89e/1 z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a38a699e-816f-419c-be9d-1a13d15b22fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
