@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:9.C.103.2020.1",
+  "docket": "9 C 103/2020-151",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1c3bc26-2078-4db7-a39e-13fcf3eee3f3",
+  "source_sha256": "adbcad4dbb9e7e6a3b391d4ef6a7f5f7124f514d41fb63c0925a62c299ed43ed",
+  "source_id": "c1c3bc26-2078-4db7-a39e-13fcf3eee3f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 103/2020-151",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "JUDr. Adéla Sedláčková, LL.M.",
+    "ecli": "ECLI:CZ:OSSU:2021:9.C.103.2020.1",
+    "predmetRizeni": "o 9.472 Kč",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní",
+      "smlouva pracovní",
+      "srážky ze mzdy",
+      "svědečné",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1740 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1c3bc26-2078-4db7-a39e-13fcf3eee3f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
