@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:23.C.262.2020.1",
+  "docket": "23 C 262/2020-54",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ad84ddff-9c87-40f6-b436-e91c70fec972",
+  "source_sha256": "3d2eecf124fdb60bc0f0583e76e3df5c02afc78ecb2414583e5c313ab6796293",
+  "source_id": "ad84ddff-9c87-40f6-b436-e91c70fec972",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 262/2020-54",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Michal Novotný",
+    "ecli": "ECLI:CZ:OSPH08:2021:23.C.262.2020.1",
+    "predmetRizeni": "o zaplacení 1 246,50 Kč",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ad84ddff-9c87-40f6-b436-e91c70fec972"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
