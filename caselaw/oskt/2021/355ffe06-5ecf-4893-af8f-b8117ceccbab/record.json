@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.82.2021.1",
+  "docket": "9 C 82/2021-37",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/355ffe06-5ecf-4893-af8f-b8117ceccbab",
+  "source_sha256": "655210dd050c33c9aa982e8591721b8d331dbc620544f3c4c467082885b8b1f2",
+  "source_id": "355ffe06-5ecf-4893-af8f-b8117ceccbab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 82/2021-37",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.82.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-08-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/355ffe06-5ecf-4893-af8f-b8117ceccbab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
