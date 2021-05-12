@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:6.C.240.2020.1",
+  "docket": "6 C 240/2020-113",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/86a6203f-3580-4029-8d66-25368cd2cc07",
+  "source_sha256": "93b35745a1fc8d64c6a47c2cb6363de334571324bf08f002f353cf8a55784285",
+  "source_id": "86a6203f-3580-4029-8d66-25368cd2cc07",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 240/2020-113",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. František Jurtík",
+    "ecli": "ECLI:CZ:OSPV:2021:6.C.240.2020.1",
+    "predmetRizeni": "O zaplacení 97.344 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "notářský zápis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/86a6203f-3580-4029-8d66-25368cd2cc07"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
