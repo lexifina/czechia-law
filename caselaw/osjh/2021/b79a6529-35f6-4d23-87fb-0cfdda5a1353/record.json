@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jindřichově Hradci",
+  "ecli": "ECLI:CZ:OSJH:2021:2.C.38.2021.1",
+  "docket": "2 C 38/2021-36",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b79a6529-35f6-4d23-87fb-0cfdda5a1353",
+  "source_sha256": "b4d11c0978b58edd6048c230015c7fc5a16a9f6cb4e6d4fadb2d9d9934c1f0d0",
+  "source_id": "b79a6529-35f6-4d23-87fb-0cfdda5a1353",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 38/2021-36",
+    "soud": "Okresní soud v Jindřichově Hradci",
+    "autor": "JUDr. Jana Kučerová",
+    "ecli": "ECLI:CZ:OSJH:2021:2.C.38.2021.1",
+    "predmetRizeni": "o zaplacení 15 711,61 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva o účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 118 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b79a6529-35f6-4d23-87fb-0cfdda5a1353"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
