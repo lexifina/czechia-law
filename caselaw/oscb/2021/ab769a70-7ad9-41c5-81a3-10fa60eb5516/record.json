@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:30.C.167.2021.1",
+  "docket": "30 C 167/2021-13",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab769a70-7ad9-41c5-81a3-10fa60eb5516",
+  "source_sha256": "1b99d3dfc3c558c247b6207ea2c4a302f581780f5283e73c67378b053e4a4ec0",
+  "source_id": "ab769a70-7ad9-41c5-81a3-10fa60eb5516",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 167/2021-13",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Daniel Macháček",
+    "ecli": "ECLI:CZ:OSCB:2021:30.C.167.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab769a70-7ad9-41c5-81a3-10fa60eb5516"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
