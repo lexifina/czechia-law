@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:16.C.147.2021.1",
+  "docket": "16 C 147/2021-18",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/46d13e71-b1ad-4c0d-b549-e26ff6f4daa2",
+  "source_sha256": "daf3c77d8a9eb7e9af94698ea6a9394d46a175a2725f9bfded11d3ccad904737",
+  "source_id": "46d13e71-b1ad-4c0d-b549-e26ff6f4daa2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 147/2021-18",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Ing. arch. Zdeněk Blažek",
+    "ecli": "ECLI:CZ:OSPZ:2021:16.C.147.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-09-07",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/46d13e71-b1ad-4c0d-b549-e26ff6f4daa2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
