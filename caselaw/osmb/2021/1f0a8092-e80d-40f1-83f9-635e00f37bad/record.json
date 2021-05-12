@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:11.C.56.2021.1",
+  "docket": "11 C 56/2021-36",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f0a8092-e80d-40f1-83f9-635e00f37bad",
+  "source_sha256": "f5e0b40d1014814639ae876e5fdcccb18b24eaa7f5b09795e282acfe426f52fe",
+  "source_id": "1f0a8092-e80d-40f1-83f9-635e00f37bad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 56/2021-36",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Sabina Kubáňová",
+    "ecli": "ECLI:CZ:OSMB:2021:11.C.56.2021.1",
+    "predmetRizeni": "o zaplacení 31 349,01 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f0a8092-e80d-40f1-83f9-635e00f37bad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
