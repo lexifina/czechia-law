@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:20.C.10.2021.3",
+  "docket": "20 C 10/2021-90",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/85cd2c55-d11a-4f00-bfb7-29683570ae3e",
+  "source_sha256": "19595703c4774ae509050d4a709eb13838fa8b6593283ed25433448171f944f6",
+  "source_id": "85cd2c55-d11a-4f00-bfb7-29683570ae3e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 10/2021-90",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Ludmila Papicová",
+    "ecli": "ECLI:CZ:OSOL:2021:20.C.10.2021.3",
+    "predmetRizeni": "o výživné",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "odbytné",
+      "podnájem",
+      "příspěvek na bydlení",
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 763 z. č. 89/2012 Sb.",
+      "§ 761 z. č. 89/2012 Sb.",
+      "§ 760 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/85cd2c55-d11a-4f00-bfb7-29683570ae3e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
