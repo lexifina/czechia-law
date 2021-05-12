@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:36.C.27.2020.1",
+  "docket": "36 C 27/2020-83",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72b949b3-1c69-4946-8c67-9de53f97df18",
+  "source_sha256": "048e20c2b38718de452015c0f3fa1a15c5e6f7f1fb19c3500899879940702709",
+  "source_id": "72b949b3-1c69-4946-8c67-9de53f97df18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 27/2020-83",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2021:36.C.27.2020.1",
+    "predmetRizeni": "zaplacení 49 879,99 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 1895 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72b949b3-1c69-4946-8c67-9de53f97df18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
