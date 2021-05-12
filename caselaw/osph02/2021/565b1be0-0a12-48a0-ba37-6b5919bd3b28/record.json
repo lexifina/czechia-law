@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:46.C.52.2020.3",
+  "docket": "46 C 52/2020-63",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/565b1be0-0a12-48a0-ba37-6b5919bd3b28",
+  "source_sha256": "f01551ddef82c83df040249758e797622f22d9f2ea7362ddf07182b59b5d2b80",
+  "source_id": "565b1be0-0a12-48a0-ba37-6b5919bd3b28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 52/2020-63",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Lucie Kuchaříková",
+    "ecli": "ECLI:CZ:OSPH02:2021:46.C.52.2020.3",
+    "predmetRizeni": "O zaplacení 14 357,28 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-09-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/565b1be0-0a12-48a0-ba37-6b5919bd3b28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
