@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:6.C.22.2021 .1",
+  "docket": "6 C 22/2021-25",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/043ffab0-381f-48dc-890f-2a48be10fc4a",
+  "source_sha256": "79455e97d6a0bc2cb7ad79550ab297f23ff330b0f1cd618d55baf4441543afba",
+  "source_id": "043ffab0-381f-48dc-890f-2a48be10fc4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 22/2021-25",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Dana Malechová",
+    "ecli": "ECLI:CZ:OSPV:2021:6.C.22.2021 .1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/043ffab0-381f-48dc-890f-2a48be10fc4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
