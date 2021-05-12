@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:6.C.78.2021.1",
+  "docket": "6 C 78/2021-16",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ecd07ab-2732-49ff-83ca-32b75013c140",
+  "source_sha256": "169131ed79a3ec78c726a98d7627c4ab3c5258f6b4010a65914321376f47bb20",
+  "source_id": "5ecd07ab-2732-49ff-83ca-32b75013c140",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 78/2021-16",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr.Mgr. Jan Hurdík, Ph.D.",
+    "ecli": "ECLI:CZ:OSTR:2021:6.C.78.2021.1",
+    "predmetRizeni": "zaplacení částky 9 089 Kč",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ecd07ab-2732-49ff-83ca-32b75013c140"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
