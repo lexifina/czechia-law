@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:5.C.5.2021.1",
+  "docket": "5 C 5/2021-25",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/11152e37-dea9-45d4-90a7-5328bceed680",
+  "source_sha256": "ccd4c18956ce71863a4882c0572fe47aae59570ff3a21ad8bbd20c44c780c763",
+  "source_id": "11152e37-dea9-45d4-90a7-5328bceed680",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 5/2021-25",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Simona Kačerová",
+    "ecli": "ECLI:CZ:OSPZ:2021:5.C.5.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-10-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/11152e37-dea9-45d4-90a7-5328bceed680"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
