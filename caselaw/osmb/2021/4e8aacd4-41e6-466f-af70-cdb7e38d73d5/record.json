@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:9.C.111.2021.1",
+  "docket": "9 C 111/2021-18",
+  "date": "2021-05-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e8aacd4-41e6-466f-af70-cdb7e38d73d5",
+  "source_sha256": "371900a3c13f79c1d5e44350da9e667f65e4111522234d832c7a6c05e0a64f43",
+  "source_id": "4e8aacd4-41e6-466f-af70-cdb7e38d73d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 111/2021-18",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Helena Hrubá, Ph.D.",
+    "ecli": "ECLI:CZ:OSMB:2021:9.C.111.2021.1",
+    "predmetRizeni": "o zaplacení 1 261 Kč s příslušenstvím",
+    "datumVydani": "2021-05-12",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e8aacd4-41e6-466f-af70-cdb7e38d73d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
