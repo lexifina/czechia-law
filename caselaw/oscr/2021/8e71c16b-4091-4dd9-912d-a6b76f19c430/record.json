@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:8.C.23.2021.1",
+  "docket": "8 C 23/2021-18",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e71c16b-4091-4dd9-912d-a6b76f19c430",
+  "source_sha256": "4f9aa5cdc2285789ce26c38c0b666ce67d5a933ee541835f1cf9eed2458aa93c",
+  "source_id": "8e71c16b-4091-4dd9-912d-a6b76f19c430",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 23/2021-18",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Antonín Libra",
+    "ecli": "ECLI:CZ:OSCR:2021:8.C.23.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e71c16b-4091-4dd9-912d-a6b76f19c430"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
