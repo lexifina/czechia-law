@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:27.C.361.2020.1",
+  "docket": "27 C 361/2020-30",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e17fbaa2-dc0f-458a-90c1-acc8334620dd",
+  "source_sha256": "a2d175d7772f8be371590f9d3d1e152e558510853eb4e7bd311e5ac194e21074",
+  "source_id": "e17fbaa2-dc0f-458a-90c1-acc8334620dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 361/2020-30",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Lubomír Janoušek, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH06:2021:27.C.361.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 478 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 12 z. č. 56/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e17fbaa2-dc0f-458a-90c1-acc8334620dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
