@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:11.C.129.2021.1",
+  "docket": "11 C 129/2021-16",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4682e93-1122-4930-a018-cea2f23b34c7",
+  "source_sha256": "fb8e5feb09a981ed860a0aeb794d795287604228f4026b5bc3fd10475e0dc1ec",
+  "source_id": "b4682e93-1122-4930-a018-cea2f23b34c7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 129/2021-16",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Tereza Martínková",
+    "ecli": "ECLI:CZ:OSKH:2021:11.C.129.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4682e93-1122-4930-a018-cea2f23b34c7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
