@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:5.C.111.2021.2",
+  "docket": "5 C 111/2021-35",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2cd11d50-2f47-4b69-9549-9aba47e0a074",
+  "source_sha256": "00be3cddc3b6706f5af4fc7026501d8f26dddf34960110f44e3afb6985bc3f64",
+  "source_id": "2cd11d50-2f47-4b69-9549-9aba47e0a074",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 111/2021-35",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2021:5.C.111.2021.2",
+    "predmetRizeni": "o zaplacení 24.900 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2cd11d50-2f47-4b69-9549-9aba47e0a074"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
