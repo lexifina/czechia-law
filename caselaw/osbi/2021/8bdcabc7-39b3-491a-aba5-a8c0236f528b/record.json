@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:29.C.250.2020.1",
+  "docket": "29 C 250/2020",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8bdcabc7-39b3-491a-aba5-a8c0236f528b",
+  "source_sha256": "9b1eac139cee7ef27d8186f891409b55fa3370708aa5d9da55372896c46d8f50",
+  "source_id": "8bdcabc7-39b3-491a-aba5-a8c0236f528b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 250/2020",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Miroslava Šebelová",
+    "ecli": "ECLI:CZ:OSBI:2021:29.C.250.2020.1",
+    "predmetRizeni": "O zaplacení 4 575 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 2578 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8bdcabc7-39b3-491a-aba5-a8c0236f528b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
