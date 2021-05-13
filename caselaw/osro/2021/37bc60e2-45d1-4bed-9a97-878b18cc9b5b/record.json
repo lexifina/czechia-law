@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:8.C.51.2021.1",
+  "docket": "8 C 51/2021-19",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37bc60e2-45d1-4bed-9a97-878b18cc9b5b",
+  "source_sha256": "bfac75d5a6424f9b8d4f5ddc47f06127a53e7c7535c56eb0522cd54c24f57ebf",
+  "source_id": "37bc60e2-45d1-4bed-9a97-878b18cc9b5b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 51/2021-19",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2021:8.C.51.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37bc60e2-45d1-4bed-9a97-878b18cc9b5b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
