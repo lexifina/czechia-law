@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:12.C.210.2020.1",
+  "docket": "12 C 210/2020-80",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e040ad4-192b-4dbf-9827-d324ff3ed9bd",
+  "source_sha256": "d1b90713cb60d2193e9cce7e1ce00ca73f84f9358237fe928837350d62eac025",
+  "source_id": "7e040ad4-192b-4dbf-9827-d324ff3ed9bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 210/2020-80",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Vanda Vincíková, Ph.D.",
+    "ecli": "ECLI:CZ:OSLN:2021:12.C.210.2020.1",
+    "predmetRizeni": "O zaplacení 1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-08-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e040ad4-192b-4dbf-9827-d324ff3ed9bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
