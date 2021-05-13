@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:55.C.46.2021.1",
+  "docket": "55 C 46/2021-63",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/989627d1-e772-406a-8522-dfc1e905f262",
+  "source_sha256": "cb439fafb97b9cef62da79025c7a95451cf0070c39965cd9d1e4d2c510d03f5d",
+  "source_id": "989627d1-e772-406a-8522-dfc1e905f262",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 46/2021-63",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Pavel Pražák",
+    "ecli": "ECLI:CZ:OSPH04:2021:55.C.46.2021.1",
+    "predmetRizeni": "O zaplacení 13 617,48 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-11-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 577 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb.",
+      "§ 1908 z. č. 89/2012 Sb.",
+      "§ 574 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/989627d1-e772-406a-8522-dfc1e905f262"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
