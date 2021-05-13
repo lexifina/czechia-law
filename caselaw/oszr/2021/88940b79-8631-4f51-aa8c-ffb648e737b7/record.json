@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:10.C.70.2021.1",
+  "docket": "10 C 70/2021-53",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/88940b79-8631-4f51-aa8c-ffb648e737b7",
+  "source_sha256": "a1ae92bdb2eb61617d49958c52d3aa7916a4d9af8b659b33152ec15ee460348a",
+  "source_id": "88940b79-8631-4f51-aa8c-ffb648e737b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 70/2021-53",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jarmila Krejzková",
+    "ecli": "ECLI:CZ:OSZR:2021:10.C.70.2021.1",
+    "predmetRizeni": "O zaplacení 41 923,35 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 577 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/88940b79-8631-4f51-aa8c-ffb648e737b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
