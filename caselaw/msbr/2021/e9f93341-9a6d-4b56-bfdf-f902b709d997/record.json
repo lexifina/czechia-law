@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:2104.C.22.2020.1",
+  "docket": "2104 C 22/2020-81",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e9f93341-9a6d-4b56-bfdf-f902b709d997",
+  "source_sha256": "76797cf429d6b7c1abfaabaef955cf0dcd822e0dc6f85316280339095b16bb92",
+  "source_id": "e9f93341-9a6d-4b56-bfdf-f902b709d997",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2104 C 22/2020-81",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lenka Kovářová",
+    "ecli": "ECLI:CZ:MSBR:2021:2104.C.22.2020.1",
+    "predmetRizeni": "zaplacení 3 886 Kč s příslušenstvím - smlouva o úvěru",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e9f93341-9a6d-4b56-bfdf-f902b709d997"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
