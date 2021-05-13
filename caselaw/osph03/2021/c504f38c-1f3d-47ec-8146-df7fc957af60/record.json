@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:19.C.157.2017.11",
+  "docket": "19 C 157/2017-371",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c504f38c-1f3d-47ec-8146-df7fc957af60",
+  "source_sha256": "6965487d2e45de484173ed92812ad71103f2c2e8c80aa02c1c5dd6a48ec86fa0",
+  "source_id": "c504f38c-1f3d-47ec-8146-df7fc957af60",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 157/2017-371",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Dáša Vítková",
+    "ecli": "ECLI:CZ:OSPH03:2021:19.C.157.2017.11",
+    "predmetRizeni": "365 267 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-12-17",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 224 z. č. 99/1963 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 1127 z. č. 89/2012 Sb.",
+      "§ 1117 z. č. 89/2012 Sb.",
+      "§ 1121 z. č. 89/2012 Sb.",
+      "§ 1744 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c504f38c-1f3d-47ec-8146-df7fc957af60"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
