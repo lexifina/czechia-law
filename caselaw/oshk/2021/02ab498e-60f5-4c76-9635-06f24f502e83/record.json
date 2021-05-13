@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:38.C.35.2020.1",
+  "docket": "38 C 35/2020-168",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02ab498e-60f5-4c76-9635-06f24f502e83",
+  "source_sha256": "d61679f35e994f987e7b8f839ef7bcec09399ae1deb5f46f78722ee276aedd6b",
+  "source_id": "02ab498e-60f5-4c76-9635-06f24f502e83",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 35/2020-168",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Jana Ela Kliková",
+    "ecli": "ECLI:CZ:OSHK:2021:38.C.35.2020.1",
+    "predmetRizeni": "o zaplacení částky 47 887,06 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "oddlužení",
+      "peněžité plnění",
+      "převzetí dluhu",
+      "rozhodnutí o úpadku",
+      "ručení",
+      "smlouva o úvěru",
+      "zajištění dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 303 z. č. 513/1991 Sb.",
+      "§ 2022 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02ab498e-60f5-4c76-9635-06f24f502e83"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
