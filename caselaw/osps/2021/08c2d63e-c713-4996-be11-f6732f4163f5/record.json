@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:9.C.205.2020.5",
+  "docket": "9 C 205/2020-47",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08c2d63e-c713-4996-be11-f6732f4163f5",
+  "source_sha256": "c24ab7b2e396aa6a47ddc6e2b83f77fc2c0ef6a58f8c2c2697cf2494d50919c4",
+  "source_id": "08c2d63e-c713-4996-be11-f6732f4163f5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 205/2020-47",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPS:2021:9.C.205.2020.5",
+    "predmetRizeni": "6 553 Kč s přísl.",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ čl.14/1 nař. vl. č. 1215/2012 Sb.",
+      "§ čl7/2 nař. vl. č. 593/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08c2d63e-c713-4996-be11-f6732f4163f5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
