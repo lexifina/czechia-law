@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:10.C.57.2021.1",
+  "docket": "10 C 57/2021-39",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efe46199-83fa-4df2-badf-2b5c19af1249",
+  "source_sha256": "f9f021c743b6f8a13234445d1e4d3a9fb4f4467c31ed81e252a17a65119741a0",
+  "source_id": "efe46199-83fa-4df2-badf-2b5c19af1249",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 57/2021-39",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jarmila Krejzková",
+    "ecli": "ECLI:CZ:OSZR:2021:10.C.57.2021.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efe46199-83fa-4df2-badf-2b5c19af1249"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
