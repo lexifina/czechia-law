@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:9.C.85.2021.3",
+  "docket": "9 C 85/2021-25",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c442288d-1678-4475-8ba6-c7d39f4444a5",
+  "source_sha256": "36ae7491508ae69322bfc72d37402b87420c948c1c0583f083f33e2de7ccd2af",
+  "source_id": "c442288d-1678-4475-8ba6-c7d39f4444a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 85/2021-25",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "Mgr. František Strouha",
+    "ecli": "ECLI:CZ:OSCK:2021:9.C.85.2021.3",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 84 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c442288d-1678-4475-8ba6-c7d39f4444a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
