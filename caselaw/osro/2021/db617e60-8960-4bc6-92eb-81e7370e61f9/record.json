@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:4.C.136.2020.1",
+  "docket": "4 C 136/2020-34",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db617e60-8960-4bc6-92eb-81e7370e61f9",
+  "source_sha256": "10beb9558a76d3f075f6181945797b1e144af70c65d74dd398bcf17301b7adb4",
+  "source_id": "db617e60-8960-4bc6-92eb-81e7370e61f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 136/2020-34",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ludmila Horská",
+    "ecli": "ECLI:CZ:OSRO:2021:4.C.136.2020.1",
+    "predmetRizeni": "vyloučení věcí z výkonu rozhodnutí",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "exekuce",
+      "pasivní legitimace",
+      "rozvod manželství",
+      "smlouva o výpůjčce",
+      "věcná břemena",
+      "vypořádání SJM"
+    ],
+    "zminenaUstanoveni": [
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 1011 z. č. 89/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db617e60-8960-4bc6-92eb-81e7370e61f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
