@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:11.C.32.2021.1",
+  "docket": "11 C 32/2021",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/06c001cf-b64f-4b9f-b2c1-af27f535374a",
+  "source_sha256": "b2583382fd47032a563b066f047e1b2de190a908aa309becbed25dc40b97f203",
+  "source_id": "06c001cf-b64f-4b9f-b2c1-af27f535374a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 32/2021",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Ivana Koberová, Ph.D.",
+    "ecli": "ECLI:CZ:OSLN:2021:11.C.32.2021.1",
+    "predmetRizeni": "O zaplacení 6 916 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva pracovní",
+      "srážky ze mzdy"
+    ],
+    "zminenaUstanoveni": [
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/06c001cf-b64f-4b9f-b2c1-af27f535374a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
