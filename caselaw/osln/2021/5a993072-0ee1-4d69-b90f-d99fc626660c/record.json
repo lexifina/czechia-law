@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:11.C.5.2021.1",
+  "docket": "11 C 5/2021-94",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a993072-0ee1-4d69-b90f-d99fc626660c",
+  "source_sha256": "77bc16e5c75a944181476118a9196a76757a54d9a591aa28a6fe43ecc95ed2e1",
+  "source_id": "5a993072-0ee1-4d69-b90f-d99fc626660c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 5/2021-94",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Ivana Koberová, Ph.D.",
+    "ecli": "ECLI:CZ:OSLN:2021:11.C.5.2021.1",
+    "predmetRizeni": "O zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 59/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a993072-0ee1-4d69-b90f-d99fc626660c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
