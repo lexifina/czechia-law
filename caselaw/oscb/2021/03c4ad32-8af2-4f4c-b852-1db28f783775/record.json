@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:27.C.350.2020.1",
+  "docket": "27 C 350/2020-43",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03c4ad32-8af2-4f4c-b852-1db28f783775",
+  "source_sha256": "1867d4f46ca30e76cc31bc446bc097376b8ca9ad1fe9d3130c6ed7a5298281cb",
+  "source_id": "03c4ad32-8af2-4f4c-b852-1db28f783775",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 350/2020-43",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Radka Podlešáková",
+    "ecli": "ECLI:CZ:OSCB:2021:27.C.350.2020.1",
+    "predmetRizeni": "o zaplacení částky 145 225, 77 s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-10-22",
+    "klicovaSlova": [
+      "ručení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 2040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03c4ad32-8af2-4f4c-b852-1db28f783775"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
