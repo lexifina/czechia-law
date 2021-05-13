@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:43.C.91.2021.1",
+  "docket": "43 C 91/2021-27",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7d70057-002c-4abc-a586-2281c38cd1ee",
+  "source_sha256": "6d5efe4db1f3f6b685d69c08e2f48e5d3948f784076e3082e9b67ab510417ff0",
+  "source_id": "b7d70057-002c-4abc-a586-2281c38cd1ee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 91/2021-27",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Monika Tupá",
+    "ecli": "ECLI:CZ:OSPH04:2021:43.C.91.2021.1",
+    "predmetRizeni": "zrušení vyživovací povinnosti",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-18",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7d70057-002c-4abc-a586-2281c38cd1ee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
