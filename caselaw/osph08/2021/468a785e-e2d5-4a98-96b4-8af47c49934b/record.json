@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:10.C.91.2020.3",
+  "docket": "10 C 91/2020-108",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/468a785e-e2d5-4a98-96b4-8af47c49934b",
+  "source_sha256": "842ddc1c5da6b3377ab65d42310ceccb36d32577244f61e3d1b8f9abb2c5240d",
+  "source_id": "468a785e-e2d5-4a98-96b4-8af47c49934b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 91/2020-108",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Alžběta Pasternaková",
+    "ecli": "ECLI:CZ:OSPH08:2021:10.C.91.2020.3",
+    "predmetRizeni": "O zaplacení 4.000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 562 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/468a785e-e2d5-4a98-96b4-8af47c49934b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
