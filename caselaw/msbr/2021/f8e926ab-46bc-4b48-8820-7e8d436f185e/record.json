@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:30.C.192.2020.1",
+  "docket": "30 C 192/2020-132",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f8e926ab-46bc-4b48-8820-7e8d436f185e",
+  "source_sha256": "099f997dc53f6a87fd746be67d28e79d902acd82579fa0e222ceea8cc47aba98",
+  "source_id": "f8e926ab-46bc-4b48-8820-7e8d436f185e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 192/2020-132",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Dana Daňková",
+    "ecli": "ECLI:CZ:MSBR:2021:30.C.192.2020.1",
+    "predmetRizeni": "výživné pro neprovdanou matku",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-08-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 922 z. č. 89/2012 Sb.",
+      "§ 920 z. č. 89/2012 Sb.",
+      "§ 1982 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f8e926ab-46bc-4b48-8820-7e8d436f185e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
