@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:7.C.97.2019.6",
+  "docket": "7 C 97/2019-125",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/38cb9a1e-511a-4814-a529-9ef3ab0151f5",
+  "source_sha256": "d3cc2a2bccd5d157abb76d521adad34c1999c668f04b24aa327baa03b262ee4d",
+  "source_id": "38cb9a1e-511a-4814-a529-9ef3ab0151f5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 97/2019-125",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Martina Burachovičová",
+    "ecli": "ECLI:CZ:OSSO:2021:7.C.97.2019.6",
+    "predmetRizeni": "žaloba o povolení nezbytné cesty",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "smlouva darovací",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1029 z. č. 89/2012 Sb.",
+      "§ 1032 z. č. 89/2012 Sb.",
+      "§ 1267 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/38cb9a1e-511a-4814-a529-9ef3ab0151f5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
