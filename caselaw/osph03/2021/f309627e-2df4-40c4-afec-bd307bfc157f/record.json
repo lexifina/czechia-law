@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:6.C.194.2021.1",
+  "docket": "6 C 194/2021-27",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f309627e-2df4-40c4-afec-bd307bfc157f",
+  "source_sha256": "7a80de6adcdbadc8e3276dca974c026dbb5fff59e9d0dba3225a5d3669673ffe",
+  "source_id": "f309627e-2df4-40c4-afec-bd307bfc157f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 194/2021-27",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Miroslava Sixtová",
+    "ecli": "ECLI:CZ:OSPH03:2021:6.C.194.2021.1",
+    "predmetRizeni": "1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f309627e-2df4-40c4-afec-bd307bfc157f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
