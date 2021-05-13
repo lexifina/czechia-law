@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:44.C.199.2020.1",
+  "docket": "44 C 199/2020-34",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e67a1155-fe54-404d-9db7-635236a71d0a",
+  "source_sha256": "521a8ee091a6cc5b00fbae8f3bd05a63dbac097836015afde7fb94d38712cd2c",
+  "source_id": "e67a1155-fe54-404d-9db7-635236a71d0a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 199/2020-34",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ing. Daniel Bartoň",
+    "ecli": "ECLI:CZ:MSBR:2021:44.C.199.2020.1",
+    "predmetRizeni": "zaplacení 2.500 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e67a1155-fe54-404d-9db7-635236a71d0a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
