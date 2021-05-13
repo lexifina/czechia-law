@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:3.C.74.2021.1",
+  "docket": "3 C 74/2021-35",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c992c7e7-45e1-4898-b78b-db1ce3bbe060",
+  "source_sha256": "38d0d9e14c2dc01accf003ee549af90178b60117032a4d847349fd2de40d2504",
+  "source_id": "c992c7e7-45e1-4898-b78b-db1ce3bbe060",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 74/2021-35",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Petra Burešová",
+    "ecli": "ECLI:CZ:OSBK:2021:3.C.74.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 153 z. č. 99/1963 Sb.",
+      "§ 2774 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c992c7e7-45e1-4898-b78b-db1ce3bbe060"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
