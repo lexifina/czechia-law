@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:63.C.267.2020.1",
+  "docket": "63 C 267/2020-38",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a3ccf76-bb8c-4310-866f-1ce947c75cb6",
+  "source_sha256": "62b0fc0cc0bc32f3dd2523d25c999adf7eabb660969410f6d47a34ec5a1d43ce",
+  "source_id": "2a3ccf76-bb8c-4310-866f-1ce947c75cb6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 267/2020-38",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Judita Fadrusová",
+    "ecli": "ECLI:CZ:MSBR:2021:63.C.267.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a3ccf76-bb8c-4310-866f-1ce947c75cb6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
