@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:24.C.33.2021.1",
+  "docket": "24 C 33/2021-38",
+  "date": "2021-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/54d1c31c-fb4b-4382-bc80-bc01a57e71dc",
+  "source_sha256": "4477abbb7fec15ccb174cfa3b0c6e7d76e84ac80e2c0c2c71be2b11168186001",
+  "source_id": "54d1c31c-fb4b-4382-bc80-bc01a57e71dc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 33/2021-38",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Kamila Kocajová",
+    "ecli": "ECLI:CZ:OSTP:2021:24.C.33.2021.1",
+    "predmetRizeni": "zaplacení 22 887,72 Kč s příslušenstvím",
+    "datumVydani": "2021-05-13",
+    "datumZverejneni": "2021-12-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/54d1c31c-fb4b-4382-bc80-bc01a57e71dc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
