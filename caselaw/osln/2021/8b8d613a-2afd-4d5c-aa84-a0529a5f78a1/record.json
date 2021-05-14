@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:9.C.37.2021.1",
+  "docket": "9 C 37/2021-23",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b8d613a-2afd-4d5c-aa84-a0529a5f78a1",
+  "source_sha256": "9c6f3e9cb98dbf9243dfd6421d01d2d1cc34717b0a55f21b2a1fe33aa9a74a55",
+  "source_id": "8b8d613a-2afd-4d5c-aa84-a0529a5f78a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 37/2021-23",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Tomáš Machytka",
+    "ecli": "ECLI:CZ:OSLN:2021:9.C.37.2021.1",
+    "predmetRizeni": "O zaplacení 681,85 Kč s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b8d613a-2afd-4d5c-aa84-a0529a5f78a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
