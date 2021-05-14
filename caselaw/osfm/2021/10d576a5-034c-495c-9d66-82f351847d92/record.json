@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:16.C.2.2020.1",
+  "docket": "16 C 2/2020-99",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10d576a5-034c-495c-9d66-82f351847d92",
+  "source_sha256": "d2b926a2e6322564a871055da4e38e4c4901223c00033e3347caaffa80a29d49",
+  "source_id": "10d576a5-034c-495c-9d66-82f351847d92",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 2/2020-99",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. David Mařádek",
+    "ecli": "ECLI:CZ:OSFM:2021:16.C.2.2020.1",
+    "predmetRizeni": "o 19.152 Kč s přísl. - náhrada mzdy",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "dohoda o rozvázání pracovního poměru",
+      "náhrada mzdy",
+      "obchodní závod",
+      "odstupné",
+      "peněžité plnění",
+      "pracovní volno",
+      "smlouva kupní",
+      "smlouva nájemní",
+      "smlouva pracovní",
+      "výpověď z pracovního poměru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 208 z. č. 262/2006 Sb.",
+      "§ 206 z. č. 262/2006 Sb.",
+      "§ 338 z. č. 262/2006 Sb.",
+      "§ 339 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10d576a5-034c-495c-9d66-82f351847d92"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
