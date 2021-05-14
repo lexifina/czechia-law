@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:74.C.37.2021.2",
+  "docket": "74 C 37/2021-34",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f654485-d54e-43dc-8de5-bb06d91fa934",
+  "source_sha256": "e12177aa78c06fca3d30c32f3285235fa45c321f39ec3252db006ea697073a1a",
+  "source_id": "0f654485-d54e-43dc-8de5-bb06d91fa934",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 C 37/2021-34",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:74.C.37.2021.2",
+    "predmetRizeni": "O zaplacení 4 000 Kč",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f654485-d54e-43dc-8de5-bb06d91fa934"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
