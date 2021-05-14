@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:10.C.169.2020.1",
+  "docket": "10 C 169/2020-51",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a60ca2e5-d816-4b29-9159-41c384ea29f2",
+  "source_sha256": "ff2629cd6e861c8a305d2be7833d53e9ed9ddabdfeb020171675c7f56f463c29",
+  "source_id": "a60ca2e5-d816-4b29-9159-41c384ea29f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 169/2020-51",
+    "soud": "Okresní soud v Blansku",
+    "autor": "Mgr. Lenka Polachová",
+    "ecli": "ECLI:CZ:OSBK:2021:10.C.169.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 634/1992 Sb.",
+      "§ 55 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a60ca2e5-d816-4b29-9159-41c384ea29f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
