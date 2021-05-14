@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:39.C.179.2015.1",
+  "docket": "39 C 179/2015",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f77ca5e3-976f-4a19-aca1-561c4e5efb40",
+  "source_sha256": "512e37d7ab463ca03cfa2b59bfaf676c23ff8070ad60635e168d0cc24aa253bc",
+  "source_id": "f77ca5e3-976f-4a19-aca1-561c4e5efb40",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 179/2015",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Martina Tvrdková",
+    "ecli": "ECLI:CZ:OSPH01:2021:39.C.179.2015.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-10-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "postoupení pohledávky",
+      "spoluvlastnictví",
+      "vydržení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 244 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 172/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f77ca5e3-976f-4a19-aca1-561c4e5efb40"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
