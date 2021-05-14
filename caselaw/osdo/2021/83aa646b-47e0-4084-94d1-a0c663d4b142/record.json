@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:7.C.90.2021.1",
+  "docket": "7 C 90/2021-13",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/83aa646b-47e0-4084-94d1-a0c663d4b142",
+  "source_sha256": "c7d057c9732710b917c8d6a6857b2354b81e176924657c9ac0de867d2f5173dd",
+  "source_id": "83aa646b-47e0-4084-94d1-a0c663d4b142",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 90/2021-13",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Kateřina Martincová",
+    "ecli": "ECLI:CZ:OSDO:2021:7.C.90.2021.1",
+    "predmetRizeni": "O zaplacení 6 003 Kč s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/83aa646b-47e0-4084-94d1-a0c663d4b142"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
