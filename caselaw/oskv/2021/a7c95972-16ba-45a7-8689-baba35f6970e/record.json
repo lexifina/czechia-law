@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:13.C.121.2021.1",
+  "docket": "13 C 121/2021-12",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7c95972-16ba-45a7-8689-baba35f6970e",
+  "source_sha256": "ce4a52f87b9c80145aa5429b6e1c9b9d9452dce3213ad0e43ff6ca4d7b6357f9",
+  "source_id": "a7c95972-16ba-45a7-8689-baba35f6970e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 121/2021-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2021:13.C.121.2021.1",
+    "predmetRizeni": "8.490,05 Kč / úvěr",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7c95972-16ba-45a7-8689-baba35f6970e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
