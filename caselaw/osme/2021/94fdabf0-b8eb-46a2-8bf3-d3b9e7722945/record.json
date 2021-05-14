@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:7.C.19.2021.1",
+  "docket": "7 C 19/2021-41",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94fdabf0-b8eb-46a2-8bf3-d3b9e7722945",
+  "source_sha256": "8cc8414d2d2910310ca919d868a49dedc3426c43c3e2156bdd325cb4afec5416",
+  "source_id": "94fdabf0-b8eb-46a2-8bf3-d3b9e7722945",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 19/2021-41",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Petra Turnovská",
+    "ecli": "ECLI:CZ:OSME:2021:7.C.19.2021.1",
+    "predmetRizeni": "o zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-08-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 2394 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 589/2020 Sb.",
+      "§ 710 z. č. 89/2012 Sb.",
+      "§ 713 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 262/2006 Sb.",
+      "§ 499 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94fdabf0-b8eb-46a2-8bf3-d3b9e7722945"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
