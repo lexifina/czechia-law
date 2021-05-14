@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:20.C.204.2020.1",
+  "docket": "20 C 204/2020-25",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/193a2e88-b4a0-49f2-9e18-ca1999c7c4c5",
+  "source_sha256": "9ded6389d20b70b4e92125fe6f9699feabeb00fd832519f52b5947111bc12174",
+  "source_id": "193a2e88-b4a0-49f2-9e18-ca1999c7c4c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 204/2020-25",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Pavlína Černá",
+    "ecli": "ECLI:CZ:OSME:2021:20.C.204.2020.1",
+    "predmetRizeni": "o částku [částka] s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 10 z. č. 274/2001 Sb.",
+      "§ 3 z. č. 274/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/193a2e88-b4a0-49f2-9e18-ca1999c7c4c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
