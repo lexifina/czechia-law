@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.221.2021.1",
+  "docket": "22 C 221/2021",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a82e28f4-df32-4e7e-ba7e-eda8e17e817c",
+  "source_sha256": "e233d03c7b4871d05bb44678c6bf75a21deefe497d7ebf2d08cf35b0bb442334",
+  "source_id": "a82e28f4-df32-4e7e-ba7e-eda8e17e817c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 221/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.221.2021.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a82e28f4-df32-4e7e-ba7e-eda8e17e817c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
