@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:4.C.60.2021.1",
+  "docket": "4 C 60/2021-21",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a129f93b-5b63-4410-9d7b-399b14c7677b",
+  "source_sha256": "8ca4e99cb1a175d4992dae7ddec5f5b1be081482a9ec662b77c80b39f3543f4c",
+  "source_id": "a129f93b-5b63-4410-9d7b-399b14c7677b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 60/2021-21",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Michaela Bílá",
+    "ecli": "ECLI:CZ:OSTA:2021:4.C.60.2021.1",
+    "predmetRizeni": "O zaplacení 6 340 Kč s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a129f93b-5b63-4410-9d7b-399b14c7677b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
