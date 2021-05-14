@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:111.C.1.2021.1",
+  "docket": "111 C 1/2021-31",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c28ca8a7-0356-4baa-a073-acaeb0bc9e3e",
+  "source_sha256": "e1ce96277056623e316562c38073812fb1e4512226642c9108a36387fb1e5ec6",
+  "source_id": "c28ca8a7-0356-4baa-a073-acaeb0bc9e3e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 1/2021-31",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Milan Virag",
+    "ecli": "ECLI:CZ:OSTP:2021:111.C.1.2021.1",
+    "predmetRizeni": "zaplacení 1 860,95 Kč s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§  vyhl. č. 358/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c28ca8a7-0356-4baa-a073-acaeb0bc9e3e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
