@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:16.C.284.2020.1",
+  "docket": "16 C 284/2020-28",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d7042b9-ae55-4ab1-9ba3-487411a0246c",
+  "source_sha256": "7d3a1603451a399a95c28fe96b4c8d45b83fbef4f5b09877bafdfb81bb711ea4",
+  "source_id": "1d7042b9-ae55-4ab1-9ba3-487411a0246c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 284/2020-28",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Gabriela Černá",
+    "ecli": "ECLI:CZ:OSMB:2021:16.C.284.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d7042b9-ae55-4ab1-9ba3-487411a0246c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
