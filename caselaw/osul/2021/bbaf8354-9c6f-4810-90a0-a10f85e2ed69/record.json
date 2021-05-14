@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:74.C.80.2021.2",
+  "docket": "74 C 80/2021-23",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bbaf8354-9c6f-4810-90a0-a10f85e2ed69",
+  "source_sha256": "fe1c4eae524c747f76dd0c26d9d4b79dc80c7b3ac27388c0d51ddc618136ae69",
+  "source_id": "bbaf8354-9c6f-4810-90a0-a10f85e2ed69",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 C 80/2021-23",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:74.C.80.2021.2",
+    "predmetRizeni": "O zaplacení 950 Kč s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "pozemní komunikace",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 45 z. č. 361/2000 Sb.",
+      "§ 27 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bbaf8354-9c6f-4810-90a0-a10f85e2ed69"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
