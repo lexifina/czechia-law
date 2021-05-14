@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:115.C.208.2020.1",
+  "docket": "115 C 208/2020-53",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/50bc0624-0e2b-4b0f-bb2d-f5242128ebf6",
+  "source_sha256": "88c6514b23a318434147d3d7cabb3d01d5161484d3dbe64f0074e61acbd36554",
+  "source_id": "50bc0624-0e2b-4b0f-bb2d-f5242128ebf6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 208/2020-53",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Slaná",
+    "ecli": "ECLI:CZ:MSBR:2021:115.C.208.2020.1",
+    "predmetRizeni": "zaplacení 8.391 Kč s příslušenstvím - bezdůvodné obohacení",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/50bc0624-0e2b-4b0f-bb2d-f5242128ebf6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
