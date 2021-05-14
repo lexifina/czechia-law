@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:8.C.101.2021.1",
+  "docket": "8 C 101/2021-20",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1561b1f6-6543-49e4-a042-7e85940c7995",
+  "source_sha256": "5fe5b353e114e7f7542ebb52ba2e9fc2a25d65dca9f9573c87508470db13f1bb",
+  "source_id": "1561b1f6-6543-49e4-a042-7e85940c7995",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 101/2021-20",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Kateřina Uhrynová",
+    "ecli": "ECLI:CZ:OSDC:2021:8.C.101.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1561b1f6-6543-49e4-a042-7e85940c7995"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
