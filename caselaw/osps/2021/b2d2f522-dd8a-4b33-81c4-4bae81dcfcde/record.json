@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:25.C.38.2021.2",
+  "docket": "25 C 38/2021-17",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b2d2f522-dd8a-4b33-81c4-4bae81dcfcde",
+  "source_sha256": "d978afff38b4bcfa79f83da0e4afadb0c545f0d70851c85c10ce8e5a38c04067",
+  "source_id": "b2d2f522-dd8a-4b33-81c4-4bae81dcfcde",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 38/2021-17",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPS:2021:25.C.38.2021.2",
+    "predmetRizeni": "8 000 Kč s přísl.",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b2d2f522-dd8a-4b33-81c4-4bae81dcfcde"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
