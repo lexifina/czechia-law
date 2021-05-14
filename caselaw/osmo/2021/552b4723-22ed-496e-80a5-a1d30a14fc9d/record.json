@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:12.C.130.2021.2",
+  "docket": "12 C 130/2021-21",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/552b4723-22ed-496e-80a5-a1d30a14fc9d",
+  "source_sha256": "a6a01c77012a6b410a79505df1d4106dc08b712e52b1b2f0b6330ca091250d23",
+  "source_id": "552b4723-22ed-496e-80a5-a1d30a14fc9d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 130/2021-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Romana Malá",
+    "ecli": "ECLI:CZ:OSMO:2021:12.C.130.2021.2",
+    "predmetRizeni": "4 938,66 Kč",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "jízdné",
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1814 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/552b4723-22ed-496e-80a5-a1d30a14fc9d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
