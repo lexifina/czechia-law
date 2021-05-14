@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:7.C.243.2020.1",
+  "docket": "7 C 243/2020-33",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef7c8c3d-36ca-49ef-8e27-44c222c95cd6",
+  "source_sha256": "0a0f876b8453e5d7c3587f8357a4c3ac995600987a5bb256fe37f71995ed1a52",
+  "source_id": "ef7c8c3d-36ca-49ef-8e27-44c222c95cd6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 243/2020-33",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Kateřina Martincová",
+    "ecli": "ECLI:CZ:OSDO:2021:7.C.243.2020.1",
+    "predmetRizeni": "O zaplacení 7 590 Kč s příslušenstvím",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef7c8c3d-36ca-49ef-8e27-44c222c95cd6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
