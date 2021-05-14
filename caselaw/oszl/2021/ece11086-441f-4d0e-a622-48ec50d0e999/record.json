@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:46.C.91.2021.1",
+  "docket": "46 C 91/2021-25",
+  "date": "2021-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ece11086-441f-4d0e-a622-48ec50d0e999",
+  "source_sha256": "52e439b6298b019d4d7b1db4efe87bd99ad66acdc7c7fa625c9b9082bad1bb17",
+  "source_id": "ece11086-441f-4d0e-a622-48ec50d0e999",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 91/2021-25",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Tomáš Pavlíček",
+    "ecli": "ECLI:CZ:OSZL:2021:46.C.91.2021.1",
+    "predmetRizeni": "vyklizení nemovitosti",
+    "datumVydani": "2021-05-14",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 1012 z. č. 89/2012 Sb.",
+      "§ 980 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ece11086-441f-4d0e-a622-48ec50d0e999"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
