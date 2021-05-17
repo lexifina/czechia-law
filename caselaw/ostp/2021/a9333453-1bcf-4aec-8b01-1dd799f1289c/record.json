@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:25.C.74.2021.1",
+  "docket": "25 C 74/2021-45",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9333453-1bcf-4aec-8b01-1dd799f1289c",
+  "source_sha256": "15f93409a39f984bd57107467091ff024f89d62283a8ec9b887f69de36a88782",
+  "source_id": "a9333453-1bcf-4aec-8b01-1dd799f1289c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 74/2021-45",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Jana Hackerová",
+    "ecli": "ECLI:CZ:OSTP:2021:25.C.74.2021.1",
+    "predmetRizeni": "zaplacení 24 358,33 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 24 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9333453-1bcf-4aec-8b01-1dd799f1289c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
