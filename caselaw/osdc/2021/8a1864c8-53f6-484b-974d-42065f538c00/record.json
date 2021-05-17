@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:25.C.130.2021.1",
+  "docket": "25 C 130/2021-16",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a1864c8-53f6-484b-974d-42065f538c00",
+  "source_sha256": "c1c9f1ac1ea21c09a17abc37566e985e060865f9e6ce18612f54da0325fec0f7",
+  "source_id": "8a1864c8-53f6-484b-974d-42065f538c00",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 130/2021-16",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Andrea Pěničková",
+    "ecli": "ECLI:CZ:OSDC:2021:25.C.130.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-09-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§  z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a1864c8-53f6-484b-974d-42065f538c00"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
