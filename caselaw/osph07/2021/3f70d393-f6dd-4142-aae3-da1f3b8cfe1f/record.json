@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:4.C.56.2021.1",
+  "docket": "4 C 56/2021-11",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f70d393-f6dd-4142-aae3-da1f3b8cfe1f",
+  "source_sha256": "735d9b5eda7e01cd35ae8f835eb0603100fbe108875ea39371772034b357519a",
+  "source_id": "3f70d393-f6dd-4142-aae3-da1f3b8cfe1f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 56/2021-11",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Tomáš Mottl",
+    "ecli": "ECLI:CZ:OSPH07:2021:4.C.56.2021.1",
+    "predmetRizeni": "O zaplacení 13 329,48 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f70d393-f6dd-4142-aae3-da1f3b8cfe1f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
