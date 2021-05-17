@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:29.C.102.2019.1",
+  "docket": "29 C 102/2019-93",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/231e8c77-45fc-4d08-b95f-83a94916e5ef",
+  "source_sha256": "fdcf821d7a56a64bc7ff0ec24bf0ed4fea58628b4b966ea465a6bd128dbea3b5",
+  "source_id": "231e8c77-45fc-4d08-b95f-83a94916e5ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 102/2019-93",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Romana Sobolová",
+    "ecli": "ECLI:CZ:MSBR:2021:29.C.102.2019.1",
+    "predmetRizeni": "zaplacení 84.027 Kč s příslušenstvím - smlouva o dílo",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-10-20",
+    "klicovaSlova": [
+      "konkurs",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 1886 z. č. 89/2012 Sb.",
+      "§ 294 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/231e8c77-45fc-4d08-b95f-83a94916e5ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
