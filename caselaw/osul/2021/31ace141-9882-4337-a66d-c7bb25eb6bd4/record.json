@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:29.C.199.2019.1",
+  "docket": "29 C 199/2019-74",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31ace141-9882-4337-a66d-c7bb25eb6bd4",
+  "source_sha256": "d7a6725d65a3b8ad64b39f7344b1dc87f0ef858e159e8194bbe1a15055541445",
+  "source_id": "31ace141-9882-4337-a66d-c7bb25eb6bd4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 199/2019-74",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Martin Chládek",
+    "ecli": "ECLI:CZ:OSUL:2021:29.C.199.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-09-07",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31ace141-9882-4337-a66d-c7bb25eb6bd4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
