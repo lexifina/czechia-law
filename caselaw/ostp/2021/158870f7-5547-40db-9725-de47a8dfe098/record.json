@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:25.C.293.2020.1",
+  "docket": "25 C 293/2020-41",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/158870f7-5547-40db-9725-de47a8dfe098",
+  "source_sha256": "f65523de5128afc1388bd69715fb771ef0ed978134779b6ec6e3d119f075cf2e",
+  "source_id": "158870f7-5547-40db-9725-de47a8dfe098",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 293/2020-41",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Jana Hackerová",
+    "ecli": "ECLI:CZ:OSTP:2021:25.C.293.2020.1",
+    "predmetRizeni": "zaplacení 1 240,92 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/158870f7-5547-40db-9725-de47a8dfe098"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
