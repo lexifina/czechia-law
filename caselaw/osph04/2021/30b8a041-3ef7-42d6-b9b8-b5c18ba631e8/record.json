@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:60.C.91.2021.1",
+  "docket": "60 C 91/2021-42",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30b8a041-3ef7-42d6-b9b8-b5c18ba631e8",
+  "source_sha256": "c313d1487208e7018cc3ff8f969db1ad51f0563822e53c2bee5e5a6b7eaecb66",
+  "source_id": "30b8a041-3ef7-42d6-b9b8-b5c18ba631e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 91/2021-42",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Hana Kadlecová, LL.M.",
+    "ecli": "ECLI:CZ:OSPH04:2021:60.C.91.2021.1",
+    "predmetRizeni": "O zaplacení 4 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-10-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1724 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30b8a041-3ef7-42d6-b9b8-b5c18ba631e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
