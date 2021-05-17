@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:8.C.114.2021.1",
+  "docket": "8 C 114/2021-24",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b5b2dbf-7c31-4947-90eb-bf0cae359428",
+  "source_sha256": "514d79b9351bb1c32c4e739b4ad2a97e5fd5213143ce1fc47a072bee7256f55f",
+  "source_id": "9b5b2dbf-7c31-4947-90eb-bf0cae359428",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 114/2021-24",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Daniela Ševelová",
+    "ecli": "ECLI:CZ:OSPR:2021:8.C.114.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právní domněnka",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b5b2dbf-7c31-4947-90eb-bf0cae359428"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
