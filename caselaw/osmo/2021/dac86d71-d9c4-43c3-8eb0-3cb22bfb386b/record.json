@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:22.C.110.2021.1",
+  "docket": "22 C 110/2021-30",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dac86d71-d9c4-43c3-8eb0-3cb22bfb386b",
+  "source_sha256": "e942d60a3d091cd49a84e4df7c43e3969e5b7ba253a6d8724310cd1c70e592c8",
+  "source_id": "dac86d71-d9c4-43c3-8eb0-3cb22bfb386b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 110/2021-30",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Denisa Hamerská",
+    "ecli": "ECLI:CZ:OSMO:2021:22.C.110.2021.1",
+    "predmetRizeni": "18 295 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 609 z. č. 89/2012 Sb.",
+      "§ 619 z. č. 89/2012 Sb.",
+      "§ 610 z. č. 89/2012 Sb.",
+      "§ 611 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dac86d71-d9c4-43c3-8eb0-3cb22bfb386b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
