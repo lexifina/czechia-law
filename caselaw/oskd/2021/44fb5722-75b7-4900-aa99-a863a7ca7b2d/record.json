@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:19.C.41.2019.1",
+  "docket": "19 C 41/2019",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44fb5722-75b7-4900-aa99-a863a7ca7b2d",
+  "source_sha256": "38c72ea5b21ece0ab6c0092d369aaa59273f7b8d711ae3ad0da92ca595382e99",
+  "source_id": "44fb5722-75b7-4900-aa99-a863a7ca7b2d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 41/2019",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jaroslav Lockenbauer",
+    "ecli": "ECLI:CZ:OSKD:2021:19.C.41.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "smlouva o právní pomoci"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44fb5722-75b7-4900-aa99-a863a7ca7b2d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
