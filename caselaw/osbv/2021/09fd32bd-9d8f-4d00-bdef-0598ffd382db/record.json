@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:16.C.290.2020.1",
+  "docket": "16 C 290/2020-19",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/09fd32bd-9d8f-4d00-bdef-0598ffd382db",
+  "source_sha256": "51d94f8220a3a1e7e6d666d9fb8ac4b06f3d6168b59e1cc06bfabe30038251e3",
+  "source_id": "09fd32bd-9d8f-4d00-bdef-0598ffd382db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 290/2020-19",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Marie Indrišková",
+    "ecli": "ECLI:CZ:OSBV:2021:16.C.290.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/09fd32bd-9d8f-4d00-bdef-0598ffd382db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
