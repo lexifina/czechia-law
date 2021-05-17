@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:21.C.138.2021.1",
+  "docket": "21 C 138/2021-22",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/09a74c8f-9521-404e-87d9-2cf9b52b5ea0",
+  "source_sha256": "ec49a6ec0416d9ea9c53c48c23ce60e32cf96da589ff7a9f585d8ea8483f9828",
+  "source_id": "09a74c8f-9521-404e-87d9-2cf9b52b5ea0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 138/2021-22",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Zuzana Břízová",
+    "ecli": "ECLI:CZ:OSJI:2021:21.C.138.2021.1",
+    "predmetRizeni": "o 1 431 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/09a74c8f-9521-404e-87d9-2cf9b52b5ea0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
