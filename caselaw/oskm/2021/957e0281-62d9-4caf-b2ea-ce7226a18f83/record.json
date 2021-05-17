@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:5.C.98.2021.1",
+  "docket": "5 C 98/2021-7",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/957e0281-62d9-4caf-b2ea-ce7226a18f83",
+  "source_sha256": "3cb65b0af0fef1d7d06e8066aeba5723626cc42293852b27c0e163d1f62553ac",
+  "source_id": "957e0281-62d9-4caf-b2ea-ce7226a18f83",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 98/2021-7",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jana Smýkalová",
+    "ecli": "ECLI:CZ:OSKM:2021:5.C.98.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/957e0281-62d9-4caf-b2ea-ce7226a18f83"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
