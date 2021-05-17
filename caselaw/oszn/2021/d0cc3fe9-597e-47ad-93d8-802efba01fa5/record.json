@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:7.C.122.2019.1",
+  "docket": "7 C 122/2019-195",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0cc3fe9-597e-47ad-93d8-802efba01fa5",
+  "source_sha256": "b85171df76d43392021865ac61bc86dc7da67e999b020fde5a2d778155a8dbd2",
+  "source_id": "d0cc3fe9-597e-47ad-93d8-802efba01fa5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 122/2019-195",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Krčálová",
+    "ecli": "ECLI:CZ:OSZN:2021:7.C.122.2019.1",
+    "predmetRizeni": "o zaplacení [částka] s přísl.",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 2894 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 361/2000 Sb.",
+      "§ 2904 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0cc3fe9-597e-47ad-93d8-802efba01fa5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
