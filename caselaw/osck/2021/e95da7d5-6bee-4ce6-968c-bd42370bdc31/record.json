@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:9.C.113.2021.2",
+  "docket": "9 C 113/2021-31",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e95da7d5-6bee-4ce6-968c-bd42370bdc31",
+  "source_sha256": "e464e9de32fa59524aafc1951c92ed5a77b25fb4e6988434a6756c51d5991b51",
+  "source_id": "e95da7d5-6bee-4ce6-968c-bd42370bdc31",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 113/2021-31",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "Mgr. František Strouha",
+    "ecli": "ECLI:CZ:OSCK:2021:9.C.113.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 89/2012 Sb.",
+      "§ 211 z. č. 40/2009 Sb.",
+      "§ 1875 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e95da7d5-6bee-4ce6-968c-bd42370bdc31"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
