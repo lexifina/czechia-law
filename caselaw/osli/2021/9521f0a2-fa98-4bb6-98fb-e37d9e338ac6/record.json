@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:16.C.73.2021.1",
+  "docket": "16 C 73/2021-29",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9521f0a2-fa98-4bb6-98fb-e37d9e338ac6",
+  "source_sha256": "3f94b6c1a217826050a704ba26e41dcdfc9725e8f1b41a2b8d49a1552a7efc8f",
+  "source_id": "9521f0a2-fa98-4bb6-98fb-e37d9e338ac6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 73/2021-29",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Martin Košek",
+    "ecli": "ECLI:CZ:OSLI:2021:16.C.73.2021.1",
+    "predmetRizeni": "o zaplacení částky 4 651,99 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-09-02",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9521f0a2-fa98-4bb6-98fb-e37d9e338ac6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
