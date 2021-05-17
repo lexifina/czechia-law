@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:106.C.15.2020.1",
+  "docket": "106 C 15/2020-83",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79bf8a7a-33e8-417b-b7e1-80208dbf2790",
+  "source_sha256": "0841bcf23803b83750a54d96fe00aea9db5b04aed12bb06b608bff931921f6cc",
+  "source_id": "79bf8a7a-33e8-417b-b7e1-80208dbf2790",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 15/2020-83",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Renata Polanská",
+    "ecli": "ECLI:CZ:OSPU:2021:106.C.15.2020.1",
+    "predmetRizeni": "o zaplacení 596 426 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-12-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o dílo",
+      "smlouva zprostředkovatelská",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2054 z. č. 89/2012 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 2610 z. č. 89/2012 Sb.",
+      "§ 1987 z. č. 89/2012 Sb.",
+      "§ 98 z. č. 99/1963 Sb.",
+      "§ 2604 z. č. 89/2012 Sb.",
+      "§ 2605 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79bf8a7a-33e8-417b-b7e1-80208dbf2790"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
