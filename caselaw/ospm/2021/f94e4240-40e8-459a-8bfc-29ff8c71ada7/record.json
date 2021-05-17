@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:28.C.165.2020.1",
+  "docket": "28 C 165/2020-47",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f94e4240-40e8-459a-8bfc-29ff8c71ada7",
+  "source_sha256": "6123ad8ea6fb546dac791fb84142db66aecf505de1f383290c52245fcea2b68d",
+  "source_id": "f94e4240-40e8-459a-8bfc-29ff8c71ada7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 165/2020-47",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Kateřina Auterská šašková",
+    "ecli": "ECLI:CZ:OSPM:2021:28.C.165.2020.1",
+    "predmetRizeni": "O zaplacení 1 518 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f94e4240-40e8-459a-8bfc-29ff8c71ada7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
