@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:10.C.32.2021.1",
+  "docket": "10 C 32/2021-16",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/06a50fdc-afd5-44fd-9b19-60c391f16bf2",
+  "source_sha256": "fc929de54785bd3886ab212323249fe1e3229a770b91af325551900fe7b2e6b5",
+  "source_id": "06a50fdc-afd5-44fd-9b19-60c391f16bf2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 32/2021-16",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Michal Halamíček",
+    "ecli": "ECLI:CZ:OSVS:2021:10.C.32.2021.1",
+    "predmetRizeni": "O zaplacení 50 666,43 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 52 z. č. 89/2012 Sb.",
+      "§ 173 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/06a50fdc-afd5-44fd-9b19-60c391f16bf2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
