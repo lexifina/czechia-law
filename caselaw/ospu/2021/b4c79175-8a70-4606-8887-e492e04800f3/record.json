@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:17.C.71.2021.1",
+  "docket": "17 C 71/2021-15",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4c79175-8a70-4606-8887-e492e04800f3",
+  "source_sha256": "0278922330189ab2e6946c2b84b12655e2a91e09d47b7dbe07b233277babef50",
+  "source_id": "b4c79175-8a70-4606-8887-e492e04800f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 71/2021-15",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Naděžda Librová",
+    "ecli": "ECLI:CZ:OSPU:2021:17.C.71.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4c79175-8a70-4606-8887-e492e04800f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
