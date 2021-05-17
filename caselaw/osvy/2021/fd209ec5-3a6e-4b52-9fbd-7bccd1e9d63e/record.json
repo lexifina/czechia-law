@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.89.2021.1",
+  "docket": "7 C 89/2021-38",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd209ec5-3a6e-4b52-9fbd-7bccd1e9d63e",
+  "source_sha256": "cddf8105669591db0210023773132c23bdafb33cd581b6d93c8775768acb758d",
+  "source_id": "fd209ec5-3a6e-4b52-9fbd-7bccd1e9d63e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 89/2021-38",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.89.2021.1",
+    "predmetRizeni": "zaplacení částky 3 702 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2833 z. č. 89/2012 Sb.",
+      "§ 2824 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd209ec5-3a6e-4b52-9fbd-7bccd1e9d63e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
