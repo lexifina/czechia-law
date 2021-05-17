@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:8.C.84.2021.1",
+  "docket": "8 C 84/2021-18",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7e2449e-2933-4fca-aa27-e9e548fde7d8",
+  "source_sha256": "d2624e6e53c779d144d1c64c603b84ab18cef3f5e96468db5d44236960af1a1c",
+  "source_id": "d7e2449e-2933-4fca-aa27-e9e548fde7d8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 84/2021-18",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Jakub Fukal",
+    "ecli": "ECLI:CZ:OSNB:2021:8.C.84.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7e2449e-2933-4fca-aa27-e9e548fde7d8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
