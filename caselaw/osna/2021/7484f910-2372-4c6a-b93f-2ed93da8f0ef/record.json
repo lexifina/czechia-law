@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:6.C.125.2021.2",
+  "docket": "6 C 125/2021-24",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7484f910-2372-4c6a-b93f-2ed93da8f0ef",
+  "source_sha256": "3883ec01cee75f1862a4ab562d1e2233416ebb17e7a981ac7e7a24f8fef1dec6",
+  "source_id": "7484f910-2372-4c6a-b93f-2ed93da8f0ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 125/2021-24",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Blanka Klicnarová",
+    "ecli": "ECLI:CZ:OSNA:2021:6.C.125.2021.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "pěstounská péče",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7484f910-2372-4c6a-b93f-2ed93da8f0ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
