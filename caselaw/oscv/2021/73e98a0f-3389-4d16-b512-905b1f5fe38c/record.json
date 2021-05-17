@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:17.C.99.2015.1",
+  "docket": "17 C 99/2015-150",
+  "date": "2021-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/73e98a0f-3389-4d16-b512-905b1f5fe38c",
+  "source_sha256": "e7f54cadc6aa3a4232051eab78b0fb50cf2e053f98ceadadcfc737c85e77502f",
+  "source_id": "73e98a0f-3389-4d16-b512-905b1f5fe38c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 99/2015-150",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2021:17.C.99.2015.1",
+    "predmetRizeni": "úvěr - 214.276 Kč s příslušenstvím",
+    "datumVydani": "2021-05-17",
+    "datumZverejneni": "2021-11-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 451 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/73e98a0f-3389-4d16-b512-905b1f5fe38c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
