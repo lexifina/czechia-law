@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:5.C.122.2021.3",
+  "docket": "5 C 122/2021-43",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5994dbf1-724d-44d5-829a-70f24f865187",
+  "source_sha256": "9e5d00adf36b0b03863101cb4c4812e3086d7b6f779bd008b8662a4f16b03df2",
+  "source_id": "5994dbf1-724d-44d5-829a-70f24f865187",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 122/2021-43",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2021:5.C.122.2021.3",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5994dbf1-724d-44d5-829a-70f24f865187"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
