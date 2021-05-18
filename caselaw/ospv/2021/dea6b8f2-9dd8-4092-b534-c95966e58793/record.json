@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:5.C.10.2021.1",
+  "docket": "5 C 10/2021-58",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dea6b8f2-9dd8-4092-b534-c95966e58793",
+  "source_sha256": "7eb5bc437c7067d0ae9952ce67f13c11828ba98148565ff1aae92f768bb3b3f8",
+  "source_id": "dea6b8f2-9dd8-4092-b534-c95966e58793",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 10/2021-58",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. et Mgr. Věroslav Řezáč",
+    "ecli": "ECLI:CZ:OSPV:2021:5.C.10.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dea6b8f2-9dd8-4092-b534-c95966e58793"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
