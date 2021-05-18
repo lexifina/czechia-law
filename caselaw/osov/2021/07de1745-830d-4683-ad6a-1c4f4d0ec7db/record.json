@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:34.C.103.2021.1",
+  "docket": "34 C 103/2021-27",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07de1745-830d-4683-ad6a-1c4f4d0ec7db",
+  "source_sha256": "ce9f8ae713701176193e51517de2add4a771a7441070f1022e33c4d4cccef69d",
+  "source_id": "07de1745-830d-4683-ad6a-1c4f4d0ec7db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 103/2021-27",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jana Bojková",
+    "ecli": "ECLI:CZ:OSOV:2021:34.C.103.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-08-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 98/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07de1745-830d-4683-ad6a-1c4f4d0ec7db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
