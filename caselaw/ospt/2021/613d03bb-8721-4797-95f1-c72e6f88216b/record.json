@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:2.C.73.2021.1",
+  "docket": "2 C 73/2021-287",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/613d03bb-8721-4797-95f1-c72e6f88216b",
+  "source_sha256": "0b637d5191e8e06ac37c15abcc8123d80a6a6467378a70a7680f999228936f88",
+  "source_id": "613d03bb-8721-4797-95f1-c72e6f88216b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 73/2021-287",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Vladislava Halodová",
+    "ecli": "ECLI:CZ:OSPT:2021:2.C.73.2021.1",
+    "predmetRizeni": "o zaplacení 7 310,02 Kč s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 502 z. č. 513/1991 Sb.",
+      "§ 708 z. č. 513/1991 Sb.",
+      "§ 503 z. č. 513/1991 Sb.",
+      "§ 504 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/613d03bb-8721-4797-95f1-c72e6f88216b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
