@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:25.C.178.2021.1",
+  "docket": "25 C 178/2021-15",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7d7b89f-a256-46ef-810f-4b32bfe9c4dd",
+  "source_sha256": "440b8876a37669952a42f5495376175a1b8d7d8bf1d2893f64386b69161b729c",
+  "source_id": "d7d7b89f-a256-46ef-810f-4b32bfe9c4dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 178/2021-15",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Marta Toufarová",
+    "ecli": "ECLI:CZ:OSCB:2021:25.C.178.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7d7b89f-a256-46ef-810f-4b32bfe9c4dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
