@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:39.C.60.2021.1",
+  "docket": "39 C 60/2021-12",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4508b1b1-67bf-4109-93e7-31678efb567f",
+  "source_sha256": "3a04a578bacd60ec77ec6ade01d30b5973ad2fad4067b42bb4bbf9f8dba5ef65",
+  "source_id": "4508b1b1-67bf-4109-93e7-31678efb567f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 60/2021-12",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petra Pavlíčková",
+    "ecli": "ECLI:CZ:OSPM:2021:39.C.60.2021.1",
+    "predmetRizeni": "pro zaplacení 9 513 Kč s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4508b1b1-67bf-4109-93e7-31678efb567f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
