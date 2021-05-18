@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:53.C.65.2021.1",
+  "docket": "53 C 65/2021-14",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d3c18c9-db9e-49ad-a9ff-dd1706187ba6",
+  "source_sha256": "6f7b60a831beb47b4e7230d16886fa449e8b42720761ad531b12fd5c3ad9f381",
+  "source_id": "1d3c18c9-db9e-49ad-a9ff-dd1706187ba6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 65/2021-14",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Libuše Jeroušková",
+    "ecli": "ECLI:CZ:MSBR:2021:53.C.65.2021.1",
+    "predmetRizeni": "zaplacení 1 500 Kč s příslušenstvím - náklady na odtah vozidla",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 19 z. č. 13/1997 Sb.",
+      "§ 236 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d3c18c9-db9e-49ad-a9ff-dd1706187ba6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
