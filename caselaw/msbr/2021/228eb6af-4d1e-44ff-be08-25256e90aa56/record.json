@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:54.C.12.2021.1",
+  "docket": "54 C 12/2021-72",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/228eb6af-4d1e-44ff-be08-25256e90aa56",
+  "source_sha256": "165172808673a07c7ceec20c42d7ea4fabd32e5b6e992c5e17a8b7d64cb8c0e8",
+  "source_id": "228eb6af-4d1e-44ff-be08-25256e90aa56",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 12/2021-72",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Daniela Schwarzová",
+    "ecli": "ECLI:CZ:MSBR:2021:54.C.12.2021.1",
+    "predmetRizeni": "zaplacení 6.299 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/228eb6af-4d1e-44ff-be08-25256e90aa56"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
