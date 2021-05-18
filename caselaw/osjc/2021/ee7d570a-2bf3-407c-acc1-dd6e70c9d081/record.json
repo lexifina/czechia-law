@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:5.C.15.2021.1",
+  "docket": "5 C 15/2021-45",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ee7d570a-2bf3-407c-acc1-dd6e70c9d081",
+  "source_sha256": "334b330aea9ca0739f703e11d1769aa2a791d2afbeff3eecda648d153d3671a7",
+  "source_id": "ee7d570a-2bf3-407c-acc1-dd6e70c9d081",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 15/2021-45",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Vít Záveský",
+    "ecli": "ECLI:CZ:OSJC:2021:5.C.15.2021.1",
+    "predmetRizeni": "o 1 444 Kč s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ee7d570a-2bf3-407c-acc1-dd6e70c9d081"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
