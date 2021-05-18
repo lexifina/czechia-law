@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:21.C.47.2021.1",
+  "docket": "21 C 47/2021-32",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cde9b354-57f0-4cdc-a0d5-6d69e3f01517",
+  "source_sha256": "e134402e6d81658a24a712c5c8a2faa7ec37c4b295c3388a5477cf0901e8e5da",
+  "source_id": "cde9b354-57f0-4cdc-a0d5-6d69e3f01517",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 47/2021-32",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Bc. Boris Janíček",
+    "ecli": "ECLI:CZ:OSZN:2021:21.C.47.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cde9b354-57f0-4cdc-a0d5-6d69e3f01517"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
