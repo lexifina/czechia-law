@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:19.C.88.2021.1",
+  "docket": "19 C 88/2021-21",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/be16ae81-723f-443a-af87-b80c5d96dbe4",
+  "source_sha256": "3d0306e6159813e4e9db72b793e7345210a9b47e4cd8012d26126f8330382e10",
+  "source_id": "be16ae81-723f-443a-af87-b80c5d96dbe4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 88/2021-21",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Ing. Patrik Kurz, Ph.D.",
+    "ecli": "ECLI:CZ:OSTC:2021:19.C.88.2021.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/be16ae81-723f-443a-af87-b80c5d96dbe4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
