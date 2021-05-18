@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:19.C.103.2020.1",
+  "docket": "19 C 103/2020-54",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/42ac88f1-2dfa-435c-a3fa-dead7a6b55a6",
+  "source_sha256": "3d4662a56131495041b9cf1514afbc2c82ae50a23a80e6464f497e6bd370ca9c",
+  "source_id": "42ac88f1-2dfa-435c-a3fa-dead7a6b55a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 103/2020-54",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Pavel Dočkal",
+    "ecli": "ECLI:CZ:OSBU:2021:19.C.103.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "insolvence",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/42ac88f1-2dfa-435c-a3fa-dead7a6b55a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
