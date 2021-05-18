@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:13.C.169.2021.1",
+  "docket": "13 C 169/2021-15",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/26c64579-eaf0-4e1e-b06a-029db0b1a40d",
+  "source_sha256": "cbfc3dddb60414a4d3bf754f527bf08798ff0ad87b1c168e770bf5fb42b0ef54",
+  "source_id": "26c64579-eaf0-4e1e-b06a-029db0b1a40d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 169/2021-15",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Jiří Pacovský",
+    "ecli": "ECLI:CZ:OSPZ:2021:13.C.169.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-11-10",
+    "klicovaSlova": [
+      "držba",
+      "pravá držba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 1003 z. č. 89/2012 Sb.",
+      "§ 180 z. č. 99/1963 Sb.",
+      "§ 154 z. č. 99/1963 Sb.",
+      "§ 178 z. č. 99/1963 Sb.",
+      "§ 713 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/26c64579-eaf0-4e1e-b06a-029db0b1a40d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
