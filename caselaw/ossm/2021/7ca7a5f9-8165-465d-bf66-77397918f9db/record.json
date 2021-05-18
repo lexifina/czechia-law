@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Semilech",
+  "ecli": "ECLI:CZ:OSSM:2021:86.C.33.2020.3",
+  "docket": "86 C 33/2020-74",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ca7a5f9-8165-465d-bf66-77397918f9db",
+  "source_sha256": "af65f1e2decce238b63ebecd9d7654051c4befb813280946c02801103b3e840b",
+  "source_id": "7ca7a5f9-8165-465d-bf66-77397918f9db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "86 C 33/2020-74",
+    "soud": "Okresní soud v Semilech",
+    "autor": "Mgr. Michal Polák",
+    "ecli": "ECLI:CZ:OSSM:2021:86.C.33.2020.3",
+    "predmetRizeni": "o zaplacení částky 8 329 Kč s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-09-21",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  z. č. 43/2013 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 457 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 39 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ca7a5f9-8165-465d-bf66-77397918f9db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
