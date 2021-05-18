@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:216.C.42.2020.1",
+  "docket": "216 C 42/2020-44",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/deab450c-5a34-4a49-8eb8-7549f88935ce",
+  "source_sha256": "ea2e06f1bc426fdea007791b92d0e7003d0ebcaace371eb56a508a10e1190f63",
+  "source_id": "deab450c-5a34-4a49-8eb8-7549f88935ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "216 C 42/2020-44",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Miroslav Král",
+    "ecli": "ECLI:CZ:MSBR:2021:216.C.42.2020.1",
+    "predmetRizeni": "zaplacení 12 313 Kč s příslušenstvím - náhrada nákladů",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/deab450c-5a34-4a49-8eb8-7549f88935ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
