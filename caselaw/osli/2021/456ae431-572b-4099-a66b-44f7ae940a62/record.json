@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:15.C.26.2021.1",
+  "docket": "15 C 26/2021-53",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/456ae431-572b-4099-a66b-44f7ae940a62",
+  "source_sha256": "edc59865d92b96d54d0247f74c3efc3dd259f95a5bfee8415b602932ddd13dce",
+  "source_id": "456ae431-572b-4099-a66b-44f7ae940a62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 26/2021-53",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Roman Flanderka",
+    "ecli": "ECLI:CZ:OSLI:2021:15.C.26.2021.1",
+    "predmetRizeni": "2 168 Kč s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2118 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/456ae431-572b-4099-a66b-44f7ae940a62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
