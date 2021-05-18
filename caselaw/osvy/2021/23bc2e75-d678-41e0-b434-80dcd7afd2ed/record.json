@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:8.C.15.2018.1",
+  "docket": "8 C 15/2018-27",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/23bc2e75-d678-41e0-b434-80dcd7afd2ed",
+  "source_sha256": "a5b84cd4765d64f765474d34bd598af35b5f39b3ba73c9bfc47948e3eba62d43",
+  "source_id": "23bc2e75-d678-41e0-b434-80dcd7afd2ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 15/2018-27",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Dita Coufalová",
+    "ecli": "ECLI:CZ:OSVY:2021:8.C.15.2018.1",
+    "predmetRizeni": "o vyklizení nemovité věci",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "vydání věci",
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/23bc2e75-d678-41e0-b434-80dcd7afd2ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
