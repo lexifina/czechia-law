@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:9.C.72.2021.1",
+  "docket": "9 C 72/2021",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0934b1e4-b550-443b-8314-000a0c162c55",
+  "source_sha256": "85de7615ffa6582257b7567f35c7fd8ea029f24a3c511e5844d5d8d4d785e0d0",
+  "source_id": "0934b1e4-b550-443b-8314-000a0c162c55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 72/2021",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:9.C.72.2021.1",
+    "predmetRizeni": "O zaplacení 6 372,25 Kč s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0934b1e4-b550-443b-8314-000a0c162c55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
