@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:20.C.352.2020.1",
+  "docket": "20 C 352/2020-48",
+  "date": "2021-05-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b7b1c64-176b-4ec8-a13e-24f9f3c1ef27",
+  "source_sha256": "a539e99aa9cb79a719fa33cddc65fcf6eca984627fb478aaa8229de6e0f62b78",
+  "source_id": "9b7b1c64-176b-4ec8-a13e-24f9f3c1ef27",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 352/2020-48",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Ungr",
+    "ecli": "ECLI:CZ:OSPM:2021:20.C.352.2020.1",
+    "predmetRizeni": "O zaplacení 5 648,67 Kč s příslušenstvím",
+    "datumVydani": "2021-05-18",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b7b1c64-176b-4ec8-a13e-24f9f3c1ef27"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
