@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:4.C.280.2020.1",
+  "docket": "4 C 280/2020-19",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/976d7038-706a-4c56-94a4-3c22a7fb7817",
+  "source_sha256": "28fabe6baf8d8c08647a85300960a11a140a282ea9ba5dfa9dc60020b326781d",
+  "source_id": "976d7038-706a-4c56-94a4-3c22a7fb7817",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 280/2020-19",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "JUDr. Jaroslava Hamadová",
+    "ecli": "ECLI:CZ:OSUH:2021:4.C.280.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/976d7038-706a-4c56-94a4-3c22a7fb7817"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
