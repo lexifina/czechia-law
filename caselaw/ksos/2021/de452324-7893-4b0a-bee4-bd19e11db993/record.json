@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ostravě",
+  "ecli": "ECLI:CZ:KSOS:2021:83.EC.10.2021.1",
+  "docket": "83 EC 10/2021-75",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de452324-7893-4b0a-bee4-bd19e11db993",
+  "source_sha256": "02a8395f7ae959c05addf25258c3617e20f068585c18d75132ef6b97437ab865",
+  "source_id": "de452324-7893-4b0a-bee4-bd19e11db993",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "83 EC 10/2021-75",
+    "soud": "Krajský soud v Ostravě",
+    "autor": "JUDr. Eva Zavrtálková",
+    "ecli": "ECLI:CZ:KSOS:2021:83.EC.10.2021.1",
+    "predmetRizeni": "o částku 13 119,36 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "autorské dílo",
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva licenční"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 99/1963 Sb.",
+      "§  z. č. 121/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de452324-7893-4b0a-bee4-bd19e11db993"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
