@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:74.C.2.2020.1",
+  "docket": "74 C 2/2020",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25c5d6cf-bd88-4e8b-834a-68fb04a4ad2f",
+  "source_sha256": "993235819de200209fa96c04e63223584015a4fcc8672c695040c5ddb01ed26c",
+  "source_id": "25c5d6cf-bd88-4e8b-834a-68fb04a4ad2f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 C 2/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Edita Votočková",
+    "ecli": "ECLI:CZ:OSPH01:2021:74.C.2.2020.1",
+    "predmetRizeni": "o zaplacení 1 110 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-11-02",
+    "klicovaSlova": [
+      "notářský zápis",
+      "péče řádného hospodáře",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu",
+      "zastavení exekuce / výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 544 z. č. 40/1964 Sb.",
+      "§ 3030 z. č. 89/2012 Sb.",
+      "§ 341 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25c5d6cf-bd88-4e8b-834a-68fb04a4ad2f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
