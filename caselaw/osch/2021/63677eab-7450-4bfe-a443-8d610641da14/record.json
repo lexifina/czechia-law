@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:10.C.302.2020.2",
+  "docket": "10 C 302/2020-64",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/63677eab-7450-4bfe-a443-8d610641da14",
+  "source_sha256": "80e3943b3d5652ec5ab9e33222355e2d9edc36c99be031507cdb7f5847e179be",
+  "source_id": "63677eab-7450-4bfe-a443-8d610641da14",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 302/2020-64",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Alexandra Vaňková",
+    "ecli": "ECLI:CZ:OSCH:2021:10.C.302.2020.2",
+    "predmetRizeni": "O zaplacení 28 500 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-11-29",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1829 z. č. 89/2012 Sb.",
+      "§ 19 z. č. 634/1992 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/63677eab-7450-4bfe-a443-8d610641da14"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
