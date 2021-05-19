@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:4.C.22.2021.1",
+  "docket": "4 C 22/2021-31",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b0f4e9d8-0b2d-4710-a95f-1c44ce6ae026",
+  "source_sha256": "ff8afb76cf60a6002d10ec8a110e2a0ac4f7f67546eea839c4667cb3b90719a8",
+  "source_id": "b0f4e9d8-0b2d-4710-a95f-1c44ce6ae026",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 22/2021-31",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSZN:2021:4.C.22.2021.1",
+    "predmetRizeni": "zrušení registrovaného partnerství",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 395 z. č. 292/2013 Sb.",
+      "§ 14 z. č. 115/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b0f4e9d8-0b2d-4710-a95f-1c44ce6ae026"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
