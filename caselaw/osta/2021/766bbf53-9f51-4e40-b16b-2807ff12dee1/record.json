@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:8.C.84.2021.1",
+  "docket": "8 C 84/2021-17",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/766bbf53-9f51-4e40-b16b-2807ff12dee1",
+  "source_sha256": "15cd0b7143175345a158c43cbbbf23fb87144958b72be96b87c14cda70e8fb75",
+  "source_id": "766bbf53-9f51-4e40-b16b-2807ff12dee1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 84/2021-17",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jiří Vaněk",
+    "ecli": "ECLI:CZ:OSTA:2021:8.C.84.2021.1",
+    "predmetRizeni": "O zaplacení 15 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "neplatnost právního jednání",
+      "ochrana osobnosti",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/766bbf53-9f51-4e40-b16b-2807ff12dee1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
