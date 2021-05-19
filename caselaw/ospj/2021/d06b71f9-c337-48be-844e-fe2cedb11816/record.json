@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:8.C.85.2021.1",
+  "docket": "8 C 85/2021-16",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d06b71f9-c337-48be-844e-fe2cedb11816",
+  "source_sha256": "7d043e1e838abc8f9bfe8e321c196f7f4f3f7f66fd7ffc832b6d2444998dff86",
+  "source_id": "d06b71f9-c337-48be-844e-fe2cedb11816",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 85/2021-16",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Dana Reimannová",
+    "ecli": "ECLI:CZ:OSPJ:2021:8.C.85.2021.1",
+    "predmetRizeni": "O zaplacení 9 094 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 1820 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 180/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d06b71f9-c337-48be-844e-fe2cedb11816"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
