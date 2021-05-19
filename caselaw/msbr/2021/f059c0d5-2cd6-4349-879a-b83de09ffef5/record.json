@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.100.2021.1",
+  "docket": "21 C 100/2021-13",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f059c0d5-2cd6-4349-879a-b83de09ffef5",
+  "source_sha256": "fd1953610c148f715ac000e4b4de00e0cd66a3da26b3cc4b7f7024d41eb768fc",
+  "source_id": "f059c0d5-2cd6-4349-879a-b83de09ffef5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 100/2021-13",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.100.2021.1",
+    "predmetRizeni": "zrušení registrovaného partnerství",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-14",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f059c0d5-2cd6-4349-879a-b83de09ffef5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
