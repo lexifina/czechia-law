@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:15.C.87.2021.1",
+  "docket": "15 C 87/2021-15",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/85874c41-f01f-425f-8869-d8886c42261a",
+  "source_sha256": "947f1761e638a100b982644d7de8a08336d43e3edb2e6a50d588a1ec696f23a5",
+  "source_id": "85874c41-f01f-425f-8869-d8886c42261a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 87/2021-15",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Machačka",
+    "ecli": "ECLI:CZ:OSSY:2021:15.C.87.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 292/2013 Sb.",
+      "§ 754 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/85874c41-f01f-425f-8869-d8886c42261a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
