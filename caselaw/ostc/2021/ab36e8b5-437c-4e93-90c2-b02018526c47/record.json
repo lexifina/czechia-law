@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:3.C.222.2019.1",
+  "docket": "3 C 222/2019-47",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab36e8b5-437c-4e93-90c2-b02018526c47",
+  "source_sha256": "465fcf250308b1ee92af62613961a933ef1b2185ae2e75c9250bee195e670b8f",
+  "source_id": "ab36e8b5-437c-4e93-90c2-b02018526c47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 222/2019-47",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Šárka Dvořáková",
+    "ecli": "ECLI:CZ:OSTC:2021:3.C.222.2019.1",
+    "predmetRizeni": "o zaplacení částky [číslo] s přísl.",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-08-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozůstalost",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 491 z. č. 513/91 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab36e8b5-437c-4e93-90c2-b02018526c47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
