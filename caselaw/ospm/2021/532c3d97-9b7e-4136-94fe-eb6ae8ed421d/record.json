@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:28.C.70.2021.1",
+  "docket": "28 C 70/2021-77",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/532c3d97-9b7e-4136-94fe-eb6ae8ed421d",
+  "source_sha256": "f29ac0dda078c66313d6176d7f3b8bd667cb835119c890c3a265c666042e30fb",
+  "source_id": "532c3d97-9b7e-4136-94fe-eb6ae8ed421d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 70/2021-77",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Kateřina Auterská šašková",
+    "ecli": "ECLI:CZ:OSPM:2021:28.C.70.2021.1",
+    "predmetRizeni": "o zaplacení částky ve výši 148.500 Kč s přísl.",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-08-10",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 2246 z. č. 89/2012 Sb.",
+      "§ 2218 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/532c3d97-9b7e-4136-94fe-eb6ae8ed421d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
