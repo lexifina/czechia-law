@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:3.C.49.2021.1",
+  "docket": "3 C 49/2021-15",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/00ac7214-22f3-44bf-b217-6ab5b6098407",
+  "source_sha256": "d73a6000a432d1fa42f9f70158e28e8c6d81b83534cadb1cc0d09aa7fb739c0a",
+  "source_id": "00ac7214-22f3-44bf-b217-6ab5b6098407",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 49/2021-15",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Ing. David Novotný",
+    "ecli": "ECLI:CZ:OSJE:2021:3.C.49.2021.1",
+    "predmetRizeni": "3 768 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/00ac7214-22f3-44bf-b217-6ab5b6098407"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
