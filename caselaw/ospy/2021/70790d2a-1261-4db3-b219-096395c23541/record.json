@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:24.C.169.2021.1",
+  "docket": "24 C 169/2021-15",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70790d2a-1261-4db3-b219-096395c23541",
+  "source_sha256": "e2f5bcda9970bee627d9b8be3ac8a565104eae06f1179d70324073ac4d9083dc",
+  "source_id": "70790d2a-1261-4db3-b219-096395c23541",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 169/2021-15",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Hana Zdeňková",
+    "ecli": "ECLI:CZ:OSPY:2021:24.C.169.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-10-05",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70790d2a-1261-4db3-b219-096395c23541"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
