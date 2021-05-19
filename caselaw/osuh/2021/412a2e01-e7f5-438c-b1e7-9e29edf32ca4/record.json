@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:3.C.24.2021.1",
+  "docket": "3 C 24/2021-39",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/412a2e01-e7f5-438c-b1e7-9e29edf32ca4",
+  "source_sha256": "c70bb80a418d2118daa7e0dc92ea1ac055846ee9907188dd6a26aef88dff7b75",
+  "source_id": "412a2e01-e7f5-438c-b1e7-9e29edf32ca4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 24/2021-39",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Zuzana Matulová",
+    "ecli": "ECLI:CZ:OSUH:2021:3.C.24.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-11-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 124 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/412a2e01-e7f5-438c-b1e7-9e29edf32ca4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
