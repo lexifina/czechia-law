@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:6.C.28.2021.1",
+  "docket": "6 C 28/2021-21",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/496d32a4-8df4-4d4f-8dd9-9fcaf648ee64",
+  "source_sha256": "e95a331d4c4740917004746b045c0dc131c683e6c09fece155646748076f93de",
+  "source_id": "496d32a4-8df4-4d4f-8dd9-9fcaf648ee64",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 28/2021-21",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "JUDr. Ivan Jordán",
+    "ecli": "ECLI:CZ:OSKM:2021:6.C.28.2021.1",
+    "predmetRizeni": "stanovení výživného",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "nájem domu",
+      "příspěvek na bydlení",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 911 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/496d32a4-8df4-4d4f-8dd9-9fcaf648ee64"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
