@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:6.C.365.2020.1",
+  "docket": "6 C 365/2020",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b68a01c-97cc-427e-9e91-d312ba515b97",
+  "source_sha256": "6a4bcb5111c3f75f72d168bfcf8bd8da640423b57193bc8dbc3e03572baee6de",
+  "source_id": "0b68a01c-97cc-427e-9e91-d312ba515b97",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 365/2020",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Zuzana Barochová",
+    "ecli": "ECLI:CZ:OSPH06:2021:6.C.365.2020.1",
+    "predmetRizeni": "o určení",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-11-03",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b68a01c-97cc-427e-9e91-d312ba515b97"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
