@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:8.C.4.2021.1",
+  "docket": "8 C 4/2021-36",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/387dc1e2-ac9f-4708-bdcd-aa69d6b564af",
+  "source_sha256": "7c22e9235ec3b0f224424e7eaac022cf40d391e21e480223c6d7b4c69d37f600",
+  "source_id": "387dc1e2-ac9f-4708-bdcd-aa69d6b564af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 4/2021-36",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Dana Malechová",
+    "ecli": "ECLI:CZ:OSPV:2021:8.C.4.2021.1",
+    "predmetRizeni": "O zaplacení 1.068,99 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-09-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/387dc1e2-ac9f-4708-bdcd-aa69d6b564af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
