@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:10.C.31.2021.1",
+  "docket": "10 C 31/2021-31",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a183c77b-12d4-4b89-9990-07df03e11cdd",
+  "source_sha256": "5bc84e357588d1d0dee3c898e9da749eaa6ec9a2c351caf82353587a55e6de74",
+  "source_id": "a183c77b-12d4-4b89-9990-07df03e11cdd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 31/2021-31",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Mgr. Aleš Vylam",
+    "ecli": "ECLI:CZ:OSVY:2021:10.C.31.2021.1",
+    "predmetRizeni": "zaplacení částky 907 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2861 z. č. 89/2012 Sb.",
+      "§ 2867 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a183c77b-12d4-4b89-9990-07df03e11cdd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
