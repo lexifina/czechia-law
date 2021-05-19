@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:20.C.56.2021.1",
+  "docket": "20 C 56/2021-27",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/99087c9e-d546-4e37-b772-689b0cef166f",
+  "source_sha256": "79c423dae92407bab557317229dd3fbc79b7bc31621ccc8cc3abf6b8ddd7a07f",
+  "source_id": "99087c9e-d546-4e37-b772-689b0cef166f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 56/2021-27",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Jan Jirásek, Ph.D.",
+    "ecli": "ECLI:CZ:OSJI:2021:20.C.56.2021.1",
+    "predmetRizeni": "o 6 692 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/99087c9e-d546-4e37-b772-689b0cef166f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
