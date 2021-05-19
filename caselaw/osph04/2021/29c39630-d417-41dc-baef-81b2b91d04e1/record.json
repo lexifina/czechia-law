@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:19.C.112.2021.1",
+  "docket": "19 C 112/2021",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/29c39630-d417-41dc-baef-81b2b91d04e1",
+  "source_sha256": "c8d50e6bed2fa248bd54ebdde6e22d65280caf199a733a862a5ea689dab8e521",
+  "source_id": "29c39630-d417-41dc-baef-81b2b91d04e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 112/2021",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Michal Průžek",
+    "ecli": "ECLI:CZ:OSPH04:2021:19.C.112.2021.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/29c39630-d417-41dc-baef-81b2b91d04e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
