@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:34.C.75.2021.2",
+  "docket": "34 C 75/2021-16",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/20f0ceb7-dab2-4958-a9ce-20da9a2c290f",
+  "source_sha256": "8cee00cadce98943f4b920f1646f178d89689e3c0d2cfc1e8dc47e43cacb0854",
+  "source_id": "20f0ceb7-dab2-4958-a9ce-20da9a2c290f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 75/2021-16",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Eva Červenková",
+    "ecli": "ECLI:CZ:OSCL:2021:34.C.75.2021.2",
+    "predmetRizeni": "O zaplacení 2 243 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/20f0ceb7-dab2-4958-a9ce-20da9a2c290f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
