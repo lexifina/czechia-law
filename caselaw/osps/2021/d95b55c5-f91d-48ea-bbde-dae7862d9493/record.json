@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:25.C.37.2021.2",
+  "docket": "25 C 37/2021-16",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d95b55c5-f91d-48ea-bbde-dae7862d9493",
+  "source_sha256": "0107ddda716252035d18d7db03ac641e6f5b01ad940933789452fb6ceebbdb09",
+  "source_id": "d95b55c5-f91d-48ea-bbde-dae7862d9493",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 37/2021-16",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPS:2021:25.C.37.2021.2",
+    "predmetRizeni": "16 000 Kč s přísl.",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d95b55c5-f91d-48ea-bbde-dae7862d9493"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
