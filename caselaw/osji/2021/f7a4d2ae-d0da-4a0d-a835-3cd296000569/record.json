@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:20.C.28.2021.1",
+  "docket": "20 C 28/2021-23",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7a4d2ae-d0da-4a0d-a835-3cd296000569",
+  "source_sha256": "8d2e4f3375f4967bdcdb04ac424f971bc33e857f81d5e682ea36200aba7c9705",
+  "source_id": "f7a4d2ae-d0da-4a0d-a835-3cd296000569",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 28/2021-23",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Jan Jirásek, Ph.D.",
+    "ecli": "ECLI:CZ:OSJI:2021:20.C.28.2021.1",
+    "predmetRizeni": "o 1 510 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "jízdné",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7a4d2ae-d0da-4a0d-a835-3cd296000569"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
