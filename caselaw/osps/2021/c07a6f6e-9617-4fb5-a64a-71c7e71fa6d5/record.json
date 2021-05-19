@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.416.2020.3",
+  "docket": "4 C 416/2020-42",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c07a6f6e-9617-4fb5-a64a-71c7e71fa6d5",
+  "source_sha256": "4d3c1dbdd8b4c137085b47d15baade5659f67706165e1567662f3ab395f85b5b",
+  "source_id": "c07a6f6e-9617-4fb5-a64a-71c7e71fa6d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 416/2020-42",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.416.2020.3",
+    "predmetRizeni": "3 969,85 Kč s přísl.",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c07a6f6e-9617-4fb5-a64a-71c7e71fa6d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
