@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:46.C.46.2021.2",
+  "docket": "46 C 46/2021-41",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ace8e286-95b1-4ad8-9607-9ac392f956cc",
+  "source_sha256": "4e9a302f87713adee20d023a65e80ad7fa7ed0384025ba08406b84fa4b30ec2b",
+  "source_id": "ace8e286-95b1-4ad8-9607-9ac392f956cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 46/2021-41",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Benešová",
+    "ecli": "ECLI:CZ:OSMO:2021:46.C.46.2021.2",
+    "predmetRizeni": "2 237,09 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 50l z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ace8e286-95b1-4ad8-9607-9ac392f956cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
