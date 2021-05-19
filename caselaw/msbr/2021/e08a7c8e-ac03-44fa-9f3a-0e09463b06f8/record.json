@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:46.C.197.2019.1",
+  "docket": "46 C 197/2019-102",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e08a7c8e-ac03-44fa-9f3a-0e09463b06f8",
+  "source_sha256": "de032a40b42a0b8fbcecd9aa3ce4d1060835a1b270bbd9d7dec06ffeae74ce44",
+  "source_id": "e08a7c8e-ac03-44fa-9f3a-0e09463b06f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 197/2019-102",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Kamila Krausová",
+    "ecli": "ECLI:CZ:MSBR:2021:46.C.197.2019.1",
+    "predmetRizeni": "zrušení usnesení o schválení smíru",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smír"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e08a7c8e-ac03-44fa-9f3a-0e09463b06f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
