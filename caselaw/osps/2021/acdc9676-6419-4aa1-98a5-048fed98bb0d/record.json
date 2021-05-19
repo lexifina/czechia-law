@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:25.C.40.2021.2",
+  "docket": "25 C 40/2021-14",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/acdc9676-6419-4aa1-98a5-048fed98bb0d",
+  "source_sha256": "f66447b2fecdde65c7adf825fb945555e8ffb034322b13e7ffc64288fc3ef145",
+  "source_id": "acdc9676-6419-4aa1-98a5-048fed98bb0d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 40/2021-14",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPS:2021:25.C.40.2021.2",
+    "predmetRizeni": "2 571 Kč s přísl.",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2782/1 z. č. 89/2012 Sb.",
+      "§ 12/1c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/acdc9676-6419-4aa1-98a5-048fed98bb0d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
