@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:4.C.227.2019.1",
+  "docket": "4 C 227/2019-153",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b836fa28-a3e3-4028-8500-d780df8d5bec",
+  "source_sha256": "9fd73f48bbfcaee6f6cd908969bed54be425f9a84bbfdb6a0bf44c2516b4908b",
+  "source_id": "b836fa28-a3e3-4028-8500-d780df8d5bec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 227/2019-153",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Michala Dvořáková",
+    "ecli": "ECLI:CZ:OSPH05:2021:4.C.227.2019.1",
+    "predmetRizeni": "o zrušení a vypořádání spoluvlastnictví,",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "podílové spoluvlastnictví",
+      "přikázání věci",
+      "spoluvlastnictví",
+      "znalecký posudek",
+      "zrušení spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 99/1963 Sb.",
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1141 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b836fa28-a3e3-4028-8500-d780df8d5bec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
