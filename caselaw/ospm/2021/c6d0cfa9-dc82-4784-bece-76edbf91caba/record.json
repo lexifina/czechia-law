@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:12.C.27.2021.1",
+  "docket": "12 C 27/2021-38",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6d0cfa9-dc82-4784-bece-76edbf91caba",
+  "source_sha256": "4007c564bea6c4194071818b61bdc3cc113385e34da32b8da1ca70ac6f799514",
+  "source_id": "c6d0cfa9-dc82-4784-bece-76edbf91caba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 27/2021-38",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jan Špalek",
+    "ecli": "ECLI:CZ:OSPM:2021:12.C.27.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-08-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6d0cfa9-dc82-4784-bece-76edbf91caba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
