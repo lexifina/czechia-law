@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:3.C.150.2020.1",
+  "docket": "3 C 150/2020-113",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d4c3de4-59d2-4e37-b342-7793cee0195b",
+  "source_sha256": "bd803a0ecc71879b93822dfae2bef03d6ca20d0e2158fd23e1c9f26891c1ebc8",
+  "source_id": "9d4c3de4-59d2-4e37-b342-7793cee0195b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 150/2020-113",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Šárka Dvořáková",
+    "ecli": "ECLI:CZ:OSTC:2021:3.C.150.2020.1",
+    "predmetRizeni": "O zaplacení 45 481 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-09-24",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "nájem prostoru sloužícího k podnikání",
+      "pasivní legitimace",
+      "podnájem",
+      "poplatek z prodlení",
+      "smlouva nájemní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 639 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d4c3de4-59d2-4e37-b342-7793cee0195b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
