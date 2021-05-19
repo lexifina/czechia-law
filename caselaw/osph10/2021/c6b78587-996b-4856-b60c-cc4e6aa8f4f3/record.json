@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:9.C.134.2020.1",
+  "docket": "9 C 134/2020-48",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6b78587-996b-4856-b60c-cc4e6aa8f4f3",
+  "source_sha256": "7c11f5b278d8a46fa518e9e0808746ed82fbf2d6bec603b62ad4f28a545a72a4",
+  "source_id": "c6b78587-996b-4856-b60c-cc4e6aa8f4f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 134/2020-48",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Olga Lenochová",
+    "ecli": "ECLI:CZ:OSPH10:2021:9.C.134.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-09-27",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "smlouva pracovní",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6b78587-996b-4856-b60c-cc4e6aa8f4f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
