@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:26.C.299.2020.1",
+  "docket": "26 C 299/2020-13",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ce3f8b6-b547-4357-8ce7-12e256af0989",
+  "source_sha256": "c711345fc36df3fbf67c7085ec37a03cc60c96f8e8b369f16318c78d6472cf05",
+  "source_id": "8ce3f8b6-b547-4357-8ce7-12e256af0989",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 299/2020-13",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Vladimír Tománek",
+    "ecli": "ECLI:CZ:OSOP:2021:26.C.299.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ce3f8b6-b547-4357-8ce7-12e256af0989"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
