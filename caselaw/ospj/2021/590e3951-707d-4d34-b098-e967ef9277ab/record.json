@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:8.C.352.2020.1",
+  "docket": "8 C 352/2020-60",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/590e3951-707d-4d34-b098-e967ef9277ab",
+  "source_sha256": "ae84b0958989a08681210e16a4a3e2fcc13c62cb4cc9c2f5538ad2d34e8bb4d2",
+  "source_id": "590e3951-707d-4d34-b098-e967ef9277ab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 352/2020-60",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Dana Reimannová",
+    "ecli": "ECLI:CZ:OSPJ:2021:8.C.352.2020.1",
+    "predmetRizeni": "žaloba na vyklizení nemovitosti - bytu",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-08-26",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 2225 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 209/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/590e3951-707d-4d34-b098-e967ef9277ab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
