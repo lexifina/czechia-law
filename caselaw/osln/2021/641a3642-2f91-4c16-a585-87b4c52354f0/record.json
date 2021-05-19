@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:1.C.264.2020.1",
+  "docket": "1 C 264/2020-74",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/641a3642-2f91-4c16-a585-87b4c52354f0",
+  "source_sha256": "f506f4e17029147355f0d9124254d8c95534890868d2597c04cb6835415cf0ed",
+  "source_id": "641a3642-2f91-4c16-a585-87b4c52354f0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 264/2020-74",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Vyskočilová",
+    "ecli": "ECLI:CZ:OSLN:2021:1.C.264.2020.1",
+    "predmetRizeni": "O zaplacení 37 638 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/641a3642-2f91-4c16-a585-87b4c52354f0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
