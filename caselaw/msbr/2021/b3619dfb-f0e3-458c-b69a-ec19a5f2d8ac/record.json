@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:38.C.45.2021.1",
+  "docket": "38 C 45/2021-26",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3619dfb-f0e3-458c-b69a-ec19a5f2d8ac",
+  "source_sha256": "4dff492de7bf4531123337218690965675611ac81bec933219a24b3f04c34fa5",
+  "source_id": "b3619dfb-f0e3-458c-b69a-ec19a5f2d8ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 45/2021-26",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Ivo Kadrmas",
+    "ecli": "ECLI:CZ:MSBR:2021:38.C.45.2021.1",
+    "predmetRizeni": "zaplacení 1.920 Kč s příslušenstvím - odtažení vozidla",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-10-13",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 9 z. č. 13/1997 Sb.",
+      "§ 45 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3619dfb-f0e3-458c-b69a-ec19a5f2d8ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
