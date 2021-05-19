@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:16.C.20.2021.1",
+  "docket": "16 C 20/2021-71",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c94520f1-681b-464a-a79a-571d18d1e560",
+  "source_sha256": "a877076e9c6454754a82f63de579c29c861d722c8909ea915ca382aac4c6c118",
+  "source_id": "c94520f1-681b-464a-a79a-571d18d1e560",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 20/2021-71",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Ivo Mikolajek",
+    "ecli": "ECLI:CZ:OSSY:2021:16.C.20.2021.1",
+    "predmetRizeni": "o zaplacení 39 261 Kč s přísl.",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 577 z. č. 89/2012 Sb.",
+      "§ 136 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c94520f1-681b-464a-a79a-571d18d1e560"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
