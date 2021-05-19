@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Praze",
+  "ecli": "ECLI:CZ:MSPH:2021:32.C.20.2019.1",
+  "docket": "32 C 20/2019",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c96a90dc-42dc-4a0e-8e68-353de3dd3b3b",
+  "source_sha256": "a74f69cb44ee3684bb2ab3883687caf1dfa10faef2a6d4cc139dfc9d624f3058",
+  "source_id": "c96a90dc-42dc-4a0e-8e68-353de3dd3b3b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 20/2019",
+    "soud": "Městský soud v Praze",
+    "autor": "JUDr. Filip Liška",
+    "ecli": "ECLI:CZ:MSPH:2021:32.C.20.2019.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c96a90dc-42dc-4a0e-8e68-353de3dd3b3b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
