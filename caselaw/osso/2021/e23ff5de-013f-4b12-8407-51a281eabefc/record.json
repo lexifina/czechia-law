@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:42.C.89.2021.1",
+  "docket": "42 C 89/2021-30",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e23ff5de-013f-4b12-8407-51a281eabefc",
+  "source_sha256": "8c8b4d98bc4eeec645e740bb257672c63af6c8168136895cd773b823a15d3e69",
+  "source_id": "e23ff5de-013f-4b12-8407-51a281eabefc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 89/2021-30",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Věra Voštová",
+    "ecli": "ECLI:CZ:OSSO:2021:42.C.89.2021.1",
+    "predmetRizeni": "zaplacení 4 726,53 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e23ff5de-013f-4b12-8407-51a281eabefc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
