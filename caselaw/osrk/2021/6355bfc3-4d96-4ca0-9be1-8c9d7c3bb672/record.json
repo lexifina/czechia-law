@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:6.C.46.2021.1",
+  "docket": "6 C 46/2021-57",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6355bfc3-4d96-4ca0-9be1-8c9d7c3bb672",
+  "source_sha256": "8e5103dbece6e82217d42eadec11bf0ec9f1f2d161ace6d3569d4088f84d60c1",
+  "source_id": "6355bfc3-4d96-4ca0-9be1-8c9d7c3bb672",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 46/2021-57",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. Michal Strnad",
+    "ecli": "ECLI:CZ:OSRK:2021:6.C.46.2021.1",
+    "predmetRizeni": "o zaplacení 23.986,91 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-08-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2768 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6355bfc3-4d96-4ca0-9be1-8c9d7c3bb672"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
