@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.70.2021.1",
+  "docket": "21 C 70/2021-25",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0072e5b2-b8b1-4f8a-9a15-27d7d6921086",
+  "source_sha256": "9e48a08ac5b038c9f323de3042d335465c002b0a3f0b3716d256053ddc68dd0e",
+  "source_id": "0072e5b2-b8b1-4f8a-9a15-27d7d6921086",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 70/2021-25",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.70.2021.1",
+    "predmetRizeni": "zaplacení 9.150 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0072e5b2-b8b1-4f8a-9a15-27d7d6921086"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
