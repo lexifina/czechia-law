@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.66.2021.1",
+  "docket": "21 C 66/2021-37",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2019715-d35f-4f75-b4e3-5d2483205c24",
+  "source_sha256": "b4934cf0c08099f783308dffad441e76ca2883d928c42cfc487ff8815be60011",
+  "source_id": "d2019715-d35f-4f75-b4e3-5d2483205c24",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 66/2021-37",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.66.2021.1",
+    "predmetRizeni": "zaplacení 5.500 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-09-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2085 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2118 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2019715-d35f-4f75-b4e3-5d2483205c24"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
