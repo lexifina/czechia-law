@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:9.C.177.2021.1",
+  "docket": "9 C 177/2021-20",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1907fbe-64c0-47b1-9720-ad1f6e66aeee",
+  "source_sha256": "0fc23cd15ba3b098d7cdf7a4c4aa6b3e64fdd2ef4601b853d642dd8799acbb0b",
+  "source_id": "b1907fbe-64c0-47b1-9720-ad1f6e66aeee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 177/2021-20",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jan Buchar",
+    "ecli": "ECLI:CZ:OSKH:2021:9.C.177.2021.1",
+    "predmetRizeni": "O zaplacení 1 095 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1907fbe-64c0-47b1-9720-ad1f6e66aeee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
