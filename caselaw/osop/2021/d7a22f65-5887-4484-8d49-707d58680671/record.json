@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:26.C.325.2020.1",
+  "docket": "26 C 325/2020-23",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7a22f65-5887-4484-8d49-707d58680671",
+  "source_sha256": "de9ac893edb974fcb099f81a9654282ceb1ca62776bc3d6c8acc777ed9385995",
+  "source_id": "d7a22f65-5887-4484-8d49-707d58680671",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 325/2020-23",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Vladimír Tománek",
+    "ecli": "ECLI:CZ:OSOP:2021:26.C.325.2020.1",
+    "predmetRizeni": "společný návrh na rozvod manželství",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7a22f65-5887-4484-8d49-707d58680671"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
