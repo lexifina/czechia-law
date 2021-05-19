@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:8.C.110.2021.1",
+  "docket": "8 C 110/2021",
+  "date": "2021-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/50e0aac4-5209-44af-a4ef-93ac9acdac56",
+  "source_sha256": "95389b6aa42d3aa41c8cb50d43b766c16c05488107a22517ffe345befb455d7e",
+  "source_id": "50e0aac4-5209-44af-a4ef-93ac9acdac56",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 110/2021",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Pavel Punčochář",
+    "ecli": "ECLI:CZ:OSPH07:2021:8.C.110.2021.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-05-19",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/50e0aac4-5209-44af-a4ef-93ac9acdac56"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
