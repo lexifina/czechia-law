@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:36.C.443.2020.2",
+  "docket": "36 C 443/2020-28",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5a90dc5-96ce-4549-ac63-2202cdfca160",
+  "source_sha256": "781f10f13bcafe398a7443857e091dd6b00d72228dc95aad66a428cd489da88a",
+  "source_id": "d5a90dc5-96ce-4549-ac63-2202cdfca160",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 443/2020-28",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Renáta Snášelová",
+    "ecli": "ECLI:CZ:OSOV:2021:36.C.443.2020.2",
+    "predmetRizeni": "o zaplacení 2 400 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "právní domněnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 19b z. č. 13/1997 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 1723 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5a90dc5-96ce-4549-ac63-2202cdfca160"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
