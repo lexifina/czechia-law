@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:58.C.96.2021.1",
+  "docket": "58 C 96/2021-13",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fee51f5-3c09-4a02-9abc-e0fad6119935",
+  "source_sha256": "bebd6cb2f887b27e29533641f366e755b128de2b6ab431983f57dde3f4092e5a",
+  "source_id": "2fee51f5-3c09-4a02-9abc-e0fad6119935",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "58 C 96/2021-13",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Adam Urbańczyk",
+    "ecli": "ECLI:CZ:OSOV:2021:58.C.96.2021.1",
+    "predmetRizeni": "o zaplacení 9 300 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fee51f5-3c09-4a02-9abc-e0fad6119935"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
