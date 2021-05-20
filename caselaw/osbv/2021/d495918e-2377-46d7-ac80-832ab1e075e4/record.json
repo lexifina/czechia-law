@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:6.C.181.2020.1",
+  "docket": "6 C 181/2020-15",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d495918e-2377-46d7-ac80-832ab1e075e4",
+  "source_sha256": "dfb92c864f0837901018a87b65eae994e213a541334f9ff54515bc4403d8b941",
+  "source_id": "d495918e-2377-46d7-ac80-832ab1e075e4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 181/2020-15",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Josef Mužík",
+    "ecli": "ECLI:CZ:OSBV:2021:6.C.181.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d495918e-2377-46d7-ac80-832ab1e075e4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
