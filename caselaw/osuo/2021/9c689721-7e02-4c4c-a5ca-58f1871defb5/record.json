@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:6.C.51.2020.1",
+  "docket": "6 C 51/2020-33",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c689721-7e02-4c4c-a5ca-58f1871defb5",
+  "source_sha256": "9677a3aaea074bf81308c12a85960110e6156f9e8bcefc0d75dc9f7fa112dde5",
+  "source_id": "9c689721-7e02-4c4c-a5ca-58f1871defb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 51/2020-33",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "Mgr. Stanislava Kubištová",
+    "ecli": "ECLI:CZ:OSUO:2021:6.C.51.2020.1",
+    "predmetRizeni": "O zaplacení 10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 517 nař. vl. č. 142/1994 Sb.",
+      "§ 56 z. č. 89/2012 Sb.",
+      "§ 55 z. č. 89/2012 Sb.",
+      "§ 51 z. č. 40/1964 Sb.",
+      "§ 52 z. č. 40/1964 Sb.",
+      "§ 4 z. č. 321/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c689721-7e02-4c4c-a5ca-58f1871defb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
