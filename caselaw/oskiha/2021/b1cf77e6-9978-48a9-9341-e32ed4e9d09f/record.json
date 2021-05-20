@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:106.C.133.2021.1",
+  "docket": "106 C 133/2021-46",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1cf77e6-9978-48a9-9341-e32ed4e9d09f",
+  "source_sha256": "4bf422c2bfdedd1b283efc32cf755f5fc4b25636c36a34845741a1d0e6613158",
+  "source_id": "b1cf77e6-9978-48a9-9341-e32ed4e9d09f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 133/2021-46",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Hermannová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:106.C.133.2021.1",
+    "predmetRizeni": "18 502 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 40/1964 Sb.",
+      "§ 39 z. č. 40/1964 Sb.",
+      "§ 457 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1cf77e6-9978-48a9-9341-e32ed4e9d09f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
