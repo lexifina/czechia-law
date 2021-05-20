@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:15.C.92.2021.1",
+  "docket": "15 C 92/2021",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd2ac28a-696a-4349-a25d-89ef2c5ec143",
+  "source_sha256": "9fb232fc073c26f845f14268e7d4b30ebc0397c3d2d8b98ea084c77259a85fb8",
+  "source_id": "fd2ac28a-696a-4349-a25d-89ef2c5ec143",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 92/2021",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "JUDr. Kateřina Holubová",
+    "ecli": "ECLI:CZ:OSME:2021:15.C.92.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 548 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd2ac28a-696a-4349-a25d-89ef2c5ec143"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
