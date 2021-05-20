@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:41.C.79.2021.1",
+  "docket": "41 C 79/2021-13",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5afb63eb-faaf-4bec-8345-98ee66bea14e",
+  "source_sha256": "d37ba3222cf1c0d1c493ab457fd48f010db39f0d4450de9417c9d93be61e986e",
+  "source_id": "5afb63eb-faaf-4bec-8345-98ee66bea14e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 79/2021-13",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Alice Martikánová",
+    "ecli": "ECLI:CZ:OSFM:2021:41.C.79.2021.1",
+    "predmetRizeni": "O zaplacení 2 194 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 120/2014 Sb.",
+      "§ 2758 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5afb63eb-faaf-4bec-8345-98ee66bea14e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
