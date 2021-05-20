@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:10.C.107.2021.1",
+  "docket": "10 C 107/2021-13",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c42ee20-8afe-4ebd-87e1-fcad3f902543",
+  "source_sha256": "00f2f2a0e2d7b62749ef15ecd998355af7ac7bb28954732de1d9e88d1a153e51",
+  "source_id": "8c42ee20-8afe-4ebd-87e1-fcad3f902543",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 107/2021-13",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Petr Klein",
+    "ecli": "ECLI:CZ:OSTC:2021:10.C.107.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c42ee20-8afe-4ebd-87e1-fcad3f902543"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
