@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:38.C.62.2021.1",
+  "docket": "38 C 62/2021-16",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c8ce194e-dc7a-4ec9-b0a5-f311a2b91f0a",
+  "source_sha256": "8144a5fdc55cc4bafde84c9e0a6c719c9469d025187c367bae5d09b2fefd07b6",
+  "source_id": "c8ce194e-dc7a-4ec9-b0a5-f311a2b91f0a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 62/2021-16",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Silvie Hodaňová",
+    "ecli": "ECLI:CZ:OSBU:2021:38.C.62.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c8ce194e-dc7a-4ec9-b0a5-f311a2b91f0a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
