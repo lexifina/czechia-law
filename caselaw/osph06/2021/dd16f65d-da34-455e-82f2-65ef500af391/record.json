@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:20.C.52.2021.1",
+  "docket": "20 C 52/2021-33",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd16f65d-da34-455e-82f2-65ef500af391",
+  "source_sha256": "a59943f308ca0dd45cb09c4f860d9effc7b76c10617fbd32ee08357abe097310",
+  "source_id": "dd16f65d-da34-455e-82f2-65ef500af391",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 52/2021-33",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Donka Vocetková",
+    "ecli": "ECLI:CZ:OSPH06:2021:20.C.52.2021.1",
+    "predmetRizeni": "o zaplacení částky 675 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-11-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 5 z. č. 252/1994 Sb.",
+      "§ 7 z. č. 252/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd16f65d-da34-455e-82f2-65ef500af391"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
