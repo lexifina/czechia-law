@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:7.C.117.2021.1",
+  "docket": "7 C 117/2021-14",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9e9219ad-c88b-4a88-a440-71303df1980c",
+  "source_sha256": "f2474ff87ab8a09b9d13e55889d8b8f44553627b7d2d37476a4dd564e4a93a1e",
+  "source_id": "9e9219ad-c88b-4a88-a440-71303df1980c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 117/2021-14",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Jitka Nováková",
+    "ecli": "ECLI:CZ:OSPU:2021:7.C.117.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "podnájem"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9e9219ad-c88b-4a88-a440-71303df1980c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
