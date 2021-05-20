@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:18.C.105.2021.1",
+  "docket": "18 C 105/2021-11",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed7b0654-0d58-48c2-8835-6bfe131f411e",
+  "source_sha256": "663601691ff9d316e6ff4d230ccaf47536f59b15a214d59b7311bc295c6f0c10",
+  "source_id": "ed7b0654-0d58-48c2-8835-6bfe131f411e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 105/2021-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jaroslav Sosík",
+    "ecli": "ECLI:CZ:OSNJ:2021:18.C.105.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "odpovědnost za škodu způsobenou provozem dopravních prostředků",
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed7b0654-0d58-48c2-8835-6bfe131f411e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
