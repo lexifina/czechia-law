@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:54.C.58.2021.1",
+  "docket": "54 C 58/2021-21",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/baa6a661-bcf8-4ea9-a32d-bbe2b5413707",
+  "source_sha256": "51b7bdb1c6aa0a9fca81a55847249f5e39a04c5f24645006f8743f0e135495c7",
+  "source_id": "baa6a661-bcf8-4ea9-a32d-bbe2b5413707",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 58/2021-21",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Daniela Schwarzová",
+    "ecli": "ECLI:CZ:MSBR:2021:54.C.58.2021.1",
+    "predmetRizeni": "zaplacení 44.580 Kč s příslušenstvím - nájemné",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/baa6a661-bcf8-4ea9-a32d-bbe2b5413707"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
