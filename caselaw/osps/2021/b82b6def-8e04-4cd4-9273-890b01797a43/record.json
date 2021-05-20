@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:3.C.67.2021.2",
+  "docket": "3 C 67/2021-13",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b82b6def-8e04-4cd4-9273-890b01797a43",
+  "source_sha256": "9fc0cf56ccb0b23aa9cc1fb319a2671fe84576cd1f608bdf7ef3e52a71213e88",
+  "source_id": "b82b6def-8e04-4cd4-9273-890b01797a43",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 67/2021-13",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Tereza Andrlová",
+    "ecli": "ECLI:CZ:OSPS:2021:3.C.67.2021.2",
+    "predmetRizeni": "1 731 Kč s přísl.",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b82b6def-8e04-4cd4-9273-890b01797a43"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
