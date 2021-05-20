@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:8.C.216.2020.1",
+  "docket": "8 C 216/2020",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31bd926e-8e6a-4d78-8981-aa9ca063463b",
+  "source_sha256": "94ec04c94622d1de002a53d82374eb59e8662310032a8a2dec9081ed7d718017",
+  "source_id": "31bd926e-8e6a-4d78-8981-aa9ca063463b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 216/2020",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2021:8.C.216.2020.1",
+    "predmetRizeni": "zaplacení 3 267,20 Kč s přísl.",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "doménové jméno",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31bd926e-8e6a-4d78-8981-aa9ca063463b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
