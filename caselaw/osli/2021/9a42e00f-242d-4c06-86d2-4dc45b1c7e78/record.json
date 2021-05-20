@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.52.2021.1",
+  "docket": "17 C 52/2021-17",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9a42e00f-242d-4c06-86d2-4dc45b1c7e78",
+  "source_sha256": "a537cdbbd5f9f9f2b83949fc54daef656c767b8272135b8b4bfeafd16e7ff8dc",
+  "source_id": "9a42e00f-242d-4c06-86d2-4dc45b1c7e78",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 52/2021-17",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.52.2021.1",
+    "predmetRizeni": "zaplacení částky 4.080,00 Kč s přísl.",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9a42e00f-242d-4c06-86d2-4dc45b1c7e78"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
