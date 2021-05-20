@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:42.C.167.2021.1",
+  "docket": "42 C 167/2021-24",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec730688-e5d8-465b-8411-b7098f1c82db",
+  "source_sha256": "e154357441f193ee11575419eb97da40fd58856ba22f49a521f7a37b7530b1f7",
+  "source_id": "ec730688-e5d8-465b-8411-b7098f1c82db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 167/2021-24",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Radovan Kulhánek",
+    "ecli": "ECLI:CZ:OSPH04:2021:42.C.167.2021.1",
+    "predmetRizeni": "O zaplacení 2 317 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-08-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec730688-e5d8-465b-8411-b7098f1c82db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
