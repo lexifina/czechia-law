@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:33.C.178.2020.4",
+  "docket": "33 C 178/2020-51",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c45a11e1-ee32-4caa-be39-ab04b68d5427",
+  "source_sha256": "ea20d8de70e575d01bfaaaad47a59aa5551be6c4b75e8b7a13d2ffd54c47caf7",
+  "source_id": "c45a11e1-ee32-4caa-be39-ab04b68d5427",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 178/2020-51",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Petr Blažej",
+    "ecli": "ECLI:CZ:OSUL:2021:33.C.178.2020.4",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "oddlužení",
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb.",
+      "§ 12a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c45a11e1-ee32-4caa-be39-ab04b68d5427"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
