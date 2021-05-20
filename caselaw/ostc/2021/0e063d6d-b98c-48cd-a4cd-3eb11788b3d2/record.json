@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:3.C.61.2021.1",
+  "docket": "3 C 61/2021-43",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e063d6d-b98c-48cd-a4cd-3eb11788b3d2",
+  "source_sha256": "f5afddf44dbe452977b83a9cb9d4274736b83b0ef32cafcf7074c0a4f666b000",
+  "source_id": "0e063d6d-b98c-48cd-a4cd-3eb11788b3d2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 61/2021-43",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Šárka Dvořáková",
+    "ecli": "ECLI:CZ:OSTC:2021:3.C.61.2021.1",
+    "predmetRizeni": "O zaplacení 24 430 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 114 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e063d6d-b98c-48cd-a4cd-3eb11788b3d2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
