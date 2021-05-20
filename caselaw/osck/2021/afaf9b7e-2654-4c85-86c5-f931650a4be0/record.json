@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:9.C.308.2020.8",
+  "docket": "9 C 308/2020-42",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/afaf9b7e-2654-4c85-86c5-f931650a4be0",
+  "source_sha256": "9424edf0d45ce497b6fe6afa1b6090c12ce9232de7debb1db4a70270efecdb24",
+  "source_id": "afaf9b7e-2654-4c85-86c5-f931650a4be0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 308/2020-42",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "Mgr. František Strouha",
+    "ecli": "ECLI:CZ:OSCK:2021:9.C.308.2020.8",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-10-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 2 nař. vl. č. 351/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/afaf9b7e-2654-4c85-86c5-f931650a4be0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
