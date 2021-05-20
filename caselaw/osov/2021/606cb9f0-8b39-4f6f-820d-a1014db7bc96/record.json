@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:80.C.67.2021.3",
+  "docket": "80 C 67/2021-28",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/606cb9f0-8b39-4f6f-820d-a1014db7bc96",
+  "source_sha256": "9fd214b724769f0bcfd451016c01bac3923fddde5d399530bb25d69d62fbdd39",
+  "source_id": "606cb9f0-8b39-4f6f-820d-a1014db7bc96",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "80 C 67/2021-28",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Hana Králová",
+    "ecli": "ECLI:CZ:OSOV:2021:80.C.67.2021.3",
+    "predmetRizeni": "o zaplacení 1 872 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-10-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/606cb9f0-8b39-4f6f-820d-a1014db7bc96"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
