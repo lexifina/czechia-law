@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:22.C.238.2019.3",
+  "docket": "22 C 238/2019-147",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c61dda4b-2dfe-43d1-8185-eb9195ef1134",
+  "source_sha256": "835f511ed4d4ae4cb68d48bf0ead8d3fea32057d8553cf233f198d670e1783b5",
+  "source_id": "c61dda4b-2dfe-43d1-8185-eb9195ef1134",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 238/2019-147",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jan Maruška",
+    "ecli": "ECLI:CZ:OSPH08:2021:22.C.238.2019.3",
+    "predmetRizeni": "o zaplacení 26 755,29 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 43/2013 Sb.",
+      "§ 420 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c61dda4b-2dfe-43d1-8185-eb9195ef1134"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
