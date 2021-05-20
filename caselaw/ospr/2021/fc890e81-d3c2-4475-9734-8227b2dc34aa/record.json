@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:10.C.75.2019.1",
+  "docket": "10 C 75/2019-151",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc890e81-d3c2-4475-9734-8227b2dc34aa",
+  "source_sha256": "01d20de8928b3d4d4cf729c1c6a76974553a1608acd8993539c9849c1ffd5733",
+  "source_id": "fc890e81-d3c2-4475-9734-8227b2dc34aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 75/2019-151",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2021:10.C.75.2019.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.- vyplacení osobního příplatku,",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 112 z. č. 262/2006 Sb.",
+      "§ 134 z. č. 262/2006 Sb.",
+      "§ 3 z. č. 251/2005 Sb.",
+      "§ 131 z. č. 262/2006 Sb.",
+      "§ 136 z. č. 262/2006 Sb.",
+      "§  nař. vl. č. 278/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc890e81-d3c2-4475-9734-8227b2dc34aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
