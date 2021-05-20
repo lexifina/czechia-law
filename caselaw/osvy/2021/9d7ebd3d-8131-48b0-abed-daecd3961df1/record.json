@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.115.2020.1",
+  "docket": "7 C 115/2020-24",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d7ebd3d-8131-48b0-abed-daecd3961df1",
+  "source_sha256": "0a2e0d6e5ff02bc33d41ff6a283dafd2b6f8dd16193d1fd9611f5b82b019a1be",
+  "source_id": "9d7ebd3d-8131-48b0-abed-daecd3961df1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 115/2020-24",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.115.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d7ebd3d-8131-48b0-abed-daecd3961df1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
