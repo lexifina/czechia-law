@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:3.C.68.2021.2",
+  "docket": "3 C 68/2021-12",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8bba0eba-9db2-4c62-be83-9813cc491af0",
+  "source_sha256": "6f054b0da4dc1aafd9c3d888ecf4ffa06562f489c87da24e429192298f7d000a",
+  "source_id": "8bba0eba-9db2-4c62-be83-9813cc491af0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 68/2021-12",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Tereza Andrlová",
+    "ecli": "ECLI:CZ:OSPS:2021:3.C.68.2021.2",
+    "predmetRizeni": "2 089,63 Kč s přísl.",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o přepravě věci",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1721 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8bba0eba-9db2-4c62-be83-9813cc491af0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
