@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:11.C.176.2020.1",
+  "docket": "11 C 176/2020-63",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96a6a11e-00c4-4e6f-beae-4e8b8a84e3f2",
+  "source_sha256": "c204c5ac065fd56adb75e1796f58c19db0ae383f409ad996f055b674c4c3e429",
+  "source_id": "96a6a11e-00c4-4e6f-beae-4e8b8a84e3f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 176/2020-63",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Pavla Kohoutková",
+    "ecli": "ECLI:CZ:OSVY:2021:11.C.176.2020.1",
+    "predmetRizeni": "zaplacení částky 20 090 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 420 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 562 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96a6a11e-00c4-4e6f-beae-4e8b8a84e3f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
