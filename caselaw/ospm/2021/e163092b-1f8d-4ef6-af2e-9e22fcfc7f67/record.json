@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:38.C.250.2020.1",
+  "docket": "38 C 250/2020",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e163092b-1f8d-4ef6-af2e-9e22fcfc7f67",
+  "source_sha256": "cc138354c75fa8e0c8e64891c980d48c3d6c7cffb4bc7f9126d52f33890dee4e",
+  "source_id": "e163092b-1f8d-4ef6-af2e-9e22fcfc7f67",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 250/2020",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Alena Chaloupková",
+    "ecli": "ECLI:CZ:OSPM:2021:38.C.250.2020.1",
+    "predmetRizeni": "O zaplacení 1 246,37 Kč",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "smlouva kupní",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e163092b-1f8d-4ef6-af2e-9e22fcfc7f67"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
