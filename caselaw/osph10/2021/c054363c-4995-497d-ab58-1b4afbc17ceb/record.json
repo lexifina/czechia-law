@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:46.C.117.2021.1",
+  "docket": "46 C 117/2021-19",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c054363c-4995-497d-ab58-1b4afbc17ceb",
+  "source_sha256": "4890cd47a2c9733b9e74037eebfb6e0313f759433d969ee849376de1bd1338ba",
+  "source_id": "c054363c-4995-497d-ab58-1b4afbc17ceb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 117/2021-19",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Helena Kolbabová",
+    "ecli": "ECLI:CZ:OSPH10:2021:46.C.117.2021.1",
+    "predmetRizeni": "[částka]",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 65 z. č. 127/2005 Sb.",
+      "§ 544 z. č. 40/1964 Sb.",
+      "§ 671 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c054363c-4995-497d-ab58-1b4afbc17ceb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
