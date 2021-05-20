@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:7.C.115.2021.1",
+  "docket": "7 C 115/2021-34",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/04518ac5-8d4e-41e8-a082-6a88217466a2",
+  "source_sha256": "af78d397400296bf100f38dcd9d538f803b8702e44749664d4a9b82251017395",
+  "source_id": "04518ac5-8d4e-41e8-a082-6a88217466a2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 115/2021-34",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Jitka Nováková",
+    "ecli": "ECLI:CZ:OSPU:2021:7.C.115.2021.1",
+    "predmetRizeni": "o zaplacení 8 743,88 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/04518ac5-8d4e-41e8-a082-6a88217466a2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
