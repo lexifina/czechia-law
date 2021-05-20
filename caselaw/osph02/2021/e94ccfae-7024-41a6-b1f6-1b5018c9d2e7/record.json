@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:25.C.135.2019.1",
+  "docket": "25 C 135/2019-171",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e94ccfae-7024-41a6-b1f6-1b5018c9d2e7",
+  "source_sha256": "1640d44d88556694b6c48583385a83eed7ac700108b9e6c801ff62da868ad7f5",
+  "source_id": "e94ccfae-7024-41a6-b1f6-1b5018c9d2e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 135/2019-171",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Zdeňka Burdová",
+    "ecli": "ECLI:CZ:OSPH02:2021:25.C.135.2019.1",
+    "predmetRizeni": "o zaplacení 245 006 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-12-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 55 z. č. 48/1997 Sb.",
+      "§ 6 z. č. 168/1999 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 4 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e94ccfae-7024-41a6-b1f6-1b5018c9d2e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
