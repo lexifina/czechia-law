@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.54.2021.2",
+  "docket": "30 C 54/2021-19",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c5997d8-d1c3-4237-a259-234febdc2fb5",
+  "source_sha256": "a0a7c64377677fe2212bbc96d802e20c40c9b1aee50faea00eab365514036801",
+  "source_id": "0c5997d8-d1c3-4237-a259-234febdc2fb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 54/2021-19",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.54.2021.2",
+    "predmetRizeni": "zaplacení 500 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-08-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 145/2010 Sb.",
+      "§ 1820 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c5997d8-d1c3-4237-a259-234febdc2fb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
