@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:18.C.179.2019.7",
+  "docket": "18 C 179/2019-122",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7eb0d022-8dfb-446e-aedc-624eca110246",
+  "source_sha256": "b8df1640b51d3a548bf34821ec0c1af81797123d9e48b69473fc317121af9e93",
+  "source_id": "7eb0d022-8dfb-446e-aedc-624eca110246",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 179/2019-122",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Marek Vlaškovský",
+    "ecli": "ECLI:CZ:OSOV:2021:18.C.179.2019.7",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "sleva z ceny",
+      "smlouva o dílo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2617 z. č. 89/2012 Sb.",
+      "§  z. č. 73/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7eb0d022-8dfb-446e-aedc-624eca110246"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
