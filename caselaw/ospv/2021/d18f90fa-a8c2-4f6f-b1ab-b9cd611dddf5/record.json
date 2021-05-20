@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:5.C.113.2021.1",
+  "docket": "5 C 113/2021-49",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d18f90fa-a8c2-4f6f-b1ab-b9cd611dddf5",
+  "source_sha256": "7056c9ab69317eb61bd1a8464f18aee23be380cc15829d47f64861e181e5fd6a",
+  "source_id": "d18f90fa-a8c2-4f6f-b1ab-b9cd611dddf5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 113/2021-49",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Věroslav Řezáč",
+    "ecli": "ECLI:CZ:OSPV:2021:5.C.113.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-08-06",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d18f90fa-a8c2-4f6f-b1ab-b9cd611dddf5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
