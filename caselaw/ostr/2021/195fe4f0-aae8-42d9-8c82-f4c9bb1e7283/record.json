@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:4.C.20.2021.1",
+  "docket": "4 C 20/2021-37",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/195fe4f0-aae8-42d9-8c82-f4c9bb1e7283",
+  "source_sha256": "9922482b42208d75737e19db3ce1d07cfcc560b021267d6db9caac44d49d03ff",
+  "source_id": "195fe4f0-aae8-42d9-8c82-f4c9bb1e7283",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 20/2021-37",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Radim Kostík, Ph.D.",
+    "ecli": "ECLI:CZ:OSTR:2021:4.C.20.2021.1",
+    "predmetRizeni": "zaplacení částky 8 022 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/195fe4f0-aae8-42d9-8c82-f4c9bb1e7283"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
