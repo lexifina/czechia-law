@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:109.C.35.2020.1",
+  "docket": "109 C 35/2020",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8dd089a-9db3-476c-a51c-309d08e5c292",
+  "source_sha256": "4b6c9994bf77ac5592389c0124cff9aa350a70a93b15859984f26ff7ecf224c5",
+  "source_id": "a8dd089a-9db3-476c-a51c-309d08e5c292",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 35/2020",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Jaroslava Sádovská",
+    "ecli": "ECLI:CZ:OSPU:2021:109.C.35.2020.1",
+    "predmetRizeni": "o zaplacení 17 333 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 1181 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8dd089a-9db3-476c-a51c-309d08e5c292"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
