@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:6.C.140.2021.1",
+  "docket": "6 C 140/2021-14",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e63d7b7-613e-4e5a-8c99-6fad5780fbb0",
+  "source_sha256": "c3497aa9edd2437eabcfe3180ea32c7e8ec878a26ce1c168ec5878b1170d61bf",
+  "source_id": "4e63d7b7-613e-4e5a-8c99-6fad5780fbb0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 140/2021-14",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2021:6.C.140.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-09-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e63d7b7-613e-4e5a-8c99-6fad5780fbb0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
