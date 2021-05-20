@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:104.C.14.2019.1",
+  "docket": "104 C 14/2019-167",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c282e6f8-177b-4ff6-95af-5c590748475f",
+  "source_sha256": "89830c310b3b850432029668b85d4030108f5ff35e11c9b36193834a38211368",
+  "source_id": "c282e6f8-177b-4ff6-95af-5c590748475f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "104 C 14/2019-167",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lenka Kovářová",
+    "ecli": "ECLI:CZ:MSBR:2021:104.C.14.2019.1",
+    "predmetRizeni": "určení vlastnictví",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "jmění",
+      "převod nemovitostí",
+      "smlouva darovací",
+      "vlastnictví bytů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 92 z. č. 99/1963 Sb.",
+      "§ 138 z. č. 99/1963 Sb.",
+      "§ 5 z. č. 99/1963 Sb.",
+      "§ 15a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c282e6f8-177b-4ff6-95af-5c590748475f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
