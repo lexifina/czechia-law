@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:13.C.90.2021.2",
+  "docket": "13 C 90/2021-22",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/35757201-9fbe-4c5f-b4d1-6c067a81f188",
+  "source_sha256": "dc955c17824cfc06ef4f5e4885118e11300300ff8d6f124e88cfbff76ea6851d",
+  "source_id": "35757201-9fbe-4c5f-b4d1-6c067a81f188",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 90/2021-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2021:13.C.90.2021.2",
+    "predmetRizeni": "1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 45 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/35757201-9fbe-4c5f-b4d1-6c067a81f188"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
