@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:71.C.251.2018.1",
+  "docket": "71 C 251/2018-48",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dc965e3d-d3b3-4e06-a59f-6fd986894110",
+  "source_sha256": "4baad07d705c74dc3799a31898450d78182501976f940e5caa13e3c05cd2a8e8",
+  "source_id": "dc965e3d-d3b3-4e06-a59f-6fd986894110",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "71 C 251/2018-48",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSUL:2021:71.C.251.2018.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-10-26",
+    "klicovaSlova": [
+      "oddlužení",
+      "smlouva o zápůjčce",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dc965e3d-d3b3-4e06-a59f-6fd986894110"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
