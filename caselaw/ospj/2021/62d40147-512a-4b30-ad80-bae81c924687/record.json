@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:11.C.5.2021.1",
+  "docket": "11 C 5/2021-50",
+  "date": "2021-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62d40147-512a-4b30-ad80-bae81c924687",
+  "source_sha256": "e6c1547871e58203e02dfbc80f572e88e583f57afdcb0831e9e11cc3c6f43e09",
+  "source_id": "62d40147-512a-4b30-ad80-bae81c924687",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 5/2021-50",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "Mgr. Markéta Kryslová",
+    "ecli": "ECLI:CZ:OSPJ:2021:11.C.5.2021.1",
+    "predmetRizeni": "O zaplacení 68 050 Kč s příslušenstvím",
+    "datumVydani": "2021-05-20",
+    "datumZverejneni": "2021-08-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 576 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62d40147-512a-4b30-ad80-bae81c924687"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
