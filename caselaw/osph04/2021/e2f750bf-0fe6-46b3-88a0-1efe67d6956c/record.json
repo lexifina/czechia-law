@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:38.C.156.2021.1",
+  "docket": "38 C 156/2021-21",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e2f750bf-0fe6-46b3-88a0-1efe67d6956c",
+  "source_sha256": "e94b467276814491e33ff0b3a79a92d2ed8e59f222e6116c9978c8406518c0f8",
+  "source_id": "e2f750bf-0fe6-46b3-88a0-1efe67d6956c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 156/2021-21",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Ing. Lumír Hodina",
+    "ecli": "ECLI:CZ:OSPH04:2021:38.C.156.2021.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-09-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e2f750bf-0fe6-46b3-88a0-1efe67d6956c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
