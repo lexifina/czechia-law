@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:7.C.419.2020.1",
+  "docket": "7 C 419/2020-32",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f00a849e-42be-42c3-a847-b0b5b5db1c46",
+  "source_sha256": "ee9906a5cd5270002991f3634072f015923dac475e4e406d9d2f197db8468d27",
+  "source_id": "f00a849e-42be-42c3-a847-b0b5b5db1c46",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 419/2020-32",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2021:7.C.419.2020.1",
+    "predmetRizeni": "O zaplacení 15 060 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-08-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f00a849e-42be-42c3-a847-b0b5b5db1c46"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
