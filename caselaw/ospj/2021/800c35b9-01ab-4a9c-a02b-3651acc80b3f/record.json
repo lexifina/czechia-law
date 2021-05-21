@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:11.C.55.2021.1",
+  "docket": "11 C 55/2021-23",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/800c35b9-01ab-4a9c-a02b-3651acc80b3f",
+  "source_sha256": "3c59fb61c319475362322d348b5a02cf0b089cd581b13cff568a126cb7f8cf26",
+  "source_id": "800c35b9-01ab-4a9c-a02b-3651acc80b3f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 55/2021-23",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "Mgr. Markéta Kryslová",
+    "ecli": "ECLI:CZ:OSPJ:2021:11.C.55.2021.1",
+    "predmetRizeni": "O zaplacení 17 950 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 45 z. č. 361/2000 Sb.",
+      "§ 45 z. č. 99/1963 Sb.",
+      "§ 10 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/800c35b9-01ab-4a9c-a02b-3651acc80b3f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
