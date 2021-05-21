@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:9.C.45.2021.1",
+  "docket": "9 C 45/2021",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9cd2d0bd-f9b6-4b78-96b1-8668efe91b13",
+  "source_sha256": "8a614d4acd10d456dbfcd6745aea7ae2babfaa0863ae32d4ed5b2f7cfc585027",
+  "source_id": "9cd2d0bd-f9b6-4b78-96b1-8668efe91b13",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 45/2021",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Michal Tománek",
+    "ecli": "ECLI:CZ:OSUH:2021:9.C.45.2021.1",
+    "predmetRizeni": "629 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-11-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 89e z. č. 373/2011 Sb.",
+      "§  vyhl. č. 333/2018 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9cd2d0bd-f9b6-4b78-96b1-8668efe91b13"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
