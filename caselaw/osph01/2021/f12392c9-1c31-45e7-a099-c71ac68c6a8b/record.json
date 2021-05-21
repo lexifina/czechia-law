@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:22.C.185.2020.1",
+  "docket": "22 C 185/2020",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f12392c9-1c31-45e7-a099-c71ac68c6a8b",
+  "source_sha256": "e34479fb640141f2fc7ef81a9b0226017e0c53fbba02689f667cde891a4eaa9b",
+  "source_id": "f12392c9-1c31-45e7-a099-c71ac68c6a8b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 185/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Vránová",
+    "ecli": "ECLI:CZ:OSPH01:2021:22.C.185.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "pasivní legitimace",
+      "peněžité plnění",
+      "podjatost"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 27 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f12392c9-1c31-45e7-a099-c71ac68c6a8b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
