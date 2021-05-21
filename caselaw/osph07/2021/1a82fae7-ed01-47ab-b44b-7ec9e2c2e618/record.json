@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:30.C.112.2021.1",
+  "docket": "30 C 112/2021-12",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a82fae7-ed01-47ab-b44b-7ec9e2c2e618",
+  "source_sha256": "fcf480f49239568d4c9ae1728d303132b060db6b0579d981dd8e3c7d60066d9b",
+  "source_id": "1a82fae7-ed01-47ab-b44b-7ec9e2c2e618",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 112/2021-12",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Jan Kobera",
+    "ecli": "ECLI:CZ:OSPH07:2021:30.C.112.2021.1",
+    "predmetRizeni": "O zaplacení 1 760 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-11-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a82fae7-ed01-47ab-b44b-7ec9e2c2e618"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
