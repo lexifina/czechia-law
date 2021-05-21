@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:16.C.7.2021.1",
+  "docket": "16 C 7/2021-25",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/21667c45-9271-4316-b8da-a318f2ad42b1",
+  "source_sha256": "08265d7b2de70c23a4392d2de560ec486dac2b8c84b05e280265cccacd9091fc",
+  "source_id": "21667c45-9271-4316-b8da-a318f2ad42b1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 7/2021-25",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Irena Žaganová",
+    "ecli": "ECLI:CZ:OSKI:2021:16.C.7.2021.1",
+    "predmetRizeni": "12 301 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-07-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 499 z. č. 513/1991 Sb.",
+      "§ 263 z. č. 513/1991 Sb.",
+      "§ 544 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/21667c45-9271-4316-b8da-a318f2ad42b1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
