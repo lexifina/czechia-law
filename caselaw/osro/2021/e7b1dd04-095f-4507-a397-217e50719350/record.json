@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:11.C.160.2020.1",
+  "docket": "11 C 160/2020-28",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e7b1dd04-095f-4507-a397-217e50719350",
+  "source_sha256": "63a0d94ce7b0437736f57603a2ca0b470d298205f74086438c7c7fb8d8d27cc5",
+  "source_id": "e7b1dd04-095f-4507-a397-217e50719350",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 160/2020-28",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ing. Ivo Hruška",
+    "ecli": "ECLI:CZ:OSRO:2021:11.C.160.2020.1",
+    "predmetRizeni": "určení vlastnického práva",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-10-11",
+    "klicovaSlova": [
+      "dědění",
+      "převod vlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 140 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e7b1dd04-095f-4507-a397-217e50719350"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
