@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:24.C.236.2020.2",
+  "docket": "24 C 236/2020-33",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/614e2f9e-70ff-4dcd-b829-5224ee8331fd",
+  "source_sha256": "e2a38e234db0fbb2970a05c90e409b2526d54591673f33a60b1cf6fbbe015108",
+  "source_id": "614e2f9e-70ff-4dcd-b829-5224ee8331fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 236/2020-33",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Irena Šťastná",
+    "ecli": "ECLI:CZ:OSPH05:2021:24.C.236.2020.2",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-09-17",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/614e2f9e-70ff-4dcd-b829-5224ee8331fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
