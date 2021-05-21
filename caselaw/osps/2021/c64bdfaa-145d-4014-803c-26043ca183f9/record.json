@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.41.2021.2",
+  "docket": "4 C 41/2021-16",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c64bdfaa-145d-4014-803c-26043ca183f9",
+  "source_sha256": "b1d278ffc6c5ee6da960f22f13315cae97332553460bae6b9c9318a5ec24e23c",
+  "source_id": "c64bdfaa-145d-4014-803c-26043ca183f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 41/2021-16",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.41.2021.2",
+    "predmetRizeni": "3 000 Kč s přísl.",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c64bdfaa-145d-4014-803c-26043ca183f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
