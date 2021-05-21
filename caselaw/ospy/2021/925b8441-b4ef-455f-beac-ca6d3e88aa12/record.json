@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:6.C.117.2021.1",
+  "docket": "6 C 117/2021-18",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/925b8441-b4ef-455f-beac-ca6d3e88aa12",
+  "source_sha256": "47c11e6fc05f5e8feadf4c7a2004132c3e61598384901bb0db88ac70d6fd8146",
+  "source_id": "925b8441-b4ef-455f-beac-ca6d3e88aa12",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 117/2021-18",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Bartoš",
+    "ecli": "ECLI:CZ:OSPY:2021:6.C.117.2021.1",
+    "predmetRizeni": "O zaplacení 3 396,72 Kč",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-08-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/925b8441-b4ef-455f-beac-ca6d3e88aa12"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
