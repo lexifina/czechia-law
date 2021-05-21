@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:7.C.128.2021.1",
+  "docket": "7 C 128/2021-13",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d914045b-e1eb-4411-ae61-5d287ee97a89",
+  "source_sha256": "3467b1b9bff4f86ef17a1d56b6e1dffb356887d5c85c4d363ae3ad3941e7106e",
+  "source_id": "d914045b-e1eb-4411-ae61-5d287ee97a89",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 128/2021-13",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2021:7.C.128.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d914045b-e1eb-4411-ae61-5d287ee97a89"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
