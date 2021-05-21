@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:13.C.134.2021.1",
+  "docket": "13 C 134/2021-12",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/005a009f-28c6-4a21-8a48-5c0ff63efe34",
+  "source_sha256": "4908054628fa169a5a8d71746a2740c981a8973c0289a7dfc07b3278500e0b2a",
+  "source_id": "005a009f-28c6-4a21-8a48-5c0ff63efe34",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 134/2021-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2021:13.C.134.2021.1",
+    "predmetRizeni": "1.524 Kč / jízdné",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/005a009f-28c6-4a21-8a48-5c0ff63efe34"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
