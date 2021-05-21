@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:13.C.171.2021.1",
+  "docket": "13 C 171/2021-18",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2452713a-ebb6-46d8-af33-ae11aa09c0a6",
+  "source_sha256": "07e4fe48fbb76d9e9394261917adae1af188a87cdcfa02c384b2cbb8ae84d88a",
+  "source_id": "2452713a-ebb6-46d8-af33-ae11aa09c0a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 171/2021-18",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Jiří Pacovský",
+    "ecli": "ECLI:CZ:OSPZ:2021:13.C.171.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-11-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2452713a-ebb6-46d8-af33-ae11aa09c0a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
