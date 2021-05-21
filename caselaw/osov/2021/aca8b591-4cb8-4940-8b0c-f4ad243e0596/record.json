@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:57.C.203.2020.1",
+  "docket": "57 C 203/2020-103",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aca8b591-4cb8-4940-8b0c-f4ad243e0596",
+  "source_sha256": "073b1087424c7376dd85e6b751a520032a3d184cc359504f3c0f04e31ce0f4ef",
+  "source_id": "aca8b591-4cb8-4940-8b0c-f4ad243e0596",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 203/2020-103",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. David Šeremek",
+    "ecli": "ECLI:CZ:OSOV:2021:57.C.203.2020.1",
+    "predmetRizeni": "o zaplacení 738 398 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-12-06",
+    "klicovaSlova": [
+      "bezpečnost a ochrana zdraví při práci",
+      "peněžité plnění",
+      "pracovní úraz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 55 z. č. 48/1997 Sb.",
+      "§ 105 z. č. 262/2006 Sb.",
+      "§  z. č. 252/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aca8b591-4cb8-4940-8b0c-f4ad243e0596"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
