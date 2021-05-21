@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:7.C.220.2021.1",
+  "docket": "7 C 220/2021-17",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe915dbf-5458-4701-90a9-4388d6347760",
+  "source_sha256": "e7500df2a0a586342c1a60677de380bd281ee2b7168bc233998153f7222ba580",
+  "source_id": "fe915dbf-5458-4701-90a9-4388d6347760",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 220/2021-17",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2021:7.C.220.2021.1",
+    "predmetRizeni": "O zaplacení 52 150 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 45 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe915dbf-5458-4701-90a9-4388d6347760"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
