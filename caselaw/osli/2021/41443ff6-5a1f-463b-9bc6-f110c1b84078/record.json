@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:13.C.40.2021.1",
+  "docket": "13 C 40/2021",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41443ff6-5a1f-463b-9bc6-f110c1b84078",
+  "source_sha256": "3f10775ceeba72e44ba7e90bee1326b1b37acc66550b04af5d06ae2ba59d8cd3",
+  "source_id": "41443ff6-5a1f-463b-9bc6-f110c1b84078",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 40/2021",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Šoljaková",
+    "ecli": "ECLI:CZ:OSLI:2021:13.C.40.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 3.915,00 Kč s přísl.",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41443ff6-5a1f-463b-9bc6-f110c1b84078"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
