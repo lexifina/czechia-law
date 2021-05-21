@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:20.C.19.2021.1",
+  "docket": "20 C 19/2021-10",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2639ffe0-cdd9-438d-bfcc-4e84b9284425",
+  "source_sha256": "b71af4a389eecbc6c6e90ee9c61ae4b94c453664caea1f118848370dff877942",
+  "source_id": "2639ffe0-cdd9-438d-bfcc-4e84b9284425",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 19/2021-10",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "Mgr. Miroslav Neuer",
+    "ecli": "ECLI:CZ:OSVS:2021:20.C.19.2021.1",
+    "predmetRizeni": "žaloba o rozvod manželství",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2639ffe0-cdd9-438d-bfcc-4e84b9284425"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
