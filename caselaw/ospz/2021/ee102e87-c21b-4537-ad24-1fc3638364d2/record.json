@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:8.C.57.2021.1",
+  "docket": "8 C 57/2021-15",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ee102e87-c21b-4537-ad24-1fc3638364d2",
+  "source_sha256": "02b4c3c964d93bfedbbdefb7d7388dc0d19a6f46bf09741c7deaef0e183954a8",
+  "source_id": "ee102e87-c21b-4537-ad24-1fc3638364d2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 57/2021-15",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2021:8.C.57.2021.1",
+    "predmetRizeni": "Návrh na rozvod manželství",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-09-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ee102e87-c21b-4537-ad24-1fc3638364d2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
