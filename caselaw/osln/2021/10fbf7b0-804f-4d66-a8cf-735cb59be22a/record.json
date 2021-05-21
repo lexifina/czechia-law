@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:14.C.89.2021.1",
+  "docket": "14 C 89/2021-35",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10fbf7b0-804f-4d66-a8cf-735cb59be22a",
+  "source_sha256": "1039e9725b484164fd584caafd962317fe25165829d5f5e5439fc726d4f2a100",
+  "source_id": "10fbf7b0-804f-4d66-a8cf-735cb59be22a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 89/2021-35",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Miloslav Holub",
+    "ecli": "ECLI:CZ:OSLN:2021:14.C.89.2021.1",
+    "predmetRizeni": "810 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10fbf7b0-804f-4d66-a8cf-735cb59be22a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
