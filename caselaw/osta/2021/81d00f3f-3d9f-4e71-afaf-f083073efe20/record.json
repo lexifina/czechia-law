@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:9.C.85.2021.1",
+  "docket": "9 C 85/2021-25",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/81d00f3f-3d9f-4e71-afaf-f083073efe20",
+  "source_sha256": "069c7f75d4890a9538690877d8332771447d68627b91d16e28683c68314e768f",
+  "source_id": "81d00f3f-3d9f-4e71-afaf-f083073efe20",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 85/2021-25",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:9.C.85.2021.1",
+    "predmetRizeni": "O zaplacení 10 896 Kč s příslušenstvím",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2610 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/81d00f3f-3d9f-4e71-afaf-f083073efe20"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
