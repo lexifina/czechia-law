@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:10.C.308.2020.1",
+  "docket": "10 C 308/2020-116",
+  "date": "2021-05-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36d39eb0-d3c4-43eb-87fb-fc1e129e1e94",
+  "source_sha256": "183818cf4fca0e8e46874abe164dc7eddec7ea2f97e1e304ed6fd587ebae6a78",
+  "source_id": "36d39eb0-d3c4-43eb-87fb-fc1e129e1e94",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 308/2020-116",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPS:2021:10.C.308.2020.1",
+    "predmetRizeni": "8 775 Kč s přísl.",
+    "datumVydani": "2021-05-21",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "notářský zápis",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36d39eb0-d3c4-43eb-87fb-fc1e129e1e94"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
