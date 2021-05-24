@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:18.C.177.2020.1",
+  "docket": "18 C 177/2020",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d504d12-8a17-4727-b02a-02a3ba64ecb8",
+  "source_sha256": "321bed217b84ebcdff89036ab3f39c1e24ccf4bb1d6e2278b71affefbbf205ec",
+  "source_id": "7d504d12-8a17-4727-b02a-02a3ba64ecb8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 177/2020",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Lucie Šenková",
+    "ecli": "ECLI:CZ:OSPH02:2021:18.C.177.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím (původně o zaplacení 28 000 Kč s příslušenstvím)",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-10-21",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "podjatost",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 82/1998 Sb.",
+      "§ 31 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d504d12-8a17-4727-b02a-02a3ba64ecb8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
