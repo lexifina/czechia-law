@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:109.C.18.2017.1",
+  "docket": "109 C 18/2017",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03b36623-19db-4d94-bff9-7d1b658d05f4",
+  "source_sha256": "e536c3c6bac76cf840ff13f115eda8c03b95dce0644b098063b595d98343b610",
+  "source_id": "03b36623-19db-4d94-bff9-7d1b658d05f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 18/2017",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Ing. Dagmar Langová",
+    "ecli": "ECLI:CZ:OSBR:2021:109.C.18.2017.1",
+    "predmetRizeni": "o zaplacení 93.845 Kč s přísl.",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "přistoupení do řízení",
+      "smlouva mandátní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03b36623-19db-4d94-bff9-7d1b658d05f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
