@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:20.C.30.2021.1",
+  "docket": "20 C 30/2021-35",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ce9e540-b78c-4716-9b4b-a7864831c94e",
+  "source_sha256": "c01bc70125e7365c8398c1844969c27fb4f9c654273e69215ed2e9a8bd0b0da4",
+  "source_id": "8ce9e540-b78c-4716-9b4b-a7864831c94e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 30/2021-35",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Petr Moravec",
+    "ecli": "ECLI:CZ:OSKO:2021:20.C.30.2021.1",
+    "predmetRizeni": "O zaplacení 2 249,99 Kč s příslušenstvím",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 7 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ce9e540-b78c-4716-9b4b-a7864831c94e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
