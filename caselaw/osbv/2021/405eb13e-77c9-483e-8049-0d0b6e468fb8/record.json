@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:9.C.255.2020.1",
+  "docket": "9 C 255/2020-33",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/405eb13e-77c9-483e-8049-0d0b6e468fb8",
+  "source_sha256": "e680911b07cf4912328c8e7d5023dad4dd7e086b4b9f850c96188a51bce0adc2",
+  "source_id": "405eb13e-77c9-483e-8049-0d0b6e468fb8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 255/2020-33",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Josef Kavalec",
+    "ecli": "ECLI:CZ:OSBV:2021:9.C.255.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/405eb13e-77c9-483e-8049-0d0b6e468fb8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
