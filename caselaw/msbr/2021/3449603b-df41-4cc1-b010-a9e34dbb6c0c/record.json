@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:31.C.134.2019.1",
+  "docket": "31 C 134/2019-28",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3449603b-df41-4cc1-b010-a9e34dbb6c0c",
+  "source_sha256": "63b94084e2d17edc46784c4e16c4adb280d7492809fbbdf94de96c19894c8669",
+  "source_id": "3449603b-df41-4cc1-b010-a9e34dbb6c0c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 134/2019-28",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Kamila Krausová",
+    "ecli": "ECLI:CZ:MSBR:2021:31.C.134.2019.1",
+    "predmetRizeni": "vyloučení movité věci z exekuce",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-08-10",
+    "klicovaSlova": [
+      "exekuce",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 267 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3449603b-df41-4cc1-b010-a9e34dbb6c0c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
