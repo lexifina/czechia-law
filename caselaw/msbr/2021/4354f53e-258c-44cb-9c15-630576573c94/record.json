@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:112.C.49.2021.1",
+  "docket": "112 C 49/2021-22",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4354f53e-258c-44cb-9c15-630576573c94",
+  "source_sha256": "b4c3edea78229f735680ff1fc9d7b82818ce29fae66d03db42a7bd863ab7df96",
+  "source_id": "4354f53e-258c-44cb-9c15-630576573c94",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 49/2021-22",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ondřej Sekvard, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:112.C.49.2021.1",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-10-07",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 2285 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4354f53e-258c-44cb-9c15-630576573c94"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
