@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:214.C.74.2021.1",
+  "docket": "214 C 74/2021-40",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac04daf7-48f1-4ef9-b1de-98453e0dd1c4",
+  "source_sha256": "167cfb465fbec06c8742b913dd9bf54af2dbf52762c15eeb07ea9bddf7c17c54",
+  "source_id": "ac04daf7-48f1-4ef9-b1de-98453e0dd1c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "214 C 74/2021-40",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Evženie Vodová",
+    "ecli": "ECLI:CZ:OSKD:2021:214.C.74.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac04daf7-48f1-4ef9-b1de-98453e0dd1c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
