@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.295.2020.1",
+  "docket": "9 C 295/2020-66",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/456a95a4-ea6e-4f11-82f7-b6c60021f7ff",
+  "source_sha256": "42305c733d0f18840548b73293bd1448a2ec5fbaff16a558d36e315cdc40ea06",
+  "source_id": "456a95a4-ea6e-4f11-82f7-b6c60021f7ff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 295/2020-66",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.295.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-10-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2927 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/456a95a4-ea6e-4f11-82f7-b6c60021f7ff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
