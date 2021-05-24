@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:38.C.130.2021.1",
+  "docket": "38 C 130/2021",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0dcef629-51d7-47ac-8854-0ce67363521b",
+  "source_sha256": "5d3390ad33e14fe8d4a5ac9f2b0cab833ee06b4192bc2444ca6ad87f2963bd10",
+  "source_id": "0dcef629-51d7-47ac-8854-0ce67363521b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 130/2021",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Alena Chaloupková",
+    "ecli": "ECLI:CZ:OSPM:2021:38.C.130.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0dcef629-51d7-47ac-8854-0ce67363521b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
