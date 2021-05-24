@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:6.C.113.2016.1",
+  "docket": "6 C 113/2016-82",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51d9655c-48cb-4262-a8e3-02d5e9c4f536",
+  "source_sha256": "008397ca21f8e8eab2f2eda2cb34c9b304f71248b187d45f13e8fed231822dd3",
+  "source_id": "51d9655c-48cb-4262-a8e3-02d5e9c4f536",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 113/2016-82",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Josef Mužík",
+    "ecli": "ECLI:CZ:OSBV:2021:6.C.113.2016.1",
+    "predmetRizeni": "34.751 Kč s příslušenstvím",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "daň z příjmů",
+      "náhrada mzdy"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51d9655c-48cb-4262-a8e3-02d5e9c4f536"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
