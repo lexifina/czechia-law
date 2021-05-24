@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:31.C.391.2020.1",
+  "docket": "31 C 391/2020-52",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d8a9e99-83e9-430e-bb63-7fadaf066916",
+  "source_sha256": "a5f805bd60bcce3c3163de8f3c1479a19723f855dfa01fcc5ea9ea177ab92a26",
+  "source_id": "2d8a9e99-83e9-430e-bb63-7fadaf066916",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 391/2020-52",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2021:31.C.391.2020.1",
+    "predmetRizeni": "zaplacení 1 516 Kč s příslušenstvím (jízdné a přirážka k jízdnému)",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-12-07",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d8a9e99-83e9-430e-bb63-7fadaf066916"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
