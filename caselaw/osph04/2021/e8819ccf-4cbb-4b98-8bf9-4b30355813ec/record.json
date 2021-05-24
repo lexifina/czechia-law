@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:60.C.160.2021.1",
+  "docket": "60 C 160/2021-19",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e8819ccf-4cbb-4b98-8bf9-4b30355813ec",
+  "source_sha256": "d843da500b1b345aa6889ea0a2e442f78c0896ccaf62883f44fa9a370f16e9e1",
+  "source_id": "e8819ccf-4cbb-4b98-8bf9-4b30355813ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 160/2021-19",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Hana Kadlecová, LL.M.",
+    "ecli": "ECLI:CZ:OSPH04:2021:60.C.160.2021.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-10-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e8819ccf-4cbb-4b98-8bf9-4b30355813ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
