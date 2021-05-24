@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.333.2020.2",
+  "docket": "24 C 333/2020-66",
+  "date": "2021-05-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fcf5c060-10a9-4a00-a91e-11c3d382e837",
+  "source_sha256": "35dd59378080ce1973b80251876ad74ce181ebd9fc143c127015b4c6c7053788",
+  "source_id": "fcf5c060-10a9-4a00-a91e-11c3d382e837",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 333/2020-66",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.333.2020.2",
+    "predmetRizeni": "zaplacení 2 000 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-05-24",
+    "datumZverejneni": "2021-08-27",
+    "klicovaSlova": [
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fcf5c060-10a9-4a00-a91e-11c3d382e837"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
