@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:30.C.2.2021.1",
+  "docket": "30 C 2/2021-26",
+  "date": "2021-06-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2022-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7b68527-b4d5-42e3-a1eb-b056f3eab7e8",
+  "source_sha256": "e35913461341b68e3f80a572ed6c39a4f6ae4d66c8cff10795ec5654de4e61f4",
+  "source_id": "d7b68527-b4d5-42e3-a1eb-b056f3eab7e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 2/2021-26",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Lucie Laura Penn",
+    "ecli": "ECLI:CZ:OSPH01:2021:30.C.2.2021.1",
+    "predmetRizeni": "o zaplacení 1 730 Kč s příslušenstvím",
+    "datumVydani": "2021-06-15",
+    "datumZverejneni": "2022-01-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7b68527-b4d5-42e3-a1eb-b056f3eab7e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
