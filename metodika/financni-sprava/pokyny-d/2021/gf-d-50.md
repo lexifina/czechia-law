@@ -1,0 +1,20 @@
+---
+citace: "Pokyn GFŘ-D-50"
+nazev: "Pokyn GFŘ-D-50: kterým se stanovuje formát a struktura datové zprávy"
+druh: "Pokyn řady D (metodický pokyn)"
+vydal: "Generální finanční ředitelství / Ministerstvo financí"
+datum: "2021-07-01"
+povaha: "metodika (výklad správce daně, není právní předpis)"
+zdroj: "https://financnisprava.gov.cz/assets/cs/prilohy/d-seznam-dani/Pokyn_GFR_D_50.pdf"
+---
+
+# Pokyn GFŘ-D-50: kterým se stanovuje formát a struktura datové zprávy
+
+Generální finanční ředitelství Lazarská 15/7, 117 22 Praha 1 Č. j.: 39005/21/7700-10123-711442 P O K Y N Č . G F Ř – D – 5 0 kterým se stanovuje formát a struktura datové zprávy Generální finanční ředitelství v souladu s § 72 odst. 2 zákona č. 280/2009 Sb., daňový řád, ve znění pozdějších předpisů (dále jen „daňový řád“) a dalšími právními předpisy, které stanoví, že správce daně zveřejní formát a strukturu datové zprávy, tímto pokynem zveřejňuje formát a strukturu datové zprávy, jejímž prostřednictvím se vůči orgánům Finanční správy ČR jako správcům daně činí formulářová podání podle § 72 odst. 1 daňového řádu, jimiž se rozumí přihláška k registraci, oznámení o změně registračních údajů (včetně žádosti o zrušení registrace) a daňové tvrzení (daňové přiznání, hlášení, vyúčtování, dodatečné daňové přiznání, následné hlášení a dodatečné vyúčtování), včetně příloh, které jsou jejich součástí, a dále i jiná podání, u nichž právní předpis stanoví povinnost datovou zprávu učinit ve formátu a struktuře zveřejněné správcem daně (dále jen „předmětná podání“). Čl. I. Stanovení formátu a struktury datové zprávy pro datové zprávy s formátem stanoveným právním předpisem 1. Pokud jsou předmětná podání, pro která je formát datové zprávy stanoven právním předpisem, činěna vůči orgánům Finanční správy ČR datovou zprávou, musí být (s výjimkou uvedenou v čl. I. odst. 3. tohoto pokynu) učiněna ve formátu stanoveném právním předpisem. 2. Jestliže je právním předpisem pro předmětná podání stanoven formát XML, musí být tato podání elektronicky učiněna ve formátu XML a ve struktuře odpovídající příslušnému XSD schématu definovanému a zveřejněnému na adrese: https://adisspr.mfcr.cz/pmd/dokumentace/popis-struktur-epo 3. Je-li právním předpisem pro předmětná podání stanoven jiný formát datové zprávy, než formát XML, lze tato podání, pokud z právního předpisu nevyplývá něco jiného a je to správcem daně výslovně umožněno, alternativně učinit datovou zprávou ve formátu XML a ve struktuře odpovídající příslušnému XSD schématu definovanému a zveřejněnému na adrese: https://adisspr.mfcr.cz/pmd/dokumentace/popis-struktur-epo
+Čl. II. Stanovení formátu a struktury datové zprávy pro datové zprávy s formátem nestanoveným právním předpisem Předmětná podání, pro něž není formát datové zprávy stanoven právním předpisem, pokud jsou činěna vůči orgánům Finanční správy ČR datovou zprávou, musí být učiněna ve formátu
+Č. j.: 39005/21/7700-10123-711442 strana 2 (celkem 2)
+XML a ve struktuře odpovídající příslušnému XSD schématu definovanému a zveřejněnému na adrese: https://adisspr.mfcr.cz/pmd/dokumentace/popis-struktur-epo Čl. III. Vytvoření souboru ve formátu XML a v předepsané struktuře K vytvoření souboru ve formátu XML a v předepsané struktuře lze využít aplikaci Elektronická podání pro Finanční správu (tzv. EPO) nebo aplikaci Online finanční úřad (obě jsou dostupné na elektronické adrese podatelny orgánů Finanční správy ČR – www.mojedane.cz). Aplikace rovněž umožňují mj. soubor správci daně přímo jejich prostřednictvím odeslat, případně jej vytvořit a uložit pro následné užití. Součástí aplikace EPO je i aplikační rozhraní, které může být používáno výrobci aplikačního vybavení (např. účetní software) k přímému zpracování a odeslání písemnosti z aplikace. Popis je zveřejněn na adrese: https://adisspr.mfcr.cz/dpr/adis/idpr_pub/epo2_info/PodatelnaEPO.pdf
+Čl. IV. Zrušovací ustanovení Tento pokyn zrušuje Pokyn č. GFŘ-D-48 č. j. 80890/20/7700-10123-050230, ze dne 31. 12. 2020. Čl. V. Účinnost Tento pokyn nabývá účinnosti dne 1. 7. 2021. Ing. Tatjana Richterová generální ředitelka
+Elektronicky podepsáno
+15.06.2021 Ing. Tatjana Richterová
+generální ředitelka
