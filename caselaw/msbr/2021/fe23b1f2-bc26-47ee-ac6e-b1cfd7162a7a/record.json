@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:42.C.100.2020.1",
+  "docket": "42 C 100/2020-45",
+  "date": "2021-09-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2022-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe23b1f2-bc26-47ee-ac6e-b1cfd7162a7a",
+  "source_sha256": "32370726161d8f68979552cc4f28f40510931e6b928fab01cc795b699f83e9e6",
+  "source_id": "fe23b1f2-bc26-47ee-ac6e-b1cfd7162a7a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 100/2020-45",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Petra Sedláčková",
+    "ecli": "ECLI:CZ:MSBR:2021:42.C.100.2020.1",
+    "predmetRizeni": "zaplacení 76.102,93 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-09-15",
+    "datumZverejneni": "2022-01-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe23b1f2-bc26-47ee-ac6e-b1cfd7162a7a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
