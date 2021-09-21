@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:14.C.108.2021.1",
+  "docket": "14 C 108/2021-60",
+  "date": "2021-09-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2022-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4be105b6-69d0-4723-addc-245f5f2436e3",
+  "source_sha256": "a653fc291b6c6c4e21bcea717dd89090faee43bdff7d9d300e5786019bb05d2f",
+  "source_id": "4be105b6-69d0-4723-addc-245f5f2436e3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 108/2021-60",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Ivan Šišma",
+    "ecli": "ECLI:CZ:OSPV:2021:14.C.108.2021.1",
+    "predmetRizeni": "O zaplacení 10.624 Kč s příslušenstvím",
+    "datumVydani": "2021-09-21",
+    "datumZverejneni": "2022-01-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4be105b6-69d0-4723-addc-245f5f2436e3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
