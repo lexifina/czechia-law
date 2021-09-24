@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:38.C.183.2021.1",
+  "docket": "38 C 183/2021-84",
+  "date": "2021-09-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2022-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7074fab-b70f-4b13-8301-51a904e6adcf",
+  "source_sha256": "b753e4a95011db35596ebc731544ce5edf2642754dc73995dd9818fb57999028",
+  "source_id": "c7074fab-b70f-4b13-8301-51a904e6adcf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 183/2021-84",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Miloš Světlík",
+    "ecli": "ECLI:CZ:OSOP:2021:38.C.183.2021.1",
+    "predmetRizeni": "o zaplacení 10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-09-24",
+    "datumZverejneni": "2022-01-03",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7074fab-b70f-4b13-8301-51a904e6adcf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
