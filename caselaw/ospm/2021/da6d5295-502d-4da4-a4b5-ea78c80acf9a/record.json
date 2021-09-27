@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:28.C.212.2021.1",
+  "docket": "28 C 212/2021-32",
+  "date": "2021-09-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2022-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da6d5295-502d-4da4-a4b5-ea78c80acf9a",
+  "source_sha256": "c62383ee99f1b44b3a6f336cb8895a24d54c9a86b541be3ffd4471004da757a0",
+  "source_id": "da6d5295-502d-4da4-a4b5-ea78c80acf9a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 212/2021-32",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Kateřina Auterská šašková",
+    "ecli": "ECLI:CZ:OSPM:2021:28.C.212.2021.1",
+    "predmetRizeni": "O zaplacení 4 938,66 Kč",
+    "datumVydani": "2021-09-27",
+    "datumZverejneni": "2022-01-03",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da6d5295-502d-4da4-a4b5-ea78c80acf9a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
