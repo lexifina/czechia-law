@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:5.C.44.2021.1",
+  "docket": "5 C 44/2021-36",
+  "date": "2021-09-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2022-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb11dd91-55c6-4d53-b0f6-88f89638289f",
+  "source_sha256": "a63c54952c9640db4f838de126cf38bf343007050edcbe4670f191c9b783230f",
+  "source_id": "cb11dd91-55c6-4d53-b0f6-88f89638289f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 44/2021-36",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Jitka Múčková",
+    "ecli": "ECLI:CZ:OSHO:2021:5.C.44.2021.1",
+    "predmetRizeni": "zaplacení 33 300 Kč s příslušenstvím",
+    "datumVydani": "2021-09-27",
+    "datumZverejneni": "2022-01-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb11dd91-55c6-4d53-b0f6-88f89638289f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
