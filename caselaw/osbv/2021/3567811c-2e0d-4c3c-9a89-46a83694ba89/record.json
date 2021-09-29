@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:7.C.172.2021.1",
+  "docket": "7 C 172/2021-29",
+  "date": "2021-09-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2022-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3567811c-2e0d-4c3c-9a89-46a83694ba89",
+  "source_sha256": "a5cf05f8a02c6a059a042d01ccffa8c61a368aa9d926e97a5f604f96424a0696",
+  "source_id": "3567811c-2e0d-4c3c-9a89-46a83694ba89",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 172/2021-29",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. PhDr. Roman Novák",
+    "ecli": "ECLI:CZ:OSBV:2021:7.C.172.2021.1",
+    "predmetRizeni": "8.400 Kč s příslušenstvím",
+    "datumVydani": "2021-09-29",
+    "datumZverejneni": "2022-01-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3567811c-2e0d-4c3c-9a89-46a83694ba89"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
