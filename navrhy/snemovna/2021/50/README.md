@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-23 | 50/0 | Vládní návrh zákona | [t005000.md](t005000.md) |
+| 2021-12-01 | 50/1 | Usnesení výboru pro sociální politiku č. 7 ze dne 1. prosince 2021 k vládnímu návrhu zákona o mimořádném příspěvku zaměstnanci při nařízené karanténě | [t005001.md](t005001.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t005000.md](t005000.md) | 50/0 | Návrh zákona včetně důvodové zprávy | [t005000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200242) | pymupdf / pdftotext 1.0000 |
+| [t005001.md](t005001.md) | 50/1 | Text | [t005001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200716) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
