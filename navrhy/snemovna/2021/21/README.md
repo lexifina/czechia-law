@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-11 | 21/0 | Zpráva a jiné | [t002100.md](t002100.md), [t0021a0.md](t0021a0.md) |
+| 2021-12-02 | 21/1 | Usnesení rozpočtového výboru č. 14 ze dne 1. prosince 2021 ke zprávě o plnění státního rozpočtu České republiky za 1. pololetí 2021 | [t002101.md](t002101.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t002100.md](t002100.md) | 21/0 | Návrh usnesení Poslanecké sněmovny | [t002100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=199860) | pymupdf / pdftotext 1.0000 |
 | [t0021a0.md](t0021a0.md) | 21/0 | Text | [t0021a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=199858) | pymupdf / pdftotext 0.9999 |
+| [t002101.md](t002101.md) | 21/1 | Text | [t002101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200781) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
