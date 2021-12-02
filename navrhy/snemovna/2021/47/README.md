@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-19 | 47/0 | Zpráva a jiné | [t004700.md](t004700.md) |
+| 2021-12-02 | 47/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 7 ze dne 1. prosince 2021 ke zprávě o činnosti kontrolní rady Grantové agentury České republiky za období od října 2020 do září 2021 | [t004701.md](t004701.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t004700.md](t004700.md) | 47/0 | Text | [t004700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200202) | pymupdf / pdftotext 1.0000 |
+| [t004701.md](t004701.md) | 47/1 | Text | [t004701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200777) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
