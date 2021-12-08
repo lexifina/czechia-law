@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-15 | 16/0 | Návrh zákona | [t001600.md](t001600.md), [t0016a0.md](t0016a0.md) |
+| 2021-12-08 | 16/1 | Stanovisko vlády k návrhu poslanců Jiřího Kobzy, Tomia Okamury, Radima Fialy a dalších na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t001601.md](t001601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t001600.md](t001600.md) | 16/0 | Návrh zákona včetně důvodové zprávy | [t001600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200047) | pymupdf / pdftotext 1.0000 |
 | [t0016a0.md](t0016a0.md) | 16/0 | Platné znění s vyznačením změn | [t0016a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200049) | pymupdf / pdftotext 1.0000 |
+| [t001601.md](t001601.md) | 16/1 | Stanovisko | [t001601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200913) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
