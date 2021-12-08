@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-15 | 34/0 | Návrh zákona | [t003400.md](t003400.md), [t0034a0.md](t0034a0.md) |
+| 2021-12-08 | 34/1 | Stanovisko vlády k návrhu poslanců Patrika Nachera, Roberta Králíčka, Milana Wenzla, Lubomíra Brože, Marka Nováka, Ondřeje Babky, Martina Kolovratníka, Josefa Kotta, Romana Kubíčka a Zuzany Ožanové na vydání zákona, kterým se mění zákon č. 229/2002 Sb., o finančním arbitrovi, ve znění pozdějších předpisů | [t003401.md](t003401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t003400.md](t003400.md) | 34/0 | Návrh zákona včetně důvodové zprávy | [t003400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200082) | pymupdf / pdftotext 1.0000 |
 | [t0034a0.md](t0034a0.md) | 34/0 | Platné znění s vyznačením změn | [t0034a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200083) | pymupdf / pdftotext 1.0000 |
+| [t003401.md](t003401.md) | 34/1 | Stanovisko | [t003401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200917) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
