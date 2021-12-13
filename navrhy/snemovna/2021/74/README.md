@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-09 | 74/0 | Jiné podklady | [t007400.md](t007400.md), [t0074a0.md](t0074a0.md) |
+| 2021-12-13 | 74/1 | Usnesení výboru pro obranu č. 7 ze dne 13. prosince 2021 k vládnímu návrhu na vyslovení souhlasu s působením sil a prostředků rezortu Ministerstva obrany v Polské republice za účelem posílení ochrany polsko-běloruské hranice | [t007401.md](t007401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t007400.md](t007400.md) | 74/0 | Návrh usnesení Poslanecké sněmovny | [t007400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200945) | pymupdf / pdftotext 1.0000 |
 | [t0074a0.md](t0074a0.md) | 74/0 | Text | [t0074a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200942) | pymupdf / pdftotext 1.0000 |
+| [t007401.md](t007401.md) | 74/1 | Text | [t007401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201023) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
