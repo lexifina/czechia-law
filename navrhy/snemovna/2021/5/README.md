@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-16 | 5/0 | Návrh zákona | [t000500.md](t000500.md), [t0005a0.md](t0005a0.md) |
+| 2021-12-15 | 5/1 | Stanovisko vlády k návrhu poslanců Tomia Okamury, Radima Fialy, Jana Hrnčíře a dalších na vydání zákona o změně a zrušení některých zákonů v souvislosti se zrušením soudních exekutorů | [t000501.md](t000501.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t000500.md](t000500.md) | 5/0 | Návrh zákona včetně důvodové zprávy | [t000500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200129) | pymupdf / pdftotext 1.0000 |
 | [t0005a0.md](t0005a0.md) | 5/0 | Platné znění s vyznačením změn | [t0005a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200126) | pymupdf / pdftotext 1.0000 |
+| [t000501.md](t000501.md) | 5/1 | Stanovisko | [t000501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201246) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
