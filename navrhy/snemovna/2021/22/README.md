@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-15 | 22/0 | Návrh zákona | [t002200.md](t002200.md), [t0022a0.md](t0022a0.md) |
+| 2021-12-15 | 22/1 | Stanovisko vlády k návrhu poslanců Lucie Šafránkové, Tomia Okamury, Radima Fialy a dalších na vydání zákona, kterým se mění zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů | [t002201.md](t002201.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t002200.md](t002200.md) | 22/0 | Návrh zákona včetně důvodové zprávy | [t002200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200064) | pymupdf / pdftotext 1.0000 |
 | [t0022a0.md](t0022a0.md) | 22/0 | Platné znění s vyznačením změn | [t0022a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200062) | pymupdf / pdftotext 1.0000 |
+| [t002201.md](t002201.md) | 22/1 | Stanovisko | [t002201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201269) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
