@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-15 | 38/0 | Návrh zákona | [t003800.md](t003800.md), [t0038a0.md](t0038a0.md) |
+| 2021-12-15 | 38/1 | Stanovisko vlády k senátnímu návrhu zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů | [t003801.md](t003801.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t003800.md](t003800.md) | 38/0 | Návrh zákona včetně důvodové zprávy | [t003800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200097) | pymupdf / pdftotext 1.0000 |
 | [t0038a0.md](t0038a0.md) | 38/0 | Platné znění s vyznačením změn | [t0038a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200094) | pymupdf / pdftotext 1.0000 |
+| [t003801.md](t003801.md) | 38/1 | Stanovisko | [t003801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201288) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
