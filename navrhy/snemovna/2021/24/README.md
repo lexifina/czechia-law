@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-15 | 24/0 | Návrh zákona | [t002400.md](t002400.md), [t0024a0.md](t0024a0.md) |
+| 2021-12-15 | 24/1 | Stanovisko vlády k návrhu poslanců Tomia Okamury, Radima Fialy, Lucie Šafránkové a dalších na vydání zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, a zákon č. 73/2011 Sb., o Úřadu práce České republiky, ve znění pozdějších předpisů | [t002401.md](t002401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t002400.md](t002400.md) | 24/0 | Návrh zákona včetně důvodové zprávy | [t002400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200072) | pymupdf / pdftotext 0.9974 |
 | [t0024a0.md](t0024a0.md) | 24/0 | Platné znění s vyznačením změn | [t0024a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200074) | pymupdf / pdftotext 1.0000 |
+| [t002401.md](t002401.md) | 24/1 | Stanovisko | [t002401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201274) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
