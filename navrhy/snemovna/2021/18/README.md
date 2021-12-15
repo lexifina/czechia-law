@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-15 | 18/0 | Návrh zákona | [t001800.md](t001800.md), [t0018a0.md](t0018a0.md) |
+| 2021-12-15 | 18/1 | Stanovisko vlády k návrhu Zastupitelstva Pardubického kraje na vydání zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon a zákon č. 284/2021 Sb., kterým se mění některé zákony v souvislosti s přijetím stavebního zákona | [t001801.md](t001801.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t001800.md](t001800.md) | 18/0 | Návrh zákona včetně důvodové zprávy | [t001800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200053) | pymupdf / pdftotext 1.0000 |
 | [t0018a0.md](t0018a0.md) | 18/0 | Platné znění s vyznačením změn | [t0018a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200052) | pymupdf / pdftotext 1.0000 |
+| [t001801.md](t001801.md) | 18/1 | Stanovisko | [t001801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201258) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
