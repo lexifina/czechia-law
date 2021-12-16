@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-23 | 48/0 | Návrh zákona | [t004800.md](t004800.md), [t0048a0.md](t0048a0.md) |
+| 2021-12-16 | 48/1 | Stanovisko vlády k návrhu poslanců Patrika Nachera, Heleny Válkové, Roberta Králíčka, Jaroslava Bžocha, Kamala Farhana, Marka Nováka, Josefa Kotta a dalších na vydání zákona, kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů | [t004801.md](t004801.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t004800.md](t004800.md) | 48/0 | Návrh zákona včetně důvodové zprávy | [t004800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200252) | pymupdf / pdftotext 1.0000 |
 | [t0048a0.md](t0048a0.md) | 48/0 | Platné znění s vyznačením změn | [t0048a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200253) | pymupdf / pdftotext 1.0000 |
+| [t004801.md](t004801.md) | 48/1 | Stanovisko | [t004801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201307) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
