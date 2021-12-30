@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-30 | 66/0 | Návrh zákona | [t006600.md](t006600.md), [t0066a0.md](t0066a0.md) |
+| 2021-12-30 | 66/1 | Stanovisko vlády k návrhu poslanců Marka Nováka, Patrika Nachera, Karla Havlíčka a dalších na vydání zákona, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony | [t006601.md](t006601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t006600.md](t006600.md) | 66/0 | Návrh zákona včetně důvodové zprávy | [t006600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200674) | pymupdf / pdftotext 1.0000 |
 | [t0066a0.md](t0066a0.md) | 66/0 | Platné znění s vyznačením změn | [t0066a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200673) | pymupdf / pdftotext 1.0000 |
+| [t006601.md](t006601.md) | 66/1 | Stanovisko | [t006601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201631) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
