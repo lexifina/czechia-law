@@ -1,0 +1,255 @@
+---
+citace: "Obecně závazná vyhláška města Přelouč č. 3/2021"
+nazev: "Obecně závazná vyhláška města Přelouče č. 3/2021 o místním poplatku za obecní systém odpadového hospodářství"
+druh: "Obecně závazná vyhláška"
+cislo: "3/2021"
+vydavatel: "Město Přelouč"
+ico: "00274101"
+kraj: "Pardubický kraj"
+zmocneni: ["zákon č. 565/1990 Sb., o místních poplatcích - § 14 - za obecní systém odpadového hospodářství"]
+oblast: ["místní poplatek za obecní systém odpadového hospodářství"]
+vydano: "2021-10-14"
+vyveseno: "2021-10-18"
+zverejneno_ve_sbirce: "2022-03-31"
+ucinnost: "2022-01-01"
+zpusob_zverejneni: "dle přechodného ustanovení (zákon č. 35/2021 Sb., § 9)"
+sppsu_id: "SPP7BB2US47NOFBW"
+verze: "1"
+url: "https://sbirkapp.gov.cz/detail/SPP7BB2US47NOFBW"
+text_url: "https://sbirkapp.gov.cz/detail/SPP7BB2US47NOFBW/text"
+soubor: "ozv-3-2021-ocr.pdf"
+soubor_sha256: "094ab4e6bc515da941efd541c50ae769169a238b346ae35e11e766cd0a8767e5"
+ziskani_textu: "pdf-text"
+obrazky: 7
+obrazky_poznamka: "the published file holds images (e.g. coat of arms, signatures, maps); not reproduced here; see text_url"
+---
+
+# Obecně závazná vyhláška města Přelouče č. 3/2021 o místním poplatku za obecní systém odpadového hospodářství
+
+Město Přelouč Zastupitelstvo města
+
+Obecně závazná vyhláška
+
+č. 3/2021, o místním poplatku za obecní systém odpadového hospodářství
+
+Zastupitelstvo města Přelouč se na svém zasedání dne 14.10.2021 usnesením č. XIX./10/2021 usneslo vydat na základě § 14 zákona č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů (dále jen „zákon o místních poplatcích"), a v souladu s § 10 písm. d) a § 84 odst. 2 písm. h) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, tuto obecně závaznou vyhlášku (dále jen „tato vyhláška"):
+
+ČI. 1 Úvodní ustanovení
+
+(1) Město Přelouč touto vyhláškou zavádí místní poplatek za obecní systém odpadového hospodářství (dále jen „poplatek").
+
+(2) Správcem poplatku je městský úřad.* 1
+
+*§15 odst. 1 zákona, o místních poplatcích
+
+2 § 10e zákona o místních poplatcích
+
+3 Za přihlášení fyzické osoby se podle § 16c zákona o místních poplatcích považuje a) přihlášení k trvalému pobytu podle zákona o evidenci obyvatel, nebo b) ohlášení místa pobytu podle zákona o pobytu cizinců na území české republiky, zákona o azylu nebo zákona o dočasné ochraně cizinců, jde-li o cizince,
+
+1. kterému byl povolen trvalý pobyt, 2. který na území České republiky pobývá přechodně po dobu delší než 3 měsíce, 3. který je žadatelem o udělení mezinárodní ochrany nebo osobou strpěnou na území podle zákona o azylu anebo žadatelem o poskytnutí dočasné ochrany podle zákona o dočasné ochraně cizinců, nebo 4. kterému byla uděiena mezinárodní ochrana nebo jde o cizince požívajícího dočasné ochrany cizinců.
+
+4 § 10p zákona o místních poplatcích
+
+ČI. 2 Poplatník
+
+(1) Poplatníkem poplatku je2:
+
+a) fyzická osoba přihlášená ve městě3 nebo
+
+b) vlastník nemovité věci zahrnující byt, rodinný dům nebo stavbu pro rodinnou rekreaci, ve které není přihlášená žádná fyzická osoba a která je umístěna na území města.
+
+(2) Spoluvlastníci nemovité věci zahrnující byt, rodinný dům nebo stavbu pro rodinnou rekreaci jsou povinni plnit poplatkovou povinnost společně a nerozdílně.4
+
+1
+
+ČI. 3
+
+Poplatkové období
+
+Poplatkovým obdobím poplatku je kalendářní rok.5
+
+5 § 10o odst. 1 zákona o místních poplatcích 6 § 14a odst. 2 zákona o místních poplatcích
+
+7 § 14a odst. 3 zákona o místních poplatcích
+
+e § 14a odst. 4 zákona o místních poplatcích
+
+§ 14a odst. 5 zákona o místních poplatcích
+
+10 § 10h odst. 2 ve spojení s § 10o odst. 2 zákona o místních poplatcích
+
+ČI. 4
+
+Ohlašovací povinnost
+
+(1) Poplatník je povinen podat správci poplatku ohlášení nejpozději do 30 dnů ode dne vzniku své poplatkové povinnosti.
+
+(2) V ohlášení poplatník uvede6
+
+a) jméno, popřípadě jména, a příjmení nebo název, obecný identifikátor, byl-li přidělen,
+
+místo pobytu nebo sídlo, sídlo podnikatele, popřípadě další adresu pro doručování;
+
+právnická osoba uvede též osoby, které jsou jejím jménem oprávněny jednat
+
+v poplatkových věcech,
+
+b) čísía všech svých účtů u poskytovatelů platebních služeb, včetně poskytovatelů
+
+těchto služeb v zahraničí, užívaných v souvislosti s podnikatelskou činností,
+
+v případě, že předmět poplatku souvisí s podnikatelskou činností poplatníka,
+
+c) další údaje rozhodné pro stanovení poplatku, zejména skutečnosti zakládající nárok
+
+na osvobození od poplatku, a jde-li o poplatníka dle čl. 2 odst. 1 písm. b) této
+
+vyhlášky, též identifikační údaje nemovité věci zahrnující byt, rodinný dům nebo
+
+stavbu pro rodinnou rekreaci podle katastru nemovitostí.
+
+(3) Poplatník, který nemá sídlo nebo bydliště na území členského státu Evropské unie, jiného smluvního státu Dohody o Evropském hospodářském prostoru nebo Švýcarské
+
+konfederace, uvede také adresu svého zmocněnce v tuzemsku pro doručování.7
+
+(4) Dojde-li ke změně údajů uvedených v ohlášení, je poplatník povinen tuto změnu oznámit do 15 dnů ode dne, kdy nastala.8
+
+(5) Povinnost ohlásit údaj podle odstavce 2 nebo jeho změnu se nevztahuje na údaj, který může správce poplatku automatizovaným způsobem zjistit z rejstříků nebo evidencí, do nichž má zřízen automatizovaný přístup. Okruh těchto údajů zveřejní správce poplatku na své úřední desce.9
+
+Čl. 5 Sazba poplatku
+
+(1) Sazba poplatku činí 600,- Kč.
+
+(2) Poplatek se v případě, že poplatková povinnost vznikla z důvodu přihlášení fyzické osoby ve městě, snižuje o jednu dvanáctinu za každý kalendářní měsíc, na jehož konci10
+
+2
+
+a) není tato fyzická osoba přihlášena ve městě, nebo
+
+b) je tato fyzická osoba od poplatku osvobozena.
+
+(3) Poplatek se v případě, že poplatková povinnost vznikla z důvodu vlastnictví jednotlivé
+
+nemovité věci zahrnující byt, rodinný dům nebo stavbu pro rodinnou rekreaci umístěné na území města, snižuje o jednu dvanáctinu za každý kalendářní měsíc, na jehož konci11
+
+11 § 10h odst. 3 ve spojení s § 10o odst. 2 zákona o místních poplatcích
+
+12 § 10g zákona o místních poplatcích 13 zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů 14 § 9 zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytováni, ve znění pozdějších předpisů
+
+a) je v této nemovité věci přihlášena alespoň 1 fyzická osoba,
+
+b) poplatník nevlastní tuto nemovitou věc, nebo
+
+c) je poplatník od poplatku osvobozen.
+
+ČI. 6 Splatnost poplatku
+
+(1) Poplatek je splatný jednorázově, a to nejpozději do 30. 6. příslušného kalendářního roku.
+
+(2) Vznikne-li poplatková povinnost po datu splatnosti uvedeném v odstavci 1, je poplatek
+
+splatný nejpozději do 30 dnů ode dne vzniku poplatkové povinnosti.
+
+(3) Lhůta splatnosti neskončí poplatníkovi dříve než lhůta pro podání ohlášení podle čl. 4 odst. 1 této vyhlášky.
+
+Čl. 7 Osvobození
+
+(1) Od poplatku je osvobozena osoba, které poplatková povinnost vznikla z důvodu
+
+přihlášení ve městě a která je12
+
+a. poplatníkem poplatku za odkládání komunálního odpadu z nemovité věci v jiné
+
+obci a má v této jiné obci bydliště, b. umístěna do dětského domova pro děti do 3 let věku, školského zařízení pro
+
+výkon ústavní nebo ochranné výchovy nebo školského zařízení pro preventivně výchovnou péči na základě rozhodnutí soudu nebo smlouvy, c. umístěna do zařízení pro děti vyžadující okamžitou pomoc na základě
+
+rozhodnutí soudu, na žádost obecního úřadu obce s rozšířenou působností, zákonného zástupce dítěte nebo nezletilého, d. umístěna v domově pro osoby se zdravotním postižením, domově pro seniory,
+
+domově se zvláštním režimem nebo v chráněném bydlení, nebo e. na základě zákona omezena na osobní svobodě s výjimkou osoby vykonávající
+
+trest domácího vězení. (2) Od poplatku se osvobozuje osoba, které poplatková povinnost vznikla z důvodu
+
+přihlášení ve městě a
+
+a. je celoročně (od 1. ledna do 31. prosince příslušného kalendářního roku)
+
+umístěná v pobytovém zařízení sociálních služeb13 nebo v zařízení lůžkové zdravotní péče14 neuvedeném v zákonu o místních poplatcích, b. celoročně (od 1. ledna do 31. prosince příslušného kalendářního roku) se
+
+zdržuje mimo území města; c. v příslušném kalendářním roce dovrší nejvýše jeden rok věku.
+
+(3) V případě, že poplatník nesplní povinnost ohlásit údaj rozhodný pro osvobození ve
+
+lhůtách stanovených touto vyhláškou nebo zákonem, nárok na osvobození zaniká.15 16
+
+15 § 14a odst. 6 zákona o místních poplatcích
+
+16 § 11 odst. 1 zákona o místních poplatcích
+
+17 § 11 odst. 3 zákona o místních poplatcích
+
+18 § 12 zákona o místních poplatcích
+
+19 § 10q zákona o místních poplatcích
+
+20 § 10r zákona o místních poplatcích
+
+Čl. 8 Navýšení poplatku
+
+(1) Nebudou-li poplatky zaplaceny poplatníkem včas nebo ve správné výši, vyměří mu správce poplatku poplatek platebním výměrem nebo hromadným predpisným seznamem.16
+
+(2) Včas nezaplacené poplatky nebo část těchto poplatků může správce poplatku zvýšit až
+
+na trojnásobek; toto zvýšení je příslušenstvím poplatku sledujícím jeho osud.17
+
+Čl. 9 Odpovědnost za zaplacení poplatku18
+
+(1) Vznikne-li nedoplatek na poplatku poplatníkovi, který je ke dni splatnosti nezletilý
+
+a nenabyl plné svéprávnosti nebo který je ke dni splatnosti omezen ve svéprávnosti a byl mu jmenován opatrovník spravující jeho jmění, přechází poplatková povinnost tohoto poplatníka na zákonného zástupce nebo tohoto opatrovníka; zákonný zástupce nebo opatrovník má stejné procesní postavení jako poplatník.
+
+(2) V případě podle odstavce 1 vyměří správce poplatku poplatek zákonnému zástupci nebo
+
+opatrovníkovi poplatníka.
+
+(3) Je-li zákonných zástupců nebo opatrovníků více, jsou povinni plnit poplatkovou povinnost společně a nerozdílně.
+
+Čl. 10 Společná ustanovení
+
+(1) Ustanovení o nemovité věci se použijí obdobně i na jednotku, která je vymezena podle zákona o vlastnictví bytů, spolu s touto jednotkou spojeným podílem na společných částech domu, a pokud je s ní spojeno vlastnictví k pozemku, tak i spolu s podílem na tomto pozemku.19
+
+(2) Na svěřenský fond, podílový fond nebo fond obhospodařovaný penzijní společností, do kterých je vložena nemovitá věc, se pro účely poplatků za komunální odpad hledí jako na vlastníka této nemovité věci.20
+
+Čl. 11 Přechodná ustanovení
+
+(1) Údaje ohlášené poplatníkem místního poplatku za provoz systému shromažďování,
+
+sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů ke dni předcházejícímu dni nabytí účinnosti této vyhlášky se považují za údaje ohlášené podle čl. 4 odst. 1 této vyhlášky.
+
+4
+
+(2) Poplatkové povinnosti vzniklé před nabytím účinnosti této vyhlášky se posuzují podle
+
+dosavadních právních předpisů.
+
+ČI. 12 Zrušovací ustanovení
+
+Ruší se obecně závazná vyhláška č. 8/2019 o místním poplatku za provoz systému
+
+shromažďování., sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů ze dne 17. 12. 2019.
+
+ČI. 13 Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2022.
+
+Ing. Ivan Moravec
+
+místostarosta
+
+Vyvěšeno na úřední desce dne:
+
+Sejmuto z úřední desky dne:
+
+Zveřejnění bylo shodně provedeno na elektronické úřední desce.
+
+5
