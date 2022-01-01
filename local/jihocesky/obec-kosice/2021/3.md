@@ -1,0 +1,191 @@
+---
+citace: "Obecně závazná vyhláška obce Košice č. 3/2021"
+nazev: "o stanovení obecního systému odpadového hospodářství"
+druh: "Obecně závazná vyhláška"
+cislo: "3/2021"
+vydavatel: "Obec Košice"
+ico: "00252468"
+kraj: "Jihočeský kraj"
+zmocneni: ["zákon č. 541/2020 Sb., o odpadech - § 59 odst. 4"]
+oblast: ["systém odpadového hospodářství"]
+vydano: "2021-12-09"
+vyveseno: "2021-12-13"
+zverejneno_ve_sbirce: "2024-04-26"
+ucinnost: "2022-01-01"
+zpusob_zverejneni: "dle přechodného ustanovení (zákon č. 35/2021 Sb., § 9)"
+sppsu_id: "SPPRGNLB44MMVED4"
+verze: "1"
+url: "https://sbirkapp.gov.cz/detail/SPPRGNLB44MMVED4"
+text_url: "https://sbirkapp.gov.cz/detail/SPPRGNLB44MMVED4/text"
+soubor: "ozv-system-odpad-hospodarstvi.docx"
+soubor_sha256: "ce87f976e1c549bae86a05570a33f567be040fb5bf99920bfbe943ccb9133bb9"
+ziskani_textu: "docx"
+---
+
+# o stanovení obecního systému odpadového hospodářství
+
+OBEC Košice
+
+Zastupitelstvo obce Košice č.3/2021,
+
+o stanovení obecního systému odpadového hospodářství
+
+Zastupitelstvo obce Košice se na svém zasedání dne 9.12.2021 usnesením č. 6/2021 usneslo vydat na základě § 59 odst. 4 zákona č. 541/2020 Sb., o odpadech (dále jen „zákon 
+o odpadech“), a v souladu s § 10 písm. d) a § 84 odst. 2 písm. h) zákona č. 128/2000 Sb., 
+o obcích (obecní zřízení), ve znění pozdějších předpisů, tuto obecně závaznou vyhlášku (dále jen „vyhláška“):
+
+Čl. 1
+
+Úvodní ustanovení
+
+Tato vyhláška stanovuje obecní systém odpadového hospodářství na území obce Košice (katastrální území Košice u Soběslavi) a obce Doubí (katastrální území Doubí nad Lužnicí).
+
+Každý je povinen odpad nebo movitou věc, které předává do obecního systému, odkládat na místa určená obcí v souladu s povinnostmi stanovenými pro daný druh, kategorii nebo materiál odpadu nebo movitých věcí zákonem o odpadech a touto vyhláškou.
+
+V okamžiku, kdy osoba zapojená do obecního systému odloží movitou věc nebo odpad, 
+s výjimkou výrobků s ukončenou životností, na místě obcí k tomuto účelu určeném, stává se obec vlastníkem této movité věci nebo odpadu.
+
+Stanoviště sběrných nádob je místo, kde jsou sběrné nádoby trvale nebo přechodně umístěny za účelem dalšího nakládání s komunálním odpadem. Stanoviště sběrných nádob jsou individuální nebo společná pro více uživatelů.
+
+Čl. 2
+
+Oddělené soustřeďování komunálního odpadu
+
+Osoby předávající komunální odpad na místa určená obcí jsou povinny odděleně soustřeďovat následující složky:
+
+Biologické odpady,
+
+Papír,
+
+Plasty včetně PET lahví,
+
+Sklo,
+
+Kovy,
+
+Nebezpečné odpady,
+
+Objemný odpad,
+
+Jedlé oleje a tuky,
+
+Textil,
+
+Nápojové kartony,
+
+Směsný komunální odpad
+
+Směsným komunálním odpadem se rozumí zbylý komunální odpad po stanoveném vytřídění podle odstavce 1 písm. a), b), c), d), e), f), g), h), i) a j).
+
+Objemný odpad je takový odpad, který vzhledem ke svým rozměrům nemůže být umístěn do sběrných nádob (např. koberce, matrace, nábytek…).
+
+Čl. 3
+
+Soustřeďování papíru, plastů, skla, kovů, biologického odpadu rostlinného původu, jedlých olejů a tuků, textilu
+
+Papír, plasty, sklo, kovy, jedlé oleje a tuky, textil, nápojové kartony se soustřeďují do zvláštních sběrných nádob, kterými jsou sběrné nádoby a kontejnery.
+
+Zvláštní sběrné nádoby jsou umístěny na těchto stanovištích:
+
+Sběrné nádoby na papír, plast, sklo jsou umístěny: v obci Košice za prodejnou   Jednoty, u Obecního rybníka, za obecním úřadem. V obci Doubí u prodejny potravin a v chatové oblasti Doubí.
+
+Sběrné nádoby na kov jsou umístěny na těchto stanovištích: v obci Košice za prodejnou Jednoty a v obci Doubí u prodejny potravin.
+
+Sběrné nádoby na nápojové kartony, jedlé oleje a tuky, textil jsou umístěny: v obci Košice za prodejnou Jednoty.
+
+Zvláštní sběrné nádoby jsou barevně odlišeny a označeny příslušnými nápisy:
+
+Papír, barva modrá
+
+Plasty, PET lahve, barva žlutá
+
+Sklo, barva zelená
+
+Kovy, barva šedá
+
+Jedlé oleje a tuky, barva hnědá, nápis „JEDLÉ TUKY A OLEJE“
+
+Textil, barva bílá, nápis „TEXTIL“
+
+Do zvláštních sběrných nádob je zakázáno ukládat jiné složky komunálních odpadů, než pro které jsou určeny.
+
+Zvláštní sběrné nádoby je povinnost plnit tak, aby je bylo možno uzavřít a odpad z nich při manipulaci nevypadával. Pokud to umožňuje povaha odpadu, je nutno objem odpadu před jeho odložením do sběrné nádoby minimalizovat.
+
+Papír, plasty, sklo, kovy lze také odevzdávat ve sběrném dvoře, který je umístěn v areálu garáží, č.p. 172.
+
+Tříděný biologický odpad (viz čl. 2, odst.1, písm. a):
+
+Může být kompostován občany na vlastním pozemku pro další využití
+
+Biologicky odpad rostlinného původu, který není likvidován v místě vzniku, lze ukládat na místech určených obcí. Odděleně, pro další zpracování, jsou ukládány ořezané větve o průměru maximálně 80 mm. Místa pro uložení tohoto odpadu jsou zveřejněna na úřední desce obce a webových stránkách obce.
+
+Čl. 4
+
+Svoz nebezpečných složek komunálního odpadu
+
+Nebezpečný odpad lze odevzdávat ve sběrném dvoře, který je umístěn v areálu garáží č.p. 172.
+
+Soustřeďování nebezpečných složek komunálního odpadu podléhá požadavkům stanoveným v čl. 3 odst. 4 a 5.
+
+Čl. 5
+
+Svoz objemného odpadu
+
+Objemný odpad lze odevzdávat ve sběrném dvoře, který je umístěn v areálu garáží    č.p. 172
+
+Soustřeďování objemného odpadu podléhá požadavkům stanoveným v čl. 3 odst. 4 a 5.
+
+Čl. 6
+
+Soustřeďování směsného komunálního odpadu
+
+Směsný komunální odpad se odkládá do sběrných nádob. Pro účely této vyhlášky se   sběrnými nádobami rozumějí:
+
+popelnice,
+
+odpadkové koše, které jsou umístěny na veřejných prostranstvích v obci, sloužící pro odkládání drobného směsného komunálního odpadu.
+
+Soustřeďování směsného komunálního odpadu podléhá požadavkům stanoveným v čl. 3 odst. 4 a 5.
+
+Čl. 7
+
+Nakládání s komunálním odpadem vznikajícím na území obce při činnosti právnických a podnikajících fyzických osob
+
+Právnické a podnikající fyzické osoby zapojené do obecního systému na základě smlouvy s obcí komunální odpad dle čl. 2 odst. 1 písm. k) předávají do sběrných nádob přímo u provozovny právnické a podnikající fyzické osoby.
+
+Výše úhrady za zapojení do obecního systému se stanoví dle kapacity soustřeďovacích prostředků: ceník je uveden na webových stránkách obce www.obeckosice.cz.
+
+Úhrada se vybírá jednorázově, a to v hotovosti nebo převodem na účet 
+č. 2012830/0300.
+
+Čl. 8
+
+Nakládání se stavebním a demoličním odpadem
+
+Stavebním odpadem a demoličním odpadem se rozumí odpad vznikající při stavebních 
+a demoličních činnostech nepodnikajících fyzických osob. Stavební a demoliční odpad není odpadem komunálním.
+
+Stavební a demoliční odpad lze předávat ve sběrném dvoře, který je umístěn v areálu garáží č.p. 172. Celková maximální hmotnost obcí přebíraného stavebního a demoličního odpadu ve sběrném dvoře činí od jednotlivých osob max. 500 kg/osobu /rok.
+
+Pro odložení stavebního a demoličního je možno objednat kontejner, který bude přistaven a odvezen za úplatu. Objednávky přijímá obecní úřad.
+
+Stavební a demoliční odpad vznikající při stavebních a demoličních pracích podléhajících stavebnímu řízení, likviduje stavebník na své náklady prostřednictvím stavebního podnikatele.
+
+Čl. 9
+
+Závěrečná ustanovení
+
+Nabytím účinnosti této vyhlášky se zrušuje obecně závazná vyhláška obce 
+č.1/2015.
+
+Tato vyhláška nabývá účinnosti dnem 1.1.2022.
+
+………………...…………	………..………………..
+
+Ing. Jan Pumpr					Jaromír Černý
+
+místostarosta	 starosta
+
+Vyvěšeno na úřední desce obecního úřadu dne: 13.12.2021
+
+Sejmuto z úřední desky obecního úřadu dne: ………………………
