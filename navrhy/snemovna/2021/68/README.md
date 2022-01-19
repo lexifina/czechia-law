@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-01 | 68/0 | Vládní návrh zákona | [t006800.md](t006800.md), [t0068a0.md](t0068a0.md), [t0068b0.md](t0068b0.md), [t0068c0.md](t0068c0.md), [t0068d0.md](t0068d0.md) |
+| 2022-01-19 | 68/1 | Usnesení rozpočtového výboru č. 23 ze dne 19. ledna 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 370/2017 Sb., o platebním styku, ve znění pozdějších předpisů, a další související zákony | [t006801.md](t006801.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0068b0.md](t0068b0.md) | 68/0 | Platné znění s vyznačením změn | [t0068b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200732) | pymupdf / pdftotext 1.0000 |
 | [t0068c0.md](t0068c0.md) | 68/0 | Návrhy vyhlášek | [t0068c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200735) | pymupdf / pdftotext 1.0000 |
 | [t0068d0.md](t0068d0.md) | 68/0 | Kompatibilita s právem EU | [t0068d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200736) | pymupdf / pdftotext 1.0000 |
+| [t006801.md](t006801.md) | 68/1 | Text | [t006801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203086) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
