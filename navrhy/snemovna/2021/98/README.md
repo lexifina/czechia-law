@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-15 | 98/0 | Předchozí souhlas s rozhodnutím orgánů EU | [t009800.md](t009800.md), [t0098a0.md](t0098a0.md), [t0098b0.md](t0098b0.md), [t0098c0.md](t0098c0.md), [t0098d0.md](t0098d0.md) |
+| 2022-01-20 | 98/1 | Usnesení výboru pro evropské záležitosti č. 13 ze dne 19. ledna 2022 k vládnímu návrhu, kterým se předkládá Poslanecké sněmovně Parlamentu České republiky k vyslovení předchozího souhlasu návrh nařízení Rady, kterým se mění nařízení Rady (ES) č. 168/2007 o zřízení Agentury Evropské unie pro základní práva | [t009801.md](t009801.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0098b0.md](t0098b0.md) | 98/0 | Text | [t0098b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201237) | pymupdf / pdftotext 1.0000 |
 | [t0098c0.md](t0098c0.md) | 98/0 | Text | [t0098c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201241) | pymupdf / pdftotext 1.0000 |
 | [t0098d0.md](t0098d0.md) | 98/0 | Text | [t0098d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201235) | pymupdf / pdftotext 1.0000 |
+| [t009801.md](t009801.md) | 98/1 | Text | [t009801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203228) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
