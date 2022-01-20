@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-16 | 105/0 | Zpráva a jiné | [t010500.md](t010500.md) |
+| 2022-01-20 | 105/1 | Usnesení volebního výboru č. 12 ze dne 20. ledna 2022 k výroční zprávě o činnosti a hospodaření České tiskové kanceláře v roce 2020 | [t010501.md](t010501.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t010500.md](t010500.md) | 105/0 | Text | [t010500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201341) | pymupdf / pdftotext 1.0000 |
+| [t010501.md](t010501.md) | 105/1 | Text | [t010501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203237) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
