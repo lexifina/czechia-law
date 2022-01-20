@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-10 | 79/0 | Zpráva a jiné | [t007900.md](t007900.md), [t0079a0.md](t0079a0.md), [t0079b0.md](t0079b0.md) |
+| 2022-01-20 | 79/1 | Usnesení volebního výboru č. 14 ze dne 20. ledna 2022 k výroční zprávě o hospodaření Českého rozhlasu za rok 2018 | [t007901.md](t007901.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t007900.md](t007900.md) | 79/0 | Text | [t007900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200992) | pymupdf / pdftotext 1.0000 |
 | [t0079a0.md](t0079a0.md) | 79/0 | Text | [t0079a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200991) | tesseract-ces / tesseract-cesbest 0.9977 |
 | [t0079b0.md](t0079b0.md) | 79/0 | Text | [t0079b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200990) | pymupdf / pdftotext 1.0000 |
+| [t007901.md](t007901.md) | 79/1 | Text | [t007901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203243) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
