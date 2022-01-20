@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-10 | 82/0 | Zpráva a jiné | [t008200.md](t008200.md) |
+| 2022-01-20 | 82/1 | Usnesení volebního výboru č. 18 ze dne 20. ledna 2022 k výroční zprávě Rady Českého rozhlasu o činnosti Českého rozhlasu za rok 2019 | [t008201.md](t008201.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t008200.md](t008200.md) | 82/0 | Text | [t008200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201000) | pymupdf / pdftotext 1.0000 |
+| [t008201.md](t008201.md) | 82/1 | Text | [t008201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203256) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
