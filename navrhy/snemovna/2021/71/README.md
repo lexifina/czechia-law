@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-06 | 71/0 | Zpráva a jiné | [t007100.md](t007100.md), [t0071a0.md](t0071a0.md), [t0071b0.md](t0071b0.md), [t0071c0.md](t0071c0.md), [t0071d0.md](t0071d0.md), [t0071e0.md](t0071e0.md), [t0071f0.md](t0071f0.md), [t0071g0.md](t0071g0.md), [t0071h0.md](t0071h0.md), [t0071i0.md](t0071i0.md), [t0071j0.md](t0071j0.md), [t0071k0.md](t0071k0.md), [t0071l0.md](t0071l0.md) |
+| 2022-01-25 | 71/1 | Usnesení výboru pro zdravotnictví č. 9 ze dne 19. ledna 2022 k návrhům výročních zpráv a účetních závěrek zdravotních pojišťoven za rok 2020 s vyjádřením vlády spolu s hodnocením návrhů výročních zpráv a účetních závěrek za rok 2020 a tabulkovými přílohami | [t007101.md](t007101.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0071j0.md](t0071j0.md) | 71/0 | Další | [t0071j0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200847) | pymupdf / pdftotext 1.0000 |
 | [t0071k0.md](t0071k0.md) | 71/0 | Další | [t0071k0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200850) | pymupdf / pdftotext 1.0000 |
 | [t0071l0.md](t0071l0.md) | 71/0 | Další | [t0071l0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200851) | pymupdf / pdftotext 1.0000 |
+| [t007101.md](t007101.md) | 71/1 | Text | [t007101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203496) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
