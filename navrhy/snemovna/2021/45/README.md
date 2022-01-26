@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-18 | 45/0 | Mezinárodní smlouva | [t004500.md](t004500.md), [t0045a0.md](t0045a0.md), [t0045b0.md](t0045b0.md), [t0045c0.md](t0045c0.md), [t0045d0.md](t0045d0.md) |
+| 2022-01-26 | 45/1 | Usnesení zahraničního výboru č. 13 ze dne 20. ledna 2022 k vládnímu návrhu, kterým se předkládá Poslanecké sněmovně Parlamentu České republiky k vyslovení souhlasu s ratifikací změna Dohody o Mezinárodní finanční korporaci vyplývající z rezoluce Rady guvernérů Mezinárodní finanční korporace č. 273. ze dne 16. dubna 2020 | [t004501.md](t004501.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0045b0.md](t0045b0.md) | 45/0 | Text v českém jazyce | [t0045b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200168) | pymupdf / pdftotext 1.0000 |
 | [t0045c0.md](t0045c0.md) | 45/0 | Další | [t0045c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200172) | pymupdf / pdftotext 1.0000 |
 | [t0045d0.md](t0045d0.md) | 45/0 | Další | [t0045d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200174) | pymupdf / pdftotext 1.0000 |
+| [t004501.md](t004501.md) | 45/1 | Text | [t004501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203580) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
