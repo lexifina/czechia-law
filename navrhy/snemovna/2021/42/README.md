@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-16 | 42/0 | Mezinárodní smlouva | [t004200.md](t004200.md), [t0042a0.md](t0042a0.md), [t0042b0.md](t0042b0.md), [t0042c0.md](t0042c0.md), [t0042d0.md](t0042d0.md), [t0042e0.md](t0042e0.md) |
+| 2022-01-26 | 42/1 | Usnesení zahraničního výboru č. 11 ze dne 20. ledna 2022 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Dohoda mezi vládou České republiky a vládou Finské republiky o změně a ukončení platnosti Dohody mezi vládou České a Slovenské federativní republiky a vládou Finské republiky o podpoře a ochraně investic, podepsané 6. listopadu 1990 v Praze, která byla sjednána formou výměny nót | [t004201.md](t004201.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0042c0.md](t0042c0.md) | 42/0 | Text v českém jazyce | [t0042c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200115) | pymupdf / pdftotext 1.0000 |
 | [t0042d0.md](t0042d0.md) | 42/0 | Text v jiném jazyce | [t0042d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200112) | tesseract-ces / tesseract-cesbest 0.9977 |
 | [t0042e0.md](t0042e0.md) | 42/0 | Text v jiném jazyce | [t0042e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200116) | tesseract-ces / tesseract-cesbest 0.9989 |
+| [t004201.md](t004201.md) | 42/1 | Text | [t004201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203573) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
