@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-22 | 112/0 | Zpráva a jiné | [t011200.md](t011200.md) |
+| 2022-02-04 | 112/1 | Usnesení volebního výboru č. 24 ze dne 3. února 2022 ke zprávě o činnosti Rady pro rozhlasové a televizní vysílání a o stavu v oblasti rozhlasového a televizního vysílání a v oblasti poskytování audiovizuálních mediálních služeb na vyžádání za rok 2019 | [t011201.md](t011201.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t011200.md](t011200.md) | 112/0 | Text | [t011200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201592) | pymupdf / pdftotext 0.9974 |
+| [t011201.md](t011201.md) | 112/1 | Text | [t011201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203872) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
