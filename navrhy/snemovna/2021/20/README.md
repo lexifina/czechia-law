@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-11 | 20/0 | Zpráva a jiné | [t002000.md](t002000.md), [t0020a0.md](t0020a0.md), [t0020b0.md](t0020b0.md), [t0020c0.md](t0020c0.md) |
+| 2022-02-07 | 20/1 | Usnesení výboru pro bezpečnost č. 17 ze dne 3. února 2022 ke zprávě o situaci v oblasti migrace a integrace cizinců na území České republiky v roce 2020 | [t002001.md](t002001.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0020a0.md](t0020a0.md) | 20/0 | Text | [t0020a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=199851) | pymupdf / pdftotext 1.0000 |
 | [t0020b0.md](t0020b0.md) | 20/0 | Text | [t0020b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=199850) | pymupdf / pdftotext 0.9998 |
 | [t0020c0.md](t0020c0.md) | 20/0 | Další | [t0020c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=199856) | pymupdf / pdftotext 1.0000 |
+| [t002001.md](t002001.md) | 20/1 | Text | [t002001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203916) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
