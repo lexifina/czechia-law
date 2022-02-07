@@ -18,6 +18,15 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-01-19 | 124/0 | Zpráva a jiné |  |
+| 2022-02-07 | 124/1 | Usnesení volebního výboru č. 30 ze dne 3. února 2022 k výroční zprávě o hospodaření České televize v roce 2019 | [t012401.md](t012401.md) |
+
+## Files
+
+Text as published by psp.cz, extracted from the official file and checked against a second extraction of the same file.
+
+| File | Print | Document | Official file | Extracted / checked |
+| --- | --- | --- | --- | --- |
+| [t012401.md](t012401.md) | 124/1 | Text | [t012401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203893) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
