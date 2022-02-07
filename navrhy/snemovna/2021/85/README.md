@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-10 | 85/0 | Zpráva a jiné | [t008500.md](t008500.md) |
+| 2022-02-07 | 85/1 | Usnesení hospodářského výboru č. 8 ze dne 3. února 2022 ke zprávě o činnosti a hospodaření Energetického regulačního úřadu za rok 2020 | [t008501.md](t008501.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t008500.md](t008500.md) | 85/0 | Text | [t008500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201008) | pymupdf / pdftotext 0.9995 |
+| [t008501.md](t008501.md) | 85/1 | Text | [t008501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203886) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
