@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2021-11-26 | 61/0 | Vládní návrh zákona | [t006100.md](t006100.md), [t0061a0.md](t0061a0.md), [t0061b0.md](t0061b0.md), [t0061c0.md](t0061c0.md), [t0061d0.md](t0061d0.md) |
 | 2022-01-19 | 61/1 | Usnesení rozpočtového výboru č. 24 ze dne 19. ledna 2022 k vládnímu návrhu zákona o panevropském osobním penzijním produktu a o změně souvisejících zákonů (zákon o panevropském osobním penzijním produktu) | [t006101.md](t006101.md) |
 | 2022-01-26 | 61/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o panevropském osobním penzijním produktu a o změně souvisejících zákonů (zákon o panevropském osobním penzijním produktu) | [t006102.md](t006102.md) |
+| 2022-02-09 | 61/3 | Usnesení garančního výboru č. 35 ze dne 9. února 2022 k vládnímu návrhu zákona o panevropském osobním penzijním produktu a o změně souvisejících zákonů (zákon o panevropském osobním penzijním produktu) | [t006103.md](t006103.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0061d0.md](t0061d0.md) | 61/0 | Kompatibilita s právem EU | [t0061d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200549) | pymupdf / pdftotext 1.0000 |
 | [t006101.md](t006101.md) | 61/1 | Text | [t006101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203089) | pymupdf / pdftotext 1.0000 |
 | [t006102.md](t006102.md) | 61/2 | Text | [t006102.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203557) | pymupdf / pdftotext 1.0000 |
+| [t006103.md](t006103.md) | 61/3 | Text | [t006103.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204069) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
