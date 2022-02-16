@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-02-11 | 144/0 | Státní rozpočet | [t0144000000.md](t0144000000.md), [t0144000001.md](t0144000001.md), [t0144000002.md](t0144000002.md), [t0144000003.md](t0144000003.md), [t0144000004.md](t0144000004.md), [t0144000005.md](t0144000005.md), [t0144000006.md](t0144000006.md), [t0144000007.md](t0144000007.md), [t0144000008.md](t0144000008.md), [t0144000009.md](t0144000009.md), [t0144000010.md](t0144000010.md), [t0144000011.md](t0144000011.md), [t0144000012.md](t0144000012.md), [t0144000013.md](t0144000013.md), [t0144000014.md](t0144000014.md), [t0144000016.md](t0144000016.md), [t0144000017.md](t0144000017.md), [t0144000018.md](t0144000018.md), [t0144000019.md](t0144000019.md), [t0144000020.md](t0144000020.md), [t0144000021.md](t0144000021.md), [t0144000022.md](t0144000022.md), [t0144000023.md](t0144000023.md), [t0144000024.md](t0144000024.md), [t0144000025.md](t0144000025.md), [t0144000026.md](t0144000026.md), [t0144000027.md](t0144000027.md) |
+| 2022-02-16 | 144/1 | Usnesení rozpočtového výboru č. 46 ze dne 16. února 2022 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2022 | [t014401.md](t014401.md) |
 
 ## Files
 
@@ -54,6 +55,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0144000025.md](t0144000025.md) | 144/0 | Dokumentace, část č. 7 | [t0144000025.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204146) | pymupdf / pdftotext 1.0000 |
 | [t0144000026.md](t0144000026.md) | 144/0 | Dokumentace, část č. 8 | [t0144000026.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204144) | pymupdf / pdftotext 1.0000 |
 | [t0144000027.md](t0144000027.md) | 144/0 | Dokumentace, část č. 9 | [t0144000027.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204117) | pymupdf / pdftotext 1.0000 |
+| [t014401.md](t014401.md) | 144/1 | Text | [t014401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204272) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
