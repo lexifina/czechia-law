@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-11-18 | 46/0 | Zpráva a jiné | [t004600.md](t004600.md), [t0046a0.md](t0046a0.md), [t0046b0.md](t0046b0.md) |
+| 2022-02-23 | 46/1 | Usnesení zemědělského výboru č. 21 ze dne 22. února 2022 k dotačnímu programu zemědělství pro rok 2022 poskytované podle § 1, § 2 a § 2d zákona č. 252/1997 Sb., o zemědělství, ve znění pozdějších předpisů | [t004601.md](t004601.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t004600.md](t004600.md) | 46/0 | Návrh usnesení Poslanecké sněmovny | [t004600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200184) | pymupdf / pdftotext 1.0000 |
 | [t0046a0.md](t0046a0.md) | 46/0 | Text | [t0046a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200183) | pymupdf / pdftotext 1.0000 |
 | [t0046b0.md](t0046b0.md) | 46/0 | Text | [t0046b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200181) | pymupdf / pdftotext 1.0000 |
+| [t004601.md](t004601.md) | 46/1 | Text | [t004601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204553) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
