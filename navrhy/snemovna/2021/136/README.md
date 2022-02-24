@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-02-02 | 136/0 | Zpráva a jiné | [t013600.md](t013600.md), [t0136a0.md](t0136a0.md) |
+| 2022-02-24 | 136/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 14 ze dne 24. února 2022 k výroční zprávě a účetní závěrce Státního fondu podpory investic za rok 2020 | [t013601.md](t013601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t013600.md](t013600.md) | 136/0 | Návrh usnesení Poslanecké sněmovny | [t013600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203759) | pymupdf / pdftotext 1.0000 |
 | [t0136a0.md](t0136a0.md) | 136/0 | Text | [t0136a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203761) | pymupdf / pdftotext 1.0000 |
+| [t013601.md](t013601.md) | 136/1 | Text | [t013601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204788) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
