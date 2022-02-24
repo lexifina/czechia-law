@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-09 | 77/0 | Zpráva a jiné | [t007700.md](t007700.md), [t0077a0.md](t0077a0.md), [t0077b0.md](t0077b0.md), [t0077c0.md](t0077c0.md), [t0077d0.md](t0077d0.md), [t0077e0.md](t0077e0.md) |
+| 2022-02-24 | 77/1 | Usnesení výboru pro obranu č. 15 ze dne 23. února 2022 k účasti ozbrojených sil České republiky na vojenských cvičeních mimo území České republiky a účast ozbrojených sil jiných států na vojenských cvičeních na území České republiky v roce 2022 | [t007701.md](t007701.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0077c0.md](t0077c0.md) | 77/0 | Další | [t0077c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200982) | pymupdf / pdftotext 0.9999 |
 | [t0077d0.md](t0077d0.md) | 77/0 | Další | [t0077d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200974) | pymupdf / pdftotext 1.0000 |
 | [t0077e0.md](t0077e0.md) | 77/0 | Další | [t0077e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200978) | pymupdf / pdftotext 0.9996 |
+| [t007701.md](t007701.md) | 77/1 | Text | [t007701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204754) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
