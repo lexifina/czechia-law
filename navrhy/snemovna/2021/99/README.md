@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-16 | 99/0 | Zpráva a jiné | [t009900.md](t009900.md), [t0099a0.md](t0099a0.md), [t0099b0.md](t0099b0.md) |
+| 2022-02-24 | 99/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 29 ze dne 23. února 2022 k výroční zprávě a účetní závěrka Státního fondu kinematografie za rok 2017 | [t009901.md](t009901.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t009900.md](t009900.md) | 99/0 | Návrh usnesení Poslanecké sněmovny | [t009900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201302) | pymupdf / pdftotext 1.0000 |
 | [t0099a0.md](t0099a0.md) | 99/0 | Text | [t0099a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201299) | pymupdf / pdftotext 1.0000 |
 | [t0099b0.md](t0099b0.md) | 99/0 | Další | [t0099b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201300) | pymupdf / pdftotext 1.0000 |
+| [t009901.md](t009901.md) | 99/1 | Text | [t009901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204674) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
