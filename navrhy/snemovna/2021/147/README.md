@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-02-17 | 147/0 | Zpráva a jiné | [t014700.md](t014700.md), [t0147a0.md](t0147a0.md), [t0147b0.md](t0147b0.md) |
+| 2022-03-03 | 147/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 33 ze dne 23. února 2022 k návrhu rozpočtu Státního fondu kinematografie na rok 2022 a střednědobého výhledu na léta 2023 a 2024 | [t014701.md](t014701.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t014700.md](t014700.md) | 147/0 | Návrh usnesení Poslanecké sněmovny | [t014700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204337) | pymupdf / pdftotext 1.0000 |
 | [t0147a0.md](t0147a0.md) | 147/0 | Text | [t0147a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204338) | pymupdf / pdftotext 0.9986 |
 | [t0147b0.md](t0147b0.md) | 147/0 | Další | [t0147b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204335) | pymupdf / pdftotext 1.0000 |
+| [t014701.md](t014701.md) | 147/1 | Text | [t014701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205250) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
