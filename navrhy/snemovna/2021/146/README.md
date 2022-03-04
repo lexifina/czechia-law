@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-02-17 | 146/0 | Zpráva a jiné | [t014600.md](t014600.md), [t0146a0.md](t0146a0.md), [t0146b0.md](t0146b0.md), [t0146c0.md](t0146c0.md), [t0146d0.md](t0146d0.md) |
+| 2022-03-04 | 146/1 | Usnesení zemědělského výboru č. 20 ze dne 22. února 2022 k návrhu rozpočtu Státního zemědělského intervenčního fondu na rok 2022 | [t014601.md](t014601.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0146b0.md](t0146b0.md) | 146/0 | Text | [t0146b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204324) | pymupdf / pdftotext 1.0000 |
 | [t0146c0.md](t0146c0.md) | 146/0 | Další | [t0146c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204319) | pymupdf / pdftotext 1.0000 |
 | [t0146d0.md](t0146d0.md) | 146/0 | Další | [t0146d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204325) | pymupdf / pdftotext 1.0000 |
+| [t014601.md](t014601.md) | 146/1 | Text | [t014601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205348) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
