@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-02-28 | 159/0 | Zpráva a jiné | [t015900.md](t015900.md), [t0159a0.md](t0159a0.md) |
+| 2022-03-04 | 159/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 20 ze dne 2. března 2022 k návrhu rozpočtu Státního fondu podpory investic na rok 2022 a střednědobého výhledu na roky 2023 - 2024 | [t015901.md](t015901.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t015900.md](t015900.md) | 159/0 | Text | [t015900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204933) | pymupdf / pdftotext 1.0000 |
 | [t0159a0.md](t0159a0.md) | 159/0 | Další | [t0159a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204934) | pymupdf / pdftotext 1.0000 |
+| [t015901.md](t015901.md) | 159/1 | Text | [t015901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205330) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
