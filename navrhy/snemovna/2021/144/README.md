@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-02-11 | 144/0 | Státní rozpočet | [t0144000000.md](t0144000000.md), [t0144000001.md](t0144000001.md), [t0144000002.md](t0144000002.md), [t0144000003.md](t0144000003.md), [t0144000004.md](t0144000004.md), [t0144000005.md](t0144000005.md), [t0144000006.md](t0144000006.md), [t0144000007.md](t0144000007.md), [t0144000008.md](t0144000008.md), [t0144000009.md](t0144000009.md), [t0144000010.md](t0144000010.md), [t0144000011.md](t0144000011.md), [t0144000012.md](t0144000012.md), [t0144000013.md](t0144000013.md), [t0144000014.md](t0144000014.md), [t0144000016.md](t0144000016.md), [t0144000017.md](t0144000017.md), [t0144000018.md](t0144000018.md), [t0144000019.md](t0144000019.md), [t0144000020.md](t0144000020.md), [t0144000021.md](t0144000021.md), [t0144000022.md](t0144000022.md), [t0144000023.md](t0144000023.md), [t0144000024.md](t0144000024.md), [t0144000025.md](t0144000025.md), [t0144000026.md](t0144000026.md), [t0144000027.md](t0144000027.md) |
 | 2022-02-16 | 144/1 | Usnesení rozpočtového výboru č. 46 ze dne 16. února 2022 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2022 | [t014401.md](t014401.md) |
 | 2022-03-02 | 144/2 | Usnesení rozpočtového výboru č. 61 ze dne 1. března 2022 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2022 | [t014402.md](t014402.md), [t0144a2.md](t0144a2.md), [t0144b2.md](t0144b2.md) |
+| 2022-03-07 | 144/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2022 | [t014403.md](t014403.md), [t0144a3.md](t0144a3.md), [t0144b3.md](t0144b3.md), [t0144c3.md](t0144c3.md) |
 
 ## Files
 
@@ -60,6 +61,10 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t014402.md](t014402.md) | 144/2 | Text | [t014402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205064) | pymupdf / pdftotext 1.0000 |
 | [t0144a2.md](t0144a2.md) | 144/2 | Text | [t0144a2.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205065) | pymupdf / pdftotext 1.0000 |
 | [t0144b2.md](t0144b2.md) | 144/2 | Text | [t0144b2.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205066) | pymupdf / pdftotext 1.0000 |
+| [t014403.md](t014403.md) | 144/3 | Text | [t014403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205503) | pymupdf / pdftotext 1.0000 |
+| [t0144a3.md](t0144a3.md) | 144/3 | Text | [t0144a3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205501) | pymupdf / pdftotext 1.0000 |
+| [t0144b3.md](t0144b3.md) | 144/3 | Text | [t0144b3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205504) | pymupdf / pdftotext 1.0000 |
+| [t0144c3.md](t0144c3.md) | 144/3 | Text | [t0144c3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205499) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
