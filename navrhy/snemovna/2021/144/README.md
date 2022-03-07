@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-02-16 | 144/1 | Usnesení rozpočtového výboru č. 46 ze dne 16. února 2022 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2022 | [t014401.md](t014401.md) |
 | 2022-03-02 | 144/2 | Usnesení rozpočtového výboru č. 61 ze dne 1. března 2022 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2022 | [t014402.md](t014402.md), [t0144a2.md](t0144a2.md), [t0144b2.md](t0144b2.md) |
 | 2022-03-07 | 144/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2022 | [t014403.md](t014403.md), [t0144a3.md](t0144a3.md), [t0144b3.md](t0144b3.md), [t0144c3.md](t0144c3.md) |
+| 2022-03-07 | 144/4 | Návrhy doprovodných usnesení k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2022 | [t014404.md](t014404.md) |
 
 ## Files
 
@@ -65,6 +66,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0144a3.md](t0144a3.md) | 144/3 | Text | [t0144a3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205501) | pymupdf / pdftotext 1.0000 |
 | [t0144b3.md](t0144b3.md) | 144/3 | Text | [t0144b3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205504) | pymupdf / pdftotext 1.0000 |
 | [t0144c3.md](t0144c3.md) | 144/3 | Text | [t0144c3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205499) | pymupdf / pdftotext 1.0000 |
+| [t014404.md](t014404.md) | 144/4 | Text | [t014404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205532) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
