@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-09 | 170/0 | Vládní návrh zákona | [t017000.md](t017000.md), [t0170a0.md](t0170a0.md) |
+| 2022-03-10 | 170/1 | Usnesení výboru pro bezpečnost č. 33 ze dne 10. března 2022 k vládnímu návrhu zákona o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace | [t017001.md](t017001.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t017000.md](t017000.md) | 170/0 | Návrh zákona včetně důvodové zprávy | [t017000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205635) | pymupdf / pdftotext 1.0000 |
 | [t0170a0.md](t0170a0.md) | 170/0 | Kompatibilita s právem EU | [t0170a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205634) | pymupdf / pdftotext 1.0000 |
+| [t017001.md](t017001.md) | 170/1 | Text | [t017001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205818) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
