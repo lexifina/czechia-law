@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-09 | 172/0 | Vládní návrh zákona | [t017200.md](t017200.md) |
+| 2022-03-11 | 172/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 38 ze dne 10. března 2022 k vládnímu návrhu zákona o opatřeních v oblasti školství v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace | [t017201.md](t017201.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t017200.md](t017200.md) | 172/0 | Návrh zákona včetně důvodové zprávy | [t017200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205644) | pymupdf / pdftotext 1.0000 |
+| [t017201.md](t017201.md) | 172/1 | Text | [t017201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205865) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
