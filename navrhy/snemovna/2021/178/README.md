@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-09 | 178/0 | Mezinárodní smlouva | [t017800.md](t017800.md), [t0178a0.md](t0178a0.md), [t0178b0.md](t0178b0.md) |
+| 2022-03-23 | 178/1 | Upravený materiál pro jednání Parlamentu ČR - Ukončení členství v Mezinárodní bance hospodářské spolupráce | [t017801.md](t017801.md), [t0178a1.md](t0178a1.md), [t0178b1.md](t0178b1.md) |
 
 ## Files
 
@@ -28,5 +29,8 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t017800.md](t017800.md) | 178/0 | Návrh usnesení Poslanecké sněmovny | [t017800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205688) | pymupdf / pdftotext 1.0000 |
 | [t0178a0.md](t0178a0.md) | 178/0 | Důvodová zpráva | [t0178a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205689) | pymupdf / pdftotext 1.0000 |
 | [t0178b0.md](t0178b0.md) | 178/0 | Text v českém jazyce | [t0178b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205686) | pymupdf / pdftotext 1.0000 |
+| [t017801.md](t017801.md) | 178/1 | Text | [t017801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206208) | pymupdf / pdftotext 1.0000 |
+| [t0178a1.md](t0178a1.md) | 178/1 | Text | [t0178a1.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206206) | pymupdf / pdftotext 1.0000 |
+| [t0178b1.md](t0178b1.md) | 178/1 | Text | [t0178b1.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206209) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
