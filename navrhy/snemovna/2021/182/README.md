@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-09 | 182/0 | Zpráva a jiné | [t018200.md](t018200.md), [t0182a0.md](t0182a0.md) |
+| 2022-03-29 | 182/1 | Usnesení výboru pro obranu č. 29 ze dne 29. března 2022 k informaci o schválení vyslání sil a prostředků rezortu Ministerstva obrany v rámci Sil rychlé reakce na území členských států NATO v souladu s aktivovanými předběžnými obrannými plány NATO vládou ČR | [t018201.md](t018201.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t018200.md](t018200.md) | 182/0 | Návrh usnesení Poslanecké sněmovny | [t018200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205721) | pymupdf / pdftotext 1.0000 |
 | [t0182a0.md](t0182a0.md) | 182/0 | Text | [t0182a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205719) | pymupdf / pdftotext 1.0000 |
+| [t018201.md](t018201.md) | 182/1 | Text | [t018201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206465) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
