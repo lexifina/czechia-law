@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-09 | 173/0 | Vládní návrh zákona | [t017300.md](t017300.md) |
+| 2022-03-30 | 173/1 | Usnesení rozpočtového výboru č. 66 ze dne 30. března 2022 k vládnímu návrhu zákona o opatřeních v oblasti daní v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace | [t017301.md](t017301.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t017300.md](t017300.md) | 173/0 | Návrh zákona včetně důvodové zprávy | [t017300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205648) | pymupdf / pdftotext 1.0000 |
+| [t017301.md](t017301.md) | 173/1 | Text | [t017301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206530) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
