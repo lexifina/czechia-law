@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-03 | 162/0 | Návrh zákona | [t016200.md](t016200.md), [t0162a0.md](t0162a0.md) |
+| 2022-03-31 | 162/1 | Stanovisko vlády k návrhu poslanců Věry Adámkové, Vlastimila Válka, Toma Philippa, Miloslava Janulíka, Kamala Farhana a dalších na vydání zákona, kterým se mění zákon č. 285/2002 Sb., o darování, odběrech a transplantacích tkání a orgánů a o změně některých zákonů (transplantační zákon), ve znění pozdějších předpisů, a zákon č. 296/2008 Sb., o zajištění jakosti a bezpečnosti lidských tkání a buněk určených k použití u člověka a o změně souvisejících zákonů (zákon o lidských tkáních a buňkách), ve znění pozdějších předpisů | [t016201.md](t016201.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t016200.md](t016200.md) | 162/0 | Návrh zákona včetně důvodové zprávy | [t016200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205241) | pymupdf / pdftotext 1.0000 |
 | [t0162a0.md](t0162a0.md) | 162/0 | Platné znění s vyznačením změn | [t0162a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205240) | pymupdf / pdftotext 1.0000 |
+| [t016201.md](t016201.md) | 162/1 | Stanovisko | [t016201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206647) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
