@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-07 | 165/0 | Návrh zákona | [t016500.md](t016500.md), [t0165a0.md](t0165a0.md), [t0165b0.md](t0165b0.md) |
+| 2022-04-08 | 165/1 | Stanovisko vlády k senátnímu návrhu zákona, kterým se mění zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t016501.md](t016501.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t016500.md](t016500.md) | 165/0 | Návrh zákona včetně důvodové zprávy | [t016500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205529) | pymupdf / pdftotext 1.0000 |
 | [t0165a0.md](t0165a0.md) | 165/0 | Platné znění s vyznačením změn | [t0165a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205527) | pymupdf / pdftotext 1.0000 |
 | [t0165b0.md](t0165b0.md) | 165/0 | Další | [t0165b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205525) | pymupdf / pdftotext 1.0000 |
+| [t016501.md](t016501.md) | 165/1 | Stanovisko | [t016501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207127) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
