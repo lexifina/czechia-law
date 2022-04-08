@@ -17,6 +17,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-07 | 164/0 | Návrh zákona | [t016400.md](t016400.md), [t0164a0.md](t0164a0.md), [t0164b0.md](t0164b0.md) |
+| 2022-04-08 | 164/1 | Stanovisko vlády k senátnímu návrhu zákona, kterým se mění zákon č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon), ve znění pozdějších předpisů | [t016401.md](t016401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t016400.md](t016400.md) | 164/0 | Návrh zákona včetně důvodové zprávy | [t016400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205521) | pymupdf / pdftotext 1.0000 |
 | [t0164a0.md](t0164a0.md) | 164/0 | Platné znění s vyznačením změn | [t0164a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205518) | pymupdf / pdftotext 1.0000 |
 | [t0164b0.md](t0164b0.md) | 164/0 | Další | [t0164b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205523) | pymupdf / pdftotext 1.0000 |
+| [t016401.md](t016401.md) | 164/1 | Stanovisko | [t016401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207124) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
