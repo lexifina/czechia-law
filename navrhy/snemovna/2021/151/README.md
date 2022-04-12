@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-02-23 | 151/0 | Vládní návrh zákona | [t015100.md](t015100.md), [t0151a0.md](t0151a0.md), [t0151b0.md](t0151b0.md) |
+| 2022-04-12 | 151/1 | Usnesení zemědělského výboru č. 37 ze dne 12. dubna 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů | [t015101.md](t015101.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t015100.md](t015100.md) | 151/0 | Návrh zákona včetně důvodové zprávy | [t015100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204591) | pymupdf / pdftotext 1.0000 |
 | [t0151a0.md](t0151a0.md) | 151/0 | Platné znění s vyznačením změn | [t0151a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204590) | pymupdf / pdftotext 1.0000 |
 | [t0151b0.md](t0151b0.md) | 151/0 | Kompatibilita s právem EU | [t0151b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204589) | pymupdf / pdftotext 1.0000 |
+| [t015101.md](t015101.md) | 151/1 | Text | [t015101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207232) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
