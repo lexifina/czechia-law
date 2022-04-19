@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-18 | 185/0 | Návrh zákona | [t018500.md](t018500.md), [t0185a0.md](t0185a0.md) |
+| 2022-04-19 | 185/1 | Stanovisko vlády k návrhu Zastupitelstva Pardubického kraje na vydání zákona, kterým se mění zákon č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů | [t018501.md](t018501.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t018500.md](t018500.md) | 185/0 | Návrh zákona včetně důvodové zprávy | [t018500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206051) | pymupdf / pdftotext 1.0000 |
 | [t0185a0.md](t0185a0.md) | 185/0 | Platné znění s vyznačením změn | [t0185a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206050) | pymupdf / pdftotext 1.0000 |
+| [t018501.md](t018501.md) | 185/1 | Stanovisko | [t018501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207497) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
