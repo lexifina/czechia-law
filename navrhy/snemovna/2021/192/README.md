@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-04-06 | 192/0 | Návrh zákona | [t019200.md](t019200.md), [t0192a0.md](t0192a0.md) |
+| 2022-05-05 | 192/1 | Stanovisko vlády k návrhu poslanců Radka Vondráčka, Petra Sadovského, Martina Kukly a dalších na vydání zákona, kterým se mění zákon č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů | [t019201.md](t019201.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t019200.md](t019200.md) | 192/0 | Návrh zákona včetně důvodové zprávy | [t019200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206940) | pymupdf / pdftotext 0.9994 |
 | [t0192a0.md](t0192a0.md) | 192/0 | Platné znění s vyznačením změn | [t0192a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206941) | pymupdf / pdftotext 1.0000 |
+| [t019201.md](t019201.md) | 192/1 | Stanovisko | [t019201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208561) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
