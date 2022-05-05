@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-02-02 | 137/0 | Vládní návrh zákona | [t013700.md](t013700.md), [t0137a0.md](t0137a0.md) |
 | 2022-04-19 | 137/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 21 ze dne 14. dubna 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon | [t013701.md](t013701.md) |
 | 2022-05-03 | 137/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon | [t013702.md](t013702.md) |
+| 2022-05-05 | 137/3 | Usnesení garančního výboru č. 24 ze dne 5. května 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon | [t013703.md](t013703.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0137a0.md](t0137a0.md) | 137/0 | Platné znění s vyznačením změn | [t0137a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203769) | pymupdf / pdftotext 1.0000 |
 | [t013701.md](t013701.md) | 137/1 | Text | [t013701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207518) | pymupdf / pdftotext 1.0000 |
 | [t013702.md](t013702.md) | 137/2 | Text | [t013702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208401) | pymupdf / pdftotext 1.0000 |
+| [t013703.md](t013703.md) | 137/3 | Text | [t013703.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208576) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
