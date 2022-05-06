@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-02-02 | 138/0 | Vládní návrh zákona | [t013800.md](t013800.md), [t0138a0.md](t0138a0.md), [t0138b0.md](t0138b0.md) |
 | 2022-03-09 | 138/1 | Usnesení zemědělského výboru č. 29 ze dne 8. března 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 97/1996 Sb., o ochraně chmele, ve znění pozdějších předpisů | [t013801.md](t013801.md) |
+| 2022-05-06 | 138/2 | Usnesení zemědělského výboru č. 51 ze dne 5. května 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 97/1996 Sb., o ochraně chmele, ve znění pozdějších předpisů | [t013802.md](t013802.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0138a0.md](t0138a0.md) | 138/0 | Platné znění s vyznačením změn | [t0138a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203774) | pymupdf / pdftotext 1.0000 |
 | [t0138b0.md](t0138b0.md) | 138/0 | Kompatibilita s právem EU | [t0138b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203775) | pymupdf / pdftotext 1.0000 |
 | [t013801.md](t013801.md) | 138/1 | Text | [t013801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205573) | pymupdf / pdftotext 1.0000 |
+| [t013802.md](t013802.md) | 138/2 | Text | [t013802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208666) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
