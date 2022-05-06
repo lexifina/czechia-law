@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-03-11 | 58/1 | Usnesení hospodářského výboru č. 34 ze dne 10. března 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony | [t005801.md](t005801.md) |
 | 2022-04-01 | 58/2 | Usnesení hospodářského výboru č. 43 ze dne 31. března 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony | [t005802.md](t005802.md) |
 | 2022-04-28 | 58/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony | [t005803.md](t005803.md) |
+| 2022-05-06 | 58/4 | Usnesení garančního výboru č. 53 ze dne 5. května 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony | [t005804.md](t005804.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t005801.md](t005801.md) | 58/1 | Text | [t005801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205862) | pymupdf / pdftotext 1.0000 |
 | [t005802.md](t005802.md) | 58/2 | Text | [t005802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206696) | pymupdf / pdftotext 1.0000 |
 | [t005803.md](t005803.md) | 58/3 | Text | [t005803.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208237) | pymupdf / pdftotext 1.0000 |
+| [t005804.md](t005804.md) | 58/4 | Text | [t005804.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208643) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
