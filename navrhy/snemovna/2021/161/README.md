@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-03-02 | 161/0 | Vládní návrh zákona | [t016100.md](t016100.md), [t0161a0.md](t0161a0.md), [t0161b0.md](t0161b0.md) |
 | 2022-04-12 | 161/1 | Usnesení zemědělského výboru č. 36 ze dne 12. dubna 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 452/2001 Sb., o ochraně označení původu a zeměpisných označení a o změně zákona o ochraně spotřebitele, ve znění pozdějších předpisů | [t016101.md](t016101.md) |
 | 2022-04-14 | 161/2 | Usnesení hospodářského výboru č. 50 ze dne 14. dubna 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 452/2001 Sb., o ochraně označení původu a zeměpisných označení a o změně zákona o ochraně spotřebitele, ve znění pozdějších předpisů | [t016102.md](t016102.md) |
+| 2022-05-06 | 161/3 | Usnesení zemědělského výboru č. 46 ze dne 5. května 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 452/2001 Sb., o ochraně označení původu a zeměpisných označení a o změně zákona o ochraně spotřebitele, ve znění pozdějších předpisů | [t016103.md](t016103.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0161b0.md](t0161b0.md) | 161/0 | Kompatibilita s právem EU | [t0161b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205097) | pymupdf / pdftotext 1.0000 |
 | [t016101.md](t016101.md) | 161/1 | Text | [t016101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207230) | pymupdf / pdftotext 1.0000 |
 | [t016102.md](t016102.md) | 161/2 | Text | [t016102.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207434) | pymupdf / pdftotext 1.0000 |
+| [t016103.md](t016103.md) | 161/3 | Text | [t016103.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208647) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
