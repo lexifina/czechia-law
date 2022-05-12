@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-04-07 | 193/0 | Zpráva a jiné | [t019300.md](t019300.md) |
+| 2022-05-12 | 193/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 45 ze dne 11. května ke zprávě o činnosti kontrolní rady Technologické agentury České republiky za rok 2021 | [t019301.md](t019301.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t019300.md](t019300.md) | 193/0 | Text | [t019300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206998) | pymupdf / pdftotext 0.9978 |
+| [t019301.md](t019301.md) | 193/1 | Text | [t019301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208807) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
