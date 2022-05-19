@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-30 | 189/0 | Zpráva a jiné | [t018900.md](t018900.md) |
+| 2022-05-19 | 189/1 | Usnesení petičního výboru č. 48 ze dne 17. května 2022 k souhrnné zprávě o činnosti veřejného ochránce práv za rok 2021 | [t018901.md](t018901.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t018900.md](t018900.md) | 189/0 | Text | [t018900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206558) | pymupdf / pdftotext 1.0000 |
+| [t018901.md](t018901.md) | 189/1 | Text | [t018901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212252) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
