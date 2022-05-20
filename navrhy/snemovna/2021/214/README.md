@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-05-06 | 214/0 | Zpráva a jiné | [t021400.md](t021400.md), [t0214a0.md](t0214a0.md) |
+| 2022-05-20 | 214/1 | Usnesení hospodářského výboru č. 63 ze dne 19. května 2022 ke zprávě o činnosti a hospodaření Úřadu pro přístup k dopravní infrastruktuře za rok 2021 | [t021401.md](t021401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t021400.md](t021400.md) | 214/0 | Text | [t021400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208637) | pymupdf / pdftotext 1.0000 |
 | [t0214a0.md](t0214a0.md) | 214/0 | Text | [t0214a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208635) | pymupdf / pdftotext 1.0000 |
+| [t021401.md](t021401.md) | 214/1 | Text | [t021401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212357) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
