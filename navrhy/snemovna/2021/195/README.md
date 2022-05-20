@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-04-08 | 195/0 | Zpráva a jiné | [t019500.md](t019500.md), [t0195a0.md](t0195a0.md), [t0195c0.md](t0195c0.md), [t0195d0.md](t0195d0.md), [t0195e0.md](t0195e0.md), [t0195f0.md](t0195f0.md), [t0195g0.md](t0195g0.md), [t0195h0.md](t0195h0.md), [t0195i0.md](t0195i0.md) |
+| 2022-05-20 | 195/1 | Usnesení výboru pro obranu č. 35 ze dne 17. května 2022 k informaci o přeletech a průjezdech ozbrojených sil jiných států uskutečněných přes území České republiky ve 2. pololetí 2021 | [t019501.md](t019501.md) |
 
 ## Files
 
@@ -34,6 +35,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0195g0.md](t0195g0.md) | 195/0 | Další | [t0195g0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207111) | pymupdf / pdftotext 1.0000 |
 | [t0195h0.md](t0195h0.md) | 195/0 | Další | [t0195h0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207115) | pymupdf / pdftotext 1.0000 |
 | [t0195i0.md](t0195i0.md) | 195/0 | Další | [t0195i0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207119) | pymupdf / pdftotext 1.0000 |
+| [t019501.md](t019501.md) | 195/1 | Text | [t019501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212383) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
