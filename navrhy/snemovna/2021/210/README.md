@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-05-03 | 210/0 | Zpráva a jiné | [t021000.md](t021000.md) |
+| 2022-05-20 | 210/1 | Usnesení zemědělského výboru č. 60 ze dne 17. května 2022 k výroční zprávě Vinařského fondu za rok 2021 | [t021001.md](t021001.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t021000.md](t021000.md) | 210/0 | Text | [t021000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208396) | pymupdf / pdftotext 0.9990 |
+| [t021001.md](t021001.md) | 210/1 | Text | [t021001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212359) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
