@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-02-01 | 135/0 | Mezinárodní smlouva | [t013500.md](t013500.md), [t0135a0.md](t0135a0.md), [t0135b0.md](t0135b0.md) |
+| 2022-05-23 | 135/1 | Usnesení zahraničního výboru č. 43 ze dne 19. května 2022 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Dohoda mezi Evropskou unií a jejími členskými státy na jedné straně a Státem Katar na straně druhé o letecké dopravě | [t013501.md](t013501.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t013500.md](t013500.md) | 135/0 | Návrh usnesení Poslanecké sněmovny | [t013500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203740) | pymupdf / pdftotext 1.0000 |
 | [t0135a0.md](t0135a0.md) | 135/0 | Důvodová zpráva | [t0135a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203739) | pymupdf / pdftotext 1.0000 |
 | [t0135b0.md](t0135b0.md) | 135/0 | Text v českém jazyce | [t0135b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203741) | pymupdf / pdftotext 1.0000 |
+| [t013501.md](t013501.md) | 135/1 | Text | [t013501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212423) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
