@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-04-11 | 198/0 | Zpráva a jiné | [t019800.md](t019800.md) |
+| 2022-05-31 | 198/1 | Usnesení kontrolního výboru č. 37 ze dne 19. května 2022 k výroční zprávě o činnosti NKÚ za rok 2021 | [t019801.md](t019801.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t019800.md](t019800.md) | 198/0 | Text | [t019800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207174) | pymupdf / pdftotext 1.0000 |
+| [t019801.md](t019801.md) | 198/1 | Text | [t019801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212752) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
