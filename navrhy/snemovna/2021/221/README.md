@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-05-19 | 221/0 | Vládní návrh zákona | [t022100.md](t022100.md), [t0221a0.md](t0221a0.md), [t0221b0.md](t0221b0.md) |
+| 2022-05-31 | 221/1 | Usnesení výboru pro bezpečnost č. 43 ze dne 31. května 2022 k vládnímu návrhu zákona o dalších opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace a o změně dalších zákonů v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace | [t022101.md](t022101.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t022100.md](t022100.md) | 221/0 | Návrh zákona včetně důvodové zprávy | [t022100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212214) | pymupdf / pdftotext 1.0000 |
 | [t0221a0.md](t0221a0.md) | 221/0 | Platné znění s vyznačením změn | [t0221a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212215) | pymupdf / pdftotext 1.0000 |
 | [t0221b0.md](t0221b0.md) | 221/0 | Návrhy vyhlášek | [t0221b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212211) | pymupdf / pdftotext 1.0000 |
+| [t022101.md](t022101.md) | 221/1 | Text | [t022101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212737) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
