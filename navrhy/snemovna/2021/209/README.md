@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-05-02 | 209/0 | Návrh zákona | [t020900.md](t020900.md), [t0209a0.md](t0209a0.md) |
+| 2022-06-02 | 209/1 | Stanovisko vlády k návrhu poslanců Josefa Bělici, Michala Ratiborského, Pavla Růžičky a dalších na vydání zákona, kterým se mění zákon č. 222/1999 Sb., o zajišťování obrany České republiky, ve znění pozdějších předpisů, a zákon č. 153/1994 Sb., o zpravodajských službách České republiky, ve znění pozdějších předpisů | [t020901.md](t020901.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t020900.md](t020900.md) | 209/0 | Návrh zákona včetně důvodové zprávy | [t020900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208384) | pymupdf / pdftotext 1.0000 |
 | [t0209a0.md](t0209a0.md) | 209/0 | Platné znění s vyznačením změn | [t0209a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208381) | pymupdf / pdftotext 1.0000 |
+| [t020901.md](t020901.md) | 209/1 | Stanovisko | [t020901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212941) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
