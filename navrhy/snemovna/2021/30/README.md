@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2021-11-11 | 30/0 | Vládní návrh zákona | [t003000.md](t003000.md), [t0030a0.md](t0030a0.md), [t0030b0.md](t0030b0.md), [t0030c0.md](t0030c0.md) |
 | 2022-05-19 | 30/1 | Usnesení volebního výboru č. 48 ze dne 17. května 2022 k vládnímu návrhu zákona o službách platforem pro sdílení videonahrávek a o změně některých souvisejících zákonů (zákon o službách platforem pro sdílení videonahrávek) | [t003001.md](t003001.md) |
+| 2022-06-03 | 30/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o službách platforem pro sdílení videonahrávek a o změně některých souvisejících zákonů (zákon o službách platforem pro sdílení videonahrávek) | [t003002.md](t003002.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0030b0.md](t0030b0.md) | 30/0 | Platné znění s vyznačením změn | [t0030b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=199894) | pymupdf / pdftotext 1.0000 |
 | [t0030c0.md](t0030c0.md) | 30/0 | Kompatibilita s právem EU | [t0030c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=199893) | pymupdf / pdftotext 1.0000 |
 | [t003001.md](t003001.md) | 30/1 | Text | [t003001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212326) | pymupdf / pdftotext 1.0000 |
+| [t003002.md](t003002.md) | 30/2 | Text | [t003002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212994) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
