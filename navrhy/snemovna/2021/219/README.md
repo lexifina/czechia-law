@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-05-18 | 219/0 | Vládní návrh zákona | [t021900.md](t021900.md), [t0219a0.md](t0219a0.md), [t0219b0.md](t0219b0.md) |
+| 2022-06-08 | 219/1 | Usnesení rozpočtového výboru č. 103 ze dne 8. června 2022 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o koordinaci spolupráce s Evropským úřadem pro boj proti podvodům | [t021901.md](t021901.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t021900.md](t021900.md) | 219/0 | Návrh zákona včetně důvodové zprávy | [t021900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212161) | pymupdf / pdftotext 1.0000 |
 | [t0219a0.md](t0219a0.md) | 219/0 | Platné znění s vyznačením změn | [t0219a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212158) | pymupdf / pdftotext 1.0000 |
 | [t0219b0.md](t0219b0.md) | 219/0 | Kompatibilita s právem EU | [t0219b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212159) | pymupdf / pdftotext 1.0000 |
+| [t021901.md](t021901.md) | 219/1 | Text | [t021901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207642) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
