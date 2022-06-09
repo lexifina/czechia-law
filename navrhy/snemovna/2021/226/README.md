@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-05-27 | 226/0 | Zpráva a jiné | [t022600.md](t022600.md) |
+| 2022-06-09 | 226/1 | Usnesení hospodářského výboru č. 65 ze dne 9. června 2022 k výroční zprávě Českého telekomunikačního úřadu za rok 2021 | [t022601.md](t022601.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t022600.md](t022600.md) | 226/0 | Text | [t022600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212711) | pymupdf / pdftotext 1.0000 |
+| [t022601.md](t022601.md) | 226/1 | Text | [t022601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207737) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
