@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-03-10 | 56/1 | Usnesení výboru pro životní prostředí č. 23 ze dne 9. března 2022 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o omezení dopadu vybraných plastových výrobků na životní prostředí | [t005601.md](t005601.md) |
 | 2022-04-14 | 56/2 | Usnesení výboru pro životní prostředí č. 38 ze dne 13. dubna 2022 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o omezení dopadu vybraných plastových výrobků na životní prostředí | [t005602.md](t005602.md) |
 | 2022-06-03 | 56/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o omezení dopadu vybraných plastových výrobků na životní prostředí | [t005603.md](t005603.md) |
+| 2022-06-09 | 56/4 | Usnesení garančního výboru č. 43 ze dne 8. června 2022 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o omezení dopadu vybraných plastových výrobků na životní prostředí | [t005604.md](t005604.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t005601.md](t005601.md) | 56/1 | Text | [t005601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205766) | pymupdf / pdftotext 1.0000 |
 | [t005602.md](t005602.md) | 56/2 | Text | [t005602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207384) | pymupdf / pdftotext 1.0000 |
 | [t005603.md](t005603.md) | 56/3 | Text | [t005603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213030) | pymupdf / pdftotext 1.0000 |
+| [t005604.md](t005604.md) | 56/4 | Text | [t005604.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207698) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
