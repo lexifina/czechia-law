@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-04-27 | 207/0 | Vládní návrh zákona | [t020700.md](t020700.md), [t0207a0.md](t0207a0.md), [t0207b0.md](t0207b0.md), [t0207c0.md](t0207c0.md) |
+| 2022-06-09 | 207/1 | Usnesení hospodářského výboru č. 69 ze dne 9. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, a další související zákony | [t020701.md](t020701.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0207a0.md](t0207a0.md) | 207/0 | Platné znění s vyznačením změn | [t0207a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208180) | pymupdf / pdftotext 1.0000 |
 | [t0207b0.md](t0207b0.md) | 207/0 | Návrhy vyhlášek | [t0207b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208176) | pymupdf / pdftotext 1.0000 |
 | [t0207c0.md](t0207c0.md) | 207/0 | Kompatibilita s právem EU | [t0207c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208182) | pymupdf / pdftotext 1.0000 |
+| [t020701.md](t020701.md) | 207/1 | Text | [t020701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207760) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
