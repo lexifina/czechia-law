@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-06-08 | 242/0 | Vládní návrh zákona | [t024200.md](t024200.md) |
+| 2022-06-14 | 242/1 | Usnesení výboru pro sociální politiku č. 45 ze dne 14. června 2022 k vládnímu návrhu zákona o jednorázovém příspěvku na dítě | [t024201.md](t024201.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t024200.md](t024200.md) | 242/0 | Návrh zákona včetně důvodové zprávy | [t024200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207671) | pymupdf / pdftotext 1.0000 |
+| [t024201.md](t024201.md) | 242/1 | Text | [t024201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207961) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
