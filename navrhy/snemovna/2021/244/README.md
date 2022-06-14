@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-06-08 | 244/0 | Vládní návrh zákona | [t024400.md](t024400.md), [t0244a0.md](t0244a0.md) |
+| 2022-06-14 | 244/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 65 ze dne 14. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 67/2022 Sb., o opatřeních v oblasti školství v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění zákona č. …/2022 Sb. | [t024401.md](t024401.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t024400.md](t024400.md) | 244/0 | Návrh zákona včetně důvodové zprávy | [t024400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207687) | pymupdf / pdftotext 1.0000 |
 | [t0244a0.md](t0244a0.md) | 244/0 | Platné znění s vyznačením změn | [t0244a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207685) | pymupdf / pdftotext 1.0000 |
+| [t024401.md](t024401.md) | 244/1 | Text | [t024401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207983) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
