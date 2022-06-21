@@ -1,0 +1,47 @@
+{
+  "listing": {
+    "jednaciCislo": "42 C 293/2021-33",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Petra Sedláčková",
+    "ecli": "ECLI:CZ:MSBR:2022:42.C.293.2021.1",
+    "predmetRizeni": "zaplacení 260 811,58 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2022-06-21",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "korporace",
+      "odtah vozidla",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o obchodním zastoupení",
+      "smlouva o úvěru",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 1721 z. č. 89/2012 Sb.",
+      "§ 2398 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 2396 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb977154-759f-433b-a288-3973ba82ac1f"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/bb977154-759f-433b-a288-3973ba82ac1f",
+  "source_sha256": "ae649f64fbe4448a337c12a6a40b506ff70783021478895a13a992c9c2c2021a",
+  "source_bytes": 32304,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
