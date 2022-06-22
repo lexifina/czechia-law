@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-05-18 | 218/0 | Vládní návrh zákona | [t021800.md](t021800.md), [t0218a0.md](t0218a0.md) |
 | 2022-06-08 | 218/1 | Usnesení rozpočtového výboru č. 102 ze dne 8. června 2022 k vládnímu návrhu zákona o koordinaci spolupráce s Evropským úřadem pro boj proti podvodům | [t021801.md](t021801.md) |
+| 2022-06-22 | 218/2 | Usnesení rozpočtového výboru č. 114 ze dne 22. června 2022 k vládnímu návrhu zákona o koordinaci spolupráce s Evropským úřadem pro boj proti podvodům | [t021802.md](t021802.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t021800.md](t021800.md) | 218/0 | Návrh zákona včetně důvodové zprávy | [t021800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212154) | pymupdf / pdftotext 1.0000 |
 | [t0218a0.md](t0218a0.md) | 218/0 | Kompatibilita s právem EU | [t0218a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212156) | pymupdf / pdftotext 1.0000 |
 | [t021801.md](t021801.md) | 218/1 | Text | [t021801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207640) | pymupdf / pdftotext 1.0000 |
+| [t021802.md](t021802.md) | 218/2 | Text | [t021802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213499) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
