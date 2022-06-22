@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-03-09 | 73/1 | Usnesení zemědělského výboru č. 26 ze dne 8. března 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů, a další související zákony | [t007301.md](t007301.md) |
 | 2022-05-06 | 73/2 | Usnesení zemědělského výboru č. 47 ze dne 5. května 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů, a další související zákony | [t007302.md](t007302.md) |
 | 2022-06-17 | 73/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů, a další související zákony | [t007303.md](t007303.md) |
+| 2022-06-22 | 73/4 | Usnesení garančního výboru č. 62 ze dne 21. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů, a další související zákony | [t007304.md](t007304.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t007301.md](t007301.md) | 73/1 | Text | [t007301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205582) | pymupdf / pdftotext 1.0000 |
 | [t007302.md](t007302.md) | 73/2 | Text | [t007302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208653) | pymupdf / pdftotext 1.0000 |
 | [t007303.md](t007303.md) | 73/3 | Text | [t007303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213361) | pymupdf / pdftotext 1.0000 |
+| [t007304.md](t007304.md) | 73/4 | Text | [t007304.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213481) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
