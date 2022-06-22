@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-03-09 | 72/1 | Usnesení zemědělského výboru č. 27 ze dne 8. března 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů, a další související zákony | [t007201.md](t007201.md) |
 | 2022-05-06 | 72/2 | Usnesení zemědělského výboru č. 48 ze dne 5. května 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů, a další související zákony | [t007202.md](t007202.md) |
 | 2022-06-17 | 72/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů, a další související zákony | [t007203.md](t007203.md) |
+| 2022-06-22 | 72/4 | Usnesení garančního výboru č. 63 ze dne 21. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 166/1999 Sb., o veterinární péči a o změně některých souvisejících zákonů (veterinární zákon), ve znění pozdějších předpisů, a další související zákony | [t007204.md](t007204.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t007201.md](t007201.md) | 72/1 | Text | [t007201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205578) | pymupdf / pdftotext 1.0000 |
 | [t007202.md](t007202.md) | 72/2 | Text | [t007202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208656) | pymupdf / pdftotext 1.0000 |
 | [t007203.md](t007203.md) | 72/3 | Text | [t007203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213357) | pymupdf / pdftotext 1.0000 |
+| [t007204.md](t007204.md) | 72/4 | Text | [t007204.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213478) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
