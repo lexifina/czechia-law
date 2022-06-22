@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-03-09 | 57/1 | Usnesení zemědělského výboru č. 28 ze dne 8. března 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění pozdějších předpisů | [t005701.md](t005701.md) |
 | 2022-05-06 | 57/2 | Usnesení zemědělského výboru č. 50 ze dne 5. května 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění pozdějších předpisů | [t005702.md](t005702.md) |
 | 2022-06-17 | 57/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění pozdějších předpisů | [t005703.md](t005703.md) |
+| 2022-06-22 | 57/4 | Usnesení garančního výboru č. 64 ze dne 21. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 242/2000 Sb., o ekologickém zemědělství a o změně zákona č. 368/1992 Sb., o správních poplatcích, ve znění pozdějších předpisů, ve znění pozdějších předpisů | [t005704.md](t005704.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t005701.md](t005701.md) | 57/1 | Text | [t005701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205575) | pymupdf / pdftotext 1.0000 |
 | [t005702.md](t005702.md) | 57/2 | Text | [t005702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208662) | pymupdf / pdftotext 1.0000 |
 | [t005703.md](t005703.md) | 57/3 | Text | [t005703.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213355) | pymupdf / pdftotext 1.0000 |
+| [t005704.md](t005704.md) | 57/4 | Text | [t005704.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213473) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
