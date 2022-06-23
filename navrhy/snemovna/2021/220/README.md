@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-05-18 | 220/0 | Zpráva a jiné | [t022000.md](t022000.md), [t0220a0.md](t0220a0.md), [t0220b0.md](t0220b0.md), [t0220c0.md](t0220c0.md), [t0220d0.md](t0220d0.md), [t0220e0.md](t0220e0.md) |
+| 2022-06-23 | 220/1 | Usnesení výboru pro obranu č. 46 ze dne 21. června 2022 k 2. doplňku k účasti ozbrojených sil České republiky na vojenských cvičeních mimo území České republiky a účasti ozbrojených sil jiných států na vojenských cvičeních na území České republiky v roce 2022 | [t022001.md](t022001.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0220c0.md](t0220c0.md) | 220/0 | Další | [t0220c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212166) | pymupdf / pdftotext 1.0000 |
 | [t0220d0.md](t0220d0.md) | 220/0 | Další | [t0220d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212172) | pymupdf / pdftotext 1.0000 |
 | [t0220e0.md](t0220e0.md) | 220/0 | Další | [t0220e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212173) | pymupdf / pdftotext 1.0000 |
+| [t022001.md](t022001.md) | 220/1 | Text | [t022001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213675) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
