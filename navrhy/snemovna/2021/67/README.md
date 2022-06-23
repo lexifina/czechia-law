@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2021-11-29 | 67/0 | Vládní návrh zákona | [t006700.md](t006700.md), [t0067a0.md](t0067a0.md) |
 | 2022-06-09 | 67/1 | Usnesení výboru pro životní prostředí č. 41 ze dne 8. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 276/2003 Sb., o Antarktidě a o změně některých zákonů, ve znění pozdějších předpisů | [t006701.md](t006701.md) |
+| 2022-06-23 | 67/2 | Usnesení výboru pro životní prostředí č. 51 ze dne 23. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 276/2003 Sb., o Antarktidě a o změně některých zákonů, ve znění pozdějších předpisů | [t006702.md](t006702.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t006700.md](t006700.md) | 67/0 | Návrh zákona včetně důvodové zprávy | [t006700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200653) | pymupdf / pdftotext 1.0000 |
 | [t0067a0.md](t0067a0.md) | 67/0 | Platné znění s vyznačením změn | [t0067a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200652) | pymupdf / pdftotext 1.0000 |
 | [t006701.md](t006701.md) | 67/1 | Text | [t006701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207731) | pymupdf / pdftotext 1.0000 |
+| [t006702.md](t006702.md) | 67/2 | Text | [t006702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213712) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
