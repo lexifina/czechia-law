@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-06-07 | 241/0 | Návrh zákona | [t024100.md](t024100.md), [t0241a0.md](t0241a0.md) |
+| 2022-07-01 | 241/1 | Stanovisko vlády k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové,  Olgy Richterové, Martina Baxy a Jany Pastuchové na vydání zákona, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony | [t024101.md](t024101.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t024100.md](t024100.md) | 241/0 | Návrh zákona včetně důvodové zprávy | [t024100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203345) | pymupdf / pdftotext 1.0000 |
 | [t0241a0.md](t0241a0.md) | 241/0 | Platné znění s vyznačením změn | [t0241a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203344) | pymupdf / pdftotext 1.0000 |
+| [t024101.md](t024101.md) | 241/1 | Stanovisko | [t024101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214501) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
