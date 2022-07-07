@@ -1,0 +1,35 @@
+{
+  "listing": {
+    "jednaciCislo": "23 C 2/2020-318",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Otília Hrehová",
+    "ecli": "ECLI:CZ:OSPH02:2022:23.C.2.2020.7",
+    "predmetRizeni": "o náhradu škody",
+    "datumVydani": "2022-07-07",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "majetková újma",
+      "nemajetková újma",
+      "odpovědnost státu za škodu",
+      "peněžité plnění",
+      "zadostiučinění / satisfakce",
+      "zastavení exekuce / výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 82/1998 Sb.",
+      "§ 50b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c60990a-91b3-42f2-87de-c6875b8c32f2"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/8c60990a-91b3-42f2-87de-c6875b8c32f2",
+  "source_sha256": "ed4b8b1fe7b583263c5072aeccf2e91ba062c1e8fde6c5de089ac919cbd44391",
+  "source_bytes": 82982,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
