@@ -1,0 +1,40 @@
+{
+  "listing": {
+    "jednaciCislo": "19 C 49/2022-38",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Kateřina Gabrielová",
+    "ecli": "ECLI:CZ:MSBR:2022:19.C.49.2022.1",
+    "predmetRizeni": "zaplacení 22 480,15 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2022-07-08",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de5390a2-2a26-4c6e-ab00-b6f430b2d043"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/de5390a2-2a26-4c6e-ab00-b6f430b2d043",
+  "source_sha256": "522a7ce83aaa85f8d8ff9dc16de7d65e49812f0bf7751b9a7e7cbbe2389e3d9c",
+  "source_bytes": 19770,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
