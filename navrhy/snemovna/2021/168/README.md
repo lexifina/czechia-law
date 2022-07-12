@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-03-07 | 168/0 | Vládní návrh zákona | [t016800.md](t016800.md), [t0168a0.md](t0168a0.md), [t0168b0.md](t0168b0.md) |
 | 2022-05-05 | 168/1 | Usnesení výboru pro zdravotnictví č. 29 ze dne 4. května 2022 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro | [t016801.md](t016801.md) |
+| 2022-07-12 | 168/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro | [t016802.md](t016802.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0168a0.md](t0168a0.md) | 168/0 | Platné znění s vyznačením změn | [t0168a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205478) | pymupdf / pdftotext 1.0000 |
 | [t0168b0.md](t0168b0.md) | 168/0 | Kompatibilita s právem EU | [t0168b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205473) | pymupdf / pdftotext 1.0000 |
 | [t016801.md](t016801.md) | 168/1 | Text | [t016801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208543) | pymupdf / pdftotext 1.0000 |
+| [t016802.md](t016802.md) | 168/2 | Text | [t016802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214734) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
