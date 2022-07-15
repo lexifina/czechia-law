@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-06-17 | 247/0 | Návrh zákona | [t024700.md](t024700.md), [t0247a0.md](t0247a0.md) |
+| 2022-07-15 | 247/1 | Stanovisko vlády k návrhu poslanců Jaroslava Bašty a Věry Adámkové na vydání zákona, kterým se mění zákon č. 65/2017 Sb., o ochraně zdraví před škodlivými účinky návykových látek, ve znění pozdějších předpisů | [t024701.md](t024701.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t024700.md](t024700.md) | 247/0 | Návrh zákona včetně důvodové zprávy | [t024700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213307) | pymupdf / pdftotext 1.0000 |
 | [t0247a0.md](t0247a0.md) | 247/0 | Platné znění s vyznačením změn | [t0247a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213306) | pymupdf / pdftotext 1.0000 |
+| [t024701.md](t024701.md) | 247/1 | Stanovisko | [t024701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214957) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
