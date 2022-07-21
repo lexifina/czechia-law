@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-06-24 | 258/0 | Návrh zákona | [t025800.md](t025800.md), [t0258a0.md](t0258a0.md) |
+| 2022-07-21 | 258/1 | Stanovisko vlády k návrhu poslanců Lucie Šafránkové, Tomia Okamury, Radima Fialy a dalších na vydání zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů | [t025801.md](t025801.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t025800.md](t025800.md) | 258/0 | Návrh zákona včetně důvodové zprávy | [t025800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213785) | pymupdf / pdftotext 0.9993 |
 | [t0258a0.md](t0258a0.md) | 258/0 | Platné znění s vyznačením změn | [t0258a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213784) | pymupdf / pdftotext 1.0000 |
+| [t025801.md](t025801.md) | 258/1 | Stanovisko | [t025801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215177) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
