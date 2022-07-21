@@ -1,0 +1,35 @@
+{
+  "listing": {
+    "jednaciCislo": "70 C 495/2020-92",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Říhová",
+    "ecli": "ECLI:CZ:OSPH01:2022:70.C.495.2020.1",
+    "predmetRizeni": "o zaplacení 56 992,43 Kč s příslušenstvím",
+    "datumVydani": "2022-07-21",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 164 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bdc8734a-a6bc-44fc-94b4-2e1c0edef14f"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/bdc8734a-a6bc-44fc-94b4-2e1c0edef14f",
+  "source_sha256": "b14c78e8fedf4f8397f80a015d74351ef782bdc759c92032a0377af826b90663",
+  "source_bytes": 29297,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
