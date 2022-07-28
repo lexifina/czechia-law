@@ -1,0 +1,28 @@
+{
+  "listing": {
+    "jednaciCislo": "42 C 124/2022-18",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2022:42.C.124.2022.1",
+    "predmetRizeni": "o zaplacení 1 727 Kč s příslušenstvím",
+    "datumVydani": "2022-07-28",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55645e0a-1165-49aa-a87a-9d96abfad4cb"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/55645e0a-1165-49aa-a87a-9d96abfad4cb",
+  "source_sha256": "1a696d300d87781e4b9e5b8b53ddd0f827c98c4533b4cf5d4338cabd0f72dae5",
+  "source_bytes": 17656,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
