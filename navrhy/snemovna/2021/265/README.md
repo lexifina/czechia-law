@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-07-12 | 265/0 | Návrh zákona | [t026500.md](t026500.md), [t0265a0.md](t0265a0.md) |
+| 2022-07-29 | 265/1 | Stanovisko vlády k návrhu Zastupitelstva Zlínského kraje na vydání zákona, kterým se mění zákon č. 239/2000 Sb., o integrovaném záchranném systému a o změně některých zákonů, ve znění pozdějších předpisů | [t026501.md](t026501.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t026500.md](t026500.md) | 265/0 | Návrh zákona včetně důvodové zprávy | [t026500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214777) | pymupdf / pdftotext 1.0000 |
 | [t0265a0.md](t0265a0.md) | 265/0 | Platné znění s vyznačením změn | [t0265a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214780) | pymupdf / pdftotext 1.0000 |
+| [t026501.md](t026501.md) | 265/1 | Stanovisko | [t026501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215322) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
