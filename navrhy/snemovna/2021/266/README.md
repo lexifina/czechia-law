@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-07-12 | 266/0 | Návrh zákona | [t026600.md](t026600.md), [t0266a0.md](t0266a0.md) |
+| 2022-07-29 | 266/1 | Stanovisko vlády k návrhu poslanců Lucie Šafránkové, Tomia Okamury, Radima Fialy a dalších na vydání zákona, kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů | [t026601.md](t026601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t026600.md](t026600.md) | 266/0 | Návrh zákona včetně důvodové zprávy | [t026600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214782) | pymupdf / pdftotext 1.0000 |
 | [t0266a0.md](t0266a0.md) | 266/0 | Platné znění s vyznačením změn | [t0266a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214783) | pymupdf / pdftotext 1.0000 |
+| [t026601.md](t026601.md) | 266/1 | Stanovisko | [t026601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215316) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
