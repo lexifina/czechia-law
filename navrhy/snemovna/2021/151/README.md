@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-06-17 | 151/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů | [t015103.md](t015103.md) |
 | 2022-06-22 | 151/4 | Usnesení garančního výboru č. 65 ze dne 21. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů | [t015104.md](t015104.md) |
 | 2022-08-11 | 151/5 | Návrh zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, vrácený Senátem | [t015105.md](t015105.md) |
+| 2022-08-11 | 151/6 | Usnesení Senátu k návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů | [t015106.md](t015106.md) |
 
 ## Files
 
@@ -40,5 +41,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t015103.md](t015103.md) | 151/3 | Text | [t015103.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213365) | pymupdf / pdftotext 1.0000 |
 | [t015104.md](t015104.md) | 151/4 | Text | [t015104.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213475) | pymupdf / pdftotext 1.0000 |
 | [t015105.md](t015105.md) | 151/5 | Text | [t015105.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215559) | pymupdf / pdftotext 1.0000 |
+| [t015106.md](t015106.md) | 151/6 | Text | [t015106.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215563) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
