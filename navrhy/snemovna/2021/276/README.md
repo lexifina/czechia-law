@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-07-27 | 276/0 | Návrh zákona | [t027600.md](t027600.md), [t0276a0.md](t0276a0.md) |
+| 2022-08-25 | 276/1 | Stanovisko vlády k návrhu poslanců Marka Výborného, Marka Bendy, Vlastimila Válka, Aleše Juchelky a Aleše Dufka na vydání ústavního zákona, kterým se mění Listina základních práv a svobod, ve znění ústavního zákona č. 162/1998 Sb. a ústavního zákona č. 295/2021 Sb. | [t027601.md](t027601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t027600.md](t027600.md) | 276/0 | Návrh zákona včetně důvodové zprávy | [t027600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215267) | pymupdf / pdftotext 1.0000 |
 | [t0276a0.md](t0276a0.md) | 276/0 | Platné znění s vyznačením změn | [t0276a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215268) | pymupdf / pdftotext 1.0000 |
+| [t027601.md](t027601.md) | 276/1 | Stanovisko | [t027601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215826) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
