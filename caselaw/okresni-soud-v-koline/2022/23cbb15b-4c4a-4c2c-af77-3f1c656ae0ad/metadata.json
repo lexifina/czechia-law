@@ -1,0 +1,31 @@
+{
+  "listing": {
+    "jednaciCislo": "11 C 209/2021-63",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Jana Matoušková",
+    "ecli": "ECLI:CZ:OSKO:2022:11.C.209.2021.1",
+    "predmetRizeni": "o zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2022-08-25",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "daň z nemovitosti",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví",
+      "zrušení spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1143 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/23cbb15b-4c4a-4c2c-af77-3f1c656ae0ad"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/23cbb15b-4c4a-4c2c-af77-3f1c656ae0ad",
+  "source_sha256": "ac3b4bf50955707dda2f59cc4f9394f02f9302ebef7474d23f306f2791e1035f",
+  "source_bytes": 31478,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
