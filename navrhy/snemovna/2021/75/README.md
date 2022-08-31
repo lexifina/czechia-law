@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2021-12-09 | 75/0 | Vládní návrh zákona | [t007500.md](t007500.md), [t0075a0.md](t0075a0.md), [t0075b0.md](t0075b0.md) |
 | 2022-07-08 | 75/1 | Usnesení výboru pro životní prostředí č. 55 ze dne 8. července 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 73/2012 Sb., o látkách, které poškozují ozonovou vrstvu, a o fluorovaných skleníkových plynech, ve znění pozdějších předpisů | [t007501.md](t007501.md) |
+| 2022-08-31 | 75/2 | Usnesení výboru pro životní prostředí č. 56 ze dne 31. srpna 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 73/2012 Sb., o látkách, které poškozují ozonovou vrstvu, a o fluorovaných skleníkových plynech, ve znění pozdějších předpisů | [t007502.md](t007502.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0075a0.md](t0075a0.md) | 75/0 | Platné znění s vyznačením změn | [t0075a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200956) | pymupdf / pdftotext 1.0000 |
 | [t0075b0.md](t0075b0.md) | 75/0 | Kompatibilita s právem EU | [t0075b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200959) | pymupdf / pdftotext 1.0000 |
 | [t007501.md](t007501.md) | 75/1 | Text | [t007501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214579) | pymupdf / pdftotext 1.0000 |
+| [t007502.md](t007502.md) | 75/2 | Text | [t007502.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215961) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
