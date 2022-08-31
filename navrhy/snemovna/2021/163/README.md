@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-03-04 | 163/0 | Vládní návrh zákona | [t016300.md](t016300.md), [t0163a0.md](t0163a0.md) |
+| 2022-08-31 | 163/1 | Usnesení zemědělského výboru č. 69 ze dne 30. srpna 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů, a zákon č. 47/2020 Sb., kterým se mění zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů, zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a další související zákony, ve znění pozdějších předpisů | [t016301.md](t016301.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t016300.md](t016300.md) | 163/0 | Návrh zákona včetně důvodové zprávy | [t016300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205390) | pymupdf / pdftotext 1.0000 |
 | [t0163a0.md](t0163a0.md) | 163/0 | Platné znění s vyznačením změn | [t0163a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205392) | pymupdf / pdftotext 1.0000 |
+| [t016301.md](t016301.md) | 163/1 | Text | [t016301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215942) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
