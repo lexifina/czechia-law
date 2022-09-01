@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-04-12 | 199/0 | Vládní návrh zákona | [t019900.md](t019900.md), [t0199a0.md](t0199a0.md), [t0199b0.md](t0199b0.md) |
+| 2022-09-01 | 199/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 39 ze dne 1. září 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 67/2013 Sb., kterým se upravují některé otázky související s poskytováním plnění spojených s užíváním bytů a nebytových prostorů v domě s byty, ve znění pozdějších předpisů | [t019901.md](t019901.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t019900.md](t019900.md) | 199/0 | Návrh zákona včetně důvodové zprávy | [t019900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207200) | pymupdf / pdftotext 1.0000 |
 | [t0199a0.md](t0199a0.md) | 199/0 | Platné znění s vyznačením změn | [t0199a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207201) | pymupdf / pdftotext 1.0000 |
 | [t0199b0.md](t0199b0.md) | 199/0 | Kompatibilita s právem EU | [t0199b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207199) | pymupdf / pdftotext 1.0000 |
+| [t019901.md](t019901.md) | 199/1 | Text | [t019901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216097) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
