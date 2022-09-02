@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-06-23 | 256/0 | Vládní návrh zákona | [t025600.md](t025600.md) |
 | 2022-09-02 | 256/1 | Usnesení zahraničního výboru č. 53 ze dne 1. září 2022 k vládnímu návrhu zákona o omezujících opatřeních proti některým závažným jednáním uplatňovaných v mezinárodních vztazích (sankční zákon) | [t025601.md](t025601.md) |
+| 2022-09-02 | 256/2 | Usnesení ústavně-právního výboru č. 45 ze dne 31. srpna 2022 k vládnímu návrhu zákona o omezujících opatřeních proti některým závažným jednáním uplatňovaných v mezinárodních vztazích (sankční zákon) | [t025602.md](t025602.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t025600.md](t025600.md) | 256/0 | Návrh zákona včetně důvodové zprávy | [t025600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213611) | pymupdf / pdftotext 1.0000 |
 | [t025601.md](t025601.md) | 256/1 | Text | [t025601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216122) | pymupdf / pdftotext 1.0000 |
+| [t025602.md](t025602.md) | 256/2 | Text | [t025602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216172) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
