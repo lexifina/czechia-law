@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-03-02 | 160/0 | Vládní návrh zákona | [t016000.md](t016000.md), [t0160a0.md](t0160a0.md) |
 | 2022-07-15 | 160/1 | Usnesení hospodářského výboru č. 78 ze dne 14. července 2022 k vládnímu návrhu zákona o podpoře nízkoemisních vozidel prostřednictvím zadávání veřejných zakázek a veřejných služeb v přepravě cestujících | [t016001.md](t016001.md) |
 | 2022-09-01 | 160/2 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 38 ze dne 1. září 2022 k vládnímu návrhu zákona o podpoře nízkoemisních vozidel prostřednictvím zadávání veřejných zakázek a veřejných služeb v přepravě cestujících | [t016002.md](t016002.md) |
+| 2022-09-02 | 160/3 | Usnesení hospodářského výboru č. 80 ze dne 1. září 2022 k vládnímu návrhu zákona o podpoře nízkoemisních vozidel prostřednictvím zadávání veřejných zakázek a veřejných služeb v přepravě cestujících | [t016003.md](t016003.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0160a0.md](t0160a0.md) | 160/0 | Kompatibilita s právem EU | [t0160a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205090) | pymupdf / pdftotext 1.0000 |
 | [t016001.md](t016001.md) | 160/1 | Text | [t016001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214943) | pymupdf / pdftotext 1.0000 |
 | [t016002.md](t016002.md) | 160/2 | Text | [t016002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216094) | pymupdf / pdftotext 1.0000 |
+| [t016003.md](t016003.md) | 160/3 | Text | [t016003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216108) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
