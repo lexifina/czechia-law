@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-06-06 | 240/0 | Zpráva a jiné | [t024000.md](t024000.md), [t0240a0.md](t0240a0.md), [t0240b0.md](t0240b0.md), [t0240c0.md](t0240c0.md), [t0240d0.md](t0240d0.md), [t0240e0.md](t0240e0.md), [t0240f0.md](t0240f0.md), [t0240g0.md](t0240g0.md), [t0240h0.md](t0240h0.md), [t0240i0.md](t0240i0.md), [t0240j0.md](t0240j0.md), [t0240k0.md](t0240k0.md), [t0240l0.md](t0240l0.md) |
+| 2022-09-02 | 240/1 | Usnesení výboru pro zdravotnictví č. 45 ze dne 31. srpna 2022 k zdravotně pojistným plánům zdravotních pojišťoven na rok 2022 s vyjádřením vlády spolu s hodnocením zdravotně pojistných plánů na rok 2022 a tabulkovými přílohami | [t024001.md](t024001.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0240j0.md](t0240j0.md) | 240/0 | Další | [t0240j0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203309) | pymupdf / pdftotext 0.9998 |
 | [t0240k0.md](t0240k0.md) | 240/0 | Další | [t0240k0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203302) | pymupdf / pdftotext 1.0000 |
 | [t0240l0.md](t0240l0.md) | 240/0 | Další | [t0240l0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203304) | pymupdf / pdftotext 1.0000 |
+| [t024001.md](t024001.md) | 240/1 | Text | [t024001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216181) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
