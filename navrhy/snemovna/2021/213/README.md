@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-05-04 | 213/0 | Vládní návrh zákona | [t021300.md](t021300.md), [t0213a0.md](t0213a0.md), [t0213b0.md](t0213b0.md) |
 | 2022-06-24 | 213/1 | Usnesení hospodářského výboru č. 73 ze dne 22. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, a zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů | [t021301.md](t021301.md) |
 | 2022-06-27 | 213/2 | Usnesení ústavně-právního výboru č. 40 ze dne 22. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, a zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů | [t021302.md](t021302.md) |
+| 2022-09-02 | 213/3 | Usnesení hospodářského výboru č. 79 ze dne 1. září 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, a zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů | [t021303.md](t021303.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0213b0.md](t0213b0.md) | 213/0 | Kompatibilita s právem EU | [t0213b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208481) | pymupdf / pdftotext 1.0000 |
 | [t021301.md](t021301.md) | 213/1 | Text | [t021301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213761) | pymupdf / pdftotext 1.0000 |
 | [t021302.md](t021302.md) | 213/2 | Text | [t021302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214326) | pymupdf / pdftotext 1.0000 |
+| [t021303.md](t021303.md) | 213/3 | Text | [t021303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216105) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
