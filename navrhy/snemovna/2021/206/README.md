@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-06-09 | 206/1 | Usnesení hospodářského výboru č. 67 ze dne 9. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů, a další související zákony | [t020601.md](t020601.md) |
 | 2022-06-24 | 206/2 | Usnesení hospodářského výboru č. 75 ze dne 22. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů, a další související zákony | [t020602.md](t020602.md) |
 | 2022-07-20 | 206/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů, a další související zákony | [t020603.md](t020603.md) |
+| 2022-09-02 | 206/4 | Usnesení garančního výboru č. 81 ze dne 1. září 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 114/1995 Sb., o vnitrozemské plavbě, ve znění pozdějších předpisů, a další související zákony | [t020604.md](t020604.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t020601.md](t020601.md) | 206/1 | Text | [t020601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207757) | pymupdf / pdftotext 1.0000 |
 | [t020602.md](t020602.md) | 206/2 | Text | [t020602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213764) | pymupdf / pdftotext 1.0000 |
 | [t020603.md](t020603.md) | 206/3 | Text | [t020603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215111) | pymupdf / pdftotext 1.0000 |
+| [t020604.md](t020604.md) | 206/4 | Text | [t020604.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216112) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
