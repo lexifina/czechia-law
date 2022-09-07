@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-04-14 | 203/0 | Vládní návrh zákona | [t020300.md](t020300.md), [t0203a0.md](t0203a0.md), [t0203b0.md](t0203b0.md) |
 | 2022-06-08 | 203/1 | Usnesení rozpočtového výboru č. 101 ze dne 8. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 164/2013 Sb., o mezinárodní spolupráci při správě daní a o změně dalších souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony | [t020301.md](t020301.md) |
 | 2022-06-22 | 203/2 | Usnesení rozpočtového výboru č. 113 ze dne 22. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 164/2013 Sb., o mezinárodní spolupráci při správě daní a o změně dalších souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony | [t020302.md](t020302.md) |
+| 2022-09-07 | 203/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 164/2013 Sb., o mezinárodní spolupráci při správě daní a o změně dalších souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony | [t020303.md](t020303.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0203b0.md](t0203b0.md) | 203/0 | Kompatibilita s právem EU | [t0203b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207351) | pymupdf / pdftotext 1.0000 |
 | [t020301.md](t020301.md) | 203/1 | Text | [t020301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207634) | pymupdf / pdftotext 1.0000 |
 | [t020302.md](t020302.md) | 203/2 | Text | [t020302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213497) | pymupdf / pdftotext 1.0000 |
+| [t020303.md](t020303.md) | 203/3 | Text | [t020303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216342) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
