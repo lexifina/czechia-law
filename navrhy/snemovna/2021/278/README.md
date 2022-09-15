@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-07-29 | 278/0 | Zpráva a jiné | [t027800.md](t027800.md), [t0278a0.md](t0278a0.md), [t0278b0.md](t0278b0.md), [t0278c0.md](t0278c0.md) |
+| 2022-09-15 | 278/1 | Usnesení výboru pro bezpečnost č. 60 ze dne 15. září 2022 ke zprávě o situaci v oblasti migrace a integrace cizinců na území České republiky v roce 2021 | [t027801.md](t027801.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0278a0.md](t0278a0.md) | 278/0 | Text | [t0278a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215307) | pymupdf / pdftotext 1.0000 |
 | [t0278b0.md](t0278b0.md) | 278/0 | Text | [t0278b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215308) | pymupdf / pdftotext 1.0000 |
 | [t0278c0.md](t0278c0.md) | 278/0 | Další | [t0278c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215311) | pymupdf / pdftotext 1.0000 |
+| [t027801.md](t027801.md) | 278/1 | Text | [t027801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216856) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
