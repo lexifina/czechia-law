@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-08-24 | 287/0 | Vládní návrh zákona | [t028700.md](t028700.md), [t0287a0.md](t0287a0.md), [t0287b0.md](t0287b0.md) |
+| 2022-09-16 | 287/1 | Usnesení ústavně-právního výboru č. 48 ze dne 14. září 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t028701.md](t028701.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t028700.md](t028700.md) | 287/0 | Návrh zákona včetně důvodové zprávy | [t028700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215725) | pymupdf / pdftotext 1.0000 |
 | [t0287a0.md](t0287a0.md) | 287/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0287a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215727) | pymupdf / pdftotext 1.0000 |
 | [t0287b0.md](t0287b0.md) | 287/0 | Platné znění s vyznačením změn | [t0287b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215730) | pymupdf / pdftotext 1.0000 |
+| [t028701.md](t028701.md) | 287/1 | Text | [t028701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216950) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
