@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-06-22 | 212/1 | Usnesení rozpočtového výboru č. 116 ze dne 22. června 2022 k návrhu státního závěrečného účtu České republiky za rok 2021 | [t021201.md](t021201.md) |
 | 2022-08-30 | 212/2 | Stanovisko Nejvyššího kontrolního úřadu k návrhu státního závěrečného účtu České republiky za rok 2021 |  |
 | 2022-09-15 | 212/3 | Usnesení kontrolního výboru č. 45 ze dne 15. září 2022 ke stanovisku Nejvyššího kontrolního úřadu k návrhu státního závěrečného účtu České republiky za rok 2021 | [t021203.md](t021203.md) |
+| 2022-09-16 | 212/4 | Usnesení rozpočtového výboru č. 128 ze dne 14. září 2022 k návrhu státního závěrečného účtu České republiky za rok 2021 | [t021204.md](t021204.md) |
 
 ## Files
 
@@ -39,6 +40,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0212h0.md](t0212h0.md) | 212/0 | Text | [t0212h0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208414) | pymupdf / pdftotext 1.0000 |
 | [t021201.md](t021201.md) | 212/1 | Text | [t021201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213505) | pymupdf / pdftotext 1.0000 |
 | [t021203.md](t021203.md) | 212/3 | Text | [t021203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216846) | pymupdf / pdftotext 1.0000 |
+| [t021204.md](t021204.md) | 212/4 | Text | [t021204.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216906) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
