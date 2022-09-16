@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-05-12 | 31/2 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 49 ze dne 11. května k vládnímu návrhu zákona, kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů, a další související zákony | [t003102.md](t003102.md) |
 | 2022-06-02 | 31/3 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 53 ze dne 1. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů, a další související zákony | [t003103.md](t003103.md) |
 | 2022-06-22 | 31/4 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 71 ze dne 22. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů, a další související zákony | [t003104.md](t003104.md) |
+| 2022-09-16 | 31/5 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 76 ze dne 14. září 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů, a další související zákony | [t003105.md](t003105.md) |
 
 ## Files
 
@@ -39,5 +40,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t003102.md](t003102.md) | 31/2 | Text | [t003102.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208811) | pymupdf / pdftotext 1.0000 |
 | [t003103.md](t003103.md) | 31/3 | Text | [t003103.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=212859) | pymupdf / pdftotext 1.0000 |
 | [t003104.md](t003104.md) | 31/4 | Text | [t003104.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213535) | pymupdf / pdftotext 1.0000 |
+| [t003105.md](t003105.md) | 31/5 | Text | [t003105.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216943) | pymupdf / pdftotext 0.9997 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
