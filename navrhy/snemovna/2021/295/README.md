@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-09-12 | 295/0 | Návrh zákona | [t029500.md](t029500.md), [t0295a0.md](t0295a0.md) |
+| 2022-09-22 | 295/1 | Stanovisko vlády k návrhu poslanců Ivana Adamce, Pavla Blažka, Kláry Dostálové, Aleny Schillerové, Petra Fialy a dalších na vydání zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon) | [t029501.md](t029501.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t029500.md](t029500.md) | 295/0 | Návrh zákona včetně důvodové zprávy | [t029500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216512) | pymupdf / pdftotext 1.0000 |
 | [t0295a0.md](t0295a0.md) | 295/0 | Platné znění s vyznačením změn | [t0295a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216511) | pymupdf / pdftotext 1.0000 |
+| [t029501.md](t029501.md) | 295/1 | Stanovisko | [t029501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217201) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
