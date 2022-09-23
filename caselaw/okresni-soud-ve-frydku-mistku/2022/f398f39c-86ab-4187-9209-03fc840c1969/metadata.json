@@ -1,0 +1,30 @@
+{
+  "listing": {
+    "jednaciCislo": "11 C 106/2022-13",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. et Mgr. Martin Pavlík",
+    "ecli": "ECLI:CZ:OSFM:2022:11.C.106.2022.1",
+    "predmetRizeni": "O zaplacení 3 992 Kč s příslušenstvím",
+    "datumVydani": "2022-09-23",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f398f39c-86ab-4187-9209-03fc840c1969"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/f398f39c-86ab-4187-9209-03fc840c1969",
+  "source_sha256": "148e1363a5a72f7f66e049f90f837466c6b3c6764eaad4c14033d7915ed827a6",
+  "source_bytes": 18019,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
