@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-06-09 | 207/1 | Usnesení hospodářského výboru č. 69 ze dne 9. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, a další související zákony | [t020701.md](t020701.md) |
 | 2022-06-24 | 207/2 | Usnesení hospodářského výboru č. 76 ze dne 22. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, a další související zákony | [t020702.md](t020702.md) |
 | 2022-09-08 | 207/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, a další související zákony | [t020703.md](t020703.md) |
+| 2022-09-27 | 207/4 | Usnesení garančního výboru č. 88 ze dne 27. září 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 49/1997 Sb., o civilním letectví a o změně a doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, ve znění pozdějších předpisů, a další související zákony | [t020704.md](t020704.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t020701.md](t020701.md) | 207/1 | Text | [t020701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207760) | pymupdf / pdftotext 1.0000 |
 | [t020702.md](t020702.md) | 207/2 | Text | [t020702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213768) | pymupdf / pdftotext 1.0000 |
 | [t020703.md](t020703.md) | 207/3 | Text | [t020703.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216435) | pymupdf / pdftotext 1.0000 |
+| [t020704.md](t020704.md) | 207/4 | Text | [t020704.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217411) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
