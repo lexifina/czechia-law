@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-06-28 | 260/0 | Zpráva a jiné | [t026000.md](t026000.md) |
 | 2022-09-01 | 260/1 | Usnesení rozpočtového výboru č. 121 ze dne 31. srpna 2022 k informaci o pojišťování vývozu se státní podporou v roce 2021 | [t026001.md](t026001.md) |
+| 2022-09-27 | 260/2 | Usnesení hospodářského výboru č. 91 ze dne 27. září 2022 k informaci o pojišťování vývozu se státní podporou v roce 2021 | [t026002.md](t026002.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t026000.md](t026000.md) | 260/0 | Text | [t026000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214440) | pymupdf / pdftotext 1.0000 |
 | [t026001.md](t026001.md) | 260/1 | Text | [t026001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216031) | pymupdf / pdftotext 1.0000 |
+| [t026002.md](t026002.md) | 260/2 | Text | [t026002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217421) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
