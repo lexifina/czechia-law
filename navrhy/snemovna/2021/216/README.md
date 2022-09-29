@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-05-13 | 216/0 | Vládní návrh zákona | [t021600.md](t021600.md), [t0216a0.md](t0216a0.md), [t0216b0.md](t0216b0.md), [t0216c0.md](t0216c0.md) |
 | 2022-06-09 | 216/1 | Usnesení hospodářského výboru č. 68 ze dne 9. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů | [t021601.md](t021601.md) |
 | 2022-06-24 | 216/2 | Usnesení hospodářského výboru č. 74 ze dne 22. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů | [t021602.md](t021602.md) |
+| 2022-09-29 | 216/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích a o změně zákona č. 168/1999 Sb., o pojištění odpovědnosti za škodu způsobenou provozem vozidla a o změně některých souvisejících zákonů (zákon o pojištění odpovědnosti z provozu vozidla), ve znění zákona č. 307/1999 Sb., ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů | [t021603.md](t021603.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0216c0.md](t0216c0.md) | 216/0 | Kompatibilita s právem EU | [t0216c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208856) | pymupdf / pdftotext 1.0000 |
 | [t021601.md](t021601.md) | 216/1 | Text | [t021601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=207744) | pymupdf / pdftotext 1.0000 |
 | [t021602.md](t021602.md) | 216/2 | Text | [t021602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213770) | pymupdf / pdftotext 1.0000 |
+| [t021603.md](t021603.md) | 216/3 | Text | [t021603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217564) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
