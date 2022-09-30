@@ -1,0 +1,29 @@
+{
+  "listing": {
+    "jednaciCislo": "42 C 213/2022-13",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2022:42.C.213.2022.1",
+    "predmetRizeni": "o zaplacení 2 932 Kč s příslušenstvím",
+    "datumVydani": "2022-09-30",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a0d90537-d7a7-4fb7-ba72-2d61067acd5d"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/a0d90537-d7a7-4fb7-ba72-2d61067acd5d",
+  "source_sha256": "bf24575c7fdf25317fda65a401e059b1306cd0bb4d55b06145a760a37581645c",
+  "source_bytes": 33563,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
