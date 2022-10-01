@@ -1,0 +1,31 @@
+---
+citace: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 9/T/2022"
+nazev: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 9/T/2022, kterým se stanoví pevné ceny pro konečného spotřebitele cigaret a změny pevných cen – 9. dodatek"
+druh: "Cenové rozhodnutí"
+vyhlaseno: "Cenový věstník, částka 18/2022, 2022-09-22"
+zdroj: "https://www.mf.gov.cz/assets/attachments/2022-09-22_Cenovy-vestnik-182022.pdf"
+---
+
+# Cenové rozhodnutí CÚ pro Středočeský kraj č. 9/T/2022, kterým se stanoví pevné ceny pro konečného spotřebitele cigaret a změny pevných cen – 9. dodatek
+
+Cenové rozhodnutí CÚ pro Středočeský kraj č. 9/T/2022, kterým se stanoví pevné ceny pro konečného spotřebitele cigaret
+a změny pevných cen – 9. dodatek
+Celní úřad pro Středočeský kraj podle § 10 zákona č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, pro výrobky zahrnuté v položce č. 1 Cenového rozhodnutí CÚ pro Středočeský kraj č. 01/2022, kterým se vydává seznam zboží s regulovanými cenami, uvedenými v seznamu cigaret, stanoví:
+1\. pevné ceny pro konečného spotřebitele 2. změny pevných cen uvedené v dodatku, který je nedílnou přílohou tohoto Cenového rozhodnutí.
+Pevné ceny pro konečného spotřebitele zahrnují výkon obchodu včetně daně z přidané hodnoty a platí pro všechny prodeje konečnému spotřebiteli na území ČR. Cenové rozhodnutí nabývá účinnosti dnem 1. 10. 2022, pro výrobky vyrobené a dovezené*1) na daňové území ČR, nebo dopravené z jiného členského státu EU na daňové území ČR od tohoto data s těmito cenami vytištěnými podle § 114 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+Vyřizuje: Andrea Tinková Mgr. Luboš Kratochvíl, MBA, v. r.
+Celní úřad pro Středočeský kraj tel.: +420 327 539 211
+1\. zástupce ředitele celního úřadu
+\*1) § 3 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+Příloha rozhodnutí CÚ pro Středočeský kraj č. 9/T/2022
+9\. dodatek k seznamu cigaret s pevnými cenami pro konečného spotřebitele
+1\. PEVNÉ CENY NOVÝCH VÝROBKŮ
+Pevná cena pro konečného
+Počet kusů v jednotkovém balení určeném spotřebitele jednotkového
+Obchodní název balení určeného pro
+pro přímou spotřebu
+přímou spotřebu v Kč WINSTON COMPACT LONG 20 124,00 Cigareta s filtrem, 90,0 mm WINSTON XSPRESSION LONG 20 124,00 Cigareta s filtrem, 90,0 mm
+2\. ZMĚNY PEVNÝCH CEN
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 5/T/2022 se u výrobku P&S 100 Black Limited Edition (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „120,00“ nahrazuje pevnou cenou „125,00“; u výrobku P&S 100 Blue Limited Edition (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „120,00“ nahrazuje pevnou cenou „125,00“; u výrobku P&S Black Limited Edition (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „120,00“ nahrazuje pevnou cenou „125,00“; u výrobku P&S Blue Limited Edition (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „120,00“ nahrazuje pevnou cenou „125,00“.
+Vydává: Ministerstvo financí ČR, Letenská 15, 118 10 Praha 1 – Redakce: Lucie Petrová, Lazarská 7,
+110 00 Praha 1, telefon 257 042 535, e-mail: Lucie.Petrova@mfcr.cz
