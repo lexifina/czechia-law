@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-03-30 | 188/0 | Zpráva a jiné | [t018800.md](t018800.md) |
 | 2022-09-19 | 188/1 | Usnesení volebního výboru č. 59 ze dne 15. září 2022 k výroční zprávě o činnosti České televize v roce 2021 | [t018801.md](t018801.md) |
+| 2022-10-03 | 188/2 | Oponentní zpráva menšiny poslanců volebního výboru č. 61 ze dne 15. září 2022 k výroční zprávě o činnosti České televize v roce 2021 | [t018802.md](t018802.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t018800.md](t018800.md) | 188/0 | Text | [t018800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=206556) | pymupdf / pdftotext 1.0000 |
 | [t018801.md](t018801.md) | 188/1 | Text | [t018801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216999) | pymupdf / pdftotext 1.0000 |
+| [t018802.md](t018802.md) | 188/2 | Text | [t018802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217753) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
