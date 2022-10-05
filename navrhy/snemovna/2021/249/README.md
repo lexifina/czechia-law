@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-06-17 | 249/0 | Vládní návrh zákona | [t024900.md](t024900.md), [t0249a0.md](t0249a0.md), [t0249b0.md](t0249b0.md) |
+| 2022-10-05 | 249/1 | Usnesení výboru pro obranu č. 69 ze dne 4. října 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů | [t024901.md](t024901.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t024900.md](t024900.md) | 249/0 | Návrh zákona včetně důvodové zprávy | [t024900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213340) | pymupdf / pdftotext 1.0000 |
 | [t0249a0.md](t0249a0.md) | 249/0 | Platné znění s vyznačením změn | [t0249a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213338) | pymupdf / pdftotext 1.0000 |
 | [t0249b0.md](t0249b0.md) | 249/0 | Kompatibilita s právem EU | [t0249b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=213342) | pymupdf / pdftotext 1.0000 |
+| [t024901.md](t024901.md) | 249/1 | Text | [t024901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217865) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
