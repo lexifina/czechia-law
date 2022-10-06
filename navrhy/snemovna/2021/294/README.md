@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-09-09 | 294/0 | Návrh zákona | [t029400.md](t029400.md), [t0294a0.md](t0294a0.md) |
+| 2022-10-06 | 294/1 | Stanovisko vlády k návrhu poslance Andreje Babiše a dalších na vydání zákona, kterým se mění zákon č. 348/2005 Sb., o rozhlasových a televizních poplatcích a o změně některých zákonů, ve znění pozdějších předpisů | [t029401.md](t029401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t029400.md](t029400.md) | 294/0 | Návrh zákona včetně důvodové zprávy | [t029400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216470) | pymupdf / pdftotext 1.0000 |
 | [t0294a0.md](t0294a0.md) | 294/0 | Platné znění s vyznačením změn | [t0294a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216471) | pymupdf / pdftotext 1.0000 |
+| [t029401.md](t029401.md) | 294/1 | Stanovisko | [t029401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218004) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
