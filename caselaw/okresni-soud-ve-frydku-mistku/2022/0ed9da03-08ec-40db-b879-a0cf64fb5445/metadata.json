@@ -1,0 +1,29 @@
+{
+  "listing": {
+    "jednaciCislo": "42 C 202/2022-16",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2022:42.C.202.2022.1",
+    "predmetRizeni": "o zaplacení 3 420 Kč s příslušenstvím",
+    "datumVydani": "2022-10-06",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0ed9da03-08ec-40db-b879-a0cf64fb5445"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/0ed9da03-08ec-40db-b879-a0cf64fb5445",
+  "source_sha256": "b54b3999f177c47da041cb046b4f1f04140fdc416d1bbe45188a7b77e9c02c51",
+  "source_bytes": 36633,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
