@@ -1,0 +1,38 @@
+{
+  "listing": {
+    "jednaciCislo": "51 C 237/2022-44",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Hana Cholastová",
+    "ecli": "ECLI:CZ:OSCL:2022:51.C.237.2022.1",
+    "predmetRizeni": "O zaplacení 70 625,32 Kč s příslušenstvím",
+    "datumVydani": "2022-10-06",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1b21991-5c0a-46c8-81d8-bddd57d565b0"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/b1b21991-5c0a-46c8-81d8-bddd57d565b0",
+  "source_sha256": "357deb047dae39fb0838591e3ff6d6fc65ae140817ef5ee285ab28e27a2670b8",
+  "source_bytes": 19285,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
