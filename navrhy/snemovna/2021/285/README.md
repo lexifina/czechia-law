@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-08-18 | 285/0 | Vládní návrh zákona | [t028500.md](t028500.md), [t0285a0.md](t0285a0.md) |
+| 2022-10-07 | 285/1 | Usnesení výboru pro bezpečnost č. 67 ze dne 6. října 2022 k vládnímu návrhu zákona o některých opatřeních proti šíření teroristického obsahu online | [t028501.md](t028501.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t028500.md](t028500.md) | 285/0 | Návrh zákona včetně důvodové zprávy | [t028500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215625) | pymupdf / pdftotext 1.0000 |
 | [t0285a0.md](t0285a0.md) | 285/0 | Kompatibilita s právem EU | [t0285a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215627) | pymupdf / pdftotext 1.0000 |
+| [t028501.md](t028501.md) | 285/1 | Text | [t028501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218053) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
