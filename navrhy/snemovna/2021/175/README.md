@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-03-09 | 175/0 | Vládní návrh zákona | [t017500.md](t017500.md), [t0175a0.md](t0175a0.md), [t0175b0.md](t0175b0.md) |
 | 2022-06-27 | 175/1 | Usnesení ústavně-právního výboru č. 37 ze dne 22. června 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 104/2013 Sb., o mezinárodní justiční spolupráci ve věcech trestních, ve znění pozdějších předpisů, a některé další zákony | [t017501.md](t017501.md) |
 | 2022-09-29 | 175/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 104/2013 Sb., o mezinárodní justiční spolupráci ve věcech trestních, ve znění pozdějších předpisů, a některé další zákony | [t017502.md](t017502.md) |
+| 2022-10-07 | 175/3 | Usnesení garančního výboru č. 49 ze dne 5. října 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 104/2013 Sb., o mezinárodní justiční spolupráci ve věcech trestních, ve znění pozdějších předpisů, a některé další zákony | [t017503.md](t017503.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0175b0.md](t0175b0.md) | 175/0 | Kompatibilita s právem EU | [t0175b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=205668) | pymupdf / pdftotext 1.0000 |
 | [t017501.md](t017501.md) | 175/1 | Text | [t017501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214316) | pymupdf / pdftotext 1.0000 |
 | [t017502.md](t017502.md) | 175/2 | Text | [t017502.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217554) | pymupdf / pdftotext 1.0000 |
+| [t017503.md](t017503.md) | 175/3 | Text | [t017503.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218092) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
