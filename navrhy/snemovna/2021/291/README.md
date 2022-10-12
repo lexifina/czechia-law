@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-08-31 | 291/0 | Vládní návrh zákona | [t029100.md](t029100.md), [t0291a0.md](t0291a0.md), [t0291b0.md](t0291b0.md), [t0291c0.md](t0291c0.md) |
 | 2022-10-05 | 291/1 | Usnesení výboru pro sociální politiku č. 61 ze dne 5. října 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením a o změně souvisejících zákonů, ve znění pozdějších předpisů, a některé další zákony | [t029101.md](t029101.md) |
+| 2022-10-12 | 291/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením a o změně souvisejících zákonů, ve znění pozdějších předpisů, a některé další zákony | [t029102.md](t029102.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0291b0.md](t0291b0.md) | 291/0 | Platné znění s vyznačením změn | [t0291b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215988) | pymupdf / pdftotext 1.0000 |
 | [t0291c0.md](t0291c0.md) | 291/0 | Další | [t0291c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215983) | pymupdf / pdftotext 1.0000 |
 | [t029101.md](t029101.md) | 291/1 | Text | [t029101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217898) | pymupdf / pdftotext 1.0000 |
+| [t029102.md](t029102.md) | 291/2 | Text | [t029102.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218333) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
