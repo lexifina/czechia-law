@@ -1,0 +1,38 @@
+{
+  "listing": {
+    "jednaciCislo": "27 C 172/2022-24",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Jakub Antoš",
+    "ecli": "ECLI:CZ:OSPH09:2022:27.C.172.2022.4",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2022-10-14",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "peněžité plnění",
+      "pěstounská péče",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2211 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfb02dd1-a4e8-4b8c-b1f0-e112912abb4d"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/cfb02dd1-a4e8-4b8c-b1f0-e112912abb4d",
+  "source_sha256": "3081805d1897ced11da214adb478b1361eec6935445986ee71f495e0a784cf24",
+  "source_bytes": 27066,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
