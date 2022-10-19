@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-09-30 | 315/0 | Státní rozpočet | [t031500.md](t031500.md), [t0315a0.md](t0315a0.md), [t0315b0.md](t0315b0.md), [t0315c0.md](t0315c0.md), [t0315d0.md](t0315d0.md), [t0315e0.md](t0315e0.md), [t0315f0.md](t0315f0.md), [t0315g0.md](t0315g0.md), [t0315h0.md](t0315h0.md), [t0315i0.md](t0315i0.md), [t0315j0.md](t0315j0.md), [t0315k0.md](t0315k0.md), [t0315l0.md](t0315l0.md), [t0315m0.md](t0315m0.md), [t0315n0.md](t0315n0.md), [t0315p0.md](t0315p0.md), [t0315q0.md](t0315q0.md), [t0315r0.md](t0315r0.md), [t0315s0.md](t0315s0.md), [t0315t0.md](t0315t0.md), [t0315u0.md](t0315u0.md), [t0315v0.md](t0315v0.md), [t0315w0.md](t0315w0.md) |
+| 2022-10-19 | 315/1 | Usnesení rozpočtového výboru č. 150 ze dne 19. října 2022 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2023 | [t031501.md](t031501.md) |
 
 ## Files
 
@@ -50,6 +51,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0315u0.md](t0315u0.md) | 315/0 | Dokumentace, část č. 7 | [t0315u0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217666) | pymupdf / pdftotext 1.0000 |
 | [t0315v0.md](t0315v0.md) | 315/0 | Dokumentace, část č. 8 | [t0315v0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217687) | pymupdf / pdftotext 1.0000 |
 | [t0315w0.md](t0315w0.md) | 315/0 | Dokumentace, část č. 8 | [t0315w0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217667) | pymupdf / pdftotext 1.0000 |
+| [t031501.md](t031501.md) | 315/1 | Text | [t031501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218596) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
