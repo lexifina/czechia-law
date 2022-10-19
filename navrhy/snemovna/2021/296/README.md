@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-09-09 | 296/0 | Vládní návrh zákona | [t029600.md](t029600.md), [t0296a0.md](t0296a0.md), [t0296b0.md](t0296b0.md) |
+| 2022-10-19 | 296/1 | Usnesení výboru pro sociální politiku č. 65 ze dne 19. října 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a některé další zákony | [t029601.md](t029601.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t029600.md](t029600.md) | 296/0 | Návrh zákona včetně důvodové zprávy | [t029600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216486) | pymupdf / pdftotext 1.0000 |
 | [t0296a0.md](t0296a0.md) | 296/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0296a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216482) | pymupdf / pdftotext 0.9996 |
 | [t0296b0.md](t0296b0.md) | 296/0 | Platné znění s vyznačením změn | [t0296b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216487) | pymupdf / pdftotext 1.0000 |
+| [t029601.md](t029601.md) | 296/1 | Text | [t029601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218618) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
