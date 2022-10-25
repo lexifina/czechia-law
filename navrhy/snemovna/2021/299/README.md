@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-09-12 | 299/0 | Zpráva a jiné | [t029900.md](t029900.md), [t0299a0.md](t0299a0.md) |
+| 2022-10-25 | 299/1 | Usnesení výboru pro obranu č. 78 ze dne 20. října 2022 k rozhodnutí vlády o přeletech a průjezdech ozbrojených sil jiných států přes území České republiky v roce 2023 | [t029901.md](t029901.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t029900.md](t029900.md) | 299/0 | Návrh usnesení Poslanecké sněmovny | [t029900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216554) | pymupdf / pdftotext 1.0000 |
 | [t0299a0.md](t0299a0.md) | 299/0 | Text | [t0299a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216553) | pymupdf / pdftotext 1.0000 |
+| [t029901.md](t029901.md) | 299/1 | Text | [t029901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218965) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
