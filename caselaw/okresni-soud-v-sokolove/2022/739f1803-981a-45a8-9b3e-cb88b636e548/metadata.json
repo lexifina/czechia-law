@@ -1,0 +1,37 @@
+{
+  "listing": {
+    "jednaciCislo": "16 C 213/2022-40",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSSO:2022:16.C.213.2022.4",
+    "predmetRizeni": "zaplacení 4 585,24 Kč s příslušenstvím",
+    "datumVydani": "2022-10-25",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/739f1803-981a-45a8-9b3e-cb88b636e548"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/739f1803-981a-45a8-9b3e-cb88b636e548",
+  "source_sha256": "a1844fe80430f1e0468931692450df79f7f82b369991f272ad3537f23bbfed8c",
+  "source_bytes": 15250,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
