@@ -1,0 +1,33 @@
+{
+  "listing": {
+    "jednaciCislo": "6 C 185/2022-50",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2022:6.C.185.2022.4",
+    "predmetRizeni": "zaplacení 420 345,38 Kč s přísl.",
+    "datumVydani": "2022-10-26",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/33c568f3-de15-4f0e-812d-d596fe31d87e"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/33c568f3-de15-4f0e-812d-d596fe31d87e",
+  "source_sha256": "3ad7f2338323e4cd306e59f7807fa5ff4bdadb33ee6d16fd031979cd68c51f7b",
+  "source_bytes": 14373,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
