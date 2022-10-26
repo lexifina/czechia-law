@@ -1,0 +1,34 @@
+{
+  "listing": {
+    "jednaciCislo": "51 C 833/2011-104",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Dagmar Stamidisová",
+    "ecli": "ECLI:CZ:OSPH01:2022:51.C.833.2011.1",
+    "predmetRizeni": "o 292.656,51 Kč s přísl.",
+    "datumVydani": "2022-10-26",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/688c6d3d-3a78-4955-b2bc-a66f45028eb8"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/688c6d3d-3a78-4955-b2bc-a66f45028eb8",
+  "source_sha256": "0fe7469a67f966ce065777c64153b0579b928944a3edef9296922ac8debb6aaf",
+  "source_bytes": 28349,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
