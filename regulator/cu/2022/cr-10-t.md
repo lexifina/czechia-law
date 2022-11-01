@@ -1,0 +1,45 @@
+---
+citace: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 10/T/2022"
+nazev: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 10/T/2022, kterým se stanoví změny pevných cen a změny textu pro konečného spotřebitele cigaret – 10. dodatek"
+druh: "Cenové rozhodnutí"
+vyhlaseno: "Cenový věstník, částka 21/2022, 2022-10-21"
+zdroj: "https://www.mf.gov.cz/assets/attachments/2022-10-21_Cenovy-vestnik-21-2022.pdf"
+---
+
+# Cenové rozhodnutí CÚ pro Středočeský kraj č. 10/T/2022, kterým se stanoví změny pevných cen a změny textu pro konečného spotřebitele cigaret – 10. dodatek
+
+Cenové rozhodnutí CÚ pro Středočeský kraj č. 10/T/2022, kterým se stanoví změny pevných cen a změny textu pro konečného
+spotřebitele cigaret – 10. dodatek
+Celní úřad pro Středočeský kraj podle § 10 zákona č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, pro výrobky zahrnuté v položce č. 1 Cenového rozhodnutí CÚ pro Středočeský kraj č. 01/2022, kterým se vydává seznam zboží s regulovanými cenami, uvedenými v seznamu cigaret, stanoví:
+1\. změny pevných cen a změny textu uvedené v dodatku, který je nedílnou přílohou tohoto Cenového rozhodnutí.
+Pevné ceny pro konečného spotřebitele zahrnují výkon obchodu včetně daně z přidané hodnoty a platí pro všechny prodeje konečnému spotřebiteli na území ČR. Cenové rozhodnutí nabývá účinnosti dnem 1. 11. 2022, pro výrobky vyrobené a dovezené*1) na daňové území ČR, nebo dopravené z jiného členského státu EU na daňové území ČR od tohoto data s těmito cenami vytištěnými podle § 114 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+Vyřizuje: Andrea Tinková Mgr. Jan Václavíček v. r.
+ředitel celního úřadu Celní úřad pro Středočeský kraj tel.: +420 327 539 211
+\*1) § 3 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+Příloha rozhodnutí CÚ pro Středočeský kraj č. 10/T/2022
+10\. dodatek k seznamu cigaret s pevnými cenami pro konečného spotřebitele
+2\. ZMĚNY PEVNÝCH CEN A ZMĚNY TEXTU
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 12/T/2021, ve znění Rozhodnutí č. 4/T/2022 se
+u výrobku L&M FORWARD KS RCB 20 (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „133,00“ nahrazuje pevnou cenou „138,00“;
+u výrobku L&M LOFT AQUA KS BOT 20 SLI (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „126,00“ nahrazuje pevnou cenou „131,00“;
+u výrobku RGD RED KS BOX 20 (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „126,00“ nahrazuje pevnou cenou „131,00“.
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 12/T/2021, ve znění Rozhodnutí č. 6/T/2022 se
+u výrobku MARLBORO (RED FWD) 100 BOX 20 (20 kusů) slova „MARLBORO (RED FWD) 100 BOX 20“ nahrazují slovy „MARLBORO (RED 3.5) 100 BOX 20“;
+u výrobku MARLBORO (RED FWD) KS BOB 22 ND (22 kusů) slova „MARLBORO (RED FWD) KS BOB 22 ND“ nahrazují slovy „MARLBORO (RED 3.5) KS BOB 22 ND“;
+u výrobku MARLBORO (RED FWD) KS BOB 25 ND (25 kusů) slova „MARLBORO (RED FWD) KS BOB 25 ND“ nahrazují slovy „MARLBORO (RED 3.5) KS BOB 25 ND“;
+u výrobku MARLBORO (RED FWD) KS BOX 20 (20 kusů) slova „MARLBORO (RED FWD) KS BOX 20“ nahrazují slovy „MARLBORO (RED 3.5) KS BOX 20“;
+u výrobku MARLBORO (RED FWD) KS SOF 20 (20 kusů) slova „MARLBORO (RED FWD) KS SOF 20“ nahrazují slovy „MARLBORO (RED 3.5) KS SOF 20“;
+u výrobku MARLBORO (RED FWD) RS BOX 20 (20 kusů) slova „MARLBORO (RED FWD) RS BOX 20“ nahrazují slovy „MARLBORO (RED 3.5) RS BOX 20“;
+u výrobku MARLBORO GOLD (3.0 ORIGINAL) 100 BOX 20 (20 kusů) slova „MARLBORO GOLD (3.0 ORIGINAL) 100 BOX 20“ nahrazují slovy „MARLBORO GOLD (3.5 ORIGINAL) 100 BOX 20“;
+u výrobku MARLBORO GOLD (3.0 ORIGINAL) KS BOB 22 ND (22 kusů) slova „MARLBORO GOLD (3.0 ORIGINAL) KS BOB 22 ND“ nahrazují slovy „MARLBORO GOLD (3.5 ORIGINAL) KS BOB 22 ND“;
+u výrobku MARLBORO GOLD (3.0 ORIGINAL) KS BOB 25 ND (25 kusů) slova „MARLBORO GOLD (3.0 ORIGINAL) KS BOB 25 ND“ nahrazují slovy „MARLBORO GOLD (3.5 ORIGINAL) KS BOB 25 ND“;
+u výrobku MARLBORO GOLD (3.0 ORIGINAL) KS BOX 20 (20 kusů) slova „MARLBORO GOLD (3.0 ORIGINAL) KS BOX 20“ nahrazují slovy „MARLBORO GOLD (3.5 ORIGINAL) KS BOX 20“;
+u výrobku MARLBORO GOLD (3.0 ORIGINAL) KS SOF 20 (20 kusů) slova „MARLBORO GOLD (3.0 ORIGINAL) KS SOF 20“ nahrazují slovy „MARLBORO GOLD (3.5 ORIGINAL) KS SOF 20“;
+u výrobku MARLBORO TOUCH (2.0) KS RCT 20 SLI (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „133,00“ nahrazuje pevnou cenou „135,00“ a slova „MARLBORO TOUCH (2.0) KS RCT 20 SLI“ nahrazují slovy „MARLBORO TOUCH (3.5) KS RCT 20 SLI“;
+u výrobku MARLBORO TOUCH ( CORE FWD) KS BOT 20 SLI (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „133,00“ nahrazuje pevnou cenou „135,00“ a slova „MARLBORO TOUCH ( CORE FWD) KS BOT 20 SLI“ nahrazují slovy „MARLBORO TOUCH (CORE 3.5) KS BOT 20 SLI“.
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 4/T/2022, ve znění Rozhodnutí č. 6/T/2022 se
+u výrobku Rothmans Plus Filter Blue (20 kusů) slova „Rothmans Plus Filter Blue“ nahrazují slovy „Rothmans Premium Blue“;
+u výrobku Rothmans Special Red (20 kusů) slova „Rothmans Special Red“ nahrazují slovy „Rothmans Premium Red“;
+u výrobku Rothmans Plus Filter Silver (20 kusů) slova „Rothmans Plus Filter Silver“ nahrazují slovy „Rothmans Premium Silver“.
+Vydává: Ministerstvo financí ČR, Letenská 15, 118 10 Praha 1 – Redakce: Lucie Petrová, Lazarská 7,
+110 00 Praha 1, telefon 257 042 535, e-mail: Lucie.Petrova@mfcr.cz
