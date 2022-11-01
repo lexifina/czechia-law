@@ -1,0 +1,579 @@
+{
+  "uuid": "113c669b-6446-43c3-b3e9-b7008ceb38e5",
+  "header": [
+    {
+      "texts": [
+        {
+          "text": "Okresní soud v Ostravě rozhodl samosoudkyní Mgr. Pavlínou Vrkočovou ve věci",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "žalobkyně: ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "osobní údaje žalobkyně",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " zastoupená advokátem ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "údaje o zástupci",
+          "anonStyle": "ANON"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "proti",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "žalovanému: ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "osobní údaje žalovaného",
+          "anonStyle": "ANON"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "o zaplacení ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " s příslušenstvím",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 1,
+      "tableCellInfo": null
+    }
+  ],
+  "verdict": [
+    {
+      "texts": [
+        {
+          "text": "I. Žalovaný je povinen zaplatit žalobkyni částku ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " s úrokem z prodlení ve výši:",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "- 7,75 % ročně z částky ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " od ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " do zaplacení,",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "a to do tří dnů od právní moci tohoto rozsudku.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "II. Žalovaný je povinen zaplatit žalobkyni náhradu nákladů řízení ve výši ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", a to do tří dnů od právní moci tohoto rozsudku k rukám právní zástupkyně žalobkyně.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    }
+  ],
+  "verdictText": "I. Žalovaný je povinen zaplatit žalobkyni částku [částka] s úrokem z prodlení ve výši:\n- 7,75 % ročně z částky [částka] od [datum] do zaplacení,\na to do tří dnů od právní moci tohoto rozsudku.\nII. Žalovaný je povinen zaplatit žalobkyni náhradu nákladů řízení ve výši [částka], a to do tří dnů od právní moci tohoto rozsudku k rukám právní zástupkyně žalobkyně.",
+  "justification": [
+    {
+      "texts": [
+        {
+          "text": "1. Žalobou došlou sodu dne ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " se žalobkyně domáhala po žalovaném zaplacení částky ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " s příslušenstvím. Žalobu odůvodnila tím, že smlouvou ze dne ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " byla pohledávka postupitele ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "ulice",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " podnik ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "právnická osoba",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "IČO",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", DIČ: ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "anonymizováno",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", se sídlem ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "adresa",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", v celkové částce ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " vůči Žalovanému postoupena Žalobkyni jakožto postupníkovi. Právním důvodem vzniku pohledávky je neuhrazení základního jízdného a neuhrazení přirážky k jízdnému podle zákona č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, zákona č. 266/1994 Sb., o drahách, ve znění pozdějších předpisů, vyhlášky č. 175/2000 Sb., o přepravním řádu pro veřejnou drážní a silniční osobní dopravu, ve znění pozdějších předpisů, a smluvních přepravních podmínek a tarifu jízdného, platných v době vzniku pohledávky. Konkrétně se jedná o pohledávku uvedenou v zápisu o provedené přepravní kontrole dne ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " sestávající se z dlužného jízdného a přirážky k jízdnému, když na výzvu dopravcem pověřené osoby se žalovaný neprokázal platným jízdním dokladem.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "2. Soud rozhodl bez nařízení jednání dle § 115a zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), když žalobkyně souhlasila, žalovanému byly písemnosti vyvěšeny na úřední desce soudu, ve lhůtě se nevyjádřil.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "3. Z dohody s cestujícím č. I ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "číslo",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " ze dne ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " bylo prokázáno, že žalovaný v tyto dny cestoval dopravním prostředkem ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "anonymizována dvě slova",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "právnická osoba",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " a na výzvu přepravního kontrolora se neprokázal jízdním dokladem, jízdné ve výši ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", ani přirážku k jízdnému ve výši ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " neuhradil. Smlouvou o postoupení souboru pohledávek ze dne ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", bylo prokázáno, že ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "ulice",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " podnik ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "právnická osoba",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " postoupil své pohledávky z titulu jízdy bez platného jízdního dokladu na žalobkyni. Žalobkyně oznámila postoupení pohledávky žalovanému dopisem ze dne ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ". Žalovaný byl vyzván k úhradě dlužné částky předžalobní výzvou spojenou s oznámením o postoupení pohledávky ze dne ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ".",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "4. Na základě provedeného dokazování bylo prokázáno, že žaloba žalobkyně je zcela důvodná. Mezi účastníky byla uzavřena smlouva o přepravě dle § 760 a následujících zákona č. 40/1964 Sb., občanského zákoníku účinného do 31. 12. 2013 (dále jen„ obč. z.“), za použití § 3028 odst. 3 zák. č. 89/2012 Sb., občanského zákoníku účinného od 1. 1. 2014 (dále jen„ OZ“). Žalovaný byl zavázán zakoupit si jízdenku, kterou v dopravním prostředku MHD žalobkyně měl řádně označit. Za situace, kdy byl přistižen přepravním kontrolorem, je kromě dlužného jízdného povinen zaplatit i přirážku k jízdnému. Nárok žalobkyně je dále v souladu s § 37 zákona č. 266/1994 Sb., o dráhách, § 18a zákona č. 111/1994 Sb., o silniční dopravě, a dále v souladu se Smluvními přepravními podmínkami žalobkyně. Stanovení úroků z prodlení je do ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " podle § 517 odst. 2 obč. z. a vyhlášky č. 142/1944 Sb. a od ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "datum",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " dle ust. § 1970 OZ a vládního nařízení č. 351/2013 Sb. K postoupení pohledávky na žalobkyni došlo dle ust. § 1879 a násl. OZ.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "5. O náhradě nákladů řízení bylo rozhodnuto dle § 142 odst. 1 o. s. ř., když žalovaný byl zavázán zaplatit k rukám právní zástupkyně žalobkyně částku ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " dle § 149 odst. 1 o. s. ř., což zahrnuje soudní poplatek ve výši ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", tři úkony po ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": ", a to 1) převzetí věci a příprava, 2) sepis žaloby, 3) předžalobní výzva, tři režijní paušály po ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "částka",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " – vše dle § 14b vyhl. č. 177/1996 Sb., advokátního tarifu. Plátcem DPH není.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "6. Lhůta k plnění je dle § 160 odst. 1 o. s. ř.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    }
+  ],
+  "justificationText": "1. Žalobou došlou sodu dne [datum] se žalobkyně domáhala po žalovaném zaplacení částky [částka] s příslušenstvím. Žalobu odůvodnila tím, že smlouvou ze dne [datum] byla pohledávka postupitele [ulice] podnik [právnická osoba], [IČO], DIČ: [anonymizováno], se sídlem [adresa], v celkové částce [částka] vůči Žalovanému postoupena Žalobkyni jakožto postupníkovi. Právním důvodem vzniku pohledávky je neuhrazení základního jízdného a neuhrazení přirážky k jízdnému podle zákona č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, zákona č. 266/1994 Sb., o drahách, ve znění pozdějších předpisů, vyhlášky č. 175/2000 Sb., o přepravním řádu pro veřejnou drážní a silniční osobní dopravu, ve znění pozdějších předpisů, a smluvních přepravních podmínek a tarifu jízdného, platných v době vzniku pohledávky. Konkrétně se jedná o pohledávku uvedenou v zápisu o provedené přepravní kontrole dne [datum] sestávající se z dlužného jízdného a přirážky k jízdnému, když na výzvu dopravcem pověřené osoby se žalovaný neprokázal platným jízdním dokladem.\n2. Soud rozhodl bez nařízení jednání dle § 115a zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), když žalobkyně souhlasila, žalovanému byly písemnosti vyvěšeny na úřední desce soudu, ve lhůtě se nevyjádřil.\n3. Z dohody s cestujícím č. I [číslo] ze dne [datum] bylo prokázáno, že žalovaný v tyto dny cestoval dopravním prostředkem [anonymizována dvě slova] [právnická osoba] a na výzvu přepravního kontrolora se neprokázal jízdním dokladem, jízdné ve výši [částka], ani přirážku k jízdnému ve výši [částka] neuhradil. Smlouvou o postoupení souboru pohledávek ze dne [datum], bylo prokázáno, že [ulice] podnik [právnická osoba] postoupil své pohledávky z titulu jízdy bez platného jízdního dokladu na žalobkyni. Žalobkyně oznámila postoupení pohledávky žalovanému dopisem ze dne [datum]. Žalovaný byl vyzván k úhradě dlužné částky předžalobní výzvou spojenou s oznámením o postoupení pohledávky ze dne [datum].\n4. Na základě provedeného dokazování bylo prokázáno, že žaloba žalobkyně je zcela důvodná. Mezi účastníky byla uzavřena smlouva o přepravě dle § 760 a následujících zákona č. 40/1964 Sb., občanského zákoníku účinného do 31. 12. 2013 (dále jen„ obč. z.“), za použití § 3028 odst. 3 zák. č. 89/2012 Sb., občanského zákoníku účinného od 1. 1. 2014 (dále jen„ OZ“). Žalovaný byl zavázán zakoupit si jízdenku, kterou v dopravním prostředku MHD žalobkyně měl řádně označit. Za situace, kdy byl přistižen přepravním kontrolorem, je kromě dlužného jízdného povinen zaplatit i přirážku k jízdnému. Nárok žalobkyně je dále v souladu s § 37 zákona č. 266/1994 Sb., o dráhách, § 18a zákona č. 111/1994 Sb., o silniční dopravě, a dále v souladu se Smluvními přepravními podmínkami žalobkyně. Stanovení úroků z prodlení je do [datum] podle § 517 odst. 2 obč. z. a vyhlášky č. 142/1944 Sb. a od [datum] dle ust. § 1970 OZ a vládního nařízení č. 351/2013 Sb. K postoupení pohledávky na žalobkyni došlo dle ust. § 1879 a násl. OZ.\n5. O náhradě nákladů řízení bylo rozhodnuto dle § 142 odst. 1 o. s. ř., když žalovaný byl zavázán zaplatit k rukám právní zástupkyně žalobkyně částku [částka] dle § 149 odst. 1 o. s. ř., což zahrnuje soudní poplatek ve výši [částka], tři úkony po [částka], a to 1) převzetí věci a příprava, 2) sepis žaloby, 3) předžalobní výzva, tři režijní paušály po [částka] – vše dle § 14b vyhl. č. 177/1996 Sb., advokátního tarifu. Plátcem DPH není.\n6. Lhůta k plnění je dle § 160 odst. 1 o. s. ř.",
+  "information": [
+    {
+      "texts": [
+        {
+          "text": "Proti tomuto rozsudku není odvolání přípustné (ustanovení § 202 odst. 2 o. s. ř.).",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "Nesplní-li žalovaný povinnosti uložené mu tímto rozsudkem v uvedených lhůtách, může se žalobkyně domáhat po jeho právní moci výkonu rozhodnutí u soudu.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    }
+  ],
+  "metadata": {
+    "type": "JUDGEMENT",
+    "ecli": "ECLI:CZ:OSOV:2022:23.C.306.2022.2",
+    "publishedAt": "2023-01-02",
+    "decisionAt": "2022-11-01",
+    "caseNumber": {
+      "senate": 23,
+      "registry": "C",
+      "index": 306,
+      "year": 2022,
+      "pageNumber": 16
+    },
+    "solver": {
+      "titlesBefore": "Mgr.",
+      "firstName": "Pavlína",
+      "lastName": "Vrkočová",
+      "titlesAfter": "",
+      "function": ""
+    },
+    "courtCode": "OSOV",
+    "caseResultType": [
+      "VYHOVENI"
+    ],
+    "caseSubject": "o zaplacení [částka] s příslušenstvím",
+    "specialType": [],
+    "affectedDocs": [],
+    "regulations": [
+      {
+        "paragraphNumber": "14b",
+        "lexNumber": 177,
+        "lexYear": 1996,
+        "lexType": "PREDPIS_VYHLASKA"
+      },
+      {
+        "paragraphNumber": "202",
+        "lexNumber": 99,
+        "lexYear": 1963,
+        "lexType": "PREDPIS_ZAKON"
+      },
+      {
+        "paragraphNumber": "142",
+        "lexNumber": 99,
+        "lexYear": 1963,
+        "lexType": "PREDPIS_ZAKON"
+      },
+      {
+        "paragraphNumber": "1879",
+        "lexNumber": 89,
+        "lexYear": 2012,
+        "lexType": "PREDPIS_ZAKON"
+      },
+      {
+        "paragraphNumber": "37",
+        "lexNumber": 266,
+        "lexYear": 1994,
+        "lexType": "PREDPIS_ZAKON"
+      },
+      {
+        "paragraphNumber": "18a",
+        "lexNumber": 111,
+        "lexYear": 1994,
+        "lexType": "PREDPIS_ZAKON"
+      },
+      {
+        "paragraphNumber": "149",
+        "lexNumber": 99,
+        "lexYear": 1963,
+        "lexType": "PREDPIS_ZAKON"
+      },
+      {
+        "paragraphNumber": "160",
+        "lexNumber": 99,
+        "lexYear": 1963,
+        "lexType": "PREDPIS_ZAKON"
+      },
+      {
+        "paragraphNumber": "",
+        "lexNumber": 175,
+        "lexYear": 2000,
+        "lexType": "PREDPIS_VYHLASKA"
+      },
+      {
+        "paragraphNumber": "1970",
+        "lexNumber": 351,
+        "lexYear": 2013,
+        "lexType": "PREDPIS_NARIZENI_VLADY"
+      },
+      {
+        "paragraphNumber": "3028",
+        "lexNumber": 89,
+        "lexYear": 2012,
+        "lexType": "PREDPIS_ZAKON"
+      },
+      {
+        "paragraphNumber": "760",
+        "lexNumber": 40,
+        "lexYear": 1964,
+        "lexType": "PREDPIS_ZAKON"
+      }
+    ],
+    "flags": [
+      "JIZDNE",
+      "PENEZITE_PLNENI",
+      "POSTOUPENI_POHLEDAVKY"
+    ]
+  },
+  "styles": [
+    {
+      "localId": 0,
+      "alignment": "LEFT",
+      "hasSpaceBefore": false,
+      "hasSpaceAfter": false,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "localId": 1,
+      "alignment": "LEFT",
+      "hasSpaceBefore": false,
+      "hasSpaceAfter": false,
+      "bold": true,
+      "italic": false
+    }
+  ]
+}
