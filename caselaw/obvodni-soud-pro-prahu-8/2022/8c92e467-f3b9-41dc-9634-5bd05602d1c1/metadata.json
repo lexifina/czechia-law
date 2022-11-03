@@ -1,0 +1,32 @@
+{
+  "listing": {
+    "jednaciCislo": "27 C 87/2022-86",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Pavel Jaroš",
+    "ecli": "ECLI:CZ:OSPH08:2022:27.C.87.2022.2",
+    "predmetRizeni": "o zaplacení 10 109,49 Kč s příslušenstvím",
+    "datumVydani": "2022-11-03",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c92e467-f3b9-41dc-9634-5bd05602d1c1"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/8c92e467-f3b9-41dc-9634-5bd05602d1c1",
+  "source_sha256": "341ad00dcbf7aa19536b1db24451439226a09922448f28ce8c54076e95444076",
+  "source_bytes": 16205,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
