@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-10-05 | 270/2 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 81 ze dne 5. října 2022 k návrhu poslanců Karla Haase a dalších na vydání zákona, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony | [t027002.md](t027002.md) |
 | 2022-10-11 | 270/3 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 83 ze dne 11. října 2022 k návrhu poslanců Karla Haase a dalších na vydání zákona, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony | [t027003.md](t027003.md) |
 | 2022-10-19 | 270/4 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 85 ze dne 19. října 2022 k návrhu poslanců Karla Haase a dalších na vydání zákona, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony | [t027004.md](t027004.md) |
+| 2022-11-04 | 270/5 | Pozměňovací a jiné návrhy k návrhu poslanců Karla Haase a dalších na vydání zákona, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony | [t027005.md](t027005.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t027002.md](t027002.md) | 270/2 | Text | [t027002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217882) | pymupdf / pdftotext 1.0000 |
 | [t027003.md](t027003.md) | 270/3 | Text | [t027003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218217) | pymupdf / pdftotext 1.0000 |
 | [t027004.md](t027004.md) | 270/4 | Text | [t027004.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218602) | pymupdf / pdftotext 1.0000 |
+| [t027005.md](t027005.md) | 270/5 | Text | [t027005.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219618) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
