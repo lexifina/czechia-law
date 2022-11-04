@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-10-25 | 322/0 | Zpráva a jiné | [t032200.md](t032200.md) |
+| 2022-11-04 | 322/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 92 ze dne 2. listopadu 2022 ke zprávě o činnosti kontrolní rady Grantové agentury České republiky za období od října 2021 do září 2022 | [t032201.md](t032201.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t032200.md](t032200.md) | 322/0 | Text | [t032200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218984) | pymupdf / pdftotext 1.0000 |
+| [t032201.md](t032201.md) | 322/1 | Text | [t032201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219628) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
