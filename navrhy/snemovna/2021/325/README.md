@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-10-31 | 325/0 | Zpráva a jiné | [t032500.md](t032500.md), [t0325a0.md](t0325a0.md), [t0325b0.md](t0325b0.md), [t0325c0.md](t0325c0.md), [t0325d0.md](t0325d0.md), [t0325e0.md](t0325e0.md), [t0325f0.md](t0325f0.md), [t0325g0.md](t0325g0.md), [t0325h0.md](t0325h0.md) |
+| 2022-11-04 | 325/1 | Usnesení hospodářského výboru č. 106 ze dne 3. listopadu 2022 k rozpočtu Státního fondu dopravní infrastruktury na rok 2023 a střednědobý výhled na roky 2024 a 2025 | [t032501.md](t032501.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0325f0.md](t0325f0.md) | 325/0 | Další | [t0325f0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219129) | pymupdf / pdftotext 1.0000 |
 | [t0325g0.md](t0325g0.md) | 325/0 | Další | [t0325g0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219130) | pymupdf / pdftotext 1.0000 |
 | [t0325h0.md](t0325h0.md) | 325/0 | Další | [t0325h0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219131) | pymupdf / pdftotext 1.0000 |
+| [t032501.md](t032501.md) | 325/1 | Text | [t032501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219634) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
