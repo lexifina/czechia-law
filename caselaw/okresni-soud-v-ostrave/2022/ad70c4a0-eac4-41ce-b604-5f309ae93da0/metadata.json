@@ -1,0 +1,38 @@
+{
+  "listing": {
+    "jednaciCislo": "23 C 331/2022-14",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavlína Vrkočová",
+    "ecli": "ECLI:CZ:OSOV:2022:23.C.331.2022.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2022-11-08",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 2759 z. č. 89/2012 Sb.",
+      "§ 2779 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ad70c4a0-eac4-41ce-b604-5f309ae93da0"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/ad70c4a0-eac4-41ce-b604-5f309ae93da0",
+  "source_sha256": "bb276d29b1359a4237bff831efdfa048be6a91cefa9754e62e5ba4241df2234b",
+  "source_bytes": 16160,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
