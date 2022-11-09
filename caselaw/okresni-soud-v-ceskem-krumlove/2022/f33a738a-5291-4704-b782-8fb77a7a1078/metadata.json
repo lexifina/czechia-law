@@ -1,0 +1,35 @@
+{
+  "listing": {
+    "jednaciCislo": "2 C 209/2022-71",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2022:2.C.209.2022.1",
+    "predmetRizeni": "EPR [číslo] - o zaplacení 20 109,28 Kč s příslušenstvím",
+    "datumVydani": "2022-11-09",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§  nař. vl. č. 163/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f33a738a-5291-4704-b782-8fb77a7a1078"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/f33a738a-5291-4704-b782-8fb77a7a1078",
+  "source_sha256": "2c1652c560dae9b0672293bc11178c48bb8cfec781fddb4b1a7ff1c79fc2a6b1",
+  "source_bytes": 18678,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
