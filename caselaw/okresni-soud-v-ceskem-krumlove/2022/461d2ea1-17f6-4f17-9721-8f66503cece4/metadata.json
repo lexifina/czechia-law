@@ -1,0 +1,36 @@
+{
+  "listing": {
+    "jednaciCislo": "2 C 189/2022-21",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2022:2.C.189.2022.3",
+    "predmetRizeni": "o zaplacení 15 842 Kč s příslušenstvím",
+    "datumVydani": "2022-11-09",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 51 z. č. 458/2000 Sb.",
+      "§ 9 vyhl. č. 80/2011 Sb.",
+      "§ 9 vyhl. č. 182/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/461d2ea1-17f6-4f17-9721-8f66503cece4"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/461d2ea1-17f6-4f17-9721-8f66503cece4",
+  "source_sha256": "57b68f003124d3db089a4b6ecbe6f704f8a254f690e2cb8116bca921cb1e192a",
+  "source_bytes": 13441,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
