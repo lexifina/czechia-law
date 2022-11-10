@@ -1,0 +1,37 @@
+{
+  "listing": {
+    "jednaciCislo": "19 C 300/2022-35",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Barbora Bláhová",
+    "ecli": "ECLI:CZ:OSPH06:2022:19.C.300.2022.1",
+    "predmetRizeni": "o zaplacení částky 8 478 Kč s příslušenstvím",
+    "datumVydani": "2022-11-10",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7697ce47-e15f-4248-a2a6-cb60e7efcc8e"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/7697ce47-e15f-4248-a2a6-cb60e7efcc8e",
+  "source_sha256": "ebba72b4ca2eea3b77bbd883ffac2d8e0dd69b15fdead807db1ed3b3041d13b4",
+  "source_bytes": 13879,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
