@@ -1,0 +1,35 @@
+{
+  "listing": {
+    "jednaciCislo": "27 C 86/2022-46",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Pavel Jaroš",
+    "ecli": "ECLI:CZ:OSPH08:2022:27.C.86.2022.2",
+    "predmetRizeni": "o zaplacení 5 601 Kč s příslušenstvím",
+    "datumVydani": "2022-11-10",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/54febe57-a4ab-41ed-8af3-a75afebf0987"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/54febe57-a4ab-41ed-8af3-a75afebf0987",
+  "source_sha256": "ec63c922746bed67b740999867e7d3c24a5411b0629fccd6ef8aeae67b23f07b",
+  "source_bytes": 12231,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
