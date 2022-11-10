@@ -1,0 +1,35 @@
+{
+  "listing": {
+    "jednaciCislo": "10 C 238/2022-20",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2022:10.C.238.2022.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2022-11-10",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab463ea8-0b27-4dfb-ab56-3305782685c2"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/ab463ea8-0b27-4dfb-ab56-3305782685c2",
+  "source_sha256": "9a1e4bf33d0723310c8e9f5cd9f8d661bd08c2523ef41e3a30dd510243e1af6b",
+  "source_bytes": 17978,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
