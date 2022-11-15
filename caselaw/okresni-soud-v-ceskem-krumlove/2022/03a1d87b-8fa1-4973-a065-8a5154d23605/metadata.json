@@ -1,0 +1,35 @@
+{
+  "listing": {
+    "jednaciCislo": "2 C 232/2022-16",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2022:2.C.232.2022.1",
+    "predmetRizeni": "EPR [číslo] - o zaplacení 11 628 Kč s příslušenstvím",
+    "datumVydani": "2022-11-15",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03a1d87b-8fa1-4973-a065-8a5154d23605"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/03a1d87b-8fa1-4973-a065-8a5154d23605",
+  "source_sha256": "e6c523cb6e62a2ee8febddf98b062c786106a1a0fbb9ad3f4cdc3749d824ab58",
+  "source_bytes": 25637,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
