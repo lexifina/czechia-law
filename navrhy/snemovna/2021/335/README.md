@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-11-11 | 335/0 | Vládní návrh zákona | [t033500.md](t033500.md), [t0335a0.md](t0335a0.md), [t0335b0.md](t0335b0.md) |
 | 2022-11-16 | 335/1 | Usnesení rozpočtového výboru č. 174 ze dne 15. listopadu 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů | [t033501.md](t033501.md) |
+| 2022-11-16 | 335/2 | Usnesení hospodářského výboru č. 111 ze dne 16. listopadu 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů | [t033502.md](t033502.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0335a0.md](t0335a0.md) | 335/0 | Platné znění s vyznačením změn | [t0335a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219896) | pymupdf / pdftotext 1.0000 |
 | [t0335b0.md](t0335b0.md) | 335/0 | Kompatibilita s právem EU | [t0335b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219900) | pymupdf / pdftotext 1.0000 |
 | [t033501.md](t033501.md) | 335/1 | Text | [t033501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220153) | pymupdf / pdftotext 1.0000 |
+| [t033502.md](t033502.md) | 335/2 | Text | [t033502.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220225) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
