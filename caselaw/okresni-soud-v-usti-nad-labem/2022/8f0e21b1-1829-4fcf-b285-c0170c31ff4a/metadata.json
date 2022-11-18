@@ -1,0 +1,37 @@
+{
+  "listing": {
+    "jednaciCislo": "34 C 371/2022-21",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Alice Karpíšková",
+    "ecli": "ECLI:CZ:OSUL:2022:34.C.371.2022.2",
+    "predmetRizeni": "O zaplacení 7 584 Kč s příslušenstvím",
+    "datumVydani": "2022-11-18",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f0e21b1-1829-4fcf-b285-c0170c31ff4a"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/8f0e21b1-1829-4fcf-b285-c0170c31ff4a",
+  "source_sha256": "a2cb75131e5d381d5c834855d6fe6cc83a79941316fe957592de122182b116e5",
+  "source_bytes": 16554,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
