@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-09-29 | 313/0 | Vládní návrh zákona | [t031300.md](t031300.md), [t0313a0.md](t0313a0.md) |
 | 2022-11-01 | 313/1 | Usnesení hospodářského výboru č. 96 ze dne 25. října 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů | [t031301.md](t031301.md) |
+| 2022-11-18 | 313/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů | [t031302.md](t031302.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t031300.md](t031300.md) | 313/0 | Návrh zákona včetně důvodové zprávy | [t031300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217536) | pymupdf / pdftotext 1.0000 |
 | [t0313a0.md](t0313a0.md) | 313/0 | Platné znění s vyznačením změn | [t0313a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217534) | pymupdf / pdftotext 1.0000 |
 | [t031301.md](t031301.md) | 313/1 | Text | [t031301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219183) | pymupdf / pdftotext 1.0000 |
+| [t031302.md](t031302.md) | 313/2 | Text | [t031302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220375) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
