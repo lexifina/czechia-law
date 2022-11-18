@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-11-02 | 333/0 | Vládní návrh zákona | [t033300.md](t033300.md), [t0333a0.md](t0333a0.md) |
 | 2022-11-16 | 333/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 51 ze dne 16. listopadu 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů, a další související zákony | [t033301.md](t033301.md) |
+| 2022-11-18 | 333/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů, a další související zákony | [t033302.md](t033302.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t033300.md](t033300.md) | 333/0 | Návrh zákona včetně důvodové zprávy | [t033300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219327) | pymupdf / pdftotext 1.0000 |
 | [t0333a0.md](t0333a0.md) | 333/0 | Platné znění s vyznačením změn | [t0333a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219325) | pymupdf / pdftotext 1.0000 |
 | [t033301.md](t033301.md) | 333/1 | Text | [t033301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220217) | pymupdf / pdftotext 1.0000 |
+| [t033302.md](t033302.md) | 333/2 | Text | [t033302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220365) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
