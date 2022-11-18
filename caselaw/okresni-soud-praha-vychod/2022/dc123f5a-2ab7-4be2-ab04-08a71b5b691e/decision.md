@@ -1,0 +1,58 @@
+# Okresní soud Praha-východ - 22 C 371/2022-31
+
+| Field | Value |
+| --- | --- |
+| Court | Okresní soud Praha-východ |
+| File number | 22 C 371/2022-31 |
+| ECLI | ECLI:CZ:OSPY:2022:22.C.371.2022.1 |
+| Decision date | 2022-11-18 |
+| Publication date | 2023-01-02 |
+| Subject | O zaplacení 2 150 Kč s příslušenstvím |
+| Author | JUDr. Gabriela Antonie Bartová |
+| Source UUID | dc123f5a-2ab7-4be2-ab04-08a71b5b691e |
+| Source SHA256 | 5575a4e1111fbaa6cad6d7d2bf0bc262aa00aa865212390fc041a5661b7ed25a |
+| Source | https://rozhodnuti.justice.cz/api/finaldoc/dc123f5a-2ab7-4be2-ab04-08a71b5b691e |
+| Keywords | odtah vozidla; peněžité plnění |
+| Mentioned provisions | § 45 z. č. 361/2000 Sb. |
+
+## Header
+
+Okresní soud Praha-východ rozhodl samosoudkyní JUDr. Gabrielou Antonií Bartovou ve věci
+žalobkyně: [osobní údaje žalobkyně]
+proti
+žalované: [osobní údaje žalované]
+<!-- styleLocalId: 1 -->
+o zaplacení 2 150 Kč s příslušenstvím
+
+## Verdict
+
+I. Žalovaná je povinna zaplatit žalobkyni částku 2 150 Kč s úrokem z prodlení ve výši 8,25 % ročně z částky 2 150 Kč od 25. 6. 2021 do zaplacení.
+II. Žalovaná je povinna zaplatit žalobkyni náhradu nákladů řízení v částce 1 000 Kč, a to do tří dnů od právní moci tohoto rozsudku.
+
+## Justification
+
+1. Žalobkyně se po žalované v tomto řízení domáhala zaplacení částky 2 150 Kč s příslušenstvím jakožto úhrady za provedený odtah vozidla. Tvrdila, že je na základě Zřizovací listiny [územní celek] oprávněna k odstraňování silničních vozidel a jejich vraků z místních komunikací, včetně jejich umístění a hlídání na střeženém parkovišti. Žalobkyně dne 20. 5. 2021 provedla odtah motorového vozidla [registrační značka] a vozidlo následně umístila na parkovišti, které provozuje. Žalované bylo zasláno oznámení o odtahu vozidla a upozornění na narůstající dluh za provedený odtah a parkovné. Žalovaná tyto částky však dosud neuhradila. Cena za nucené odtahy a parkovné na parkovišti provozovaném žalobkyní byla stanovena nařízením [územní celek] s tím, že parkovné bylo počítáno za každý započatý den parkování. Žalobkyně požaduje částku 2 150 Kč, a to 1 900 Kč za provedený odtah a 250 Kč za střežení vozidla.
+2. Žalovaná se ve věci nevyjádřila.
+3. Protože ve věci bylo možno rozhodnout na základě předložených listinných důkazů, vyzval soud účastníky řízení podle ustanovení § 115a zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen„ o. s. ř.“), k vyjádření, zda souhlasí s rozhodnutím věci bez nařízení jednání s tím, že pokud se ve stanovené lhůtě nevyjádří, bude mít soud podle ustanovení § 101 odst. 4 o. s. ř. za to, že s rozhodnutím věci bez nařízení jednání souhlasí. Žalobkyně s takovým postupem soudu souhlasila již v žalobě a žalovaná se k výzvě soudu, zda s takovým postupem souhlasí, nevyjádřila, v důsledku čehož má soud za to, že s takovým postupem souhlasí. Soud tak ve věci rozhodl bez nařízení jednání za podmínek ustanovení § 115a o. s. ř. na základě doposud předložených listinných důkazů.
+4. Soud dospěl na základě provedeného dokazování, vycházeje z listinných důkazů založených do spisu žalobkyní, k následujícím skutkovým zjištěním:
+5. Dle Zřizovací listiny příspěvkové organizace [anonymizována dvě slova] [územní celek] ze dne 26. 5. 2020 je žalobkyně příspěvkovou organizací a jejím předmětem činnosti je zajištění materiálně technického zázemí pro činnost [územní celek]. Obsahem této činnosti je mimo jiné výkon oprávnění [územní celek] dle § 19b a 19c zákona č. 13/1997 Sb., o pozemních komunikacích, spočívající v odstranění silničních vozidel a jejich vraků z místních a účelových komunikací, včetně jejich hlídání. (Zřizovací listina na čl. 25-28 spisu)
+6. [jméno] [územní celek] stanovila maximální ceny za nutné odtahy silničních vozidel, včetně jejich střežení na parkovišti ve svém Nařízení ze dne 1. 4. 2013, tak, že maximální cena za jeden nucený odtah vozidla úplný činí 1 900 Kč, maximální cena za první až třetí den střežení vozidel činí 250 Kč za každý byť jen započatý den, 400 Kč na den od čtvrtého dne a 50 Kč za den od sto osmdesátého prvního dne. (Nařízení o maximálních cenách za nucené odtahy vozidel, jejich střežení na parkovišti na čl. 20 - 21 spisu)
+7. Dne 20. 5. 2021 v 2:05 hodin z rozhodnutí příslušníka Policie ČR realizovala žalobkyně v místě V [obec], [ulice] [anonymizováno], [obec a číslo], odtah vozidla zn. Mercedes, stříbrné barvy, [registrační značka]. Vozidlo bylo téhož dne vydáno osobě [jméno] [příjmení], tj. osobě odlišné, než je uvedeno v technickém průkazu vozidla. Odtah byl účtován v sazbě 1 900 Kč a parkovné v částce 250 Kč, přičemž tyto částky nebyly uhrazeny při vyzvednutí vozidla. (protokol na čl. 23 spisu)
+8. Žalobkyně disponuje kopií technického průkazu vozidla [registrační značka], kde je jako provozovatel vozidla uvedena žalovaná. (technický průkaz na čl. 19 spisu)
+9. Žalobkyně vyzvala žalovanou k úhradě částky ve výši 2 150 Kč za odtah vozidla [registrační značka] výzvou ze dne 24. 5. 2021. Splatnost stanovila na 23. 6. 2021 (výzva na čl. 18 spisu) Tato výzva byla žalované odeslána na adresu označenou v technickém průkazu dne 26. 5. 2021 (dodejka na čl. 18 spisu, 2. strana)
+10. Žalobkyně dále vyzvala žalovanou výzvou [číslo jednací] ze dne 22. 3. 2022 k úhradě dlužné částky za odtah a parkování ve výši 2 150 Kč, včetně příslušenství 2 282,18 Kč. Žalovaná byla upozorněna na možnost vymáhání dlužné částky soudní cestou v případě nesplnění výzvy. (výzva na čl. 24 spisu) Téhož dne žalobkyně odeslala do datové schránky žalované zprávu s předmětem Výzva k uhrazení – O – 14704 (dodejka na čl. 17 spisu)
+11. Na základě provedených důkazů soud dospěl k následujícímu závěru o skutkovém stavu věci.
+12. Žalobkyně je příspěvkovou organizací zřízenou za účelem zajištění materiálně technického zázemí pro činnost [územní celek]. Předmětem činnosti žalobkyně je mimo jiné výkon oprávnění [územní celek] dle § 19b a 19c zákona č. 13/1997 Sb., o pozemních komunikacích, spočívající v odstranění silničních vozidel a jejich vraků z místních a účelových komunikací, včetně jejich hlídání. [jméno] [územní celek] stanovila cenu za nucený odtah vozidla na částku 1 900 Kč a maximální cenu za první až třetí den střežení vozidel na 250 Kč za každý byť jen započatý den, na 400 Kč za den od čtvrtého dne a 50 Kč za den od sto osmdesátého prvního dne. Dne 20. 5. 2021 provedla žalobkyně na pokyn strážníka Policie České republiky odtah vozidla [registrační značka], značky Mercedes. Jako provozovatel tohoto vozidla je v technickém průkazu evidována žalovaná. Za provedení odtahu a jeden den střežení vozidla bylo žalované účtováno 2 150 Kč. Žalobkyně žalovanou opakovaně vyzvala žalovanou k úhradě této částky, a to mimo jiné i předžalobní výzvou. Ve výzvě ze dne 24. 5. 2021 stanovila žalobkyně splatnost částky na 23. 6. 2021.
+13. Zaplacení dlužné částky, ani jiné skutečnosti významné z hlediska základu či výše žalobou uplatněného nároku nebyly tvrzeny, tedy ani prokázány.
+14. Uvedený skutkový děj soud zjistil z listinných důkazů předložených žalobkyní, když žalovaná byla ve věci nečinná, na svoji obranu nepředložila soudu žádných důkazů, neučinila ani žádných skutkových tvrzení. Skutečnosti podávající se z listinných důkazů jsou ve vzájemné souvislosti, je dána časová souslednost skutku a logické návaznosti jednotlivých skutečností z listin se podávajících. Z obsahu spisu se nepodává žádná skutečnost, z níž by bylo namístě usuzovat na nedůvěryhodnost důkazů v řízení provedených.
+15. Podle § 45, odst. 1, odst. 2, odst. 4, zákona č. 361/2000 Sb., o silničním provozu (dále jen„ zákon o silničním provozu“), kdo způsobil překážku provozu na pozemních komunikacích, musí ji neprodleně odstranit; neučiní-li tak, odstraní ji na jeho náklad vlastník pozemní komunikace. Není-li možno překážku provozu na pozemních komunikacích neprodleně odstranit, musí ji její původce označit a ohlásit policii. Je-li překážkou provozu na pozemní komunikaci vozidlo, rozhoduje o jeho odstranění policista nebo strážník obecní policie, přičemž jde-li o dálnici, zajistí odstranění vozidla na výzvu policisty některá z osob uvedených v odstavci 1; vozidlo se odstraní na náklad jeho provozovatele.
+16. Podle ustanovení § 1968 o. z. dlužník, který svůj dluh řádně a včas neplní, je v prodlení. Dlužník není za prodlení odpovědný, nemůže-li plnit v důsledku prodlení věřitele.
+17. Podle ustanovení § 1970 o. z. po dlužníkovi, který je v prodlení se splácením peněžitého dluhu, může věřitel, který řádně splnil své smluvní a zákonné povinnosti, požadovat zaplacení úroku z prodlení, ledaže dlužník není za prodlení odpovědný. Výši úroku z prodlení stanoví vláda nařízením; neujednají-li strany výši úroku z prodlení, považuje se za ujednanou výše takto stanovená.
+18. Na základě předložených listinných důkazů a ve světle citované právní úpravy dospěl soud k závěru, že žaloba byla podána důvodně. Žalobkyně provedla odtah vozidla [registrační značka] na pokyn Policie České republiky realizovaný na základě shora citovaného § 45 zákona o silničním provozu. Jako provozovatel tohoto vozidla je vedena žalovaná. Žalovaná je proto povinna uhradit žalobkyni náklady na odtah a uskladnění vozidla, které žalobkyně vyúčtovala v souladu s nařízením Rady [územní celek] o maximálních cenách za nucené odtahy vozidel včetně jejich střežení na parkovišti. V řízení nebylo prokázáno, že by žalovaná na dlužnou částku plnila, proto je povinna uhradit dlužnou částku ve výši 2 150 Kč (tj. 1 900 Kč za odtah a 250 Kč za jeden den střežení). Soud vyhověl žalobkyni i co do příslušenství pohledávky ve smyslu ustanovení § 1968 odst. 1 o. z., které žalobkyně požadovala ode dne následujícího po dni splatnosti uvedené ve výzvě k úhradě dluhu. Období, za něž žalobkyně úrok z prodlení požaduje, je obdobím, kdy byla žalovaná s plněním své povinnosti již v prodlení. Požadovaná výše úroků z prodlení pak odpovídá výši stanovené vládním nařízením dle § 1970 o. z. ve spojení s nařízením vlády č. 351/2013 Sb.
+19. O náhradě nákladů řízení rozhodl soud § 142 odst. 1 o.s.ř. tak, že přiznal žalobkyni, jež byla v řízení zcela úspěšná, plnou náhradu nákladů v částce 1 000 Kč Tyto náklady sestávají ze zaplaceného soudního poplatku v částce 400 Kč a nákladů řízení uplatněných v souladu s § 151 odst. 3 o. s. ř. za použití vyhlášky Ministerstva spravedlnosti č. 254/2015 Sb., dle které účastníkovi řízení, jenž nebyl zastoupen zástupcem podle § 151 odst. 3 o. s. ř. a nedoložil výši hotových výdajů, náleží částka 600 Kč představující 300 Kč za každý ze dvou úkonů (tj. jednoduchá výzva k plnění a podání žaloby) dle § 2 odst. 3 uvedené vyhlášky.
+20. Lhůtu k plnění soud stanovil podle ustanovení § 160 odst. 1 o. s. ř., když neshledal důvody pro její prodloužení.
+
+## Information
+
+Proti tomuto rozsudku není odvolání přípustné (ustanovení § 202 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu).
+Nesplní-li žalovaná povinnosti uložené jí tímto rozsudkem v uvedených lhůtách, může se žalobkyně domáhat po jeho právní moci výkonu rozhodnutí u soudu.
