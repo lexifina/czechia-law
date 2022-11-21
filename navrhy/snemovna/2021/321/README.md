@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-10-21 | 321/0 | Návrh zákona | [t032100.md](t032100.md), [t0321a0.md](t0321a0.md) |
+| 2022-11-21 | 321/1 | Stanovisko vlády k návrhu poslanců Martiny Ochodnické, Josefa Fleka, Toma Phillipa, Bohuslava Svobody, Kláry Kocmanové a dalších na vydání zákona, kterým se mění zákon č. 65/2017 Sb., o ochraně zdraví před škodlivými účinky návykových látek, ve znění pozdějších předpisů | [t032101.md](t032101.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t032100.md](t032100.md) | 321/0 | Návrh zákona včetně důvodové zprávy | [t032100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218884) | pymupdf / pdftotext 1.0000 |
 | [t0321a0.md](t0321a0.md) | 321/0 | Platné znění s vyznačením změn | [t0321a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218883) | pymupdf / pdftotext 1.0000 |
+| [t032101.md](t032101.md) | 321/1 | Stanovisko | [t032101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220452) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
