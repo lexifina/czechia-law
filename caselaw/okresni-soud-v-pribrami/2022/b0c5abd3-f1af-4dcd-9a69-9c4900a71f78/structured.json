@@ -1,0 +1,235 @@
+{
+  "uuid": "b0c5abd3-f1af-4dcd-9a69-9c4900a71f78",
+  "header": [
+    {
+      "texts": [
+        {
+          "text": "Okresní soud v Příbrami rozhodl samosoudkyní JUDr. Alicí Kořínkovou ve věci",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "žalobce: ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "osobní údaje žalobce",
+          "anonStyle": "ANON"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "sídlem ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "adresa žalobkyně",
+          "anonStyle": "ANON"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "zastoupený advokátem ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "anonymizováno",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "jméno",
+          "anonStyle": "ANON"
+        },
+        {
+          "text": " ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "příjmení",
+          "anonStyle": "ANON"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "sídlem ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "adresa žalobkyně",
+          "anonStyle": "ANON"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "proti",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "žalované: ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "osobní údaje žalované",
+          "anonStyle": "ANON"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "trvale bytem ",
+          "anonStyle": "NONE"
+        },
+        {
+          "text": "adresa žalované",
+          "anonStyle": "ANON"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    },
+    {
+      "texts": [
+        {
+          "text": "o zaplacení částky 40 590 Kč s příslušenstvím",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    }
+  ],
+  "verdict": [
+    {
+      "texts": [
+        {
+          "text": "V písemném vyhotovení rozsudku Okresního soudu v Příbrami č.j. 16 C 136/2022-54 se opravuje nesprávně uvedené datum vyhlášení rozsudku„ 25. srpna 2022“ tak, že správně zní„ 31. srpna 2022“.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    }
+  ],
+  "verdictText": "V písemném vyhotovení rozsudku Okresního soudu v Příbrami č.j. 16 C 136/2022-54 se opravuje nesprávně uvedené datum vyhlášení rozsudku„ 25. srpna 2022“ tak, že správně zní„ 31. srpna 2022“.",
+  "justification": [
+    {
+      "texts": [
+        {
+          "text": "Ve shora označené věci rozhodl soud rozsudkem č.j. 16 C 136/2022-54, v jehož písemném vyhotovení se dopustil zřejmé nesprávnosti, spočívající v uvedení nesprávného data vyhlášení rozhodnutí. Zjištěné pochybení napravil soud postupem dle § 164 zák. č. 99/1963 Sb., občanského soudního řádu.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    }
+  ],
+  "justificationText": "Ve shora označené věci rozhodl soud rozsudkem č.j. 16 C 136/2022-54, v jehož písemném vyhotovení se dopustil zřejmé nesprávnosti, spočívající v uvedení nesprávného data vyhlášení rozhodnutí. Zjištěné pochybení napravil soud postupem dle § 164 zák. č. 99/1963 Sb., občanského soudního řádu.",
+  "information": [
+    {
+      "texts": [
+        {
+          "text": "Proti tomuto usnesení není odvolání přípustné.",
+          "anonStyle": "NONE"
+        }
+      ],
+      "styleLocalId": 0,
+      "tableCellInfo": null
+    }
+  ],
+  "metadata": {
+    "type": "RESOLUTION",
+    "ecli": "ECLI:CZ:OSPB:2022:16.C.136.2022.2",
+    "publishedAt": "2023-01-02",
+    "decisionAt": "2022-11-23",
+    "caseNumber": {
+      "senate": 16,
+      "registry": "C",
+      "index": 136,
+      "year": 2022,
+      "pageNumber": 63
+    },
+    "solver": {
+      "titlesBefore": "JUDr.",
+      "firstName": "Alice",
+      "lastName": "Kořínková",
+      "titlesAfter": "",
+      "function": ""
+    },
+    "courtCode": "OSPB",
+    "caseResultType": [
+      "VYHOVENI"
+    ],
+    "caseSubject": "",
+    "specialType": [],
+    "affectedDocs": [
+      {
+        "caseNumber": {
+          "senate": 16,
+          "registry": "C",
+          "index": 136,
+          "year": 2022,
+          "pageNumber": 54
+        },
+        "affectedDate": "2022-08-25",
+        "courtCode": "OSPB",
+        "affectedTypes": [
+          "CORRECT"
+        ],
+        "url": null
+      }
+    ],
+    "regulations": [
+      {
+        "paragraphNumber": "164",
+        "lexNumber": 99,
+        "lexYear": 1963,
+        "lexType": "PREDPIS_ZAKON"
+      }
+    ],
+    "flags": []
+  },
+  "styles": [
+    {
+      "localId": 0,
+      "alignment": "LEFT",
+      "hasSpaceBefore": false,
+      "hasSpaceAfter": false,
+      "bold": false,
+      "italic": false
+    }
+  ]
+}
