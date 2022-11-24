@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-10-19 | 315/1 | Usnesení rozpočtového výboru č. 150 ze dne 19. října 2022 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2023 | [t031501.md](t031501.md) |
 | 2022-11-10 | 315/2 | Usnesení rozpočtového výboru č. 168 ze dne 9. listopadu 2022 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2023 | [t031502.md](t031502.md), [t0315a2.md](t0315a2.md), [t0315b2.md](t0315b2.md), [t0315c2.md](t0315c2.md) |
 | 2022-11-24 | 315/3 | Pozměňovací návrhy k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2023 a k vládnímu návrhu státního rozpočtu České republiky na rok 2023 | [t031503.md](t031503.md), [t0315a3.md](t0315a3.md) |
+| 2022-11-24 | 315/4 | Návrhy doprovodných usnesení k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2023 a k vládnímu návrhu státního rozpočtu České republiky na rok 2023 | [t031504.md](t031504.md) |
 
 ## Files
 
@@ -60,6 +61,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0315c2.md](t0315c2.md) | 315/2 | Text | [t0315c2.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219826) | pymupdf / pdftotext 1.0000 |
 | [t031503.md](t031503.md) | 315/3 | Text | [t031503.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220735) | pymupdf / pdftotext 1.0000 |
 | [t0315a3.md](t0315a3.md) | 315/3 | Text | [t0315a3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220737) | pymupdf / pdftotext 1.0000 |
+| [t031504.md](t031504.md) | 315/4 | Text | [t031504.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220741) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
