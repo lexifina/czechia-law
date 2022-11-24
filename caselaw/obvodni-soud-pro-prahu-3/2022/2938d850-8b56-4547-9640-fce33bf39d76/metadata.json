@@ -1,0 +1,39 @@
+{
+  "listing": {
+    "jednaciCislo": "6 C 423/2022-27",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Miroslava Sixtová",
+    "ecli": "ECLI:CZ:OSPH03:2022:6.C.423.2022.1",
+    "predmetRizeni": "12 365 Kč s příslušenstvím",
+    "datumVydani": "2022-11-24",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2938d850-8b56-4547-9640-fce33bf39d76"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/2938d850-8b56-4547-9640-fce33bf39d76",
+  "source_sha256": "1fd6a05d75ac82c304317708ea191579dd1153b4db21c9b9266035585517adfa",
+  "source_bytes": 36132,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
