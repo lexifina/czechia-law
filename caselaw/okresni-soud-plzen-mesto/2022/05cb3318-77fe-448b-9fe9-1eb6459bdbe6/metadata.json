@@ -1,0 +1,37 @@
+{
+  "listing": {
+    "jednaciCislo": "30 C 321/2022-17",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Kotrbatý",
+    "ecli": "ECLI:CZ:OSPM:2022:30.C.321.2022.1",
+    "predmetRizeni": "O zaplacení 1 755 Kč s příslušenstvím",
+    "datumVydani": "2022-11-29",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05cb3318-77fe-448b-9fe9-1eb6459bdbe6"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/05cb3318-77fe-448b-9fe9-1eb6459bdbe6",
+  "source_sha256": "88e8dc7728bd8539afd079c5de04b534a8dcad4b1aa1b1d25017eee3cab5e834",
+  "source_bytes": 15735,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
