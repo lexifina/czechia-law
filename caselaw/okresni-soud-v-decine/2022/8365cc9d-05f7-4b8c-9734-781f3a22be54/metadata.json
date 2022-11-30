@@ -1,0 +1,36 @@
+{
+  "listing": {
+    "jednaciCislo": "6 C 318/2022-15",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2022:6.C.318.2022.1",
+    "predmetRizeni": "O zaplacení 4 000 Kč s příslušenstvím",
+    "datumVydani": "2022-11-30",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8365cc9d-05f7-4b8c-9734-781f3a22be54"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/8365cc9d-05f7-4b8c-9734-781f3a22be54",
+  "source_sha256": "196c7e1f089762571dcf8d3853f87244d6da873737256dca78d0f697d87c1c92",
+  "source_bytes": 12302,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
