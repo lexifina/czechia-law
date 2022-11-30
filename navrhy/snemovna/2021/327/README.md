@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-11-01 | 327/0 | Zpráva a jiné | [t032700.md](t032700.md), [t0327a0.md](t0327a0.md) |
+| 2022-11-30 | 327/1 | Usnesení výboru pro vědu, kulturu, mládež a tělovýchovu č. 106 ze dne 30. listopadu 2022 k návrhu rozpočtu Státního fondu kinematografie na rok 2023 a střednědobého výhledu na léta 2024 a 2025 | [t032701.md](t032701.md) |
 
 ## Files
 
@@ -27,6 +28,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t032700.md](t032700.md) | 327/0 | Návrh usnesení Poslanecké sněmovny | [t032700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219226) | pymupdf / pdftotext 1.0000 |
 | [t0327a0.md](t0327a0.md) | 327/0 | Text | [t0327a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219227) | pymupdf / pdftotext 1.0000 |
+| [t032701.md](t032701.md) | 327/1 | Text | [t032701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220922) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
