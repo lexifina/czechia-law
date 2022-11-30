@@ -1,0 +1,32 @@
+{
+  "listing": {
+    "jednaciCislo": "6 C 359/2022-14",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2022:6.C.359.2022.1",
+    "predmetRizeni": "O zaplacení 6 215 Kč s příslušenstvím",
+    "datumVydani": "2022-11-30",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfb04f6c-93b5-4218-b2bd-10866a3a8629"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/cfb04f6c-93b5-4218-b2bd-10866a3a8629",
+  "source_sha256": "8e3472075b893f2f3fb1edf5be2bf3c361efecdd6dc9b30f5dacf3f2b230c381",
+  "source_bytes": 14860,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
