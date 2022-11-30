@@ -1,0 +1,33 @@
+{
+  "listing": {
+    "jednaciCislo": "6 C 336/2022-15",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2022:6.C.336.2022.1",
+    "predmetRizeni": "O zaplacení 5 000 Kč s příslušenstvím",
+    "datumVydani": "2022-11-30",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 137/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34b61472-6845-4b56-a8a9-e60a7cd754e8"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/34b61472-6845-4b56-a8a9-e60a7cd754e8",
+  "source_sha256": "44a1d127779daefb6470fa4520fd3c57a9f4f0d8e904d882a41dc99a6870f868",
+  "source_bytes": 9319,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
