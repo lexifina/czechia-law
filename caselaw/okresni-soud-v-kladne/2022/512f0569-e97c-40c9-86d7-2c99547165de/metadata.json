@@ -1,0 +1,33 @@
+{
+  "listing": {
+    "jednaciCislo": "224 C 245/2022",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jitka Sikorová",
+    "ecli": "ECLI:CZ:OSKD:2022:224.C.245.2022.1",
+    "predmetRizeni": "o zaplacení 1 528 Kč s příslušenstvím",
+    "datumVydani": "2022-12-01",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/512f0569-e97c-40c9-86d7-2c99547165de"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/512f0569-e97c-40c9-86d7-2c99547165de",
+  "source_sha256": "805a9e8ee758e89ed2ae527e53d74c80560bf7736edd97ff3d7e23464785a7bf",
+  "source_bytes": 22171,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
