@@ -1,0 +1,48 @@
+# Okresní soud v Kladně - 224 C 271/2022
+
+| Field | Value |
+| --- | --- |
+| Court | Okresní soud v Kladně |
+| File number | 224 C 271/2022 |
+| ECLI | ECLI:CZ:OSKD:2022:224.C.271.2022.1 |
+| Decision date | 2022-12-01 |
+| Publication date | 2023-01-02 |
+| Subject | o zaplacení 2 140 Kč s příslušenstvím |
+| Author | JUDr. Jitka Sikorová |
+| Source UUID | c2480868-1ca0-4a42-b8fb-2d4557f6496e |
+| Source SHA256 | 95616943dd8602f417dc41ff8100e5dfcef5ec05f7eeb5222d06a16d03e3f499 |
+| Source | https://rozhodnuti.justice.cz/api/finaldoc/c2480868-1ca0-4a42-b8fb-2d4557f6496e |
+| Keywords | peněžité plnění; pojištění odpovědnosti za škodu |
+| Mentioned provisions | § 14b vyhl. č. 177/1996 Sb.; § 202 z. č. 99/1963 Sb.; § 1970 z. č. 89/2012 Sb.; § 115a z. č. 99/1963 Sb.; § 12 z. č. 168/1999 Sb.; § 13 z. č. 168/1999 Sb. |
+
+## Header
+
+Okresní soud v Kladně rozhodl samosoudkyní JUDr. Jitkou Sikorovou ve věci
+žalobkyně: [osobní údaje žalobkyně] zastoupená advokátem [údaje o zástupci]
+proti
+žalovanému: [osobní údaje žalovaného]
+<!-- styleLocalId: 1 -->
+zaplacení 2 140 Kč s příslušenstvím
+
+## Verdict
+
+I. Žalovaný je povinen zaplatit žalobkyni částku 2 140 Kč se zákonným úrokem z prodlení ve výši 8,25 % ročně z částky 2 140 Kč od 12. 6. 2021 do zaplacení, a to do tří dnů od právní moci tohoto rozsudku.
+II. Žalovaný je povinen zaplatit žalobkyni náhradu nákladů řízení v částce 1 489 Kč, a to do tří dnů od právní moci tohoto rozsudku k rukám právního zástupce žalobkyně.
+
+## Justification
+
+1. Žalobkyně se u zdejšího soudu domáhala zaplacení shora uvedené částky s odůvodněním, že uzavřela se žalovaným pojistnou smlouvu, podle níž žalovaný žalobkyni nezaplatil pojistné.
+2. Žalovaný se ve věci nevyjádřil, stejně tak se nevyjádřil ani k výzvě soudu, zda souhlasí s rozhodnutím věci bez nařízení jednání, ačkoli byl poučen, že v opačném případě bude soud předpokládat, že s takovým postupem souhlasí. Proto soud se souhlasem žalobkyně věc rozhodl podle § 115a o. s. ř. bez jednání na základě předložených listinných důkazů.
+3. Z pojistné smlouvy [číslo] ze dne 29. 7. 2020 včetně všeobecných pojistných podmínek soud zjistil, že žalobkyně a žalovaný uzavřeli smlouvu o pojištění odpovědnosti za škodu způsobenou provozem vozidla VW Passat, [registrační značka]. Pojištění bylo sjednáno s účinností od 29. 7. 2020 na dobu neurčitou s ročním pojistným 5 769 Kč splatným pololetně po 2 884 Kč (běžné pojistné) bez sjednané splatnosti.
+4. Podle tvrzení žalobkyně uvedené pojištění trvalo v období od 29. 1. 2021 do 11. 6. 2021, za které žalovaný pojistné nezaplatil. Žalobkyně ani žalovaný netvrdili, a ani jinak to v řízení nevyšlo najevo, že by žalovaný pojistné podle smlouvy hradil v rozsahu širším, než připouštěla žalobkyně, ani že by žalovaný pojistnou smlouvu ukončil, soud tedy vycházel z toho, že smluvní vztah v žalovaném období trval a že žalovaný pojistné nezaplatil, ačkoli byl o zaplacení upomínán. Z ostatních listinných důkazů (bilance předpisů a plateb, upomínka, doručenka, oznámení o zániku pojištění, předžalobní upomínka) soud neučinil žádná další (odlišná) relevantní skutková zjištění.
+5. Ze shora uvedených skutkových zjištění soud učinil následující závěr. Žalobkyně a žalovaný sjednali dne 29. 7. 2020 pojistnou smlouvu pro pojištění odpovědnosti za škodu způsobenou provozem motorového vozidla. Počátek pojištění byl sjednán na 29. 7. 2020 s běžným pololetním pojistným ve výši 2 884 Kč se shora uvedenou splatností. Žalovaný však pojistné za období od 29. 1. 2021 do 11. 6. 2021 nezaplatil.
+6. Podle § 12 odst. 1 písm. e) zákona č. 168/1999 Sb., o pojištění odpovědnosti za újmu způsobenou provozem vozidla a o změně některých souvisejících zákonů (dále jen„ zákon č. 168/1999 Sb.“), pojištění odpovědnosti podle tohoto zákona zaniká dnem následujícím po marném uplynutí lhůty stanovené pojistitelem v upomínce k zaplacení pojistného nebo jeho části, doručené pojistníkovi; tato lhůta nesmí být kratší než 1 měsíc a upomínka pojistitele musí obsahovat upozornění na zánik pojištění odpovědnosti v případě nezaplacení dlužného pojistného a o této upomínce pojistitel současně informuje osobu uvedenou v pojistné smlouvě jako vlastník tuzemského vozidla, jde-li o osobu odlišnou od pojistníka; lhůtu stanovenou pojistitelem v upomínce k zaplacení pojistného nebo jeho části lze před jejím uplynutím dohodou prodloužit.
+7. Podle §13 odst. 2 zákona č. 168/1999 Sb. zanikne-li pojištění odpovědnosti před uplynutím doby, na kterou bylo pojištění sjednáno, má pojistitel právo na pojistné do konce kalendářního měsíce, ve kterém pojištění odpovědnosti zaniklo. Zbývající část zaplaceného pojistného je pojistitel povinen vrátit. Nastala-li v době do zániku pojištění odpovědnosti škodná událost, vzniká pojistiteli právo na pojistné podle věty první; povinnost zbývající část pojistného vrátit má pouze tehdy, jestliže mu z této škodné události nevznikne povinnost plnit.
+8. Podle § 1970 o. z. po dlužníkovi, který je v prodlení se splácením peněžitého dluhu, může věřitel, který řádně splnil své smluvní a zákonné povinnosti, požadovat zaplacení úroku z prodlení, ledaže dlužník není za prodlení odpovědný. Výši úroku z prodlení stanoví vláda nařízením (č. 351/2013 Sb.); neujednají-li strany výši úroku z prodlení, považuje se za ujednanou výše takto stanovená.
+9. Na základě shora uvedeného dospěl soud k závěru, že žalobkyně svůj nárok na dlužné pojistné uplatnila po právu. Současně žalobkyni náleží právo na úrok z prodlení ode dne následujícího po splatnosti běžného pojistného.
+10. O náhradě nákladů řízení rozhodl soud podle § 142 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu tak, že přiznal žalobkyni, jež byla v řízení zcela úspěšná, nárok na náhradu nákladů řízení v částce 1 489 Kč Tyto náklady sestávají ze zaplaceného soudního poplatku v částce 400 Kč a nákladů zastoupení advokátem, kterému náleží odměna stanovená dle § 6 odst. 1 a § 14b vyhlášky č. 177/1996 Sb., advokátního tarifu, (dále jen „a. t.”) z tarifní hodnoty ve výši 2 140 Kč sestávající z částky 200 Kč za každý ze tří úkonů právní služby realizovaných před podáním návrhu ve věci včetně tří paušálních náhrad výdajů po 100 Kč dle § 14b odst. 5 písm. a) a. t. a daň z přidané hodnoty ve výši 21 % z částky 900 Kč ve výši 189 Kč.
+
+## Information
+
+Proti tomuto rozsudku není odvolání přípustné (§ 202 odst. 2 o. s. ř.).
+Nebude-li povinnost stanovená tímto rozhodnutím splněna dobrovolně, lze navrhnout výkon rozhodnutí (exekuci).
