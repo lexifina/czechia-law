@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-10-12 | 301/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, a některé další zákony | [t030102.md](t030102.md) |
 | 2022-10-19 | 301/3 | Usnesení garančního výboru č. 67 ze dne 19. října 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, a některé další zákony | [t030103.md](t030103.md) |
 | 2022-12-02 | 301/4 | Návrh zákona,kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, a některé další zákony, vrácený Senátem | [t030104.md](t030104.md) |
+| 2022-12-02 | 301/5 | Usnesení Senátu k návrhu zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, a některé další zákony | [t030105.md](t030105.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t030102.md](t030102.md) | 301/2 | Text | [t030102.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218336) | pymupdf / pdftotext 1.0000 |
 | [t030103.md](t030103.md) | 301/3 | Text | [t030103.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218625) | pymupdf / pdftotext 1.0000 |
 | [t030104.md](t030104.md) | 301/4 | Text | [t030104.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221120) | pymupdf / pdftotext 1.0000 |
+| [t030105.md](t030105.md) | 301/5 | Text | [t030105.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221138) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
