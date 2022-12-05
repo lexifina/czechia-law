@@ -1,0 +1,32 @@
+{
+  "listing": {
+    "jednaciCislo": "225 C 138/2022",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lucie Vybíralová, LL.M.",
+    "ecli": "ECLI:CZ:OSKD:2022:225.C.138.2022.1",
+    "predmetRizeni": "o zaplacení 6 000 Kč s příslušenstvím",
+    "datumVydani": "2022-12-05",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7fb91671-d52d-484d-be14-e7bf76996fb4"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/7fb91671-d52d-484d-be14-e7bf76996fb4",
+  "source_sha256": "006753c0cf43c5be5e6a4b26e10744583911c62907d42cb577dc7e7b5c9a895e",
+  "source_bytes": 9489,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
