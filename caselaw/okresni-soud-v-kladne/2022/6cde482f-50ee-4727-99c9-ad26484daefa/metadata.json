@@ -1,0 +1,30 @@
+{
+  "listing": {
+    "jednaciCislo": "225 C 149/2022",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lucie Vybíralová, LL.M.",
+    "ecli": "ECLI:CZ:OSKD:2022:225.C.149.2022.1",
+    "predmetRizeni": "o zaplacení 3 765 Kč s příslušenstvím",
+    "datumVydani": "2022-12-05",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§  z. č. 277/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6cde482f-50ee-4727-99c9-ad26484daefa"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/6cde482f-50ee-4727-99c9-ad26484daefa",
+  "source_sha256": "ac8363967722a67677105cd73d2c3680efb103eed7f68f86fb971dd64831349b",
+  "source_bytes": 19904,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
