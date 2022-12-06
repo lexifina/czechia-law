@@ -1,0 +1,29 @@
+{
+  "listing": {
+    "jednaciCislo": "16 C 426/2021-16",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. David Mařádek",
+    "ecli": "ECLI:CZ:OSFM:2022:16.C.426.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2022-12-06",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf8c7f88-608a-490b-aa17-b557ba0db41f"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/bf8c7f88-608a-490b-aa17-b557ba0db41f",
+  "source_sha256": "4503eec56c0d80cae9df4499bb9a5cea02f2b88910b1e982fa7393203ca320e5",
+  "source_bytes": 10205,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
