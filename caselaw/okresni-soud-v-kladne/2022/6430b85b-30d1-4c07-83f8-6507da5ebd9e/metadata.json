@@ -1,0 +1,37 @@
+{
+  "listing": {
+    "jednaciCislo": "225 C 165/2022-35",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lucie Vybíralová, LL.M.",
+    "ecli": "ECLI:CZ:OSKD:2022:225.C.165.2022.1",
+    "predmetRizeni": "o zaplacení 6 605 Kč s příslušenstvím",
+    "datumVydani": "2022-12-07",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6430b85b-30d1-4c07-83f8-6507da5ebd9e"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/6430b85b-30d1-4c07-83f8-6507da5ebd9e",
+  "source_sha256": "80a1b77d17bce60f16b5a8de3d64cb9f555fb1d429d247d71a425c8c5aaa7f65",
+  "source_bytes": 22345,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
