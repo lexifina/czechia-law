@@ -1,0 +1,33 @@
+{
+  "listing": {
+    "jednaciCislo": "19 C 377/2022-14",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Lenka Engelová",
+    "ecli": "ECLI:CZ:OSMB:2022:19.C.377.2022.2",
+    "predmetRizeni": "o zaplacení 5 305 Kč s příslušenstvím",
+    "datumVydani": "2022-12-07",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c49e106c-2ee3-44f7-91a3-11d7ae5a119c"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/c49e106c-2ee3-44f7-91a3-11d7ae5a119c",
+  "source_sha256": "a55ebc5f0a7985bc1f2924123de89dbdea13829190d16e09c69d10113f539129",
+  "source_bytes": 10917,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
