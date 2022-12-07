@@ -1,0 +1,29 @@
+{
+  "listing": {
+    "jednaciCislo": "48 C 391/2021-27",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Ing. Ivana Šmakalová",
+    "ecli": "ECLI:CZ:OSCL:2022:48.C.391.2021.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2022-12-07",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 11 z. č. 269/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c9f8c49e-2790-4e1a-afa1-cc5ec2646757"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/c9f8c49e-2790-4e1a-afa1-cc5ec2646757",
+  "source_sha256": "5ad3126f6a378e510d2136857dc11a35ac0771c0bcabcca8eea65bddbaa1c2a6",
+  "source_bytes": 10152,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
