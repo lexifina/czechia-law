@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-11-30 | 351/0 | Vládní návrh zákona | [t035100.md](t035100.md), [t0351a0.md](t0351a0.md) |
+| 2022-12-08 | 351/1 | Usnesení výboru pro bezpečnost č. 82 ze dne 8. prosince 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění pozdějších předpisů, a další související zákony | [t035101.md](t035101.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t035100.md](t035100.md) | 351/0 | Návrh zákona včetně důvodové zprávy | [t035100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221041) | pymupdf / pdftotext 1.0000 |
 | [t0351a0.md](t0351a0.md) | 351/0 | Platné znění s vyznačením změn | [t0351a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221038) | pymupdf / pdftotext 1.0000 |
+| [t035101.md](t035101.md) | 351/1 | Text | [t035101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221283) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
