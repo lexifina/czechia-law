@@ -1,0 +1,27 @@
+{
+  "listing": {
+    "jednaciCislo": "15 C 56/2021",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Ladislava Olbrechtová",
+    "ecli": "ECLI:CZ:OSFM:2022:15.C.56.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2022-12-15",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aa580f04-8ac7-42d4-bd56-cbb6dea980da"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/aa580f04-8ac7-42d4-bd56-cbb6dea980da",
+  "source_sha256": "2b6b71f86db846024bb781f6eb4718e700cc8fae65a7d85882d93f8170097f54",
+  "source_bytes": 12251,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
