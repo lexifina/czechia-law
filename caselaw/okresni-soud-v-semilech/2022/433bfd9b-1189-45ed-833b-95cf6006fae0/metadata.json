@@ -1,0 +1,31 @@
+{
+  "listing": {
+    "jednaciCislo": "6 C 134/2022-13",
+    "soud": "Okresní soud v Semilech",
+    "autor": "Mgr. Michal Polák",
+    "ecli": "ECLI:CZ:OSSM:2022:6.C.134.2022.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2022-12-22",
+    "datumZverejneni": "2023-01-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 11 z. č. 269/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/433bfd9b-1189-45ed-833b-95cf6006fae0"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/433bfd9b-1189-45ed-833b-95cf6006fae0",
+  "source_sha256": "b9d34633dea9e7bbb963d350a07bb139ed1834fd832ce8c4ea68d05b60a18c19",
+  "source_bytes": 8682,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
