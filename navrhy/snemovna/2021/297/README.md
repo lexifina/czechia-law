@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-09-09 | 297/0 | Vládní návrh zákona | [t029700.md](t029700.md), [t0297a0.md](t0297a0.md), [t0297b0.md](t0297b0.md) |
+| 2023-01-19 | 297/1 | Usnesení hospodářského výboru č. 117 ze dne 19. ledna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 61/1988 Sb., o hornické činnosti, výbušninách a o státní báňské správě, ve znění pozdějších předpisů | [t029701.md](t029701.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t029700.md](t029700.md) | 297/0 | Návrh zákona včetně důvodové zprávy | [t029700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216492) | pymupdf / pdftotext 1.0000 |
 | [t0297a0.md](t0297a0.md) | 297/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0297a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216490) | pymupdf / pdftotext 1.0000 |
 | [t0297b0.md](t0297b0.md) | 297/0 | Platné znění s vyznačením změn | [t0297b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216494) | pymupdf / pdftotext 1.0000 |
+| [t029701.md](t029701.md) | 297/1 | Text | [t029701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222206) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
