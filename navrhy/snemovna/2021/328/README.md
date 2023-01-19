@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-11-01 | 328/0 | Vládní návrh zákona | [t032800.md](t032800.md), [t0328a0.md](t0328a0.md) |
+| 2023-01-19 | 328/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 55 ze dne 19. ledna 2023 k vládnímu návrhu zákona o jednotném environmentálním stanovisku | [t032801.md](t032801.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t032800.md](t032800.md) | 328/0 | Návrh zákona včetně důvodové zprávy | [t032800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219235) | pymupdf / pdftotext 1.0000 |
 | [t0328a0.md](t0328a0.md) | 328/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0328a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219236) | pymupdf / pdftotext 1.0000 |
+| [t032801.md](t032801.md) | 328/1 | Text | [t032801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222267) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
