@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-11-01 | 330/0 | Vládní návrh zákona | [t033000.md](t033000.md), [t0330a0.md](t0330a0.md), [t0330b0.md](t0330b0.md), [t0330c0.md](t0330c0.md) |
+| 2023-01-19 | 330/1 | Usnesení hospodářského výboru č. 115 ze dne 19. ledna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění zákona č. 195/2022 Sb., a některé další související zákony | [t033001.md](t033001.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0330a0.md](t0330a0.md) | 330/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0330a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219253) | pymupdf / pdftotext 1.0000 |
 | [t0330b0.md](t0330b0.md) | 330/0 | Platné znění s vyznačením změn | [t0330b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219254) | pymupdf / pdftotext 1.0000 |
 | [t0330c0.md](t0330c0.md) | 330/0 | Kompatibilita s právem EU | [t0330c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219255) | pymupdf / pdftotext 1.0000 |
+| [t033001.md](t033001.md) | 330/1 | Text | [t033001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222199) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
