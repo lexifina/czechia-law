@@ -26,6 +26,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-10-19 | 270/4 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 85 ze dne 19. října 2022 k návrhu poslanců Karla Haase a dalších na vydání zákona, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony | [t027004.md](t027004.md) |
 | 2022-11-04 | 270/5 | Pozměňovací a jiné návrhy k návrhu poslanců Karla Haase a dalších na vydání zákona, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony | [t027005.md](t027005.md) |
 | 2022-11-16 | 270/6 | Usnesení garančního výboru č. 103 ze dne 16. listopadu 2022 k návrhu poslanců Karla Haase a dalších na vydání zákona, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony | [t027006.md](t027006.md) |
+| 2023-01-26 | 270/7 | Návrh zákona, kterým se mění zákon č. 115/2001 Sb., o podpoře sportu, ve znění pozdějších předpisů, a některé další zákony, vrácený Senátem | [t027007.md](t027007.md) |
 
 ## Files
 
@@ -41,5 +42,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t027004.md](t027004.md) | 270/4 | Text | [t027004.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=218602) | pymupdf / pdftotext 1.0000 |
 | [t027005.md](t027005.md) | 270/5 | Text | [t027005.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219618) | pymupdf / pdftotext 1.0000 |
 | [t027006.md](t027006.md) | 270/6 | Text | [t027006.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220142) | pymupdf / pdftotext 1.0000 |
+| [t027007.md](t027007.md) | 270/7 | Text | [t027007.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222514) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
