@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-11-30 | 352/0 | Vládní návrh zákona | [t035200.md](t035200.md), [t0352a0.md](t0352a0.md) |
+| 2023-02-03 | 352/1 | Usnesení ústavně-právního výboru č. 69 ze dne 1. února 2023 k vládnímu návrhu zákona o ochraně oznamovatelů | [t035201.md](t035201.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t035200.md](t035200.md) | 352/0 | Návrh zákona včetně důvodové zprávy | [t035200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221043) | pymupdf / pdftotext 1.0000 |
 | [t0352a0.md](t0352a0.md) | 352/0 | Kompatibilita s právem EU | [t0352a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221046) | pymupdf / pdftotext 1.0000 |
+| [t035201.md](t035201.md) | 352/1 | Text | [t035201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222867) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
