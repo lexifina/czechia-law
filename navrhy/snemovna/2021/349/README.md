@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-11-23 | 349/0 | Zpráva a jiné | [t034900.md](t034900.md), [t0349a0.md](t0349a0.md), [t0349b0.md](t0349b0.md), [t0349c0.md](t0349c0.md), [t0349d0.md](t0349d0.md), [t0349e0.md](t0349e0.md), [t0349f0.md](t0349f0.md), [t0349g0.md](t0349g0.md), [t0349h0.md](t0349h0.md), [t0349i0.md](t0349i0.md), [t0349j0.md](t0349j0.md), [t0349k0.md](t0349k0.md), [t0349l0.md](t0349l0.md) |
+| 2023-02-06 | 349/1 | Usnesení výboru pro zdravotnictví č. 70 ze dne 1. února 2023 k návrhům výročních zpráv a účetních závěrek zdravotních pojišťoven za rok 2021 s vyjádřením vlády spolu s hodnocením návrhů výročních zpráv a účetních závěrek za rok 2021 a tabulkovými přílohami | [t034901.md](t034901.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0349j0.md](t0349j0.md) | 349/0 | Další | [t0349j0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220616) | pymupdf / pdftotext 1.0000 |
 | [t0349k0.md](t0349k0.md) | 349/0 | Další | [t0349k0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220619) | pymupdf / pdftotext 1.0000 |
 | [t0349l0.md](t0349l0.md) | 349/0 | Další | [t0349l0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220609) | pymupdf / pdftotext 1.0000 |
+| [t034901.md](t034901.md) | 349/1 | Text | [t034901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222895) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
