@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-01-09 | 362/0 | Vládní návrh zákona | [t036200.md](t036200.md), [t0362a0.md](t0362a0.md), [t0362b0.md](t0362b0.md) |
+| 2023-03-01 | 362/1 | Usnesení zemědělského výboru č. 106 ze dne 1. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů, a další související zákony | [t036201.md](t036201.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t036200.md](t036200.md) | 362/0 | Návrh zákona včetně důvodové zprávy | [t036200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221693) | pymupdf / pdftotext 1.0000 |
 | [t0362a0.md](t0362a0.md) | 362/0 | Platné znění s vyznačením změn | [t0362a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221696) | pymupdf / pdftotext 1.0000 |
 | [t0362b0.md](t0362b0.md) | 362/0 | Kompatibilita s právem EU | [t0362b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221694) | pymupdf / pdftotext 1.0000 |
+| [t036201.md](t036201.md) | 362/1 | Text | [t036201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224854) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
