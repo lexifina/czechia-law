@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-01-12 | 289/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 109 ze dne 11. ledna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů | [t028901.md](t028901.md) |
 | 2023-02-10 | 289/2 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 112 ze dne 1. února 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů | [t028902.md](t028902.md) |
 | 2023-02-24 | 289/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů | [t028903.md](t028903.md) |
+| 2023-03-01 | 289/4 | Usnesení garančního výboru č. 115 ze dne 1. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 563/2004 Sb., o pedagogických pracovnících a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů | [t028904.md](t028904.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t028901.md](t028901.md) | 289/1 | Text | [t028901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221794) | pymupdf / pdftotext 1.0000 |
 | [t028902.md](t028902.md) | 289/2 | Text | [t028902.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223525) | pymupdf / pdftotext 1.0000 |
 | [t028903.md](t028903.md) | 289/3 | Text | [t028903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224143) | pymupdf / pdftotext 1.0000 |
+| [t028904.md](t028904.md) | 289/4 | Text | [t028904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224832) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
