@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-01-19 | 330/2 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 57 ze dne 19. ledna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění zákona č. 195/2022 Sb., a některé další související zákony | [t033002.md](t033002.md) |
 | 2023-02-20 | 330/3 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 62 ze dne 20. února 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění zákona č. 195/2022 Sb., a některé další související zákony | [t033003.md](t033003.md) |
 | 2023-03-01 | 330/4 | Usnesení hospodářského výboru č. 123 ze dne 1. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění zákona č. 195/2022 Sb., a některé další související zákony | [t033004.md](t033004.md) |
+| 2023-03-03 | 330/5 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 65 ze dne 2. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění zákona č. 195/2022 Sb., a některé další související zákony | [t033005.md](t033005.md) |
 
 ## Files
 
@@ -39,5 +40,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t033002.md](t033002.md) | 330/2 | Text | [t033002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222273) | pymupdf / pdftotext 1.0000 |
 | [t033003.md](t033003.md) | 330/3 | Text | [t033003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223776) | pymupdf / pdftotext 1.0000 |
 | [t033004.md](t033004.md) | 330/4 | Text | [t033004.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224991) | pymupdf / pdftotext 1.0000 |
+| [t033005.md](t033005.md) | 330/5 | Text | [t033005.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225168) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
