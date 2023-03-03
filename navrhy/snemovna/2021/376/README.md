@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-02-02 | 376/0 | Návrh zákona | [t037600.md](t037600.md), [t0376a0.md](t0376a0.md) |
+| 2023-03-03 | 376/1 | Stanovisko vlády k návrhu poslanců Ivana Adamce, Martina Kupky, Ondřeje Lochmana, Antonína Tesaříka, Jiřího Slavíka a Jakuba Michálka na vydání zákona, kterým se mění zákon č. 104/2000 Sb., o Státním fondu dopravní infrastruktury, ve znění pozdějších předpisů | [t037601.md](t037601.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t037600.md](t037600.md) | 376/0 | Návrh zákona včetně důvodové zprávy | [t037600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222739) | pymupdf / pdftotext 1.0000 |
 | [t0376a0.md](t0376a0.md) | 376/0 | Platné znění s vyznačením změn | [t0376a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222738) | pymupdf / pdftotext 1.0000 |
+| [t037601.md](t037601.md) | 376/1 | Stanovisko | [t037601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225204) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
