@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-11-16 | 249/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů | [t024903.md](t024903.md) |
 | 2022-11-16 | 249/4 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů | [t024904.md](t024904.md) |
 | 2022-11-25 | 249/5 | Usnesení garančního výboru č. 52 ze dne 24. listopadu 2022 k vládnímu návrhu zákona, kterým se mění zákon č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů | [t024905.md](t024905.md) |
+| 2023-03-13 | 249/6 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů | [t024906.md](t024906.md) |
 
 ## Files
 
@@ -40,5 +41,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t024903.md](t024903.md) | 249/3 | Text | [t024903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220183) | pymupdf / pdftotext 1.0000 |
 | [t024904.md](t024904.md) | 249/4 | Text | [t024904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220237) | pymupdf / pdftotext 1.0000 |
 | [t024905.md](t024905.md) | 249/5 | Text | [t024905.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220786) | pymupdf / pdftotext 1.0000 |
+| [t024906.md](t024906.md) | 249/6 | Text | [t024906.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225567) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
