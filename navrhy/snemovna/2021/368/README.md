@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-01-20 | 368/0 | Vládní návrh zákona | [t036800.md](t036800.md), [t0368a0.md](t0368a0.md), [t0368b0.md](t0368b0.md) |
+| 2023-03-15 | 368/1 | Usnesení výboru pro obranu č. 109 ze dne 14. března 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v oblasti obrany | [t036801.md](t036801.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t036800.md](t036800.md) | 368/0 | Návrh zákona včetně důvodové zprávy | [t036800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222306) | pymupdf / pdftotext 1.0000 |
 | [t0368a0.md](t0368a0.md) | 368/0 | Platné znění s vyznačením změn | [t0368a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222309) | pymupdf / pdftotext 1.0000 |
 | [t0368b0.md](t0368b0.md) | 368/0 | Návrhy vyhlášek | [t0368b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222308) | pymupdf / pdftotext 1.0000 |
+| [t036801.md](t036801.md) | 368/1 | Text | [t036801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225691) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
