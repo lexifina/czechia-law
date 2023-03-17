@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-11-23 | 346/0 | Vládní návrh zákona | [t034600.md](t034600.md), [t0346a0.md](t0346a0.md) |
 | 2023-01-19 | 346/1 | Usnesení hospodářského výboru č. 113 ze dne 19. ledna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů | [t034601.md](t034601.md) |
 | 2023-02-28 | 346/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů | [t034602.md](t034602.md) |
+| 2023-03-17 | 346/3 | Usnesení garančního výboru č. 133 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění pozdějších předpisů | [t034603.md](t034603.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0346a0.md](t0346a0.md) | 346/0 | Platné znění s vyznačením změn | [t0346a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220588) | pymupdf / pdftotext 1.0000 |
 | [t034601.md](t034601.md) | 346/1 | Text | [t034601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222188) | pymupdf / pdftotext 1.0000 |
 | [t034602.md](t034602.md) | 346/2 | Text | [t034602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224408) | pymupdf / pdftotext 1.0000 |
+| [t034603.md](t034603.md) | 346/3 | Text | [t034603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225842) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
