@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-01-05 | 359/0 | Zpráva a jiné | [t035900.md](t035900.md), [t0359a0.md](t0359a0.md), [t0359b0.md](t0359b0.md), [t0359c0.md](t0359c0.md), [t0359d0.md](t0359d0.md), [t0359e0.md](t0359e0.md), [t0359f0.md](t0359f0.md), [t0359g0.md](t0359g0.md) |
+| 2023-03-17 | 359/1 | Usnesení hospodářského výboru č. 135 ze dne 16. března 2023 k výroční zprávě o implementaci Strategie podpory MSP v ČR za rok 2021 | [t035901.md](t035901.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0359e0.md](t0359e0.md) | 359/0 | Další | [t0359e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221649) | pymupdf / pdftotext 1.0000 |
 | [t0359f0.md](t0359f0.md) | 359/0 | Další | [t0359f0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221655) | pymupdf / pdftotext 1.0000 |
 | [t0359g0.md](t0359g0.md) | 359/0 | Další | [t0359g0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221651) | pymupdf / pdftotext 1.0000 |
+| [t035901.md](t035901.md) | 359/1 | Text | [t035901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225849) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
