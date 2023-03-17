@@ -27,6 +27,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-03-02 | 329/5 | Usnesení výboru pro životní prostředí č. 69 ze dne 1. března 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o jednotném environmentálním stanovisku | [t032905.md](t032905.md) |
 | 2023-03-03 | 329/6 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 64 ze dne 2. března 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o jednotném environmentálním stanovisku | [t032906.md](t032906.md) |
 | 2023-03-08 | 329/7 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o jednotném environmentálním stanovisku | [t032907.md](t032907.md) |
+| 2023-03-17 | 329/8 | Usnesení garančního výboru č. 68 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o jednotném environmentálním stanovisku | [t032908.md](t032908.md) |
 
 ## Files
 
@@ -44,5 +45,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t032905.md](t032905.md) | 329/5 | Text | [t032905.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225046) | pymupdf / pdftotext 1.0000 |
 | [t032906.md](t032906.md) | 329/6 | Text | [t032906.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225165) | pymupdf / pdftotext 1.0000 |
 | [t032907.md](t032907.md) | 329/7 | Text | [t032907.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225388) | pymupdf / pdftotext 1.0000 |
+| [t032908.md](t032908.md) | 329/8 | Text | [t032908.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225811) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
