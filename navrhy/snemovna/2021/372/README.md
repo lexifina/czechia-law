@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-01-24 | 372/0 | Vládní návrh zákona | [t037200.md](t037200.md), [t0372a0.md](t0372a0.md), [t0372b0.md](t0372b0.md) |
+| 2023-03-17 | 372/1 | Usnesení hospodářského výboru č. 137 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, zákon č. 312/2006 Sb., o insolvenčních správcích, ve znění pozdějších předpisů, a další související zákony | [t037201.md](t037201.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t037200.md](t037200.md) | 372/0 | Návrh zákona včetně důvodové zprávy | [t037200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222416) | pymupdf / pdftotext 1.0000 |
 | [t0372a0.md](t0372a0.md) | 372/0 | Platné znění s vyznačením změn | [t0372a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222414) | pymupdf / pdftotext 1.0000 |
 | [t0372b0.md](t0372b0.md) | 372/0 | Kompatibilita s právem EU | [t0372b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222419) | pymupdf / pdftotext 1.0000 |
+| [t037201.md](t037201.md) | 372/1 | Text | [t037201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225855) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
