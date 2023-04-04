@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2023-02-09 | 387/0 | Vládní návrh zákona | [t038700.md](t038700.md), [t0387a0.md](t0387a0.md), [t0387b0.md](t0387b0.md), [t0387c0.md](t0387c0.md), [t0387d0.md](t0387d0.md) |
 | 2023-03-17 | 387/1 | Usnesení výboru pro bezpečnost č. 89 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 325/1999 Sb., o azylu, ve znění pozdějších předpisů, zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t038701.md](t038701.md) |
+| 2023-04-04 | 387/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 325/1999 Sb., o azylu, ve znění pozdějších předpisů, zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t038702.md](t038702.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0387c0.md](t0387c0.md) | 387/0 | Návrhy vyhlášek | [t0387c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223492) | pymupdf / pdftotext 1.0000 |
 | [t0387d0.md](t0387d0.md) | 387/0 | Kompatibilita s právem EU | [t0387d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223486) | pymupdf / pdftotext 0.9999 |
 | [t038701.md](t038701.md) | 387/1 | Text | [t038701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225794) | pymupdf / pdftotext 1.0000 |
+| [t038702.md](t038702.md) | 387/2 | Text | [t038702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226696) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
