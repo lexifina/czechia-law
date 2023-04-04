@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-08-17 | 283/0 | Vládní návrh zákona | [t028300.md](t028300.md), [t0283a0.md](t0283a0.md), [t0283b0.md](t0283b0.md), [t0283c0.md](t0283c0.md), [t0283d0.md](t0283d0.md) |
 | 2023-01-19 | 283/1 | Usnesení hospodářského výboru č. 116 ze dne 19. ledna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže), ve znění pozdějších předpisů, a zákon č. 273/1996 Sb., o působnosti Úřadu pro ochranu hospodářské soutěže, ve znění pozdějších předpisů | [t028301.md](t028301.md) |
 | 2023-03-17 | 283/2 | Usnesení hospodářského výboru č. 127 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže), ve znění pozdějších předpisů, a zákon č. 273/1996 Sb., o působnosti Úřadu pro ochranu hospodářské soutěže, ve znění pozdějších předpisů | [t028302.md](t028302.md) |
+| 2023-04-04 | 283/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže), ve znění pozdějších předpisů, a zákon č. 273/1996 Sb., o působnosti Úřadu pro ochranu hospodářské soutěže, ve znění pozdějších předpisů | [t028303.md](t028303.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0283d0.md](t0283d0.md) | 283/0 | Kompatibilita s právem EU | [t0283d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215598) | pymupdf / pdftotext 1.0000 |
 | [t028301.md](t028301.md) | 283/1 | Text | [t028301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222211) | pymupdf / pdftotext 1.0000 |
 | [t028302.md](t028302.md) | 283/2 | Text | [t028302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225837) | pymupdf / pdftotext 1.0000 |
+| [t028303.md](t028303.md) | 283/3 | Text | [t028303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226705) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
