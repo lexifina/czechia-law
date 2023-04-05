@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-01-20 | 369/0 | Vládní návrh zákona | [t036900.md](t036900.md), [t0369a0.md](t0369a0.md), [t0369b0.md](t0369b0.md) |
 | 2023-03-15 | 369/1 | Usnesení výboru pro obranu č. 110 ze dne 14. března 2023 k vládnímu návrhu zákona o financování obrany České republiky a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, (zákon o financování obrany) | [t036901.md](t036901.md) |
 | 2023-03-15 | 369/2 | Usnesení rozpočtového výboru č. 189 ze dne 15. března 2023 k vládnímu návrhu zákona o financování obrany České republiky a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, (zákon o financování obrany) | [t036902.md](t036902.md) |
+| 2023-04-05 | 369/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o financování obrany České republiky a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů, (zákon o financování obrany) | [t036903.md](t036903.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0369b0.md](t0369b0.md) | 369/0 | Platné znění s vyznačením změn | [t0369b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222315) | pymupdf / pdftotext 1.0000 |
 | [t036901.md](t036901.md) | 369/1 | Text | [t036901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225694) | pymupdf / pdftotext 1.0000 |
 | [t036902.md](t036902.md) | 369/2 | Text | [t036902.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225707) | pymupdf / pdftotext 1.0000 |
+| [t036903.md](t036903.md) | 369/3 | Text | [t036903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226746) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
