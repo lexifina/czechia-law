@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2022-11-23 | 347/0 | Vládní návrh zákona | [t034700.md](t034700.md) |
+| 2023-04-14 | 347/1 | Usnesení ústavně-právního výboru č. 84 ze dne 12. dubna 2023 k vládnímu návrhu zákona o zrušení obsoletních právních předpisů | [t034701.md](t034701.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t034700.md](t034700.md) | 347/0 | Návrh zákona včetně důvodové zprávy | [t034700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220596) | pymupdf / pdftotext 1.0000 |
+| [t034701.md](t034701.md) | 347/1 | Text | [t034701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227114) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
