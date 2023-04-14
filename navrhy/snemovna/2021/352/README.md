@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-02-03 | 352/1 | Usnesení ústavně-právního výboru č. 69 ze dne 1. února 2023 k vládnímu návrhu zákona o ochraně oznamovatelů | [t035201.md](t035201.md) |
 | 2023-03-02 | 352/2 | Usnesení ústavně-právního výboru č. 74 ze dne 1. března 2023 k vládnímu návrhu zákona o ochraně oznamovatelů | [t035202.md](t035202.md) |
 | 2023-04-04 | 352/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o ochraně oznamovatelů | [t035203.md](t035203.md) |
+| 2023-04-14 | 352/4 | Usnesení garančního výboru č. 82 ze dne 12. dubna 2023 k vládnímu návrhu zákona o ochraně oznamovatelů | [t035204.md](t035204.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t035201.md](t035201.md) | 352/1 | Text | [t035201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222867) | pymupdf / pdftotext 1.0000 |
 | [t035202.md](t035202.md) | 352/2 | Text | [t035202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225060) | pymupdf / pdftotext 1.0000 |
 | [t035203.md](t035203.md) | 352/3 | Text | [t035203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226700) | pymupdf / pdftotext 1.0000 |
+| [t035204.md](t035204.md) | 352/4 | Text | [t035204.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227107) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
