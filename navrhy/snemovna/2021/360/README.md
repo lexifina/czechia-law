@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-01-06 | 360/0 | Vládní návrh zákona | [t036000.md](t036000.md), [t0360a0.md](t0360a0.md), [t0360b0.md](t0360b0.md) |
+| 2023-04-14 | 360/1 | Usnesení ústavně-právního výboru č. 85 ze dne 12. dubna 2023 k vládnímu návrhu zákona o veřejných dražbách | [t036001.md](t036001.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t036000.md](t036000.md) | 360/0 | Návrh zákona včetně důvodové zprávy | [t036000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221665) | pymupdf / pdftotext 1.0000 |
 | [t0360a0.md](t0360a0.md) | 360/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0360a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221666) | pymupdf / pdftotext 1.0000 |
 | [t0360b0.md](t0360b0.md) | 360/0 | Návrhy vyhlášek | [t0360b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221669) | pymupdf / pdftotext 1.0000 |
+| [t036001.md](t036001.md) | 360/1 | Text | [t036001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227116) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
