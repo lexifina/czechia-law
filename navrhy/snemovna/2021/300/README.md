@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-09-12 | 300/0 | Vládní návrh zákona | [t030000.md](t030000.md), [t0300a0.md](t0300a0.md) |
 | 2023-01-19 | 300/1 | Usnesení hospodářského výboru č. 118 ze dne 19. ledna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 156/2000 Sb., o ověřování střelných zbraní a střeliva, ve znění pozdějších předpisů | [t030001.md](t030001.md) |
 | 2023-03-17 | 300/2 | Usnesení hospodářského výboru č. 134 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 156/2000 Sb., o ověřování střelných zbraní a střeliva, ve znění pozdějších předpisů | [t030002.md](t030002.md) |
+| 2023-04-18 | 300/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 156/2000 Sb., o ověřování střelných zbraní a střeliva, ve znění pozdějších předpisů | [t030003.md](t030003.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0300a0.md](t0300a0.md) | 300/0 | Platné znění s vyznačením změn | [t0300a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216561) | pymupdf / pdftotext 1.0000 |
 | [t030001.md](t030001.md) | 300/1 | Text | [t030001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222209) | pymupdf / pdftotext 1.0000 |
 | [t030002.md](t030002.md) | 300/2 | Text | [t030002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225846) | pymupdf / pdftotext 1.0000 |
+| [t030003.md](t030003.md) | 300/3 | Text | [t030003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227237) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
