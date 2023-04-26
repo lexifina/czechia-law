@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-04 | 417/0 | Zpráva a jiné | [t041700.md](t041700.md) |
+| 2023-04-26 | 417/1 | Usnesení rozpočtového výboru č. 204 ze dne 26. dubna 2023 ke zprávě o činnosti finančního arbitra za rok 2022 | [t041701.md](t041701.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t041700.md](t041700.md) | 417/0 | Text | [t041700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226495) | pymupdf / pdftotext 1.0000 |
+| [t041701.md](t041701.md) | 417/1 | Text | [t041701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227613) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
