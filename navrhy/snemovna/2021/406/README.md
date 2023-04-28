@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-03-22 | 406/0 | Zpráva a jiné | [t040600.md](t040600.md), [t0406a0.md](t0406a0.md), [t0406b0.md](t0406b0.md), [t0406c0.md](t0406c0.md), [t0406d0.md](t0406d0.md), [t0406e0.md](t0406e0.md), [t0406f0.md](t0406f0.md), [t0406g0.md](t0406g0.md), [t0406h0.md](t0406h0.md), [t0406i0.md](t0406i0.md) |
+| 2023-04-28 | 406/1 | Usnesení výboru pro obranu č. 124 ze dne 25. dubna 2023 k informaci o přeletech a průjezdech ozbrojených sil jiných států uskutečněných přes území České republiky ve 2. pololetí 2022 | [t040601.md](t040601.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0406g0.md](t0406g0.md) | 406/0 | Další | [t0406g0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226054) | pymupdf / pdftotext 1.0000 |
 | [t0406h0.md](t0406h0.md) | 406/0 | Další | [t0406h0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226039) | pymupdf / pdftotext 1.0000 |
 | [t0406i0.md](t0406i0.md) | 406/0 | Další | [t0406i0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226040) | pymupdf / pdftotext 1.0000 |
+| [t040601.md](t040601.md) | 406/1 | Text | [t040601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227746) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
