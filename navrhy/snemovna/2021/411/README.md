@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-03-29 | 411/0 | Zpráva a jiné | [t041100.md](t041100.md) |
+| 2023-04-28 | 411/1 | Usnesení petičního výboru č. 97 ze dne 11. dubna 2023 k souhrnné zprávě o činnosti veřejného ochránce práv za rok 2022 | [t041101.md](t041101.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t041100.md](t041100.md) | 411/0 | Text | [t041100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226381) | pymupdf / pdftotext 1.0000 |
+| [t041101.md](t041101.md) | 411/1 | Text | [t041101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227715) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
