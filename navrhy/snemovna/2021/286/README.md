@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-01-19 | 286/1 | Usnesení hospodářského výboru č. 114 ze dne 19. ledna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, a další související zákony | [t028601.md](t028601.md) |
 | 2023-03-17 | 286/2 | Usnesení hospodářského výboru č. 124 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, a další související zákony | [t028602.md](t028602.md) |
 | 2023-04-18 | 286/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, a další související zákony | [t028603.md](t028603.md) |
+| 2023-04-28 | 286/4 | Usnesení garančního výboru č. 146 ze dne 27. dubna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů, a další související zákony | [t028604.md](t028604.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t028601.md](t028601.md) | 286/1 | Text | [t028601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222195) | pymupdf / pdftotext 1.0000 |
 | [t028602.md](t028602.md) | 286/2 | Text | [t028602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225827) | pymupdf / pdftotext 1.0000 |
 | [t028603.md](t028603.md) | 286/3 | Text | [t028603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227234) | pymupdf / pdftotext 1.0000 |
+| [t028604.md](t028604.md) | 286/4 | Text | [t028604.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227728) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
