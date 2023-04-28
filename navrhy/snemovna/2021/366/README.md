@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2023-01-18 | 366/0 | Vládní návrh zákona | [t036600.md](t036600.md), [t0366a0.md](t0366a0.md), [t0366b0.md](t0366b0.md), [t0366c0.md](t0366c0.md), [t0366d0.md](t0366d0.md) |
 | 2023-03-17 | 366/1 | Usnesení hospodářského výboru č. 126 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t036601.md](t036601.md) |
+| 2023-04-28 | 366/2 | Usnesení hospodářského výboru č. 147 ze dne 27. dubna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t036602.md](t036602.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0366c0.md](t0366c0.md) | 366/0 | Návrhy vyhlášek | [t0366c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222078) | pymupdf / pdftotext 1.0000 |
 | [t0366d0.md](t0366d0.md) | 366/0 | Kompatibilita s právem EU | [t0366d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222079) | pymupdf / pdftotext 1.0000 |
 | [t036601.md](t036601.md) | 366/1 | Text | [t036601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225833) | pymupdf / pdftotext 1.0000 |
+| [t036602.md](t036602.md) | 366/2 | Text | [t036602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227725) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
