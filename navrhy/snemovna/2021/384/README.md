@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2023-02-07 | 384/0 | Vládní návrh zákona | [t038400.md](t038400.md) |
 | 2023-04-26 | 384/1 | Usnesení rozpočtového výboru č. 202 ze dne 26. dubna 2023 k vládnímu návrhu zákona o mimořádném odpuštění a zániku některých daňových dluhů | [t038401.md](t038401.md) |
+| 2023-05-02 | 384/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o mimořádném odpuštění a zániku některých daňových dluhů | [t038402.md](t038402.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t038400.md](t038400.md) | 384/0 | Návrh zákona včetně důvodové zprávy | [t038400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222927) | pymupdf / pdftotext 1.0000 |
 | [t038401.md](t038401.md) | 384/1 | Text | [t038401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227607) | pymupdf / pdftotext 1.0000 |
+| [t038402.md](t038402.md) | 384/2 | Text | [t038402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227935) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
