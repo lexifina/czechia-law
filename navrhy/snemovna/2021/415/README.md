@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-03 | 415/0 | Návrh zákona | [t041500.md](t041500.md), [t0415a0.md](t0415a0.md) |
+| 2023-05-05 | 415/1 | Stanovisko vlády k návrhu poslanců Marka Výborného, Petra Bendla, Michala Kučery, Kláry Dostálové, Milady Voborské, Jakuba Michálka, Radima Fialy a Rudolfa Salvetra na vydání zákona, kterým se mění zákon č. 503/2012 Sb., o Státním pozemkovém úřadu, ve znění pozdějších předpisů | [t041501.md](t041501.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t041500.md](t041500.md) | 415/0 | Návrh zákona včetně důvodové zprávy | [t041500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226473) | pymupdf / pdftotext 1.0000 |
 | [t0415a0.md](t0415a0.md) | 415/0 | Platné znění s vyznačením změn | [t0415a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226475) | pymupdf / pdftotext 1.0000 |
+| [t041501.md](t041501.md) | 415/1 | Stanovisko | [t041501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200718) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
