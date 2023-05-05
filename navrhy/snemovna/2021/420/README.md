@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-06 | 420/0 | Návrh zákona | [t042000.md](t042000.md), [t0420a0.md](t0420a0.md) |
+| 2023-05-05 | 420/1 | Stanovisko vlády k návrhu poslanců Heleny Válkové, Aleny Schillerové, Radka Vondráčka a dalších na vydání ústavního zákona o celostátním referendu a o změně ústavního zákona č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t042001.md](t042001.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t042000.md](t042000.md) | 420/0 | Návrh zákona včetně důvodové zprávy | [t042000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226822) | pymupdf / pdftotext 1.0000 |
 | [t0420a0.md](t0420a0.md) | 420/0 | Platné znění s vyznačením změn | [t0420a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226824) | pymupdf / pdftotext 1.0000 |
+| [t042001.md](t042001.md) | 420/1 | Stanovisko | [t042001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200761) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
