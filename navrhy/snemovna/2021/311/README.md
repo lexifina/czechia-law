@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-02-06 | 311/1 | Usnesení výboru pro zdravotnictví č. 69 ze dne 1. února 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony | [t031101.md](t031101.md) |
 | 2023-02-24 | 311/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a další související  zákony | [t031102.md](t031102.md) |
 | 2023-03-08 | 311/3 | Usnesení garančního výboru č. 73 ze dne 8. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a další související  zákony | [t031103.md](t031103.md) |
+| 2023-05-11 | 311/4 | Návrh zákona, kterým se mění zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony, vrácený Senátem | [t031104.md](t031104.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t031101.md](t031101.md) | 311/1 | Text | [t031101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222891) | pymupdf / pdftotext 1.0000 |
 | [t031102.md](t031102.md) | 311/2 | Text | [t031102.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224226) | pymupdf / pdftotext 1.0000 |
 | [t031103.md](t031103.md) | 311/3 | Text | [t031103.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225394) | pymupdf / pdftotext 1.0000 |
+| [t031104.md](t031104.md) | 311/4 | Text | [t031104.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=203858) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
