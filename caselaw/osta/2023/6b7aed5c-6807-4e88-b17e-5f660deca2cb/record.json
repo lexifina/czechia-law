@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2023:2.C.234.2022.1",
+  "docket": "2 C 234/2022-178",
+  "date": "2023-05-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6b7aed5c-6807-4e88-b17e-5f660deca2cb",
+  "source_sha256": "e45c4c998d6043ac4fac5c53a7bb0e526d0f27f7f7131c6767107f4c4594f51f",
+  "source_id": "6b7aed5c-6807-4e88-b17e-5f660deca2cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 234/2022-178",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Martina Štorkánová",
+    "ecli": "ECLI:CZ:OSTA:2023:2.C.234.2022.1",
+    "predmetRizeni": "o zaplacení 2 040 902 Kč s příslušenstvím",
+    "datumVydani": "2023-05-17",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o dílo",
+      "narovnání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2586 odst. 1 z. č. 89/2012 Sb.",
+      "§ 2604 z. č. 89/2012 Sb.",
+      "§ 2605 odst. 1,2 z. č. 89/2012 Sb.",
+      "§ 2610 z. č. 89/2012 Sb.",
+      "§ 1724 odst. 1 z. č. 89/2012 Sb.",
+      "§ 1725 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6b7aed5c-6807-4e88-b17e-5f660deca2cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
