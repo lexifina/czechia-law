@@ -1,0 +1,31 @@
+{
+  "listing": {
+    "jednaciCislo": "9 C 329/2022-48",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Eva Hanková",
+    "ecli": "ECLI:CZ:OSFM:2023:9.C.329.2022.1",
+    "predmetRizeni": "O zaplacení 170 620 Kč s příslušenstvím",
+    "datumVydani": "2023-05-17",
+    "datumZverejneni": "2023-12-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 1811 z. č. 89/2012 Sb.",
+      "§ 1800 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5b7ff67-3c81-4257-ab51-a1ada2c48198"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/f5b7ff67-3c81-4257-ab51-a1ada2c48198",
+  "source_sha256": "1d62db3430d95daa465cc841be2791ebe3ff5f228de2d4919cf8cb9b126cf4dd",
+  "source_bytes": 56015,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
