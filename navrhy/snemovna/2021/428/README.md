@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-21 | 428/0 | Návrh zákona | [t042800.md](t042800.md), [t0428a0.md](t0428a0.md) |
+| 2023-05-19 | 428/1 | Stanovisko vlády k návrhu poslanců Michaela Rataje, Jana Bauera, Miloše Nového, Olgy Richterové a Antonína Tesaříka na vydání zákona, kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů | [t042801.md](t042801.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t042800.md](t042800.md) | 428/0 | Návrh zákona včetně důvodové zprávy | [t042800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227403) | pymupdf / pdftotext 1.0000 |
 | [t0428a0.md](t0428a0.md) | 428/0 | Platné znění s vyznačením změn | [t0428a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227404) | pymupdf / pdftotext 1.0000 |
+| [t042801.md](t042801.md) | 428/1 | Stanovisko | [t042801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208595) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
