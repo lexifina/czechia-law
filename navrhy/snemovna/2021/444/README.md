@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-05-05 | 444/0 | Vládní návrh zákona | [t044400.md](t044400.md), [t0444a0.md](t0444a0.md), [t0444b0.md](t0444b0.md), [t0444c0.md](t0444c0.md) |
+| 2023-05-24 | 444/1 | Usnesení rozpočtového výboru č. 217 ze dne 24. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů, a zákon č. 286/2022 Sb., kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů | [t044401.md](t044401.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0444a0.md](t0444a0.md) | 444/0 | Platné znění s vyznačením změn | [t0444a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200577) | pymupdf / pdftotext 1.0000 |
 | [t0444b0.md](t0444b0.md) | 444/0 | Návrhy vyhlášek | [t0444b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200657) | pymupdf / pdftotext 1.0000 |
 | [t0444c0.md](t0444c0.md) | 444/0 | Kompatibilita s právem EU | [t0444c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=200578) | pymupdf / pdftotext 1.0000 |
+| [t044401.md](t044401.md) | 444/1 | Text | [t044401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214909) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
