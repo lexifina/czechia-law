@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-05-09 | 446/0 | Zpráva a jiné | [t044600.md](t044600.md), [t0446a0.md](t0446a0.md), [t0446b0.md](t0446b0.md), [t0446c0.md](t0446c0.md), [t0446d0.md](t0446d0.md), [t0446e0.md](t0446e0.md) |
+| 2023-05-24 | 446/1 | Usnesení výboru pro obranu č. 131 ze dne 23. května 2023 k 1. doplňku k účasti ozbrojených sil České republiky na vojenských cvičeních mimo území České republiky a účasti ozbrojených sil jiných států na vojenských cvičeních na území České republiky v roce 2023 | [t044601.md](t044601.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0446c0.md](t0446c0.md) | 446/0 | Další | [t0446c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=202914) | pymupdf / pdftotext 1.0000 |
 | [t0446d0.md](t0446d0.md) | 446/0 | Další | [t0446d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=202887) | pymupdf / pdftotext 1.0000 |
 | [t0446e0.md](t0446e0.md) | 446/0 | Další | [t0446e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=202940) | pymupdf / pdftotext 1.0000 |
+| [t044601.md](t044601.md) | 446/1 | Text | [t044601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215209) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
