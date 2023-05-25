@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-01-19 | 367/0 | Vládní návrh zákona | [t036700.md](t036700.md), [t0367a0.md](t0367a0.md) |
+| 2023-05-25 | 367/1 | Usnesení výboru pro životní prostředí č. 84 ze dne 24. května 2023 k vládnímu návrhu zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu | [t036701.md](t036701.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t036700.md](t036700.md) | 367/0 | Návrh zákona včetně důvodové zprávy | [t036700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222152) | pymupdf / pdftotext 1.0000 |
 | [t0367a0.md](t0367a0.md) | 367/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0367a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222154) | pymupdf / pdftotext 1.0000 |
+| [t036701.md](t036701.md) | 367/1 | Text | [t036701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216476) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
