@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-18 | 423/0 | Vládní návrh zákona | [t042300.md](t042300.md), [t0423a0.md](t0423a0.md), [t0423b0.md](t0423b0.md), [t0423c0.md](t0423c0.md) |
+| 2023-05-25 | 423/1 | Usnesení výboru pro sociální politiku č. 106 ze dne 24. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony | [t042301.md](t042301.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0423a0.md](t0423a0.md) | 423/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0423a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227247) | pymupdf / pdftotext 1.0000 |
 | [t0423b0.md](t0423b0.md) | 423/0 | Platné znění s vyznačením změn | [t0423b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227244) | pymupdf / pdftotext 1.0000 |
 | [t0423c0.md](t0423c0.md) | 423/0 | Kompatibilita s právem EU | [t0423c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227243) | pymupdf / pdftotext 1.0000 |
+| [t042301.md](t042301.md) | 423/1 | Text | [t042301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215938) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
