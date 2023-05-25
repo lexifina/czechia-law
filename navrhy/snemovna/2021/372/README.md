@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-04-28 | 372/3 | Usnesení hospodářského výboru č. 145 ze dne 27. dubna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, zákon č. 312/2006 Sb., o insolvenčních správcích, ve znění pozdějších předpisů, a další související zákony | [t037203.md](t037203.md) |
 | 2023-05-03 | 372/4 | Usnesení ústavně-právního výboru č. 90 ze dne 3. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, zákon č. 312/2006 Sb., o insolvenčních správcích, ve znění pozdějších předpisů, a další související zákony | [t037204.md](t037204.md) |
 | 2023-05-19 | 372/5 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, zákon č. 312/2006 Sb., o insolvenčních správcích, ve znění pozdějších předpisů, a další související zákony | [t037205.md](t037205.md) |
+| 2023-05-25 | 372/6 | Usnesení garančního výboru č. 97 ze dne 24. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, zákon č. 312/2006 Sb., o insolvenčních správcích, ve znění pozdějších předpisů, a další související zákony | [t037206.md](t037206.md) |
 
 ## Files
 
@@ -40,5 +41,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t037203.md](t037203.md) | 372/3 | Text | [t037203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227722) | pymupdf / pdftotext 1.0000 |
 | [t037204.md](t037204.md) | 372/4 | Text | [t037204.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228019) | pymupdf / pdftotext 1.0000 |
 | [t037205.md](t037205.md) | 372/5 | Text | [t037205.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208499) | pymupdf / pdftotext 1.0000 |
+| [t037206.md](t037206.md) | 372/6 | Text | [t037206.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216677) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
