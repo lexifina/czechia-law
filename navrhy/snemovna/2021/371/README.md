@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-04-28 | 371/3 | Usnesení hospodářského výboru č. 144 ze dne 27. dubna 2023 k vládnímu návrhu zákona o preventivní restrukturalizaci | [t037103.md](t037103.md) |
 | 2023-05-03 | 371/4 | Usnesení ústavně-právního výboru č. 89 ze dne 3. května 2023 k vládnímu návrhu zákona o preventivní restrukturalizaci | [t037104.md](t037104.md) |
 | 2023-05-19 | 371/5 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o preventivní restrukturalizaci | [t037105.md](t037105.md) |
+| 2023-05-25 | 371/6 | Usnesení garančního výboru č. 96 ze dne 24. května 2023 k vládnímu návrhu zákona o preventivní restrukturalizaci | [t037106.md](t037106.md) |
 
 ## Files
 
@@ -39,5 +40,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t037103.md](t037103.md) | 371/3 | Text | [t037103.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227719) | pymupdf / pdftotext 1.0000 |
 | [t037104.md](t037104.md) | 371/4 | Text | [t037104.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228016) | pymupdf / pdftotext 1.0000 |
 | [t037105.md](t037105.md) | 371/5 | Text | [t037105.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208399) | pymupdf / pdftotext 1.0000 |
+| [t037106.md](t037106.md) | 371/6 | Text | [t037106.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=216585) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
