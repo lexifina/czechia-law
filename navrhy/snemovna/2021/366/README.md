@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-03-17 | 366/1 | Usnesení hospodářského výboru č. 126 ze dne 16. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t036601.md](t036601.md) |
 | 2023-04-28 | 366/2 | Usnesení hospodářského výboru č. 147 ze dne 27. dubna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t036602.md](t036602.md) |
 | 2023-05-19 | 366/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t036603.md](t036603.md) |
+| 2023-05-26 | 366/4 | Usnesení garančního výboru č. 160 ze dne 25. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t036604.md](t036604.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t036601.md](t036601.md) | 366/1 | Text | [t036601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225833) | pymupdf / pdftotext 1.0000 |
 | [t036602.md](t036602.md) | 366/2 | Text | [t036602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227725) | pymupdf / pdftotext 1.0000 |
 | [t036603.md](t036603.md) | 366/3 | Text | [t036603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=208678) | pymupdf / pdftotext 1.0000 |
+| [t036604.md](t036604.md) | 366/4 | Text | [t036604.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217505) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
