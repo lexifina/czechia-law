@@ -18,6 +18,15 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-05-15 | 449/0 | Zpráva a jiné |  |
+| 2023-05-26 | 449/1 | Usnesení hospodářského výboru č. 150 ze dne 25. května 2023 k výroční zprávě Českého telekomunikačního úřadu za rok 2022 | [t044901.md](t044901.md) |
+
+## Files
+
+Text as published by psp.cz, extracted from the official file and checked against a second extraction of the same file.
+
+| File | Print | Document | Official file | Extracted / checked |
+| --- | --- | --- | --- | --- |
+| [t044901.md](t044901.md) | 449/1 | Text | [t044901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217200) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
