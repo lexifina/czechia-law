@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-02-02 | 382/0 | Mezinárodní smlouva | [t038200.md](t038200.md), [t0382a0.md](t0382a0.md), [t0382b0.md](t0382b0.md) |
+| 2023-05-30 | 382/1 | Usnesení zahraničního výboru č. 94 ze dne 25. května 2023 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Rámcová dohoda o komplexním partnerství a spolupráci mezi Evropskou unií a jejími členskými státy na jedné straně a Thajským královstvím na straně druhé | [t038201.md](t038201.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t038200.md](t038200.md) | 382/0 | Návrh usnesení Poslanecké sněmovny | [t038200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222816) | pymupdf / pdftotext 1.0000 |
 | [t0382a0.md](t0382a0.md) | 382/0 | Důvodová zpráva | [t0382a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222812) | pymupdf / pdftotext 1.0000 |
 | [t0382b0.md](t0382b0.md) | 382/0 | Text v českém jazyce | [t0382b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222814) | pymupdf / pdftotext 1.0000 |
+| [t038201.md](t038201.md) | 382/1 | Text | [t038201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219261) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
