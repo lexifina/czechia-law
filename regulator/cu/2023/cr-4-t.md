@@ -1,0 +1,30 @@
+---
+citace: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 4/T/2023"
+nazev: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 4/T/2023, kterým se stanoví pevné ceny pro konečného spotřebitele cigaret a změny pevných cen - 4. dodatek"
+druh: "Cenové rozhodnutí"
+vyhlaseno: "Cenový věstník, částka 7/2023, 2023-05-17"
+zdroj: "https://www.mf.gov.cz/assets/attachments/2023-05-17_Cenovy-vestnik-7-2023.pdf"
+---
+
+# Cenové rozhodnutí CÚ pro Středočeský kraj č. 4/T/2023, kterým se stanoví pevné ceny pro konečného spotřebitele cigaret a změny pevných cen - 4. dodatek
+
+Cenové rozhodnutí CÚ pro Středočeský kraj č. 4/T/2023, kterým se stanoví pevné ceny pro konečného spotřebitele cigaret a změny
+pevných cen - 4. dodatek
+Celní úřad pro Středočeský kraj podle § 10 zákona č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, pro výrobky zahrnuté v položce č. 1 Cenového rozhodnutí CÚ pro Středočeský kraj č. 01/2023, kterým se vydává seznam zboží s regulovanými cenami, uvedenými v seznamu cigaret, stanoví:
+1\. pevné ceny pro konečného spotřebitele 2. změny pevných cen uvedené v dodatku, který je nedílnou přílohou tohoto Cenového rozhodnutí.
+Pevné ceny pro konečného spotřebitele zahrnují výkon obchodu včetně daně z přidané hodnoty a platí pro všechny prodeje konečnému spotřebiteli na území ČR. Cenové rozhodnutí nabývá účinnosti dnem 1. 6. 2023, pro výrobky vyrobené a dovezené*1) na daňové území ČR, nebo dopravené z jiného členského státu EU na daňové území ČR od tohoto data s těmito cenami vytištěnými podle § 114 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+Vyřizuje: Andrea Tinková Mgr. Jan Václavíček v. r.
+ředitel celního úřadu Celní úřad pro Středočeský kraj tel.: +420 724 431 168
+\*1) § 3 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů.
+Příloha rozhodnutí CÚ pro Středočeský kraj č. 4/T/2023
+4\. dodatek k seznamu cigaret s pevnými cenami pro konečného spotřebitele
+1\. PEVNÉ CENY NOVÝCH VÝROBKŮ
+Pevná cena pro konečného
+Počet kusů v jednotkovém balení určeném spotřebitele jednotkového
+Obchodní název balení určeného pro
+pro přímou spotřebu
+přímou spotřebu v Kč WINSTON COMPACT BLACK LONG 20 129,00 Cigareta s filtrem, 90,0 mm
+2\. ZMĚNY PEVNÝCH CEN
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 12/T/2022 se u výrobku BENSON & HEDGES OPTION (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „131,00“ nahrazuje pevnou cenou „136,00“; u výrobku Gauloises Blondes ATF Red (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „142,00“ nahrazuje pevnou cenou „147,00“; u výrobku Gauloises Blondes Gold (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „141,00“ nahrazuje pevnou cenou „146,00“; u výrobku KENT CORE BLUE (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „157,00“ nahrazuje pevnou cenou „162,00“; u výrobku Pall Mall Pocket Blue 40 (40 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „258,00“ nahrazuje pevnou cenou „268,00“; u výrobku Reval (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „155,00“ nahrazuje pevnou cenou „160,00“; u výrobku Rothmans Premium Red (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „133,00“ nahrazuje pevnou cenou „138,00“; u výrobku West SL-Line Silver (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „133,00“ nahrazuje pevnou cenou „138,00“; u výrobku WINSTON COMPACT LONG (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „129,00“ nahrazuje pevnou cenou „134,00“; u výrobku WINSTON OPTION (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „131,00“ nahrazuje pevnou cenou „136,00“.
+Vydává: Ministerstvo financí ČR, Letenská 15, 118 10 Praha 1 – Redakce: Marcela Bendigová,
+telefon 257 043 234, e-mail: Marcela.Bendigova@mfcr.cz
