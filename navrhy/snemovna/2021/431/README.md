@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-21 | 431/0 | Vládní návrh zákona | [t043100.md](t043100.md), [t0431a0.md](t0431a0.md), [t0431b0.md](t0431b0.md), [t0431c0.md](t0431c0.md) |
+| 2023-06-08 | 431/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 78 ze dne 8. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony | [t043101.md](t043101.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0431a0.md](t0431a0.md) | 431/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0431a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227418) | pymupdf / pdftotext 1.0000 |
 | [t0431b0.md](t0431b0.md) | 431/0 | Platné znění s vyznačením změn | [t0431b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227417) | pymupdf / pdftotext 1.0000 |
 | [t0431c0.md](t0431c0.md) | 431/0 | Návrhy vyhlášek | [t0431c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227419) | pymupdf / pdftotext 1.0000 |
+| [t043101.md](t043101.md) | 431/1 | Text | [t043101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227082) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
