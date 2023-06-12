@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-05-26 | 423/2 | Usnesení hospodářského výboru č. 159 ze dne 25. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony | [t042302.md](t042302.md) |
 | 2023-05-30 | 423/3 | Usnesení výboru pro zdravotnictví č. 86 ze dne 23. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony | [t042303.md](t042303.md) |
 | 2023-05-30 | 423/4 | Záznam stálé komise pro rodinu a rovné příležitosti č. 35 ze dne 24. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony | [t042304.md](t042304.md) |
+| 2023-06-12 | 423/5 | Usnesení hospodářského výboru č. 169 ze dne 8. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony | [t042305.md](t042305.md) |
 
 ## Files
 
@@ -39,5 +40,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t042302.md](t042302.md) | 423/2 | Text | [t042302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217382) | pymupdf / pdftotext 1.0000 |
 | [t042303.md](t042303.md) | 423/3 | Text | [t042303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219749) | pymupdf / pdftotext 1.0000 |
 | [t042304.md](t042304.md) | 423/4 | Text | [t042304.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220008) | pymupdf / pdftotext 1.0000 |
+| [t042305.md](t042305.md) | 423/5 | Text | [t042305.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228228) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
