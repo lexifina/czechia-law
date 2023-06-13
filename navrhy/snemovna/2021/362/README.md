@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-03-01 | 362/1 | Usnesení zemědělského výboru č. 106 ze dne 1. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů, a další související zákony | [t036201.md](t036201.md) |
 | 2023-03-24 | 362/2 | Usnesení zemědělského výboru č. 110 ze dne 24. března 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů, a další související zákony | [t036202.md](t036202.md) |
 | 2023-05-31 | 362/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů, a další související zákony | [t036203.md](t036203.md) |
+| 2023-06-13 | 362/4 | Usnesení garančního výboru č. 125 ze dne 13. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 219/2003 Sb., o uvádění do oběhu osiva a sadby pěstovaných rostlin a o změně některých zákonů (zákon o oběhu osiva a sadby), ve znění pozdějších předpisů, a další související zákony | [t036204.md](t036204.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t036201.md](t036201.md) | 362/1 | Text | [t036201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224854) | pymupdf / pdftotext 1.0000 |
 | [t036202.md](t036202.md) | 362/2 | Text | [t036202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226128) | pymupdf / pdftotext 1.0000 |
 | [t036203.md](t036203.md) | 362/3 | Text | [t036203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220558) | pymupdf / pdftotext 1.0000 |
+| [t036204.md](t036204.md) | 362/4 | Text | [t036204.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228325) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
