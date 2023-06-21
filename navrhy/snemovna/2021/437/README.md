@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-05-03 | 437/0 | Vládní návrh zákona | [t043700.md](t043700.md), [t0437a0.md](t0437a0.md) |
 | 2023-05-26 | 437/1 | Usnesení hospodářského výboru č. 158 ze dne 25. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů | [t043701.md](t043701.md) |
 | 2023-06-09 | 437/2 | Usnesení hospodářského výboru č. 168 ze dne 8. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů | [t043702.md](t043702.md) |
+| 2023-06-21 | 437/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů | [t043703.md](t043703.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0437a0.md](t0437a0.md) | 437/0 | Platné znění s vyznačením změn | [t0437a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227949) | pymupdf / pdftotext 1.0000 |
 | [t043701.md](t043701.md) | 437/1 | Text | [t043701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217314) | pymupdf / pdftotext 1.0000 |
 | [t043702.md](t043702.md) | 437/2 | Text | [t043702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228156) | pymupdf / pdftotext 1.0000 |
+| [t043703.md](t043703.md) | 437/3 | Text | [t043703.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228760) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
