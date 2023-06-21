@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-03-22 | 405/0 | Vládní návrh zákona | [t040500.md](t040500.md), [t0405a0.md](t0405a0.md), [t0405b0.md](t0405b0.md), [t0405c0.md](t0405c0.md) |
+| 2023-06-21 | 405/1 | Usnesení rozpočtového výboru č. 244 ze dne 21. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a zákon č. 277/2009 Sb., o pojišťovnictví, ve znění pozdějších předpisů | [t040501.md](t040501.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0405a0.md](t0405a0.md) | 405/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0405a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226036) | pymupdf / pdftotext 1.0000 |
 | [t0405b0.md](t0405b0.md) | 405/0 | Platné znění s vyznačením změn | [t0405b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226037) | pymupdf / pdftotext 1.0000 |
 | [t0405c0.md](t0405c0.md) | 405/0 | Kompatibilita s právem EU | [t0405c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226031) | pymupdf / pdftotext 1.0000 |
+| [t040501.md](t040501.md) | 405/1 | Text | [t040501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228747) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
