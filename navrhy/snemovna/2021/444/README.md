@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-05-24 | 444/1 | Usnesení rozpočtového výboru č. 217 ze dne 24. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů, a zákon č. 286/2022 Sb., kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů | [t044401.md](t044401.md) |
 | 2023-06-07 | 444/2 | Usnesení rozpočtového výboru č. 222 ze dne 7. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů, a zákon č. 286/2022 Sb., kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů | [t044402.md](t044402.md) |
 | 2023-06-21 | 444/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů, a zákon č. 286/2022 Sb., kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů | [t044403.md](t044403.md) |
+| 2023-06-21 | 444/4 | Usnesení garančního výboru č. 248 ze dne 21. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů, a zákon č. 286/2022 Sb., kterým se mění zákon č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů | [t044404.md](t044404.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t044401.md](t044401.md) | 444/1 | Text | [t044401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214909) | pymupdf / pdftotext 1.0000 |
 | [t044402.md](t044402.md) | 444/2 | Text | [t044402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225315) | pymupdf / pdftotext 1.0000 |
 | [t044403.md](t044403.md) | 444/3 | Text | [t044403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228763) | pymupdf / pdftotext 1.0000 |
+| [t044404.md](t044404.md) | 444/4 | Text | [t044404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228787) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
