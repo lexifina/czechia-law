@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-02-06 | 383/0 | Vládní návrh zákona | [t038300.md](t038300.md), [t0383a0.md](t0383a0.md) |
+| 2023-06-22 | 383/1 | Usnesení ústavně-právního výboru č. 104 ze dne 21. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a některé další zákony | [t038301.md](t038301.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t038300.md](t038300.md) | 383/0 | Návrh zákona včetně důvodové zprávy | [t038300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222881) | pymupdf / pdftotext 1.0000 |
 | [t0383a0.md](t0383a0.md) | 383/0 | Platné znění s vyznačením změn | [t0383a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222882) | pymupdf / pdftotext 1.0000 |
+| [t038301.md](t038301.md) | 383/1 | Text | [t038301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228873) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
