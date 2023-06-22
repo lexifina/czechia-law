@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-03-14 | 403/0 | Vládní návrh zákona | [t040300.md](t040300.md), [t0403a0.md](t0403a0.md) |
+| 2023-06-22 | 403/1 | Usnesení hospodářského výboru č. 174 ze dne 22. června 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v oblasti krizových stavů a státních hmotných rezerv | [t040301.md](t040301.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t040300.md](t040300.md) | 403/0 | Návrh zákona včetně důvodové zprávy | [t040300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225657) | pymupdf / pdftotext 1.0000 |
 | [t0403a0.md](t0403a0.md) | 403/0 | Platné znění s vyznačením změn | [t0403a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225660) | pymupdf / pdftotext 1.0000 |
+| [t040301.md](t040301.md) | 403/1 | Text | [t040301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228883) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
