@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-21 | 430/0 | Vládní návrh zákona | [t043000.md](t043000.md), [t0430a0.md](t0430a0.md) |
+| 2023-06-22 | 430/1 | Usnesení ústavně-právního výboru č. 105 ze dne 21. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 279/2003 Sb., o výkonu zajištění majetku a věcí v trestním řízení a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t043001.md](t043001.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t043000.md](t043000.md) | 430/0 | Návrh zákona včetně důvodové zprávy | [t043000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227409) | pymupdf / pdftotext 1.0000 |
 | [t0430a0.md](t0430a0.md) | 430/0 | Platné znění s vyznačením změn | [t0430a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227411) | pymupdf / pdftotext 1.0000 |
+| [t043001.md](t043001.md) | 430/1 | Text | [t043001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228875) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
