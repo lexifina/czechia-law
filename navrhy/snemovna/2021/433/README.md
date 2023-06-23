@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-24 | 433/0 | Mezinárodní smlouva | [t043300.md](t043300.md), [t0433a0.md](t0433a0.md), [t0433b0.md](t0433b0.md), [t0433c0.md](t0433c0.md), [t0433d0.md](t0433d0.md), [t0433e0.md](t0433e0.md), [t0433f0.md](t0433f0.md), [t0433g0.md](t0433g0.md), [t0433h0.md](t0433h0.md), [t0433i0.md](t0433i0.md), [t0433j0.md](t0433j0.md), [t0433k0.md](t0433k0.md), [t0433l0.md](t0433l0.md), [t0433o0.md](t0433o0.md) |
+| 2023-06-23 | 433/1 | Usnesení zahraničního výboru č. 99 ze dne 22. června 2023 k vládnímu návrhu, kterým se předkládají Parlamentu České republiky ke schválení a k vyslovení souhlasu s ratifikací změnové rezoluce k Mezinárodní úmluvě o normách výcviku, kvalifikace a strážní služby námořníků 1978, ve znění změn z roku 2010 | [t043301.md](t043301.md) |
 
 ## Files
 
@@ -39,6 +40,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0433k0.md](t0433k0.md) | 433/0 | Text v jiném jazyce | [t0433k0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227489) | pymupdf / pdftotext 0.9999 |
 | [t0433l0.md](t0433l0.md) | 433/0 | Text v jiném jazyce | [t0433l0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227490) | pymupdf / pdftotext 1.0000 |
 | [t0433o0.md](t0433o0.md) | 433/0 | Text v jiném jazyce | [t0433o0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227507) | pymupdf / pdftotext 1.0000 |
+| [t043301.md](t043301.md) | 433/1 | Text | [t043301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228967) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
