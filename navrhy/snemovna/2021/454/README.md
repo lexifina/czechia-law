@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-05-25 | 454/0 | Návrh zákona | [t045400.md](t045400.md), [t0454a0.md](t0454a0.md) |
+| 2023-06-27 | 454/1 | Stanovisko vlády k návrhu poslance Martina Kupky a dalších na vydání zákona, kterým se mění a ruší některé zákony v souvislosti se zrušením Úřadu pro přístup k dopravní infrastruktuře | [t045401.md](t045401.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t045400.md](t045400.md) | 454/0 | Návrh zákona včetně důvodové zprávy | [t045400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215574) | pymupdf / pdftotext 1.0000 |
 | [t0454a0.md](t0454a0.md) | 454/0 | Platné znění s vyznačením změn | [t0454a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=215569) | pymupdf / pdftotext 1.0000 |
+| [t045401.md](t045401.md) | 454/1 | Stanovisko | [t045401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229035) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
