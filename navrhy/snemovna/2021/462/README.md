@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-02 | 462/0 | Mezinárodní smlouva | [t046200.md](t046200.md), [t0462a0.md](t0462a0.md), [t0462b0.md](t0462b0.md), [t0462c0.md](t0462c0.md) |
 | 2023-07-13 | 462/1 | Usnesení výboru pro obranu č. 142 ze dne 13. července 2023 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Dohoda mezi Českou republikou a Spojenými státy americkými o spolupráci v oblasti obrany | [t046201.md](t046201.md) |
 | 2023-07-13 | 462/2 | Usnesení výboru pro obranu č. 143 ze dne 13. července 2023 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Dohoda mezi Českou republikou a Spojenými státy americkými o spolupráci v oblasti obrany | [t046202.md](t046202.md) |
+| 2023-07-13 | 462/3 | Usnesení zahraničního výboru č. 104 ze dne 13. července 2023 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Dohoda mezi Českou republikou a Spojenými státy americkými o spolupráci v oblasti obrany | [t046203.md](t046203.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0462c0.md](t0462c0.md) | 462/0 | Text v jiném jazyce | [t0462c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222058) | pymupdf / pdftotext 1.0000 |
 | [t046201.md](t046201.md) | 462/1 | Text | [t046201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229791) | pymupdf / pdftotext 1.0000 |
 | [t046202.md](t046202.md) | 462/2 | Text | [t046202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229838) | pymupdf / pdftotext 1.0000 |
+| [t046203.md](t046203.md) | 462/3 | Text | [t046203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229860) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
