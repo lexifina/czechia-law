@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-05-03 | 332/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a další související zákony | [t033203.md](t033203.md) |
 | 2023-05-26 | 332/4 | Usnesení garančního výboru č. 153 ze dne 25. května 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a další související zákony | [t033204.md](t033204.md) |
 | 2023-07-14 | 332/5 | Návrh zákona, kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a další související zákony, vrácený Senátem | [t033205.md](t033205.md) |
+| 2023-07-14 | 332/6 | Usnesení Senátu k návrhu zákona, kterým se mění zákon č. 266/1994 Sb., o dráhách, ve znění pozdějších předpisů, a další související zákony | [t033206.md](t033206.md) |
 
 ## Files
 
@@ -40,5 +41,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t033203.md](t033203.md) | 332/3 | Text | [t033203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227960) | pymupdf / pdftotext 1.0000 |
 | [t033204.md](t033204.md) | 332/4 | Text | [t033204.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=217274) | pymupdf / pdftotext 1.0000 |
 | [t033205.md](t033205.md) | 332/5 | Text | [t033205.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229969) | pymupdf / pdftotext 1.0000 |
+| [t033206.md](t033206.md) | 332/6 | Text | [t033206.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229971) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
