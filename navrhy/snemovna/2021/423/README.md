@@ -28,6 +28,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-15 | 423/6 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony | [t042306.md](t042306.md) |
 | 2023-06-21 | 423/7 | Usnesení garančního výboru č. 109 ze dne 21. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony | [t042307.md](t042307.md) |
 | 2023-07-28 | 423/8 | Návrh zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony, vrácený Senátem | [t042308.md](t042308.md) |
+| 2023-07-28 | 423/9 | Usnesení Senátu k návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony | [t042309.md](t042309.md) |
 
 ## Files
 
@@ -47,5 +48,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t042306.md](t042306.md) | 423/6 | Text | [t042306.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228518) | pymupdf / pdftotext 1.0000 |
 | [t042307.md](t042307.md) | 423/7 | Text | [t042307.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228770) | pymupdf / pdftotext 1.0000 |
 | [t042308.md](t042308.md) | 423/8 | Text | [t042308.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230626) | pymupdf / pdftotext 1.0000 |
+| [t042309.md](t042309.md) | 423/9 | Text | [t042309.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230631) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
