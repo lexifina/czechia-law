@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-07-12 | 495/0 | Návrh zákona | [t049500.md](t049500.md), [t0495a0.md](t0495a0.md) |
+| 2023-07-31 | 495/1 | Stanovisko vlády k návrhu poslanců Michala Kučery, Petra Bendla, Karla Smetany, Jaroslava Faltýnka, Tomáše Dubského, Oldřicha Černého, Ivana Adamce, Jakuba Michálka a Davida Pražáka na vydání zákona, kterým se mění zákon č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy, ve znění pozdějších předpisů | [t049501.md](t049501.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t049500.md](t049500.md) | 495/0 | Návrh zákona včetně důvodové zprávy | [t049500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229588) | pymupdf / pdftotext 1.0000 |
 | [t0495a0.md](t0495a0.md) | 495/0 | Platné znění s vyznačením změn | [t0495a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229585) | pymupdf / pdftotext 1.0000 |
+| [t049501.md](t049501.md) | 495/1 | Stanovisko | [t049501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230726) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
