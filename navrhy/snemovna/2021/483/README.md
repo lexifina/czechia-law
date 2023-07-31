@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-06-29 | 483/0 | Návrh zákona | [t048300.md](t048300.md), [t0483a0.md](t0483a0.md) |
+| 2023-07-31 | 483/1 | Stanovisko vlády k návrhu poslanců Jiřího Navrátila, Mariana Jurečky, Marka Výborného, Pavly Golasowské, Davida Šimka, Karla Smetany, Antonína Tesaříka, Hayato Okamury, Jana Bartoška, Víta Kaňkovského, Miroslava Zborovského, Niny Novákové, Aleše Dufka, Romany Bělohlávkové, Ondřeje Benešíka, Jiřího Horáka a Michaela Kohajdy na vydání zákona, kterým se mění zákon č. 115/2006 Sb., o registrovaném partnerství a o změně některých souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony | [t048301.md](t048301.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t048300.md](t048300.md) | 483/0 | Návrh zákona včetně důvodové zprávy | [t048300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229179) | pymupdf / pdftotext 1.0000 |
 | [t0483a0.md](t0483a0.md) | 483/0 | Platné znění s vyznačením změn | [t0483a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229181) | pymupdf / pdftotext 1.0000 |
+| [t048301.md](t048301.md) | 483/1 | Stanovisko | [t048301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230719) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
