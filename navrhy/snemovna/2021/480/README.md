@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-06-28 | 480/0 | Návrh zákona | [t048000.md](t048000.md), [t0480a0.md](t0480a0.md) |
+| 2023-07-31 | 480/1 | Stanovisko vlády k návrhu poslanců Margity Balaštíkové, Bereniky Peštové, Jiřího Maška a dalších na vydání zákona, kterým se mění zákon č. 428/2012 Sb., o majetkovém vyrovnání s církvemi a náboženskými společnostmi a o změně některých zákonů (zákon o majetkovém vyrovnání s církvemi a náboženskými společnostmi), ve znění pozdějších předpisů | [t048001.md](t048001.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t048000.md](t048000.md) | 480/0 | Návrh zákona včetně důvodové zprávy | [t048000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229095) | pymupdf / pdftotext 1.0000 |
 | [t0480a0.md](t0480a0.md) | 480/0 | Platné znění s vyznačením změn | [t0480a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229093) | pymupdf / pdftotext 1.0000 |
+| [t048001.md](t048001.md) | 480/1 | Stanovisko | [t048001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230714) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
