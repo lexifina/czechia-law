@@ -1,0 +1,35 @@
+{
+  "listing": {
+    "jednaciCislo": "15 C 173/2022-56",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "Mgr. Daria Vaňková",
+    "ecli": "ECLI:CZ:OSHB:2023:15.C.173.2022.5",
+    "predmetRizeni": "zaplacení 23 797,31 Kč s příslušenstvím",
+    "datumVydani": "2023-08-10",
+    "datumZverejneni": "2023-12-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/030410cf-dbda-4335-8527-400db90f9ae2"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/030410cf-dbda-4335-8527-400db90f9ae2",
+  "source_sha256": "3f0ef8ac307c584523895b113f77519cccde371339dfd167b60473dee165a0d2",
+  "source_bytes": 23809,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
