@@ -1,0 +1,36 @@
+{
+  "listing": {
+    "jednaciCislo": "10 C 165/2023-24",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Petr Klein",
+    "ecli": "ECLI:CZ:OSTC:2023:10.C.165.2023.1",
+    "predmetRizeni": "O zaplacení 19 043,01 Kč s příslušenstvím",
+    "datumVydani": "2023-08-21",
+    "datumZverejneni": "2023-12-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2049 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9ca60d6-d0d7-4805-97a0-120149a0737c"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/a9ca60d6-d0d7-4805-97a0-120149a0737c",
+  "source_sha256": "ac4eac2976897b676213f84137fc0874d41b472145d4a5d16f69c807b91b4da2",
+  "source_bytes": 21843,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
