@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-08-09 | 506/0 | Předchozí souhlas s rozhodnutím orgánů EU | [t050600.md](t050600.md), [t0506a0.md](t0506a0.md), [t0506b0.md](t0506b0.md) |
+| 2023-08-30 | 506/1 | Usnesení výboru pro evropské záležitosti č. 198 ze dne 30. srpna 2023 k vládnímu návrhu, kterým se předkládá Poslanecké sněmovně Parlamentu České republiky k vyslovení předchozího souhlasu návrh nařízení Rady, kterým se mění nařízení (EU) č. 216/2013 o elektronickém vydávání Úředního věstníku Evropské unie (2023/ST/06551) | [t050601.md](t050601.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t050600.md](t050600.md) | 506/0 | Text | [t050600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230892) | pymupdf / pdftotext 1.0000 |
 | [t0506a0.md](t0506a0.md) | 506/0 | Text | [t0506a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230890) | pymupdf / pdftotext 1.0000 |
 | [t0506b0.md](t0506b0.md) | 506/0 | Text | [t0506b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230887) | pymupdf / pdftotext 1.0000 |
+| [t050601.md](t050601.md) | 506/1 | Text | [t050601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231314) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
