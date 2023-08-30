@@ -1,0 +1,29 @@
+{
+  "listing": {
+    "jednaciCislo": "17 C 43/2022-28",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Martina Schwettrová",
+    "ecli": "ECLI:CZ:OSFM:2023:17.C.43.2022.1",
+    "predmetRizeni": "O zaplacení 21 684 Kč s příslušenstvím",
+    "datumVydani": "2023-08-30",
+    "datumZverejneni": "2023-12-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5aed2d26-7d68-46d9-af0d-1f9863e7df98"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/5aed2d26-7d68-46d9-af0d-1f9863e7df98",
+  "source_sha256": "d6cfb471fc828c3383dd20d4a110f2d1fb73f548eec7e836c4eb4c3c38c4f6f0",
+  "source_bytes": 47593,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
