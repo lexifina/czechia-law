@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2023-05-15 | 450/0 | Vládní návrh zákona | [t045000.md](t045000.md), [t0450a0.md](t0450a0.md), [t0450b0.md](t0450b0.md), [t0450c0.md](t0450c0.md) |
 | 2023-07-13 | 450/1 | Usnesení výboru pro sociální politiku č. 115 ze dne 13. července 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů, a další související zákony | [t045001.md](t045001.md) |
+| 2023-08-30 | 450/2 | Usnesení výboru pro sociální politiku č. 118 ze dne 30. srpna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů, a další související zákony | [t045002.md](t045002.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0450b0.md](t0450b0.md) | 450/0 | Platné znění s vyznačením změn | [t0450b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204804) | pymupdf / pdftotext 1.0000 |
 | [t0450c0.md](t0450c0.md) | 450/0 | Kompatibilita s právem EU | [t0450c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=204851) | pymupdf / pdftotext 1.0000 |
 | [t045001.md](t045001.md) | 450/1 | Text | [t045001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229818) | pymupdf / pdftotext 1.0000 |
+| [t045002.md](t045002.md) | 450/2 | Text | [t045002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231341) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
