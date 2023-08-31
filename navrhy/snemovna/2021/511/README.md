@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-08-17 | 511/0 | Zpráva a jiné | [t051100.md](t051100.md) |
+| 2023-08-31 | 511/1 | Usnesení rozpočtového výboru č. 257 ze dne 30. srpna 2023 ke zprávě o měnové politice – léto 2023 | [t051101.md](t051101.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t051100.md](t051100.md) | 511/0 | Text | [t051100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230995) | pymupdf / pdftotext 1.0000 |
+| [t051101.md](t051101.md) | 511/1 | Text | [t051101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231384) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
