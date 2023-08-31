@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-30 | 488/0 | Vládní návrh zákona | [t048800.md](t048800.md), [t0488a0.md](t0488a0.md), [t0488b0.md](t0488b0.md), [t0488c0.md](t0488c0.md), [t0488d0.md](t0488d0.md), [t0488e0.md](t0488e0.md), [t0488f0.md](t0488f0.md), [t0488g0.md](t0488g0.md), [t0488h0.md](t0488h0.md), [t0488i0.md](t0488i0.md), [t0488j0.md](t0488j0.md) |
 | 2023-08-30 | 488/1 | Usnesení výboru pro sociální politiku č. 119 ze dne 30. srpna 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů | [t048801.md](t048801.md) |
 | 2023-08-31 | 488/2 | Usnesení rozpočtového výboru č. 253 ze dne 30. srpna 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů | [t048802.md](t048802.md) |
+| 2023-08-31 | 488/3 | Usnesení hospodářského výboru č. 181 ze dne 31. srpna 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů | [t048803.md](t048803.md) |
 
 ## Files
 
@@ -42,5 +43,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0488j0.md](t0488j0.md) | 488/0 | Kompatibilita s právem EU | [t0488j0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229265) | pymupdf / pdftotext 1.0000 |
 | [t048801.md](t048801.md) | 488/1 | Text | [t048801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231344) | pymupdf / pdftotext 1.0000 |
 | [t048802.md](t048802.md) | 488/2 | Text | [t048802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231388) | pymupdf / pdftotext 1.0000 |
+| [t048803.md](t048803.md) | 488/3 | Text | [t048803.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231486) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
