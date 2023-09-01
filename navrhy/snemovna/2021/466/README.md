@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-06-06 | 466/0 | Zpráva a jiné | [t046600.md](t046600.md), [t0466a0.md](t0466a0.md) |
+| 2023-09-01 | 466/1 | Usnesení výboru pro obranu č. 145 ze dne 1. září 2023 k informaci o nasazení sil a prostředků rezortu Ministerstva obrany v zahraničních operacích a o pobytu ozbrojených sil jiných států na území České republiky v roce 2022 | [t046601.md](t046601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t046600.md](t046600.md) | 466/0 | Návrh usnesení Poslanecké sněmovny | [t046600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224000) | pymupdf / pdftotext 1.0000 |
 | [t0466a0.md](t0466a0.md) | 466/0 | Text | [t0466a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=224039) | pymupdf / pdftotext 1.0000 |
+| [t046601.md](t046601.md) | 466/1 | Text | [t046601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231573) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
