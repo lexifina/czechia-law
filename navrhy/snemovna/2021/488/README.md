@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-08-31 | 488/3 | Usnesení hospodářského výboru č. 181 ze dne 31. srpna 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů | [t048803.md](t048803.md) |
 | 2023-08-31 | 488/4 | Usnesení rozpočtového výboru č. 253 ze dne 30. srpna 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů | [t048804.md](t048804.md) |
 | 2023-09-01 | 488/5 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 89 ze dne 31. srpna 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů | [t048805.md](t048805.md) |
+| 2023-09-01 | 488/6 | Usnesení ústavně-právního výboru č. 108 ze dne 30. srpna 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů | [t048806.md](t048806.md) |
 
 ## Files
 
@@ -48,5 +49,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t048803.md](t048803.md) | 488/3 | Text | [t048803.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231486) | pymupdf / pdftotext 1.0000 |
 | [t048804.md](t048804.md) | 488/4 | Text | [t048804.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231492) | pymupdf / pdftotext 1.0000 |
 | [t048805.md](t048805.md) | 488/5 | Text | [t048805.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231525) | pymupdf / pdftotext 1.0000 |
+| [t048806.md](t048806.md) | 488/6 | Text | [t048806.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231582) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
