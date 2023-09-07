@@ -1,0 +1,32 @@
+{
+  "listing": {
+    "jednaciCislo": "10 C 284/2023-14",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Blanka Magliová",
+    "ecli": "ECLI:CZ:OSKV:2023:10.C.284.2023.1",
+    "predmetRizeni": "11.002,12 Kč / úvěr",
+    "datumVydani": "2023-09-07",
+    "datumZverejneni": "2023-12-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4bf9e0a9-2ab6-493b-8d40-514319471427"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/4bf9e0a9-2ab6-493b-8d40-514319471427",
+  "source_sha256": "10c60729fd1c0868ce9f73a0cfce7a0def8ceed61cae614981425e27b9a77b01",
+  "source_bytes": 12832,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
