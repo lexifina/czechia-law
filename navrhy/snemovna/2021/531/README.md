@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-09-07 | 531/0 | Návrh zákona | [t053100.md](t053100.md), [t0531a0.md](t0531a0.md) |
+| 2023-09-18 | 531/1 | Stanovisko vlády k návrhu poslanců Josefa Cogana, Marka Bendy, Radima Fialy, Jana Jakoba, Jakuba Michálka, Jiřího Navrátila a Radka Vondráčka na vydání zákona, kterým se mění volební a některé další zákony v souvislosti s přijetím zákona o správě voleb | [t053101.md](t053101.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t053100.md](t053100.md) | 531/0 | Návrh zákona včetně důvodové zprávy | [t053100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231907) | pymupdf / pdftotext 1.0000 |
 | [t0531a0.md](t0531a0.md) | 531/0 | Platné znění s vyznačením změn | [t0531a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231906) | pymupdf / pdftotext 1.0000 |
+| [t053101.md](t053101.md) | 531/1 | Stanovisko | [t053101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235355) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
