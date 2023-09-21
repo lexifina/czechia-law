@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-21 | 440/1 | Usnesení rozpočtového výboru č. 246 ze dne 21. června 2023 k návrhu státního závěrečného účtu České republiky za rok 2022 | [t044001.md](t044001.md) |
 | 2023-09-01 | 440/2 | Stanovisko Nejvyššího kontrolního úřadu k návrhu státního závěrečného účtu České republiky za rok 2022 | [t044002.md](t044002.md) |
 | 2023-09-13 | 440/3 | Usnesení kontrolního výboru č. 108 ze dne 13. září 2023 ke stanovisku Nejvyššího kontrolního úřadu k návrhu státního závěrečného účtu České republiky za rok 2022 | [t044003.md](t044003.md) |
+| 2023-09-21 | 440/4 | Usnesení rozpočtového výboru č. 262 ze dne 20. září 2023 k návrhu státního závěrečného účtu České republiky za rok 2022 | [t044004.md](t044004.md) |
 
 ## Files
 
@@ -40,5 +41,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t044001.md](t044001.md) | 440/1 | Text | [t044001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228751) | pymupdf / pdftotext 1.0000 |
 | [t044002.md](t044002.md) | 440/2 | Stanovisko | [t044002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231605) | pymupdf / pdftotext 0.9993 |
 | [t044003.md](t044003.md) | 440/3 | Text | [t044003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232203) | pymupdf / pdftotext 1.0000 |
+| [t044004.md](t044004.md) | 440/4 | Text | [t044004.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235455) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
