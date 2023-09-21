@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-06-30 | 489/0 | Vládní návrh zákona | [t048900.md](t048900.md), [t0489a0.md](t0489a0.md) |
+| 2023-09-21 | 489/1 | Usnesení výboru pro sociální politiku č. 122 ze dne 20. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, zákon č. 73/2011 Sb., o Úřadu práce České republiky a o změně souvisejících zákonů, ve znění pozdějších předpisů, a zákon č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů | [t048901.md](t048901.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t048900.md](t048900.md) | 489/0 | Návrh zákona včetně důvodové zprávy | [t048900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229273) | pymupdf / pdftotext 1.0000 |
 | [t0489a0.md](t0489a0.md) | 489/0 | Platné znění s vyznačením změn | [t0489a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229272) | pymupdf / pdftotext 1.0000 |
+| [t048901.md](t048901.md) | 489/1 | Text | [t048901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235540) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
