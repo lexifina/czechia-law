@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-06-15 | 476/0 | Vládní návrh zákona | [t047600.md](t047600.md), [t0476a0.md](t0476a0.md), [t0476b0.md](t0476b0.md), [t0476c0.md](t0476c0.md) |
+| 2023-09-21 | 476/1 | Usnesení výboru pro zdravotnictví č. 100 ze dne 20. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 378/2007 Sb., o léčivech a o změnách některých souvisejících zákonů (zákon o léčivech), ve znění pozdějších předpisů | [t047601.md](t047601.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0476a0.md](t0476a0.md) | 476/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0476a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228478) | pymupdf / pdftotext 1.0000 |
 | [t0476b0.md](t0476b0.md) | 476/0 | Platné znění s vyznačením změn | [t0476b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228473) | pymupdf / pdftotext 1.0000 |
 | [t0476c0.md](t0476c0.md) | 476/0 | Kompatibilita s právem EU | [t0476c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228476) | pymupdf / pdftotext 1.0000 |
+| [t047601.md](t047601.md) | 476/1 | Text | [t047601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235509) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
