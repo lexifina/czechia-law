@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-04-28 | 436/0 | Mezinárodní smlouva | [t043600.md](t043600.md), [t0436a0.md](t0436a0.md), [t0436b0.md](t0436b0.md), [t0436c0.md](t0436c0.md) |
+| 2023-09-21 | 436/1 | Usnesení zahraničního výboru č. 108 ze dne 21. září 2023 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu doplnění prohlášení České republiky v souladu s čl. 2 odst. 2 a čl. 3 odst. 1 Evropské charty regionálních či menšinových jazyků | [t043601.md](t043601.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0436a0.md](t0436a0.md) | 436/0 | Důvodová zpráva | [t0436a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227751) | pymupdf / pdftotext 1.0000 |
 | [t0436b0.md](t0436b0.md) | 436/0 | Text v českém jazyce | [t0436b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227753) | pymupdf / pdftotext 1.0000 |
 | [t0436c0.md](t0436c0.md) | 436/0 | Text v jiném jazyce | [t0436c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=227752) | pymupdf / pdftotext 1.0000 |
+| [t043601.md](t043601.md) | 436/1 | Text | [t043601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235550) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
