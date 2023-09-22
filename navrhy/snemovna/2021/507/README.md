@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-08-10 | 507/0 | Zpráva a jiné | [t050700.md](t050700.md), [t0507a0.md](t0507a0.md), [t0507b0.md](t0507b0.md) |
+| 2023-09-22 | 507/1 | Usnesení hospodářského výboru č. 185 ze dne 21. září 2023 k výroční zprávě o činnosti a účetní závěrce Státního fondu dopravní infrastruktury za rok 2021 | [t050701.md](t050701.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t050700.md](t050700.md) | 507/0 | Text | [t050700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230906) | pymupdf / pdftotext 1.0000 |
 | [t0507a0.md](t0507a0.md) | 507/0 | Text | [t0507a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230905) | pymupdf / pdftotext 1.0000 |
 | [t0507b0.md](t0507b0.md) | 507/0 | Text | [t0507b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230907) | pymupdf / pdftotext 1.0000 |
+| [t050701.md](t050701.md) | 507/1 | Text | [t050701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235661) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
