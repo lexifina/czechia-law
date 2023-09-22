@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-06-30 | 487/0 | Vládní návrh zákona | [t048700.md](t048700.md), [t0487a0.md](t0487a0.md), [t0487b0.md](t0487b0.md), [t0487c0.md](t0487c0.md), [t0487d0.md](t0487d0.md) |
+| 2023-09-22 | 487/1 | Usnesení hospodářského výboru č. 190 ze dne 21. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony | [t048701.md](t048701.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0487b0.md](t0487b0.md) | 487/0 | Platné znění s vyznačením změn | [t0487b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229238) | pymupdf / pdftotext 1.0000 |
 | [t0487c0.md](t0487c0.md) | 487/0 | Návrhy vyhlášek | [t0487c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229242) | pymupdf / pdftotext 1.0000 |
 | [t0487d0.md](t0487d0.md) | 487/0 | Kompatibilita s právem EU | [t0487d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229244) | pymupdf / pdftotext 1.0000 |
+| [t048701.md](t048701.md) | 487/1 | Text | [t048701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235667) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
