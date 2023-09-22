@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-22 | 409/3 | Usnesení hospodářského výboru č. 173 ze dne 22. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), ve znění pozdějších předpisů | [t040903.md](t040903.md) |
 | 2023-06-30 | 409/4 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 83 ze dne 30. června 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), ve znění pozdějších předpisů | [t040904.md](t040904.md) |
 | 2023-09-13 | 409/5 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), ve znění pozdějších předpisů | [t040905.md](t040905.md) |
+| 2023-09-22 | 409/6 | Usnesení garančního výboru č. 192 ze dne 21. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 72/2000 Sb., o investičních pobídkách a o změně některých zákonů (zákon o investičních pobídkách), ve znění pozdějších předpisů | [t040906.md](t040906.md) |
 
 ## Files
 
@@ -39,5 +40,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t040903.md](t040903.md) | 409/3 | Text | [t040903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228891) | pymupdf / pdftotext 1.0000 |
 | [t040904.md](t040904.md) | 409/4 | Text | [t040904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229199) | pymupdf / pdftotext 1.0000 |
 | [t040905.md](t040905.md) | 409/5 | Text | [t040905.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232221) | pymupdf / pdftotext 1.0000 |
+| [t040906.md](t040906.md) | 409/6 | Text | [t040906.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235669) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
