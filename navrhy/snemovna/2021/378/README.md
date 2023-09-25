@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-02-02 | 378/0 | Vládní návrh zákona | [t037800.md](t037800.md), [t0378a0.md](t0378a0.md) |
 | 2023-06-22 | 378/1 | Usnesení ústavně-právního výboru č. 103 ze dne 21. června 2023 k vládnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů, a ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky, ve znění ústavního zákona č. 300/2000 Sb. | [t037801.md](t037801.md) |
 | 2023-06-30 | 378/2 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 84 ze dne 30. června 2023 k vládnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů, a ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky, ve znění ústavního zákona č. 300/2000 Sb. | [t037802.md](t037802.md) |
+| 2023-09-25 | 378/3 | Usnesení stálé komise pro Ústavu České republiky č. 4 ze dne 20. září 2023 k vládnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů, a ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky, ve znění ústavního zákona č. 300/2000 Sb. | [t037803.md](t037803.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0378a0.md](t0378a0.md) | 378/0 | Platné znění s vyznačením změn | [t0378a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222782) | pymupdf / pdftotext 1.0000 |
 | [t037801.md](t037801.md) | 378/1 | Text | [t037801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228870) | pymupdf / pdftotext 1.0000 |
 | [t037802.md](t037802.md) | 378/2 | Text | [t037802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229202) | pymupdf / pdftotext 1.0000 |
+| [t037803.md](t037803.md) | 378/3 | Text | [t037803.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235738) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
