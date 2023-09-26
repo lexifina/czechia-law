@@ -1,0 +1,41 @@
+{
+  "listing": {
+    "jednaciCislo": "31 C 298/2023",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Jitka Skálová",
+    "ecli": "ECLI:CZ:OSPH05:2023:31.C.298.2023.1",
+    "predmetRizeni": "O zaplacení 22 100 Kč s příslušenstvím",
+    "datumVydani": "2023-09-26",
+    "datumZverejneni": "2023-12-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a098d21f-c7a0-4f7f-9b7b-41dc7f1cf4cc"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/a098d21f-c7a0-4f7f-9b7b-41dc7f1cf4cc",
+  "source_sha256": "12ff372cdd666ae095d29c2c715900f2bada27b34f75e9bf0375e34179f9a823",
+  "source_bytes": 27042,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
