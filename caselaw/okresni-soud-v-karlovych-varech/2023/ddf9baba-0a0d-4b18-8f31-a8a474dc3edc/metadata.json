@@ -1,0 +1,37 @@
+{
+  "listing": {
+    "jednaciCislo": "14 C 292/2023-13",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Vladimíra Fikkerová",
+    "ecli": "ECLI:CZ:OSKV:2023:14.C.292.2023.1",
+    "predmetRizeni": "169.780,85 Kč úvěr",
+    "datumVydani": "2023-09-26",
+    "datumZverejneni": "2023-12-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 2004 z. č. 89/2012 Sb.",
+      "§ 2001 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddf9baba-0a0d-4b18-8f31-a8a474dc3edc"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/ddf9baba-0a0d-4b18-8f31-a8a474dc3edc",
+  "source_sha256": "469a8a907c53ed54256b79e805871a8ff03e61964da651885705b9b36fec0826",
+  "source_bytes": 16740,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
