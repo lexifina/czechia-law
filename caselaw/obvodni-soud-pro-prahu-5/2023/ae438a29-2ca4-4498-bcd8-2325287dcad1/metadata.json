@@ -1,0 +1,43 @@
+{
+  "listing": {
+    "jednaciCislo": "31 C 287/2023",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Jitka Skálová",
+    "ecli": "ECLI:CZ:OSPH05:2023:31.C.287.2023.1",
+    "predmetRizeni": "O zaplacení 29 534 Kč s příslušenstvím",
+    "datumVydani": "2023-09-26",
+    "datumZverejneni": "2023-12-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 257/2016 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 1820 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae438a29-2ca4-4498-bcd8-2325287dcad1"
+  },
+  "source_url": "https://rozhodnuti.justice.cz/api/finaldoc/ae438a29-2ca4-4498-bcd8-2325287dcad1",
+  "source_sha256": "76b2e21f98d826f2846201b8c7130a06b1467ea95d14087b043f32993767f871",
+  "source_bytes": 30417,
+  "rendered_from": [
+    "header",
+    "verdict",
+    "justification",
+    "information"
+  ]
+}
