@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-10-02 | 551/0 | Návrh zákona | [t055100.md](t055100.md), [t0551a0.md](t0551a0.md) |
+| 2023-10-09 | 551/1 | Stanovisko vlády k návrhu poslanců Jana Berkiho, Ivana Bartoše, Jany Berkovcové, Zdeňka Kettnera, Pavla Klímy, Davida Šimka a Renáty Zajíčkové na vydání zákona, kterým se mění zákon č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů | [t055101.md](t055101.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t055100.md](t055100.md) | 551/0 | Návrh zákona včetně důvodové zprávy | [t055100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236091) | pymupdf / pdftotext 1.0000 |
 | [t0551a0.md](t0551a0.md) | 551/0 | Platné znění s vyznačením změn | [t0551a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236090) | pymupdf / pdftotext 1.0000 |
+| [t055101.md](t055101.md) | 551/1 | Stanovisko | [t055101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236340) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
