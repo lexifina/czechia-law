@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-27 | 454/1 | Stanovisko vlády k návrhu poslance Martina Kupky a dalších na vydání zákona, kterým se mění a ruší některé zákony v souvislosti se zrušením Úřadu pro přístup k dopravní infrastruktuře | [t045401.md](t045401.md) |
 | 2023-08-31 | 454/2 | Usnesení hospodářského výboru č. 182 ze dne 31. srpna 2023 k návrhu poslance Martina Kupky a dalších na vydání zákona, kterým se mění a ruší některé zákony v souvislosti se zrušením Úřadu pro přístup k dopravní infrastruktuře | [t045402.md](t045402.md) |
 | 2023-09-22 | 454/3 | Usnesení hospodářského výboru č. 191 ze dne 21. září 2023 k návrhu poslance Martina Kupky a dalších na vydání zákona, kterým se mění a ruší některé zákony v souvislosti se zrušením Úřadu pro přístup k dopravní infrastruktuře | [t045403.md](t045403.md) |
+| 2023-10-10 | 454/4 | Pozměňovací a jiné návrhy k návrhu poslance Martina Kupky a dalších na vydání zákona, kterým se mění a ruší některé zákony v souvislosti se zrušením Úřadu pro přístup k dopravní infrastruktuře | [t045404.md](t045404.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t045401.md](t045401.md) | 454/1 | Stanovisko | [t045401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229035) | pymupdf / pdftotext 1.0000 |
 | [t045402.md](t045402.md) | 454/2 | Text | [t045402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231489) | pymupdf / pdftotext 1.0000 |
 | [t045403.md](t045403.md) | 454/3 | Text | [t045403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235676) | pymupdf / pdftotext 1.0000 |
+| [t045404.md](t045404.md) | 454/4 | Text | [t045404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236498) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
