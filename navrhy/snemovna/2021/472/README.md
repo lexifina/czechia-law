@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2023-06-15 | 472/0 | Vládní návrh zákona | [t047200.md](t047200.md), [t0472a0.md](t0472a0.md), [t0472b0.md](t0472b0.md), [t0472c0.md](t0472c0.md) |
 | 2023-09-21 | 472/1 | Usnesení rozpočtového výboru č. 269 ze dne 20. září 2023 k vládnímu návrhu zákona o trhu s nevýkonnými úvěry | [t047201.md](t047201.md) |
+| 2023-10-11 | 472/2 | Usnesení rozpočtového výboru č. 275 ze dne 11. října 2023 k vládnímu návrhu zákona o trhu s nevýkonnými úvěry | [t047202.md](t047202.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0472b0.md](t0472b0.md) | 472/0 | Návrhy vyhlášek | [t0472b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228426) | pymupdf / pdftotext 1.0000 |
 | [t0472c0.md](t0472c0.md) | 472/0 | Kompatibilita s právem EU | [t0472c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228430) | pymupdf / pdftotext 1.0000 |
 | [t047201.md](t047201.md) | 472/1 | Text | [t047201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235472) | pymupdf / pdftotext 1.0000 |
+| [t047202.md](t047202.md) | 472/2 | Text | [t047202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236533) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
