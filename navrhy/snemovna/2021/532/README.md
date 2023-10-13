@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-09-11 | 532/0 | Návrh zákona | [t053200.md](t053200.md), [t0532a0.md](t0532a0.md) |
+| 2023-10-13 | 532/1 | Stanovisko vlády k návrhu poslanců Martina Baxy, Jana Laciny, Kláry Kocmanové, Pavla Svobody, Jaroslavy Pokorné Jermanové, Šimona Hellera na vydání zákona, kterým se mění zákon č. 496/2012 Sb., o audiovizuálních dílech a podpoře kinematografie a o změně některých zákonů (zákon o audiovizi), ve znění pozdějších předpisů | [t053201.md](t053201.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t053200.md](t053200.md) | 532/0 | Návrh zákona včetně důvodové zprávy | [t053200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232118) | pymupdf / pdftotext 1.0000 |
 | [t0532a0.md](t0532a0.md) | 532/0 | Platné znění s vyznačením změn | [t0532a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232119) | pymupdf / pdftotext 1.0000 |
+| [t053201.md](t053201.md) | 532/1 | Stanovisko | [t053201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236718) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
