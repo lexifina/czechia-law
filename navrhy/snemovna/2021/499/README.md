@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-09-01 | 499/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 90 ze dne 31. srpna 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů, zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, a zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů | [t049901.md](t049901.md) |
 | 2023-09-21 | 499/2 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 91 ze dne 21. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů, zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, a zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů | [t049902.md](t049902.md) |
 | 2023-09-27 | 499/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů, zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, a zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů | [t049903.md](t049903.md) |
+| 2023-10-19 | 499/4 | Usnesení garančního výboru č. 94 ze dne 18. října 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů, zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů, a zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů | [t049904.md](t049904.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t049901.md](t049901.md) | 499/1 | Text | [t049901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231522) | pymupdf / pdftotext 1.0000 |
 | [t049902.md](t049902.md) | 499/2 | Text | [t049902.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235581) | pymupdf / pdftotext 1.0000 |
 | [t049903.md](t049903.md) | 499/3 | Text | [t049903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235900) | pymupdf / pdftotext 1.0000 |
+| [t049904.md](t049904.md) | 499/4 | Text | [t049904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236922) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
