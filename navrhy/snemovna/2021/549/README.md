@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-09-29 | 549/0 | Státní rozpočet | [t054900.md](t054900.md), [t0549a0.md](t0549a0.md), [t0549b0.md](t0549b0.md), [t0549c0.md](t0549c0.md), [t0549d0.md](t0549d0.md), [t0549e0.md](t0549e0.md), [t0549f0.md](t0549f0.md), [t0549g0.md](t0549g0.md), [t0549h0.md](t0549h0.md), [t0549i0.md](t0549i0.md), [t0549j0.md](t0549j0.md), [t0549k0.md](t0549k0.md), [t0549l0.md](t0549l0.md), [t0549m0.md](t0549m0.md), [t0549n0.md](t0549n0.md), [t0549o0.md](t0549o0.md), [t0549p0.md](t0549p0.md), [t0549q0.md](t0549q0.md), [t0549r0.md](t0549r0.md), [t0549s0.md](t0549s0.md), [t0549t0.md](t0549t0.md), [t0549u0.md](t0549u0.md), [t0549v0.md](t0549v0.md), [t0549w0.md](t0549w0.md) |
+| 2023-10-19 | 549/1 | Usnesení rozpočtového výboru č. 279 ze dne 18. října 2023 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2024 | [t054901.md](t054901.md) |
 
 ## Files
 
@@ -51,5 +52,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0549u0.md](t0549u0.md) | 549/0 | Dokumentace, část č. 7 | [t0549u0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235988) | pymupdf / pdftotext 1.0000 |
 | [t0549v0.md](t0549v0.md) | 549/0 | Dokumentace, část č. 8 | [t0549v0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235949) | pymupdf / pdftotext 1.0000 |
 | [t0549w0.md](t0549w0.md) | 549/0 | Dokumentace, část č. 8 | [t0549w0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235963) | pymupdf / pdftotext 1.0000 |
+| [t054901.md](t054901.md) | 549/1 | Text | [t054901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236914) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
