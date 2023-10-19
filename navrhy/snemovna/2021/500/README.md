@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-07-26 | 500/0 | Zpráva a jiné | [t050000.md](t050000.md) |
+| 2023-10-19 | 500/1 | Usnesení výboru pro mediální záležitosti č. 106 ze dne 19. října 2023 k výroční zprávě o hospodaření České televize v roce 2022 | [t050001.md](t050001.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t050000.md](t050000.md) | 500/0 | Text | [t050000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230571) | pymupdf / pdftotext 0.9999 |
+| [t050001.md](t050001.md) | 500/1 | Text | [t050001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236960) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
