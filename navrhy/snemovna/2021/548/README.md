@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-09-26 | 548/0 | Vládní návrh zákona | [t054800.md](t054800.md), [t0548a0.md](t0548a0.md), [t0548b0.md](t0548b0.md), [t0548c0.md](t0548c0.md) |
+| 2023-10-19 | 548/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 95 ze dne 18. října 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t054801.md](t054801.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0548a0.md](t0548a0.md) | 548/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0548a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235810) | pymupdf / pdftotext 1.0000 |
 | [t0548b0.md](t0548b0.md) | 548/0 | Platné znění s vyznačením změn | [t0548b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235803) | pymupdf / pdftotext 1.0000 |
 | [t0548c0.md](t0548c0.md) | 548/0 | Další | [t0548c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235808) | pymupdf / pdftotext 1.0000 |
+| [t054801.md](t054801.md) | 548/1 | Text | [t054801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236925) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
