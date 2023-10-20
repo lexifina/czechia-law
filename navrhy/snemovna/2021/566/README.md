@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-10-13 | 566/0 | Jiné podklady | [t056600.md](t056600.md), [t0566a0.md](t0566a0.md), [t0566b0.md](t0566b0.md) |
+| 2023-10-20 | 566/1 | Usnesení výboru pro obranu č. 151 ze dne 19. října 2023 k návrhu na působení sil a prostředků rezortu Ministerstva obrany v zahraničních operacích a na pobyt ozbrojených sil jiných států na území České republiky v letech 2023 a 2024 | [t056601.md](t056601.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t056600.md](t056600.md) | 566/0 | Návrh usnesení Poslanecké sněmovny | [t056600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236713) | pymupdf / pdftotext 1.0000 |
 | [t0566a0.md](t0566a0.md) | 566/0 | Text | [t0566a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236708) | pymupdf / pdftotext 1.0000 |
 | [t0566b0.md](t0566b0.md) | 566/0 | Text | [t0566b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236711) | pymupdf / pdftotext 1.0000 |
+| [t056601.md](t056601.md) | 566/1 | Text | [t056601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237058) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
