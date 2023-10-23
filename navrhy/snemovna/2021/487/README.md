@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-30 | 487/0 | Vládní návrh zákona | [t048700.md](t048700.md), [t0487a0.md](t0487a0.md), [t0487b0.md](t0487b0.md), [t0487c0.md](t0487c0.md), [t0487d0.md](t0487d0.md) |
 | 2023-09-22 | 487/1 | Usnesení hospodářského výboru č. 190 ze dne 21. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony | [t048701.md](t048701.md) |
 | 2023-10-18 | 487/2 | Usnesení výboru pro životní prostředí č. 94 ze dne 18. října 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony | [t048702.md](t048702.md) |
+| 2023-10-23 | 487/3 | Usnesení hospodářského výboru č. 195 ze dne 19. října 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony | [t048703.md](t048703.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0487d0.md](t0487d0.md) | 487/0 | Kompatibilita s právem EU | [t0487d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229244) | pymupdf / pdftotext 1.0000 |
 | [t048701.md](t048701.md) | 487/1 | Text | [t048701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235667) | pymupdf / pdftotext 1.0000 |
 | [t048702.md](t048702.md) | 487/2 | Text | [t048702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236889) | pymupdf / pdftotext 1.0000 |
+| [t048703.md](t048703.md) | 487/3 | Text | [t048703.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237077) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
