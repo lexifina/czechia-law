@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-09-25 | 410/3 | Usnesení hospodářského výboru č. 194 ze dne 21. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon), ve znění pozdějších předpisů | [t041003.md](t041003.md) |
 | 2023-10-13 | 410/4 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon), ve znění pozdějších předpisů | [t041004.md](t041004.md) |
 | 2023-10-20 | 410/5 | Usnesení garančního výboru č. 199 ze dne 19. října 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon), ve znění pozdějších předpisů | [t041005.md](t041005.md) |
+| 2023-10-23 | 410/6 | Usnesení hospodářského výboru č. 200 ze dne 19. října 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon), ve znění pozdějších předpisů | [t041006.md](t041006.md) |
 
 ## Files
 
@@ -40,5 +41,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t041003.md](t041003.md) | 410/3 | Text | [t041003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235718) | pymupdf / pdftotext 1.0000 |
 | [t041004.md](t041004.md) | 410/4 | Text | [t041004.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236704) | pymupdf / pdftotext 1.0000 |
 | [t041005.md](t041005.md) | 410/5 | Text | [t041005.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237044) | pymupdf / pdftotext 1.0000 |
+| [t041006.md](t041006.md) | 410/6 | Text | [t041006.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237074) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
