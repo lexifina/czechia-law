@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-15 | 475/0 | Vládní návrh zákona | [t047500.md](t047500.md), [t0475a0.md](t0475a0.md), [t0475b0.md](t0475b0.md) |
 | 2023-09-26 | 475/1 | Záznam z jednání výboru pro sociální politiku č. 127 ze dne 26. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a další související zákony | [t047501.md](t047501.md) |
 | 2023-10-10 | 475/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a další související zákony | [t047502.md](t047502.md) |
+| 2023-10-24 | 475/3 | Usnesení garančního výboru č. 128 ze dne 24. října 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů, a další související zákony | [t047503.md](t047503.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0475b0.md](t0475b0.md) | 475/0 | Platné znění s vyznačením změn | [t0475b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228468) | pymupdf / pdftotext 1.0000 |
 | [t047501.md](t047501.md) | 475/1 | Text | [t047501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235867) | pymupdf / pdftotext 1.0000 |
 | [t047502.md](t047502.md) | 475/2 | Text | [t047502.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236504) | pymupdf / pdftotext 1.0000 |
+| [t047503.md](t047503.md) | 475/3 | Text | [t047503.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237223) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
