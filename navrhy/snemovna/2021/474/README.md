@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-15 | 474/0 | Vládní návrh zákona | [t047400.md](t047400.md), [t0474a0.md](t0474a0.md), [t0474b0.md](t0474b0.md), [t0474c0.md](t0474c0.md), [t0474d0.md](t0474d0.md), [t0474e0.md](t0474e0.md), [t0474f0.md](t0474f0.md) |
 | 2023-09-22 | 474/1 | Usnesení rozpočtového výboru č. 268 ze dne 20. září 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s rozvojem finančního trhu a s podporou zajištění na stáří | [t047401.md](t047401.md) |
 | 2023-10-25 | 474/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s rozvojem finančního trhu a s podporou zajištění na stáří | [t047402.md](t047402.md) |
+| 2023-11-01 | 474/3 | Usnesení garančního výboru č. 290 ze dne 1. listopadu 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s rozvojem finančního trhu a s podporou zajištění na stáří | [t047403.md](t047403.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0474f0.md](t0474f0.md) | 474/0 | Kompatibilita s právem EU | [t0474f0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228463) | pymupdf / pdftotext 1.0000 |
 | [t047401.md](t047401.md) | 474/1 | Text | [t047401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235602) | pymupdf / pdftotext 1.0000 |
 | [t047402.md](t047402.md) | 474/2 | Text | [t047402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237242) | pymupdf / pdftotext 1.0000 |
+| [t047403.md](t047403.md) | 474/3 | Text | [t047403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237600) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
