@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-10-17 | 568/0 | Zpráva a jiné | [t056800.md](t056800.md) |
+| 2023-11-02 | 568/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 158 ze dne 1. listopadu 2023 ke zprávě o činnosti kontrolní rady Grantové agentury ČR za období říjen 2022 – září 2023 | [t056801.md](t056801.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t056800.md](t056800.md) | 568/0 | Text | [t056800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236806) | pymupdf / pdftotext 1.0000 |
+| [t056801.md](t056801.md) | 568/1 | Text | [t056801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237660) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
