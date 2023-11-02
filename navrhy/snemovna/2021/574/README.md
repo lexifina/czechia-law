@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-10-25 | 574/0 | Zpráva a jiné | [t057400.md](t057400.md), [t0574a0.md](t0574a0.md), [t0574b0.md](t0574b0.md), [t0574c0.md](t0574c0.md) |
+| 2023-11-02 | 574/1 | Usnesení výboru pro životní prostředí č. 99 ze dne 1. listopadu 2023 k návrhu rozpočtu Státního fondu životního prostředí ČR na rok 2024 a střednědobého výhledu SFŽP ČR na roky 2025–2026 | [t057401.md](t057401.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0574a0.md](t0574a0.md) | 574/0 | Text | [t0574a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237257) | pymupdf / pdftotext 1.0000 |
 | [t0574b0.md](t0574b0.md) | 574/0 | Text | [t0574b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237256) | pymupdf / pdftotext 1.0000 |
 | [t0574c0.md](t0574c0.md) | 574/0 | Další | [t0574c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237255) | pymupdf / pdftotext 1.0000 |
+| [t057401.md](t057401.md) | 574/1 | Text | [t057401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237755) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
