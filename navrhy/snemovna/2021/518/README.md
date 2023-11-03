@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2023-08-23 | 518/0 | Vládní návrh zákona | [t051800.md](t051800.md), [t0518a0.md](t0518a0.md), [t0518b0.md](t0518b0.md), [t0518c0.md](t0518c0.md) |
 | 2023-10-20 | 518/1 | Usnesení hospodářského výboru č. 197 ze dne 19. října 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o pojištění odpovědnosti z provozu vozidla | [t051801.md](t051801.md) |
+| 2023-11-03 | 518/2 | Usnesení hospodářského výboru č. 215 ze dne 2. listopadu 2023 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o pojištění odpovědnosti z provozu vozidla | [t051802.md](t051802.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0518b0.md](t0518b0.md) | 518/0 | Platné znění s vyznačením změn | [t0518b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231129) | pymupdf / pdftotext 1.0000 |
 | [t0518c0.md](t0518c0.md) | 518/0 | Další | [t0518c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231126) | pymupdf / pdftotext 1.0000 |
 | [t051801.md](t051801.md) | 518/1 | Text | [t051801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237039) | pymupdf / pdftotext 1.0000 |
+| [t051802.md](t051802.md) | 518/2 | Text | [t051802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237883) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
