@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-10-12 | 563/0 | Zpráva a jiné | [t056300.md](t056300.md), [t0563a0.md](t0563a0.md), [t0563b0.md](t0563b0.md), [t0563c0.md](t0563c0.md) |
+| 2023-11-03 | 563/1 | Usnesení hospodářského výboru č. 211 ze dne 2. listopadu 2023 k rozpočtu Státního fondu dopravní infrastruktury na rok 2024 a střednědobému výhledu na roky 2025 a 2026 | [t056301.md](t056301.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0563a0.md](t0563a0.md) | 563/0 | Text | [t0563a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236570) | pymupdf / pdftotext 1.0000 |
 | [t0563b0.md](t0563b0.md) | 563/0 | Text | [t0563b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236566) | pymupdf / pdftotext 1.0000 |
 | [t0563c0.md](t0563c0.md) | 563/0 | Další | [t0563c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236565) | pymupdf / pdftotext 1.0000 |
+| [t056301.md](t056301.md) | 563/1 | Text | [t056301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237871) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
