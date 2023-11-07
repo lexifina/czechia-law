@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2023-05-31 | 459/0 | Vládní návrh zákona | [t045900.md](t045900.md), [t0459a0.md](t0459a0.md), [t0459b0.md](t0459b0.md), [t0459c0.md](t0459c0.md) |
 | 2023-09-22 | 459/1 | Usnesení ústavně-právního výboru č. 113 ze dne 20. září 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 125/2008 Sb., o přeměnách obchodních společností a družstev, ve znění pozdějších předpisů, a další související zákony | [t045901.md](t045901.md) |
+| 2023-11-07 | 459/2 | Usnesení ústavně-právního výboru č. 121 ze dne 1. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 125/2008 Sb., o přeměnách obchodních společností a družstev, ve znění pozdějších předpisů, a další související zákony | [t045902.md](t045902.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0459b0.md](t0459b0.md) | 459/0 | Návrhy vyhlášek | [t0459b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220205) | pymupdf / pdftotext 1.0000 |
 | [t0459c0.md](t0459c0.md) | 459/0 | Kompatibilita s právem EU | [t0459c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=220244) | pymupdf / pdftotext 1.0000 |
 | [t045901.md](t045901.md) | 459/1 | Text | [t045901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235679) | pymupdf / pdftotext 1.0000 |
+| [t045902.md](t045902.md) | 459/2 | Text | [t045902.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238053) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
