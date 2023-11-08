@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-09-29 | 550/0 | Zpráva a jiné | [t055000.md](t055000.md), [t0550a0.md](t0550a0.md), [t0550b0.md](t0550b0.md), [t0550c0.md](t0550c0.md) |
+| 2023-11-08 | 550/1 | Usnesení rozpočtového výboru č. 302 ze dne 8. listopadu 2023 ke střednědobému výhledu státního rozpočtu České republiky na léta 2025 a 2026 | [t055001.md](t055001.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0550a0.md](t0550a0.md) | 550/0 | Text | [t0550a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235999) | pymupdf / pdftotext 1.0000 |
 | [t0550b0.md](t0550b0.md) | 550/0 | Text | [t0550b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236000) | pymupdf / pdftotext 1.0000 |
 | [t0550c0.md](t0550c0.md) | 550/0 | Text | [t0550c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236001) | pymupdf / pdftotext 1.0000 |
+| [t055001.md](t055001.md) | 550/1 | Text | [t055001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238218) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
