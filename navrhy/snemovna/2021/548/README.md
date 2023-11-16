@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-11-03 | 548/2 | Záznam výboru pro veřejnou správu a regionální rozvoj č. 98 ze dne 2. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t054802.md](t054802.md) |
 | 2023-11-15 | 548/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t054803.md](t054803.md) |
 | 2023-11-16 | 548/4 | Usnesení garančního výboru č. 102 ze dne 16. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t054804.md](t054804.md) |
+| 2023-11-16 | 548/5 | Usnesení garančního výboru č. 102 ze dne 16. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 12/2020 Sb., o právu na digitální služby a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t054805.md](t054805.md) |
 
 ## Files
 
@@ -39,5 +40,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t054802.md](t054802.md) | 548/2 | Text | [t054802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237861) | pymupdf / pdftotext 1.0000 |
 | [t054803.md](t054803.md) | 548/3 | Text | [t054803.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238664) | pymupdf / pdftotext 1.0000 |
 | [t054804.md](t054804.md) | 548/4 | Text | [t054804.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238833) | pymupdf / pdftotext 1.0000 |
+| [t054805.md](t054805.md) | 548/5 | Text | [t054805.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238857) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
