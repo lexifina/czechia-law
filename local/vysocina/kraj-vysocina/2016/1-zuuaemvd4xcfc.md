@@ -20,6 +20,7 @@ text_url: "https://sbirkapp.gov.cz/detail/SPPZUUAEMVD4XCFC/text"
 soubor: "ozv-01-2016.pdf"
 soubor_sha256: "2a2e9bd4de41840b5e44b72a2d300297b0d2190ef6d58bb0b86003f912e0515f"
 ziskani_textu: "pdf-text"
+zmeneno: "Obecně závazná vyhláška Kraje Vysočina č. 3/2023 (účinnost 2023-11-23, https://sbirkapp.gov.cz/detail/SPPAR4SVNY5RGQG6)"
 ---
 
 # kterou se vyhlašuje závazná část Plánu odpadového hospodářství Kraje Vysočina pro období od roku 2016
