@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-10-19 | 549/1 | Usnesení rozpočtového výboru č. 279 ze dne 18. října 2023 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2024 | [t054901.md](t054901.md) |
 | 2023-11-08 | 549/2 | Usnesení rozpočtového výboru č. 300 ze dne 8. listopadu 2023 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2024 | [t054902.md](t054902.md), [t0549a2.md](t0549a2.md), [t0549b2.md](t0549b2.md) |
 | 2023-11-23 | 549/3 | Návrh usnesení a pozměňovací návrhy k vládnímu návrhu zákona o státním rozpočtu ČR na rok 2024  a k vládnímu návrhu státního rozpočtu České republiky na rok 2024 přednesené v rozpravě ve 2. čtení | [t054903.md](t054903.md), [t0549a3.md](t0549a3.md), [t0549b3.md](t0549b3.md) |
+| 2023-11-23 | 549/4 | Návrh doprovodného usnesení k vládnímu návrhu zákona o státním rozpočtu ČR na rok 2024  a k vládnímu návrhu státního rozpočtu České republiky na rok 2024 | [t054904.md](t054904.md) |
 
 ## Files
 
@@ -61,5 +62,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t054903.md](t054903.md) | 549/3 | Text | [t054903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239101) | pymupdf / pdftotext 1.0000 |
 | [t0549a3.md](t0549a3.md) | 549/3 | Text | [t0549a3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239100) | pymupdf / pdftotext 1.0000 |
 | [t0549b3.md](t0549b3.md) | 549/3 | Text | [t0549b3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239099) | pymupdf / pdftotext 1.0000 |
+| [t054904.md](t054904.md) | 549/4 | Text | [t054904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239106) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
