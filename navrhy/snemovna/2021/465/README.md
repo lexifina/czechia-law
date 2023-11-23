@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-06-05 | 465/0 | Vládní návrh zákona | [t046500.md](t046500.md), [t0465a0.md](t0465a0.md), [t0465b0.md](t0465b0.md), [t0465c0.md](t0465c0.md) |
+| 2023-11-23 | 465/1 | Usnesení výboru pro bezpečnost č. 128 ze dne 23. listopadu 2023 k vládnímu návrhu zákona o zbraních a střelivu | [t046501.md](t046501.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0465a0.md](t0465a0.md) | 465/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0465a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223045) | pymupdf / pdftotext 1.0000 |
 | [t0465b0.md](t0465b0.md) | 465/0 | Návrhy vyhlášek | [t0465b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223099) | pymupdf / pdftotext 1.0000 |
 | [t0465c0.md](t0465c0.md) | 465/0 | Kompatibilita s právem EU | [t0465c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223130) | pymupdf / pdftotext 1.0000 |
+| [t046501.md](t046501.md) | 465/1 | Text | [t046501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239095) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
