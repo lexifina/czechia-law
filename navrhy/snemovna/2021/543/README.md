@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-09-20 | 543/0 | Vládní návrh zákona | [t054300.md](t054300.md), [t0543a0.md](t0543a0.md), [t0543b0.md](t0543b0.md) |
 | 2023-11-02 | 543/1 | Usnesení výboru pro bezpečnost č. 121 ze dne 2. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění pozdějších předpisů, a další související zákony | [t054301.md](t054301.md) |
 | 2023-11-15 | 543/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění pozdějších předpisů, a další související zákony | [t054302.md](t054302.md) |
+| 2023-11-23 | 543/3 | Usnesení garančního výboru č. 126 ze dne 23. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 65/2022 Sb., o některých opatřeních v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invazí vojsk Ruské federace, ve znění pozdějších předpisů, a další související zákony | [t054303.md](t054303.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0543b0.md](t0543b0.md) | 543/0 | Kompatibilita s právem EU | [t0543b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235408) | pymupdf / pdftotext 1.0000 |
 | [t054301.md](t054301.md) | 543/1 | Text | [t054301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237706) | pymupdf / pdftotext 1.0000 |
 | [t054302.md](t054302.md) | 543/2 | Text | [t054302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238647) | pymupdf / pdftotext 1.0000 |
+| [t054303.md](t054303.md) | 543/3 | Text | [t054303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239082) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
