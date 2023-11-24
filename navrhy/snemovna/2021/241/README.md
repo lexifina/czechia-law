@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2022-07-01 | 241/1 | Stanovisko vlády k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové,  Olgy Richterové, Martina Baxy a Jany Pastuchové na vydání zákona, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony | [t024101.md](t024101.md) |
 | 2023-11-07 | 241/2 | Usnesení ústavně-právního výboru č. 123 ze dne 1. listopadu 2023 k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové,  Olgy Richterové, Martina Baxy a Jany Pastuchové na vydání zákona, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony | [t024102.md](t024102.md) |
 | 2023-11-07 | 241/3 | Usnesení stálé komise pro rodinu a rovné příležitosti č. 38 ze dne 1. listopadu 2023 k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové,  Olgy Richterové, Martina Baxy a Jany Pastuchové na vydání zákona, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony | [t024103.md](t024103.md) |
+| 2023-11-24 | 241/4 | Záznam ústavně-právního výboru č. 128 ze dne 22. listopadu 2023 k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové, Olgy Richterové, Martina Baxy a Jany Pastuchové na vydání zákona, kterým se mění zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů, a další související zákony | [t024104.md](t024104.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t024101.md](t024101.md) | 241/1 | Stanovisko | [t024101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=214501) | pymupdf / pdftotext 1.0000 |
 | [t024102.md](t024102.md) | 241/2 | Text | [t024102.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238059) | pymupdf / pdftotext 1.0000 |
 | [t024103.md](t024103.md) | 241/3 | Text | [t024103.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238074) | pymupdf / pdftotext 1.0000 |
+| [t024104.md](t024104.md) | 241/4 | Text | [t024104.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239200) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
