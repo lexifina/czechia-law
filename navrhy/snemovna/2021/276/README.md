@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-09-25 | 276/2 | Usnesení stálé komise pro Ústavu České republiky č. 5 ze dne 20. září 2023 k návrhu poslanců Marka Výborného, Marka Bendy, Vlastimila Válka, Aleše Juchelky a Aleše Dufka na vydání ústavního zákona, kterým se mění Listina základních práv a svobod, ve znění ústavního zákona č. 162/1998 Sb. a ústavního zákona č. 295/2021 Sb. | [t027602.md](t027602.md) |
 | 2023-11-07 | 276/3 | Usnesení ústavně-právního výboru č. 124 ze dne 1. listopadu 2023 k návrhu poslanců Marka Výborného, Marka Bendy, Vlastimila Válka, Aleše Juchelky a Aleše Dufka na vydání ústavního zákona, kterým se mění Listina základních práv a svobod, ve znění ústavního zákona č. 162/1998 Sb. a ústavního zákona č. 295/2021 Sb. | [t027603.md](t027603.md) |
 | 2023-11-07 | 276/4 | Usnesení stálé komise pro rodinu a rovné příležitosti č. 39 ze dne 1. listopadu 2023 k návrhu poslanců Marka Výborného, Marka Bendy, Vlastimila Válka, Aleše Juchelky a Aleše Dufka na vydání ústavního zákona, kterým se mění Listina základních práv a svobod, ve znění ústavního zákona č. 162/1998 Sb. a ústavního zákona č. 295/2021 Sb. | [t027604.md](t027604.md) |
+| 2023-11-24 | 276/5 | Usnesení ústavně-právního výboru č. 129 ze dne 22. listopadu 2023 k návrhu poslanců Marka Výborného, Marka Bendy, Vlastimila Válka, Aleše Juchelky a Aleše Dufka na vydání ústavního zákona, kterým se mění Listina základních práv a svobod, ve znění ústavního zákona č. 162/1998 Sb. a ústavního zákona č. 295/2021 Sb. | [t027605.md](t027605.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t027602.md](t027602.md) | 276/2 | Text | [t027602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235742) | pymupdf / pdftotext 1.0000 |
 | [t027603.md](t027603.md) | 276/3 | Text | [t027603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238063) | pymupdf / pdftotext 1.0000 |
 | [t027604.md](t027604.md) | 276/4 | Text | [t027604.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238079) | pymupdf / pdftotext 1.0000 |
+| [t027605.md](t027605.md) | 276/5 | Text | [t027605.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239203) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
