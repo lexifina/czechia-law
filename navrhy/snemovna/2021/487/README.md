@@ -26,6 +26,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-10-23 | 487/4 | Usnesení hospodářského výboru č. 202 ze dne 19. října 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony | [t048704.md](t048704.md) |
 | 2023-11-02 | 487/5 | Usnesení výboru pro životní prostředí č. 96 ze dne 1. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony | [t048705.md](t048705.md) |
 | 2023-11-15 | 487/6 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony | [t048706.md](t048706.md) |
+| 2023-11-24 | 487/7 | Usnesení garančního výboru č. 218 ze dne 23. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony | [t048707.md](t048707.md) |
 
 ## Files
 
@@ -44,5 +45,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t048704.md](t048704.md) | 487/4 | Text | [t048704.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237079) | pymupdf / pdftotext 1.0000 |
 | [t048705.md](t048705.md) | 487/5 | Text | [t048705.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237752) | pymupdf / pdftotext 1.0000 |
 | [t048706.md](t048706.md) | 487/6 | Text | [t048706.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238772) | pymupdf / pdftotext 1.0000 |
+| [t048707.md](t048707.md) | 487/7 | Text | [t048707.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239154) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
