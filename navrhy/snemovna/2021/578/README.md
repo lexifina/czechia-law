@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-10-31 | 578/0 | Zpráva a jiné | [t057800.md](t057800.md), [t0578a0.md](t0578a0.md), [t0578b0.md](t0578b0.md), [t0578c0.md](t0578c0.md), [t0578d0.md](t0578d0.md), [t0578e0.md](t0578e0.md), [t0578f0.md](t0578f0.md), [t0578g0.md](t0578g0.md), [t0578h0.md](t0578h0.md), [t0578i0.md](t0578i0.md), [t0578j0.md](t0578j0.md), [t0578k0.md](t0578k0.md), [t0578l0.md](t0578l0.md) |
+| 2023-12-11 | 578/1 | Usnesení výboru pro zdravotnictví č. 118 ze dne 6. prosince 2023 k návrhům výročních zpráv a účetních závěrek zdravotních pojišťoven za rok 2022 s vyjádřením vlády spolu s hodnocením návrhů výročních zpráv a účetních závěrek za rok 2022 a tabulkovými přílohami | [t057801.md](t057801.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0578j0.md](t0578j0.md) | 578/0 | Další | [t0578j0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237546) | pymupdf / pdftotext 1.0000 |
 | [t0578k0.md](t0578k0.md) | 578/0 | Další | [t0578k0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237544) | pymupdf / pdftotext 1.0000 |
 | [t0578l0.md](t0578l0.md) | 578/0 | Další | [t0578l0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237550) | pymupdf / pdftotext 1.0000 |
+| [t057801.md](t057801.md) | 578/1 | Text | [t057801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239969) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
