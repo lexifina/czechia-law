@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2023-05-04 | 439/0 | Vládní návrh zákona | [t043900.md](t043900.md), [t0439a0.md](t0439a0.md), [t0439b0.md](t0439b0.md), [t0439c0.md](t0439c0.md) |
 | 2023-11-08 | 439/1 | Usnesení rozpočtového výboru č. 298 ze dne 8. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů | [t043901.md](t043901.md) |
+| 2023-12-13 | 439/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů | [t043902.md](t043902.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0439b0.md](t0439b0.md) | 439/0 | Platné znění s vyznačením změn | [t0439b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228076) | pymupdf / pdftotext 1.0000 |
 | [t0439c0.md](t0439c0.md) | 439/0 | Kompatibilita s právem EU | [t0439c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=228079) | pymupdf / pdftotext 1.0000 |
 | [t043901.md](t043901.md) | 439/1 | Text | [t043901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=238203) | pymupdf / pdftotext 1.0000 |
+| [t043902.md](t043902.md) | 439/2 | Text | [t043902.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240155) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
