@@ -26,6 +26,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-29 | 367/4 | Usnesení výboru pro životní prostředí č. 88 ze dne 29. června 2023 k vládnímu návrhu zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu | [t036704.md](t036704.md) |
 | 2023-09-15 | 367/5 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu | [t036705.md](t036705.md) |
 | 2023-09-22 | 367/6 | Usnesení garančního výboru č. 193 ze dne 21. září 2023 k vládnímu návrhu zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu | [t036706.md](t036706.md) |
+| 2023-12-21 | 367/7 | Návrh zákona o řízeních souvisejících s hlubinným úložištěm radioaktivního odpadu, vrácený Senátem | [t036707.md](t036707.md) |
 
 ## Files
 
@@ -41,5 +42,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t036704.md](t036704.md) | 367/4 | Text | [t036704.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=229167) | pymupdf / pdftotext 1.0000 |
 | [t036705.md](t036705.md) | 367/5 | Text | [t036705.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235340) | pymupdf / pdftotext 1.0000 |
 | [t036706.md](t036706.md) | 367/6 | Text | [t036706.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235673) | pymupdf / pdftotext 1.0000 |
+| [t036707.md](t036707.md) | 367/7 | Text | [t036707.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240414) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
