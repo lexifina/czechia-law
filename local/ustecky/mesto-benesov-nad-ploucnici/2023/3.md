@@ -1,0 +1,124 @@
+---
+citace: "Obecně závazná vyhláška města Benešov nad Ploučnicí č. 3/2023"
+nazev: "o místním poplatku za obecní systém odpadového hospodářství"
+druh: "Obecně závazná vyhláška"
+cislo: "3/2023"
+vydavatel: "Město Benešov nad Ploučnicí"
+ico: "00261181"
+kraj: "Ústecký kraj"
+zmocneni: ["zákon č. 565/1990 Sb., o místních poplatcích - § 14 - za obecní systém odpadového hospodářství"]
+oblast: ["místní poplatek za obecní systém odpadového hospodářství"]
+vydano: "2023-09-13"
+zverejneno_ve_sbirce: "2023-10-06"
+ucinnost: "2024-01-01"
+sppsu_id: "SPP3NGPTYCULV5UK"
+verze: "1"
+url: "https://sbirkapp.gov.cz/detail/SPP3NGPTYCULV5UK"
+text_url: "https://sbirkapp.gov.cz/detail/SPP3NGPTYCULV5UK/text"
+soubor: "benesov-nad-ploucnici-ozv-mp-za-osoh-2023.docx"
+soubor_sha256: "bf1b16c0d3ee45eb3a68f5d9c56de1b7afa2e8667d4dc37074c1034279c25562"
+ziskani_textu: "docx"
+---
+
+# o místním poplatku za obecní systém odpadového hospodářství
+
+M Ě S T O   B E N E Š O V   N A D   P L O U Č N I C Í
+
+ZASTUPITELSTVO MĚSTA BENEŠOV NAD PLOUČNICÍ
+
+Obecně závazná vyhláška
+
+o místním poplatku za obecní systém odpadového hospodářství
+
+Zastupitelstvo města Benešov nad Ploučnicí se na svém zasedání dne 13.9.2023 usneslo usnesením č. 76/2023 vydat na základě § 14 zákona č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů (dále jen „zákon o místních poplatcích“), a v souladu s ustanovením § 10 písm. d) a § 84 odst. 2 písm. h) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, tuto obecně závaznou vyhlášku (dále jen „vyhláška“):
+
+Článek 1
+
+Úvodní ustanovení
+
+Město Benešov nad Ploučnicí touto vyhláškou zavádí místní poplatek za obecní systém odpadového hospodářství (dále jen „poplatek“).)
+
+Správce poplatku je Městský úřad Benešov nad Ploučnicí.)
+
+Poplatkové období) a dílčí období) vymezuje zákon.
+
+Článek 2
+
+Poplatník
+
+Poplatníka vymezuje zákon.)
+
+Článek 3
+
+Ohlašovací povinnost
+
+Poplatník je povinen podat správci poplatku ohlášení do 15 dnů od vzniku poplatkové povinnosti. Ve stejné lhůtě se ohlašuje nárok na osvobození, existoval-li důvod osvobození v okamžiku vzniku poplatkové povinnosti.
+
+Obsah ohlášení upravuje zákon.)
+
+Postup při změně) údajů uvedených v ohlášení upravuje zákon.)
+
+Důsledky nesplnění ohlašovací povinnosti ke vzniku osvobození stanoví zákon.)
+
+Článek 4
+
+Výpočet výše poplatku
+
+Poplatek činí 720 Kč za poplatkové období.
+
+Postup pro zjištění výše poplatku v případě osvobození, nebo vzniku nebo zániku poplatkové povinnosti v průběhu kalendářního roku stanoví zákon.)
+
+Článek 5
+
+Osvobození
+
+Důvody osvobození od poplatku stanoví zákon.)
+
+Od poplatku se dále touto vyhláškou) osvobozují na dobu trvání důvodu osvobození poplatníci:
+
+za kalendářní měsíc narození a za kalendářní měsíc následující bezprostředně po kalendářním měsíci narození;
+
+dle § 10e písm. a) zákona o místních poplatcích, kteří pobývají déle než 6 po sobě následujících měsíců ve zdravotnickém zařízení nebo zařízení sociálních služeb;
+
+dle § 10e písm. a) zákona o místních poplatcích, kteří déle než 6 po sobě následujících měsíců pobývají mimo území České republiky;
+
+dle 10e písm. b) zákona o místních poplatcích, jsou-li zároveň ve městě Benešov nad Ploučnicí poplatníky dle § 10e písm. a) zákona o místních poplatcích; další hmotně-právní podmínkou pro vznik nebo trvání tohoto osvobození je neexistence splatného nedoplatku na poplatku dle § 10e písm. a) zákona o místních poplatcích.
+
+Článek 6
+
+Splatnost poplatku
+
+Poplatek je splatný nejpozději do 15. 12. příslušného kalendářního roku.
+
+Poplatek lze zaplatit rovněž:
+
+ve čtyřech stejných splátkách, a to nejpozději do 20. 1., 20. 4., 20. 7. a 20. 10. příslušného kalendářního roku,
+
+ve dvanácti stejných měsíčních splátkách, a to nejpozději do 25. dne každého kalendářního měsíce následujícího po příslušném kalendářním měsíci, za který se splátka platí.
+
+V případě vzniku poplatkové povinnosti (nebo zániku osvobození) po 1. 12. příslušného kalendářního roku, je poměrná výše poplatku dle čl. 4 splatná nejpozději do 30 dnů od vzniku poplatkové povinnosti (nebo zániku osvobození).
+
+Lhůta splatnosti neskončí poplatníkovi dříve než lhůta pro podání ohlášení podle čl. 3 této vyhlášky.
+
+Článek 7
+Zrušovací ustanovení
+
+Zrušuje se obecně závazná vyhláška č. 1/2021, o místním poplatku za obecní systém odpadového hospodářství, ze dne 7. 9. 2021.
+
+Článek 8
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. 1. 2024.
+
+_______________________________
+
+_______________________________
+
+Bc. Andrea Kulíková v. r.
+
+místostarostka
+
+Petr Jansa v. r.
+
+starosta
