@@ -1,0 +1,217 @@
+---
+citace: "Obecně závazná vyhláška obce Vráto č. 3/2023"
+nazev: "Obecně závazná vyhláška číslo 3/2023 o místním poplatku za provoz systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů"
+druh: "Obecně závazná vyhláška"
+cislo: "3/2023"
+vydavatel: "Obec Vráto"
+ico: "00581950"
+kraj: "Jihočeský kraj"
+zmocneni: ["zákon č. 565/1990 Sb., o místních poplatcích - § 14 - za obecní systém odpadového hospodářství"]
+oblast: ["místní poplatek za obecní systém odpadového hospodářství"]
+vydano: "2023-11-06"
+zverejneno_ve_sbirce: "2023-11-07"
+ucinnost: "2024-01-01"
+sppsu_id: "SPPV5QQUTNOLEOM4"
+verze: "1"
+url: "https://sbirkapp.gov.cz/detail/SPPV5QQUTNOLEOM4"
+text_url: "https://sbirkapp.gov.cz/detail/SPPV5QQUTNOLEOM4/text"
+soubor: "2023-ozv-c-3-o-mistnim-poplatku-za-provoz-systemu-shromazdovani-sberu-prepravy-trideni-vyuzivani-a-odstranovani-komunalnich-odpadu.pdf"
+soubor_sha256: "5bad5c81952279410c718db87608d0588188824034b5db0d34dc2de69afa7300"
+ziskani_textu: "pdf-text"
+---
+
+# Obecně závazná vyhláška číslo 3/2023 o místním poplatku za provoz systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů
+
+1
+
+Obec  V r á t o
+
+OBECNĚ ZÁVAZNÁ VYHLÁŠKA
+
+číslo 3/2023 o místním poplatku za provoz systému shromažďování, sběru, přepravy,
+
+třídění, využívání a odstraňování komunálních odpadů
+
+Zastupitelstvo obce Vráto se na svém zasedání dne 6. listopadu 2023 usnesením č. 44/2023 usneslo vydat na základě § 14 odst. 2 zákona č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů (dále jen „zákon o místních poplatcích“), a v souladu s § 10 písm. d) a § 84 odst. 2 písm. h) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, tuto obecně závaznou vyhlášku (dále jen „vyhláška“):
+
+Čl. 1
+
+Úvodní ustanovení
+
+1. Obec Vráto touto vyhláškou zavádí místní poplatek za obecní systém odpadového hospodářství (dále jen „poplatek“).
+
+2. Správcem poplatku je obecní úřad.1
+
+Čl. 2
+
+Poplatník
+
+1. Poplatníkem poplatku je:2
+
+a) fyzická osoba přihlášená v obci3 nebo
+
+b) nemovité věci zahrnující byt, rodinný dům nebo stavbu pro rodinnou rekreaci,
+
+ve které není přihlášená žádná fyzická osoba a která je umístěna na území obce.
+
+2. Spoluvlastníci nemovité věci zahrnující byt, rodinný dům nebo stavbu pro rodinnou rekreaci jsou povinni plnit poplatkovou povinnost společně a nerozdílně.4
+
+1 § 15 odst. 1 zákona, o místních poplatcích 2 § 10e zákona o místních poplatcích 3 Za přihlášení fyzické osoby se podle § 16c zákona o místních poplatcích považuje a) přihlášení k trvalému pobytu podle zákona o evidenci obyvatel, nebo b) ohlášení místa pobytu podle zákona o pobytu cizinců na území České republiky, zákona o azylu nebo zákona o dočasné ochraně cizinců, jde-li o cizince, 1. kterému byl povolen trvalý pobyt, 2. který na území České republiky pobývá přechodně po dobu delší než 3 měsíce, 3. který je žadatelem o udělení mezinárodní ochrany nebo osobou strpěnou na území podle zákona o azylu anebo žadatelem o poskytnutí dočasné ochrany podle zákona o dočasné ochraně cizinců, nebo 4. kterému byla udělena mezinárodní ochrana nebo jde o cizince požívajícího dočasné ochrany cizinců. 4 § 10p zákona o místních poplatcích
+
+2
+
+Čl. 3
+
+Poplatkové období
+
+Poplatkovým obdobím poplatku je kalendářní rok.5
+
+Čl. 4
+
+Ohlašovací povinnost
+
+1. Poplatník je povinen podat správci poplatku ohlášení nejpozději do 15 dnů ode dne vzniku své poplatkové povinnosti.
+
+2. V ohlášení poplatník uvede:6
+
+a) jméno, popřípadě jména, a příjmení nebo název, obecný identifikátor, byl-li
+
+přidělen, místo pobytu nebo sídlo, sídlo podnikatele, popřípadě další adresu pro doručování; právnická osoba uvede též osoby, které jsou jejím jménem oprávněny jednat v poplatkových věcech,
+
+b) čísla všech svých účtů u poskytovatelů platebních služeb, včetně poskytovatelů
+
+těchto služeb v zahraničí, užívaných v souvislosti s podnikatelskou činností, v případě, že předmět poplatku souvisí s podnikatelskou činností poplatníka,
+
+c) další údaje rozhodné pro stanovení poplatku, zejména skutečnosti zakládající
+
+nárok na osvobození nebo úlevu od poplatku, a jde-li o poplatníka dle čl. 2 odst. 1 písm. b) této vyhlášky, též identifikační údaje nemovité věci zahrnující byt, rodinný dům nebo stavbu pro rodinnou rekreaci podle katastru nemovitostí.
+
+3. Poplatník, který nemá sídlo nebo bydliště na území členského státu Evropské unie, jiného smluvního státu Dohody o Evropském hospodářském prostoru nebo Švýcarské konfederace, uvede také adresu svého zmocněnce v tuzemsku pro doručování.7
+
+4. Dojde-li ke změně údajů uvedených v ohlášení, je poplatník povinen tuto změnu oznámit do 15 dnů ode dne, kdy nastala.8
+
+5. Povinnost ohlásit údaj podle odstavce 2 nebo jeho změnu se nevztahuje na údaj, který může správce poplatku automatizovaným způsobem zjistit z rejstříků nebo evidencí, do nichž má zřízen automatizovaný přístup. Okruh těchto údajů zveřejní správce poplatku na své úřední desce.9
+
+5 § 10o odst. 1 zákona o místních poplatcích 6 § 10e zákona o místních poplatcích 7 § 14a odst. 3 zákona o místních poplatcích 8 § 14a odst. 4 zákona o místních poplatcích 9 § 14a odst. 5 zákona o místních poplatcích
+
+3
+
+Čl. 5
+
+Sazba poplatku
+
+1. Sazba poplatku činí 1 000,- Kč.
+
+2. Poplatek se v případě, že poplatková povinnost vznikla z důvodu přihlášení fyzické osoby v obci, snižuje o jednu dvanáctinu za každý kalendářní měsíc, na jehož konci10
+
+a) není tato fyzická osoba přihlášena v obci, nebo
+
+b) je tato fyzická osoba od poplatku osvobozena.
+
+3. Poplatek se v případě, že poplatková povinnost vznikla z důvodu vlastnictví jednotlivé nemovité věci zahrnující byt, rodinný dům nebo stavbu pro rodinnou rekreaci umístěné na území obce, snižuje o jednu dvanáctinu za každý kalendářní měsíc, na jehož konci11
+
+a) je v této věci přihlášena alespoň 1 fyzická osoba,
+
+b) poplatník nevlastní tuto nemovitou věc, nebo
+
+c) je poplatník od poplatku osvobozen.
+
+Čl. 6
+
+Splatnost poplatku
+
+1. Poplatek je splatný jednorázově a to nejpozději do 30. června příslušného kalendářního roku.
+
+2. Vznikne-li poplatková povinnost po datu splatnosti uvedeném v odst. 1, je poplatek splatný nejpozději do 15. dne měsíce, který následuje po měsíci, ve kterém poplatková povinnost vznikla, nejpozději však do konce příslušného kalendářního roku.
+
+3. Lhůta splatnosti neskončí poplatníkovi dříve než lhůta pro podání ohlášení podle čl. 4 odst. 1 této vyhlášky.
+
+Čl. 7
+
+Osvobození a úlevy
+
+1. Od poplatku je osvobozena osoba, které poplatková povinnost vznikla z důvodu přihlášení v obci a která je12
+
+a) poplatníkem poplatku za odkládání komunálního odpadu z nemovité věci v jiné
+
+obci a má v této jiné obci bydliště,
+
+10  § 10h odst. 2 ve spojení s § 10o odst. 2 zákona o místních poplatcích 11 § 10h odst. 3 ve spojení s § 10o odst. 2 zákona o místních poplatcích 12 § 10g zákona o místních poplatcích
+
+4
+
+b) umístěna do dětského domova pro děti do 3 let věku, školského zařízení pro
+
+výkon ústavní nebo ochranné výchovy nebo školského zařízení pro preventivně výchovnou péči na základě rozhodnutí soudu nebo smlouvy,
+
+c) umístěna do zařízení pro děti vyžadující okamžitou pomoc na základě rozhodnutí
+
+soudu, na žádost obecního úřadu obce s rozšířenou působností, zákonného zástupce dítěte nebo nezletilého,
+
+d) umístěna v domově pro osoby se zdravotním postižením, domově pro seniory,
+
+domově se zvláštním režimem nebo v chráněném bydlení, nebo
+
+e) na základě zákona omezena na osobní svobodě s výjimkou osoby vykonávající
+
+trest domácího vězení.
+
+Čl. 8
+
+Navýšení poplatku
+
+1. Nebudou-li poplatky zaplaceny poplatníkem včas nebo ve správné výši, vyměří mu správce poplatku poplatek platebním výměrem nebo hromadným předpisným seznamem.13
+
+2. Včas nezaplacené poplatky nebo část těchto poplatků může správce poplatku zvýšit až na trojnásobek; toto zvýšení je příslušenstvím poplatku sledujícím jeho osud.14
+
+Čl. 9
+
+Odpovědnost za zaplacení poplatku15
+
+1. Vznikne-li nedoplatek na poplatku poplatníkovi, který je ke dni splatnosti nezletilý a nenabyl plné svéprávnosti nebo který je ke dni splatnosti omezen ve svéprávnosti a byl mu jmenován opatrovník spravující jeho jmění, přechází poplatková povinnost tohoto poplatníka na zákonného zástupce nebo tohoto opatrovníka; zákonný zástupce nebo opatrovník má stejné procesní postavení jako poplatník.
+
+2. V případě podle odstavce 1 vyměří správce poplatku poplatek zákonnému zástupci nebo opatrovníkovi poplatníka.
+
+3. Je-li zákonných zástupců nebo opatrovníků více, jsou povinni plnit poplatkovou povinnost společně a nerozdílně.
+
+13 § 11 odst. 1 zákona o místních poplatcích 14 § 11 odst. 3 zákona o místních poplatcích 15 § 12 zákona o místních poplatcích
+
+5
+
+Čl. 10
+
+Společné ustanovení
+
+1. Ustanovení o nemovité věci se použijí obdobně i na jednotku, která je vymezena podle zákona o vlastnictví bytů, spolu s touto jednotkou spojeným podílem na společných částech domu, a pokud je s ní spojeno vlastnictví k pozemku, tak i spolu s podílem na tomto pozemku.16
+
+2. Na svěřenský fond, podílový fond nebo fond obhospodařovaný penzijní společností, do kterých je vložena nemovitá věc, se pro účely poplatků za komunální odpad hledí jako na vlastníka této nemovité věci.17
+
+Čl. 11
+
+Přechodná ustanovení
+
+1. Údaje ohlášené poplatníkem místního poplatku za provoz systému shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů ke dni předcházejícímu dni nabytí účinnosti této vyhlášky se považují za údaje ohlášené podle čl. 4 odst. 1 této vyhlášky.
+
+2. Poplatkové povinnosti vzniklé před nabytím účinnosti této vyhlášky se posuzují podle dosavadních právních předpisů.
+
+Čl. 12
+
+Zrušující ustanovení
+
+Zrušuje se obecně závazná vyhláška č. 1/2022, ze dne 28. listopadu 2022.
+
+Čl. 13
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dne 1. ledna 2024
+
+František Straka v.r. Mgr. Bc. Martin Muchka, MBA v.r. Jana Geschvandtnerová v.r. starosta místostarosta
+
+16 § 10q zákona o místních poplatcích 17 § 10r zákona o místních poplatcích
+
+6
+
+Vyvěšeno na úřední desce dne:    7. listopadu 2023
+
+Sejmuto z úřední desky dne:       31. prosince 2023
