@@ -1,0 +1,42 @@
+---
+citace: "Opatření obecné povahy ČNB ke stanovení horní hranice úvěrových ukazatelů (2023-11-30)"
+nazev: "Opatření obecné povahy ke stanovení horní hranice úvěrových ukazatelů (2023-11-30)"
+druh: "Opatření obecné povahy"
+vydal: "Česká národní banka"
+vyhlaseno: "cnb.cz, zveřejněno 2023-11-30"
+zdroj: "https://www.cnb.cz/export/sites/cnb/cs/financni-stabilita/.galleries/makroobezretnostni_politika/opatreni-obecne-povahy/oop_20231129_uverove_ukazatele.pdf"
+---
+
+# Opatření obecné povahy ke stanovení horní hranice úvěrových ukazatelů (2023-11-30)
+
+Č. j.: 2023/149060/CNB/180 Počet stran: 3
+NA PŘÍKOPĚ 28 115 03 PRAHA 1
+Veřejná vyhláška, kterou se oznamuje OPATŘENÍ OBECNÉ POVAHY
+ze dne 29. listopadu 2023,
+kterým se mění opatření obecné povahy ke stanovení horní hranice úvěrových ukazatelů
+č. I/2021 Česká národní banka jako příslušný správní orgán podle § 45b odst. 1 a 4 zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 219/2021 Sb. (dále jen „zákon o České národní bance“) tímto opatřením obecné povahy mění opatření obecné povahy ČNB ke stanovení horní hranice úvěrových ukazatelů č. I/2021 ze dne 25. listopadu 2021, č. j.: 2021/117333/CNB/180 takto:
+I. Zrušuje se horní hranice ukazatele DTI.
+Odůvodnění
+1\. Česká národní banka přezkoumala podle § 45b odst. 4 zákona o České národní bance
+důvody ke stanovení horních hranic úvěrových ukazatelů. Tyto důvody posoudila vzhledem k existenci a předpokládanému dalšímu vývoji faktorů, které zakládají systémová rizika podle § 45b odst. 2 zákona o České národní bance, přičemž shledala, že došlo k podstatné změně těchto faktorů:
+a) Celkový objem spotřebitelských úvěrů rostl od počátku roku 2023 podprůměrně a na
+horizontu jednoho roku se neočekává jeho výrazné zrychlení.1 Hlavní vliv na tento vývoj měl především výrazný meziroční pokles objemu nově poskytnutých spotřebitelských úvěrů zajištěných obytnou nemovitostí a dobrá platební disciplína dlužníků.2 b) Realizované ceny obytných nemovitostí mírně klesly.3 Dostupná data z nemovitostního trhu naznačují, že meziroční pokles cen nemovitostí lze očekávat i ve čtvrtém čtvrtletí 2023. Ceny obytných nemovitostí nicméně zůstávají pro část trhu stále nadhodnocené a riziko cenové korekce tak přetrvává.4
+1 Meziroční tempo růstu bankovních úvěrů domácnostem bylo ke konci září 2023 3,7 % (pětiletý průměr je 7 %), přičemž u úvěrů na bydlení činilo 2,9 %, u úvěrů na spotřebu 8 %. 2 Objem nově poskytnutých spotřebitelských úvěrů zajištěných obytnou nemovitostí za prvních 8 měsíců roku 2023 činil 76 mld. Kč a meziročně klesl o 43 %. 3 Realizované ceny obytných nemovitostí v polovině roku 2023 meziročně klesly o 2,9 %. 4 V polovině roku 2023 byla míra nadhodnocení bytů pro domácnost s mediánovým příjmem pořizující si byt o výměře 68 m2 podle odhadu ČNB 63 %, pro domácnosti pořizující si investiční byty se snížila míra nadhodnocení zhruba na 24 %.
+c) Pokles objemu nově poskytnutých spotřebitelských úvěrů zajištěných obytnou
+nemovitostí v roce 2022 a 2023 přispěl ke snížení zadluženosti domácností ve vztahu k jejich disponibilním příjmům. Míra zadluženosti by dle odhadů ČNB měla ve druhé polovině roku 2023 i nedále klesat, přičemž k pozvolnému růstu by se při naplnění prognóz ČNB měla navrátit až v roce 2024.5 Klesá rovněž poměr cen obytných nemovitostí k příjmům domácností. Kvůli výraznému nadhodnocení cen obytných nemovitostí se však stále pohybuje nad svým dlouhodobým průměrem.6
+d) Souhrnný makroekonomický vývoj v České republice reflektuje útlum ekonomické
+aktivity. Předběžný odhad hrubého domácího produktu za rok 2023 naznačuje meziroční pokles o 0,4 %. Ke konci třetího čtvrtletí 2023 zůstávají měnověpolitická úroková sazba na 7 %, sazby u čistých nových úvěrů na bydlení na 6 %, obecná míra nezaměstnanosti okolo 2,7 % a růst mezd v reálném vyjádření záporný. Hospodářská aktivita se v následujících dvou letech dle prognózy ČNB meziročně zvýší a postupně by se měl oživit i hypoteční trh. Vzhledem k pozvolnějšímu snižování měnověpolitických sazeb a pravděpodobnému setrvání ekonomiky ČR v prostředí kladných reálných úrokových sazeb bude však toto oživení spíše pozvolné.
+e) Prostředí vysoké inflace, úrokových sazeb a zvýšených životních nákladů nemělo
+z pohledu úvěrových selhání dosud negativní dopad na spotřebitele. Podíl nevýkonných úvěrů v roce 2023 stagnoval hluboko pod svým dlouhodobým průměrem.7 Nebyl zpozorován ani nepříznivý dopad na poskytovatele úvěrů, u nichž jsou ztráty z portfolia úvěrů na bydlení velmi nízké a ziskovost a kapitálová vybavenost vysoká.
+Ve třetím čtvrtletí roku 2023 došlo u úvěrů na bydlení k mírnému uvolnění úvěrových standardů. Objem nově poskytnutých spotřebitelských úvěrů zajištěných obytnou nemovitostí se značně rizikovými charakteristikami nicméně zůstal dle očekávání ČNB utlumený. Za červenec a srpen roku 2023 poskytly banky 7,6 mld. Kč úvěrů s ukazatelem DSTI větším než 45 % a pouze 3,2 mld. Kč úvěrů s ukazatelem DSTI nad 50 % (22,6 %, resp. 9,5 % úvěrů vzhledem k pětiletému průměru). Výraznější útlum značně rizikových úvěrů byl patrný i z pohledu ukazatele DTI. Za červenec a srpen roku 2023 bylo poskytnuto 1,3 mld. Kč úvěrů s ukazatelem DTI větším než 8 čistých ročních příjmů a jen 0,3 mld. Kč úvěrů s ukazatelem DTI větším než 9 čistých ročních příjmů (3,9 %, resp. 0,9 % úvěrů vzhledem k pětiletému průměru). Spotřebitelské úvěry s hodnotnou LTV nad 90 % se téměř neposkytovaly (26 mil. Kč za červenec a srpen 2023, tj. 0,1 % úvěrů vzhledem k pětiletému průměru). V bilancích poskytovatelů se výrazně snížil celkový objem spotřebitelských úvěrů zajištěných obytnou nemovitostí se značně rizikovými charakteristikami z důvodu obecně silného poklesu objemu nově poskytnutých spotřebitelských úvěrů zajištěných obytnou nemovitostí, poklesu podílu nových spotřebitelských úvěrů se značně rizikovými charakteristikami zajištěných obytnou nemovitostí na celkovém objemu nových spotřebitelských úvěrů zajištěných obytnou nemovitostí a dále také v důsledku dobré splátkové disciplíny dlužníků. Stále však přetrvává významné nadhodnocení cen obytných nemovitostí a s tím spojené riziko výrazné cenové korekce.
+5 Zadluženost domácností ve vztahu k disponibilním příjmům se v polovině roku 2023 snížila na 57,9 %. 6 Poměr cen bytů o rozloze 68 m2 vzhledem k průměrným hrubým ročním příjmům klesl v polovině roku 2023 na 12,3 %. 7 Podíl nevýkonných úvěrů na bydlení ke konci záři 2023 činil 0,7 % a podíl nevýkonných úvěrů na spotřebu 4 %.
+Podle odhadů ČNB by deaktivace horní hranice úvěrového ukazatele DTI měla v současném i předpokládaném budoucím úrokovém prostředí vést k pouze nepatrnému nárůstu objemu nově poskytnutých spotřebitelských úvěrů zajištěných obytnou nemovitostí, přičemž vliv na objem nových výrazně rizikových úvěrů by měl být zanedbatelný. 2. S přihlédnutím k výše uvedeným faktorům, které neindikují systémová rizika související s
+poskytováním spotřebitelských úvěrů zajištěných obytnou nemovitostí, bankovní rada ČNB rozhodla o deaktivaci horní hranice úvěrového ukazatele DTI. 3. Horní hranice ukazatele LTV zůstává nezměněná z důvodu trvajícího významného
+nadhodnocení cen obytných nemovitostí a s tím spojeného rizika výrazné cenové korekce. Osoba oprávněná poskytovat spotřebitelský úvěr postupuje při výpočtu ukazatele LTV v souladu s vyhláškou č. 399/2021 Sb., o úvěrových ukazatelích. 4. Česká národní banka může osobě, která v rozporu s § 45a odst. 1 zákona o České národní
+bance poskytne spotřebitelský úvěr, uložit podle § 45c odst. 1 zákona o České národní bance opatření k nápravě zjištěného nedostatku. Pro odstranění zjištěného nedostatku Česká národní banka určí této osobě přiměřenou lhůtu. Nesplní-li tato osoba povinnost uloženou rozhodnutím o opatření k nápravě, dopustí se tím přestupku podle § 46 odst. 4 písm. b) zákona o České národní bance, za který lze podle § 46 odst. 5 písm. a) zákona o České národní bance uložit pokutu. 5. Podle § 45b odst. 3 zákona o České národní bance se opatření obecné povahy vydává bez
+řízení o návrhu opatření obecné povahy.
+Účinnost
+Toto opatření nabývá účinnosti 1. ledna 2024 z důvodu uplatňování objemových výjimek ze stanovené horní hranice úvěrových ukazatelů podle § 45a odst. 1 zákona o České národní bance na čtvrtletní bázi.
+otisk úředního razítka
+Ing. Karina Kubelková, Ph.D., MBA Ing. Libor Holub členka bankovní rady ředitel sekce finanční stability (podepsáno elektronicky) (podepsáno elektronicky)
+Toto opatření obecné povahy bylo zveřejněno 30. listopadu 2023.
