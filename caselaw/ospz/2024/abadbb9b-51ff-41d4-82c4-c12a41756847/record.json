@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2024:7.C.120.2022.1",
+  "docket": "7 C 120/2022-80",
+  "date": "2024-01-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/abadbb9b-51ff-41d4-82c4-c12a41756847",
+  "source_sha256": "48cfc4708ffba27ce74d8abd59b85cb30cda56601ad5541e79a204c41ce824c8",
+  "source_id": "abadbb9b-51ff-41d4-82c4-c12a41756847",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 120/2022-80",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Blanka Rejšková",
+    "ecli": "ECLI:CZ:OSPZ:2024:7.C.120.2022.1",
+    "predmetRizeni": "Návrh na rozvod manželství",
+    "datumVydani": "2024-01-03",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "podvod",
+      "rozvod manželství",
+      "odbory"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/abadbb9b-51ff-41d4-82c4-c12a41756847"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
