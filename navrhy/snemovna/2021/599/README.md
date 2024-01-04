@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-12-14 | 599/0 | Návrh zákona | [t059900.md](t059900.md), [t0599a0.md](t0599a0.md) |
+| 2024-01-04 | 599/1 | Stanovisko vlády k návrhu poslanců Ivana Adamce, Romana Kubíčka, Tomáše Müllera, Róberta Telekyho, Michala Kučery, Jakuba Michálka a Jiřího Strýčka na vydání zákona, kterým se mění zákon č. 383/2012 Sb., o podmínkách obchodování s povolenkami na emise skleníkových plynů, ve znění pozdějších předpisů | [t059901.md](t059901.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t059900.md](t059900.md) | 599/0 | Návrh zákona včetně důvodové zprávy | [t059900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240196) | pymupdf / pdftotext 1.0000 |
 | [t0599a0.md](t0599a0.md) | 599/0 | Platné znění s vyznačením změn | [t0599a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240195) | pymupdf / pdftotext 1.0000 |
+| [t059901.md](t059901.md) | 599/1 | Stanovisko | [t059901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232409) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
