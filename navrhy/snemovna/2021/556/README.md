@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-10-06 | 556/0 | Mezinárodní smlouva | [t055600.md](t055600.md), [t0556a0.md](t0556a0.md), [t0556b0.md](t0556b0.md), [t0556c0.md](t0556c0.md) |
+| 2024-01-12 | 556/1 | Usnesení zahraničního výboru č. 119 ze dne 11. ledna 2024 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Protokol mezi Českou republikou a Dominikánskou republikou o změně Dohody mezi Českou republikou a Dominikánskou republikou o leteckých službách, podepsané v Nassau 7. prosince 2016 | [t055601.md](t055601.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0556a0.md](t0556a0.md) | 556/0 | Důvodová zpráva | [t0556a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236280) | pymupdf / pdftotext 1.0000 |
 | [t0556b0.md](t0556b0.md) | 556/0 | Text v českém jazyce | [t0556b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236283) | pymupdf / pdftotext 1.0000 |
 | [t0556c0.md](t0556c0.md) | 556/0 | Text v jiném jazyce | [t0556c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=236277) | pymupdf / pdftotext 1.0000 |
+| [t055601.md](t055601.md) | 556/1 | Text | [t055601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=186415) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
