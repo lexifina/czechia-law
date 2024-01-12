@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-06-05 | 464/0 | Vládní návrh zákona | [t046400.md](t046400.md), [t0464a0.md](t0464a0.md), [t0464b0.md](t0464b0.md) |
 | 2023-11-23 | 464/1 | Usnesení výboru pro bezpečnost č. 127 ze dne 23. listopadu 2023 k vládnímu návrhu zákona o munici | [t046401.md](t046401.md) |
 | 2023-12-13 | 464/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o munici | [t046402.md](t046402.md) |
+| 2024-01-12 | 464/3 | Usnesení garančního výboru č. 132 ze dne 11. ledna 2024 k vládnímu návrhu zákona o munici | [t046403.md](t046403.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0464b0.md](t0464b0.md) | 464/0 | Návrhy vyhlášek | [t0464b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=222877) | pymupdf / pdftotext 1.0000 |
 | [t046401.md](t046401.md) | 464/1 | Text | [t046401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239091) | pymupdf / pdftotext 1.0000 |
 | [t046402.md](t046402.md) | 464/2 | Text | [t046402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240166) | pymupdf / pdftotext 1.0000 |
+| [t046403.md](t046403.md) | 464/3 | Text | [t046403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232595) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
