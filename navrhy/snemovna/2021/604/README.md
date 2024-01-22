@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-12-20 | 604/0 | Návrh zákona | [t060400.md](t060400.md) |
+| 2024-01-22 | 604/1 | Stanovisko vlády k návrhu poslanců Patrika Nachera, Marka Výborného, Barbory Urbanové a Jakuba Michálka na vydání zákona o mimořádném odpuštění penále z pojistného na veřejné zdravotní pojištění | [t060401.md](t060401.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t060400.md](t060400.md) | 604/0 | Návrh zákona včetně důvodové zprávy | [t060400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240391) | pymupdf / pdftotext 1.0000 |
+| [t060401.md](t060401.md) | 604/1 | Stanovisko | [t060401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232861) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
