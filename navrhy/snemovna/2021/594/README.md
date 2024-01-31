@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-12-06 | 594/0 | Zpráva a jiné | [t059400.md](t059400.md), [t0594a0.md](t0594a0.md), [t0594b0.md](t0594b0.md), [t0594c0.md](t0594c0.md), [t0594d0.md](t0594d0.md), [t0594e0.md](t0594e0.md) |
+| 2024-01-31 | 594/1 | Usnesení výboru pro obranu č. 179 ze dne  30. ledna 2024 k účasti ozbrojených sil České republiky na vojenských cvičeních mimo území České republiky a účasti ozbrojených sil jiných států na vojenských cvičeních na území České republiky v roce 2024 | [t059401.md](t059401.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0594c0.md](t0594c0.md) | 594/0 | Další | [t0594c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239728) | pymupdf / pdftotext 1.0000 |
 | [t0594d0.md](t0594d0.md) | 594/0 | Další | [t0594d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239726) | pymupdf / pdftotext 1.0000 |
 | [t0594e0.md](t0594e0.md) | 594/0 | Další | [t0594e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239719) | pymupdf / pdftotext 1.0000 |
+| [t059401.md](t059401.md) | 594/1 | Text | [t059401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233273) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
