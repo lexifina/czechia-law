@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-12-15 | 601/0 | Zpráva a jiné | [t060100.md](t060100.md), [t0601a0.md](t0601a0.md), [t0601b0.md](t0601b0.md) |
+| 2024-02-01 | 601/1 | Usnesení výboru pro životní prostředí č. 106 ze dne 31. ledna 2024 ke zprávě o životním prostředí České republiky 2022 | [t060101.md](t060101.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t060100.md](t060100.md) | 601/0 | Návrh usnesení Poslanecké sněmovny | [t060100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240254) | pymupdf / pdftotext 1.0000 |
 | [t0601a0.md](t0601a0.md) | 601/0 | Text | [t0601a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240251) | pymupdf / pdftotext 1.0000 |
 | [t0601b0.md](t0601b0.md) | 601/0 | Text | [t0601b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240255) | pymupdf / pdftotext 1.0000 |
+| [t060101.md](t060101.md) | 601/1 | Text | [t060101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233318) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
