@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-08-23 | 519/0 | Vládní návrh zákona | [t051900.md](t051900.md), [t0519a0.md](t0519a0.md), [t0519b0.md](t0519b0.md), [t0519c0.md](t0519c0.md) |
+| 2024-02-01 | 519/1 | Usnesení výboru pro bezpečnost č. 135 ze dne 1. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 412/2005 Sb., o ochraně utajovaných informací a o bezpečnostní způsobilosti, ve znění pozdějších předpisů | [t051901.md](t051901.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0519a0.md](t0519a0.md) | 519/0 | Platné znění s vyznačením změn | [t0519a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231135) | pymupdf / pdftotext 1.0000 |
 | [t0519b0.md](t0519b0.md) | 519/0 | Návrhy vyhlášek | [t0519b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231137) | pymupdf / pdftotext 1.0000 |
 | [t0519c0.md](t0519c0.md) | 519/0 | Kompatibilita s právem EU | [t0519c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231138) | pymupdf / pdftotext 1.0000 |
+| [t051901.md](t051901.md) | 519/1 | Text | [t051901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233361) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
