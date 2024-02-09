@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2024-01-08 | 615/0 | Návrh zákona | [t061500.md](t061500.md), [t0615a0.md](t0615a0.md) |
+| 2024-02-09 | 615/1 | Stanovisko vlády k návrhu poslankyně Lucie Šafránkové na vydání zákona, kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů | [t061501.md](t061501.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t061500.md](t061500.md) | 615/0 | Návrh zákona včetně důvodové zprávy | [t061500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232439) | pymupdf / pdftotext 1.0000 |
 | [t0615a0.md](t0615a0.md) | 615/0 | Platné znění s vyznačením změn | [t0615a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232437) | pymupdf / pdftotext 1.0000 |
+| [t061501.md](t061501.md) | 615/1 | Stanovisko | [t061501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233699) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
