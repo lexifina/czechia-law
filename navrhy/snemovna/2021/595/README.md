@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-12-06 | 595/0 | Vládní návrh zákona | [t059500.md](t059500.md), [t0595a0.md](t0595a0.md) |
+| 2024-02-14 | 595/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 176 ze dne 14. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů | [t059501.md](t059501.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t059500.md](t059500.md) | 595/0 | Návrh zákona včetně důvodové zprávy | [t059500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239732) | pymupdf / pdftotext 1.0000 |
 | [t0595a0.md](t0595a0.md) | 595/0 | Platné znění s vyznačením změn | [t0595a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239734) | pymupdf / pdftotext 1.0000 |
+| [t059501.md](t059501.md) | 595/1 | Text | [t059501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233864) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
