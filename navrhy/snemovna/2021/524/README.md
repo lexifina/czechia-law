@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-08-25 | 524/0 | Vládní návrh zákona | [t052400.md](t052400.md), [t0524a0.md](t0524a0.md), [t0524b0.md](t0524b0.md) |
 | 2024-01-12 | 524/1 | Usnesení ústavně-právního výboru č. 135 ze dne 10. ledna 2024 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o hromadném občanském řízení soudním | [t052401.md](t052401.md) |
 | 2024-02-01 | 524/2 | Usnesení ústavně-právního výboru č. 142 ze dne 31. ledna 2024 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o hromadném občanském řízení soudním | [t052402.md](t052402.md) |
+| 2024-02-20 | 524/3 | Usnesení ústavně-právního výboru č. 148 ze dne 14. února 2024 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o hromadném občanském řízení soudním | [t052403.md](t052403.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0524b0.md](t0524b0.md) | 524/0 | Kompatibilita s právem EU | [t0524b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231201) | pymupdf / pdftotext 1.0000 |
 | [t052401.md](t052401.md) | 524/1 | Text | [t052401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=219499) | pymupdf / pdftotext 1.0000 |
 | [t052402.md](t052402.md) | 524/2 | Text | [t052402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233333) | pymupdf / pdftotext 1.0000 |
+| [t052403.md](t052403.md) | 524/3 | Text | [t052403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234087) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
