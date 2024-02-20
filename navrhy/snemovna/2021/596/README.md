@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-01-04 | 596/1 | Stanovisko vlády k návrhu poslanců Víta Rakušana, Petra Fialy, Mariana Jurečky, Markéty Pekarové Adamové, Ivana Bartoše, Josefa Cogana, Marka Bendy, Aleše Dufka, Jana Jakoba, Jakuba Michálka, Lucie Potůčkové, Evy Decroix, Jiřího Navrátila, Michala Zuny a Olgy Richterové na vydání zákona, kterým se mění zákon o správě voleb a některé další zákony | [t059601.md](t059601.md) |
 | 2024-02-01 | 596/2 | Usnesení zahraničního výboru č. 131 ze dne 1. února 2024 k návrhu poslanců Víta Rakušana, Petra Fialy, Mariana Jurečky, Markéty Pekarové Adamové, Ivana Bartoše, Josefa Cogana, Marka Bendy, Aleše Dufka, Jana Jakoba, Jakuba Michálka, Lucie Potůčkové, Evy Decroix, Jiřího Navrátila, Michala Zuny a Olgy Richterové na vydání zákona, kterým se mění zákon o správě voleb a některé další zákony | [t059602.md](t059602.md) |
 | 2024-02-02 | 596/3 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 108 ze dne 1. února 2024 k návrhu poslanců Víta Rakušana, Petra Fialy, Mariana Jurečky, Markéty Pekarové Adamové, Ivana Bartoše, Josefa Cogana, Marka Bendy, Aleše Dufka, Jana Jakoba, Jakuba Michálka, Lucie Potůčkové, Evy Decroix, Jiřího Navrátila, Michala Zuny a Olgy Richterové na vydání zákona, kterým se mění zákon o správě voleb a některé další zákony | [t059603.md](t059603.md) |
+| 2024-02-20 | 596/4 | Usnesení ústavně-právního výboru č. 145 ze dne 14. února 2024 k návrhu poslanců Víta Rakušana, Petra Fialy, Mariana Jurečky, Markéty Pekarové Adamové, Ivana Bartoše, Josefa Cogana, Marka Bendy, Aleše Dufka, Jana Jakoba, Jakuba Michálka, Lucie Potůčkové, Evy Decroix, Jiřího Navrátila, Michala Zuny a Olgy Richterové na vydání zákona, kterým se mění zákon o správě voleb a některé další zákony | [t059604.md](t059604.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t059601.md](t059601.md) | 596/1 | Stanovisko | [t059601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232405) | pymupdf / pdftotext 1.0000 |
 | [t059602.md](t059602.md) | 596/2 | Text | [t059602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233381) | pymupdf / pdftotext 1.0000 |
 | [t059603.md](t059603.md) | 596/3 | Text | [t059603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233440) | pymupdf / pdftotext 1.0000 |
+| [t059604.md](t059604.md) | 596/4 | Text | [t059604.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234078) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
