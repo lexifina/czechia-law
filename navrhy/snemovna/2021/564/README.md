@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-12-01 | 564/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 104 ze dne 30. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 211/2000 Sb., o Státním fondu podpory investic, ve znění pozdějších předpisů | [t056401.md](t056401.md) |
 | 2024-02-02 | 564/2 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 106 ze dne 1. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 211/2000 Sb., o Státním fondu podpory investic, ve znění pozdějších předpisů | [t056402.md](t056402.md) |
 | 2024-02-28 | 564/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 211/2000 Sb., o Státním fondu podpory investic, ve znění pozdějších předpisů | [t056403.md](t056403.md) |
+| 2024-03-04 | 564/4 | Usnesení garančního výboru č. 111 ze dne 1. března 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 211/2000 Sb., o Státním fondu podpory investic, ve znění pozdějších předpisů | [t056404.md](t056404.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t056401.md](t056401.md) | 564/1 | Text | [t056401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239524) | pymupdf / pdftotext 1.0000 |
 | [t056402.md](t056402.md) | 564/2 | Text | [t056402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233434) | pymupdf / pdftotext 1.0000 |
 | [t056403.md](t056403.md) | 564/3 | Text | [t056403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240809) | pymupdf / pdftotext 1.0000 |
+| [t056404.md](t056404.md) | 564/4 | Text | [t056404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240957) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
