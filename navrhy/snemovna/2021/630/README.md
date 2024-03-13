@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2024-02-12 | 630/0 | Návrh zákona | [t063000.md](t063000.md), [t0630a0.md](t0630a0.md) |
+| 2024-03-13 | 630/1 | Stanovisko vlády k návrhu poslanců Vojtěcha Munzara, Josefa Bernarda, Michaela Kohajdy, Miloše Nového a Jakuba Michálka na vydání zákona, kterým se mění zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů | [t063001.md](t063001.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t063000.md](t063000.md) | 630/0 | Návrh zákona včetně důvodové zprávy | [t063000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233793) | pymupdf / pdftotext 1.0000 |
 | [t0630a0.md](t0630a0.md) | 630/0 | Platné znění s vyznačením změn | [t0630a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233794) | pymupdf / pdftotext 1.0000 |
+| [t063001.md](t063001.md) | 630/1 | Stanovisko | [t063001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241333) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
