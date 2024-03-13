@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2024-01-17 | 617/0 | Vládní návrh zákona | [t061700.md](t061700.md), [t0617a0.md](t0617a0.md), [t0617b0.md](t0617b0.md) |
 | 2024-02-14 | 617/1 | Usnesení rozpočtového výboru č. 323 ze dne 14. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 117/2001 Sb., o veřejných sbírkách a o změně některých zákonů (zákon o veřejných sbírkách), ve znění pozdějších předpisů | [t061701.md](t061701.md) |
+| 2024-03-13 | 617/2 | Usnesení rozpočtového výboru č. 326 ze dne 13. března 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 117/2001 Sb., o veřejných sbírkách a o změně některých zákonů (zákon o veřejných sbírkách), ve znění pozdějších předpisů | [t061702.md](t061702.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0617a0.md](t0617a0.md) | 617/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0617a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232672) | pymupdf / pdftotext 0.9989 |
 | [t0617b0.md](t0617b0.md) | 617/0 | Platné znění s vyznačením změn | [t0617b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232669) | pymupdf / pdftotext 1.0000 |
 | [t061701.md](t061701.md) | 617/1 | Text | [t061701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233849) | pymupdf / pdftotext 1.0000 |
+| [t061702.md](t061702.md) | 617/2 | Text | [t061702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241351) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
