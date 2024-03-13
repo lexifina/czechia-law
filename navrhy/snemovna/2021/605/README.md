@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-01-04 | 605/1 | Stanovisko vlády k návrhu poslance Mariana Jurečky a dalších na vydání zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů | [t060501.md](t060501.md) |
 | 2024-02-15 | 605/2 | Usnesení výboru pro sociální politiku č. 146 ze dne 14. února 2024 k návrhu poslance Mariana Jurečky a dalších na vydání zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů | [t060502.md](t060502.md) |
 | 2024-03-08 | 605/3 | Pozměňovací a jiné návrhy k návrhu poslance Mariana Jurečky a dalších na vydání zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů | [t060503.md](t060503.md) |
+| 2024-03-13 | 605/4 | Usnesení garančního výboru č. 149 ze dne 13. března 2024 k návrhu poslance Mariana Jurečky a dalších na vydání zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů | [t060504.md](t060504.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t060501.md](t060501.md) | 605/1 | Stanovisko | [t060501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232412) | pymupdf / pdftotext 1.0000 |
 | [t060502.md](t060502.md) | 605/2 | Text | [t060502.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233953) | pymupdf / pdftotext 1.0000 |
 | [t060503.md](t060503.md) | 605/3 | Text | [t060503.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241260) | pymupdf / pdftotext 1.0000 |
+| [t060504.md](t060504.md) | 605/4 | Text | [t060504.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241368) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
