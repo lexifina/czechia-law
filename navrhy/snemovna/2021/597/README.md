@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2023-12-12 | 597/0 | Vládní návrh zákona | [t059700.md](t059700.md), [t0597a0.md](t0597a0.md), [t0597b0.md](t0597b0.md), [t0597c0.md](t0597c0.md) |
+| 2024-03-15 | 597/1 | Usnesení výboru pro bezpečnost č. 142 ze dne 14. března 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 341/2011 Sb., o Generální inspekci bezpečnostních sborů a o změně souvisejících zákonů, a některé další zákony | [t059701.md](t059701.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0597a0.md](t0597a0.md) | 597/0 | Platné znění s vyznačením změn | [t0597a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240034) | pymupdf / pdftotext 1.0000 |
 | [t0597b0.md](t0597b0.md) | 597/0 | Návrhy vyhlášek | [t0597b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240033) | pymupdf / pdftotext 1.0000 |
 | [t0597c0.md](t0597c0.md) | 597/0 | Kompatibilita s právem EU | [t0597c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240035) | pymupdf / pdftotext 1.0000 |
+| [t059701.md](t059701.md) | 597/1 | Text | [t059701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241464) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
