@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2021-12-14 | 88/0 | Mezinárodní smlouva | [t008800.md](t008800.md), [t0088a0.md](t0088a0.md), [t0088b0.md](t0088b0.md) |
+| 2024-03-15 | 88/1 | Usnesení zahraničního výboru č. 139 ze dne 14. března 2024 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Dohoda mezi vládou České republiky a vládou Spolkové republiky Německo o údržbě a rozvoji mezinárodní vnitrozemské Labské vodní cesty, podepsaná v Praze a Berlíně dne 20. 7. 2021 | [t008801.md](t008801.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t008800.md](t008800.md) | 88/0 | Návrh usnesení Poslanecké sněmovny | [t008800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201043) | pymupdf / pdftotext 1.0000 |
 | [t0088a0.md](t0088a0.md) | 88/0 | Důvodová zpráva | [t0088a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201045) | pymupdf / pdftotext 1.0000 |
 | [t0088b0.md](t0088b0.md) | 88/0 | Text v českém jazyce | [t0088b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=201044) | pymupdf / pdftotext 1.0000 |
+| [t008801.md](t008801.md) | 88/1 | Text | [t008801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241487) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
