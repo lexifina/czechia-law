@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2024-03-06 | 645/0 | Zpráva a jiné | [t064500.md](t064500.md) |
+| 2024-03-19 | 645/1 | Usnesení rozpočtového výboru č. 331 ze dne 13. března 2024 ke zprávě o měnové politice – zima 2024 | [t064501.md](t064501.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t064500.md](t064500.md) | 645/0 | Text | [t064500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241095) | pymupdf / pdftotext 1.0000 |
+| [t064501.md](t064501.md) | 645/1 | Text | [t064501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241524) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
