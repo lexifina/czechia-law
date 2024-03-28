@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2024-02-26 | 642/0 | Zpráva a jiné | [t064200.md](t064200.md), [t0642a0.md](t0642a0.md), [t0642b0.md](t0642b0.md), [t0642c0.md](t0642c0.md), [t0642d0.md](t0642d0.md), [t0642e0.md](t0642e0.md) |
+| 2024-03-28 | 642/1 | Usnesení výboru pro obranu č. 184 ze dne 26. března 2024 k 1. doplňku k účasti ozbrojených sil České republiky na vojenských cvičeních mimo území České republiky a účasti ozbrojených sil jiných států na vojenských cvičeních na území České republiky v roce 2024 | [t064201.md](t064201.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0642c0.md](t0642c0.md) | 642/0 | Další | [t0642c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240737) | pymupdf / pdftotext 1.0000 |
 | [t0642d0.md](t0642d0.md) | 642/0 | Další | [t0642d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240739) | pymupdf / pdftotext 1.0000 |
 | [t0642e0.md](t0642e0.md) | 642/0 | Další | [t0642e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240741) | pymupdf / pdftotext 1.0000 |
+| [t064201.md](t064201.md) | 642/1 | Text | [t064201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234390) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
