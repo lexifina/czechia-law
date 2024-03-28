@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2024-02-14 | 637/0 | Vládní návrh zákona | [t063700.md](t063700.md), [t0637a0.md](t0637a0.md), [t0637b0.md](t0637b0.md), [t0637c0.md](t0637c0.md), [t0637d0.md](t0637d0.md) |
+| 2024-03-28 | 637/1 | Usnesení výboru pro životní prostředí č. 113 ze dne 27. března 2024 k vládnímu návrhu zákona o veřejné hydrometeorologické službě a o změně zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění pozdějších předpisů (zákon o veřejné hydrometeorologické službě) | [t063701.md](t063701.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0637b0.md](t0637b0.md) | 637/0 | Platné znění s vyznačením změn | [t0637b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233904) | pymupdf / pdftotext 1.0000 |
 | [t0637c0.md](t0637c0.md) | 637/0 | Návrhy vyhlášek | [t0637c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233899) | pymupdf / pdftotext 1.0000 |
 | [t0637d0.md](t0637d0.md) | 637/0 | Kompatibilita s právem EU | [t0637d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233908) | pymupdf / pdftotext 1.0000 |
+| [t063701.md](t063701.md) | 637/1 | Text | [t063701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234416) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
