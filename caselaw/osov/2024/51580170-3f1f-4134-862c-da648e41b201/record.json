@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2024:34.C.43.2024.1",
+  "docket": "34 C 43/2024-33",
+  "date": "2024-04-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51580170-3f1f-4134-862c-da648e41b201",
+  "source_sha256": "191472f0c30e9f0ceddaa8d1a3bf7beecbebcabfd67e9ef6a7c6481ed7439e4e",
+  "source_id": "51580170-3f1f-4134-862c-da648e41b201",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 43/2024-33",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jana Bojková",
+    "ecli": "ECLI:CZ:OSOV:2024:34.C.43.2024.1",
+    "predmetRizeni": "o zaplacení 30 903 Kč s příslušenstvím",
+    "datumVydani": "2024-04-04",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "jízdné",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 639 z. č. 89/2012 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51580170-3f1f-4134-862c-da648e41b201"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
