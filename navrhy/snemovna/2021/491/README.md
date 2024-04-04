@@ -26,6 +26,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-01-12 | 491/4 | Usnesení ústavně-právního výboru č. 137 ze dne 10. ledna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů | [t049104.md](t049104.md) |
 | 2024-02-01 | 491/5 | Usnesení ústavně-právního výboru č. 144 ze dne 31. ledna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů | [t049105.md](t049105.md) |
 | 2024-02-20 | 491/6 | Usnesení ústavně-právního výboru č. 150 ze dne 14. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů | [t049106.md](t049106.md) |
+| 2024-04-04 | 491/7 | Usnesení ústavně-právního výboru č. 159 ze dne 27. března 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů | [t049107.md](t049107.md) |
 
 ## Files
 
@@ -42,5 +43,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t049104.md](t049104.md) | 491/4 | Text | [t049104.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=226167) | pymupdf / pdftotext 1.0000 |
 | [t049105.md](t049105.md) | 491/5 | Text | [t049105.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233338) | pymupdf / pdftotext 1.0000 |
 | [t049106.md](t049106.md) | 491/6 | Text | [t049106.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234093) | pymupdf / pdftotext 1.0000 |
+| [t049107.md](t049107.md) | 491/7 | Text | [t049107.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234523) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
