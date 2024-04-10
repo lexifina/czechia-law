@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-10-27 | 576/0 | Návrh zákona | [t057600.md](t057600.md), [t0576a0.md](t0576a0.md) |
 | 2023-11-29 | 576/1 | Stanovisko vlády k návrhu poslanců Jiřího Havránka, Roberta Králíčka, Petra Letochy, Michala Zuny, Jiřího Horáka, Marie Pošarové a Romana Kubíčka na vydání zákona, kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci, ve znění pozdějších předpisů | [t057601.md](t057601.md) |
 | 2024-01-18 | 576/2 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 105 ze dne 16. ledna 2024 k návrhu poslanců Jiřího Havránka, Roberta Králíčka, Petra Letochy, Michala Zuny, Jiřího Horáka, Marie Pošarové a Romana Kubíčka na vydání zákona, kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci, ve znění pozdějších předpisů | [t057602.md](t057602.md) |
+| 2024-04-10 | 576/3 | Pozměňovací a jiné návrhy k návrhu poslanců Jiřího Havránka, Roberta Králíčka, Petra Letochy, Michala Zuny, Jiřího Horáka, Marie Pošarové a Romana Kubíčka na vydání zákona, kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, a zákon č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci, ve znění pozdějších předpisů | [t057603.md](t057603.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0576a0.md](t0576a0.md) | 576/0 | Platné znění s vyznačením změn | [t0576a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=237399) | pymupdf / pdftotext 1.0000 |
 | [t057601.md](t057601.md) | 576/1 | Stanovisko | [t057601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239374) | pymupdf / pdftotext 1.0000 |
 | [t057602.md](t057602.md) | 576/2 | Text | [t057602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232732) | pymupdf / pdftotext 1.0000 |
+| [t057603.md](t057603.md) | 576/3 | Text | [t057603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234677) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
