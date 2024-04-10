@@ -26,6 +26,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-01-31 | 579/4 | Usnesení zemědělského výboru č. 156 ze dne 30. ledna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění pozdějších předpisů | [t057904.md](t057904.md) |
 | 2024-02-01 | 579/5 | Usnesení výboru pro životní prostředí č. 109 ze dne 31. ledna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění pozdějších předpisů | [t057905.md](t057905.md) |
 | 2024-02-01 | 579/6 | Usnesení hospodářského výboru č. 234 ze dne 1. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění pozdějších předpisů | [t057906.md](t057906.md) |
+| 2024-04-10 | 579/7 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 334/1992 Sb., o ochraně zemědělského půdního fondu, ve znění pozdějších předpisů | [t057907.md](t057907.md) |
 
 ## Files
 
@@ -43,5 +44,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t057904.md](t057904.md) | 579/4 | Text | [t057904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233245) | pymupdf / pdftotext 1.0000 |
 | [t057905.md](t057905.md) | 579/5 | Text | [t057905.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233326) | pymupdf / pdftotext 1.0000 |
 | [t057906.md](t057906.md) | 579/6 | Text | [t057906.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233388) | pymupdf / pdftotext 1.0000 |
+| [t057907.md](t057907.md) | 579/7 | Text | [t057907.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234680) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
