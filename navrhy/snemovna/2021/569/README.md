@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-01-31 | 569/3 | Usnesení zemědělského výboru č. 155 ze dne 30. ledna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů | [t056903.md](t056903.md) |
 | 2024-02-01 | 569/4 | Usnesení výboru pro životní prostředí č. 108 ze dne 31. ledna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů | [t056904.md](t056904.md) |
 | 2024-03-05 | 569/5 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů | [t056905.md](t056905.md) |
+| 2024-04-11 | 569/6 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů | [t056906.md](t056906.md) |
 
 ## Files
 
@@ -41,5 +42,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t056903.md](t056903.md) | 569/3 | Text | [t056903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233243) | pymupdf / pdftotext 1.0000 |
 | [t056904.md](t056904.md) | 569/4 | Text | [t056904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233322) | pymupdf / pdftotext 1.0000 |
 | [t056905.md](t056905.md) | 569/5 | Text | [t056905.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240986) | pymupdf / pdftotext 1.0000 |
+| [t056906.md](t056906.md) | 569/6 | Text | [t056906.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234700) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
