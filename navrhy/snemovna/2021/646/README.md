@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2024-03-11 | 646/0 | Návrh zákona | [t064600.md](t064600.md) |
+| 2024-04-12 | 646/1 | Stanovisko vlády k návrhu poslanců Pavla Staňka a Jana Bureše na vydání zákona, kterým se zrušuje zákon č. 223/2016 Sb., o prodejní době v maloobchodě, ve znění pozdějších předpisů, a další související právní předpisy | [t064601.md](t064601.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t064600.md](t064600.md) | 646/0 | Návrh zákona včetně důvodové zprávy | [t064600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241265) | pymupdf / pdftotext 1.0000 |
+| [t064601.md](t064601.md) | 646/1 | Stanovisko | [t064601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234730) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
