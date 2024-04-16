@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2024:19.C.81.2024.1",
+  "docket": "19 C 81/2024-23",
+  "date": "2024-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe802940-b6ed-44b1-aa1b-5b84e53ede65",
+  "source_sha256": "8c5400b63a936243adeacf290e45e9a04354c2f334e0729823ce7a54bfef7fbe",
+  "source_id": "fe802940-b6ed-44b1-aa1b-5b84e53ede65",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 81/2024-23",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Ing. Patrik Kurztégl, Ph.D., LL.M.",
+    "ecli": "ECLI:CZ:OSTC:2024:19.C.81.2024.1",
+    "predmetRizeni": "o zaplacení částky 7.099.578,40 Kč s přísl.",
+    "datumVydani": "2024-04-16",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "podvod",
+      "bezdůvodné obohacení",
+      "software"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 116 z. č. 40/2009 Sb.",
+      "§ 209 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe802940-b6ed-44b1-aa1b-5b84e53ede65"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
