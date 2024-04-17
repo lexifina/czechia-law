@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-12-29 | 613/0 | Vládní návrh zákona | [t061300.md](t061300.md), [t0613a0.md](t0613a0.md), [t0613b0.md](t0613b0.md) |
 | 2024-02-14 | 613/1 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 175 ze dne 14. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 3/2002 Sb., o svobodě náboženského vyznání a postavení církví a náboženských společností a o změně některých zákonů  (zákon o církvích a náboženských společnostech), ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů | [t061301.md](t061301.md) |
 | 2024-03-27 | 613/2 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 182 ze dne 27. března 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 3/2002 Sb., o svobodě náboženského vyznání a postavení církví a náboženských společností a o změně některých zákonů  (zákon o církvích a náboženských společnostech), ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů | [t061302.md](t061302.md) |
+| 2024-04-17 | 613/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 3/2002 Sb., o svobodě náboženského vyznání a postavení církví a náboženských společností a o změně některých zákonů  (zákon o církvích a náboženských společnostech), ve znění pozdějších předpisů, a zákon č. 634/2004 Sb., o správních poplatcích, ve znění pozdějších předpisů | [t061303.md](t061303.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0613b0.md](t0613b0.md) | 613/0 | Platné znění s vyznačením změn | [t0613b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232336) | pymupdf / pdftotext 1.0000 |
 | [t061301.md](t061301.md) | 613/1 | Text | [t061301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233841) | pymupdf / pdftotext 1.0000 |
 | [t061302.md](t061302.md) | 613/2 | Text | [t061302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234364) | pymupdf / pdftotext 1.0000 |
+| [t061303.md](t061303.md) | 613/3 | Text | [t061303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234880) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
