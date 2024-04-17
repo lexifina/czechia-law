@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-08-01 | 504/0 | Návrh zákona | [t050400.md](t050400.md), [t0504a0.md](t0504a0.md) |
 | 2023-09-01 | 504/1 | Stanovisko vlády k návrhu poslanců Zdenky Němečkové Crkvenjaš, Toma Philippa, Věry Adámkové, Michaely Šebelové, Martiny Ochodnické, Kláry Kocmanové a Davida Kasala na vydání zákona, kterým se mění zákon č. 167/1998 Sb., o návykových látkách, ve  znění pozdějších předpisů a další související zákony | [t050401.md](t050401.md) |
 | 2024-04-09 | 504/2 | Usnesení výboru pro zdravotnictví č. 130 ze dne 9. dubna 2024 k návrhu poslanců Zdenky Němečkové Crkvenjaš, Toma Philippa, Věry Adámkové, Michaely Šebelové, Martiny Ochodnické, Kláry Kocmanové a Davida Kasala na vydání zákona, kterým se mění zákon č. 167/1998 Sb., o návykových látkách, ve  znění pozdějších předpisů a další související zákony | [t050402.md](t050402.md) |
+| 2024-04-17 | 504/3 | Pozměňovací a jiné návrhy k návrhu poslanců Zdenky Němečkové Crkvenjaš, Toma Philippa, Věry Adámkové, Michaely Šebelové, Martiny Ochodnické, Kláry Kocmanové a Davida Kasala na vydání zákona, kterým se mění zákon č. 167/1998 Sb., o návykových látkách, ve  znění pozdějších předpisů a další související zákony | [t050403.md](t050403.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0504a0.md](t0504a0.md) | 504/0 | Platné znění s vyznačením změn | [t0504a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=230740) | pymupdf / pdftotext 1.0000 |
 | [t050401.md](t050401.md) | 504/1 | Stanovisko | [t050401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=231591) | pymupdf / pdftotext 1.0000 |
 | [t050402.md](t050402.md) | 504/2 | Text | [t050402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234622) | pymupdf / pdftotext 1.0000 |
+| [t050403.md](t050403.md) | 504/3 | Text | [t050403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234892) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
