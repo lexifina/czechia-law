@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-12-01 | 520/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 103 ze dne 30. listopadu 2023 k vládnímu návrhu zákona, kterým se mění zákon č. 312/2002 Sb., o úřednících územních samosprávných celků a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t052001.md](t052001.md) |
 | 2024-02-02 | 520/2 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 107 ze dne 1. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 312/2002 Sb., o úřednících územních samosprávných celků a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t052002.md](t052002.md) |
 | 2024-04-16 | 520/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 312/2002 Sb., o úřednících územních samosprávných celků a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t052003.md](t052003.md) |
+| 2024-04-25 | 520/4 | Usnesení garančního výboru č. 115 ze dne 25. dubna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 312/2002 Sb., o úřednících územních samosprávných celků a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t052004.md](t052004.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t052001.md](t052001.md) | 520/1 | Text | [t052001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=239522) | pymupdf / pdftotext 1.0000 |
 | [t052002.md](t052002.md) | 520/2 | Text | [t052002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233436) | pymupdf / pdftotext 1.0000 |
 | [t052003.md](t052003.md) | 520/3 | Text | [t052003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234859) | pymupdf / pdftotext 1.0000 |
+| [t052004.md](t052004.md) | 520/4 | Text | [t052004.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240511) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
