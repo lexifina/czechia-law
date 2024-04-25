@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2024:19.C.87.2024.1",
+  "docket": "19 C 87/2024-23",
+  "date": "2024-04-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d88a3726-5b8d-46be-b265-db9e01e6d065",
+  "source_sha256": "55b64a839fb4f8524f4c9be72a33a811e222561d25b4e55299d67473e5a5ad4b",
+  "source_id": "d88a3726-5b8d-46be-b265-db9e01e6d065",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 87/2024-23",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Ing. Patrik Kurztégl, Ph.D., LL.M.",
+    "ecli": "ECLI:CZ:OSTC:2024:19.C.87.2024.1",
+    "predmetRizeni": "O zaplacení 66 641 Kč s příslušenstvím",
+    "datumVydani": "2024-04-25",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d88a3726-5b8d-46be-b265-db9e01e6d065"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
