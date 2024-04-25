@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-01-11 | 573/1 | Usnesení výboru pro sociální politiku č. 144 ze dne 10. ledna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů, a další související zákony | [t057301.md](t057301.md) |
 | 2024-02-15 | 573/2 | Usnesení výboru pro sociální politiku č. 147 ze dne 14. února 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů, a další související zákony | [t057302.md](t057302.md) |
 | 2024-04-10 | 573/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů, a další související zákony | [t057303.md](t057303.md) |
+| 2024-04-25 | 573/4 | Usnesení garančního výboru č. 155 ze dne 24. dubna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 359/1999 Sb., o sociálně-právní ochraně dětí, ve znění pozdějších předpisů, a další související zákony | [t057304.md](t057304.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t057301.md](t057301.md) | 573/1 | Text | [t057301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=232500) | pymupdf / pdftotext 1.0000 |
 | [t057302.md](t057302.md) | 573/2 | Text | [t057302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233959) | pymupdf / pdftotext 1.0000 |
 | [t057303.md](t057303.md) | 573/3 | Text | [t057303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234639) | pymupdf / pdftotext 1.0000 |
+| [t057304.md](t057304.md) | 573/4 | Text | [t057304.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235214) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
