@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-04-09 | 504/2 | Usnesení výboru pro zdravotnictví č. 130 ze dne 9. dubna 2024 k návrhu poslanců Zdenky Němečkové Crkvenjaš, Toma Philippa, Věry Adámkové, Michaely Šebelové, Martiny Ochodnické, Kláry Kocmanové a Davida Kasala na vydání zákona, kterým se mění zákon č. 167/1998 Sb., o návykových látkách, ve  znění pozdějších předpisů a další související zákony | [t050402.md](t050402.md) |
 | 2024-04-17 | 504/3 | Pozměňovací a jiné návrhy k návrhu poslanců Zdenky Němečkové Crkvenjaš, Toma Philippa, Věry Adámkové, Michaely Šebelové, Martiny Ochodnické, Kláry Kocmanové a Davida Kasala na vydání zákona, kterým se mění zákon č. 167/1998 Sb., o návykových látkách, ve  znění pozdějších předpisů a další související zákony | [t050403.md](t050403.md) |
 | 2024-04-25 | 504/4 | Usnesení garančního výboru č. 133 ze dne 24. dubna 2024 k návrhu poslanců Zdenky Němečkové Crkvenjaš, Toma Philippa, Věry Adámkové, Michaely Šebelové, Martiny Ochodnické, Kláry Kocmanové a Davida Kasala na vydání zákona, kterým se mění zákon č. 167/1998 Sb., o návykových látkách, ve  znění pozdějších předpisů a další související zákony | [t050404.md](t050404.md) |
+| 2024-04-25 | 504/5 | Usnesení garančního výboru č. 134 ze dne 24. dubna 2024 k návrhu poslanců Zdenky Němečkové Crkvenjaš, Toma Philippa, Věry Adámkové, Michaely Šebelové, Martiny Ochodnické, Kláry Kocmanové a Davida Kasala na vydání zákona, kterým se mění zákon č. 167/1998 Sb., o návykových látkách, ve  znění pozdějších předpisů a další související zákony | [t050405.md](t050405.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t050402.md](t050402.md) | 504/2 | Text | [t050402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234622) | pymupdf / pdftotext 1.0000 |
 | [t050403.md](t050403.md) | 504/3 | Text | [t050403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=234892) | pymupdf / pdftotext 1.0000 |
 | [t050404.md](t050404.md) | 504/4 | Text | [t050404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235243) | pymupdf / pdftotext 1.0000 |
+| [t050405.md](t050405.md) | 504/5 | Text | [t050405.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235246) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
