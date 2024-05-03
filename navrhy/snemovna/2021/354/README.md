@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2022-12-15 | 354/0 | Návrh zákona | [t035400.md](t035400.md), [t0354a0.md](t0354a0.md) |
 | 2023-01-13 | 354/1 | Stanovisko vlády k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové, Marka Výborného, Martina Baxy a Kláry Kocmanové na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035401.md](t035401.md) |
+| 2024-05-03 | 354/2 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 196 ze dne 3. května 2024 k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové, Marka Výborného, Martina Baxy a Kláry Kocmanové na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035402.md](t035402.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t035400.md](t035400.md) | 354/0 | Návrh zákona včetně důvodové zprávy | [t035400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223096) | pymupdf / pdftotext 1.0000 |
 | [t0354a0.md](t0354a0.md) | 354/0 | Platné znění s vyznačením změn | [t0354a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=223095) | pymupdf / pdftotext 1.0000 |
 | [t035401.md](t035401.md) | 354/1 | Stanovisko | [t035401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=221879) | pymupdf / pdftotext 1.0000 |
+| [t035402.md](t035402.md) | 354/2 | Text | [t035402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241614) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
