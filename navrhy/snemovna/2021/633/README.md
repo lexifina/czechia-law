@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-03-13 | 633/1 | Usnesení rozpočtového výboru č. 328 ze dne 13. března 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, a další související zákony | [t063301.md](t063301.md) |
 | 2024-04-24 | 633/2 | Usnesení rozpočtového výboru č. 333 ze dne 24. dubna 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, a další související zákony | [t063302.md](t063302.md) |
 | 2024-05-22 | 633/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, a další související zákony | [t063303.md](t063303.md) |
+| 2024-06-06 | 633/4 | Usnesení garančního výboru č. 342 ze dne 5. června 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, a další související zákony | [t063304.md](t063304.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t063301.md](t063301.md) | 633/1 | Text | [t063301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241361) | pymupdf / pdftotext 1.0000 |
 | [t063302.md](t063302.md) | 633/2 | Text | [t063302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=235180) | pymupdf / pdftotext 1.0000 |
 | [t063303.md](t063303.md) | 633/3 | Text | [t063303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=242039) | pymupdf / pdftotext 1.0000 |
+| [t063304.md](t063304.md) | 633/4 | Text | [t063304.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=242597) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
