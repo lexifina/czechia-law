@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-05-03 | 354/2 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 196 ze dne 3. května 2024 k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové, Marka Výborného, Martina Baxy a Kláry Kocmanové na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035402.md](t035402.md) |
 | 2024-05-24 | 354/3 | Usnesení výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu č. 198 ze dne 24. května 2024 k návrh poslanců Josefa Bernarda, Markéty Pekarové Adamové, Marka Výborného, Martina Baxy a Kláry Kocmanové na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035403.md](t035403.md) |
 | 2024-06-12 | 354/4 | Pozměňovací a jiné návrhy k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové, Marka Výborného, Martina Baxy a Kláry Kocmanové na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035404.md](t035404.md) |
+| 2024-06-21 | 354/5 | Usnesení garančního výboru č. 215 ze dne 21. června 2024 k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové, Marka Výborného, Martina Baxy a Kláry Kocmanové na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035405.md](t035405.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t035402.md](t035402.md) | 354/2 | Text | [t035402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=241614) | pymupdf / pdftotext 1.0000 |
 | [t035403.md](t035403.md) | 354/3 | Text | [t035403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=242165) | pymupdf / pdftotext 1.0000 |
 | [t035404.md](t035404.md) | 354/4 | Text | [t035404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=242974) | pymupdf / pdftotext 1.0000 |
+| [t035405.md](t035405.md) | 354/5 | Text | [t035405.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=243317) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
