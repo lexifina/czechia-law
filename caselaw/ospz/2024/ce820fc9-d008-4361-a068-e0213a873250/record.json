@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2024:3.C.1.2024.1",
+  "docket": "3 C 1/2024-59",
+  "date": "2024-06-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce820fc9-d008-4361-a068-e0213a873250",
+  "source_sha256": "b726e82d53fb887464dbfb9b416de78cb2e68dad3249bc941fa22f7753ffc5fe",
+  "source_id": "ce820fc9-d008-4361-a068-e0213a873250",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 1/2024-59",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Jana Líznerová, Ph.D.,",
+    "ecli": "ECLI:CZ:OSPZ:2024:3.C.1.2024.1",
+    "predmetRizeni": "O zaplacení 39 680 Kč s příslušenstvím",
+    "datumVydani": "2024-06-27",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "smlouva o zápůjčce",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce820fc9-d008-4361-a068-e0213a873250"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
