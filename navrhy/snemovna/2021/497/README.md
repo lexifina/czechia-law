@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-04-26 | 497/3 | Usnesení ústavně-právního výboru č. 164 ze dne 24. dubna 2024 k vládnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t049703.md](t049703.md) |
 | 2024-06-05 | 497/4 | Záznam zemědělského výboru č. 181 ze dne 4. června 2024 k vládnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t049704.md](t049704.md) |
 | 2024-06-05 | 497/5 | Usnesení výboru pro životní prostředí č. 120 ze dne 5. června 2024 k vládnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t049705.md](t049705.md) |
+| 2024-07-15 | 497/6 | Usnesení stálé komise pro Ústavu České republiky č. 8 ze dne 19. června 2024 k vládnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t049706.md](t049706.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t049703.md](t049703.md) | 497/3 | Text | [t049703.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=240568) | pymupdf / pdftotext 1.0000 |
 | [t049704.md](t049704.md) | 497/4 | Text | [t049704.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=242512) | pymupdf / pdftotext 1.0000 |
 | [t049705.md](t049705.md) | 497/5 | Text | [t049705.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=242538) | pymupdf / pdftotext 1.0000 |
+| [t049706.md](t049706.md) | 497/6 | Text | [t049706.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=243972) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
