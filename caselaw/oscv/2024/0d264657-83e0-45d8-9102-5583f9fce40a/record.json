@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2024:24.C.414.2023.1",
+  "docket": "24 C 414/2023-68",
+  "date": "2024-07-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d264657-83e0-45d8-9102-5583f9fce40a",
+  "source_sha256": "2a761b7f9b8e95bfb0039a5e8d2f6353b4468a21e4e10e963032707ba3181ec7",
+  "source_id": "0d264657-83e0-45d8-9102-5583f9fce40a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 414/2023-68",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2024:24.C.414.2023.1",
+    "predmetRizeni": "úvěr",
+    "datumVydani": "2024-07-29",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "smlouva o úvěru",
+      "doménové jméno",
+      "bezdůvodné obohacení",
+      "řidičský průkaz",
+      "insolvence"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d264657-83e0-45d8-9102-5583f9fce40a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
