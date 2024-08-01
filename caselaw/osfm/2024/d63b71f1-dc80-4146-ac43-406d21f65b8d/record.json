@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2024:9.C.38.2024.1",
+  "docket": "9 C 38/2024-32",
+  "date": "2024-08-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d63b71f1-dc80-4146-ac43-406d21f65b8d",
+  "source_sha256": "9124a0ecc8357ba261c2265db793fb562e8a2174b497d5388be7987bc04d9a2f",
+  "source_id": "d63b71f1-dc80-4146-ac43-406d21f65b8d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 38/2024-32",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Eva Hanková",
+    "ecli": "ECLI:CZ:OSFM:2024:9.C.38.2024.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2024-08-01",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d63b71f1-dc80-4146-ac43-406d21f65b8d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
