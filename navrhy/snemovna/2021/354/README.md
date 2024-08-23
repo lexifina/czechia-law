@@ -26,6 +26,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2024-06-12 | 354/4 | Pozměňovací a jiné návrhy k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové, Marka Výborného, Martina Baxy a Kláry Kocmanové na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035404.md](t035404.md) |
 | 2024-06-21 | 354/5 | Usnesení garančního výboru č. 215 ze dne 21. června 2024 k návrhu poslanců Josefa Bernarda, Markéty Pekarové Adamové, Marka Výborného, Martina Baxy a Kláry Kocmanové na vydání zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035405.md](t035405.md) |
 | 2024-08-23 | 354/6 | Návrh zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů, vrácený Senátem | [t035406.md](t035406.md) |
+| 2024-08-23 | 354/7 | Usnesení Senátu k návrhu zákona, kterým se mění zákon č. 245/2000 Sb., o státních svátcích, o ostatních svátcích, o významných dnech a o dnech pracovního klidu, ve znění pozdějších předpisů | [t035407.md](t035407.md) |
 
 ## Files
 
@@ -41,5 +42,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t035404.md](t035404.md) | 354/4 | Text | [t035404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=242974) | pymupdf / pdftotext 1.0000 |
 | [t035405.md](t035405.md) | 354/5 | Text | [t035405.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=243317) | pymupdf / pdftotext 1.0000 |
 | [t035406.md](t035406.md) | 354/6 | Text | [t035406.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=244440) | pymupdf / pdftotext 1.0000 |
+| [t035407.md](t035407.md) | 354/7 | Text | [t035407.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=244442) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
