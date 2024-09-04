@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2024:8.C.115.2024.1",
+  "docket": "8 C 115/2024-26",
+  "date": "2024-09-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f49db17a-d895-4df7-91d3-049807e3ecdb",
+  "source_sha256": "2626f8b72d158e0093c37d340ab76b4fb73f67ae51fe5ed4a89f5574364a843a",
+  "source_id": "f49db17a-d895-4df7-91d3-049807e3ecdb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 115/2024-26",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Pavel Janků",
+    "ecli": "ECLI:CZ:OSSU:2024:8.C.115.2024.1",
+    "predmetRizeni": "o 20 000 Kč s příslušenstvím",
+    "datumVydani": "2024-09-04",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 177/1996 Sb.",
+      "§ 13 z. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f49db17a-d895-4df7-91d3-049807e3ecdb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
