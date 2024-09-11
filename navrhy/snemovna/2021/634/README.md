@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2024-02-14 | 634/0 | Vládní návrh zákona | [t063400.md](t063400.md), [t0634a0.md](t0634a0.md) |
 | 2024-06-07 | 634/1 | Usnesení ústavně-právního výboru č. 172 ze dne 5. června 2024 k vládnímu návrhu zákona, kterým se mění zákon č. 7/2002 Sb., o řízení ve věcech soudců, státních zástupců a soudních exekutorů, ve znění pozdějších předpisů, a další související zákony | [t063401.md](t063401.md) |
+| 2024-09-11 | 634/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 7/2002 Sb., o řízení ve věcech soudců, státních zástupců a soudních exekutorů, ve znění pozdějších předpisů, a další související zákony | [t063402.md](t063402.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t063400.md](t063400.md) | 634/0 | Návrh zákona včetně důvodové zprávy | [t063400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233871) | pymupdf / pdftotext 1.0000 |
 | [t0634a0.md](t0634a0.md) | 634/0 | Platné znění s vyznačením změn | [t0634a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=233870) | pymupdf / pdftotext 1.0000 |
 | [t063401.md](t063401.md) | 634/1 | Text | [t063401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=242806) | pymupdf / pdftotext 1.0000 |
+| [t063402.md](t063402.md) | 634/2 | Text | [t063402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=245122) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
