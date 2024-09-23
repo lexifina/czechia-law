@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2024:35.C.139.2024.1",
+  "docket": "35 C 139/2024-31",
+  "date": "2024-09-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d331ccc-515f-499a-a57e-8e1d2a516a56",
+  "source_sha256": "71008d2c056053f3d889e7fb8b2d85773a52d6f1f5d5698071e3e57f293a7c53",
+  "source_id": "7d331ccc-515f-499a-a57e-8e1d2a516a56",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 139/2024-31",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Ing. Jana Kliková",
+    "ecli": "ECLI:CZ:OSCL:2024:35.C.139.2024.1",
+    "predmetRizeni": "O zaplacení 60 433,93 Kč s příslušenstvím",
+    "datumVydani": "2024-09-23",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 262/2006 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d331ccc-515f-499a-a57e-8e1d2a516a56"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
