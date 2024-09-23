@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2024:30.C.180.2024.1",
+  "docket": "30 C 180/2024-18",
+  "date": "2024-09-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9becef9a-2983-4b3b-9821-12687166ac3f",
+  "source_sha256": "70560e4e773081c720bc6aff879aa22bb8d096818eb8af465402b6d7b16eded0",
+  "source_id": "9becef9a-2983-4b3b-9821-12687166ac3f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 180/2024-18",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2024:30.C.180.2024.1",
+    "predmetRizeni": "o zaplacení 14 825 Kč s příslušenstvím,",
+    "datumVydani": "2024-09-23",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o zápůjčce",
+      "smlouva o úvěru",
+      "zastavení exekuce / výkonu rozhodnutí",
+      "bezdůvodné obohacení",
+      "insolvence"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 262/2006 Sb.",
+      "§ 87 z. č. 418/2011 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9becef9a-2983-4b3b-9821-12687166ac3f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
