@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2024:30.C.166.2024.1",
+  "docket": "30 C 166/2024-26",
+  "date": "2024-09-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bb31ccba-0a45-4301-939f-12017e712220",
+  "source_sha256": "863595df470760589d1568519302b234f0b1bfb1f5b383cc474e1d4470e68b82",
+  "source_id": "bb31ccba-0a45-4301-939f-12017e712220",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 166/2024-26",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2024:30.C.166.2024.1",
+    "predmetRizeni": "o zaplacení 83 853,82 Kč s příslušenstvím,",
+    "datumVydani": "2024-09-26",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o zápůjčce",
+      "postoupení smlouvy",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "zastavení exekuce / výkonu rozhodnutí",
+      "bezdůvodné obohacení",
+      "insolvence"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 262/2006 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb31ccba-0a45-4301-939f-12017e712220"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
