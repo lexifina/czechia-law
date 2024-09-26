@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2024:7.C.33.2024.1",
+  "docket": "7 C 33/2024-47",
+  "date": "2024-09-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ad2ea01-2cb5-4cb0-ae18-2f6987f33a48",
+  "source_sha256": "1016852f6573b92111736719e430a9b4bc9a424c0ec747f37724327f9ac7f92e",
+  "source_id": "5ad2ea01-2cb5-4cb0-ae18-2f6987f33a48",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 33/2024-47",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Marie Rychtářová",
+    "ecli": "ECLI:CZ:OSST:2024:7.C.33.2024.1",
+    "predmetRizeni": "O zaplacení 18 384,09 Kč s příslušenstvím",
+    "datumVydani": "2024-09-26",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ad2ea01-2cb5-4cb0-ae18-2f6987f33a48"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
