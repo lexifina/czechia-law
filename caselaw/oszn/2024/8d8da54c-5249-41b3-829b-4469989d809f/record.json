@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2024:9.C.190.2024.1",
+  "docket": "9 C 190/2024-46",
+  "date": "2024-09-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8d8da54c-5249-41b3-829b-4469989d809f",
+  "source_sha256": "c6deee5f06f5abd700b99cfcb2e309e160e53b1bb6d84ae5725c763088c92456",
+  "source_id": "8d8da54c-5249-41b3-829b-4469989d809f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 190/2024-46",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Marie Hladíková",
+    "ecli": "ECLI:CZ:OSZN:2024:9.C.190.2024.1",
+    "predmetRizeni": "11 955 Kč s příslušenstvím",
+    "datumVydani": "2024-09-30",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o zápůjčce",
+      "postoupení pohledávky",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8d8da54c-5249-41b3-829b-4469989d809f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
