@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2024:8.C.32.2023.107",
+  "docket": "8 C 32/2023-107",
+  "date": "2024-09-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fbc119cd-3582-4f92-b897-aaf699440bda",
+  "source_sha256": "c335b20e29c296f1df4ac9ed44a0b1e2ab718521b00a3cd094898d0ac66202fb",
+  "source_id": "fbc119cd-3582-4f92-b897-aaf699440bda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 32/2023-107",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Pavel Punčochář",
+    "ecli": "ECLI:CZ:OSPH07:2024:8.C.32.2023.107",
+    "predmetRizeni": "pro zaplacení 51 979,54 Kč s příslušenstvím",
+    "datumVydani": "2024-09-30",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "insolvence"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 262/2006 Sb.",
+      "§ 1723 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fbc119cd-3582-4f92-b897-aaf699440bda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
