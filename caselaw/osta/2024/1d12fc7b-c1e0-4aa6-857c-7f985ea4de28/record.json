@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2024:9.C.124.2022.1",
+  "docket": "9 C 124/2022-159",
+  "date": "2024-10-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d12fc7b-c1e0-4aa6-857c-7f985ea4de28",
+  "source_sha256": "90cd107d140ccb8367f5cd98f035b68ddebd44aed4a312d06131758b93f49e0c",
+  "source_id": "1d12fc7b-c1e0-4aa6-857c-7f985ea4de28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 124/2022-159",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2024:9.C.124.2022.1",
+    "predmetRizeni": "o náhradu škody",
+    "datumVydani": "2024-10-01",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "narovnání",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2918 z. č. 89/2012 Sb.",
+      "§ 2969 odst. 1 z. č. 89/2012 Sb.",
+      "§ 2952 z. č. 89/2012 Sb.",
+      "§ 2926 z. č. 89/2012 Sb.",
+      "§ 1877 z. č. 89/2012 Sb.",
+      "§ 1127 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d12fc7b-c1e0-4aa6-857c-7f985ea4de28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
