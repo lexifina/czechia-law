@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2024:1.C.212.2024.1",
+  "docket": "1 C 212/2024-69",
+  "date": "2024-10-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8afa0320-aacc-4c08-868f-4e12bc403e17",
+  "source_sha256": "bb64ca3d195de34aec8d72c5de2bac7f9a7fc2b5362121e33f4cf00dcb0bd6e7",
+  "source_id": "8afa0320-aacc-4c08-868f-4e12bc403e17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 212/2024-69",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Petr Šustr",
+    "ecli": "ECLI:CZ:OSCV:2024:1.C.212.2024.1",
+    "predmetRizeni": "o zaplacení 19 228,54 Kč s příslušenstvím,",
+    "datumVydani": "2024-10-01",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "prodlení věřitele"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8afa0320-aacc-4c08-868f-4e12bc403e17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
