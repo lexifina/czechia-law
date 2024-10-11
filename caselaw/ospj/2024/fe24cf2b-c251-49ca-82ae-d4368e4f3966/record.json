@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2024:8.C.227.2024.1",
+  "docket": "8 C 227/2024-19",
+  "date": "2024-10-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe24cf2b-c251-49ca-82ae-d4368e4f3966",
+  "source_sha256": "c958b5e32e797713a50143903cc88e3a7538bcfecd8848ea5bc8d0d0b410dd05",
+  "source_id": "fe24cf2b-c251-49ca-82ae-d4368e4f3966",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 227/2024-19",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Dana Reimannová",
+    "ecli": "ECLI:CZ:OSPJ:2024:8.C.227.2024.1",
+    "predmetRizeni": "O zaplacení 15 420 Kč s příslušenstvím",
+    "datumVydani": "2024-10-11",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o zápůjčce",
+      "bezdůvodné obohacení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 39 z. č. 40/1964 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe24cf2b-c251-49ca-82ae-d4368e4f3966"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
