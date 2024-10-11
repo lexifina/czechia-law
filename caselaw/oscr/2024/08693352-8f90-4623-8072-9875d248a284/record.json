@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2024:12.C.127.2024.1",
+  "docket": "12 C 127/2024-42",
+  "date": "2024-10-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08693352-8f90-4623-8072-9875d248a284",
+  "source_sha256": "c83c45ecc0012c4e47ead8e1369b06bbc0afe69640e0cb23b40cc28a1bf0ed04",
+  "source_id": "08693352-8f90-4623-8072-9875d248a284",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 127/2024-42",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Eva Bačkovská",
+    "ecli": "ECLI:CZ:OSCR:2024:12.C.127.2024.1",
+    "predmetRizeni": "o zaplacení 13 102 Kč s příslušenstvím",
+    "datumVydani": "2024-10-11",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva kupní",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 4 vyhl. č. 205/1999 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2 z. č. 205/1999 Sb.",
+      "§ 4 z. č. 205/1999 Sb.",
+      "§ 1 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08693352-8f90-4623-8072-9875d248a284"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
