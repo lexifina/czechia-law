@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2024:39.C.205.2024.1",
+  "docket": "39 C 205/2024-19",
+  "date": "2024-10-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9180ff01-96b6-46cf-9a78-e8e92d8d524f",
+  "source_sha256": "03efdd1a325ac72bbc82aa877ab3293b9b4a04b22a190de924323a63a2ce683b",
+  "source_id": "9180ff01-96b6-46cf-9a78-e8e92d8d524f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 205/2024-19",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Veronika Kouřilová",
+    "ecli": "ECLI:CZ:OSPY:2024:39.C.205.2024.1",
+    "predmetRizeni": "O zaplacení 29 175 Kč s příslušenstvím",
+    "datumVydani": "2024-10-14",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "prodlení věřitele"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9180ff01-96b6-46cf-9a78-e8e92d8d524f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
