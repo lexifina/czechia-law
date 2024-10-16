@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2024:25.C.125.2024.1",
+  "docket": "25 C 125/2024-18",
+  "date": "2024-10-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a2c40d4-75d3-43d3-a762-8e1a9bda055f",
+  "source_sha256": "4028094870a553b42bf091b00cd35d66da5d7d48f6295f1d3c62e0799f818bc2",
+  "source_id": "8a2c40d4-75d3-43d3-a762-8e1a9bda055f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 125/2024-18",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "Mgr. Ing. Marek Poláček",
+    "ecli": "ECLI:CZ:OSPJ:2024:25.C.125.2024.1",
+    "predmetRizeni": "O zaplacení 589 051,56 Kč s příslušenstvím",
+    "datumVydani": "2024-10-16",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a2c40d4-75d3-43d3-a762-8e1a9bda055f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
