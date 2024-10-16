@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2024:115.C.84.2020.1",
+  "docket": "115 C 84/2020-21",
+  "date": "2024-10-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da2a7038-bf5a-430a-a440-a3d085d8bf9a",
+  "source_sha256": "9efb4e16298b2940a18e22220b87d6fad875b04f3cfab0dcb0df48371f4f03fb",
+  "source_id": "da2a7038-bf5a-430a-a440-a3d085d8bf9a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 84/2020-21",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Slaná",
+    "ecli": "ECLI:CZ:MSBR:2024:115.C.84.2020.1",
+    "predmetRizeni": "zaplacení 23.400 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2024-10-16",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "oddlužení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da2a7038-bf5a-430a-a440-a3d085d8bf9a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
