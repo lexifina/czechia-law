@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2024:8.C.74.2024.1",
+  "docket": "8 C 74/2024-90",
+  "date": "2024-10-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5d33d9b4-388a-46a2-9fb3-b545b145ad42",
+  "source_sha256": "8d5a65033a63857dba1ae41d469cbbb5a9b4e6faf29e87ff74d20a4dcd8b4461",
+  "source_id": "5d33d9b4-388a-46a2-9fb3-b545b145ad42",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 74/2024-90",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Iva Opletalová",
+    "ecli": "ECLI:CZ:OSKM:2024:8.C.74.2024.1",
+    "predmetRizeni": "zaplacení 30 598,59 Kč s příslušenstvím",
+    "datumVydani": "2024-10-16",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "bezdůvodné obohacení",
+      "neplatnost právního jednání",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 164 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5d33d9b4-388a-46a2-9fb3-b545b145ad42"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
