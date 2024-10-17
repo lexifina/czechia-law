@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2024:11.C.197.2023.1",
+  "docket": "11 C 197/2023-66",
+  "date": "2024-10-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4dc8faf3-b1de-4709-b26f-f88e5c93591e",
+  "source_sha256": "187a1a64bc70dfca5fd739067fc19be950be8c77961e3b3f2bc63b015c9d426b",
+  "source_id": "4dc8faf3-b1de-4709-b26f-f88e5c93591e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 197/2023-66",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Ing. Lubomír Křikava",
+    "ecli": "ECLI:CZ:OSJI:2024:11.C.197.2023.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2024-10-17",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "alkoholismus",
+      "insolvence",
+      "opilost",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4dc8faf3-b1de-4709-b26f-f88e5c93591e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
