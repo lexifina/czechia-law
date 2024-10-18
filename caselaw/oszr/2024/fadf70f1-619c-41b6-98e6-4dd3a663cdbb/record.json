@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2024:6.C.93.2024.1",
+  "docket": "6 C 93/2024-53",
+  "date": "2024-10-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fadf70f1-619c-41b6-98e6-4dd3a663cdbb",
+  "source_sha256": "db606efb8eae909d20934745a99caf577bea1a4d600643739d2a81f45bcdd491",
+  "source_id": "fadf70f1-619c-41b6-98e6-4dd3a663cdbb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 93/2024-53",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jana Homolová",
+    "ecli": "ECLI:CZ:OSZR:2024:6.C.93.2024.1",
+    "predmetRizeni": "O zaplacení 15 372,37 Kč s příslušenstvím",
+    "datumVydani": "2024-10-18",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fadf70f1-619c-41b6-98e6-4dd3a663cdbb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
