@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2024:50.C.159.2024.1",
+  "docket": "50 C 159/2024-30",
+  "date": "2024-10-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3390e57c-c93b-4968-a78a-026deed21b65",
+  "source_sha256": "4b6a08eccbd2414f6c3d976adc92fd2eb16f88ea69e5b8b5a174d8d3312c0c3f",
+  "source_id": "3390e57c-c93b-4968-a78a-026deed21b65",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 159/2024-30",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2024:50.C.159.2024.1",
+    "predmetRizeni": "20 921 Kč s příslušenstvím",
+    "datumVydani": "2024-10-21",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "vzájemné plnění",
+      "postoupení smlouvy",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "bezdůvodné obohacení",
+      "insolvence",
+      "neplatnost právního jednání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3390e57c-c93b-4968-a78a-026deed21b65"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
