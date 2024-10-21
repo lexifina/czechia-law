@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2024:35.C.179.2024.1",
+  "docket": "35 C 179/2024-10",
+  "date": "2024-10-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e139101-b0ef-46ae-b4ae-05306357c796",
+  "source_sha256": "99120a5a179d65bb02219fad1208605880454b4eff96696d0f3fa744a991f1a6",
+  "source_id": "8e139101-b0ef-46ae-b4ae-05306357c796",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 179/2024-10",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Ing. Jana Kliková",
+    "ecli": "ECLI:CZ:OSCL:2024:35.C.179.2024.1",
+    "predmetRizeni": "O zaplacení 10 570 Kč s příslušenstvím",
+    "datumVydani": "2024-10-21",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 2 z. č. 205/1999 Sb.",
+      "§ 1 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e139101-b0ef-46ae-b4ae-05306357c796"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
