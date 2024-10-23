@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2024:50.C.169.2024.1",
+  "docket": "50 C 169/2024-50",
+  "date": "2024-10-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a693506f-1504-43e5-a643-b633f4c00441",
+  "source_sha256": "3eb892026d0d8582d3cc8e9cc55cdb51a2cb16f8d2ea25509980b76eb41b652e",
+  "source_id": "a693506f-1504-43e5-a643-b633f4c00441",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 169/2024-50",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2024:50.C.169.2024.1",
+    "predmetRizeni": "12 459,80 Kč s příslušenstvím",
+    "datumVydani": "2024-10-23",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "bezdůvodné obohacení",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a693506f-1504-43e5-a643-b633f4c00441"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
