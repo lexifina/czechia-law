@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2024:8.C.250.2024.1",
+  "docket": "8 C 250/2024-17",
+  "date": "2024-10-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/903c210a-ef26-4e72-8b71-029ae1a7c037",
+  "source_sha256": "5cf8d8d2f1fb93c9b4ed407b9642bdf0e8b9e6662ad8311ef2c832ca8de358a1",
+  "source_id": "903c210a-ef26-4e72-8b71-029ae1a7c037",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 250/2024-17",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Dana Reimannová",
+    "ecli": "ECLI:CZ:OSPJ:2024:8.C.250.2024.1",
+    "predmetRizeni": "O zaplacení 36 500 Kč s příslušenstvím",
+    "datumVydani": "2024-10-23",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva o půjčce",
+      "poplatek z prodlení",
+      "neplatnost právního jednání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/903c210a-ef26-4e72-8b71-029ae1a7c037"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
