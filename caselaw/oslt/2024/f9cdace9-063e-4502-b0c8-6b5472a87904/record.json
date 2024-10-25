@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2024:13.C.254.2024.1",
+  "docket": "13 C 254/2024-35",
+  "date": "2024-10-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9cdace9-063e-4502-b0c8-6b5472a87904",
+  "source_sha256": "5d272f7e4adfddbd010d3d0d9ae12396d1b215f1d5b2f45fab2ca7b4ca1d3267",
+  "source_id": "f9cdace9-063e-4502-b0c8-6b5472a87904",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 254/2024-35",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Pavel Skalka",
+    "ecli": "ECLI:CZ:OSLT:2024:13.C.254.2024.1",
+    "predmetRizeni": "O zaplacení 22 523,92 Kč s příslušenstvím",
+    "datumVydani": "2024-10-25",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "oddlužení",
+      "smlouva o zápůjčce",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9cdace9-063e-4502-b0c8-6b5472a87904"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
