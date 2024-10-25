@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2024:8.C.127.2024.1",
+  "docket": "8 C 127/2024-46",
+  "date": "2024-10-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e81e925-7874-445b-a413-4367e1eaa770",
+  "source_sha256": "003c00770d68e0b2d41452ddfad4a32fa5fabf9fd2e3a37771bee7a0f90f1f2a",
+  "source_id": "8e81e925-7874-445b-a413-4367e1eaa770",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 127/2024-46",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Petr Karásek",
+    "ecli": "ECLI:CZ:OSCV:2024:8.C.127.2024.1",
+    "predmetRizeni": "zaplacení 139 824 Kč s příslušenstvím (bezdůvodné obohacení)",
+    "datumVydani": "2024-10-25",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e81e925-7874-445b-a413-4367e1eaa770"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
