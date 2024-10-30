@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2024:16.C.214.2024.1",
+  "docket": "16 C 214/2024-88",
+  "date": "2024-10-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/583ea6ea-3793-4abd-bfeb-e71b4eaf14d9",
+  "source_sha256": "8d712f56dfef48d8059c5ef19971dce2d19a4541fe766bd5b837c1d727b459d0",
+  "source_id": "583ea6ea-3793-4abd-bfeb-e71b4eaf14d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 214/2024-88",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Libor Brokeš",
+    "ecli": "ECLI:CZ:OSOL:2024:16.C.214.2024.1",
+    "predmetRizeni": "o 10 440 Kč s příslušenstvím",
+    "datumVydani": "2024-10-30",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/583ea6ea-3793-4abd-bfeb-e71b4eaf14d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
