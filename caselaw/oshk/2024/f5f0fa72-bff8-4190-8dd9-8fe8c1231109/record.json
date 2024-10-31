@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2024:8.C.246.2024.1",
+  "docket": "8 C 246/2024-15",
+  "date": "2024-10-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5f0fa72-bff8-4190-8dd9-8fe8c1231109",
+  "source_sha256": "5614c651c9b5551f22dab031f7fa9c7f9c620f2fe44cacc3db957094a4656282",
+  "source_id": "f5f0fa72-bff8-4190-8dd9-8fe8c1231109",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 246/2024-15",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Michaela Nováková",
+    "ecli": "ECLI:CZ:OSHK:2024:8.C.246.2024.1",
+    "predmetRizeni": "o zaplacení částky 14 520 Kč s příslušenstvím",
+    "datumVydani": "2024-10-31",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 1476 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5f0fa72-bff8-4190-8dd9-8fe8c1231109"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
