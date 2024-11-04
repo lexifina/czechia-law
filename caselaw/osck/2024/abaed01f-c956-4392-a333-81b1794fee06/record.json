@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2024:2.C.161.2024.1",
+  "docket": "2 C 161/2024-35",
+  "date": "2024-11-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/abaed01f-c956-4392-a333-81b1794fee06",
+  "source_sha256": "1f7a34104dc115fd2db919c92ac10039fda44a523b9ff84c83017478c83634df",
+  "source_id": "abaed01f-c956-4392-a333-81b1794fee06",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 161/2024-35",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Hubert Maxa, Ph.D.,",
+    "ecli": "ECLI:CZ:OSCK:2024:2.C.161.2024.1",
+    "predmetRizeni": "o zaplacení 10 954 Kč s příslušenstvím",
+    "datumVydani": "2024-11-04",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "rodičovská dovolená"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/abaed01f-c956-4392-a333-81b1794fee06"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
