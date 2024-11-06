@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2024:25.C.42.2024.1",
+  "docket": "25 C 42/2024-15",
+  "date": "2024-11-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dfe130eb-4335-47d1-9bd9-5fe39152ce5b",
+  "source_sha256": "3c2fa9a95c474d25cbf3ec240c1608e7748dd37be357d03403ef14fea41a9729",
+  "source_id": "dfe130eb-4335-47d1-9bd9-5fe39152ce5b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 42/2024-15",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPS:2024:25.C.42.2024.1",
+    "predmetRizeni": "25 668,23 Kč s příslušenstvím",
+    "datumVydani": "2024-11-06",
+    "datumZverejneni": "2025-01-02",
+    "klicovaSlova": [
+      "smlouva o sdružení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dfe130eb-4335-47d1-9bd9-5fe39152ce5b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
