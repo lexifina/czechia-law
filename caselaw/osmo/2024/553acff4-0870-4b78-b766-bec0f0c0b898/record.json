@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2024:50.C.177.2024.1",
+  "docket": "50 C 177/2024-24",
+  "date": "2024-11-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/553acff4-0870-4b78-b766-bec0f0c0b898",
+  "source_sha256": "601802f552f32372b56da9b69847f78f1c792100a09bbac39297ca4f69abe9bb",
+  "source_id": "553acff4-0870-4b78-b766-bec0f0c0b898",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 177/2024-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2024:50.C.177.2024.1",
+    "predmetRizeni": "11 391,77 Kč s příslušenstvím",
+    "datumVydani": "2024-11-06",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/553acff4-0870-4b78-b766-bec0f0c0b898"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
