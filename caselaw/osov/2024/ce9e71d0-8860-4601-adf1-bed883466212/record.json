@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2024:35.C.48.2024.1",
+  "docket": "35 C 48/2024-27",
+  "date": "2024-11-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce9e71d0-8860-4601-adf1-bed883466212",
+  "source_sha256": "a685275af30845cbd1f9ab2abc34c45e5b0653494f10bcd051d964976620419c",
+  "source_id": "ce9e71d0-8860-4601-adf1-bed883466212",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 48/2024-27",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. et Mgr. Kristýna Černá",
+    "ecli": "ECLI:CZ:OSOV:2024:35.C.48.2024.1",
+    "predmetRizeni": "o zaplacení 130 597,50 Kč s příslušenstvím",
+    "datumVydani": "2024-11-12",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 87 vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 262/2006 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce9e71d0-8860-4601-adf1-bed883466212"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
