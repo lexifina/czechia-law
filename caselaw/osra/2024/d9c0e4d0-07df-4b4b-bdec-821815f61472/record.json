@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rakovníku",
+  "ecli": "ECLI:CZ:OSRA:2024:7.C.120.2024.1",
+  "docket": "7 C 120/2024-37",
+  "date": "2024-11-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2025-01-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9c0e4d0-07df-4b4b-bdec-821815f61472",
+  "source_sha256": "3a0f1cfa9c6477106d3567cc81759752106e9e2155127aac80f17c8ec4f1a296",
+  "source_id": "d9c0e4d0-07df-4b4b-bdec-821815f61472",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 120/2024-37",
+    "soud": "Okresní soud v Rakovníku",
+    "autor": "Mgr. et Mgr. Eva Pechlátová",
+    "ecli": "ECLI:CZ:OSRA:2024:7.C.120.2024.1",
+    "predmetRizeni": "o zaplacení 171 089 Kč s příslušenstvím",
+    "datumVydani": "2024-11-13",
+    "datumZverejneni": "2025-01-03",
+    "klicovaSlova": [
+      "smlouva o dílo",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9c0e4d0-07df-4b4b-bdec-821815f61472"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
