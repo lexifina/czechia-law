@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2023-03-03 | 376/1 | Stanovisko vlády k návrhu poslanců Ivana Adamce, Martina Kupky, Ondřeje Lochmana, Antonína Tesaříka, Jiřího Slavíka a Jakuba Michálka na vydání zákona, kterým se mění zákon č. 104/2000 Sb., o Státním fondu dopravní infrastruktury, ve znění pozdějších předpisů | [t037601.md](t037601.md) |
 | 2025-01-17 | 376/2 | Usnesení hospodářského výboru č. 307 ze dne 16. ledna 2025 k návrhu poslanců Ivana Adamce, Martina Kupky, Ondřeje Lochmana, Antonína Tesaříka, Jiřího Slavíka a Jakuba Michálka na vydání zákona, kterým se mění zákon č. 104/2000 Sb., o Státním fondu dopravní infrastruktury, ve znění pozdějších předpisů | [t037602.md](t037602.md) |
 | 2025-01-29 | 376/3 | Pozměňovací a jiné návrhy k návrhu poslanců Ivana Adamce, Martina Kupky, Ondřeje Lochmana, Antonína Tesaříka, Jiřího Slavíka a Jakuba Michálka na vydání zákona, kterým se mění zákon č. 104/2000 Sb., o Státním fondu dopravní infrastruktury, ve znění pozdějších předpisů | [t037603.md](t037603.md) |
+| 2025-02-06 | 376/4 | Usnesení garančního výboru č. 314 ze dne 6. února 2025 k návrhu poslanců Ivana Adamce, Martina Kupky, Ondřeje Lochmana, Antonína Tesaříka, Jiřího Slavíka a Jakuba Michálka na vydání zákona, kterým se mění zákon č. 104/2000 Sb., o Státním fondu dopravní infrastruktury, ve znění pozdějších předpisů | [t037604.md](t037604.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t037601.md](t037601.md) | 376/1 | Stanovisko | [t037601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=225204) | pymupdf / pdftotext 1.0000 |
 | [t037602.md](t037602.md) | 376/2 | Text | [t037602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=250462) | pymupdf / pdftotext 1.0000 |
 | [t037603.md](t037603.md) | 376/3 | Text | [t037603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=251777) | pymupdf / pdftotext 1.0000 |
+| [t037604.md](t037604.md) | 376/4 | Text | [t037604.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=252064) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
