@@ -1,0 +1,267 @@
+---
+citace: "Obecně závazná vyhláška obce Rynholec č. 1/2025"
+nazev: "OZV č. 1- obecní systém odpadového hospodářství"
+druh: "Obecně závazná vyhláška"
+cislo: "1/2025"
+vydavatel: "Obec Rynholec"
+ico: "00244341"
+kraj: "Středočeský kraj"
+zmocneni: ["zákon č. 541/2020 Sb., o odpadech - § 59 odst. 4"]
+oblast: ["systém odpadového hospodářství"]
+vydano: "2025-02-05"
+zverejneno_ve_sbirce: "2025-02-10"
+ucinnost: "2025-02-25"
+sppsu_id: "SPPQJLN4JMWXJL2A"
+verze: "1"
+url: "https://sbirkapp.gov.cz/detail/SPPQJLN4JMWXJL2A"
+text_url: "https://sbirkapp.gov.cz/detail/SPPQJLN4JMWXJL2A/text"
+soubor: "ozv-1-2025-o-odpadech.pdf"
+soubor_sha256: "2691b3e0f670162642ed038d22d223c37c648fff3b85daf8bf0e494adb83836f"
+ziskani_textu: "pdf-text"
+obrazky: 1
+obrazky_poznamka: "the published file holds images (e.g. coat of arms, signatures, maps); not reproduced here; see text_url"
+---
+
+# OZV č. 1- obecní systém odpadového hospodářství
+
+1
+
+O B E C   R Y N H O L E C
+
+ZASTUPITELSTVO OBCE RYNHOLEC
+
+Obecně závazná vyhláška č. 1/2025,
+
+kterou se stanoví obecní systém odpadového hospodářství
+
+Zastupitelstvo obce Rynholec se na svém zasedání konaném dne 5. února 2025 usneslo usnesením č.9/1/2025 vydat na základě § 59 odst. 4 a 5 zákona č. 541/2020 Sb., o odpadech (dále jen „zákon o odpadech“), a podle § 10 písm. d) a § 84 odst. 2 písm. h) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, tuto obecně závaznou vyhlášku (dále jen „vyhláška“):
+
+Článek 1
+
+Předmět a působnost vyhlášky
+
+1. Tato vyhláška stanoví obecní systém odpadového hospodářství na území obce Rynholec (dále jen „obecní systém odpadového hospodářství“).
+
+2. Tato vyhláška rovněž stanoví místa, kde obec Rynholec  (dále jen „obec“) přebírá:
+
+a. stavební a demoliční odpad vznikající na území města při činnosti
+
+nepodnikajících fyzických osob,
+
+b. výrobky s ukončenou životností v rámci služby pro výrobce podle
+
+zákona o výrobcích s ukončenou životností.
+
+Článek 2
+
+Základní pojmy
+
+1. Nápojovými kartony se pro účely této vyhlášky rozumí kompozitní (vícesložkové) obaly (např. od mléka, vína, džusů a jiných poživatin).
+
+2
+
+2. Biologicky rozložitelným odpadem se pro účely této vyhlášky rozumí odpad rostlinného původu podléhající aerobnímu nebo anaerobnímu rozkladu (např. ze zahrad, veřejné zeleně, domácností) s výjimkou jedlých olejů a tuků.
+
+3. Nebezpečný odpad je definován zákonem.1)
+
+4. Objemný odpad je složka komunálního odpadu, která pro velké rozměry nebo hmotnost nemůže být odkládána do sběrných nádob na směsný komunální odpad (např. starý nábytek, koberce, matrace apod.).
+
+5. Směsný komunální odpad je složka komunálního odpadu, která zůstává po vytřídění složek komunálního odpadu uvedených v čl. 3 písm. a) až i) této vyhlášky.
+
+6. Stanoviště zvláštních sběrných nádob jsou místa, kde jsou umístěny zvláštní sběrné nádoby na vybrané složky komunálního odpadu. Nádoby jsou označeny polepem popisujícím příslušnou složku komunálního odpadu, pro kterou jsou výlučně určeny. Aktuální seznam stanovišť zvláštních sběrných nádob:
+
+- náměstí 1. Máje – za obecním úřadem
+
+- ulice V Brance 2x
+
+- křižovatka ulice Hornická  pod Laurou
+
+- ulice Hornická proti prodejně COOP
+
+- ulice Strašecká u sokolovny
+
+- ulice  Strmá
+
+- křižovatka ulic Lánská a V Zahradách
+
+7. Sběrný dvůr je místo, které slouží k odkládání určených složek komunálního odpadu do shromažďovacích prostředků během provozní doby zveřejněné na webových stránkách města.
+
+Nachází se na adrese Sběrna u Ryssů v areálu průmyslové zóny v bývalém dolu ČSA.
+
+8. Sběrný nádoba na komunální odpad je plastová nádoba o objemu 120 l nebo 240 l, nebo plechová nádoba o objemu 110 l s logem svozové společnosti a vydává se v předem daném množství zveřejněném na webových stránkách obce na obecním úřadu.
+
+9. Stavební a demoliční odpad je definován zákonem.2)
+
+3
+
+Článek 3
+
+Třídění komunálního odpadu
+
+Komunální odpad se v obecním systému odpadového hospodářství třídí na tyto složky:
+
+a. papír
+
+b. sklo
+
+c. plasty a nápojové kartony3)
+
+d. kovy
+
+e. textil
+
+f. biologicky rozložitelný odpad
+
+g. jedlé oleje a tuky
+
+h. objemný odpad
+
+i. nebezpečný odpad
+
+j. směsný komunální odpad
+
+Článek 4
+
+Místa určená k soustřeďování složek komunálního odpadu
+
+Jednotlivé složky komunálního odpadu se soustřeďují:
+
+a. papír –
+
+1. do zvláštních sběrných nádob (podzemní kontejnery o objemu 5000 litrů, nadzemní kontejnery o objemu 1100 litrů  označené modrou barvou a příslušným nápisem) umístěných na stanovištích zvláštních sběrných nádob.
+
+2. ve sběrném dvoře.
+
+b. sklo –
+
+1. do zvláštních sběrných nádob (podzemní kontejnery o objemu 3000 litrů nebo nadzemní kontejnery o objemu 1100 litrů označených zelenou barvou a příslušným nápisem) umístěných na stanovištích zvláštních sběrných nádob.
+
+2. ve sběrném dvoře.
+
+c. plasty a nápojové kartony –
+
+1. do zvláštních sběrných nádob (podzemní kontejnery o objemu 5000 litrů, nadzemní kontejnery o objemu 1100 litrů označené žlutou barvou a příslušným nápisem) umístěných na stanovištích zvláštních sběrných nádob.
+
+4
+
+2. ve sběrném dvoře.
+
+d. kovy –
+
+1. do zvláštních sběrných nádob (podzemních kontejnerů o objemu 3000 litrů nebo nadzemních kontejnerů o objemu 1100 litrů) označených nápisem „KOVY“ umístěných na stanovištích zvláštních sběrných nádob.
+
+2. ve sběrném dvoře.
+
+e. textil –
+
+1. do zvláštních sběrných nádob (kontejnerů) označených nápisem „TEXTIL“ umístěných na stanovištích zvláštních sběrných nádob.
+
+2. ve sběrném dvoře.
+
+f. biologicky rozložitelný odpad –
+
+1. do zvláštních sběrných nádob – kontejnerů oranžové barvy, rozmístěných na území obce v období zpravidla od dubna do listopadu kalendářního roku.
+
+g. jedlé oleje a tuky –
+
+1. do zvláštních sběrných nádob (popelnice o objemu 240 litrů černé barvy s příslušným žlutým nápisem) umístěných na stanovištích zvláštních sběrných nádob.
+
+h. objemný odpad –
+
+1. ve sběrném dvoře. 2. na dvoře obecního úřadu do přistavených velkoobjemových kontejnerů (zpravidla 1x za 2-3 měsíce).
+
+i. nebezpečný odpad –
+
+1. na dvoře obecního úřadu do přistavených nádob svozovou společností 2x ročně (květen a listopad).
+
+j. směsný komunální odpad –
+
+1. do typizovaných sběrných nádob u příslušné nemovitosti (popelnice o objemu 120 nebo 240 litrů).
+
+2. do typizovaných sběrných nádob společných pro více uživatelů (kontejnery o objemu 1100 litrů).
+
+3. do odpadkových košů rozmístěných na veřejném prostranství - pouze drobný směsný komunální odpad vzniklý na veřejném prostranství.
+
+5
+
+Článek 5
+
+Povinnosti osob
+
+Osoby jsou povinny:
+
+a. komunální odpad třídit na složky uvedené v článku 3 a odkládat na místa určená
+
+k soustřeďování jednotlivých složek komunálního odpadu dle článku 4 vyhlášky,
+
+b. ukládat do sběrných nádob pouze ty složky, které odpovídají označení sběrné
+
+nádoby dle článku 4 vyhlášky,
+
+c. mechanicky zmenšit objem (např. sešlápnutím, slisováním, zmáčknutím)
+
+dutého plastu (např. PET lahve) nebo dutého papíru (např. krabice) před odložením do sběrné nádoby,
+
+d. nezhutňovat a neudupávat odpad ve sběrných nádobách,
+
+e. plnit sběrné nádoby tak, aby je bylo možno uzavřít a odpad z nich při manipulaci
+
+nevypadával,
+
+f. přistavit sběrnou nádobu na směsný komunální odpad dle čl. 4 písm. j) bod 1.
+
+této vyhlášky k vyprázdnění v den vyprazdňování5)  před objekt na volně přístupné místo,
+
+Článek 6
+
+Místa pro přebírání stavebního a demoličního odpadu
+
+1) Stavebním odpadem se rozumí stavební a demoliční odpad. Stavební odpad není odpadem komunálním. 2) Stavební odpad lze použít, předat či odstranit pouze zákonem stanoveným způsobem. 3) Pro odložení stavebního odpadu je možné objednat obecní kontejner, který bude přistaven a odvezen za úplatu. Objednávky přijímá obecní úřad Rynholec. 4) Občané obce mohou za úhradu dle platného ceníku ukládat stavební a demoliční odpad v areálu společnosti České lupkové závody a.s. v Novém Strašecí.
+
+Článek 7
+
+Místa pro přebírání výrobků s ukončenou životností
+
+Obec přebírá výrobky s ukončenou životností v rámci služby pro výrobce podle zákona o výrobcích s ukončenou životností7), a to
+
+6
+
+a. elektrozařízení – ve sběrném dvoře, nebo po dohodě se zástupcem SDH (Sbor
+
+dobrovolných hasičů Rynholec) na jimi určeném místě.
+
+Článek 8
+
+Zrušovací ustanovení
+
+Zrušuje se obecně závazná vyhláška č. 1/2021, kterou se stanoví systém shromažďování, sběru, přepravy, třídění, využívání a odstraňování komunálních odpadů a systém nakládání se stavebním odpadem na území obce Rynholec, ze dne 1.1.2022.
+
+Článek 9
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti počátkem patnáctého dne následujícího po dni jejího vyhlášení.
+
+.....................................                                                        ..........................................
+
+Kevin Franc v.r.                                                                    Jaromír Dyntar v.r.
+
+místostarosta                                                                              starosta
+
+1) § 7 odst. 1 zákona o odpadech (Nebezpečný odpad je odpad, který a) vykazuje alespoň jednu z nebezpečných vlastností uvedených v příloze přímo použitelných předpisů Evropské unie o nebezpečných vlastnostech odpadů, b) se zařazuje do druhu odpadu, kterému je v Katalogu odpadů přiřazena kategorie nebezpečný odpad, nebo c) je smísen s některým z odpadů uvedených v písmenu b) nebo je jím znečištěn.); nařízení komise (EU) č. 1357/2014 ze dne 18. prosince 2014, kterým se nahrazuje příloha III směrnice Evropského parlamentu a Rady 2008/98/ES o odpadech a o zrušení některých směrnic; jedná se např. o odpady výbušné, hořlavé, toxické, karcinogenní, dráždivé, žíravé
+
+2) § 11 odst. 2 písm. j) zákona o odpadech (Pro účely tohoto zákona se dále rozumí stavebním a demoličním odpadem odpad vznikající při stavebních a demoličních činnostech.)
+
+3) obec má zajištěno, že plní požadavek § 59 odst. 2 zákona o odpadech věta druhá (Obec není povinna odděleně soustřeďovat odpad plastů, skla a kovů, pokud tím nedojde s ohledem na další způsob nakládání s nimi k ohrožení možnosti provedení jejich recyklace.)
+
+4) konkrétní období v příslušném kalendářním roce se vyhlašuje na webových stránkách města, v radničním zpravodaji a v mobilním rozhlase
+
+5) sběrné nádoby na směsný komunální odpad o objemu 120 a 240 litrů se vyprazdňují celoročně 1x 1 týden, nebo 1x za 2 týdny
+
+6) sběrné nádoby na biologicky rozložitelný odpad se vyprazdňují pouze v období zpravidla od března do listopadu dle potřeby
+
+7) § 16 zákona č. 542/2020 Sb.: (Výrobce a obec mohou za účelem zřízení místa zpětného odběru uzavřít písemnou smlouvu o využití obecního systému odpadového hospodářství nastaveného touto obcí. Touto smlouvou nesmí být sjednáno výhradní právo na využití obecního systému odpadového hospodářství pouze pro určité výrobce či výrobky s ukončenou životností; tím není dotčena možnost, aby obec s výrobcem, ve spolupráci s nímž zřídila místo zpětného odběru, sjednala nediskriminační podmínky pro umožnění využití
+
+7
+
+obecního systému odpadového hospodářství dalšími výrobci. S výrobky s ukončenou životností, které byly zpětně odebrány v místě zpětného odběru zřízeném ve spolupráci s obcí, musí být nakládáno v souladu s tímto zákonem a odděleně od ostatního komunálního odpadu. Výrobce je povinen poskytnout obci, na jejímž území místo zpětného odběru zřídil, informace o množství zpětně odebraných výrobků s ukončenou životností, včetně informací o jejich využití, pokud o to obec požádá.)
