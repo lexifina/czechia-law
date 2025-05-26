@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2025:11.C.98.2017.144",
+  "docket": "11 C 98/2017-144",
+  "date": "2025-05-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71f218cd-99f9-454b-8773-cf370200365c",
+  "source_sha256": "0d27742aab33384761454b2b709f0237280b1978d23eb123faf484e12fba6d40",
+  "source_id": "71f218cd-99f9-454b-8773-cf370200365c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 98/2017-144",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Tereza Kvízová",
+    "ecli": "ECLI:CZ:OSCV:2025:11.C.98.2017.144",
+    "predmetRizeni": "zaplacení 162.763 Kč s příslušenstvím (náhrada škody)",
+    "datumVydani": "2025-05-26",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "ručení",
+      "náklady řízení",
+      "zavinění",
+      "pozůstalost",
+      "znalecký posudek",
+      "veřejná zakázka",
+      "smlouva o dílo",
+      "majetek",
+      "pasivní legitimace",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2914 z. č. 262/2006 Sb.",
+      "§ 1935 z. č. 418/2011 Sb.",
+      "§ 2913 z. č. 418/2011 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2926 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71f218cd-99f9-454b-8773-cf370200365c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
