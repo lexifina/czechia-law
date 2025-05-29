@@ -1,0 +1,255 @@
+---
+citace: "Obecně závazná vyhláška města Dačice č. 1/2025"
+nazev: "o stanovení podmínek k zabezpečení požární ochrany při akcích, kterých se zúčastní větší počet osob"
+druh: "Obecně závazná vyhláška"
+cislo: "1/2025"
+vydavatel: "Město Dačice"
+ico: "00246476"
+kraj: "Jihočeský kraj"
+zmocneni: ["zákon č. 133/1985 Sb., o požární ochraně - § 29 odst. 1 písm. o) bod 2"]
+oblast: ["požární ochrana - podmínky při akcích"]
+vydano: "2025-04-24"
+zverejneno_ve_sbirce: "2025-05-14"
+ucinnost: "2025-05-29"
+sppsu_id: "SPPS6HL6G5YJ2ZDW"
+verze: "1"
+url: "https://sbirkapp.gov.cz/detail/SPPS6HL6G5YJ2ZDW"
+text_url: "https://sbirkapp.gov.cz/detail/SPPS6HL6G5YJ2ZDW/text"
+soubor: "1-2025-ozv-o-pozarni-ochrane.docx"
+soubor_sha256: "756dae6dcf67472a047ad6b5987ca72867b36b61e0cfaa80f5ecf35a6b3f0b4d"
+ziskani_textu: "docx"
+obrazky: 1
+obrazky_poznamka: "the published file holds images (e.g. coat of arms, signatures, maps); not reproduced here; see text_url"
+---
+
+# o stanovení podmínek k zabezpečení požární ochrany při akcích, kterých se zúčastní větší počet osob
+
+Město Dačice
+
+OBECNĚ ZÁVAZNÁ VYHLÁŠKA
+
+o stanovení podmínek k zabezpečení požární ochrany při akcích, kterých se účastní větší počet osob
+
+Město Dačice
+
+Zastupitelstvo města Dačice
+
+Obecně závazná vyhláška města Dačice
+
+o stanovení podmínek k zabezpečení požární ochrany při akcích, kterých se zúčastní větší počet osob
+
+Zastupitelstvo města Dačice se na svém 16. zasedání konaném dne 24. 4. 2025 usneslo vydat na základě § 29 odst. 1 písm. o) bod 2. zákona č. 133/1985 Sb., o požární ochraně, ve znění pozdějších předpisů, a v souladu s § 10 písm. d) a § 84 odst. 2 písm. h) zákona č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, tuto obecně závaznou vyhlášku (dále jen „vyhláška“):
+
+Čl. 1
+
+Úvodní ustanovení
+
+Obecně závazná vyhláška stanoví podmínky požární bezpečnosti pro zabezpečení  kulturních, sportovních, společenských, zábavních, politických, obchodních, náboženských a jiných obdobných akcích a shromážděních na území města Dačice, kterých se zúčastňuje větší počet osob (dále jen "akce").,
+
+Za plnění podmínek k zabezpečení požární ochrany při akcích odpovídá organizátor akce, kterým může být právnická  osoba, podnikající fyzická osoba i fyzická osoba nebo skupina fyzických osob (dále jen "organizátor akce").
+
+Čl. 2
+
+Vymezení pojmů
+
+Pro účely této obecně závazné vyhlášky se rozumí:
+
+stanovením podmínek požární bezpečnosti při akcích - souhrn opatření, kterými se stanoví rozsah a způsob zabezpečení požární ochrany před zahájením akce, v jejím průběhu a při jejím ukončení,
+
+ukončením akce - ponechání místa konání akce v požárně nezávadném stavu, včetně dodržení podmínek stanovených čl. 3 odst. 2 této vyhlášky,
+
+shromažďovacím prostorem - vnitřní nebo venkovní prostor určený ke shromažďování většího počtu osob,,
+
+vnitřním shromažďovacím prostorem - prostor, který je po obvodě a shora vymezený stavebními konstrukcemi, přičemž se za stavební konstrukce považují také konstrukce přemístitelné (posuvná stěna či střecha apod.) nebo krátkodobé, popřípadě dočasné (stanové, kontejnerové, buňkové apod.),4
+
+venkovním shromažďovacím prostorem - prostor, který je neuzavřený po obvodě nebo shora, avšak vytvořený nebo vymezený stavebními konstrukcemi (tribunou, pódiem, ohradní stěnou, oplocením, přenosnými zábranami apod.), okolním terénem nebo přírodním prostředím (svah, skála, vodní plocha); také prostor v uzavřeném nebo polouzavřeném volném prostranství (dvory apod.), prostor na veřejném prostranství i mimo něj pod širým nebem.
+
+Členění akcí podle místa konání a počtu osob:
+
+akce ve vnitřním shromažďovacím prostoru podle čl. 2 odst. 1 písm. c) a d) této vyhlášky určeném k tomuto účelu v souladu se zvláštním právním předpisem:
+
+u něhož z dokumentace ověřené stavebním úřadem vyplývá počet osob, pro které je prostor určen (tj. maximální povolený počet přítomných osob),
+
+u něhož nebyla v dokumentaci ověřené stavebním úřadem stanovena maximální hranice počtu osob, které se mohou v tomto prostoru současně vyskytovat, pak se za tento počet považuje 200 osob a více, případně, nebyla-li v dokumentaci ověřené stavebním úřadem stanovena maximální hranice počtu osob, které se mohou současně v tomto prostoru vyskytovat, pak tento počet určí na svoji zodpovědnost jeho vlastník,
+
+akce ve venkovním shromažďovacím prostoru podle čl. 2 odst. 1 písm. c) a e) této vyhlášky vymezeném alespoň ze tří stran pevnými překážkami, zejména budovami, ohradními zdmi nebo oplocením, kde se předpokládá přítomnost 500 osob a více,
+
+akce na volném prostranství, kterých se zúčastní 900 osob a více.
+
+Čl. 3
+
+Povinnosti organizátora akce při zabezpečení podmínek požární bezpečnosti
+
+K pořádání akce lze využívat:
+
+stavbu, která je k tomuto účelu určena v souladu se zvláštním právním předpisem. Organizátor akce oznámí obecnímu úřadu předpokládaný počet  současně přítomných osob. Nelze-li zajistit prokazatelnost nepřekročení maximálního počtu současně přítomných do 200 osob, organizátor zabezpečí požární  bezpečnost v souladu s touto obecně závaznou vyhláškou,
+
+volné prostranství. Organizátor akce oznámí obecnímu úřadu předpokládaný počet současně přítomných osob. Nelze-li zajistit prokazatelnost nepřekročení maximálního počtu současně přítomných do 900 osob, organizátor zabezpečí požární bezpečnost v souladu s touto obecně závaznou vyhláškou.
+
+Organizátor akce prokazatelně stanoví rozsah a způsob zabezpečení požární ochrany,  včetně povinností a způsobu plnění úkolů všech osob podílejících se na organizačním  a technickém zajištění akce a osob účastnících se akce, organizátor akce dále stanoví opatření k zajištění včasné a bezpečné evakuace osob a k snadnému příjezdu požárních vozidel přičemž postupuje způsobem stanoveným zvláštním právním předpisem a zajistí dodržování povinností stanovených k provádění činností se zvláštním rizikem (např. pyrotechnické efekty a ohňostroje). Organizátor má povinnost písemně předložit zprávu o zajištění požární ochrany na Městský úřad v Dačicích a písemně oznámit konání akce s pyrotechnickými efekty nebo ohňostroji Hasičskému záchrannému sboru Jihočeského kraje, Územnímu odboru Jindřichův Hradec, nejméně pět pracovních dnů před jejím zahájením.
+
+V případě pořádání akcí opakovaně na tomtéž místě za shodných podmínek, lze  stanovit rozsah a způsob zabezpečení požární ochrany pro určený počet akcí jednotně, přičemž před každou jednotlivou akcí musí být proveden a kontrola dodržování stanovených podmínek požární bezpečnosti podle odst. 8 tohoto článku včetně odstranění zjištěných závad.
+
+Organizátor akce zřídí preventivní požární hlídku. Počet členů preventivní požární hlídky musí být úměrný počtu účastníků akce a složitosti místa konání. Preventivní požární hlídka je vždy složena minimálně ze dvou členů, zpravidla je ale složena z velitele a dvou členů.
+
+Organizátor akce zajišťuje odpovídající podmínky pro činnost preventivních požárních hlídek, zejména aby:
+
+činnost v preventivní požární hlídce vykonávaly pouze osoby, které absolvovaly odbornou přípravu,
+
+byly vymezeny úkoly preventivní požární hlídky, přičemž úkoly musí být  stanoveny tak, aby je bylo možné velitelem a členy preventivní požární hlídky  obsáhnout a byly stanoveny vždy ke konkrétní fyzické osobě; (některé  podrobnosti k činnosti preventivních požárních hlídek jsou uvedeny v příloze č. 1 této obecně závazné vyhlášky),
+
+byl stanoven a zabezpečen funkční způsob komunikace pro průběh akce k zajištění neodkladného předávání informací mezi velitelem a členy preventivní požární hlídky.
+
+K vytvoření podmínek pro hašení požárů a pro záchranné práce organizátor akce dále zajistí:
+
+vymezení prostoru pro příjezd a umístění mobilní požární techniky jednotek požární ochrany, a to vždy i v případě akce konané ve venkovním shromažďovacím prostoru; musí být zajištěna a vymezena místa, která umožní příjezd mobilní požární techniky jednotek požární ochrany, umožnění použití odběrního místa požární vody,
+
+určení evakuačních cest a východů z objektu (prostranství), zajištění jejich trvalé průchodnosti a možnosti rychlého otevření při požáru,
+
+umístění atrakcí (např. pouťových), prodejních míst nebo stánků, ukázek služeb  apod. tak, aby byl umožněn průjezd požární techniky, aby nedošlo k zastavení nebo omezení přístupu k požárně bezpečnostním zařízením nebo věcným  prostředkům požární ochrany, které jsou potřebné k provedení zásahu, např. požární hydranty,
+
+rozmístění a umístění přenosných hasicích přístrojů v potřebném množství a druzích na vhodných a přístupných místech pro pořadatele a preventivní požární hlídku.
+
+Organizátor akce seznámí odpovídajícím způsobem a v potřebném rozsahu se stanovenými opatřeními k zabezpečení požární ochrany:
+
+osoby podílející se na zabezpečení akce (např. pořadatelská služba, požární hlídka apod.),
+
+účinkující (např. osoby zajišťující program a vystoupení, prodejci včetně všech  osob zajišťujících pro ně technické zázemí; dále jen "účinkující").
+
+Organizátor akce zajistí kontrolu plnění stanovených podmínek požární bezpečnosti  pro akci - před zahájením (včetně přípravných činností), v průběhu a při ukončení akce; podrobnosti k zajištění kontroly jsou uvedeny v příloze č. 2 této vyhlášky. V případě, že:
+
+byly při kontrole před zahájením akce zjištěny závažné nedostatky a tyto nebyly  odstraněny - organizátor akci nezahájí,
+
+v průběhu akce nastane situace, která vyvolává bezprostřední nebezpečí vzniku požáru a k odstranění tohoto nebezpečí nestačí jiná opatření - organizátor akci  přeruší popřípadě ukončí; přerušení nebo ukončení akce organizátor akce  zabezpečí i tehdy, jestliže by v případě vzniku požáru byly ohroženy nebo znemožněny - únik či záchrana osob nebo majetku.
+
+Pro případy, kdy účastník akce (fyzická osoba) nedbá podmínek této vyhlášky, pokynů organizátora, preventivní požární hlídky nebo členů pořadatelské služby týkajících se požární bezpečnosti při akci, organizátor akce zabezpečí postup pro vyloučení takové fyzické osoby z účasti na akci.
+
+Při stanovení požadavků požární bezpečnosti provizorií, tj. dočasných staveb,  sloužících ke krátkodobým (jednorázovým, sezónním apod.) akcím výstavního,  prodejního, zábavního apod. charakteru, se tyto shromažďovací prostory posuzují dle normativních požadavků.
+
+Při akcích ve vnitřním shromažďovacím prostoru, jejichž součástí (tj. součástí  programu/produkce/představení) jsou efekty s otevřeným ohněm nebo obdobným možným zdrojem zapálení (žhavé částice, žhavé předměty apod.), musí být zajištěna opatření dle čl. 3 odst. 5 této vyhlášky, přičemž alespoň jeden člen preventivní požární hlídky musí být v blízkosti výskytu otevřeného ohně a musí mít u sebe vhodný hasební prostředek.
+
+Při akcích, jejichž součástí bude provádění některých činností, které by mohly představovat zvláštní rizika (např. pyrotechnické efekty, ohňostroje, plnění balónků plynem apod.), musí být dodržovány požadavky zvláštních právních předpisů; plnění balónků plyny, které ve směsi se vzduchem tvoří hořlavou nebo výbušnou směs (např. vodík, acetylen) je zakázáno.
+
+Čl. 4
+
+Povinnosti účastníků
+
+Účinkující a účastníci akce musí dodržovat povinnosti vyplývající z předpisů o požární ochraně, této vyhlášky a dalších pokynů organizátora akce vztahujících se k zabezpečení požární ochrany, preventivní požární hlídky nebo členů pořadatelské služby týkající se požární bezpečnosti při akci.
+
+Účastníkům akce je zakázáno přinášet nebo použít při akci látku nebo předmět, které  by mohly být použity jako zápalný prostředek (např. zápalná láhev).
+
+Při akci nesmí její účastníci manipulovat s prostředky, které mohou způsobit hoření a v jeho důsledku ohrožení života, zdraví a majetku. V případě běžných předmětů (např. zapalovač či zápalky) si musí fyzická osoba počínat tak, aby nedošlo k požáru.
+
+Čl. 5
+
+Sankce
+
+Porušení povinností stanovených touto vyhláškou lze postihovat podle zvláštních předpisů.
+
+Čl. 6
+
+Přechodná, zrušovací a závěrečná ustanovení
+
+Prokazatelnost plnění povinností stanovených předpisy o požární ochraně a dodržování podmínek požární bezpečnosti stanovených touto vyhláškou zabezpečuje organizátor akce.
+
+Povinnost dodržovat podmínky požární ochrany stanovené touto vyhláškou se vztahuje také na akce, které se uskuteční po nabytí její účinnosti, i když jejich příprava byla zahájena před nabytím její účinnosti.
+
+Tato obecně závazná vyhláška nabývá účinnosti počátkem patnáctého dne následujícího po dni jejího vyhlášení.
+
+…………………………………					               ……………………………………
+
+Bc. Miloš Novák							Ing. Jiří Baštář
+
+starosta 							                místostarosta
+
+Přílohy:
+
+Příloha č.1 -	Některé podrobnosti, které uplatní organizátor akce při zřizování preventivní požární hlídky a stanovení jejích úkolů
+
+Příloha č. 2 -	Podrobnosti k provádění kontrol
+
+Příloha č. 1
+
+Některé podrobnosti, které uplatní organizátor akce
+
+při zřizování preventivní požární hlídky a stanovení jejích úkolů
+
+I.	Podrobnosti ke zřizování preventivní požární hlídky
+
+Preventivní požární hlídka je zpravidla složena z velitele a dvou členů preventivní požární hlídky.
+
+Preventivní požární hlídka složená z méně osob je možná pouze v případech, kdy veškeré povinnosti určené preventivní požární hlídce mohou být zajištěny tímto sníženým počtem osob zařazených do preventivní požární hlídky.
+
+Vyšší počet osob v preventivní požární hlídce, resp. větší počet preventivních požárních hlídek se zřizuje s ohledem na počet účastníků akce a na konkrétní podmínky pro evakuaci osob a zahájení hasebních prací, např. s ohledem na rozlehlost místa konání akce, počet účastníků a členitost únikových komunikací.
+
+Do preventivní požární hlídky mohou být zařazeny osoby starší 18 let, které musí být tělesně a duševně zdatné pro plnění stanovených úkolů (zejména se zřetelem na předpokládané zajišťování evakuace osob se doporučuje u osob starších 62 let vyžádání stanoviska ošetřujícího lékaře ke zdravotnímu stavu).
+
+Osoby zařazené do preventivní požární hlídky nesmí nastupovat k výkonu činnosti v preventivní požární hlídce pod vlivem alkoholu nebo jiných omamných látek ani tyto požívat během výkonu činnosti.
+
+Velitel i členové preventivní požární hlídky musí být při akcích viditelně označeni visačkou či rukávovou páskou s nápisem "VELITEL PREVENTIVNÍ POŽÁRNÍ HLÍDKY" či "ČLEN PREVENTIVNÍ POŽÁRNÍ HLÍDKY" (doporučen je červený podklad s černým nebo bílým nápisem, případně bílý podklad a červený nápis).
+
+Úkoly stanovené preventivní požární hlídce musí být uvedeny jednoznačně, konkrétním osobám a musí být součástí odborné přípravy osob zařazených do preventivní požární hlídky.
+
+Příslušnou dokumentaci požární ochrany zpracovává a případně vede osoba odborně způsobilá nebo technik PO s příslušnou kvalifikací.
+
+Odbornou přípravu osob zařazených do preventivní požární hlídky provádí osoba odborně způsobilá nebo technik PO s příslušnou kvalifikací.
+
+II.	Podrobnosti k úkolům preventivní pož. hlídky a velitele preventivní požární hlídky
+
+2.1	Velitel preventivní požární hlídky
+
+a)	odpovídá za plnění úkolů preventivní požární hlídky,
+
+b)	zajišťuje provedení kontrolních úkonů podle článku 3 odst. 8 této vyhlášky ve stanoveném rozsahu a určeným způsobem, provedení záznamů o provedených kontrolních úkonech a zjištěných skutečnostech, např. v požární knize nebo jiném určeném dokumentu, zajistí, aby zápis podepsali ti, kteří kontrolu provedli; záznam obsahuje vždy datum a čas, jména členů preventivní požární hlídky, stav prostoru (objektu) včetně popisu případných nedostatků a způsobu jejich odstranění,
+
+c)	předkládá záznam o výsledku kontroly provedené před zahájením akce organizátorovi akce nebo jím určené osobě, což tito potvrdí svým podpisem,
+
+d)	předkládá záznam o výsledku kontroly provedené při ukončení akce organizátorovi akce nebo jím určené osobě, což tito potvrdí svým podpisem.
+
+2.2	Členové preventivní požární hlídky
+
+a)	provádějí kontrolu stanoveného prostoru dle schválené dokumentace požární ochrany pro činnost preventivní požární hlídky (např. rozmístění hasicích přístrojů, zajištění volných únikových cest a východů včetně jejich průchodnosti a provedení označení, vybavení hydrantových skříní apod.); kontrolují příslušné doklady, jimiž se prokazuje plnění stanovených povinností a podmínek požární bezpečnosti,
+
+b)	jsou oprávněni vydávat pokyny podle článku 4 odst. 1 této vyhlášky,
+
+c)	plní další úkoly stanovené pořadatelem akce.
+
+2.3	Osoba, zařazená do preventivní požární hlídky je povinna
+
+a)	zúčastnit se odborné přípravy preventivní požární hlídky, jejíž součástí je mimo jiné seznámení se s charakterem akce, s místem konání akce, s dokumentací požární ochrany – dokumenty, kterými jsou stanoveny podmínky požární bezpečnosti pro akci (např. úkoly preventivní požární hlídky, případně i požární řád, požární poplachové směrnice a v objektech, kde jsou složité podmínky pro zásah i požární evakuační plán a dokumentace zdolávání požárů). Vymezení, o které dokumenty se jedná, přísluší organizátoru akce a musí být uvedeny v tematickém plánu a časovém rozvrhu odborné přípravy preventivní požární hlídky,
+
+b)	k výkonu činnosti požární hlídky nastoupit v časovém předstihu před zahájením akce stanoveném pořadatelem akce,
+
+c)	nosit v průběhu akce příslušné označení "VELITEL PREVENTIVNÍ POŽÁRNÍ HLÍDKY" nebo "ČLEN PREVENTIVNÍ POŽÁRNÍ HLÍDKY" a plnit uložené úkoly,
+
+d)	po ukončení akce provést kontrolu požárně bezpečného stavu kontrolovaných prostorů a informovat o průběhu akce a ukončení kontroly požárně bezpečného stavu pořadatele.
+
+2.4	Tímto nejsou dotčeny povinnosti vyplývající z předpisů o požární ochraně.
+
+Příloha č. 2
+
+Podrobnosti k provádění kontrol
+
+podle článku 3 odst. 8 této obecně závazné vyhlášky
+
+Kontrola plnění podmínek požární bezpečnosti pro akci se provádí:
+
+1)	před zahájením akce:
+
+a)	v souladu s předpisy o požární ochraně, a to osobou odborně způsobilou (§ 5, 6 a 11 zákona o požární ochraně a § 12 vyhlášky o požární prevenci); jedná se zejména o pravidelné kontroly dodržování předpisů o požární ochraně formou preventivních   požárních prohlídek, jejichž součástí je prověřování dokladů o plnění povinností stanovených předpisy o požární ochraně,
+
+b)	v rozsahu úkolů stanovených organizátorem preventivní požární hlídce pro konkrétní akci, např. kontrola stavu únikových cest a únikových východů včetně jejich označení, kontrola stavu únikových cest, příjezdových komunikací a nástupních ploch, kontrola rozmístění hasicích přístrojů, úplnost vybavení hydrantových systémů, úplnost označení příslušnými bezpečnostními značkami, příkazy, zákazy a pokyny ve vztahu k požární ochraně.
+
+2)	v průběhu akce:
+
+a)	pro provádění kontrol musí být stanoveny konkrétní postupy s ohledem na druh a rozsah akce a odpovědnosti pro zajištění odstraňování případných nedostatků v zabezpečení požární ochrany zjištěných kontrolou v průběhu akce (např. bude-li zjištěno zaparkované vozidlo před únikovým východem nebo na příjezdové komunikaci musí být zajištěno jeho přeparkování nebo odtah vozidla),
+
+b)	v případě, že v průběhu akce nastane situace, která vyvolává bezprostřední nebezpečí vzniku požáru a k odstranění tohoto nebezpečí nestačí jiná opatření nebo je-li zjištěno, že by v případě vzniku požáru byla ohrožena nebo znemožněna záchrana osob nebo majetku, organizátor akce organizačně zabezpečí možnost jejího přerušení nebo ukončení tak, aby nenastalo nebezpečí z prodlení.
+
+3)	po ukončení akce:
+
+a)	provede kontrolu, zda se v daném prostoru nenachází nepovolané osoby,
+
+b)	ověří, že v daném prostoru nenastala situace, která by mohla vyvolat bezprostřední nebezpečí vzniku požáru.
+
+Poznámka:	Záznam o případných zjištěních provést jako součást záznamu o kontrole při ukončení akce.
