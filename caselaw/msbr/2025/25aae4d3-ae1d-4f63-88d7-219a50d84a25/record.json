@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2025:52.C.50.2025.1",
+  "docket": "52 C 50/2025-20",
+  "date": "2025-06-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25aae4d3-ae1d-4f63-88d7-219a50d84a25",
+  "source_sha256": "33b9e1e29139e8cf04c5d68a8908f6ebde6f3834a9a0a9ee66a43261a38c7de3",
+  "source_id": "25aae4d3-ae1d-4f63-88d7-219a50d84a25",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 50/2025-20",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jiří Štark",
+    "ecli": "ECLI:CZ:MSBR:2025:52.C.50.2025.1",
+    "predmetRizeni": "49 931,68 Kč s příslušenstvím - faktura",
+    "datumVydani": "2025-06-10",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dodávky energie",
+      "smlouva o sdružení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25aae4d3-ae1d-4f63-88d7-219a50d84a25"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
