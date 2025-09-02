@@ -1,0 +1,108 @@
+{
+  "document_objects": {},
+  "layer": {
+    "cis-ele-globální-typ-vrstvy-navrhu": {
+      "globální-id": 264,
+      "iri": "esel-ele:cis-ele-globální/položka/264"
+    },
+    "iri": "esel-ele:návrh-aktu-vrstva-návrhu/60260",
+    "návrh-aktu-metadata-aktu": {
+      "iri": "esel-ele:návrh-aktu-metadata-aktu/2014",
+      "metadata-aktu-id": 2014
+    },
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/60260",
+      "object-id": 60260
+    },
+    "návrh-aktu-vrstva-návrhu-vstupní": {
+      "iri": "esel-ele:návrh-aktu-vrstva-návrhu/60225",
+      "vrstva-návrhu-id": 60225
+    },
+    "typ": "návrh-aktu-vrstva-návrhu",
+    "vrstva-návrhu-cjpředkladatele": null,
+    "vrstva-návrhu-id": 60260,
+    "vrstva-návrhu-identifikátor": "2025-0102-002-VLA-2",
+    "vrstva-návrhu-identifikátor-pořadí": 2,
+    "vrstva-návrhu-je-aktuální": true,
+    "vrstva-návrhu-je-uzavřená": true,
+    "vrstva-návrhu-název": "Verze pro jednání pracovních komisí LRV a OKOM",
+    "vrstva-návrhu-popis": null,
+    "vrstva-návrhu-url-sněmovní-tisk": null,
+    "vrstva-návrhu-číslo-senátního-dokumentu": null,
+    "vrstva-návrhu-číslo-senátního-tisku": null,
+    "vrstva-návrhu-číslo-sněmovního-dokumentu": null,
+    "vrstva-návrhu-číslo-sněmovního-tisku": null,
+    "vrstva-návrhu-číslo-verze": 0
+  },
+  "layer_object": {
+    "aktualizovatCisloPriOdemceni": false,
+    "cisloVerze": 0,
+    "datumCasNastaveniAktualni": "2025-09-02T16:36:01.321+02:00",
+    "datumCasUzavreni": "2025-09-02T16:35:59.559+02:00",
+    "datumCasVytvoreni": "2025-09-02T16:35:54.173+02:00",
+    "identifikator": "2025-0102-002-VLA-2",
+    "identifikatorPoradi": 2,
+    "jeAktualni": true,
+    "jeDotcenPrehledVppPriZapracovaniMN": false,
+    "jeNavrh": true,
+    "jeSimulaceZapracovaniMN": false,
+    "jeSkryta": false,
+    "jeSnapshotVrstvaNavrhu": true,
+    "jeUzamcena": false,
+    "jeUzavrena": true,
+    "jeVerejny": true,
+    "jeVychoziZobrazeniCELEX": true,
+    "jeVysledkemZapracovaniMN": false,
+    "jeZadostOVyjimkuZeSablony": false,
+    "jenProCteni": true,
+    "metadataAktu": 2014,
+    "nadrazenyObjekt": 60259,
+    "nazev": "Verze pro jednání pracovních komisí LRV a OKOM",
+    "typVrstvyNavrhu": "HLAVNI",
+    "validacniChyby": [],
+    "validacniVarovani": [],
+    "vlastnik": [],
+    "vstupniVrstva": 60225,
+    "vychoziDatumZobrazeniNavrhu": "2025-04-29",
+    "vychoziZobrazeniCelex": "VYPNUTO"
+  },
+  "proposal": {
+    "cis-ele-globální-typ-procesu-návrhu": {
+      "globální-id": 228,
+      "iri": "esel-ele:cis-ele-globální/položka/228"
+    },
+    "cis-ele-období-psp": null,
+    "cis-ele-období-psp-položka": null,
+    "cis-ele-období-sen": null,
+    "cis-ele-období-sen-položka": null,
+    "cis-ele-typ-návrhu": {
+      "iri": "esel-ele:cis-ele-typ-návrhu/položka/PA"
+    },
+    "cis-ele-typ-návrhu-položka": "PA",
+    "iri": "esel-ele:návrh-aktu-návrh/16203",
+    "návrh-aktu-legislativní-záměr-pa": null,
+    "návrh-aktu-legislativní-záměr-vz": null,
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/16203",
+      "object-id": 16203
+    },
+    "návrh-cj-formálního-gestora": null,
+    "návrh-cj-navrhovatele": null,
+    "návrh-cj-ova": "728/25",
+    "návrh-cj-předkladatele": null,
+    "návrh-cj-žadatele-o-vyhlášení": null,
+    "návrh-datum-autorizace": "2025-09-02",
+    "návrh-důvod-předložení": "Hlavním důvodem návrhu je nutnost transpozice dvou směrnic, a to směrnice Evropského parlamentu a Rady (EU) 2024/869 ze dne 13. března 2024, kterou se mění směrnice Evropského parlamentu a Rady 2004/37/ES a směrnice Rady 98/24/ES, pokud jde o limitní hodnoty olova a jeho anorganických sloučenin a diisokyanátů a dále směrnice Evropského parlamentu a Rady (EU) 2023/2668 ze dne 22. listopadu 2023, kterou se mění směrnice 2009/148/ES o ochraně zaměstnanců před riziky spojenými s expozicí azbestu při práci. ",
+    "návrh-id": 16203,
+    "návrh-identifikator": "2025-0102",
+    "návrh-identifikator-pořadí": 102,
+    "návrh-je-tvorba-ria": false,
+    "návrh-název": "Novela nařízení vlády č. 361/2007 Sb.",
+    "návrh-název-psp": null,
+    "návrh-popis": "Předložený návrh transponuje dvě směrnic, a to směrnici Evropského parlamentu a Rady (EU) 2024/869 ze dne 13. března 2024, kterou se mění směrnice Evropského parlamentu a Rady 2004/37/ES a směrnice Rady 98/24/ES, pokud jde o limitní hodnoty olova a jeho anorganických sloučenin a diisokyanátů a dále směrnici Evropského parlamentu a Rady (EU) 2023/2668 ze dne 22. listopadu 2023, kterou se mění směrnice 2009/148/ES o ochraně zaměstnanců před riziky spojenými s expozicí azbestu při práci. ",
+    "návrh-poznámka": null,
+    "návrh-spisová-značka-ús": null,
+    "typ": "návrh-aktu-návrh"
+  },
+  "public_documents": []
+}
