@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2025:30.C.52.2025.1",
+  "docket": "30 C 52/2025-39",
+  "date": "2025-09-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f4ade85d-3de7-4f89-816a-8c595355651b",
+  "source_sha256": "14055bb26b7b5d4a34453a710ca6ea9df05bc4c9bcdd47d77c05d3b221c98ed3",
+  "source_id": "f4ade85d-3de7-4f89-816a-8c595355651b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 52/2025-39",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Iveta Nývltová, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH04:2025:30.C.52.2025.1",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2025-09-05",
+    "datumZverejneni": "2026-01-01",
+    "klicovaSlova": [
+      "podvod",
+      "výkon rozhodnutí",
+      "spoluvlastnictví",
+      "konkurs",
+      "vyklizení bytu",
+      "insolvenční správce",
+      "náklady řízení",
+      "insolvence",
+      "znalecký posudek",
+      "smlouva kupní",
+      "vyklizení nemovitosti",
+      "lhůty"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1106 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f4ade85d-3de7-4f89-816a-8c595355651b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
