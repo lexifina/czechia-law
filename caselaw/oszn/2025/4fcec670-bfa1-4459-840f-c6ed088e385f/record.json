@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2025:12.C.222.2025.1",
+  "docket": "12 C 222/2025-68",
+  "date": "2025-09-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4fcec670-bfa1-4459-840f-c6ed088e385f",
+  "source_sha256": "48504aa7fea85d050122cca991e081153410cc5e9737b4692eafc8f5e42aa91c",
+  "source_id": "4fcec670-bfa1-4459-840f-c6ed088e385f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 222/2025-68",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Dana Hamzová",
+    "ecli": "ECLI:CZ:OSZN:2025:12.C.222.2025.1",
+    "predmetRizeni": "12 760,51 Kč s příslušenstvím",
+    "datumVydani": "2025-09-25",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 257/2016 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4fcec670-bfa1-4459-840f-c6ed088e385f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
