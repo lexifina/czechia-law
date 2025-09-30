@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2025:12.C.121.2025.1",
+  "docket": "12 C 121/2025-54",
+  "date": "2025-09-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce363fcb-ac1f-4dee-9bf8-4a5176bd5a1a",
+  "source_sha256": "2357b5ed81af4a508a6ed0704015c9ed2ffca0db3a4afa8e62b7e4fcbcec5337",
+  "source_id": "ce363fcb-ac1f-4dee-9bf8-4a5176bd5a1a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 121/2025-54",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Dana Hamzová",
+    "ecli": "ECLI:CZ:OSZN:2025:12.C.121.2025.1",
+    "predmetRizeni": "100 500 Kč s příslušenstvím",
+    "datumVydani": "2025-09-30",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "smlouva o zápůjčce",
+      "lhůty",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2393 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce363fcb-ac1f-4dee-9bf8-4a5176bd5a1a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
