@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2025:11.C.254.2025.1",
+  "docket": "11 C 254/2025-25",
+  "date": "2025-10-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/00c6f3d7-5a10-4bc3-a8ad-08cdc2f3d2f4",
+  "source_sha256": "bc6f7dcca989c1e41810051acb5e5a1771e8656f7956eb2a9a72ea9035a4ace7",
+  "source_id": "00c6f3d7-5a10-4bc3-a8ad-08cdc2f3d2f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 254/2025-25",
+    "soud": "Okresní soud v Benešově",
+    "autor": "JUDr. Eva Kůsová, Ph.D.,",
+    "ecli": "ECLI:CZ:OSBN:2025:11.C.254.2025.1",
+    "predmetRizeni": "o zaplacení 45 364,38 Kč s příslušenstvím",
+    "datumVydani": "2025-10-01",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "náklady řízení",
+      "smlouva o úvěru",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/00c6f3d7-5a10-4bc3-a8ad-08cdc2f3d2f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
