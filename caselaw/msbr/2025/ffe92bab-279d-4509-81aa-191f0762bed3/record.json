@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2025:52.C.12.2025.1",
+  "docket": "52 C 12/2025-33",
+  "date": "2025-10-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffe92bab-279d-4509-81aa-191f0762bed3",
+  "source_sha256": "b73840e2d21a9e6188541b70ed3306f6468acf1b3edd1d90589e597a5fd9883e",
+  "source_id": "ffe92bab-279d-4509-81aa-191f0762bed3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 12/2025-33",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jiří Štark",
+    "ecli": "ECLI:CZ:MSBR:2025:52.C.12.2025.1",
+    "predmetRizeni": "26 919,66 Kč s příslušenstvím - nájemné",
+    "datumVydani": "2025-10-07",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "jistota",
+      "podnájem"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb.",
+      "§ 2274 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffe92bab-279d-4509-81aa-191f0762bed3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
