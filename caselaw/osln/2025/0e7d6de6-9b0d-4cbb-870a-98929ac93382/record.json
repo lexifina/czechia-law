@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2025:7.C.99.2025.1",
+  "docket": "7 C 99/2025-46",
+  "date": "2025-10-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e7d6de6-9b0d-4cbb-870a-98929ac93382",
+  "source_sha256": "0d174e4cfe1f6b97668c6a85b6f8c599e8fce85c3c8c2617b6b0f23794aa2e52",
+  "source_id": "0e7d6de6-9b0d-4cbb-870a-98929ac93382",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 99/2025-46",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Alena Šmicová",
+    "ecli": "ECLI:CZ:OSLN:2025:7.C.99.2025.1",
+    "predmetRizeni": "o 12 132,64 Kč s příslušenstvím",
+    "datumVydani": "2025-10-08",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "náklady řízení",
+      "smlouva o úvěru",
+      "lhůty",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e7d6de6-9b0d-4cbb-870a-98929ac93382"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
