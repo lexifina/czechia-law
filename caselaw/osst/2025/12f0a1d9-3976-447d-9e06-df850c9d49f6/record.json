@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2025:1.C.245.2025.1",
+  "docket": "1 C 245/2025-36",
+  "date": "2025-10-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12f0a1d9-3976-447d-9e06-df850c9d49f6",
+  "source_sha256": "40fc016f1936d6d3cf3f8a70023141a9cf0456c1af748fd1fbcfab177d095263",
+  "source_id": "12f0a1d9-3976-447d-9e06-df850c9d49f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 245/2025-36",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Lenka Bártová",
+    "ecli": "ECLI:CZ:OSST:2025:1.C.245.2025.1",
+    "predmetRizeni": "o 14 246 Kč s příslušenstvím",
+    "datumVydani": "2025-10-14",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "náklady řízení",
+      "smlouva o úvěru",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12f0a1d9-3976-447d-9e06-df850c9d49f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
