@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2025:57.C.63.2025.1",
+  "docket": "57 C 63/2025-25",
+  "date": "2025-10-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8020e8a3-1e6f-42eb-a720-5547de3b7a55",
+  "source_sha256": "0275677ce3b06834e695ae5045f8d67e6da7a998fd743dc9ea1c84843bc5fe75",
+  "source_id": "8020e8a3-1e6f-42eb-a720-5547de3b7a55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 63/2025-25",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSCV:2025:57.C.63.2025.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2025-10-15",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "náklady řízení",
+      "rozvod manželství",
+      "doručování",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 395 z. č. 292/2013 Sb.",
+      "§ 34 z. č. 269/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8020e8a3-1e6f-42eb-a720-5547de3b7a55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
