@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2025:17.C.103.2025.1",
+  "docket": "17 C 103/2025-37",
+  "date": "2025-10-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c5231e6-af19-411f-8313-aac286c1529a",
+  "source_sha256": "9747bb805b497494988e7e401f5f3200ccb90b08ccde2d502c3586cc8bd9ba29",
+  "source_id": "2c5231e6-af19-411f-8313-aac286c1529a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 103/2025-37",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Alena Novotná",
+    "ecli": "ECLI:CZ:OSPH10:2025:17.C.103.2025.1",
+    "predmetRizeni": "o 45 641,76 Kč s příslušenstvím",
+    "datumVydani": "2025-10-21",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "obchodní rejstřík",
+      "náklady řízení",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c5231e6-af19-411f-8313-aac286c1529a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
