@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2025:15.C.295.2025.1",
+  "docket": "15 C 295/2025-31",
+  "date": "2025-10-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9efb4552-55d7-464f-a457-ee042c77f888",
+  "source_sha256": "3f744e8f74ec812053d0fc815f8efd945e51c4a710e2db33ad3066a39fe6e766",
+  "source_id": "9efb4552-55d7-464f-a457-ee042c77f888",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 295/2025-31",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Martina Lhotáková",
+    "ecli": "ECLI:CZ:OSPH09:2025:15.C.295.2025.1",
+    "predmetRizeni": "o 10 710 Kč s příslušenstvím",
+    "datumVydani": "2025-10-23",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "náklady řízení",
+      "jízdné",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9efb4552-55d7-464f-a457-ee042c77f888"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
