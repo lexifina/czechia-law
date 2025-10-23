@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2025:16.C.249.2025.1",
+  "docket": "16 C 249/2025-19",
+  "date": "2025-10-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/786c2ab4-2a4a-4f4f-9e3b-eefdcc3691c1",
+  "source_sha256": "c77a68d21e33c845921794d7a37584a84ccad3c31012c20573731815dea169f0",
+  "source_id": "786c2ab4-2a4a-4f4f-9e3b-eefdcc3691c1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 249/2025-19",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Michael Květ",
+    "ecli": "ECLI:CZ:OSPH04:2025:16.C.249.2025.1",
+    "predmetRizeni": "o 22 607,41 Kč s příslušenstvím",
+    "datumVydani": "2025-10-23",
+    "datumZverejneni": "2026-01-01",
+    "klicovaSlova": [
+      "smlouva o sdružení",
+      "náklady řízení",
+      "postoupení pohledávky",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 72 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/786c2ab4-2a4a-4f4f-9e3b-eefdcc3691c1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
