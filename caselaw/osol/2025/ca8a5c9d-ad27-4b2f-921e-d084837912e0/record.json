@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2025:11.C.72.2025.1",
+  "docket": "11 C 72/2025-39",
+  "date": "2025-10-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca8a5c9d-ad27-4b2f-921e-d084837912e0",
+  "source_sha256": "15719d97dfd63c720276823356a2844eeb0006ee0ad08d36f6a9f6687869ac21",
+  "source_id": "ca8a5c9d-ad27-4b2f-921e-d084837912e0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 72/2025-39",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Ing. Eliška Bognárová",
+    "ecli": "ECLI:CZ:OSOL:2025:11.C.72.2025.1",
+    "predmetRizeni": "o 39 900 Kč s příslušenstvím",
+    "datumVydani": "2025-10-23",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "náklady řízení",
+      "podnikatel",
+      "odročení",
+      "lhůty",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 5 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 253 z. č. 40/2009 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca8a5c9d-ad27-4b2f-921e-d084837912e0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
