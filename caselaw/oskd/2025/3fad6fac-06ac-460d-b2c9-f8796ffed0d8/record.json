@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2025:216.C.124.2025.1",
+  "docket": "216 C 124/2025-46",
+  "date": "2025-10-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3fad6fac-06ac-460d-b2c9-f8796ffed0d8",
+  "source_sha256": "9e9b3050e43c29bfc5ece4e3b716b1f4245121a3f8c512dbd99c22824e9cebf3",
+  "source_id": "3fad6fac-06ac-460d-b2c9-f8796ffed0d8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "216 C 124/2025-46",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Zuzana Slezáková",
+    "ecli": "ECLI:CZ:OSKD:2025:216.C.124.2025.1",
+    "predmetRizeni": "o zaplacení částky 21 419 Kč s příslušenstvím",
+    "datumVydani": "2025-10-29",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "náklady řízení",
+      "postoupení pohledávky",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3fad6fac-06ac-460d-b2c9-f8796ffed0d8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
