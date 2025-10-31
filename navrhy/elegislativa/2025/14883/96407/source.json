@@ -1,0 +1,111 @@
+{
+  "document_objects": {},
+  "layer": {
+    "cis-ele-globální-typ-vrstvy-navrhu": {
+      "globální-id": 264,
+      "iri": "esel-ele:cis-ele-globální/položka/264"
+    },
+    "iri": "esel-ele:návrh-aktu-vrstva-návrhu/96407",
+    "návrh-aktu-metadata-aktu": {
+      "iri": "esel-ele:návrh-aktu-metadata-aktu/7390",
+      "metadata-aktu-id": 7390
+    },
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/96407",
+      "object-id": 96407
+    },
+    "návrh-aktu-vrstva-návrhu-vstupní": {
+      "iri": "esel-ele:návrh-aktu-vrstva-návrhu/74148",
+      "vrstva-návrhu-id": 74148
+    },
+    "typ": "návrh-aktu-vrstva-návrhu",
+    "vrstva-návrhu-cjpředkladatele": "MF-25856/2025/2106-23",
+    "vrstva-návrhu-id": 96407,
+    "vrstva-návrhu-identifikátor": "2025-0092-009-VLA-3",
+    "vrstva-návrhu-identifikátor-pořadí": 9,
+    "vrstva-návrhu-je-aktuální": true,
+    "vrstva-návrhu-je-uzavřená": true,
+    "vrstva-návrhu-název": "Projednaná verze s podpisovou doložkou a dnem schválení",
+    "vrstva-návrhu-popis": null,
+    "vrstva-návrhu-url-sněmovní-tisk": null,
+    "vrstva-návrhu-číslo-senátního-dokumentu": null,
+    "vrstva-návrhu-číslo-senátního-tisku": null,
+    "vrstva-návrhu-číslo-sněmovního-dokumentu": null,
+    "vrstva-návrhu-číslo-sněmovního-tisku": null,
+    "vrstva-návrhu-číslo-verze": 0
+  },
+  "layer_object": {
+    "aktualizovatCisloPriOdemceni": false,
+    "cisloVerze": 0,
+    "cjPredkladatele": "MF-25856/2025/2106-23",
+    "datumCasNastaveniAktualni": "2025-10-31T17:32:25.778+01:00",
+    "datumCasUzamceni": "2025-10-31T17:31:32.774+01:00",
+    "datumCasUzavreni": "2025-10-31T17:31:36.238+01:00",
+    "datumCasVytvoreni": "2025-10-31T17:19:29.129+01:00",
+    "identifikator": "2025-0092-009-VLA-3",
+    "identifikatorPoradi": 9,
+    "jeAktualni": true,
+    "jeDotcenPrehledVppPriZapracovaniMN": false,
+    "jeNavrh": true,
+    "jeSimulaceZapracovaniMN": false,
+    "jeSkryta": false,
+    "jeSnapshotVrstvaNavrhu": true,
+    "jeUzamcena": false,
+    "jeUzavrena": true,
+    "jeVerejny": true,
+    "jeVychoziZobrazeniCELEX": true,
+    "jeVysledkemZapracovaniMN": false,
+    "jeZadostOVyjimkuZeSablony": false,
+    "jenProCteni": true,
+    "metadataAktu": 7390,
+    "nadrazenyObjekt": 74147,
+    "nazev": "Projednaná verze s podpisovou doložkou a dnem schválení",
+    "typVrstvyNavrhu": "HLAVNI",
+    "uzivatelUzamkl": 157264,
+    "validacniChyby": [],
+    "validacniVarovani": [],
+    "vlastnik": [],
+    "vstupniVrstva": 74148,
+    "vychoziDatumZobrazeniNavrhu": "2025-04-17",
+    "vychoziZobrazeniCelex": "VYPNUTO"
+  },
+  "proposal": {
+    "cis-ele-globální-typ-procesu-návrhu": {
+      "globální-id": 228,
+      "iri": "esel-ele:cis-ele-globální/položka/228"
+    },
+    "cis-ele-období-psp": null,
+    "cis-ele-období-psp-položka": null,
+    "cis-ele-období-sen": null,
+    "cis-ele-období-sen-položka": null,
+    "cis-ele-typ-návrhu": {
+      "iri": "esel-ele:cis-ele-typ-návrhu/položka/PA"
+    },
+    "cis-ele-typ-návrhu-položka": "PA",
+    "iri": "esel-ele:návrh-aktu-návrh/14883",
+    "návrh-aktu-legislativní-záměr-pa": null,
+    "návrh-aktu-legislativní-záměr-vz": null,
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/14883",
+      "object-id": 14883
+    },
+    "návrh-cj-formálního-gestora": null,
+    "návrh-cj-navrhovatele": null,
+    "návrh-cj-ova": "783/25",
+    "návrh-cj-předkladatele": null,
+    "návrh-cj-žadatele-o-vyhlášení": null,
+    "návrh-datum-autorizace": "2025-09-24",
+    "návrh-důvod-předložení": "Nařízení vlády bylo připraveno na základě plánu legislativních prací na rok 2025 a za účelem naplnění zmocnění obsaženého v § 13 odst. 7 rozpočtových pravidel. Zákon č. 349/2023 Sb., kterým se mění některé zákony v souvislosti s konsolidací veřejných rozpočtů a zároveň do rozpočtových pravidel zanesl § 13 odst. 7, který zmocňuje vládu k vydání nařízení k provedení § 13 odst. 2 písm. a) a b) a § 13 odst. 3 písm. a) a c).  Navrhované nařízení vlády stanoví, kdy o účasti státního rozpočtu na financování programu na základě posouzení dokumentace programu rozhoduje Ministerstvo financí a kdy o této účasti rozhoduje vláda. ",
+    "návrh-id": 14883,
+    "návrh-identifikator": "2025-0092",
+    "návrh-identifikator-pořadí": 92,
+    "návrh-je-tvorba-ria": false,
+    "návrh-název": "NV o částkách pro účely účasti státního rozpočtu na financování programu ",
+    "návrh-název-psp": null,
+    "návrh-popis": "Návrh nařízení vlády stanoví pravidla pro rozdělení kompetencí mezi vládu a Ministerstvo financí při schvalování účasti státního rozpočtu na financování programů a individuálně posuzovaných výdajů organizačních složek státu. Konkrétně vymezuje finanční limity pro schvalování investičních akcí a dotací, přičemž reaguje na legislativní změny a vývoj ekonomických podmínek, včetně inflace. Cílem návrhu je zajistit efektivní správu veřejných prostředků při respektování aktuálních rozpočtových pravidel.",
+    "návrh-poznámka": null,
+    "návrh-spisová-značka-ús": null,
+    "typ": "návrh-aktu-návrh"
+  },
+  "public_documents": []
+}
