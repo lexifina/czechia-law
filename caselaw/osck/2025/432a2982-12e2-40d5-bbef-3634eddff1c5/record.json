@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2025:7.C.278.2025.1",
+  "docket": "7 C 278/2025-27",
+  "date": "2025-10-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/432a2982-12e2-40d5-bbef-3634eddff1c5",
+  "source_sha256": "58997ae05d27155d7eecc364c7f7bccce52beb97052c17761b911e51fc9141f6",
+  "source_id": "432a2982-12e2-40d5-bbef-3634eddff1c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 278/2025-27",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Daniel Levý",
+    "ecli": "ECLI:CZ:OSCK:2025:7.C.278.2025.1",
+    "predmetRizeni": "EPR 144297/2025 - o zaplacení 50 843,08 Kč s příslušenstvím",
+    "datumVydani": "2025-10-31",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "obchodní rejstřík",
+      "náklady řízení",
+      "notářský zápis",
+      "smlouva o úvěru",
+      "lhůty",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 1970 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/432a2982-12e2-40d5-bbef-3634eddff1c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
