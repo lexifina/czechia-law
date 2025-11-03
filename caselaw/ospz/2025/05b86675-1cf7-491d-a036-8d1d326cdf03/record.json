@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2025:3.C.157.2025.1",
+  "docket": "3 C 157/2025-91",
+  "date": "2025-11-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05b86675-1cf7-491d-a036-8d1d326cdf03",
+  "source_sha256": "a4bce752520405b89fb3f47ddd9d35c4626af5bd7b16efb190dc73a7cab8b75c",
+  "source_id": "05b86675-1cf7-491d-a036-8d1d326cdf03",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 157/2025-91",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Jana Líznerová, Ph.D.",
+    "ecli": "ECLI:CZ:OSPZ:2025:3.C.157.2025.1",
+    "predmetRizeni": "o 599 600 Kč s příslušenstvím",
+    "datumVydani": "2025-11-03",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "bezdůvodné obohacení",
+      "náklady řízení",
+      "smlouva o úvěru",
+      "lhůty",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 odst. 1 z. č. 257/2016 Sb.",
+      "§ 86 odst. 1 z. č. 257/2016 Sb.",
+      "§ 87 odst. 1 z. č. 257/2016 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 142 odst. 2 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05b86675-1cf7-491d-a036-8d1d326cdf03"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
