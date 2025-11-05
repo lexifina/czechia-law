@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2025:13.C.197.2025.1",
+  "docket": "13 C 197/2025-37",
+  "date": "2025-11-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c59db77-853d-4aad-bc8b-e47daea012e0",
+  "source_sha256": "3c0bb90ff4ade26c8695a4d24373048308f33bb0fb36044177c6e441274eb573",
+  "source_id": "0c59db77-853d-4aad-bc8b-e47daea012e0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 197/2025-37",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Alena Jelínková",
+    "ecli": "ECLI:CZ:OSPH05:2025:13.C.197.2025.1",
+    "predmetRizeni": "o určení neplatnosti manželství",
+    "datumVydani": "2025-11-05",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "náklady řízení",
+      "omezení svéprávnosti",
+      "osvojení",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 675 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 292/2013 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 34 z. č. 269/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c59db77-853d-4aad-bc8b-e47daea012e0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
