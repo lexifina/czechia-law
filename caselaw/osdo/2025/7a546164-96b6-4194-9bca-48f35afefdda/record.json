@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2025:17.C.230.2025.1",
+  "docket": "17 C 230/2025-30",
+  "date": "2025-11-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a546164-96b6-4194-9bca-48f35afefdda",
+  "source_sha256": "85d1fcb0dca87a2388eb52b68f347a569989ba1afd6c25703776bfebe4857542",
+  "source_id": "7a546164-96b6-4194-9bca-48f35afefdda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 230/2025-30",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Michal Sýkora",
+    "ecli": "ECLI:CZ:OSDO:2025:17.C.230.2025.1",
+    "predmetRizeni": "o 97 480,01 Kč s příslušenstvím",
+    "datumVydani": "2025-11-06",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "podnikatel",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 547 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a546164-96b6-4194-9bca-48f35afefdda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
