@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2025:208.C.222.2025.1",
+  "docket": "208 C 222/2025-54",
+  "date": "2025-11-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd051c36-af90-4d74-bb4f-4e3ede5361ed",
+  "source_sha256": "741cc8c60ae5944c2dd755b01ca9fc2eaf5f005f2c5e8fcc57ea4d3677f36d98",
+  "source_id": "cd051c36-af90-4d74-bb4f-4e3ede5361ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "208 C 222/2025-54",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Dana Zelenková",
+    "ecli": "ECLI:CZ:OSKD:2025:208.C.222.2025.1",
+    "predmetRizeni": "o zaplacení částky 148 081,33 Kč s příslušenstvím",
+    "datumVydani": "2025-11-11",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "náklady řízení",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd051c36-af90-4d74-bb4f-4e3ede5361ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
