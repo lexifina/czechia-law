@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Brně",
+  "ecli": "ECLI:CZ:KSBR:2025:18.Co.97.2025.1",
+  "docket": "18 Co 97/2025-65",
+  "date": "2025-11-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a79d0d8a-d129-4251-bb2e-be43fe25a856",
+  "source_sha256": "5865277d3f4c44e35f883f4502283b9487caf19a60108df7984a69dfe75b0cb1",
+  "source_id": "a79d0d8a-d129-4251-bb2e-be43fe25a856",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 Co 97/2025-65",
+    "soud": "Krajský soud v Brně",
+    "autor": "JUDr. Helena Nováková",
+    "ecli": "ECLI:CZ:KSBR:2025:18.Co.97.2025.1",
+    "predmetRizeni": "o soudní prodej zástavy, o odvolání dlužníka proti usnesení Okresního soudu v Hodoníně ze dne 17.1.2025, č. j. 14 C 149/2024-32",
+    "datumVydani": "2025-11-13",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "koupě",
+      "dokazování",
+      "odvolání",
+      "výkon rozhodnutí",
+      "náklady řízení",
+      "smlouva zástavní",
+      "neplatnost smlouvy",
+      "zástavní právo",
+      "vedlejší účastník",
+      "zastavení výkonu rozhodnutí",
+      "vrácení věci"
+    ],
+    "zminenaUstanoveni": [
+      "§ 358 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a79d0d8a-d129-4251-bb2e-be43fe25a856"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
