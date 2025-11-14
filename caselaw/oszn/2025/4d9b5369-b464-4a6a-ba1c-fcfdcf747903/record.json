@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2025:9.C.226.2025.1",
+  "docket": "9 C 226/2025-82",
+  "date": "2025-11-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d9b5369-b464-4a6a-ba1c-fcfdcf747903",
+  "source_sha256": "0f96c4c3bca4f2928a2764383738eaf4392f8bb305e01bf507f4c6d10a4ec5d0",
+  "source_id": "4d9b5369-b464-4a6a-ba1c-fcfdcf747903",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 226/2025-82",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Marie Hladíková",
+    "ecli": "ECLI:CZ:OSZN:2025:9.C.226.2025.1",
+    "predmetRizeni": "o 59 058 Kč s příslušenstvím",
+    "datumVydani": "2025-11-14",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1 z. č. 145/2010 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d9b5369-b464-4a6a-ba1c-fcfdcf747903"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
