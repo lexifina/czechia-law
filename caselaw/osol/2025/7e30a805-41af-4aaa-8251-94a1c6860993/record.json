@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2025:20.C.163.2025.1",
+  "docket": "20 C 163/2025-29",
+  "date": "2025-11-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e30a805-41af-4aaa-8251-94a1c6860993",
+  "source_sha256": "c3f0b5a67b22f0dcc49b0f07185ae15841eac98d343025ddcd86dd8207ab6d42",
+  "source_id": "7e30a805-41af-4aaa-8251-94a1c6860993",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 163/2025-29",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Ludmila Papicová",
+    "ecli": "ECLI:CZ:OSOL:2025:20.C.163.2025.1",
+    "predmetRizeni": "o 20 000 Kč s příslušenstvím",
+    "datumVydani": "2025-11-20",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "bezdůvodné obohacení",
+      "náklady řízení",
+      "splatnost pohledávky",
+      "postoupení pohledávky",
+      "lhůty",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e30a805-41af-4aaa-8251-94a1c6860993"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
