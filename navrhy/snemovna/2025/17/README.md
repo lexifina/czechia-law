@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-11-12 | 17/0 | Státní rozpočet | [t001700.md](t001700.md), [t0017a0.md](t0017a0.md), [t0017b0.md](t0017b0.md), [t0017c0.md](t0017c0.md), [t0017d0.md](t0017d0.md), [t0017e0.md](t0017e0.md), [t0017f0.md](t0017f0.md), [t0017g0.md](t0017g0.md), [t0017h0.md](t0017h0.md), [t0017i0.md](t0017i0.md), [t0017j0.md](t0017j0.md), [t0017k0.md](t0017k0.md), [t0017l0.md](t0017l0.md), [t0017m0.md](t0017m0.md), [t0017n0.md](t0017n0.md), [t0017o0.md](t0017o0.md), [t0017p0.md](t0017p0.md), [t0017q0.md](t0017q0.md), [t0017r0.md](t0017r0.md), [t0017s0.md](t0017s0.md), [t0017t0.md](t0017t0.md), [t0017u0.md](t0017u0.md), [t0017v0.md](t0017v0.md) |
+| 2025-11-24 | 17/1 | Usnesení rozpočtového výboru č. 17 ze dne 24. listopadu 2025 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2026 | [t001701.md](t001701.md) |
 
 ## Files
 
@@ -48,5 +49,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0017t0.md](t0017t0.md) | 17/0 | Dokumentace, část č. 8 | [t0017t0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265247) | pymupdf / pdftotext 1.0000 |
 | [t0017u0.md](t0017u0.md) | 17/0 | Dokumentace, část č. 8 | [t0017u0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265249) | pymupdf / pdftotext 1.0000 |
 | [t0017v0.md](t0017v0.md) | 17/0 | Dokumentace, část č. 9 | [t0017v0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265251) | pymupdf / pdftotext 1.0000 |
+| [t001701.md](t001701.md) | 17/1 | Text | [t001701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265568) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
