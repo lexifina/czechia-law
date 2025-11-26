@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2025:48.C.210.2025.1",
+  "docket": "48 C 210/2025-23",
+  "date": "2025-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7c3531f6-8387-49c5-846e-cb49657807a5",
+  "source_sha256": "22439d2dbd91bd34c2c3210fd293f8becefcdfb18024cb6063c8ae55be4cd089",
+  "source_id": "7c3531f6-8387-49c5-846e-cb49657807a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 210/2025-23",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Daniel Nevečeřal",
+    "ecli": "ECLI:CZ:OSMO:2025:48.C.210.2025.1",
+    "predmetRizeni": "27 535 Kč s příslušenstvím",
+    "datumVydani": "2025-11-26",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "bezdůvodné obohacení",
+      "náklady řízení",
+      "insolvence",
+      "neplatnost smlouvy",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "lhůty",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7c3531f6-8387-49c5-846e-cb49657807a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
