@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2025:13.C.319.2025.1",
+  "docket": "13 C 319/2025-28",
+  "date": "2025-11-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/feb4f0bc-65a3-4815-a2c6-426438c315e9",
+  "source_sha256": "a0a8a9eabf8bfb552b9e5c0d6b418f0db1f142bdfd12f0b85f69d888cb125f92",
+  "source_id": "feb4f0bc-65a3-4815-a2c6-426438c315e9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 319/2025-28",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2025:13.C.319.2025.1",
+    "predmetRizeni": "10 895 Kč s příslušenstvím",
+    "datumVydani": "2025-11-27",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "náklady řízení",
+      "smlouva kupní",
+      "náhrada nákladů",
+      "pasivní legitimace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/feb4f0bc-65a3-4815-a2c6-426438c315e9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
