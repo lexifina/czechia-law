@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2025:3.C.148.2025.1",
+  "docket": "3 C 148/2025-32",
+  "date": "2025-11-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ae37ac2-4a69-4069-9cd7-d44aa25b391e",
+  "source_sha256": "cd661f82afb678ca52356c0da18758a0b7578aeff2f23dfdd89b7cd270dc30f9",
+  "source_id": "5ae37ac2-4a69-4069-9cd7-d44aa25b391e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 148/2025-32",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Jana Líznerová, Ph.D.,",
+    "ecli": "ECLI:CZ:OSPZ:2025:3.C.148.2025.1",
+    "predmetRizeni": "zaplacení částky 41 196,- Kč s příslušenstvím",
+    "datumVydani": "2025-11-27",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "uznání dluhu",
+      "dokazování",
+      "náklady řízení",
+      "smlouva o nájmu dopravního prostředku",
+      "smlouva nájemní",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 1908 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1969 z. č. 89/2012 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 142 odst. 1 z. č. 99/1963 Sb.",
+      "§ 149 odst. 1 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ae37ac2-4a69-4069-9cd7-d44aa25b391e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
