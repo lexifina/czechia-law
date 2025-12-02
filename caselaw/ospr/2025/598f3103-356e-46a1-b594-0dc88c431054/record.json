@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2025:10.C.304.2025.1",
+  "docket": "10 C 304/2025-26",
+  "date": "2025-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/598f3103-356e-46a1-b594-0dc88c431054",
+  "source_sha256": "5a873653f11644bf95e2886a635ecf6dd0d9eff302368d623e00c8c9945f30fb",
+  "source_id": "598f3103-356e-46a1-b594-0dc88c431054",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 304/2025-26",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2025:10.C.304.2025.1",
+    "predmetRizeni": "o 5 516 Kč s příslušenstvím",
+    "datumVydani": "2025-12-02",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "pracovní poměr",
+      "náklady řízení",
+      "insolvence",
+      "neplatnost smlouvy",
+      "smlouva o úvěru",
+      "srážky ze mzdy",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 418/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/598f3103-356e-46a1-b594-0dc88c431054"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
