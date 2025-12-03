@@ -1,0 +1,17 @@
+---
+material: "ALBSDNCAZ9DM"
+dokument: "Stanovisko"
+soubor: "1200_25_sta_OPR po vládě_PSP.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDNZFAXE2/"
+den: "2025-12-03"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+STANOVISKO VLÁDY
+
+k senátnímu návrh zákona, kterým se mění zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí a o změně některých zákonů, ve znění pozdějších předpisů (sněmovní tisk č. 12)
+
+Vláda na své schůzi dne 3. prosince 2025 projednala a posoudila návrh zákona, kterým se mění zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí a o změně některých zákonů, ve znění pozdějších předpisů, a zaujala k tomuto návrhu zákona nesouhlasné stanovisko.
+
+Vláda konstatuje, že jakkoli se ostatní navrhované změny volebního systému pro komunální volby mohou jevit jako praktické a konzistentní, tak se především nemůže ztotožnit s navrženým snížením procentní hranice pro posun kandidáta v rámci kandidátní listiny směrem vzhůru z 10 % na 5 %. Tato změna by sice přispěla k pružnější prostupnosti jednotlivých kandidátů v rámci kandidátní listiny volební strany, takže pak bude lépe reflektován jejich volební úspěch, ale bude tak ještě méně než podle stávající úpravy reflektována vůle politické strany nebo jiného kandidujícího subjektu vyjádřená v pořadí, v jakém jsou kandidáti uvedeni na kandidátní listině, a to v míře, která už z pohledu vlády fakticky takřka popírá reálnou možnost politické strany nebo jiného kandidujícího subjektu ovlivnit preferenci mezi kandidáty na kandidátní listině. Vzhledem k charakteru, významu a dopadům předmětné materie by tato problematika měla být řešena formou vládního návrhu zákona, aby mohla před přípravou případných změn úpravy voleb do zastupitelstev obcí proběhnout podrobná odborná diskuse se zapojením širokého okruhu připomínkových míst.
