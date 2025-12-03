@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2025:12.C.189.2025.1",
+  "docket": "12 C 189/2025-49",
+  "date": "2025-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2026-01-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4be353da-df1f-40f9-80cf-ef00a44d9368",
+  "source_sha256": "dad4aa249bdf2ccfc924bfaefb653cfa3f0527b7848bdd98f3d187f56aaf02f0",
+  "source_id": "4be353da-df1f-40f9-80cf-ef00a44d9368",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 189/2025-49",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Jan Hermann",
+    "ecli": "ECLI:CZ:OSPR:2025:12.C.189.2025.1",
+    "predmetRizeni": "o 51 800,77 Kč s příslušenstvím",
+    "datumVydani": "2025-12-03",
+    "datumZverejneni": "2026-01-02",
+    "klicovaSlova": [
+      "dokazování",
+      "výkon rozhodnutí",
+      "náklady řízení",
+      "neplatnost smlouvy",
+      "následek",
+      "smlouva o úvěru",
+      "neplatnost právního jednání",
+      "lhůty",
+      "srážky ze mzdy",
+      "náhrada nákladů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 182/2006 Sb.",
+      "§ 86 z. č. 262/2006 Sb.",
+      "§ 87 z. č. 262/2006 Sb.",
+      "§ 86 z. č. 418/2011 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4be353da-df1f-40f9-80cf-ef00a44d9368"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
