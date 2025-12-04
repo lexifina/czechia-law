@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-11-12 | 21/0 | Zpráva a jiné | [t002100.md](t002100.md) |
+| 2025-12-04 | 21/1 | Usnesení rozpočtového výboru č. 21 ze dne 3. prosince 2025 ke zprávě o výkonu dohledu nad finančním trhem v roce 2024 | [t002101.md](t002101.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t002100.md](t002100.md) | 21/0 | Text | [t002100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265269) | pymupdf / pdftotext 0.9999 |
+| [t002101.md](t002101.md) | 21/1 | Text | [t002101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265830) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
