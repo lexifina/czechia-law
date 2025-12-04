@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-11-07 | 12/0 | Návrh zákona | [t001200.md](t001200.md), [t0012a0.md](t0012a0.md) |
+| 2025-12-04 | 12/1 | Stanovisko vlády k senátnímu návrhu zákona, kterým se mění zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí a o změně některých zákonů, ve znění pozdějších předpisů | [t001201.md](t001201.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t001200.md](t001200.md) | 12/0 | Návrh zákona včetně důvodové zprávy | [t001200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265094) | pymupdf / pdftotext 1.0000 |
 | [t0012a0.md](t0012a0.md) | 12/0 | Platné znění s vyznačením změn | [t0012a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265096) | pymupdf / pdftotext 1.0000 |
+| [t001201.md](t001201.md) | 12/1 | Stanovisko | [t001201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265864) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
