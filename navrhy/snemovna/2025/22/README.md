@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-11-12 | 22/0 | Zpráva a jiné | [t002200.md](t002200.md) |
+| 2025-12-04 | 22/1 | Usnesení rozpočtového výboru č. 22 ze dne 3. prosince 2025 k roční zprávě o výsledku hospodaření České národní banky za rok 2023 | [t002201.md](t002201.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t002200.md](t002200.md) | 22/0 | Text | [t002200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265271) | pymupdf / pdftotext 1.0000 |
+| [t002201.md](t002201.md) | 22/1 | Text | [t002201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265833) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
