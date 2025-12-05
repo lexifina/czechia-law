@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-11-24 | 38/0 | Zpráva a jiné | [t003800.md](t003800.md), [t0038b0.md](t0038b0.md) |
+| 2025-12-05 | 38/1 | Usnesení výboru pro mediální záležitosti č. 15 ze dne 4. prosince 2025 k výroční zprávě o hospodaření Českého rozhlasu za rok 2023 | [t003801.md](t003801.md) |
 
 ## Files
 
@@ -27,6 +28,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t003800.md](t003800.md) | 38/0 | Text | [t003800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265543) | pymupdf / pdftotext 1.0000 |
 | [t0038b0.md](t0038b0.md) | 38/0 | Text | [t0038b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265545) | pymupdf / pdftotext 1.0000 |
+| [t003801.md](t003801.md) | 38/1 | Text | [t003801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265920) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
