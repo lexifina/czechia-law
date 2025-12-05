@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-11-25 | 41/0 | Zpráva a jiné | [t004100.md](t004100.md) |
+| 2025-12-05 | 41/1 | Usnesení výboru pro mediální záležitosti č. 14 ze dne 4. prosince 2025 k výroční zprávě Rady Českého rozhlasu o činnosti Českého rozhlasu za rok 2023 | [t004101.md](t004101.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t004100.md](t004100.md) | 41/0 | Text | [t004100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265595) | pymupdf / pdftotext 0.9993 |
+| [t004101.md](t004101.md) | 41/1 | Text | [t004101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265917) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
