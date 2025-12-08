@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-11-24 | 39/0 | Zpráva a jiné | [t003900.md](t003900.md) |
+| 2025-12-08 | 39/1 | Usnesení výboru pro mediální záležitosti č. 16 ze dne 4. prosince 2025 k výroční zprávě Českého rozhlasu o činnosti a hospodaření Českého rozhlasu za rok 2024 | [t003901.md](t003901.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t003900.md](t003900.md) | 39/0 | Text | [t003900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265565) | pymupdf / pdftotext 0.9994 |
+| [t003901.md](t003901.md) | 39/1 | Text | [t003901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265961) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
