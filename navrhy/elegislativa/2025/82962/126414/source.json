@@ -1,0 +1,108 @@
+{
+  "document_objects": {},
+  "layer": {
+    "cis-ele-globální-typ-vrstvy-navrhu": {
+      "globální-id": 264,
+      "iri": "esel-ele:cis-ele-globální/položka/264"
+    },
+    "iri": "esel-ele:návrh-aktu-vrstva-návrhu/126414",
+    "návrh-aktu-metadata-aktu": {
+      "iri": "esel-ele:návrh-aktu-metadata-aktu/9191",
+      "metadata-aktu-id": 9191
+    },
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/126414",
+      "object-id": 126414
+    },
+    "návrh-aktu-vrstva-návrhu-vstupní": {
+      "iri": "esel-ele:návrh-aktu-vrstva-návrhu/126398",
+      "vrstva-návrhu-id": 126398
+    },
+    "typ": "návrh-aktu-vrstva-návrhu",
+    "vrstva-návrhu-cjpředkladatele": null,
+    "vrstva-návrhu-id": 126414,
+    "vrstva-návrhu-identifikátor": "2025-0307-005-VLA",
+    "vrstva-návrhu-identifikátor-pořadí": 5,
+    "vrstva-návrhu-je-aktuální": true,
+    "vrstva-návrhu-je-uzavřená": true,
+    "vrstva-návrhu-název": "Verze pro jednání pracovních komisí LRV a OKOM",
+    "vrstva-návrhu-popis": null,
+    "vrstva-návrhu-url-sněmovní-tisk": null,
+    "vrstva-návrhu-číslo-senátního-dokumentu": null,
+    "vrstva-návrhu-číslo-senátního-tisku": null,
+    "vrstva-návrhu-číslo-sněmovního-dokumentu": null,
+    "vrstva-návrhu-číslo-sněmovního-tisku": null,
+    "vrstva-návrhu-číslo-verze": 0
+  },
+  "layer_object": {
+    "aktualizovatCisloPriOdemceni": false,
+    "cisloVerze": 0,
+    "datumCasNastaveniAktualni": "2025-12-10T13:17:29.038+01:00",
+    "datumCasUzavreni": "2025-12-10T13:17:25.496+01:00",
+    "datumCasVytvoreni": "2025-12-10T13:17:12.798+01:00",
+    "identifikator": "2025-0307-005-VLA",
+    "identifikatorPoradi": 5,
+    "jeAktualni": true,
+    "jeDotcenPrehledVppPriZapracovaniMN": false,
+    "jeNavrh": true,
+    "jeSimulaceZapracovaniMN": false,
+    "jeSkryta": false,
+    "jeSnapshotVrstvaNavrhu": true,
+    "jeUzamcena": false,
+    "jeUzavrena": true,
+    "jeVerejny": true,
+    "jeVychoziZobrazeniCELEX": true,
+    "jeVysledkemZapracovaniMN": false,
+    "jeZadostOVyjimkuZeSablony": false,
+    "jenProCteni": true,
+    "metadataAktu": 9191,
+    "nadrazenyObjekt": 126412,
+    "nazev": "Verze pro jednání pracovních komisí LRV a OKOM",
+    "typVrstvyNavrhu": "HLAVNI",
+    "validacniChyby": [],
+    "validacniVarovani": [],
+    "vlastnik": [],
+    "vstupniVrstva": 126398,
+    "vychoziDatumZobrazeniNavrhu": "2025-10-08",
+    "vychoziZobrazeniCelex": "VYPNUTO"
+  },
+  "proposal": {
+    "cis-ele-globální-typ-procesu-návrhu": {
+      "globální-id": 243,
+      "iri": "esel-ele:cis-ele-globální/položka/243"
+    },
+    "cis-ele-období-psp": null,
+    "cis-ele-období-psp-položka": null,
+    "cis-ele-období-sen": null,
+    "cis-ele-období-sen-položka": null,
+    "cis-ele-typ-návrhu": {
+      "iri": "esel-ele:cis-ele-typ-návrhu/položka/PA"
+    },
+    "cis-ele-typ-návrhu-položka": "PA",
+    "iri": "esel-ele:návrh-aktu-návrh/82962",
+    "návrh-aktu-legislativní-záměr-pa": null,
+    "návrh-aktu-legislativní-záměr-vz": null,
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/82962",
+      "object-id": 82962
+    },
+    "návrh-cj-formálního-gestora": null,
+    "návrh-cj-navrhovatele": null,
+    "návrh-cj-ova": null,
+    "návrh-cj-předkladatele": null,
+    "návrh-cj-žadatele-o-vyhlášení": null,
+    "návrh-datum-autorizace": "2025-12-09",
+    "návrh-důvod-předložení": "Změna koncepce vykazování udržitelnosti paliv ",
+    "návrh-id": 82962,
+    "návrh-identifikator": "2025-0307",
+    "návrh-identifikator-pořadí": 307,
+    "návrh-je-tvorba-ria": false,
+    "návrh-název": "Návrh vyhlášky, kterou se mění vyhláška č. 166/2022 Sb.",
+    "návrh-název-psp": null,
+    "návrh-popis": "Bude doplněno ",
+    "návrh-poznámka": null,
+    "návrh-spisová-značka-ús": null,
+    "typ": "návrh-aktu-návrh"
+  },
+  "public_documents": []
+}
