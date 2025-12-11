@@ -1,0 +1,69 @@
+---
+material: "KORNDN5FKWHT"
+dokument: "Materiál"
+soubor: "90360_Právní akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDP9DLWEV/"
+den: "2025-12-11"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 10. prosince 2025
+
+o oceněních udělovaných Úřadem vlády České republiky
+
+Vláda nařizuje podle § 49 odst. 6 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 26/2008 Sb.:
+
+§ 1
+
+Předmět úpravy
+
+Toto nařízení upravuje ocenění udělovaná Úřadem vlády České republiky v oblasti výkonu státní správy a podmínky pro jejich udělování.
+
+§ 2
+
+Udělovaná ocenění
+
+(1) Úřad vlády České republiky může jako ocenění udělovat
+
+a) Cenu za kvalitu ve státní správě a
+
+b) Úřednický čin roku.
+
+(2) Cenu za kvalitu ve státní správě tvoří diplom. Součástí ocenění může být i další věcné ocenění v hodnotě do 10 000 Kč.
+
+(3) Ocenění Úřednický čin roku tvoří plaketa a diplom. Součástí ocenění může být i další věcné ocenění v hodnotě do 10 000 Kč.
+
+§ 3
+
+Udělení ocenění
+
+(1) Cena za kvalitu ve státní správě se uděluje služebnímu úřadu podle zákona o státní službě za využívání moderních postupů řízení kvality ve státní správě.
+
+(2) Ocenění Úřednický čin roku se uděluje státnímu zaměstnanci podle zákona o státní službě, jinému zaměstnanci ve služebním úřadu podle zákona o státní službě nebo zaměstnanci územního samosprávného celku, který svým osobním přístupem, inovativním postupem nebo dobrou praxí významnou měrou přispěl ke zlepšení výkonu veřejné správy.
+
+(3) Organizační, technické a finanční podmínky spojené s udělením ocenění zabezpečuje Úřad vlády České republiky.
+
+§ 4
+
+Předávání ocenění
+
+(1) Cenu za kvalitu ve státní správě předává nejvyšší státní tajemník při příležitosti slavnostního předání ocenění v rámci Cen Ministerstva vnitra za kvalitu a inovaci ve veřejné správě podle nařízení vlády upravujícího ocenění udělovaná Ministerstvem vnitra jednou v kalendářním roce.
+
+(2) Ocenění Úřednický čin roku předává nejvyšší státní tajemník na slavnostním předání ocenění jednou v kalendářním roce.
+
+§ 5
+
+Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2026.
+
+Předseda vlády:
+
+prof. PhDr. Fiala, Ph.D., LL.M.
+
+podepsáno elektronicky
