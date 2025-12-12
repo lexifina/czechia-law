@@ -1,0 +1,110 @@
+{
+  "document_objects": {},
+  "layer": {
+    "cis-ele-globální-typ-vrstvy-navrhu": {
+      "globální-id": 264,
+      "iri": "esel-ele:cis-ele-globální/položka/264"
+    },
+    "iri": "esel-ele:návrh-aktu-vrstva-návrhu/128197",
+    "návrh-aktu-metadata-aktu": {
+      "iri": "esel-ele:návrh-aktu-metadata-aktu/10092",
+      "metadata-aktu-id": 10092
+    },
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/128197",
+      "object-id": 128197
+    },
+    "návrh-aktu-vrstva-návrhu-vstupní": {
+      "iri": "esel-ele:návrh-aktu-vrstva-návrhu/128130",
+      "vrstva-návrhu-id": 128130
+    },
+    "typ": "návrh-aktu-vrstva-návrhu",
+    "vrstva-návrhu-cjpředkladatele": null,
+    "vrstva-návrhu-id": 128197,
+    "vrstva-návrhu-identifikátor": "2025-0361-004-VLA",
+    "vrstva-návrhu-identifikátor-pořadí": 4,
+    "vrstva-návrhu-je-aktuální": true,
+    "vrstva-návrhu-je-uzavřená": true,
+    "vrstva-návrhu-název": "Verze po projednání vládou - opravená 2",
+    "vrstva-návrhu-popis": null,
+    "vrstva-návrhu-url-sněmovní-tisk": null,
+    "vrstva-návrhu-číslo-senátního-dokumentu": null,
+    "vrstva-návrhu-číslo-senátního-tisku": null,
+    "vrstva-návrhu-číslo-sněmovního-dokumentu": null,
+    "vrstva-návrhu-číslo-sněmovního-tisku": null,
+    "vrstva-návrhu-číslo-verze": 0
+  },
+  "layer_object": {
+    "aktualizovatCisloPriOdemceni": false,
+    "cisloVerze": 0,
+    "datumCasNastaveniAktualni": "2025-12-12T10:14:34.457+01:00",
+    "datumCasUzamceni": "2025-12-12T10:13:44.145+01:00",
+    "datumCasUzavreni": "2025-12-12T10:13:55.180+01:00",
+    "datumCasVytvoreni": "2025-12-12T10:02:35.098+01:00",
+    "identifikator": "2025-0361-004-VLA",
+    "identifikatorPoradi": 4,
+    "jeAktualni": true,
+    "jeDotcenPrehledVppPriZapracovaniMN": false,
+    "jeNavrh": true,
+    "jeSimulaceZapracovaniMN": false,
+    "jeSkryta": false,
+    "jeSnapshotVrstvaNavrhu": false,
+    "jeUzamcena": false,
+    "jeUzavrena": true,
+    "jeVerejny": true,
+    "jeVychoziZobrazeniCELEX": true,
+    "jeVysledkemZapracovaniMN": false,
+    "jeZadostOVyjimkuZeSablony": false,
+    "jenProCteni": true,
+    "metadataAktu": 10092,
+    "nadrazenyObjekt": 118650,
+    "nazev": "Verze po projednání vládou - opravená 2",
+    "typVrstvyNavrhu": "HLAVNI",
+    "uzivatelUzamkl": 154384,
+    "validacniChyby": [],
+    "validacniVarovani": [],
+    "vlastnik": [],
+    "vstupniVrstva": 128130,
+    "vychoziDatumZobrazeniNavrhu": "2025-11-13",
+    "vychoziZobrazeniCelex": "VYPNUTO"
+  },
+  "proposal": {
+    "cis-ele-globální-typ-procesu-návrhu": {
+      "globální-id": 228,
+      "iri": "esel-ele:cis-ele-globální/položka/228"
+    },
+    "cis-ele-období-psp": null,
+    "cis-ele-období-psp-položka": null,
+    "cis-ele-období-sen": null,
+    "cis-ele-období-sen-položka": null,
+    "cis-ele-typ-návrhu": {
+      "iri": "esel-ele:cis-ele-typ-návrhu/položka/PA"
+    },
+    "cis-ele-typ-návrhu-položka": "PA",
+    "iri": "esel-ele:návrh-aktu-návrh/107005",
+    "návrh-aktu-legislativní-záměr-pa": null,
+    "návrh-aktu-legislativní-záměr-vz": null,
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/107005",
+      "object-id": 107005
+    },
+    "návrh-cj-formálního-gestora": null,
+    "návrh-cj-navrhovatele": null,
+    "návrh-cj-ova": "1011/25",
+    "návrh-cj-předkladatele": null,
+    "návrh-cj-žadatele-o-vyhlášení": null,
+    "návrh-datum-autorizace": "2025-11-26",
+    "návrh-důvod-předložení": "Plán legislativních prací vlády na rok 2025, implementace evropských předpisů.",
+    "návrh-id": 107005,
+    "návrh-identifikator": "2025-0361",
+    "návrh-identifikator-pořadí": 361,
+    "návrh-je-tvorba-ria": false,
+    "návrh-název": "Nařízení vlády, kterým se mění nařízení vlády č. 172/2016 Sb., o stanovení finančních limitů a částek pro účely zákona o zadávání veřejných zakázek, ve znění pozdějších předpisů ",
+    "návrh-název-psp": null,
+    "návrh-popis": "Změna limitů upravených příslušným nařízením vlády tak, aby byly v souladu s nově přijatými nařízeními Evropské komise, respektive přepočteny v souladu s jejím sdělením do konce roku 2025. ",
+    "návrh-poznámka": null,
+    "návrh-spisová-značka-ús": null,
+    "typ": "návrh-aktu-návrh"
+  },
+  "public_documents": []
+}
