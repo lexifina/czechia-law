@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-11-14 | 24/0 | Návrh zákona | [t002400.md](t002400.md) |
+| 2025-12-12 | 24/1 | Stanovisko vlády k návrhu poslanců Víta Rakušana, Lukáše Vlčka, Věry Kovářové, Michaely Šebelové, Pavly Pivoňka Vaňkové, Jana Berkiho, Michaely Opltové, Barbory Urbanové, Jana Papajanovského, Matěje Hlavatého a Jana Svitáka na vydání zákona, kterým se mění zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, a další zákony v souvislosti s podporou spolupráce obcí | [t002401.md](t002401.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t002400.md](t002400.md) | 24/0 | Návrh zákona včetně důvodové zprávy | [t002400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265302) | pymupdf / pdftotext 1.0000 |
+| [t002401.md](t002401.md) | 24/1 | Stanovisko | [t002401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266138) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
