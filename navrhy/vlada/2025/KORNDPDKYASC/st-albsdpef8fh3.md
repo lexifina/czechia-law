@@ -1,0 +1,19 @@
+---
+material: "KORNDPDKYASC"
+dokument: "Stanovisko"
+soubor: "7000_25_sta_PSP.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDPEF8FH3/"
+den: "2025-12-16"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+Stanovisko vlády
+
+k návrhu poslance Adama Vojtěcha na vydání zákona, kterým se mění zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů (sněmovní tisk č. 70)
+
+Vláda na své schůzi dne 16. prosince 2025 projednala a posoudila návrh zákona, kterým se mění zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů, a zaujala k němu souhlasné stanovisko.
+
+Ing. Andrej Babiš
+
+předseda vlády
