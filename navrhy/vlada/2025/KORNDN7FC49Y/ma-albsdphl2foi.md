@@ -1,0 +1,75 @@
+---
+material: "KORNDN7FC49Y"
+dokument: "Materiál"
+soubor: "78296_Právní akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDPHL2FOI/"
+den: "2025-12-19"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+VYHLÁŠKA
+
+ze dne 19. prosince 2025,
+
+kterou se mění vyhláška č. 277/2015 Sb., o postupu při určování výše náhrady za bolest a za ztížené společenské uplatnění příslušníků bezpečnostních sborů, ve znění pozdějších předpisů
+
+Ministerstvo vnitra v dohodě s Ministerstvem financí, Ministerstvem spravedlnosti, zpravodajskými službami a Generální inspekcí bezpečnostních sborů stanoví podle § 104 odst. 2 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů:
+
+Čl. I
+
+Vyhláška č. 277/2015 Sb., o postupu při určování výše náhrady za bolest a za ztížení společenského uplatnění příslušníků bezpečnostních sborů, ve znění vyhlášky č. 225/2016 Sb. a vyhlášky č. 143/2023 Sb., se mění takto:
+
+\1. V příloze č. 2 se v tabulce za řádek 3.1.3 vkládá nový řádek, který zní:
+
+„
+
+3.1.4 d) akutní a subakutní formy silikózy 600-1000
+
+“.
+
+\2. V příloze č. 2 v řádku 3.2.8 ve 2. sloupci tabulky se slovo „nebo“ nahrazuje čárkou.
+
+\3. V příloze č. 2 v řádku 3.2.8 ve 2. sloupci tabulky se za slovo „vaječníků“ vkládají slova „, rakovina žaludku, rakovina tlustého střeva, nebo rakovina konečníku vždy“.
+
+\4. V příloze č. 2 v řádku 5.1 ve 2. sloupci tabulky se na konci doplňují slova „, včetně nemoci způsobené koronavirem SARS-CoV-2“.
+
+\5. V příloze č. 2 v řádku 5.3 ve 2. sloupci tabulky se slovo „zahraničí“ nahrazuje slovy „zahraničí, včetně nemoci způsobené koronavirem SARS-CoV-2“.
+
+\6. V příloze č. 4 v řádku 2.11 ve 2. sloupci tabulky se slova „během posledních 3 let“ zrušují.
+
+\7. V příloze č. 4 se v tabulce za řádek 3.1.7 vkládá nový řádek, který zní:
+
+„
+
+3.1.8 Silikóza akutní a subakutní 6000
+
+“.
+
+\8. V příloze č. 4 v 189. řádku 2. sloupci tabulky se slovo „nebo“ nahrazuje slovem „, rakovina“.
+
+\9. V příloze č. 4 v řádku 3.2 ve 2. sloupci tabulky v písmenu d) se za slovo „vaječníků“ vkládají slova „, rakovina žaludku, rakovina tlustého střeva nebo rakovina konečníku, vždy“.
+
+\10. V příloze č. 4 v 197. řádku 2. sloupci tabulky se za slovo „plic,“ vkládá slovo „rakovina“.
+
+\11. V příloze č. 4 v 197. řádku 2. sloupci tabulky se slovo „nebo“ nahrazuje slovem „, rakovina“.
+
+\12. V příloze č. 4 v 197. řádku 2. sloupci tabulky se za slovo „vaječníků“ vkládají slova „, rakovina žaludku, rakovina tlustého střeva nebo rakovina konečníku, vždy“.
+
+\13. V příloze č. 4 v 270. řádku 2. sloupci tabulky se na konci doplňují slova „, včetně nemoci způsobené koronavirem SARS-CoV-2“.
+
+\14. V příloze č. 4 v 282. řádku 2. sloupci tabulky se na konci doplňují slova „, včetně nemoci způsobené koronavirem SARS-CoV-2“.
+
+Čl. II
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2026.
+
+Ministr:
+
+Mgr. Metnar
+
+podepsáno elektronicky
