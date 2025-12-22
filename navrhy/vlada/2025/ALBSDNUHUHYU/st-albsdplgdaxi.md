@@ -1,0 +1,27 @@
+---
+material: "ALBSDNUHUHYU"
+dokument: "Stanovisko"
+soubor: "4200_25_sta_PSP.doc"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDPLGDAXI/"
+den: "2025-12-22"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+STANOVISKO VLÁDY
+
+k návrhu zastupitelstva hlavního města Prahy na vydání zákona, kterým se mění zákon č. 465/2023 Sb., kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon), ve znění pozdějších předpisů, a další související zákony (sněmovní tisk č. 42)
+
+Vláda na své schůzi dne 22. prosince 2025 projednala a posoudila návrh zákona, kterým se mění zákon č. 465/2023 Sb., kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací (liniový zákon), ve znění pozdějších předpisů, a další související zákony, a zaujala k tomuto návrhu zákona neutrální stanovisko, přičemž upozorňuje na některé níže uvedené skutečnosti, jež doporučuje zohlednit v dalším legislativním procesu.
+
+\1. Vláda plně uznává význam dopravní infrastruktury a jejího dalšího rozvoje jako základní podmínky dalšího rozvoje nejen státu, ale i regionů a obcí. Jednou z priorit vlády je však také ochrana životního prostředí, přírodních zdrojů, krajiny, přírody, biodiverzity a klimatu. Jakkoliv vláda považuje za zcela legitimní předkládání návrhů směřujících k urychlení realizace záměrů staveb dopravní infrastruktury v území, upozorňuje zároveň na nezbytnost řádného posouzení dopadů takových změn na vysoký standard ochrany životního prostředí, jehož nezbytnou podmínkou je i znalost jeho aktuálního stavu v dotčeném místě.
+
+\2. Založení možnosti opakovaného prodlužování platnosti závazného stanoviska k posouzení vlivů provedení záměru na životní prostředí pro záměry místních komunikací I. třídy by se mohlo dotknout zájmů na ochraně přírody a krajiny, neboť by se v povolovacích procesech připustilo rozhodování na základě odborných studií a posudků, které by nemusely odpovídat vyvíjejícímu se stavu dotčeného území. Tato skutečnost by s ohledem na exponovanost území, v němž jsou místní komunikace I. třídy zpravidla realizovány, mohla také vyvolat další odpor dotčených osob v rámci povolovacího procesu a v důsledku toho i jeho prodloužení.
+
+\3. V neposlední řadě vláda považuje za nutné poukázat na problematické legislativně technické ztvárnění návrhu, kterým se v rozporu s legislativně technickými zvyklostmi navrhuje změna přechodného ustanovení zákona účinného již od 1. ledna 2024. Taková změna právní úpravy by byla jak nesystematickým zásahem do právního řádu, tak by v praxi vyvolala dvojí režim v povolování záměrů místních komunikacích I. třídy závisející na tom, zda v období od 1. ledna 2024 do nabytí účinnosti nyní navrhované změny přechodného ustanovení již to které stanovisko k posouzení vlivů provedení záměru na životní prostředí pozbylo či nepozbylo platnosti. Navrhovaná úprava by ve svém důsledku mohla představovat významný zásah do právní jistoty všech osob dotčených takovým záměrem stavby dopravní infrastruktury.
+
+\4. Vláda rovněž upozorňuje na některé další nedostatky předloženého návrhu legislativně technické povahy, jako je skutečnost, že v nadpisu novelizovaného zákona není zohledněna předchozí novelizace tohoto zákona provedená zákonem č. 182/2024 Sb. nebo že v článku I chybí odkaz na relevantní část novelizovaného zákona č. 465/2003 Sb., konkrétně část pátou. Pokud jde o důvodovou zprávu k předloženému návrhu zákona, upozorňuje vláda, že v její obecné části není nijak podloženo tvrzení předkladatele, že v souvislosti s předloženým návrhem se nepředpokládají negativní dopady na životní prostředí. Ve zvláštní části důvodové zprávy pak není v rozporu s požadavky § 9 odst. 3 zákona o Sbírce zákonů a mezinárodních smluv uveden naléhavý obecný zájem odůvodňující navrhované datum nabytí účinnosti odlišné od obecné úpravy dat nabytí účinnosti právního předpisu podle § 9 odst. 2 zákona o Sbírce zákonů a mezinárodních smluv.
+
+Ing. Andrej Babiš
+
+předseda vlády
