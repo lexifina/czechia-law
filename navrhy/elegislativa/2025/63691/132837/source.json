@@ -1,0 +1,108 @@
+{
+  "document_objects": {},
+  "layer": {
+    "cis-ele-globální-typ-vrstvy-navrhu": {
+      "globální-id": 264,
+      "iri": "esel-ele:cis-ele-globální/položka/264"
+    },
+    "iri": "esel-ele:návrh-aktu-vrstva-návrhu/132837",
+    "návrh-aktu-metadata-aktu": {
+      "iri": "esel-ele:návrh-aktu-metadata-aktu/10141",
+      "metadata-aktu-id": 10141
+    },
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/132837",
+      "object-id": 132837
+    },
+    "návrh-aktu-vrstva-návrhu-vstupní": {
+      "iri": "esel-ele:návrh-aktu-vrstva-návrhu/132710",
+      "vrstva-návrhu-id": 132710
+    },
+    "typ": "návrh-aktu-vrstva-návrhu",
+    "vrstva-návrhu-cjpředkladatele": null,
+    "vrstva-návrhu-id": 132837,
+    "vrstva-návrhu-identifikátor": "2025-0260-003-TVO2-2",
+    "vrstva-návrhu-identifikátor-pořadí": 3,
+    "vrstva-návrhu-je-aktuální": true,
+    "vrstva-návrhu-je-uzavřená": true,
+    "vrstva-návrhu-název": "Vrácená verze ze žádosti o vyhlášení",
+    "vrstva-návrhu-popis": null,
+    "vrstva-návrhu-url-sněmovní-tisk": null,
+    "vrstva-návrhu-číslo-senátního-dokumentu": null,
+    "vrstva-návrhu-číslo-senátního-tisku": null,
+    "vrstva-návrhu-číslo-sněmovního-dokumentu": null,
+    "vrstva-návrhu-číslo-sněmovního-tisku": null,
+    "vrstva-návrhu-číslo-verze": 0
+  },
+  "layer_object": {
+    "aktualizovatCisloPriOdemceni": false,
+    "cisloVerze": 0,
+    "datumCasNastaveniAktualni": "2025-12-23T10:14:46.918+01:00",
+    "datumCasUzavreni": "2025-12-23T10:14:46.420+01:00",
+    "datumCasVytvoreni": "2025-12-23T10:14:44.525+01:00",
+    "identifikator": "2025-0260-003-TVO2-2",
+    "identifikatorPoradi": 3,
+    "jeAktualni": true,
+    "jeDotcenPrehledVppPriZapracovaniMN": false,
+    "jeNavrh": true,
+    "jeSimulaceZapracovaniMN": false,
+    "jeSkryta": false,
+    "jeSnapshotVrstvaNavrhu": true,
+    "jeUzamcena": false,
+    "jeUzavrena": true,
+    "jeVerejny": true,
+    "jeVychoziZobrazeniCELEX": true,
+    "jeVysledkemZapracovaniMN": false,
+    "jeZadostOVyjimkuZeSablony": false,
+    "jenProCteni": true,
+    "metadataAktu": 10141,
+    "nadrazenyObjekt": 132835,
+    "nazev": "Vrácená verze ze žádosti o vyhlášení",
+    "typVrstvyNavrhu": "HLAVNI",
+    "validacniChyby": [],
+    "validacniVarovani": [],
+    "vlastnik": [],
+    "vstupniVrstva": 132710,
+    "vychoziDatumZobrazeniNavrhu": "2025-09-09",
+    "vychoziZobrazeniCelex": "VYPNUTO"
+  },
+  "proposal": {
+    "cis-ele-globální-typ-procesu-návrhu": {
+      "globální-id": 243,
+      "iri": "esel-ele:cis-ele-globální/položka/243"
+    },
+    "cis-ele-období-psp": null,
+    "cis-ele-období-psp-položka": null,
+    "cis-ele-období-sen": null,
+    "cis-ele-období-sen-položka": null,
+    "cis-ele-typ-návrhu": {
+      "iri": "esel-ele:cis-ele-typ-návrhu/položka/PA"
+    },
+    "cis-ele-typ-návrhu-položka": "PA",
+    "iri": "esel-ele:návrh-aktu-návrh/63691",
+    "návrh-aktu-legislativní-záměr-pa": null,
+    "návrh-aktu-legislativní-záměr-vz": null,
+    "návrh-aktu-objekt": {
+      "iri": "esel-ele:návrh-aktu-objekt/63691",
+      "object-id": 63691
+    },
+    "návrh-cj-formálního-gestora": null,
+    "návrh-cj-navrhovatele": null,
+    "návrh-cj-ova": null,
+    "návrh-cj-předkladatele": null,
+    "návrh-cj-žadatele-o-vyhlášení": null,
+    "návrh-datum-autorizace": "2025-12-22",
+    "návrh-důvod-předložení": "Novelizace vyhlášky č. 2/2015 Sb. na základě zákonného zmocnění uvedeného v § 33 odst. 12 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, ve znění zákona č. 1/2015 Sb.",
+    "návrh-id": 63691,
+    "návrh-identifikator": "2025-0260",
+    "návrh-identifikator-pořadí": 260,
+    "návrh-je-tvorba-ria": false,
+    "návrh-název": "Novela vyhlášky o stanovení odborných kritérií lázeňské péče",
+    "návrh-název-psp": null,
+    "návrh-popis": "U lázeňského místa Mariánské Lázně se navrhuje rozšíření stávajících indikačních skupin o skupiny IV/2 a IV/3 (nemoci z poruchy výměny látkové a žláz s vnitřní sekrecí), a to z důvodu prokázaných klimatických podmínek příznivých pro léčbu těchto onemocnění. Mariánské Lázně splňují podmínky pro využívání přírodních léčivých zdrojů k poskytování lázeňské léčebně rehabilitační péče.",
+    "návrh-poznámka": null,
+    "návrh-spisová-značka-ús": null,
+    "typ": "návrh-aktu-návrh"
+  },
+  "public_documents": []
+}
