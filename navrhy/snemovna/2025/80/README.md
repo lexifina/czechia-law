@@ -17,14 +17,16 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
-| 2026-01-13 | 80/0 | Písemná interpelace |  |
+| 2026-01-13 | 80/0 | Písemná interpelace | [t008000.md](t008000.md), [t0080a0.md](t0080a0.md), [t0080b0.md](t0080b0.md) |
 
-## Not held as text
+## Files
 
-| Print | Document | Official file | Why |
-| --- | --- | --- | --- |
-| 80/0 | Informace o interpelaci | [t008000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266740) | scanned, no text layer (OCR pending) |
-| 80/0 | Písemná interpelace | [t0080a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266741) | scanned, no text layer (OCR pending) |
-| 80/0 | Odpověď na písemnou interpelaci | [t0080b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266742) | scanned, no text layer (OCR pending) |
+Text as published by psp.cz, extracted from the official file and checked against a second extraction of the same file.
+
+| File | Print | Document | Official file | Extracted / checked |
+| --- | --- | --- | --- | --- |
+| [t008000.md](t008000.md) | 80/0 | Informace o interpelaci | [t008000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266740) | tesseract-ces / tesseract-cesbest 1.0000 |
+| [t0080a0.md](t0080a0.md) | 80/0 | Písemná interpelace | [t0080a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266741) | tesseract-ces / tesseract-cesbest 0.9897 |
+| [t0080b0.md](t0080b0.md) | 80/0 | Odpověď na písemnou interpelaci | [t0080b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266742) | tesseract-ces / tesseract-cesbest 0.9962 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
