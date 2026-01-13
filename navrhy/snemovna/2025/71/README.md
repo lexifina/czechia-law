@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-12-16 | 71/0 | Návrh zákona | [t007100.md](t007100.md), [t0071a0.md](t0071a0.md) |
+| 2026-01-13 | 71/1 | Stanovisko vlády k návrhu poslanců Olgy Richterové, Ivana Bartoše, Hany Ančincové, Barbory Pipášové, Lenky Martínkové Španihelové, Martina Šmídy a Samuela Volpeho na vydání zákona, kterým se mění zákon č. 427/2011 Sb., o doplňkovém penzijním spoření, ve znění pozdějších předpisů | [t007101.md](t007101.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t007100.md](t007100.md) | 71/0 | Návrh zákona včetně důvodové zprávy | [t007100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266283) | pymupdf / pdftotext 0.9994 |
 | [t0071a0.md](t0071a0.md) | 71/0 | Platné znění s vyznačením změn | [t0071a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266285) | pymupdf / pdftotext 1.0000 |
+| [t007101.md](t007101.md) | 71/1 | Stanovisko | [t007101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266738) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
