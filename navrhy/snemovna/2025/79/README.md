@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-01-12 | 79/0 | Zpráva a jiné | [t007900.md](t007900.md), [t0079a0.md](t0079a0.md), [t0079b0.md](t0079b0.md), [t0079c0.md](t0079c0.md), [t0079d0.md](t0079d0.md), [t0079e0.md](t0079e0.md) |
+| 2026-01-21 | 79/1 | Usnesení výboru pro obranu č. 20 ze dne 20. ledna 2026 k účasti ozbrojených sil České republiky na vojenských cvičeních mimo území České republiky a účast ozbrojených sil jiných států na vojenských cvičeních na území České republiky v roce 2026 | [t007901.md](t007901.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0079c0.md](t0079c0.md) | 79/0 | Další | [t0079c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266704) | pymupdf / pdftotext 1.0000 |
 | [t0079d0.md](t0079d0.md) | 79/0 | Další | [t0079d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266706) | pymupdf / pdftotext 1.0000 |
 | [t0079e0.md](t0079e0.md) | 79/0 | Další | [t0079e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266708) | pymupdf / pdftotext 1.0000 |
+| [t007901.md](t007901.md) | 79/1 | Text | [t007901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266947) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
