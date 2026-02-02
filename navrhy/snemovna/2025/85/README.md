@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-01-22 | 85/0 | Návrh zákona | [t008500.md](t008500.md), [t0085a0.md](t0085a0.md) |
+| 2026-02-02 | 85/1 | Stanovisko vlády k návrhu poslance Aleše Juchelky na vydání zákona, kterým se mění zákon č. 110/2006 Sb., o životním a existenčním minimu, ve znění pozdějších předpisů, a další související zákony | [t008501.md](t008501.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t008500.md](t008500.md) | 85/0 | Návrh zákona včetně důvodové zprávy | [t008500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266984) | pymupdf / pdftotext 1.0000 |
 | [t0085a0.md](t0085a0.md) | 85/0 | Platné znění s vyznačením změn | [t0085a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266986) | pymupdf / pdftotext 1.0000 |
+| [t008501.md](t008501.md) | 85/1 | Stanovisko | [t008501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267197) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
