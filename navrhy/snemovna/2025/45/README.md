@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2025-11-27 | 45/1 | Stanovisko Nejvyššího kontrolního úřadu k návrhu státního závěrečného účtu České republiky za rok 2024 | [t004501.md](t004501.md) |
 | 2025-12-03 | 45/2 | Usnesení  kontrolního výboru č. 7 ze dne 3. prosince 2025 ke stanovisku Nejvyššího kontrolního úřadu k návrhu státního závěrečného účtu České republiky za rok 2024 | [t004502.md](t004502.md) |
 | 2026-01-23 | 45/3 | Usnesení rozpočtového výboru č. 27 ze dne 21. ledna 2026 k návrhu státního závěrečného účtu České republiky za rok 2024 | [t004503.md](t004503.md) |
+| 2026-02-06 | 45/4 | Usnesení rozpočtového výboru č. 39 ze dne 5. února 2026 k návrhu státního závěrečného účtu České republiky za rok 2024 | [t004504.md](t004504.md), [t0045a4.md](t0045a4.md) |
 
 ## Files
 
@@ -40,5 +41,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t004501.md](t004501.md) | 45/1 | Stanovisko | [t004501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265683) | pymupdf / pdftotext 1.0000 |
 | [t004502.md](t004502.md) | 45/2 | Text | [t004502.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265813) | pymupdf / pdftotext 1.0000 |
 | [t004503.md](t004503.md) | 45/3 | Text | [t004503.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267029) | pymupdf / pdftotext 1.0000 |
+| [t004504.md](t004504.md) | 45/4 | Text | [t004504.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267387) | pymupdf / pdftotext 1.0000 |
+| [t0045a4.md](t0045a4.md) | 45/4 | Další | [t0045a4.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267389) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
