@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-01-14 | 74/0 | Návrh zákona | [t007400.md](t007400.md), [t0074a0.md](t0074a0.md) |
+| 2026-02-10 | 74/1 | Stanovisko vlády k návrhu poslanců Petra Hladíka, Bohuslava Niemiece, Václava Pláteníka, Moniky Brzeskové, Jany Filipovičové, Marie Krškové, Jany Krutákové, Gabriely Svárovské a Heleny Langšádlové na vydání zákona, kterým se mění zákon č. 167/2008 Sb., o předcházení ekologické újmě a o její nápravě a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony | [t007401.md](t007401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t007400.md](t007400.md) | 74/0 | Návrh zákona včetně důvodové zprávy | [t007400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266759) | pymupdf / pdftotext 1.0000 |
 | [t0074a0.md](t0074a0.md) | 74/0 | Platné znění s vyznačením změn | [t0074a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266761) | pymupdf / pdftotext 1.0000 |
+| [t007401.md](t007401.md) | 74/1 | Stanovisko | [t007401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267460) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
