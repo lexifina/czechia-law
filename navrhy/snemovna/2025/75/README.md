@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-01-16 | 75/0 | Návrh zákona | [t007500.md](t007500.md), [t0075a0.md](t0075a0.md) |
+| 2026-02-17 | 75/1 | Stanovisko vlády k návrhu poslanců Petra Hladíka, Bohuslava Niemiece, Václava Pláteníka, Moniky Brzeskové, Jany Filipovičové, Marie Krškové, Jany Krutákové, Gabriely Svárovské a Heleny Langšádlové na vydání zákona, kterým se mění zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů | [t007501.md](t007501.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t007500.md](t007500.md) | 75/0 | Návrh zákona včetně důvodové zprávy | [t007500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266819) | pymupdf / pdftotext 1.0000 |
 | [t0075a0.md](t0075a0.md) | 75/0 | Platné znění s vyznačením změn | [t0075a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266821) | pymupdf / pdftotext 1.0000 |
+| [t007501.md](t007501.md) | 75/1 | Stanovisko | [t007501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267643) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
