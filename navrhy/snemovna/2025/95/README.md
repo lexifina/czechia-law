@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-02-04 | 95/0 | Zpráva a jiné | [t009500.md](t009500.md), [t0095a0.md](t0095a0.md), [t0095b0.md](t0095b0.md), [t0095c0.md](t0095c0.md), [t0095d0.md](t0095d0.md) |
+| 2026-02-18 | 95/1 | Usnesení zemědělského výboru č. 30 ze dne 17. února 2026 k návrhu rozpočtu Státního zemědělského intervenčního fondu na rok 2026 a střednědobého výhledu na roky 2027 a 2028 | [t009501.md](t009501.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0095b0.md](t0095b0.md) | 95/0 | Text | [t0095b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267313) | pymupdf / pdftotext 1.0000 |
 | [t0095c0.md](t0095c0.md) | 95/0 | Další | [t0095c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267315) | pymupdf / pdftotext 1.0000 |
 | [t0095d0.md](t0095d0.md) | 95/0 | Další | [t0095d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267317) | pymupdf / pdftotext 1.0000 |
+| [t009501.md](t009501.md) | 95/1 | Text | [t009501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267678) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
