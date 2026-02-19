@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-02-05 | 97/0 | Zpráva a jiné | [t009700.md](t009700.md), [t0097a0.md](t0097a0.md), [t0097b0.md](t0097b0.md), [t0097c0.md](t0097c0.md) |
+| 2026-02-19 | 97/1 | Usnesení výboru pro životní prostředí č. 13 ze dne 18. února 2026 k návrhu rozpočtu Státního fondu životního prostředí ČR na rok 2026 a střednědobého výhledu SFŽP ČR na roky 2027–2028 | [t009701.md](t009701.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0097a0.md](t0097a0.md) | 97/0 | Text | [t0097a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267351) | pymupdf / pdftotext 1.0000 |
 | [t0097b0.md](t0097b0.md) | 97/0 | Text | [t0097b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267353) | pymupdf / pdftotext 1.0000 |
 | [t0097c0.md](t0097c0.md) | 97/0 | Další | [t0097c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267354) | pymupdf / pdftotext 1.0000 |
+| [t009701.md](t009701.md) | 97/1 | Text | [t009701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267712) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
