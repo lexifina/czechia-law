@@ -1,0 +1,375 @@
+---
+material: "KORNDRDK5PC8"
+dokument: "Materiál"
+soubor: "03-LRV-11779-2026-Oprava účinnosti-vyhlasky-pokusy-419-2012-Text.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDRGAA62I/"
+den: "2026-02-20"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+II.
+
+Návrh
+
+VYHLÁŠKA
+
+ze dne ………. 2026,
+
+kterou se mění vyhláška č. 419/2012 Sb., o ochraně pokusných zvířat, ve znění pozdějších předpisů
+
+Ministerstvo zemědělství stanoví podle § 29 odst. 1 zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění zákona č. 162/1993 Sb., zákona č. 77/2004 Sb., zákona č. 312/2008 Sb., zákona č. 291/2009 Sb., zákona č. 359/2012 Sb., zákona č. 501/2020 Sb. a zákona č. 70/2025 Sb., k provedení § 15c odst. 7, § 17 odst. 3, § 18c odst. 5 a § 18g odst. 9 zákona:
+
+Čl. I
+
+Vyhláška č. 419/2012 Sb., o ochraně pokusných zvířat, ve znění vyhlášky č. 299/2014 Sb., vyhlášky č. 158/2021 Sb. a vyhlášky č. 496/2025 Sb., se mění takto:
+
+\1. V poznámce pod čarou č. 1 se věta „Směrnice Komise v přenesené pravomoci (EU) 2024/1262 ze dne 13. března 2024, kterou se mění směrnice Evropského parlamentu a Rady 2010/63/EU, pokud jde o požadavky na zařízení, péči o zvířata a jejich umístění a pokud jde o metody usmrcování zvířat.“ zrušuje.
+
+\2. Na konci poznámky pod čarou č. 1 se na samostatný řádek doplňuje věta „Směrnice Komise v přenesené pravomoci (EU) 2024/1262 ze dne 13. března 2024, kterou se mění směrnice Evropského parlamentu a Rady 2010/63/EU, pokud jde o požadavky na zařízení, péči o zvířata a jejich umístění a pokud jde o metody usmrcování zvířat.“.
+
+\3. V § 3 odst. 1 se na konci písmene j) čárka nahrazuje tečkou a písmeno k) se zrušuje.
+
+\4. V § 3 se na konci odstavce 1 tečka nahrazuje čárkou a doplňuje se písmeno k), které zní:
+
+„k) strategii pro udržování zdravotního stavu pokusných zvířat podle přílohy č. 8 k této vyhlášce písm. a) bodu 1.“.
+
+\5. V § 3 odst. 2 se za písmeno c) vkládá nové písmeno d), které zní:
+
+„d) strategii pro udržování zdravotního stavu pokusných zvířat podle přílohy č. 8 k této vyhlášce písmene a) bodu 1,“.
+
+Dosavadní písmena d) až j) se označují jako písmena e) až k).
+
+\6. V § 3 odst. 2 se písmeno d) zrušuje.
+
+Dosavadní písmena e) až k) se označují jako písmena d) až j).
+
+\7. V § 9 se odstavec 1 včetně poznámky č. 5 zrušuje a zároveň se zrušuje označení odstavce 2.
+
+\8. V § 9 se vkládá nový odstavec 1, který včetně poznámky pod čarou č. 5 zní:
+
+„(1) Způsoby potvrzení smrti5) musí být vhodné pro živočišné druhy, které mají být usmrceny.
+
+\______________
+
+\5) § 18g odst. 5 zákona č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů.“.
+
+Dosavadní text se označuje jako odstavec 2.
+
+\9. V příloze č. 6 odst. 2 písm. c) úvodní části ustanovení se slova „a vibrace“ zrušují.
+
+\10. V příloze č. 6 odst. 2 písm. c) úvodní části ustanovení se za slovo „hluk“ vkládají slova „a vibrace“.
+
+\11. V příloze č. 6 odst. 2 písm. c) se bod 4 zrušuje.
+
+\12. V příloze č. 6 odst. 2 písm. c) se doplňuje bod 4, který zní:
+
+„4. u vodních živočichů nesmí zařízení způsobující hluk nebo vibrace, jako jsou generátory elektřiny nebo filtrační systémy, nepříznivě ovlivňovat dobré životní podmínky pokusných zvířat,“.
+
+\13. V příloze č. 6 odst. 2 písm. d) úvodní části ustanovení se slova „a havarijní plány“ zrušují.
+
+\14. V příloze č. 6 odst. 2 písm. d) úvodní části ustanovení se za slovo „systémy“ vkládají slova „a havarijní plány“.
+
+\15. V příloze č. 6 odst. 2 písm. d) se na konci bodu 3 čárka nahrazuje tečkou a bod 4 se zrušuje.
+
+\16. V příloze č. 6 odst. 2 se na konci písmene d) tečka nahrazuje čárkou a doplňuje se bod 4, který zní:
+
+„4. pro případ selhání zásadních prvků chovu musí být k dispozici účinné havarijní plány pro zajištění zdraví a dobrých životních podmínek pokusných zvířat.“.
+
+\17. V příloze č. 7 v části 8. Ptáci se věty „Při umístění ptáků odebraných z volné přírody se vždy, když jsou ptáci drženi déle než 24 hodin, použijí prostorové podmínky stanovené v tabulkách 8.1 až 8.10. Jsou-li ptáci drženi po kratší dobu, přijmou se opatření k minimalizaci rizik pro dobré životní podmínky pokusných zvířat.“ zrušují.
+
+\18. V příloze č. 7 v části 8. Ptáci se za větu první na samostatný řádek vkládají věty „Při umístění ptáků odebraných z volné přírody se vždy, když jsou ptáci drženi déle než 24 hodin, použijí prostorové podmínky stanovené v tabulkách 8.1 až 8.10. Jsou-li ptáci drženi po kratší dobu, přijmou se opatření k minimalizaci rizik pro dobré životní podmínky pokusných zvířat.“.
+
+\19. V příloze č. 7 v části 8. Ptáci se tabulky 8.8 až 8.10 zrušují.
+
+\20. V příloze č. 7 v části 8. Ptáci se doplňují tabulky 8.8 až 8.10, které znějí:
+
+„Tabulka 8.8
+
+Špačci
+
+Velikost skupiny Minimální plocha uzavřeného prostoru (m2) Minimální výška (cm) Minimální délka krmítka na jednoho ptáka (cm) Minimální délka hřadu na jednoho ptáka (cm)
+
+až do 6 2,0 200 5 30
+
+od 7 do 12 4,0 200 5 30
+
+od 13 do 20 6,0 200 5 30
+
+pro každého dalšího ptáka mezi 21 a 50 0,25 5 30
+
+pro každého dalšího ptáka nad 50 0,15 5 30
+
+Tabulka 8.9
+
+Vrabci domácí
+
+Velikost skupiny bez vizuálních překážek Velikost skupiny za přítomnosti vizuálních překážek Minimální plocha uzavřeného prostoru (m2) Minimální výška (cm)
+
+až do 10 až do 15 2,4 180
+
+od 11 do 20 od 16 do 35 4,8 180
+
+od 21 do 30 od 36 do 60 7,3 180
+
+pro každého dalšího ptáka nad 30 pro každého dalšího ptáka nad 60 0,11
+
+Tabulka 8.10
+
+Sýkory koňadry a sýkory modřinky
+
+Velikost skupiny Minimální plocha uzavřeného prostoru na jednoho ptáka (m2) Minimální výška (cm) Minimální počet krmných zařízení Minimální délka hřadu na jednoho ptáka (cm)
+
+1 3 180 1 100
+
+2–10 1) (stejné pohlaví) 1 180 2 40
+
+1 samice + 1 samec 2 180 2 100
+
+Poznámka:
+
+\1) Velikost skupiny větší než 10 není povolena bez stanovení harmonogramu dostatečně četného monitorování za účelem detekce a zmírnění agrese.“.
+
+\21. V příloze č. 7 části 11. Ryby body 11.1 až 11.3 znějí:
+
+„11.1 Přívod a kvalita vody
+
+Neustále musí být zajištěn odpovídající přívod vody vhodné kvality. Průtok vody v recirkulačních systémech nebo filtrace v nádržích musí být dostatečné a zajišťovat dodržení parametrů kvality vody na přijatelných úrovních. Přiváděná voda musí být filtrována nebo upravena tak, aby byly případně odstraněny látky, které jsou pro ryby nebezpečné. Parametry kvality vody musí být neustále v přijatelném rozsahu, který u daného druhu ryby a v dané fázi vývoje udržuje běžnou aktivitu a fyziologii. Průtok vody musí být dostatečný k tomu, aby rybám umožňoval náležitě plavat a chovat se obvyklým způsobem. Ryby musí mít dostatek času na aklimatizaci a přizpůsobení se změnám podmínek, pokud jde o kvalitu vody.
+
+11.2 Kyslík, sloučeniny dusíku, pH a salinita
+
+Koncentrace kyslíku musí odpovídat potřebám jednotlivých druhů ryb a podmínkám, v nichž jsou ryby drženy. V případě potřeby musí být zajištěno dodatečné provzdušňování vody v nádržích. Koncentrace sloučenin dusíku musí být udržovány na nízkých hodnotách. Úroveň pH musí být přizpůsobena jednotlivým druhům ryb a udržována, pokud možno stabilní. Salinita musí být přizpůsobena požadavkům druhů ryb a životní fázi jedinců. Změny salinity se musí provádět postupně.
+
+11.3 Teplota, osvětlení, hluk
+
+Teplota musí být udržována v optimálním rozsahu pro daný druh ryb a pokud možno na stabilní hodnotě. Změny teploty se musí provádět postupně. Pro ryby musí být zajištěna vhodná fotoperiodicita. Hladiny hluku musí být udržovány na minimu a zařízení způsobující hluk nebo vibrace, například elektrické generátory nebo filtrační systémy, musí být tam, kde je to vhodné, oddělena od nádrží, v nichž jsou chovány ryby.“.
+
+\22. V příloze č. 7 části 11. Ryby body 11.1 až 11.3 znějí:
+
+„11.1 Přívod a kvalita vody
+
+Neustále musí být zajištěn odpovídající přívod vody vhodné kvality. Průtok vody v recirkulačních systémech nebo filtrace v nádržích musí být dostatečné a zajišťovat dodržení parametrů kvality vody na přijatelných úrovních v závislosti na vlastnostech systému chovu a požadavcích živočišného druhu a životní fázi jedinců. Přiváděná voda musí být filtrována nebo upravena tak, aby byly případně odstraněny látky, které jsou pro ryby nebezpečné. Parametry kvality vody musí být neustále v přijatelném rozsahu, který u daného druhu ryby a stádia vývoje udržuje běžnou aktivitu a fyziologii. Průtok vody musí být dostatečný k tomu, aby rybám umožňoval náležitě plavat a chovat se obvyklým způsobem. Ryby musí mít dostatek času na aklimatizaci a přizpůsobení se změnám podmínek, pokud jde o kvalitu vody. Musí být přijata vhodná opatření k tomu, aby byly omezeny na minimum náhlé změny nejrůznějších parametrů mající negativní dopad na kvalitu vody. Musí být zajištěn a monitorován vhodný průtok a hladina vody.
+
+11.2 Kyslík, sloučeniny dusíku, oxid uhličitý, pH a salinita
+
+Koncentrace kyslíku musí odpovídat potřebám jednotlivých druhů ryb a podmínkám, v nichž jsou ryby drženy. V případě potřeby musí být zajištěno dodatečné provzdušňování vody v nádržích v závislosti na systému chovu. Koncentrace oxidu uhličitého a sloučenin dusíku, konkrétně amoniaku, dusitanů a dusičnanů, musí být udržovány pod škodlivými úrovněmi. Kvalita vody se musí sledovat pomocí stanoveného harmonogramu dostatečně četných zkoušek, aby se zjistily změny těchto kritických parametrů, a musí být přijata opatření ke zmírnění těchto změn.
+
+Úroveň pH musí být přizpůsobena jednotlivým živočišným druhům a sledována, aby byla udržována v co nejstabilnější hodnotě. Salinita musí být přizpůsobena požadavkům druhů ryb a životní fázi jedinců. Změny salinity se musí provádět postupně.
+
+11.3 Teplota a osvětlení
+
+Teplota musí být udržována v optimálním rozsahu pro daný druh ryb a jeho stádium vývoje a v co nejstabilnější hodnotě. Změny teploty se musí provádět postupně. Pro ryby musí být zajištěna vhodná fotoperiodicita.“.
+
+\23. V příloze č. 7 části 11. Ryby bod 11.5 zní:
+
+„11.5 Krmení a manipulace
+
+Ryby musí být krmeny potravou, která je pro ně vhodná, v náležitém množství a intervalech. Zvláštní pozornost je třeba věnovat krmení plůdku během každého přechodu z přírodní potravy na umělou. Manipulace s rybami musí být omezena na minimum.“.
+
+\24. V příloze č. 7 části 11. Ryby bod 11.5 zní:
+
+„11.5 Krmení a manipulace
+
+Ryby musí být krmeny potravou, která je pro ně vhodná, v náležitém množství a intervalech. Zvláštní pozornost je třeba věnovat krmení plůdku během každého přechodu z přírodní potravy na umělou. Pokud je odnětí potravy nezbytné z důvodů jiných než pokusy, například z důvodu přepravy, musí být doba trvání co nejkratší a musí zohledňovat velikost ryb a teplotu vody.
+
+Pokud je to možné, musí se s rybami manipulovat bez jejich vynětí z vody. Manipulace s rybami ve vodě i mimo ni musí být omezena na minimum a vybavení, které je v přímém kontaktu s rybami, musí být navlhčeno. S rybami se nesmí manipulovat při teplotách vody mimo rozmezí, která jsou schopny snášet.“.
+
+\25. V příloze č. 7 v části 11. Ryby se bod 11.6 zrušuje.
+
+\26. V příloze č. 7 v části 11. Ryby se doplňuje bod 11.6, který zní:
+
+„11.6 Dánio pruhované
+
+11.6.1 Kvalita vody
+
+Tabulka 11.1
+
+Požadavky na parametry vody v systémech umístění dánia pruhovaného
+
+Parametry vody Minimální a maximální požadavky
+
+Teplota 24 – 29°C
+
+Vodivost 150 – 1700 μS/cm2
+
+Celková tvrdost 40 – 250 mg/L CaCO3
+
+pH 6,5 – 8
+
+Sloučeniny dusíku NH3/NH4+< 0,1 1) mg/L, NO2- < 0,3 mg/L,
+
+NO3- < 25 mg/L
+
+Koncentrace rozpuštěného kyslíku > 5 mg/L
+
+Poznámka:
+
+\1) nebo pod mezí detekce. 0,1 mg/L představuje celkové množství amoniaku, NH3/NH4+. To odpovídá 0,002 mg/L NH3 při 28°C a pH 7,5.
+
+11.6.2 Osvětlení
+
+Během denní fáze musí být úrovně osvětlení konstantní, s výjimkou krátkých přechodů mezi dnem a nocí, pokud se používají. Během noční fáze musí být úplná tma.
+
+11.6.3 Hustota osazení a rozmanitost prostředí
+
+U dospělých jedinců dánia pruhovaného se nesmí použít objem vody menší než 1 litr. Hustota osazení nesmí překročit 10 dospělých jedinců ryb na litr. Velikost a tvar nádrže musí rybám umožňovat jejich přirozené chování a běžný způsob plavání.
+
+Je třeba se vyhnout dlouhodobějšímu individuálnímu umístění.“.
+
+\27. V příloze č. 7 se část 12. Hlavonožci zrušuje.
+
+\28. V příloze č. 7 se doplňuje část 12. Hlavonožci, která zní:
+
+„12. Hlavonožci
+
+12.1 Přívod a kvalita vody
+
+Neustále musí být zajištěn odpovídající přívod vody vhodné kvality.
+
+Konstrukce nádrže a průtok vody musí vyhovovat potřebám zvířete, včetně vhodného okysličování v závislosti na jeho velikosti, životní fázi a etologických potřebách. Teplota vody, salinita, pH a obsah sloučenin dusíku musí odpovídat potřebám živočišného druhu a formě života. Únikům a neúmyslnému zavlečení cizorodých prvků musí být v případě potřeby zabráněno použitím krytů.
+
+Hlavonožci musí mít dostatek času na aklimatizaci a přizpůsobení se změnám podmínek, pokud jde o kvalitu vody.
+
+12.2 Osvětlení
+
+Intenzita osvětlení a fotoperiodicita musí splňovat požadavky živočišného druhu.
+
+12.3 Potrava
+
+Hlavonožci musí mít k dispozici krmný režim vhodný pro daný živočišný druh, vývojové stádium a etologické potřeby.
+
+12.4 Obohacení prostředí a manipulace
+
+Hlavonožci musí mít k dispozici vhodné a dostatečné množství fyzických, kognitivních a smyslových podnětů, které umožní širokou škálu druhově specifického chování. Podmínky umístění musí zohledňovat druhově specifické sociální potřeby (tj. zvyklosti skupinově nebo samotářsky žijícího živočišného druhu). Je-li to vhodné pro daný živočišný druh, musí být k dispozici úkryty nebo nory.
+
+Pokud je to možné, musí se s hlavonožci manipulovat bez jejich vynětí z vody. Manipulace s hlavonožci mimo vodu musí být omezena na minimum a vybavení, které je v přímém kontaktu se zvířaty, musí být navlhčeno.
+
+Tabulka 12.1
+
+Hlavonožci
+
+Čeleď Skupina Délka těla 1) (cm) Minimální plocha vodního povrchu (cm2) Minimální plocha vodního povrchu pro každé další zvíře ve skupinovém umístění (cm2) Minimální hloubka vody (cm)
+
+Sepiidae Sépie obecná až do 2
+
+\> 2 až 6
+
+\> 6 až 12
+
+\> 12 100
+
+600
+
+1 200
+
+2 500 40
+
+200
+
+400
+
+1 000 7
+
+15
+
+20
+
+25
+
+Sepiolidae Sepiolida 2) až do 1
+
+\> 1 až 3
+
+\> 3 50
+
+120
+
+150 5
+
+50
+
+100 5
+
+8
+
+12
+
+Loliginidae Oliheň obecná 3) 4) až do 15
+
+\> 15 až 25
+
+\> 25 2 000
+
+4 500
+
+6 000 400
+
+900
+
+1 200 60
+
+90
+
+90
+
+Octopodidae Chobotnice 4) až do 10
+
+\> 10 až 20
+
+\> 20 2 000
+
+2 600
+
+4 000 600
+
+700
+
+1 200 40
+
+50
+
+50
+
+Poznámky:
+
+\1) Délka hřbetního pláště.
+
+\2) Skupina až 40 jedinců.
+
+\3) Musí se dát přednost použití válcových nádrží. Minimální hodnoty se musí zvýšit o 5 %, jsou-li použity jiné než válcové nádrže.
+
+\4) Během fáze dospívání se olihně a chobotnice musí umístit ve válcových nádržích s nejvýše 20 čerstvě vylíhnutými mláďaty na litr a musí být použity metody omezení vizuální interakce.“.
+
+\29. V příloze č. 10 tabulka zní:
+
+„
+
+“.
+
+\30. V příloze č. 10 tabulka zní:
+
+„
+
+“.
+
+\31. V příloze č. 10 se Požadavek č. 17 zrušuje.
+
+\32. V příloze č. 10 se doplňuje Požadavek č. 17, který zní:
+
+„(17) Použije se pouze u dánia pruhovaného (Danio rerio) ≥ 16 dnů po oplodnění (dpf) a s maximální délkou těla 5 cm. Teplota při hypotermickém šoku musí být ≤ 4°C a teplotní rozdíl od teploty umístění musí být ≥ 20°C. Ryba nesmí být v přímém kontaktu s ledem. Minimální doba expozice musí být 5 minut.“.
+
+Čl. II
+
+Přechodná ustanovení
+
+\1. Ve správních řízeních, která byla zahájena přede dnem nabytí účinnosti této vyhlášky a nebyla přede dnem nabytí účinnosti této vyhlášky pravomocně ukončena, chovatel pokusných zvířat, dodavatel pokusných zvířat nebo uživatel pokusných zvířat, který žádá o udělení oprávnění k chovu pokusných zvířat, oprávnění k dodávce pokusných zvířat nebo oprávnění k používání pokusných zvířat, posuzovatelům předloží údaje podle vyhlášky č. 419/2012 Sb., ve znění účinném přede dnem 4. prosince 2025.
+
+\2. Ve správních řízeních, která byla zahájena přede dnem nabytí účinnosti této vyhlášky a nebyla přede dnem nabytí účinnosti této vyhlášky pravomocně ukončena, posuzovatelé zpracují písemný posudek podle vyhlášky č. 419/2012 Sb., ve znění účinném přede dnem 4. prosince 2025.
+
+Čl. III
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 15. března 2026, s výjimkou ustanovení čl. I bodů 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30 a 32, která nabývají účinnosti dnem 4. prosince 2026.
+
+Ministr zemědělství:
