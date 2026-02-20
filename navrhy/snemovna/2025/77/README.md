@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2025-12-29 | 77/0 | Návrh zákona | [t007700.md](t007700.md) |
 | 2026-01-05 | 77/1 | Stanovisko vlády k návrhu poslanců Radka Vondráčka, Renaty Vesecké, Libora Vondráčka a Zuzany Ožanové na vydání zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) | [t007701.md](t007701.md) |
+| 2026-02-20 | 77/2 | Usnesení ústavně-právního výboru č. 12 ze dne 18. února 2026 k návrhu poslanců Radka Vondráčka, Renaty Vesecké, Libora Vondráčka a Zuzany Ožanové na vydání zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) | [t007702.md](t007702.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t007700.md](t007700.md) | 77/0 | Návrh zákona včetně důvodové zprávy | [t007700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266520) | pymupdf / pdftotext 0.9997 |
 | [t007701.md](t007701.md) | 77/1 | Stanovisko | [t007701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266590) | pymupdf / pdftotext 1.0000 |
+| [t007702.md](t007702.md) | 77/2 | Text | [t007702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267828) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
