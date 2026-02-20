@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2025-11-05 | 3/0 | Mezinárodní smlouva | [t0003a0.md](t0003a0.md) |
 | 2026-02-19 | 3/1 | Usnesení zahraničního výboru č. 14 ze dne 18. února 2026 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Rámcová smlouva mezi Českou republikou a Slovenskou republikou o přeshraniční spolupráci v oblasti zdravotnické záchranné služby podepsaná v Praze dne 4. července 2025 | [t000301.md](t000301.md) |
+| 2026-02-20 | 3/2 | Usnesení výboru pro zdravotnictví č. 24 ze dne 18. února 2026 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Rámcová smlouva mezi Českou republikou a Slovenskou republikou o přeshraniční spolupráci v oblasti zdravotnické záchranné služby podepsaná v Praze dne 4. července 2025 | [t000302.md](t000302.md) |
 
 ## Files
 
@@ -28,6 +29,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t0003a0.md](t0003a0.md) | 3/0 | Platné znění s vyznačením změn | [t0003a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265022) | pymupdf / pdftotext 1.0000 |
 | [t000301.md](t000301.md) | 3/1 | Text | [t000301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267730) | pymupdf / pdftotext 1.0000 |
+| [t000302.md](t000302.md) | 3/2 | Text | [t000302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267748) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
