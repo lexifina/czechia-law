@@ -1,0 +1,25 @@
+---
+material: "ALBSDQRAN8WQ"
+dokument: "Příloha návrhu usnesení"
+soubor: "8600_26_sta_PSP.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDRKGADQT/"
+den: "2026-02-23"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+Stanovisko vlády
+
+k návrhu poslanců Olgy Richterové, Ivana Bartoše, Hany Ančincové, Barbory Pipášové, Lenky Martínkové Španihelové, Martina Šmídy a Samuela Volpeho na vydání zákona, kterým se mění zákon č. 427/2011 Sb., o doplňkovém penzijním spoření, ve znění pozdějších předpisů (sněmovní tisk č. 86)
+
+Vláda na své schůzi dne 23. února 2026 projednala a posoudila návrh zákona, kterým se mění zákon č. 427/2011 Sb., o doplňkovém penzijním spoření, ve znění pozdějších předpisů, a zaujala k tomuto návrhu zákona nesouhlasné stanovisko, a to zejména z následujících důvodů:
+
+\1. Vláda připomíná, že právní rámec pro vytvoření alternativních účastnických fondů, které umožňují dynamičtější investice, byl vytvořen teprve v nedávné době. Penzijní společnosti nové alternativní účastnické fondy teprve postupně zavádějí. V tuto chvíli se proto vláda kloní k vyhodnocování účinků relativně nové právní úpravy nežli k zavádění dalších změn, jak to předpokládají navrhovatelé.
+
+\2. Návrh zákona přichází s možností účastnických fondů investovat do fondů soukromého a rizikového kapitálu. Nicméně právě alternativní účastnické fondy mohou být vytvářeny pro tyto investiční strategie. Současná právní úprava tedy možnost těchto typů investic umožňuje. Podle názoru vlády proto rozmělňování právní úpravy povede ke stírání rozdílů mezi jednotlivými typy účastnických fondů, což může být pro účastníky méně přehledné a transparentní.
+
+\3. Za nevhodný vláda považuje i návrh umožnit povinnému konzervativnímu fondu investovat do akcií nebo obdobných cenných papírů představujících podíl na společnosti. Účelem povinného konzervativního fondu je primárně ochrana hodnoty prostředků účastníků v období krátce před zahájením nebo již v průběhu výplatní fáze, kdy je prostor pro kompenzaci případných tržních poklesů omezený. Zařazení akcií či obdobných nástrojů proto představuje při jejich přirozeně vysoké volatilitě potenciální zdroj nežádoucího kolísání hodnoty aktiv, které může mít negativní dopad například na výši vyplácené penze. Povinný konzervativní fond by měl podle názoru vlády zůstat v nabídce penzijních společností jako fond s konzervativní, nedynamickou strategií a nadále poskytovat účastníkům relativně stabilní a bezpečný výnos.
+
+\4. Navržené definice fondu rizikového kapitálu a fondu soukromého kapitálu nejsou podle vlády dostatečně určité a obsahují některé vágní formulace, které by mohly představovat komplikace při výkonu dohledové činnosti. Zejména definice fondu rizikového kapitálu není dostatečně konkrétní, aby na jejím základě mohly být různé fondy spolehlivě odlišeny. Rozdělení právnických osob podle toho, zda se nacházejí v „rané fázi rozvoje nebo ve fázi růstu“, lze rovněž považovat za vágní, a to především s ohledem na to, že ve fázi růstu se právnická osoba může nacházet prakticky po celou dobu své existence a že současně není jasné, po jakou dobu lze hovořit o „rané fázi rozvoje“ právnické osoby.
+
+\5. Předloženému návrhu zákona je též nutné vytknout, že nevychází z důkladné ekonomické analýzy českého systému penzijního spoření. Návrh zákona tak nebere v potaz česká specifika, zejména demografickou situaci. Odkaz na Nobelovu nadaci, který je v odůvodnění uveden „pro ilustraci“, též nelze považovat za relevantní srovnání.
