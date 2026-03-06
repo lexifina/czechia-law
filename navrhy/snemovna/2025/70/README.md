@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2025-12-15 | 70/0 | Návrh zákona | [t007000.md](t007000.md), [t0070a0.md](t0070a0.md) |
 | 2025-12-16 | 70/1 | Stanovisko vlády k návrhu poslance Adama Vojtěcha na vydání zákona, kterým se mění zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů | [t007001.md](t007001.md) |
 | 2026-02-12 | 70/2 | Usnesení výboru pro zdravotnictví č. 21 ze dne 11.  února 2026 k návrhu poslance Adama Vojtěcha na vydání zákona, kterým se mění zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů | [t007002.md](t007002.md) |
+| 2026-03-06 | 70/3 | Pozměňovací a jiné návrhy k návrhu poslance Adama Vojtěcha na vydání zákona, kterým se mění zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů | [t007003.md](t007003.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0070a0.md](t0070a0.md) | 70/0 | Platné znění s vyznačením změn | [t0070a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266240) | pymupdf / pdftotext 1.0000 |
 | [t007001.md](t007001.md) | 70/1 | Stanovisko | [t007001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266292) | pymupdf / pdftotext 1.0000 |
 | [t007002.md](t007002.md) | 70/2 | Text | [t007002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267569) | pymupdf / pdftotext 1.0000 |
+| [t007003.md](t007003.md) | 70/3 | Text | [t007003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268361) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
