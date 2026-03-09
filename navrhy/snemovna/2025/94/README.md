@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-02-10 | 94/1 | Usnesení rozpočtového výboru č. 41 ze dne 10. února 2026 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2026 | [t009401.md](t009401.md) |
 | 2026-02-27 | 94/2 | Usnesení rozpočtového výboru č. 51 ze dne 25. února 2026 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2026 | [t009402.md](t009402.md) |
 | 2026-03-09 | 94/3 | Návrh usnesení a pozměňovací návrhy k vládnímu návrhu zákona o státním rozpočtu ČR na rok 2026 a k vládnímu návrhu státního rozpočtu České republiky na rok 2026 přednesené v rozpravě ve 2. čtení | [t009403.md](t009403.md), [t0094a3.md](t0094a3.md) |
+| 2026-03-09 | 94/4 | Návrhy doprovodných usnesení k vládnímu návrhu zákona o státním rozpočtu ČR na rok 2026 a k vládnímu návrhu státního rozpočtu České republiky na rok 2026 | [t009404.md](t009404.md) |
 
 ## Files
 
@@ -57,5 +58,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t009402.md](t009402.md) | 94/2 | Text | [t009402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267923) | pymupdf / pdftotext 1.0000 |
 | [t009403.md](t009403.md) | 94/3 | Text | [t009403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268400) | pymupdf / pdftotext 1.0000 |
 | [t0094a3.md](t0094a3.md) | 94/3 | Text | [t0094a3.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268402) | pymupdf / pdftotext 1.0000 |
+| [t009404.md](t009404.md) | 94/4 | Stanovisko | [t009404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268405) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
