@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-02-16 | 109/0 | Návrh zákona | [t010900.md](t010900.md), [t0109a0.md](t0109a0.md) |
+| 2026-03-19 | 109/1 | Stanovisko vlády k návrhu poslanců Mariana Jurečky, Moniky Brzeskové, Toma Philippa, Benjamina Činčily a dalších na vydání zákona, kterým se mění zákon č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů | [t010901.md](t010901.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t010900.md](t010900.md) | 109/0 | Návrh zákona včetně důvodové zprávy | [t010900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267612) | pymupdf / pdftotext 1.0000 |
 | [t0109a0.md](t0109a0.md) | 109/0 | Platné znění s vyznačením změn | [t0109a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267614) | pymupdf / pdftotext 1.0000 |
+| [t010901.md](t010901.md) | 109/1 | Stanovisko | [t010901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268616) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
