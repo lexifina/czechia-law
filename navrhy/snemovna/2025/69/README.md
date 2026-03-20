@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2025-12-15 | 69/0 | Vládní návrh zákona | [t006900.md](t006900.md), [t0069a0.md](t0069a0.md), [t0069b0.md](t0069b0.md), [t0069c0.md](t0069c0.md), [t0069d0.md](t0069d0.md) |
+| 2026-03-20 | 69/1 | Usnesení hospodářského výboru č. 40 ze dne 19. března 2026 k vládnímu návrhu zákona o digitální ekonomice a o změně některých souvisejících zákonů | [t006901.md](t006901.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0069b0.md](t0069b0.md) | 69/0 | Návrhy vyhlášek | [t0069b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266218) | pymupdf / pdftotext 1.0000 |
 | [t0069c0.md](t0069c0.md) | 69/0 | Kompatibilita s právem EU | [t0069c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266220) | pymupdf / pdftotext 1.0000 |
 | [t0069d0.md](t0069d0.md) | 69/0 | Další | [t0069d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266222) | pymupdf / pdftotext 1.0000 |
+| [t006901.md](t006901.md) | 69/1 | Text | [t006901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268663) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
