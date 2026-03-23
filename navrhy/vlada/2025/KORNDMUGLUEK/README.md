@@ -32,5 +32,6 @@ Text as published in ODok, extracted from the official file and checked against 
 | 2026-03-17 | [ria-kornds9g2xn8.md](ria-kornds9g2xn8.md) | Závěrečná zpráva RIA | [zpráva RIA-vládní návrh.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDS9G2XN8/) | libreoffice / docx-xml (contained) 1.0000 |
 | 2026-03-17 | [rt-kornds9g2zfb.md](rt-kornds9g2zfb.md) | Rozdílová tabulka | [rozdílová tabulka vládní návrh.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDS9G2ZFB/) | libreoffice / docx-xml (contained) 1.0000 |
 | 2026-03-17 | [pz-kornds9g33fd.md](pz-kornds9g33fd.md) | Platné znění s vyznačením navrhovaných změn a doplnění | [platné znění-vládní návrh.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDS9G33FD/) | libreoffice / docx-xml (contained) 1.0000 |
+| 2026-03-23 | [ob-korndsfgr7wh.md](ob-korndsfgr7wh.md) | Obálka | [obal-vládní návrh.doc](https://odok.gov.cz/portal/services/download/attachment/KORNDSFGR7WH/) | libreoffice / antiword 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
