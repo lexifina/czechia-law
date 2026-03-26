@@ -1,0 +1,77 @@
+---
+material: "KORNDMYC760O"
+dokument: "Materiál"
+soubor: "76405_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDSJJDSUU/"
+den: "2026-03-26"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+VYHLÁŠKA
+
+ze dne 26. března 2026,
+
+kterou se mění vyhláška č. 438/2006 Sb., kterou se upravují podrobnosti výkonu ústavní výchovy a ochranné výchovy ve školských zařízeních, ve znění pozdějších předpisů
+
+Ministerstvo školství, mládeže a tělovýchovy stanoví podle § 41 odst. 1 písm. a) zákona č. 109/2002 Sb., o výkonu ústavní výchovy nebo ochranné výchovy ve školských zařízeních a o preventivně výchovné péči ve školských zařízeních a o změně dalších zákonů, ve znění nálezu Ústavního soudu, vyhlášeného pod č. 476/2004 Sb., a zákona č. 333/2012 Sb.:
+
+Čl. I
+
+Vyhláška č. 438/2006 Sb., kterou se upravují podrobnosti výkonu ústavní výchovy a ochranné výchovy ve školských zařízeních, ve znění vyhlášky č. 244/2011 Sb., vyhlášky č. 124/2014 Sb., vyhlášky č. 198/2015 Sb. a vyhlášky č. 133/2022 Sb., se mění takto:
+
+\1. V § 14 odst. 2 se za slovo „Bor“ vkládá slovo „, Semily“.
+
+\2. V § 14 odst. 3 se slovo „Semily,“ zrušuje.
+
+\3. V § 14 odstavec 6 zní:
+
+„(6) Diagnostický ústav v Praze 2 je určen, jde-li o děti
+
+a) od 4 let do ukončení povinné školní docházky, pro hlavní město Prahu a pro správní obvody obcí s rozšířenou působností Benešov, Beroun, Brandýs nad Labem – Stará Boleslav, Čáslav, Černošice, Český Brod, Dobříš, Hořovice, Kladno, Kolín, Kralupy nad Vltavou, Kutná Hora, Lysá nad Labem, Mělník, Mladá Boleslav, Mnichovo Hradiště, Neratovice, Nymburk, Poděbrady, Příbram, Rakovník, Říčany, Sedlčany, Slaný, Vlašim a Votice a
+
+b) po ukončení povinné školní docházky, pro hlavní město Prahu a kraje Středočeský, Plzeňský, Karlovarský, Liberecký, Ústecký, Jihočeský, Královéhradecký a pro správní obvody obcí s rozšířenou působností Hlinsko, Holice, Chrudim, Pardubice, Vysoké Mýto, Přelouč, Havlíčkův Brod, Humpolec, Chotěboř, Pacov, Pelhřimov a Světlá nad Sázavou, a to pro chlapce.“.
+
+\4. V § 14 odst. 6 písmeno a) zní:
+
+„a) od 7 let do ukončení povinné školní docházky, pro hlavní město Prahu a pro správní obvody obcí s rozšířenou působností Benešov, Beroun, Brandýs nad Labem – Stará Boleslav, Čáslav, Černošice, Český Brod, Dobříš, Hořovice, Kladno, Kolín, Kralupy nad Vltavou, Kutná Hora, Lysá nad Labem, Mělník, Mladá Boleslav, Mnichovo Hradiště, Neratovice, Nymburk, Poděbrady, Příbram, Rakovník, Říčany, Sedlčany, Slaný, Vlašim a Votice a“.
+
+\5. V § 14 odst. 7 písm. a) se slovo „zpravidla“ zrušuje.
+
+\6. V § 14 odst. 7 písm. a) se číslo „3“ nahrazuje číslem „4“.
+
+\7. V § 14 odst. 7 písmeno a) zní:
+
+„a) od 7 let do ukončení povinné školní docházky, pro správní obvody obcí s rozšířenou působností Blansko, Boskovice, Brno, Břeclav, Bučovice, Hodonín, Hustopeče, Ivančice, Kuřim, Kyjov, Mikulov, Moravský Krumlov, Pohořelice, Rosice, Slavkov u Brna, Šlapanice, Tišnov, Veselí nad Moravou, Vyškov, Znojmo, Židlochovice, Bystřice nad Pernštejnem, Jihlava, Moravské Budějovice, Náměšť nad Oslavou, Nové Město na Moravě, Telč, Třebíč, Velké Meziříčí, Žďár nad Sázavou, Bystřice pod Hostýnem, Holešov, Kroměříž, Uherské Hradiště a Uherský Brod a“.
+
+\8. V § 14 odstavec 10 zní:
+
+„(10) Diagnostický ústav v Praze 4 – Hodkovičkách je určen pro hlavní město Prahu a kraje Středočeský, Plzeňský, Karlovarský, Liberecký, Ústecký, Jihočeský, Královéhradecký a pro správní obvody obcí s rozšířenou působností Hlinsko, Holice, Chrudim, Pardubice, Vysoké Mýto, Přelouč, Havlíčkův Brod, Humpolec, Chotěboř, Pacov, Pelhřimov a Světlá nad Sázavou, a to pro dívky.“.
+
+\9. § 15 zní:
+
+„§ 15
+
+Diagnostické ústavy uvedené v § 14 odst. 2 až 5, § 14 odst. 6 písm. a), § 14 odst. 7 písm. a) a v § 14 odst. 8 a 9 přijímají děti od 4 let do ukončení povinné školní docházky. Diagnostické ústavy uvedené v § 14 odst. 6 písm. b), § 14 odst. 7 písm. b) a § 14 odst. 10 a 11 přijímají děti po ukončení povinné školní docházky.“.
+
+\10. § 15 zní:
+
+„§ 15
+
+Diagnostické ústavy uvedené v § 14 odst. 2 až 5, § 14 odst. 6 písm. a), § 14 odst. 7 písm. a) a v § 14 odst. 8 a 9 přijímají děti od 7 let do ukončení povinné školní docházky. Diagnostické ústavy uvedené v § 14 odst. 6 písm. b), § 14 odst. 7 písm. b) a § 14 odst. 10 a 11 přijímají děti po ukončení povinné školní docházky.“.
+
+Čl. II
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem následujícím po dni jejího vyhlášení, s výjimkou
+
+a) ustanovení čl. I bodu 4, čl. I bodu 7 a čl. I bodu 10, která nabývají účinnosti dnem 1. ledna 2028.
+
+Ministr školství, mládeže a tělovýchovy:
+
+Ing. Plaga, Ph.D.
+
+elektronicky podepsáno
