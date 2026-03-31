@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-03-09 | 125/0 | Návrh zákona | [t012500.md](t012500.md), [t0125a0.md](t0125a0.md) |
+| 2026-03-31 | 125/1 | Stanovisko vlády k návrhu poslanců Aleše Juchelky a Jany Pastuchové na vydání zákona, kterým se mění zákon č. 108/2006 Sb., o sociálních službách, ve znění pozdějších předpisů, zákon č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením a o změně souvisejících zákonů, ve znění pozdějších předpisů, a další související zákony | [t012501.md](t012501.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t012500.md](t012500.md) | 125/0 | Návrh zákona včetně důvodové zprávy | [t012500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268378) | pymupdf / pdftotext 0.9965 |
 | [t0125a0.md](t0125a0.md) | 125/0 | Platné znění s vyznačením změn | [t0125a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268380) | pymupdf / pdftotext 1.0000 |
+| [t012501.md](t012501.md) | 125/1 | Stanovisko | [t012501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268908) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
