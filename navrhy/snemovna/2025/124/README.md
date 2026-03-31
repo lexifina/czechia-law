@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-03-06 | 124/0 | Návrh zákona | [t012400.md](t012400.md), [t0124a0.md](t0124a0.md) |
+| 2026-03-31 | 124/1 | Stanovisko vlády k návrhu poslance Aleše Juchelky na vydání zákona, kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů, a zákon č. 152/2025 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o dávce státní sociální pomoci, ve znění zákona č. 300/2025 Sb. | [t012401.md](t012401.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t012400.md](t012400.md) | 124/0 | Návrh zákona včetně důvodové zprávy | [t012400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268364) | pymupdf / pdftotext 1.0000 |
 | [t0124a0.md](t0124a0.md) | 124/0 | Platné znění s vyznačením změn | [t0124a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268366) | pymupdf / pdftotext 1.0000 |
+| [t012401.md](t012401.md) | 124/1 | Stanovisko | [t012401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268911) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
