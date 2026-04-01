@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-03-11 | 130/0 | Návrh zákona | [t013000.md](t013000.md), [t0130a0.md](t0130a0.md) |
+| 2026-04-01 | 130/1 | Stanovisko vlády k senátnímu návrhu zákona, kterým se mění zákon č. 95/2004 Sb., o podmínkách získávání a uznávání odborné způsobilosti a specializované způsobilosti k výkonu zdravotnického povolání lékaře, zubního lékaře a farmaceuta, ve znění pozdějších předpisů | [t013001.md](t013001.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t013000.md](t013000.md) | 130/0 | Návrh zákona včetně důvodové zprávy | [t013000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268455) | pymupdf / pdftotext 1.0000 |
 | [t0130a0.md](t0130a0.md) | 130/0 | Platné znění s vyznačením změn | [t0130a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268457) | pymupdf / pdftotext 1.0000 |
+| [t013001.md](t013001.md) | 130/1 | Stanovisko | [t013001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268936) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
