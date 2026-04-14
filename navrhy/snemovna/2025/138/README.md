@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-03-19 | 138/0 | Návrh zákona | [t013800.md](t013800.md), [t0138a0.md](t0138a0.md) |
+| 2026-04-14 | 138/1 | Stanovisko vlády k návrhu poslance Víta Rakušana na vydání zákona, kterým se mění zákon č. 353/2019 Sb., o výběru osob do řídících a dozorčích orgánů právnických osob s majetkovou účastí státu (nominační zákon), ve znění pozdějších předpisů | [t013801.md](t013801.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t013800.md](t013800.md) | 138/0 | Návrh zákona včetně důvodové zprávy | [t013800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268605) | pymupdf / pdftotext 1.0000 |
 | [t0138a0.md](t0138a0.md) | 138/0 | Platné znění s vyznačením změn | [t0138a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268607) | pymupdf / pdftotext 1.0000 |
+| [t013801.md](t013801.md) | 138/1 | Stanovisko | [t013801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269305) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
