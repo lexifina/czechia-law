@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-03-25 | 146/0 | Návrh zákona | [t014600.md](t014600.md), [t0146a0.md](t0146a0.md) |
+| 2026-04-21 | 146/1 | Stanovisko vlády k návrhu poslanců Věry Kovářové, Matěje Hlavatého, Zdeny Kašparové, Jakuba Krainera, Elišky Olšákové, Michaely Opltové, Jana Papajanovského, Víta Rakušana, Lucie Sedmihradské, Julie Smejkalové, Michaely Šebelové a Barbory Urbanové na vydání zákona, kterým se mění zákon č. 128/2000 Sb., o obcích (obecní zřízení), ve znění pozdějších předpisů, zákon č. 129/2000 Sb., o krajích (krajské zřízení), ve znění pozdějších předpisů, a zákon č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších předpisů | [t014601.md](t014601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t014600.md](t014600.md) | 146/0 | Návrh zákona včetně důvodové zprávy | [t014600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268822) | pymupdf / pdftotext 1.0000 |
 | [t0146a0.md](t0146a0.md) | 146/0 | Platné znění s vyznačením změn | [t0146a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268824) | pymupdf / pdftotext 1.0000 |
+| [t014601.md](t014601.md) | 146/1 | Stanovisko | [t014601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269560) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
