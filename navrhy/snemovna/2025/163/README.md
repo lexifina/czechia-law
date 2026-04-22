@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-13 | 163/0 | Vládní návrh zákona | [t016300.md](t016300.md), [t0163a0.md](t0163a0.md), [t0163b0.md](t0163b0.md) |
 | 2026-04-14 | 163/1 | Usnesení rozpočtového výboru č. 73 ze dne 14. dubna 2026 k vládnímu návrhu zákona o regulaci cen pohonných hmot vládou a o změně zákona č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů | [t016301.md](t016301.md) |
 | 2026-04-22 | 163/2 | Návrh zákona o regulaci cen pohonných hmot vládou a o změně zákona č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, zamítnutý Senátem | [t016302.md](t016302.md) |
+| 2026-04-22 | 163/3 | Usnesení Senátu k návrhu zákona o regulaci cen pohonných hmot vládou a o změně zákona č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů | [t016303.md](t016303.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0163b0.md](t0163b0.md) | 163/0 | Návrhy vyhlášek | [t0163b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269176) | pymupdf / pdftotext 1.0000 |
 | [t016301.md](t016301.md) | 163/1 | Text | [t016301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269260) | pymupdf / pdftotext 1.0000 |
 | [t016302.md](t016302.md) | 163/2 | Text | [t016302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269611) | pymupdf / pdftotext 1.0000 |
+| [t016303.md](t016303.md) | 163/3 | Text | [t016303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269614) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
