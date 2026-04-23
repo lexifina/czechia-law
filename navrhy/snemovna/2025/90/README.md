@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-02 | 90/1 | Usnesení rozpočtového výboru č. 61 ze dne 1. dubna 2026 k vládnímu návrhu zákona, kterým se mění některé zákony v oblasti veřejných rozpočtů | [t009001.md](t009001.md) |
 | 2026-04-16 | 90/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění některé zákony v oblasti veřejných rozpočtů | [t009002.md](t009002.md) |
 | 2026-04-23 | 90/3 | Usnesení garančního výboru č. 75 ze dne 22. dubna 2026 k vládnímu návrhu zákona, kterým se mění některé zákony v oblasti veřejných rozpočtů | [t009003.md](t009003.md) |
+| 2026-04-23 | 90/4 | Oponentní zpráva k vládnímu návrhu zákona, kterým se mění některé zákony v oblasti veřejných rozpočtů | [t009004.md](t009004.md) |
 
 ## Files
 
@@ -36,5 +37,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t009001.md](t009001.md) | 90/1 | Text | [t009001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269000) | pymupdf / pdftotext 1.0000 |
 | [t009002.md](t009002.md) | 90/2 | Text | [t009002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269428) | pymupdf / pdftotext 1.0000 |
 | [t009003.md](t009003.md) | 90/3 | Text | [t009003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269642) | pymupdf / pdftotext 1.0000 |
+| [t009004.md](t009004.md) | 90/4 | Text | [t009004.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269645) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
