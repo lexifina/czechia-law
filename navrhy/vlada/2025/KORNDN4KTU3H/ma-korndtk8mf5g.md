@@ -1,0 +1,157 @@
+---
+material: "KORNDN4KTU3H"
+dokument: "Materiál"
+soubor: "80088_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDTK8MF5G/"
+den: "2026-04-28"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+VYHLÁŠKA
+
+ze dne …
+
+o vyhlášení přírodní rezervace Lipka a stanovení jejích bližších ochranných podmínek
+
+Ministerstvo životního prostředí stanoví podle § 79 odst. 5 písm. h) zákona č. 114/1992 Sb., o ochraně přírody a krajiny, ve znění zákona č. 149/2023 Sb.:
+
+§ 1
+
+Vyhlášení přírodní rezervace
+
+(1) Vyhlašuje se přírodní rezervace Lipka (dále jen „přírodní rezervace“).
+
+(2) Za přírodní rezervaci se vyhlašuje území, vymezené v odstavci 3, s výskytem sukcesních stádií společenstev na zaniklých podmáčených zemědělských půdách, včetně vyskytujících se podmáčených smrčin.
+
+(3) Přírodní rezervace se rozkládá na území Jihočeského kraje, v katastrálním území Lipka u Vimperka. Hranice přírodní rezervace se stanoví uzavřeným geometrickým obrazcem s přímými stranami, jejichž vrcholy jsou určeny souřadnicemi jednotné trigonometrické sítě katastrální1). Seznamy souřadnic vrcholů geometrického obrazce tak, jak jdou v obrazci za sebou, jsou uvedeny v příloze č. 1 k této vyhlášce.
+
+(4) Přírodní rezervace se vyhlašuje bez ochranného pásma.
+
+(5) Orientační grafické znázornění území přírodní rezervace je uvedeno v příloze č. 2 k této vyhlášce.
+
+§ 2
+
+Bližší ochranné podmínky
+
+Na celém území přírodní rezervace lze jen se souhlasem orgánu ochrany přírody
+
+a) povolovat nebo provádět změny vodního režimu,
+
+b) zřizovat nová přikrmovací zařízení nebo slaniska, nebo
+
+c) přikrmovat nebo vnadit zvěř mimo přikrmovací zařízení.
+
+§ 3
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2026.
+
+Příloha č. 1 k vyhlášce č. /2026 Sb.
+
+Seznamy souřadnic (S-JTSK) jednotlivých vrcholů geometrických obrazců, kterými jsou stanoveny hranice přírodní rezervace Lipka
+
+Geometrický obrazec – hranice přírodní rezervace Lipka
+
+číslo bodu souřadnice - Y [m] souřadnice - X [m] pořadí bodu v obrazci
+
+1 808491,50 1153330,06 1
+
+2 808445,65 1153324,39 2
+
+131-2504 808397,02 1153319,49 3
+
+131-2555 808367,90 1153325,45 4
+
+131-2581 808341,90 1153320,81 5
+
+3 808337,29 1153316,21 6
+
+4 808325,60 1153306,00 7
+
+5 808304,31 1153285,32 8
+
+6 808281,33 1153263,02 9
+
+7 808258,97 1153241,29 10
+
+8 808239,76 1153222,62 11
+
+9 808225,70 1153208,92 12
+
+10 808211,08 1153194,89 13
+
+11 808188,90 1153173,42 14
+
+12 808170,99 1153156,59 15
+
+13 808157,62 1153142,97 16
+
+14 808160,80 1153136,03 17
+
+15 808165,58 1153125,64 18
+
+16 808171,06 1153113,91 19
+
+18 808198,25 1153138,86 20
+
+19 808224,72 1153145,51 21
+
+20 808241,03 1153143,06 22
+
+21 808289,80 1153119,78 23
+
+131-2625 808305,07 1153106,43 24
+
+131-2594 808328,96 1153117,41 25
+
+131-2550 808372,05 1153133,02 26
+
+131-2508 808394,42 1153147,28 27
+
+131-2453 808438,49 1153171,01 28
+
+131-2414 808464,82 1153177,29 29
+
+131-2381 808485,66 1153182,04 30
+
+34 808496,24 1153183,84 31
+
+35 808504,59 1153186,43 32
+
+36 808514,07 1153188,08 33
+
+37 808522,75 1153190,71 34
+
+38 808533,93 1153194,79 35
+
+39 808541,55 1153198,30 36
+
+42 808553,88 1153203,59 37
+
+41 808564,70 1153206,36 38
+
+40 808572,35 1153208,44 39
+
+67-38 808577,90 1153210,53 40
+
+67-34 808537,42 1153231,77 41
+
+67-36 808508,85 1153227,38 42
+
+67-31 808486,98 1153245,60 43
+
+67-25 808475,86 1153263,26 44
+
+67-23 808478,23 1153273,80 45
+
+67-20 808486,40 1153302,85 46
+
+Příloha č. 2 k vyhlášce č. /2026 Sb.
+
+Orientační grafické znázornění území přírodní rezervace Lipka
+
+\1) Nařízení vlády č. 159/2023 Sb., o stanovení geodetických referenčních systémů závazných na celém území České republiky, databází geodetických a geografických údajů a státních mapových děl vytvářených pro celé území České republiky a zásadách jejich používání.
