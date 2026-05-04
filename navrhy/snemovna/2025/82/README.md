@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-01-13 | 82/0 | Vládní návrh zákona | [t008200.md](t008200.md), [t0082a0.md](t0082a0.md) |
 | 2026-04-07 | 82/1 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 26 ze dne 2. dubna 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 175/2025 Sb., o poskytování některých opatření v podpoře bydlení (zákon o podpoře bydlení) | [t008201.md](t008201.md) |
 | 2026-04-16 | 82/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 175/2025 Sb., o poskytování některých opatření v podpoře bydlení (zákon o podpoře bydlení) | [t008202.md](t008202.md) |
+| 2026-05-04 | 82/3 | Usnesení garančního výboru č. 36 ze dne 30. dubna 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 175/2025 Sb., o poskytování některých opatření v podpoře bydlení (zákon o podpoře bydlení) | [t008203.md](t008203.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0082a0.md](t0082a0.md) | 82/0 | Platné znění s vyznačením změn | [t0082a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266754) | pymupdf / pdftotext 1.0000 |
 | [t008201.md](t008201.md) | 82/1 | Text | [t008201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269028) | pymupdf / pdftotext 1.0000 |
 | [t008202.md](t008202.md) | 82/2 | Text | [t008202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269441) | pymupdf / pdftotext 1.0000 |
+| [t008203.md](t008203.md) | 82/3 | Text | [t008203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269866) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
