@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-03-25 | 142/0 | Zpráva a jiné | [t014200.md](t014200.md), [t0142a0.md](t0142a0.md), [t0142c0.md](t0142c0.md), [t0142d0.md](t0142d0.md), [t0142e0.md](t0142e0.md), [t0142f0.md](t0142f0.md), [t0142g0.md](t0142g0.md), [t0142h0.md](t0142h0.md), [t0142i0.md](t0142i0.md) |
+| 2026-05-04 | 142/1 | Usnesení výboru pro obranu č. 38 ze dne 28. dubna 2026 k informaci o přeletech a průjezdech ozbrojených sil jiných států uskutečněných přes území České republiky ve 2. pololetí 2025 | [t014201.md](t014201.md) |
 
 ## Files
 
@@ -34,6 +35,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0142g0.md](t0142g0.md) | 142/0 | Další | [t0142g0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268774) | pymupdf / pdftotext 1.0000 |
 | [t0142h0.md](t0142h0.md) | 142/0 | Další | [t0142h0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268776) | pymupdf / pdftotext 1.0000 |
 | [t0142i0.md](t0142i0.md) | 142/0 | Další | [t0142i0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268778) | pymupdf / pdftotext 1.0000 |
+| [t014201.md](t014201.md) | 142/1 | Text | [t014201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269880) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
