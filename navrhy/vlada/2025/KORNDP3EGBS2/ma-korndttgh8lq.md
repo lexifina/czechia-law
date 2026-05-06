@@ -1,0 +1,43 @@
+---
+material: "KORNDP3EGBS2"
+dokument: "Materiál"
+soubor: "93164_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDTTGH8LQ/"
+den: "2026-05-06"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 27. dubna 2026,
+
+kterým se mění nařízení vlády č. 29/2023 Sb., o vzorovém poučení o právu na odstoupení od smluv uzavřených distančním způsobem nebo mimo obchodní prostory a vzorovém formuláři pro odstoupení od těchto smluv
+
+Vláda nařizuje podle § 1820 odst. 2 zákona č. 89/2012 Sb., občanský zákoník, ve znění zákona č. 374/2022 Sb.:
+
+Čl. I
+
+Nařízení vlády č. 29/2023 Sb., o vzorovém poučení o právu na odstoupení od smluv uzavřených distančním způsobem nebo mimo obchodní prostory a vzorovém formuláři pro odstoupení od těchto smluv, se mění takto:
+
+V příloze písm. a) oddílu Pokyny pro vyplnění formuláře v pokynu č. 4 se na začátek vkládá věta „Pokud jste povinen umožnit spotřebiteli odstoupit od smlouvy prohlášením učiněným v on-line rozhraní použitím tlačítka nebo obdobného ovládacího prvku pro odstoupení od smlouvy, vložte text: „Můžete rovněž odstoupit od smlouvy online na [vložte internetovou adresu nebo jiné vhodné vysvětlení toho, kde lze tlačítko nebo obdobný ovládací prvek pro odstoupení od smlouvy nalézt]. Využijete-li této možnosti, bez zbytečného odkladu Vám potvrdíme přijetí prohlášení o odstoupení od smlouvy v textové podobě (například prostřednictvím elektronické pošty), včetně jeho obsahu a data a času jeho odeslání.“.“.
+
+Čl. II
+
+Účinnost
+
+Toto nařízení nabývá účinnosti dnem 19. června 2026.
+
+Předseda vlády:
+
+Ing. Babiš
+
+podepsáno elektronicky
+
+Místopředsedkyně vlády a ministryně financí:
+
+JUDr. Schillerová, Ph.D.
+
+podepsáno elektronicky
