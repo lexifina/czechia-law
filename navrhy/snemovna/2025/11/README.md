@@ -27,6 +27,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-03-05 | 11/5 | Pozměňovací a jiné návrhy k návrhu poslanců Aleny Schillerové, Andreje Babiše, Tomia Okamury, Petra Macinky, Aleše Juchelky, Karla Havlíčka, Taťány Malé, Radima Fialy a Borise Šťastného na vydání zákona, kterým se mění zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů | [t001105.md](t001105.md) |
 | 2026-03-18 | 11/6 | Usnesení garančního výboru č. 20 ze dne 18. března 2026 k návrhu poslanců Aleny Schillerové, Andreje Babiše, Tomia Okamury, Petra Macinky, Aleše Juchelky, Karla Havlíčka, Taťány Malé, Radima Fialy a Borise Šťastného na vydání zákona, kterým se mění zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů | [t001106.md](t001106.md) |
 | 2026-05-07 | 11/7 | Návrh zákona, kterým se mění zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů, zamítnutý Senátem | [t001107.md](t001107.md) |
+| 2026-05-07 | 11/8 | Usnesení Senátu k návrhu zákona, kterým se mění zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů | [t001108.md](t001108.md) |
 
 ## Files
 
@@ -44,5 +45,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t001105.md](t001105.md) | 11/5 | Text | [t001105.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268325) | pymupdf / pdftotext 1.0000 |
 | [t001106.md](t001106.md) | 11/6 | Text | [t001106.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268591) | pymupdf / pdftotext 1.0000 |
 | [t001107.md](t001107.md) | 11/7 | Text | [t001107.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270086) | pymupdf / pdftotext 1.0000 |
+| [t001108.md](t001108.md) | 11/8 | Text | [t001108.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270089) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
