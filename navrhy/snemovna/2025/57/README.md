@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2025-12-08 | 57/0 | Vládní návrh zákona | [t005700.md](t005700.md), [t0057a0.md](t0057a0.md), [t0057b0.md](t0057b0.md) |
 | 2026-05-07 | 57/1 | Návrh zákona, kterým se mění zákon č. 375/2022 Sb., o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro, ve znění pozdějších předpisů, vrácený Senátem | [t005701.md](t005701.md) |
+| 2026-05-07 | 57/2 | Usnesení Senátu k návrhu zákona, kterým se mění zákon č. 375/2022 Sb., o zdravotnických prostředcích a diagnostických zdravotnických prostředcích in vitro, ve znění pozdějších předpisů | [t005702.md](t005702.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0057a0.md](t0057a0.md) | 57/0 | Platné znění s vyznačením změn | [t0057a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266023) | pymupdf / pdftotext 1.0000 |
 | [t0057b0.md](t0057b0.md) | 57/0 | Kompatibilita s právem EU | [t0057b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266025) | pymupdf / pdftotext 1.0000 |
 | [t005701.md](t005701.md) | 57/1 | Text | [t005701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270074) | pymupdf / pdftotext 1.0000 |
+| [t005702.md](t005702.md) | 57/2 | Text | [t005702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270081) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
