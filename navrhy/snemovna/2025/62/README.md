@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2025-12-12 | 62/0 | Vládní návrh zákona | [t006200.md](t006200.md), [t0062a0.md](t0062a0.md), [t0062b0.md](t0062b0.md) |
 | 2026-04-02 | 62/1 | Usnesení hospodářského výboru č. 49 ze dne 2. dubna 2026 k vládnímu návrhu zákona o některých povinnostech souvisejících s opravou výrobku a o změně zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů | [t006201.md](t006201.md) |
+| 2026-05-15 | 62/2 | Usnesení hospodářského výboru č. 74 ze dne 14. května 2026 k vládnímu návrhu zákona o některých povinnostech souvisejících s opravou výrobku a o změně zákona č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů | [t006202.md](t006202.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0062a0.md](t0062a0.md) | 62/0 | Platné znění s vyznačením změn | [t0062a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266122) | pymupdf / pdftotext 1.0000 |
 | [t0062b0.md](t0062b0.md) | 62/0 | Kompatibilita s právem EU | [t0062b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266124) | pymupdf / pdftotext 1.0000 |
 | [t006201.md](t006201.md) | 62/1 | Text | [t006201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268985) | pymupdf / pdftotext 1.0000 |
+| [t006202.md](t006202.md) | 62/2 | Text | [t006202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270348) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
