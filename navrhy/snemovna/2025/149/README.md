@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-03-27 | 149/0 | Zpráva a jiné | [t014900.md](t014900.md) |
+| 2026-05-18 | 149/1 | Usnesení petičního výboru č. 47 ze dne 12. května 2026 k souhrnné zprávě o činnosti veřejného ochránce práv a ochránce práv dětí za rok 2025 (výroční zpráva) | [t014901.md](t014901.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t014900.md](t014900.md) | 149/0 | Text | [t014900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268862) | pymupdf / pdftotext 0.9974 |
+| [t014901.md](t014901.md) | 149/1 | Text | [t014901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270384) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
