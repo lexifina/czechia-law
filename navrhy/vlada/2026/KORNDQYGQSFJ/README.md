@@ -29,5 +29,7 @@ Text as published in ODok, extracted from the official file and checked against 
 | 2026-05-28 | [zd-kornduhkkywb.md](zd-kornduhkkywb.md) | Důvodová zpráva | [134661_Duvodova_zprava.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDUHKKYWB/) | libreoffice / docx-xml (contained) 1.0000 |
 | 2026-05-28 | [so-kornduhkl2g4.md](so-kornduhkl2g4.md) | Úplné znění PA s důvodovou zprávou a stručným obsahem | [134661_Strucny_popis_obsahu_navrhu_pravniho_predpisu.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDUHKL2G4/) | libreoffice / docx-xml (contained) 1.0000 |
 | 2026-05-28 | [ip-kornduhkl4c1.md](ip-kornduhkl4c1.md) | Informativní přehled veřejnoprávních povinností vyplývajících z návrhu právního předpisu | [134661_Informativni_prehled_verejnopravnich_povinnosti.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDUHKL4C1/) | libreoffice / docx-xml (contained) 1.0000 |
+| 2026-06-02 | [pd-albsdunngb62.md](pd-albsdunngb62.md) | Průvodní dopis | [I. Pd.pdf](https://odok.gov.cz/portal/services/download/attachment/ALBSDUNNGB62/) | pymupdf / pdftotext 1.0000 |
+| 2026-06-02 | [ma-albsdunngcpd.md](ma-albsdunngcpd.md) | Materiál | [Ma_nařízení_.pdf](https://odok.gov.cz/portal/services/download/attachment/ALBSDUNNGCPD/) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
