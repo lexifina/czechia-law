@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-05-06 | 186/0 | Návrh zákona | [t018600.md](t018600.md), [t0186a0.md](t0186a0.md) |
+| 2026-06-03 | 186/1 | Stanovisko vlády k návrhu Zastupitelstva hlavního města Prahy na vydání zákona, kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů | [t018601.md](t018601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t018600.md](t018600.md) | 186/0 | Návrh zákona včetně důvodové zprávy | [t018600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270036) | pymupdf / pdftotext 1.0000 |
 | [t0186a0.md](t0186a0.md) | 186/0 | Platné znění s vyznačením změn | [t0186a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270038) | pymupdf / pdftotext 1.0000 |
+| [t018601.md](t018601.md) | 186/1 | Stanovisko | [t018601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271323) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
