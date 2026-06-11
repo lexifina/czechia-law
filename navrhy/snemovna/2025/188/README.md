@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-05-07 | 188/0 | Zpráva a jiné | [t0188000000.md](t0188000000.md), [t0188000001.md](t0188000001.md), [t0188000002.md](t0188000002.md), [t0188000003.md](t0188000003.md), [t0188000004.md](t0188000004.md), [t0188000005.md](t0188000005.md), [t0188000006.md](t0188000006.md), [t0188000007.md](t0188000007.md), [t0188000008.md](t0188000008.md), [t0188000009.md](t0188000009.md), [t0188000010.md](t0188000010.md), [t0188000011.md](t0188000011.md), [t0188000012.md](t0188000012.md), [t0188000013.md](t0188000013.md), [t0188000014.md](t0188000014.md), [t0188000015.md](t0188000015.md), [t0188000016.md](t0188000016.md), [t0188000017.md](t0188000017.md), [t0188000018.md](t0188000018.md), [t0188000019.md](t0188000019.md), [t0188000020.md](t0188000020.md), [t0188000021.md](t0188000021.md), [t0188000022.md](t0188000022.md), [t0188000023.md](t0188000023.md), [t0188000024.md](t0188000024.md), [t0188000025.md](t0188000025.md), [t0188000026.md](t0188000026.md), [t0188000027.md](t0188000027.md), [t0188000028.md](t0188000028.md), [t0188000029.md](t0188000029.md), [t0188000030.md](t0188000030.md), [t0188000031.md](t0188000031.md) |
+| 2026-06-11 | 188/1 | Usnesení výboru pro vědu, vzdělávání, mládež a sport č. 43 ze dne 10. června 2026 ke zprávě o činnosti kontrolní rady Technologické agentury ČR za rok 2025 | [t018801.md](t018801.md) |
 
 ## Files
 
@@ -57,5 +58,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0188000029.md](t0188000029.md) | 188/0 | Další | [t0188000029.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270127) | pymupdf / pdftotext 1.0000 |
 | [t0188000030.md](t0188000030.md) | 188/0 | Další | [t0188000030.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270128) | pymupdf / pdftotext 1.0000 |
 | [t0188000031.md](t0188000031.md) | 188/0 | Další | [t0188000031.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270129) | pymupdf / pdftotext 0.9995 |
+| [t018801.md](t018801.md) | 188/1 | Text | [t018801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271624) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
