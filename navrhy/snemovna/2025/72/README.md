@@ -27,6 +27,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-07 | 72/5 | Usnesení petičního výboru č. 38 ze dne 31. března 2026 k návrhu poslanců Radka Vondráčka, Andreje Babiše, Tomia Okamury, Petra Macinky, Marka Bendy, Taťány Malé, Radima Fialy a Borise Šťastného na vydání zákona, kterým se mění zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů | [t007205.md](t007205.md) |
 | 2026-04-29 | 72/6 | Usnesení stálé komise pro Ústavu České republiky a parlamentní procedury č. 5 ze dne 18. března 2026 k návrhu poslanců Radka Vondráčka, Andreje Babiše, Tomia Okamury, Petra Macinky, Marka Bendy, Taťány Malé, Radima Fialy a Borise Šťastného na vydání zákona, kterým se mění zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů | [t007206.md](t007206.md) |
 | 2026-05-28 | 72/7 | Pozměňovací a jiné návrhy k návrhu poslanců Radka Vondráčka, Andreje Babiše, Tomia Okamury, Petra Macinky, Marka Bendy, Taťány Malé, Radima Fialy a Borise Šťastného na vydání zákona, kterým se mění zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů | [t007207.md](t007207.md) |
+| 2026-06-12 | 72/8 | Usnesení garančního výboru č. 41 ze dne 10. června 2026 k návrhu poslanců Radka Vondráčka, Andreje Babiše, Tomia Okamury, Petra Macinky, Marka Bendy, Taťány Malé, Radima Fialy a Borise Šťastného na vydání zákona, kterým se mění zákon č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, ve znění pozdějších předpisů | [t007208.md](t007208.md) |
 
 ## Files
 
@@ -43,5 +44,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t007205.md](t007205.md) | 72/5 | Text | [t007205.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269081) | pymupdf / pdftotext 1.0000 |
 | [t007206.md](t007206.md) | 72/6 | Text | [t007206.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269747) | pymupdf / pdftotext 1.0000 |
 | [t007207.md](t007207.md) | 72/7 | Text | [t007207.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271137) | pymupdf / pdftotext 1.0000 |
+| [t007208.md](t007208.md) | 72/8 | Text | [t007208.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271720) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
