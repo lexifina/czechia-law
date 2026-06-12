@@ -27,6 +27,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-29 | 47/7 | Usnesení kontrolního výboru č. 40 ze dne 29. dubna 2026 k senátnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t004707.md](t004707.md) |
 | 2026-04-30 | 47/8 | Usnesení ústavně-právního výboru č. 31 ze dne 29. dubna 2026 k senátnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t004708.md](t004708.md) |
 | 2026-05-14 | 47/9 | Pozměňovací a jiné návrhy k senátnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t004709.md](t004709.md) |
+| 2026-06-12 | 47/10 | Usnesení garančního výboru č. 40 ze dne 10. června 2026 k senátnímu návrhu ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t0047100000.md](t0047100000.md) |
 
 ## Files
 
@@ -45,5 +46,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t004707.md](t004707.md) | 47/7 | Text | [t004707.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269761) | pymupdf / pdftotext 1.0000 |
 | [t004708.md](t004708.md) | 47/8 | Text | [t004708.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269849) | pymupdf / pdftotext 1.0000 |
 | [t004709.md](t004709.md) | 47/9 | Text | [t004709.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270315) | pymupdf / pdftotext 1.0000 |
+| [t0047100000.md](t0047100000.md) | 47/10 | Text | [t0047100000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271717) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
