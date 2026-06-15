@@ -24,6 +24,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-05-04 | 69/4 | Usnesení výboru pro bezpečnost č. 28 ze dne 30. dubna 2026 k vládnímu návrhu zákona o digitální ekonomice a o změně některých souvisejících zákonů | [t006904.md](t006904.md) |
 | 2026-05-04 | 69/5 | Usnesení hospodářského výboru č. 53 ze dne 30. dubna 2026 k vládnímu návrhu zákona o digitální ekonomice a o změně některých souvisejících zákonů | [t006905.md](t006905.md) |
 | 2026-06-12 | 69/6 | Usnesení ústavně-právního výboru č. 42 ze dne 10. června 2026 k vládnímu návrhu zákona o digitální ekonomice a o změně některých souvisejících zákonů | [t006906.md](t006906.md) |
+| 2026-06-15 | 69/7 | Usnesení hospodářského výboru č. 80 ze dne 11. června 2026 k vládnímu návrhu zákona o digitální ekonomice a o změně některých souvisejících zákonů | [t006907.md](t006907.md) |
 
 ## Files
 
@@ -42,5 +43,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t006904.md](t006904.md) | 69/4 | Text | [t006904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269872) | pymupdf / pdftotext 1.0000 |
 | [t006905.md](t006905.md) | 69/5 | Text | [t006905.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269884) | pymupdf / pdftotext 1.0000 |
 | [t006906.md](t006906.md) | 69/6 | Text | [t006906.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271723) | pymupdf / pdftotext 1.0000 |
+| [t006907.md](t006907.md) | 69/7 | Text | [t006907.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271802) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
