@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-05 | 216/0 | Návrh zákona | [t021600.md](t021600.md), [t0216a0.md](t0216a0.md) |
+| 2026-06-17 | 216/1 | Stanovisko vlády k návrhu poslanců Taťány Malé, Andreje Babiše, Borise Šťastného a Tomia Okamury na vydání zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů | [t021601.md](t021601.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t021600.md](t021600.md) | 216/0 | Návrh zákona včetně důvodové zprávy | [t021600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271414) | pymupdf / pdftotext 1.0000 |
 | [t0216a0.md](t0216a0.md) | 216/0 | Platné znění s vyznačením změn | [t0216a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271416) | pymupdf / pdftotext 1.0000 |
+| [t021601.md](t021601.md) | 216/1 | Stanovisko | [t021601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277280) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
