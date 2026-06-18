@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-05 | 217/0 | Návrh zákona | [t021700.md](t021700.md), [t0217a0.md](t0217a0.md) |
+| 2026-06-18 | 217/1 | Stanovisko vlády k návrhu poslanců Ondřeje Babky, Jana Richtera, Gabriely Sedláčkové a Patrika Nachera na vydání zákona, kterým se mění zákon č. 166/1993 Sb., o Nejvyšším kontrolním úřadu, ve znění pozdějších předpisů | [t021701.md](t021701.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t021700.md](t021700.md) | 217/0 | Návrh zákona včetně důvodové zprávy | [t021700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271419) | pymupdf / pdftotext 1.0000 |
 | [t0217a0.md](t0217a0.md) | 217/0 | Platné znění s vyznačením změn | [t0217a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271421) | pymupdf / pdftotext 1.0000 |
+| [t021701.md](t021701.md) | 217/1 | Stanovisko | [t021701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277309) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
