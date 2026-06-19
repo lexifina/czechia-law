@@ -1,0 +1,45 @@
+---
+material: "KORNDTRJG2J9"
+dokument: "Materiál"
+soubor: "140450_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDV79QXDS/"
+den: "2026-06-19"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+VYHLÁŠKA
+
+ze dne 18. června 2026,
+
+kterou se mění vyhláška č. 288/2024 Sb., o zdravotní způsobilosti k výkonu vojenské činné služby a o rozsahu preventivní péče poskytované vojákům v činné službě nad rámec hrazených služeb z veřejného zdravotního pojištění
+
+Ministerstvo obrany po dohodě s Ministerstvem zdravotnictví stanoví podle § 3 odst. 3 písm. a) zákona č. 221/1999 Sb., o vojácích z povolání, ve znění zákona č. 150/2021 Sb. a zákona č. 99/2025 Sb.:
+
+Čl. I
+
+Vyhláška č. 288/2024 Sb., o zdravotní způsobilosti k výkonu vojenské činné služby a o rozsahu preventivní péče poskytované vojákům v činné službě nad rámec hrazených služeb z veřejného zdravotního pojištění, se mění takto:
+
+\1. V § 9 odst. 1 úvodní části ustanovení se slovo „a“ nahrazuje slovem „nebo“.
+
+\2. V § 9 odstavce 2 a 3 znějí:
+
+„(2) Pokud uchazeč o povolání do služebního poměru vojáka z povolání nebo voják v záloze nebo občan, který požádal o zařazení do aktivní zálohy, lékařskou prohlídku podle odstavce 1 absolvoval nejdéle 5 let před podáním žádosti, lékařská prohlídka neobsahuje vyšetření podle odstavce 1 písm. c) až f).
+
+(3) Pokud uchazeč o povolání do služebního poměru vojáka z povolání požádal o povolání do dvou let od zániku služebního poměru vojáka z povolání, lékařská prohlídka neobsahuje vyšetření podle odstavce 1 písm. c) až f).“.
+
+\3. V poznámce pod čarou č. 1 se text „98/2012“ nahrazuje textem „444/2024“ a slova „, ve znění pozdějších předpisů.“ se nahrazují tečkou.
+
+Čl. II
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2026.
+
+Ministr:
+
+Mgr. Ing. Zůna, MSc., Ph.D.
+
+podepsáno elektronicky
