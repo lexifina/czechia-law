@@ -1,0 +1,107 @@
+---
+material: "KORNDV49P63X"
+dokument: "Materiál"
+soubor: "187379_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDVABFSMV/"
+den: "2026-06-22"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+VYHLÁŠKA
+
+ze dne 22. června 2026,
+
+kterou se mění vyhláška č. 388/2011 Sb., o provedení některých ustanovení zákona o poskytování dávek osobám se zdravotním postižením, ve znění pozdějších předpisů
+
+Ministerstvo práce a sociálních věcí stanoví podle § 37 zákona č. 329/2011 Sb., o poskytování dávek osobám se zdravotním postižením a o změně souvisejících zákonů, ve znění zákona č. 331/2012 Sb., zákona č. 313/2013 Sb., zákona č. 300/2025 Sb. a zákona č. 92/2026 Sb., k provedení § 34a odst. 8 zákona č. 329/2011 Sb.:
+
+Čl. I
+
+Vyhláška č. 388/2011 Sb., o provedení některých ustanovení zákona o poskytování dávek osobám se zdravotním postižením, ve znění vyhlášky č. 356/2012 Sb., vyhlášky č. 409/2012 Sb., vyhlášky č. 333/2013 Sb., vyhlášky č. 388/2013 Sb., vyhlášky č. 116/2014 Sb., vyhlášky č. 337/2014 Sb., vyhlášky č. 408/2017 Sb., vyhlášky č. 57/2020 Sb., vyhlášky č. 442/2021 Sb. a vyhlášky č. 441/2025 Sb., se mění takto:
+
+\1. V § 2c odst. 3 písm. a) se slova „územní správy sociálního zabezpečení“ nahrazují slovy „krajské pobočky Úřadu práce“.
+
+\2. V § 2c odst. 3 písm. b) se na konci tečka nahrazuje čárkou.
+
+\3. V § 2c odst. 3 se doplňuje písmeno c), které zní:
+
+„c) podpis držitele průkazu; jestliže podpis nebyl podle § 34a odst. 1 písm. d) zákona vyžádán, je místo podpisu uvedeno „Podpis nebyl vyžádán.“.“.
+
+\4. V § 2c odstavec 3 zní:
+
+„(3) Na zadní straně průkazu jsou uvedeny tyto údaje:
+
+a) označení územní správy sociálního zabezpečení, která průkaz vydala,
+
+b) datum vydání průkazu ve formátu den, měsíc, rok.“.
+
+\5. V příloze č. 5 bod A zní:
+
+„A. Vzor průkazu
+
+\1. Vzor průkazu TP
+
+Přední strana
+
+Zadní strana
+
+\2. Vzor průkazu ZTP
+
+Přední strana
+
+Zadní strana
+
+\3. Vzor průkazu ZTP/P
+
+Přední strana
+
+Zadní strana
+
+“.
+
+\6. V příloze č. 5 bod A zní:
+
+„A. Vzor průkazu
+
+\1. Vzor průkazu TP
+
+Přední strana
+
+Zadní strana
+
+\2. Vzor průkazu ZTP
+
+Přední strana
+
+Zadní strana
+
+\3. Vzor průkazu ZTP/P
+
+Přední strana
+
+Zadní strana
+
+“.
+
+\7. V příloze č. 6 bodě 1 se slova „územní správě sociálního zabezpečení“ nahrazují slovy „krajské pobočce Úřadu práce“.
+
+\8. V příloze č. 6 bod 1 zní:
+
+„1. Z fotografie musí být rozpoznatelná podoba osoby v době předání fotografie územní správě sociálního zabezpečení.“.
+
+Čl. II
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. července 2026, s výjimkou
+
+a) ustanovení čl. I bodu 4, čl. I bodu 6 a čl. I bodu 8, která nabývají účinnosti dnem 1. června 2028.
+
+Ministr práce a sociálních věcí:
+
+Ing. Juchelka
+
+podepsáno elektronicky
