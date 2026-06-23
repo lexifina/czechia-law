@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-05-27 | 205/0 | Návrh zákona | [t020500.md](t020500.md) |
+| 2026-06-23 | 205/1 | Stanovisko vlády k návrhu poslanců Barbory Urbanové, Víta Rakušana, Karla Dvořáka, Lukáše Vlčka a Adriany Chochelové na vydání zákona, kterým se mění zákon č. 2/1969 Sb., zákon České národní rady o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky ve znění pozdějších předpisů | [t020501.md](t020501.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t020500.md](t020500.md) | 205/0 | Návrh zákona včetně důvodové zprávy | [t020500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270703) | pymupdf / pdftotext 1.0000 |
+| [t020501.md](t020501.md) | 205/1 | Stanovisko | [t020501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277521) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
