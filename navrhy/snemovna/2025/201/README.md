@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-05-25 | 201/0 | Návrh zákona | [t020100.md](t020100.md) |
+| 2026-06-24 | 201/1 | Stanovisko vlády k návrhu poslanců Patrika Nachera, Tomia Okamury, Taťány Malé, Radima Fialy, Filipa Turka, Barbory Rázgy a Martina Kolovratníka na vydání zákona, kterým se mění zákon č. 348/2005 Sb., o rozhlasových a televizních poplatcích a o změně některých zákonů, ve znění pozdějších předpisů | [t020101.md](t020101.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t020100.md](t020100.md) | 201/0 | Návrh zákona včetně důvodové zprávy | [t020100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270579) | pymupdf / pdftotext 1.0000 |
+| [t020101.md](t020101.md) | 201/1 | Stanovisko | [t020101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277545) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
