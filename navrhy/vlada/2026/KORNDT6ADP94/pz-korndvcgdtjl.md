@@ -1,0 +1,541 @@
+---
+material: "KORNDT6ADP94"
+dokument: "Platné znění s vyznačením navrhovaných změn a doplnění"
+soubor: "146528_Platné znění právních předpisů s vyznačením navrhovaných změn.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDVCGDTJL/"
+den: "2026-06-24"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+V.
+
+467
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. prosince 2009,
+
+kterým se pro účely trestního zákoníku stanoví, co se považuje za jedy a jaké je množství větší než malé u omamných látek, psychotropních látek, přípravků je obsahujících a jedů
+
+Příloha č. 1 k nařízení vlády č. 467/2009 Sb.
+
+Název vysoce toxické chemické látky Číslo
+
+CAS Číslo
+
+ES Indexové číslo
+
+Akonitin 302-27-2 206-121-7 614-008-00-2
+
+Akonitin, soli - - 614-009-00-8
+
+Akrylaldehyd; prop-2-enal; akrolein 107-02-8 203-453-4 605-008-00-3
+
+Aldikarb (ISO); 2-methyl-2-(methylsulfanyl)propanal-O-(N-methylkarbamoyl)oxim 116-06-3 204-123-2 006-017-00-X
+
+Alkylplumbany - - 082-002-00-1
+
+ANTU (ISO); (1-naftyl)thiomočovina; 1-(1-naftyl) thiomočovina 86-88-4 201-706-3 006-008-00-0
+
+Arsenovodík; arsin; arsan 7784-42-1 232-066-3 033-006-00-7
+
+Atropin; endo-(±)-8-methyl-8-azabicyklo[3.2.1]oktan-3-yl-fenyl(hydroxymethyl)acetát 51-55-8 200-104-8 614-010-00-3
+
+Atropin, soli; endo-(±)-8-methyl-8-azabicyklo[3.2.1]oktan-3-yl-fenyl(hydroxymethyl)acetát, soli - - 614-011-00-9
+
+Azid sodný 26628-22-8 247-852-1 011-004-00-7
+
+Azinfos-ethyl (ISO); O,O-diethyl-S-[4(3H)- oxo-1,2,3-benzotriazin -3-yl) methyl]-fosforodithioát 2642-71-9 220-147-6 015-056-00-1
+
+Azinfos-methyl (ISO); O,O-dimethyl-S-[ 4(3H)-oxo-1,2,3-benzotriazin-3-yl)-methyl]-fosforodithioát 86-50-0 201-676-1 015-039-00-9
+
+Aziridin; ethylenimin 151-56-4 205-793-9 613-001-00-1
+
+Azocyklotin (ISO); tricyklohexyl(1H-1,2,4-triazol-1-yl) stannan; 1-(tricyklohexylstannyl)-1H-1,2,4-triazol 41083-11-8 255-209-1 050-019-00-3
+
+[(Benzothiazol-2-yl)sulfanyl]methylthiokyanát; TCMTB 21564-17-0 244-445-0 613-119-00-3
+
+Beryllium 7440-41-7 231-150-7 004-001-00-7
+
+Beryllium, sloučeniny (s výjimkou křemičitanů beryllnato-hlinitých) - - 004-002-00-2
+
+2,2'-Bioxiran; 1,2,3,4-diepoxybutan 1464-53-5 215-979-1 603-060-00-1
+
+Bis(2-chlorethyl)ether 111-44-4 203-870-1 603-029-00-2
+
+Bis(chlormethyl)ether; dichlormethylether 542-88-1 208-832-8 603-046-00-5
+
+2,5-Bis(isokyanatomethyl)bicyklo[2.2.1]heptan - 411-280-2 615-029-00-X
+
+Bis (2,4,6-trinitrofenyl) amin; 2,2',4,4',6,6'-hexanitrodifenylamin; hexyl; dipilaylamin 131-73-7 205-037-8 612-018-00-1
+
+Blasticidin-s; 5-[3-amino-5-(1-methylguanidino)pentanamido]-2-(4-amino-2(1H)-oxopyrimidin-1-yl)-5,6-dihydro-2H-pyran-2-karboxylová kyselina 2079-00-7 - 607-155-00-9
+
+Brodifakum; 3-[3-(4'-brombifenyl-4-yl)-1,2,3,4-tetrahydro-1-naftyl]-4-hydroxy-2H-chromen-2-on 56073-10-0 259-980-5 607-172-00-1
+
+Brom 7726-95-6 231-778-1 035-001-00-5
+
+Bromid boritý 10294-33-4 233-657-9 005-003-00-0
+
+Bromoxynil (ISO); 3,5-dibrom-4-hydroxybenzonitril 1689-84-5 216-882-7 608-006-00-0
+
+Bromoxynil (ISO) a jeho soli – – 608-065-00-2
+
+Brucin; 2,3-dimethoxystrychnidin-10-on 357-57-3 206-614-7 614-006-00-1
+
+Brucin-(R)-1-methylheptyl-hydrogen-ftalát 68239-26-9 269-439-5 614-007-00-7
+
+Brucin-nitrát 5786-97-0 227-317-9 614-007-00-7
+
+Brucin, sloučenina s (S)-(1-methylheptyl)-1,2-benzen-1,2-dikarboxylátem (1:1) 68310-42-9 269-710-8 614-007-00-7
+
+Brucin-sulfát 4845-99-2 225-432-9 614-007-00-7
+
+But-2-enal; krotonaldehyd 4170-30-3 224-030-0 605-009-00-9
+
+(E)-But-2-enal; (E)-krotonaldehyd 123-73-9 204-647-1 605-009-00-9
+
+terc-Butylarsin; terc-butylarsan 4262-43-5 423-320-6 033-007-00-2
+
+λ-cyhalothrin (ISO); lambda-cyhalothrin; směs (1:1) (R)-[(3-fenoxyfenyl)kyanmethyl]-(Z)-cis-3-(2-chlor-3,3,3-trifluorprop-1-en-1-yl)-2,2-dimethylcyklopropan-1-karboxylát a (S)-[(3-fenoxyfenyl)kyanmethyl]-(Z)-cis-3-(2-chlor-3,3,3-trifluorprop-1-en-1-yl)-2,2-dimethylcyklopropan-1-karboxylát 91465-08-6 415-130-7 607-252-00-6
+
+Cykloheximid;4-[2-(3,5-dimethyl-2-oxocyklohexyl)-2-hydroxyethyl]piperidin-2,6-dion 66-81-9 200-636-0 613-140-00-8
+
+Demefion-0 (ISO); O,O-dimethyl-0-[2-(methylsulfanyl)ethyl]-fosforothioát 682-80-4 211-666-9 015-116-00-7
+
+Demefion-S (ISO); O,O-dimethyl-S-[2-(methylsulfanyl)ethyl]-fosforothioát 2587-90-8 219-971-9 015-117-00-2
+
+Demeton; 8065-48-3 - 015-118-00-8
+
+Demeton-O (ISO); O,O-diethyl-O-[2-(ethylsulfanyl)ethyl]-fosforothioát 298-03-3 206-053-8 015-028-00-9
+
+Demeton-S (ISO); O,O-diethyl-S-[2-(ethylsulfanyl)ethyl]-fosforothioát 126-75-0 204-801-8 015-029-00-4
+
+Dialifos (ISO); S-(2-chlor-l-ftalimidoethyl)-O,O-diethyl-fosforodithioát 10311-84-9 233-689-3 015-088-00-6
+
+Diazinon 333-41-5 206-373-8 015-040-00-4
+
+Dibutylcín dichlorid 683-18-1 211-670-0 050-022-00-X
+
+Dieldrin (ISO); 1,2,3,4,10,10-hexachlor-6,7-epoxy-1,4,4a,5,6,7,8,8a-oktahydro-1,4,5,8-dimethanonaftalen 60-57-1 200-484-5 602-049-00-9
+
+Diethylenglykol-dinitrát; (oxydiethylen)-dinitrát 693-21-0 211-745-8 603-033-00-4
+
+Diethylenglykol-dinitrát; (oxydiethylen)-dinitrát flegmatizovaný 693-21-0 211-745-8 603-033-01-1
+
+Diethylhydrargyrium 627-44-1 211-000-7 080-007-00-3
+
+Difacinon (ISO); 2-(difenylacetyl)indan-1,3-dion 82-66-6 201-434-5 606-038-00-X
+
+Difenakum;3-[3-(bifenyl-4-yl)-1,2,3,4-tetrahydro-1-naftyl]-4-hydroxy-2H-chromen-2-on 56073-07-5 259-978-4 607-157-00-X
+
+6,7-Dihydropyrido[1,2-α:2,1-c]pyryzinediylium dihydroxid 94021-76-8 301-467-6 613-089-00-1
+
+1-(3,4-Dichloranilino)thiosemikarbazid 5836-73-7 - 616-016-00-1
+
+1,4-Dichlorbut-2-en 764-41-0 212-121-8 602-073-00-X
+
+Dichlorvos (ISO); 2,2-dichlorvinyl-dimethyl-fosfát 62-73-7 200-547-7 015-019-00-X
+
+Dichroman amonný 7789-09-5 232-143-1 024-003-00-1
+
+Dichroman draselný 7778-50-9 231-906-6 024-002-00-6
+
+Dichroman sodný bezvodý 10588-01-9 234-190-3 024-004-00-7
+
+Dichroman sodný, dihydrát 7789-12-0 234-190-3 024-004-01-4
+
+1,3-Diisokyanato-2-methylbenzen 91-08-7 202-039-0 615-006-00-4
+
+1,3-Diisokyanato-4-methylbenzen 584-84-9 209-544-5 615-006-00-4
+
+1,4-Diisokyanato-2-methylbenzen 26471-62-5 247-722-4 615-006-00-4
+
+Dikrotofos (ISO); (Z)-[1-(N,N-dimethylkarbamoyl)prop-1-en-2-yl]-dimethyl-fosfát 141-66-2 205-494-3 015-073-00-4
+
+Dikvat dibromid 85-00-7 201-579-4 613-089-00-1
+
+Dikvat dichlorid 4032-26-2 223-714-6 613-089-00-1
+
+Dimefox (ISO); N,N,N',N'-tetramethylfosfordiamidoylfluorid 115-26-4 204-076-8 015-061-00-9
+
+(2,2-Dimethyl-2,3-dihydro-1-benzofuran-7-yl)-{N-[(N-butoxykarbonyl-N-methylamino)sulfanyl]-N-methylkarbamát}; furathiokarb 65907-30-4 265-974-3 006-087-00-1
+
+Dimethyl[1,1'-(dimethylsilandiyl)di((1,2,3,3a,7a-η)-1H-inden-1-yl)hafnium 137390-08-0 422-060-0 014-030-00-7
+
+Dimethylhydrargyrium 593-74-8 209-805-3 080-007-00-3
+
+Dimethyl-[4-(methylsulfanyl)fenyl]-fosfát 3254-63-5 - 015-119-00-3
+
+7,7-Dimethyloktanoylchlorid; neodekanoylchlorid 40292-82-8 254-875-0 607-313-00-7
+
+N,N-Dimethylsulfamoychlorid 13360-57-1 236-412-4 016-033-00-9
+
+Dimethyl-sulfát 77-78-1 201-058-1 016-023-00-4
+
+2,4-Dinitroanilin 97-02-9 202-553-5 612-040-00-1
+
+Dinitrobenzen 25154-54-5 246-673-6 609-004-00-2
+
+1,2-Dinitrobenzen 528-29-0 208-431-8 609-004-00-2
+
+1,3 -Dinitrobenzen 99-65-0 202-776-8 609-004-00-2
+
+1,4-Dinitrobenzen 100-25-4 202-833-7 609-004-00-2
+
+4,6-Dinitro-o-kresolát amonný 2980-64-5 221-037-0 609-022-00-0
+
+Dinoterb (ISO); 2-terc-butyl-4,6-dinitrofenol 1420-07-1 215-813-8 609-030-00-4
+
+Dinoterb (ISO), soli a estery; 2-terc-butyl-4,6-dinitrofenol, soli a estery - - 609-031-00-X
+
+Dioxathion (ISO); S,S'-(1,4-dioxan-2,3-diyl) (O,O,O',O-tetraethylbis(fosforodithioát) 78-34-2 201-107-7 015-063-00-X
+
+Dipikrylamin, amonná sůl; amonná sůl dipikrylaminu; amonná sůl hexanitrodifenylaminu; amonná sůl 2,2',4,4',6,6'-hexanitrodifenylaminu 2844-92-0 220-639-0 612-019-00-7
+
+Disulfoton (ISO); O,O-diethyl-S-[2-(ethylsulfanyl) ethyl]-fosforodithioát 298-04-4 206-054-3 015-060-00-3
+
+DNOC; 4,6-dinitro-o-kresol; 2-methyl-4,6-dinitrofenol 534-52-1 208-601-1 609-020-00-X
+
+Endrin (ISO); 1,2,3,4,10,10-hexachlor-6,7-epoxy-1,4,4a,5,6,7,8,8a-oktahydro-1,4,5,8-dimethanonaftalen 72-20-8 200-775-7 602-051-00-X
+
+Endosulfan (ISO); 1,2,3,4,7,7-hexachlorbicyklo [2.2.1]hept-2-en-5,6-dimethanol, cyklický sulfit; 1,4,5,6,7,7-hexachloro-8,9,10-trinorborn-5-en-2,3-ylenedimethyl sulfit 115-29-7 204-079-4 602-052-00-5
+
+Ergokalciferol; vitamin D2 50-14-6 200-014-9 603-179-00-9
+
+Ethidinium bromid; 3,8-diamino-1-ethyl-6-fenylfenanthridinium-bromid 1239-45-8 214-984-6 612-278-00-6
+
+Ethoprofos (ISO); O-ethyl-S,S-dipropyl-fosforodithioát 13194-48-4 236-152-1 015-107-00-8
+
+Ethyl-bromacetát 105-36-2 203-290-9 607-069-00-1
+
+Ethyl-chlorformiát 541-41-3 208-778-5 607-020-00-4
+
+Ethylen-dinitrát; ethylenglykol-dinitrát; nitroglykol 628-96-6 211-063-0 603-032-00-9
+
+O-Ethyl-O-(4-nitrofenyl)-fenylfosfonothioát; EPN 2104-64-5 218-276-8 015-036-00-2
+
+S-[2-(Ethylsulfinyl)ethyl]-O,O-dimethyl-fosforodithioát 2703-37-9 - 015-065-00-0
+
+Fenamifos (ISO); ethyl-3-methyl-4-(methylsulfanyl)fenyl-N-isopropylfosforamidát 22224-92-6 244-848-1 015-123-00-5
+
+Fenbutatinoxid (ISO); 1,1,1,3,3,3-hexakis(2-fenyl-2-methylpropyl)distannoxan 13356-08-6 236-407-7 050-017-00-2
+
+[(3-Fenoxyfenyl)kyanmethyl]-2,2,3,3-tetramethylcyklopropan-1-karboxylát; fenpropathrin 39515-41-8 254-485-0 607-239-00-5
+
+[(3-Fenoxy-4-fluorfenyl)kyanmethyl]-3-(2,2-dichlorvinyl)-2,2-dimethylcyklopropan-1-karboxylát; cyflutrin 68359-37-5 269-855-7 607-253-00-1
+
+[(3 -Fenoxy-4-fluorfenyl)kyanmethyl]-3-(2,2-dichlorvinyl)-2,2-dimethylcyklopropan-1-karboxylát; β-cyflutrin; beta-cyflutrin 68359-37-5 269-855-7 607-254-00-7
+
+Fensulfothion (ISO); O, O-diethyl-O-[4-(methylsulfinyl)fenyl]-fosforothioát 115-90-2 204-114-3 015-090-00-7
+
+Fentinacetát (ISO); acetoxy(trifenyl)stannan 900-95-8 212-984-0 050-003-00-6
+
+Fentinhydroxid (ISO); trifenyl(hydroxy)stannan 76-87-9 200-990-6 050-004-00-1
+
+Fluenetil (ISO); 2-fluorethyl-(bifenyl-4-yl)acetát 4301-50-2 - 607-078-00-0
+
+Fluor 7782-41-4 231-954-8 009-001-00-0
+
+Fluoracetamid; 2-fluoracetamid 640-19-7 211-363-1 616-002-00-5
+
+Fluorid boritý 7637-07-2 231-569-5 005-001-00-X
+
+Fluorid kademnatý 7790-79-6 232-222-0 048-006-00-2
+
+Fluoroctan sodný 62-74-8 200-548-2 607-169-00-5
+
+Fluoroctová kyselina 144-49-0 205-631-7 607-081-00-7
+
+Fluoroctová kyselina, soli rozpustné ve vodě; fluoroacetáty rozpustné ve vodě - - 607-082-00-2
+
+Fluorovodík 7664-39-3 231-634-8 009-002-00-6
+
+Fonofos (ISO); O-ethyl-S-fenyl-ethylfosfonodithioát 944-22-9 213-408-0 015-091-00-2
+
+Forát (ISO); O,O-diethyl-S-[(ethylsulfanyl)methyl]-fosforodithioát 298-02-2 206-052-2 015-033-00-6
+
+Formetanat (ISO); 3-[(dimethylaminomethyliden)amino]fenyl-methylkarbamát 22259-30-9 244-879-0 006-031-00-6
+
+Formetanat-hydrochlorid; 3-[(dimethyaminomethyliden)amino]fenyl-methylkarbamát-hydrochlorid 23422-53-9 245-656-0 006-052-00-0
+
+Fosacetim (ISO); O,O-bis(4-chlorfenyl)-N-acetimidoylfosforamidothioát 4104-14-7 223-874-7 015-092-00-8
+
+Fosfamidon; [2-chlor-2-(dirnethylkarbamoyl)-1-methylvinyl]-dimethyl-fosfát 13171-21-6 236-116-5 015-022-00-6
+
+Fosfid hlinitý 20859-73-8 244-088-0 015-004-00-8
+
+Fosfid hořečnatý 12057-74-8 235-023-7 015-005-00-3
+
+Fosfid vápenatý 1305-99-3 215-142-0 015-003-00-2
+
+Fosfid zinečnatý 1314-84-7 215-244-5 015-006-00-9
+
+Fosfin; fosfan 7803-51-2 232-260-8 015-181-00-1
+
+Fosfolan (ISO); diethyl-N-(1,3-dithiolan-2-yliden)fosforamidát 947-02-4 213-423-2 015-111-00-X
+
+Fosfor bílý 12185-10-3 231-768-7 015-001-00-1
+
+Fosthietan (ISO); diethyl-N-(1,3-dithietan-2-yliden)fosforamidát 21548-32-3 244-437-7 015-124-00-0
+
+Fysostigmin; 1,3a,8-trimethyl-2,3,3a,8a-tetrahydro-1H,8H-pyrrolo[2,3-b]indol-5-yl-N-methylkarbamát; eserin 57-47-6 200-332-8 614-020-00-8
+
+Fysostigmin, soli; 1,3a,8-trimethyl-2,3,3a,8a-tetrahydro-1H,8H-pyrrolo[2,3-b]indol-5-yl-N-methylkarbamát, soli; eserin, soli - - 614-021-00-3
+
+Guazatin (ISO); 1,1'-[iminodi(oktan-8,1-diyl)]guanidin 13516-27-3 236-855-3 612-087-00-3
+
+Guazatin (ISO); 1,1'-[iminodi(oktan-8,1-diyl)]guanidin 108173-90-6 - 612-087-00-8
+
+Hexachlorcyklopenta-1,3-dien 77-47-4 201-029-3 602-078-00-7
+
+2-Hydroxy-2-methylpropannitril; acetonkyanhydrin; 2-kyanpropan-2-ol 75-86-5 200-909-4 608-004-00-X
+
+Hyoscyamin; ((3S)-endo-8-methyl-8-azabicyklo[3.2.1]oktan-3-yl)-2-fenyl-2-(hydroxymethyl)acetát 101-31-5 202-933-0 614-012-00-4
+
+Hyoscyamin, soli; ((3S)-endo-8-methyl-8-azabicyklo[3.2.1]oktan-3-yl)-2-fenyl-2-(hydroxymethyl)acetát, soli - - 614-013-00-X
+
+Chlorethanal; chloracetaldehyd 107-20-0 203-472-8 605-025-00-6
+
+2-Chlorethan-1-ol; ethylenchlorhydrin 107-07-3 203-459-7 603-028-00-7
+
+(4-Chlorfenyl) isokyanát 104-12-1 203-176-9 615-044-00-1
+
+Chlorfenvinfos (ISO); [2-chlor-1-(2,4-dichlorfenyl)vinyl]-diethyl-fosfát 470-90-6 207-432-0 015-071-00-3
+
+Chlorid boritý 10294-34-5 233-658-4 005-002-00-5
+
+Chlorid fosforečný 10026-13-8 233-060-3 015-008-00-X
+
+Chlorid fosforitý 7719-12-2 231-749-3 015-007-00-4
+
+Chlorid kademnatý 10108-64-2 233-296-7 048-008-00-3
+
+Chlorid karbonylu; fosgen 75-44-5 200-870-3 006-002-00-8
+
+Chlorid rtuťnatý 7487-94-7 231-299-8 080-010-00-X
+
+O-(5-Chlor-1-isopropyl-1H-1,2,4-triazol-3-yl)-O,O-diethyl-fosforothioát; isazofos 42509-80-8 255-863-8 015-153-00-9
+
+5-Chlor-6-N-{[(methylkarbamoyl)oxy]imino}bicyklo[2.2.1]heptan-2-karbonitril; triamid 15271-41-7 - 006-065-00-1
+
+Chlormefos (ISO); S-chlormethyl-O,O-diethyl-fosforodithioát 24934-91-6 246-538-1 015-114-00-6
+
+Chlornitroaniliny - - 610-006-00-0
+
+Chlorofacinon (ISO); 2-[2-(4-chlorfenyl)-2-fenylacetyl]indan-1,3-dion 3691-35-8 223-003-0 606-014-00-9
+
+Chlorthalonil (ISO); tetrachlorisoftalonitril 1897-45-6 217-588-1 608-014-00-4
+
+Chlorthiofos (ISO); O-[2,5-dichlor-4-(methylsulfanyl)fenyl]-O,O-diethyl-fosforothioát 21923-23-9 244-663-6 015-115-00-1
+
+2-Chlor-1,3,5-trinitrobenzen 88-88-0 201-864-3 610-004-00-X
+
+Cholekalciferol; vitamin D3 67-97-0 200-673-2 603-180-00-4
+
+Chroman sodný 7775-11-3 231-889-5 024-018-00-3
+
+3,3'-Iminodi(propan-1-amin); dipropylentriamin 56-18-8 200-261-2 612-063-00-7
+
+IPSP (JMAFF); S-[(ethylsulfinyl)metnyl]-O,O-diisopropyl-fosforodithioát 5827-05-4 - 015-128-00-2
+
+Isobenzan (ISO); l,3,4,5,6,7,8,8-oktachlor-3a,4,7,7a-tetrahydro-4,7-methano-1H,3H-isobenzofuran 297-78-9 206-045-4 602-053-00-0
+
+Isodrin;(1α,4α,4aβ,5β,8β,8aβ)-1,2,3,4,10,10-hexachlor-1,4,4a,5,8,8a-hexahydro-1,4,5,8-dimethanonaflalen 465-73-6 207-366-2 602-050-00-4
+
+Isolan; (1-isopropyl-3-methylpyrazol-5-yl)-dimethylkarbamát 119-38-0 204-318-2 006-009-00-6
+
+[2-(4-(isopropenylfenyl)propan-2-yl]isokyanát 2094-99-7 402-440-2 006-074-00-0
+
+Kadmium (nepyroforické) 7440-43-9 231-152-8 048-002-00-0
+
+Kadmium (pyroforické) 7440-43-9 231-152-8 048-011-00-X
+
+Karbofuran (ISO); 2,2-dimethyl-2,3-dihydro-1-benzofuran-7-yl-methylkarbamát 1563-66-2 216-353-0 006-026-00-9
+
+Karbosulfan (ISO); 2,2-dimethyl-2,3-dihydro-1-benzofuran-7-yl-N-(dibutylamino)sulfanyl-N-methylkarbamát 55285-14-8 259-565-9 006-084-00-5
+
+Kobalt-lithium-nikl-oxid - 442-750-5 028-058-00-2
+
+Kolchicin; (6R)-N-(1,2,3,10-tetramethoxy-9-oxo-5,6,7,9-tetrahydrobenzo[a]heptalen-7-yl)acetamid 64-86-8 200-598-5 614-005-00-6
+
+Krimidin (ISO); N-(2-chlor-6-methylpyrimidin-4-yl)dimethylamin 535-89-7 208-622-6 613-004-00-8
+
+Kumafos (ISO); O-(3-chlor-4-methyl-2-oxo-2H-chromen-7-yl)-O,O-diethyl-fosforothioát 56-72-4 200-285-3 015-038-00-3
+
+Kumatetralyl;4-hydroxy-3-(1,2,3,4-tetrahydro-1-naftyl)-2H-chromen-2-on 5836-29-3 227-424-0 607-059-00-7
+
+Kyanid kademnatý 542-83-6 208-829-1 048-004-00-1
+
+Kyanid vápenatý 592-01-8 209-740-0 020-002-00-5
+
+Kyanidy (s výjimkou komplexních kyanidů jako např. ferro-a ferrikyanidů a kyanid-oxidu rtuťnatého) - - 006-007-00-5
+
+Kyanovodík 74-90-8 200-821-6 006-006-00-X
+
+Kyanovodík...%; kyselina kyanovodíková 74-90-8 200-821-6 006-006-01-7
+
+Kyanthoat (ISO); O,O-diethyl-S-{[N-(1-kyan-1-methylethyl)karbamoyl]methyl}-fosforothioát 3734-95-0 223-099-4 015-070-00-8
+
+Kyselina fluorovodíková......% 7664-39-3 231-634-8 009-003-00-1
+
+Mefosfolan (ISO); diethyl-[N-(4-methyl-2H-1,3-dithiolan-2-yliden)fosforamidát] 950-10-7 213-447-3 015-094-00-9
+
+Methamidofos (ISO); O,S-dimethyl-fosforamidothioát 10265-92-6 233-606-0 015-095-00-4
+
+Methidathion (ISO); S-(5-methoxy-2(3H)-oxo-4,5-dihydro-1,3,4-thiadiazol-3-yl)-O,O-dimethyl-fosforodithioát 950-37-8 213-449-4 015-069-00-2
+
+Methomyl (ISO); methyl-[N-(methylkarbamoyloxy)thioacetimidát] 16752-77-5 240-815-0 006-045-00-2
+
+4-Methoxyanilin: p-anisidin 104-94-9 203-254-2 612-112-00-2
+
+Methyl-chlorformiát 79-22-1 201-187-3 607-019-00-9
+
+Methyl-isokyanát 624-83-9 210-866-3 615-001-00-7
+
+Methylen-dithiokyanát 6317-18-6 228-652-3 615-020-00-0
+
+Mevinfos (ISO); methyl-3-(dimethoxyfosforyloxy)but-2-enoát; 2-(methoxykarbonyl)-1-methylvinyl-dimethyl-fosfát 7786-34-7 232-095-1 015-020-00-5
+
+Mexakarbat (ISO); 4-dimethylamino-3,5-dimethylfenyl-N-methylkarbamát 315-18-4 206-249-3 006-054-00-1
+
+Mipafox (ISO); fluorid kyseliny N,N'-diisopropylfosforodiamidové 371-86-8 206-742-3 015-062-00-4
+
+Monokrotofos (ISO); (E)-N-methyl-3-(dimethoxyfosforyloxy)but-2-enamid 6923-22-4 230-042-7 015-072-00-9
+
+Nikotin (ISO); 3-(1-methylpyrrolidin-2-yl)pyridin 54-11-5 200-193-3 614-001-00-4
+
+Nikotin, soli; 3-(1-methylpyrrolidin-2-yl)pyridin, soli - - 614-002-00-X
+
+2-Nitro-p-anisidin; 4-methoxy-2-nitroanilin 96-96-8 202-547-2 612-038-00-0
+
+Nitroglycerin; glycerol-trinitrát 55-63-0 200-240-8 603-034-00-X
+
+N-Nitrosodimethylamin 62-75-9 200-549-8 612-077-00-3
+
+Oxamyl (ISO); {[2-dimethylamino-1-(methylsulfanyl)-2-oxoethiliden]iminyl}-N-methylkarbamát 23135-22-0 245-445-3 006-059-00-9
+
+Oxid arsenitý 1327-53-3 215-481-4 033-003-00-0
+
+Oxid beryllnatý 1304-56-9 215-133-1 004-003-00-8
+
+Oxid dusičitý 10102-44-0 233-272-6 007-002-00-0
+
+Oxid dusičitý, dimer 10544-72-6 234-126-6 007-002-00-0
+
+Oxid chloričitý 10049-04-4 233-162-8 017-026-00-3
+
+Oxid chromový 1333-82-0 215-607-8 024-001-00-0
+
+Oxid kademnatý (nepyroforický) 1306-19-0 215-146-2 048-002-00-0
+
+Oxid osmičelý 20816-12-0 244-058-7 076-001-00-5
+
+Oxydisulfoton (ISO); O,O-diethyl-S-[2-(ethylsulfinyl)ethyl]-fosforothioát 2497-07-6 219-679-1 015-096-00-X
+
+Parakvat-dichlorid; 1,1'-dimethyl-4,4'-bipyridin-1,1-diium-dichlorid 1910-42-5 217-615-7 613-090-00-7
+
+Parakvat-dimethylsulfát; 1,1'-dimethyl-4,4'-bipyridin-1,1'-diium-bis(methyl-sulfát) 2074-50-2 218-196-3 613-090-00-7
+
+Parathion (ISO); O,O-diethyl-O-(4-nitrofenyl)-fosforothioát 56-38-2 200-271-7 015-034-00-1
+
+Parathion-methyl (ISO); O,O-dimethyl-O-(4-nitrofenyl)-fosforothioát 298-00-0 206-050-1 015-035-00-7
+
+Pentachlorfenol 87-86-5 201-778-6 604-002-00-8
+
+Pentachlorfenolát draselný; pentachlorfenol, alkalické soli 7778-73-6 231-911-3 604-003-00-3
+
+Pentachlorfenolát sodný; pentachlorfenol, alkalické soli 131-52-2 205-025-2 604-003-00-3
+
+Pilokarpin; 2-ethyl-3-[(1-methylimidazol-5-yl) methyl]butano-4-lakton 92-13-7 202-128-4 614-016-00-6
+
+Pilokarpin, soli; 2-ethyl-3-[(1-methylimidazol-5-yl) methyl]butano-4-lakton, soli - - 614-017-00-1
+
+Potasan; O,O-diethyl-0-(4-methyl-2-oxo-2H-chromen-7-yl)-fosforothioát 299-45-6 - 015-076-00-0
+
+Produkt reakce kyseliny glutamové a N-alkyl(C12-C14)propan-1,3-diaminu - 403-950-8 607-216-00-X
+
+Propano-3-lakton; (β-propiolakton 57-57-8 200-340-1 606-031-00-1
+
+Propylenimin; 2-methylaziridin 75-55-8 200-878-7 613-033-00-6
+
+Prothoát (ISO); O,O-diethyl-(isopropylkarbamoyl)methyl-fosforodithioát 2275-18-5 218-893-2 015-032-00-0
+
+Pyrazoxon; diethyl-(3-methylpyrazol-5-yl)-fosfát 108-34-9 - 015-023-00-1
+
+Rtuť, anorganické sloučeniny (s výjimkou sirníku rtuťnatého) - - 080-002-00-6
+
+Rtuť 7439-97-6 231-106-7 080-001-00-0
+
+Rtuť, organické sloučeniny - - 080-004-00-7
+
+Scillirosid; 6β-acetoxy-3β-(β-D-glukopyranosyloxy)-8,14-dihydroxy-5β-bufa-4,20,22-trienolid, 507-60-8 208-077-4 614-027-00-6
+
+Seleničitan sodný 10102-18-8 233-267-9 034-003-00-3
+
+Schradan (ISO); oktamethyldifosforotetramid 152-16-9 205-801-0 015-026-00-8
+
+Síran kademnatý 10124-36-4 233-331-6 048-009-00-9
+
+Síran thallný 7446-18-6 231-201-3 081-003-00-4
+
+Skopolamin; hyoscin; (6,7-epoxy-8-methyl-8-azabicyklo[3.2.1]oktan-3-yl)-2-fenyl-3-hydroxypropanoát 51-34-3 200-090-3 614-014-00-5
+
+Skopolamin, soli; (6,7-epoxy-8-methyl-8-azabicyklo[3.2.1]oktan-3-yl)-2-fenyl-3-hydroxypropanoát, soli - - 614-015-00-0
+
+Směs: cis- a trans-4-hydroxy-3-[3-(4-{[4-(trifluormethyl)benzyl]oxy}fenyl)-1,2,3,4-tetrahydro-1-naftyl]kumarin; směs: cis- a trans-4-hydroxy-3-[3-(4-{[4-(trifluormethyl)benzyl]oxy}fenyl)-1,2,3,4-tetrahydro-1-naftyl]-2H-chromen-2-on 90035-08-8 421-960-0 607-375-00-5
+
+Strychnin; strychnidin-10-on 57-24-9 200-319-7 614-003-00-5
+
+Strychnin, soli; strychnidin-10-on, soli - - 614-004-00-0
+
+Sulfan; sirovodík 7783-06-4 231-977-3 016-001-00-4
+
+Sulfotep (ISO); O,O,O,O-tetraethyl-difosforodithioát 3689-24-5 222-995-2 015-027-00-3
+
+TEPP (ISO); tetraethyl-difosfát; tetraethylpyrofosfát 107-49-3 203-495-3 015-025-00-2
+
+Terbufos (ISO); S-(terc-butylsulfanyl)methyl-O,O-diethyl-fosforodithioát 13071-79-9 235-963-8 015-139-00-2
+
+1,1,2,2-Tetrabromethan 79-27-6 201-191-5 602-016-00-9
+
+4,4,5,5-Tetrachlor-1,3-dioxolan-2-on 22432-68-4 404-060-2 602-075-00-0
+
+1,1,2,2-Tetrachlorethan 79-34-5 201-197-8 602-015-00-3
+
+Tetakarbonyl niklu 13463-39-3 236-669-2 028-001-00-1
+
+Thallium 7440-28-0 231-138-1 081-001-00-3
+
+Thallium, sloučeniny - - 081-002-00-9
+
+Thiofanox (ISO); 3,3-dimethyl-1-(methylsulfanyl)butan-2-on-O-(N-methylkarbamoyl) oxim 39196-18-4 254-346-4 006-064-00-6
+
+Tolylfluanid (ISO); N-[(dichlorfluormethyl)sulfanyl]-N',N'-dimethyl-N-(4-methylfenyl)sulfonamid 731-27-1 211-986-9 613-116-00-7
+
+Thiokyanatan thalný; thaliumthiokyanát 3535-84-0 222-571-7 615-031-00-0
+
+Thionazin; O,O-diethyl-O-pyrazin-2-yl-fosforodithioát 297-97-2 206-049-6 015-112-00-5
+
+Triamifos (ISO); 2-[bis(dimethylamino)fosforyl]-5-fenyl-2H-1,2,4-triazol-3-amin 1031-47-6 - 015-024-00-7
+
+Triethylstannan, sloučeniny - - 050-006-00-2
+
+Trichlorid fosforylu 10025-87-3 233-046-7 015-009-00-5
+
+Trichlornitromethan; chlorpikrin 76-06-2 200-930-9 610-001-00-3
+
+2,4,6-Trichlor-1,3,5-triazin; cyanurchlorid 108-77-0 203-614-9 613-009-00-5
+
+Trichloronat (ISO); O-ethyl-O-(2,4,5-trichlorfenyl)-ethylfosfonothionát 327-98-0 206-326-1 015-098-00-0
+
+Trimethylstannan, sloučeniny - - 050-005-00-7
+
+1,3,5-Trinitrobenzen 99-35-4 202-752-7 609-005-00-8
+
+Uran 7440-61-1 231-170-6 092-001-00-8
+
+Uran, sloučeniny - - 092-002-00-3
+
+Ziram (ISO); zink-N,N-dimethyldithiokarbamát 137-30-4 205-288-3 006-012-00-2
