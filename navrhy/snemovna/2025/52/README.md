@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2025-12-08 | 52/0 | Vládní návrh zákona | [t005200.md](t005200.md), [t0052a0.md](t0052a0.md) |
 | 2026-04-30 | 52/1 | Usnesení ústavně-právního výboru č. 35 ze dne 29. dubna 2026 k vládnímu návrhu zákona o určování provozoven a jmenování zástupců některých poskytovatelů služeb za účelem shromažďování elektronických důkazů v trestním řízení | [t005201.md](t005201.md) |
+| 2026-06-25 | 52/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o určování provozoven a jmenování zástupců některých poskytovatelů služeb za účelem shromažďování elektronických důkazů v trestním řízení | [t005202.md](t005202.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t005200.md](t005200.md) | 52/0 | Návrh zákona včetně důvodové zprávy | [t005200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265978) | pymupdf / pdftotext 1.0000 |
 | [t0052a0.md](t0052a0.md) | 52/0 | Kompatibilita s právem EU | [t0052a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265980) | pymupdf / pdftotext 1.0000 |
 | [t005201.md](t005201.md) | 52/1 | Text | [t005201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269837) | pymupdf / pdftotext 1.0000 |
+| [t005202.md](t005202.md) | 52/2 | Text | [t005202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277629) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
