@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-05 | 215/0 | Návrh zákona | [t021500.md](t021500.md), [t0215a0.md](t0215a0.md) |
+| 2026-06-30 | 215/1 | Stanovisko vlády k návrhu poslanců Kateřiny Stojanové, Samuela Volpeho, Kateriny Demetrashvili a Veroniky Kovářové na vydání zákona, kterým se mění zákon č. 150/2002 Sb., soudní řád správní, ve znění pozdějších předpisů, a další související zákony | [t021501.md](t021501.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t021500.md](t021500.md) | 215/0 | Návrh zákona včetně důvodové zprávy | [t021500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271409) | pymupdf / pdftotext 1.0000 |
 | [t0215a0.md](t0215a0.md) | 215/0 | Platné znění s vyznačením změn | [t0215a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271411) | pymupdf / pdftotext 1.0000 |
+| [t021501.md](t021501.md) | 215/1 | Stanovisko | [t021501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277835) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
