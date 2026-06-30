@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-04 | 214/0 | Návrh zákona | [t021400.md](t021400.md), [t0214a0.md](t0214a0.md) |
+| 2026-06-30 | 214/1 | Stanovisko vlády k návrhu poslanců Víta Rakušana, Karla Dvořáka, Pavly Pivoňka Vaňkové, Lukáše Vlčka a Ester Weimerové na vydání ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t021401.md](t021401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t021400.md](t021400.md) | 214/0 | Návrh zákona včetně důvodové zprávy | [t021400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271359) | pymupdf / pdftotext 1.0000 |
 | [t0214a0.md](t0214a0.md) | 214/0 | Platné znění s vyznačením změn | [t0214a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271361) | pymupdf / pdftotext 1.0000 |
+| [t021401.md](t021401.md) | 214/1 | Stanovisko | [t021401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277832) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
