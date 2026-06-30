@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-09 | 221/0 | Návrh zákona | [t022100.md](t022100.md) |
+| 2026-06-30 | 221/1 | Stanovisko vlády k návrhu poslanců Radka Vondráčka, Davida Pražáka, Marie Pošarové a Filipa Turka na vydání zákona, kterým se mění zákon č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů, a další související zákony | [t022101.md](t022101.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t022100.md](t022100.md) | 221/0 | Návrh zákona včetně důvodové zprávy | [t022100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271529) | pymupdf / pdftotext 1.0000 |
+| [t022101.md](t022101.md) | 221/1 | Stanovisko | [t022101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277829) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
