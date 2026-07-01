@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2025-11-11 | 16/0 | Vládní návrh zákona | [t001600.md](t001600.md), [t0016a0.md](t0016a0.md), [t0016b0.md](t0016b0.md), [t0016c0.md](t0016c0.md) |
 | 2026-04-30 | 16/1 | Usnesení rozpočtového výboru č. 79 ze dne 29. dubna 2026 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti se smlouvami o finančních službách uzavíranými na dálku | [t001601.md](t001601.md) |
 | 2026-06-26 | 16/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti se smlouvami o finančních službách uzavíranými na dálku | [t001602.md](t001602.md) |
+| 2026-07-01 | 16/3 | Usnesení garančního výboru č. 117 ze dne 30. června 2026 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti se smlouvami o finančních službách uzavíranými na dálku | [t001603.md](t001603.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0016c0.md](t0016c0.md) | 16/0 | Kompatibilita s právem EU | [t0016c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=265186) | pymupdf / pdftotext 1.0000 |
 | [t001601.md](t001601.md) | 16/1 | Text | [t001601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269805) | pymupdf / pdftotext 1.0000 |
 | [t001602.md](t001602.md) | 16/2 | Text | [t001602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277727) | pymupdf / pdftotext 1.0000 |
+| [t001603.md](t001603.md) | 16/3 | Text | [t001603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277850) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
