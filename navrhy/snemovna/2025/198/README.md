@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-05-22 | 198/0 | Vládní návrh zákona | [t019800.md](t019800.md), [t0198a0.md](t0198a0.md) |
 | 2026-06-10 | 198/1 | Usnesení výboru pro sociální politiku č. 35 ze dne 10. června 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů | [t019801.md](t019801.md) |
 | 2026-06-30 | 198/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů | [t019802.md](t019802.md) |
+| 2026-07-02 | 198/3 | Usnesení garančního výboru č. 40 ze dne 2. července 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 117/1995 Sb., o státní sociální podpoře, ve znění pozdějších předpisů | [t019803.md](t019803.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0198a0.md](t0198a0.md) | 198/0 | Platné znění s vyznačením změn | [t0198a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270532) | pymupdf / pdftotext 1.0000 |
 | [t019801.md](t019801.md) | 198/1 | Text | [t019801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271572) | pymupdf / pdftotext 1.0000 |
 | [t019802.md](t019802.md) | 198/2 | Text | [t019802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277841) | pymupdf / pdftotext 1.0000 |
+| [t019803.md](t019803.md) | 198/3 | Text | [t019803.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277922) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
