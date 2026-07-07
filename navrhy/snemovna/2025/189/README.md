@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-05-11 | 189/0 | Vládní návrh zákona | [t018900.md](t018900.md), [t0189a0.md](t0189a0.md), [t0189b0.md](t0189b0.md), [t0189c0.md](t0189c0.md) |
 | 2026-06-12 | 189/1 | Usnesení rozpočtového výboru č. 109 ze dne 10. června 2026 k vládnímu návrhu zákona o evidenci tržeb a o změně některých dalších zákonů | [t018901.md](t018901.md) |
 | 2026-07-01 | 189/2 | Usnesení rozpočtového výboru č. 119 ze dne 30. června 2026 k vládnímu návrhu zákona o evidenci tržeb a o změně některých dalších zákonů | [t018902.md](t018902.md) |
+| 2026-07-07 | 189/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o evidenci tržeb a o změně některých dalších zákonů | [t018903.md](t018903.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0189c0.md](t0189c0.md) | 189/0 | Kompatibilita s právem EU | [t0189c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270149) | pymupdf / pdftotext 1.0000 |
 | [t018901.md](t018901.md) | 189/1 | Text | [t018901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271708) | pymupdf / pdftotext 1.0000 |
 | [t018902.md](t018902.md) | 189/2 | Text | [t018902.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277857) | pymupdf / pdftotext 1.0000 |
+| [t018903.md](t018903.md) | 189/3 | Text | [t018903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278101) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
