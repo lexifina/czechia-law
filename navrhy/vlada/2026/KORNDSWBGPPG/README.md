@@ -27,5 +27,11 @@ Text as published in ODok, extracted from the official file and checked against 
 | Day | File | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | 2026-07-02 | [pd-korndvlhc27h.md](pd-korndvlhc27h.md) | Průvodní dopis | [kopie_148321_45034_cistopis_NNV_Vcely_DopisM_podepsany.pdf](https://odok.gov.cz/portal/services/download/attachment/KORNDVLHC27H/) | pymupdf / pdftotext 1.0000 |
+| 2026-07-09 | [ma-korndvtdwxac.md](ma-korndvtdwxac.md) | Materiál | [148321_Pravni_akt.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDVTDWXAC/) | libreoffice / docx-xml (contained) 1.0000 |
+| 2026-07-09 | [zd-korndvtdwzuu.md](zd-korndvtdwzuu.md) | Důvodová zpráva | [148321_Duvodova_zprava.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDVTDWZUU/) | libreoffice / docx-xml (contained) 1.0000 |
+| 2026-07-09 | [so-korndvtdx37j.md](so-korndvtdx37j.md) | Úplné znění PA s důvodovou zprávou a stručným obsahem | [148321_Strucny_popis_obsahu_navrhu_pravniho_predpisu.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDVTDX37J/) | libreoffice / docx-xml (contained) 1.0000 |
+| 2026-07-09 | [ip-korndvtdx5ie.md](ip-korndvtdx5ie.md) | Informativní přehled veřejnoprávních povinností vyplývajících z návrhu právního předpisu | [148321_Informativni_prehled_verejnopravnich_povinnosti.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDVTDX5IE/) | libreoffice / docx-xml (contained) 1.0000 |
+| 2026-07-09 | [pz-korndvtdx7ab.md](pz-korndvtdx7ab.md) | Platné znění s vyznačením navrhovaných změn a doplnění | [148321_Vsechna_uplna_zneni_-_pouze_dotcena_ustanoveni_s_vyznacenim_navrhovanych_zmen.docx](https://odok.gov.cz/portal/services/download/attachment/KORNDVTDX7AB/) | libreoffice / docx-xml (contained) 1.0000 |
+| 2026-07-09 | [pdz-korndvtdx94x.md](pdz-korndvtdx94x.md) | Průvodní dopis změny | [kopie_148321_MZE-45034_2026-11153.pdf](https://odok.gov.cz/portal/services/download/attachment/KORNDVTDX94X/) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
