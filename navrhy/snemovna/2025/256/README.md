@@ -1,0 +1,34 @@
+**Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.**
+
+# Sněmovní tisk 256 (10. volební období, 2025)
+
+Vládní návrh, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Smlouva mezi Českou republikou a Argentinskou republikou o zamezení dvojímu zdanění v oboru daní z příjmu a z majetku a o zabránění daňovému úniku a vyhýbání se daňové povinnosti a Protokol k ní, které byly podepsány v Buenos Aires dne 14. dubna 2026
+
+- Kind: Mezinárodní smlouva
+- Initiator: min. financí (jiný)
+- Presented by (psp.cz): min. financí
+- Submitted: 2026-07-09
+- History on psp.cz: <https://www.psp.cz/sqw/historie.sqw?o=10&t=256>
+- Steps and votes: `navrhy/data/bill-stages.csv`, `navrhy/data/votes/`
+
+## Versions
+
+Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the day psp.cz distributed it to MPs.
+
+| Day | Print | What | Files |
+| --- | --- | --- | --- |
+| 2026-07-10 | 256/0 | Mezinárodní smlouva | [t025600.md](t025600.md), [t0256a0.md](t0256a0.md), [t0256b0.md](t0256b0.md), [t0256c0.md](t0256c0.md), [t0256d0.md](t0256d0.md) |
+
+## Files
+
+Text as published by psp.cz, extracted from the official file and checked against a second extraction of the same file.
+
+| File | Print | Document | Official file | Extracted / checked |
+| --- | --- | --- | --- | --- |
+| [t025600.md](t025600.md) | 256/0 | Návrh usnesení Poslanecké sněmovny | [t025600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278335) | pymupdf / pdftotext 1.0000 |
+| [t0256a0.md](t0256a0.md) | 256/0 | Důvodová zpráva | [t0256a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278337) | pymupdf / pdftotext 1.0000 |
+| [t0256b0.md](t0256b0.md) | 256/0 | Text v českém jazyce | [t0256b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278339) | pymupdf / pdftotext 1.0000 |
+| [t0256c0.md](t0256c0.md) | 256/0 | Text v jiném jazyce | [t0256c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278341) | pymupdf / pdftotext 1.0000 |
+| [t0256d0.md](t0256d0.md) | 256/0 | Text v jiném jazyce | [t0256d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278343) | tesseract-ces / tesseract-cesbest 0.9990 |
+
+Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
