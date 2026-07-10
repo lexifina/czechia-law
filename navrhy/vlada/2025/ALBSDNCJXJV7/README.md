@@ -36,5 +36,6 @@ Text as published in ODok, extracted from the official file and checked against 
 | Day | Document | Official file | Why |
 | --- | --- | --- | --- |
 | 2026-06-30 | Rozdílová tabulka | [III_Rozdílová tabulka_novela ZESM 2026_PSP.docx](https://odok.gov.cz/portal/services/download/attachment/ALBSDVJCLB8T/) | text extraction not verified |
+| 2026-07-10 | Materiál | [I_Materiál_novela ZESM 2026_PSP_opraveno.docx](https://odok.gov.cz/portal/services/download/attachment/ALBSDVUFJ8SX/) | text extraction not verified |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
