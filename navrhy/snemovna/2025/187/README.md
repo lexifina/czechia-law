@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-06-11 | 187/2 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 45 ze dne 11. června 2026 k návrhu poslanců Huberta Langa, Igora Hendrycha, Jiřího Maška a Drahoslava Ryby na vydání zákona, kterým se mění některé zákony na úseku vnitřní správy | [t018702.md](t018702.md) |
 | 2026-07-01 | 187/3 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 48 ze dne 1. července 2026 k návrhu poslanců Huberta Langa, Igora Hendrycha, Jiřího Maška a Drahoslava Ryby na vydání zákona, kterým se mění některé zákony na úseku vnitřní správy | [t018703.md](t018703.md) |
 | 2026-07-10 | 187/4 | Pozměňovací a jiné návrhy k návrhu poslanců Huberta Langa, Igora Hendrycha, Jiřího Maška a Drahoslava Ryby na vydání zákona, kterým se mění některé zákony na úseku vnitřní správy | [t018704.md](t018704.md) |
+| 2026-07-15 | 187/5 | Usnesení garančního výboru č. 50 ze dne 15. července 2026 k návrhu poslanců Huberta Langa, Igora Hendrycha, Jiřího Maška a Drahoslava Ryby na vydání zákona, kterým se mění některé zákony na úseku vnitřní správy | [t018705.md](t018705.md) |
 
 ## Files
 
@@ -35,5 +36,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t018702.md](t018702.md) | 187/2 | Text | [t018702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271668) | pymupdf / pdftotext 1.0000 |
 | [t018703.md](t018703.md) | 187/3 | Text | [t018703.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277860) | pymupdf / pdftotext 1.0000 |
 | [t018704.md](t018704.md) | 187/4 | Text | [t018704.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278322) | pymupdf / pdftotext 1.0000 |
+| [t018705.md](t018705.md) | 187/5 | Text | [t018705.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278410) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
