@@ -26,6 +26,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-23 | 90/4 | Oponentní zpráva k vládnímu návrhu zákona, kterým se mění některé zákony v oblasti veřejných rozpočtů | [t009004.md](t009004.md) |
 | 2026-06-22 | 90/5 | Návrh zákona, kterým se mění některé zákony v oblasti veřejných rozpočtů, vrácený Senátem | [t009005.md](t009005.md) |
 | 2026-06-22 | 90/6 | Usnesení Senátu k návrhu zákona, kterým se mění některé zákony v oblasti veřejných rozpočtů | [t009006.md](t009006.md) |
+| 2026-07-22 | 90/7 | Zákon, kterým se mění některé zákony v oblasti veřejných rozpočtů, vrácený prezidentem republiky | [t009007.md](t009007.md) |
 
 ## Files
 
@@ -42,5 +43,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t009004.md](t009004.md) | 90/4 | Text | [t009004.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269645) | pymupdf / pdftotext 1.0000 |
 | [t009005.md](t009005.md) | 90/5 | Text | [t009005.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277452) | pymupdf / pdftotext 1.0000 |
 | [t009006.md](t009006.md) | 90/6 | Text | [t009006.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277455) | pymupdf / pdftotext 1.0000 |
+| [t009007.md](t009007.md) | 90/7 | Text | [t009007.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278574) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
