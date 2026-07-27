@@ -1,0 +1,23 @@
+---
+material: "ALBSDVXBREUW"
+dokument: "Příloha návrhu usnesení"
+soubor: "25700_26_sta_PSP.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDWDGEXEW/"
+den: "2026-07-27"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+STANOVISKO VLÁDY
+
+k senátnímu návrhu zákona, kterým se mění zákon č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů
+
+(sněmovní tisk č. 257)
+
+Vláda na své schůzi dne 27. července 2026 projednala a posoudila návrh zákona, kterým se mění zákon č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů, a zaujala k němu nesouhlasné stanovisko, a to zejména z následujících důvodů:
+
+\1. Vláda je toho názoru, že návrh v předložené podobě narušuje dosavadní přístup k náhradě za ztrátu příjmu poživatelů invalidního důchodu pro invaliditu třetího stupně, který vychází z předpokladu, že ztrátu příjmu u těchto osob primárně nahrazuje invalidní důchod pro invaliditu třetího stupně.
+
+\2. Invalidní důchod pro invaliditu třetího stupně i nemocenské jsou plnění určená ke kompenzaci ztráty příjmu. Přestože sledují odlišné účely a jsou poskytovány za rozdílných podmínek, obě dávky reagují na ekonomické důsledky nepříznivého zdravotního stavu. Zatímco invalidní důchod pro invaliditu třetího stupně představuje dlouhodobou dávku důchodového pojištění, nemocenské je dávkou krátkodobou poskytovanou při dočasné pracovní neschopnosti.
+
+\3. Poživatel invalidního důchodu pro invaliditu třetího stupně není ve srovnatelné situaci se zaměstnancem, jehož jediným zdrojem příjmu je jeho výdělek. Oproti ostatním pojištěncům, kterým nemocenské slouží jako náhrada ztráty jejich celého příjmu z důvodu nemoci, jsou poživatelé invalidního důchodu pro invaliditu třetího stupně v ekonomicky stabilnějším postavení. Nemocenské poskytované v souběhu s invalidním důchodem lze tedy vnímat spíše jako vyšší úroveň sociální ochrany.
