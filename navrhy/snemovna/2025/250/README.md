@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-07-02 | 250/0 | Návrh zákona | [t025000.md](t025000.md), [t0250a0.md](t0250a0.md) |
+| 2026-07-28 | 250/1 | Stanovisko vlády k návrhu poslanců Drahoslava Ryby a Jiřího Bartáka na vydání zákona o standardizaci a o změně některých zákonů (zákon o standardizaci) | [t025001.md](t025001.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t025000.md](t025000.md) | 250/0 | Návrh zákona včetně důvodové zprávy | [t025000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277952) | pymupdf / pdftotext 1.0000 |
 | [t0250a0.md](t0250a0.md) | 250/0 | Platné znění s vyznačením změn | [t0250a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277954) | pymupdf / pdftotext 1.0000 |
+| [t025001.md](t025001.md) | 250/1 | Stanovisko | [t025001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278821) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
