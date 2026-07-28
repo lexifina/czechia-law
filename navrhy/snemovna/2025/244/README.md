@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-29 | 244/0 | Návrh zákona | [t024400.md](t024400.md), [t0244a0.md](t0244a0.md) |
+| 2026-07-28 | 244/1 | Stanovisko vlády k návrhu poslanců Pavly Pivoňka Vaňkové, Věry Kovářové, Jana Papajanovského a Lucie Sedmihradské na vydání zákona, kterým se mění zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů | [t024401.md](t024401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t024400.md](t024400.md) | 244/0 | Návrh zákona včetně důvodové zprávy | [t024400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277769) | pymupdf / pdftotext 1.0000 |
 | [t0244a0.md](t0244a0.md) | 244/0 | Platné znění s vyznačením změn | [t0244a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277771) | pymupdf / pdftotext 1.0000 |
+| [t024401.md](t024401.md) | 244/1 | Stanovisko | [t024401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278815) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
