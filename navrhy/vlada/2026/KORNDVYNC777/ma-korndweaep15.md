@@ -1,0 +1,77 @@
+---
+material: "KORNDVYNC777"
+dokument: "Materiál"
+soubor: "193036_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDWEAEP15/"
+den: "2026-07-28"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 27. července 2026,
+
+kterým se mění nařízení vlády č. 222/2010 Sb., o katalogu prací ve veřejných službách a správě, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 123 odst. 6 písm. a) zákona č. 262/2006 Sb., zákoník práce, ve znění zákona č. 365/2011 Sb.:
+
+Čl. I
+
+Nařízení vlády č. 222/2010 Sb., o katalogu prací ve veřejných službách a správě, ve znění nařízení vlády č. 399/2017 Sb., nařízení vlády č. 263/2018 Sb., nařízení vlády č. 352/2019 Sb., nařízení vlády č. 391/2021 Sb., nařízení vlády č. 441/2022 Sb., nařízení vlády č. 395/2023 Sb., nařízení vlády č. 167/2024 Sb. a nařízení vlády č. 420/2025 Sb., se mění takto:
+
+\1. V příloze bodě A se v tabulce za 59. řádek vkládá nový řádek, který zní:
+
+„
+
+1.05.07 PRACOVNÍK S ŽITOU ZKUŠENOSTÍ (PEER PRACOVNÍK) 6-10
+
+“.
+
+\2. V příloze bodě B části 1 dílu 1.05 se doplňuje bod 1.05.07, který zní:
+
+„1.05.07 PRACOVNÍK S ŽITOU ZKUŠENOSTÍ (PEER PRACOVNÍK)
+
+\6. platová třída
+
+\1. Poskytování osobní podpory osobám se závislostí, s duševním onemocněním, bez přístřeší, před nebo po propuštění z výkonu trestu anebo v obdobné obtížné životní situaci formou motivace, inspirace příkladem a vzorem na základě vlastní žité zkušenosti.
+
+\7. platová třída
+
+\1. Poskytování osobní podpory osobám v obtížné životní situaci formou edukace a destigmatizačních aktivit koordinovaně s poskytováním ostatních forem podpory, zejména sociální, zdravotní, psychologické, výchovně vzdělávací, materiální nebo jiné, na základě vlastní žité zkušenosti.
+
+\8. platová třída
+
+\1. Koordinace poskytování osobní podpory osobám v obtížné životní situaci, průběžné sledování a vyhodnocování kvality poskytované osobní podpory v rámci stanoveného individuálního plánu osobní podpory, zejména poskytování podkladů a součinnosti při dílčích úkolech ke zlepšování postupů osobní podpory a sdílení poznatků v rámci týmové spolupráce s odbornými pracovníky na základě vlastní žité zkušenosti.
+
+\9. platová třída
+
+\1. Koordinace poskytování osobní podpory v rámci organizačního útvaru, zařízení nebo územně vymezeného okruhu působnosti, včetně zpracovávání podkladů pro nastavování a vyhodnocování postupů osobní podpory na základě vlastní žité zkušenosti.
+
+\2. Metodické usměrňování poskytování osobní podpory a zajišťování vzdělávacích, osvětových a destigmatizačních aktivit v návaznosti na sociální, zdravotní, vzdělávací a další veřejné služby.
+
+\10. platová třída
+
+\1. Zpracovávání metodických, analytických a systémových podkladů pro poskytování osobní podpory v rámci organizace nebo systému služeb, včetně koordinace zavádění a vyhodnocování postupů poskytování osobní podpory v návaznosti na činnost odborných pracovníků, na základě vlastní žité zkušenosti.
+
+\2. Koordinace začleňování poskytování osobní podpory do širšího rámce sociálních, zdravotních, vzdělávacích nebo jiných veřejných služeb, včetně zpracovávání návrhů opatření ke zlepšování vzájemné návaznosti a funkčního propojení těchto činností.“.
+
+Čl. II
+
+Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. srpna 2026.
+
+Předseda vlády:
+
+Ing. Babiš
+
+podepsáno elektronicky
+
+Ministr práce a sociálních věcí:
+
+Ing. Juchelka
+
+podepsáno elektronicky
