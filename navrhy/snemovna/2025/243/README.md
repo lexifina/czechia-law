@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-30 | 243/0 | Návrh zákona | [t024300.md](t024300.md), [t0243a0.md](t0243a0.md) |
+| 2026-07-28 | 243/1 | Stanovisko vlády k návrhu poslanců Marka Výborného, Petra Hladíka a Františka Talíře na vydání zákona, kterým se mění zákon č. 223/2016 Sb., o prodejní době v maloobchodě, ve znění pozdějších předpisů | [t024301.md](t024301.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t024300.md](t024300.md) | 243/0 | Návrh zákona včetně důvodové zprávy | [t024300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277784) | pymupdf / pdftotext 1.0000 |
 | [t0243a0.md](t0243a0.md) | 243/0 | Platné znění s vyznačením změn | [t0243a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277786) | pymupdf / pdftotext 1.0000 |
+| [t024301.md](t024301.md) | 243/1 | Stanovisko | [t024301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278827) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
