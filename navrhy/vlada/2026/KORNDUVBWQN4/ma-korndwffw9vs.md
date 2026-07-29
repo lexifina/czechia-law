@@ -1,0 +1,51 @@
+---
+material: "KORNDUVBWQN4"
+dokument: "Materiál"
+soubor: "171701_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDWFFW9VS/"
+den: "2026-07-29"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 20. července 2026,
+
+kterým se mění nařízení vlády č. 86/2011 Sb., o technických požadavcích na hračky, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 22 odst. 1 zákona č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění zákona č. 205/2002 Sb., zákona č. 34/2011 Sb. a zákona č. 526/2020 Sb.:
+
+Čl. I
+
+Nařízení vlády č. 86/2011 Sb., o technických požadavcích na hračky, ve znění nařízení vlády č. 24/2013 Sb., nařízení vlády č. 339/2013 Sb., nařízení vlády č. 151/2015 Sb., nařízení vlády č. 97/2017 Sb., nařízení vlády č. 86/2018 Sb., nařízení vlády č. 222/2019 Sb., nařízení vlády č. 137/2021 Sb. a nařízení vlády č. 121/2022 Sb., se mění takto:
+
+\1. V příloze č. 2 Dodatku A se na konci tabulky doplňuje položka, která zní:
+
+„
+
+Kobalt CMR 1B V hračkách a v částech hraček vyrobených z nerezavějící oceli, jako nečistota v niklu obsaženém v nerezavějící oceli. V částech hraček, které mají vést elektrický proud. V magnetech na bázi neodymu používaných v hračkách, pokud tyto magnety nelze spolknout nebo vdechnout.
+
+“.
+
+\2. V poznámce pod čarou č. 1 se na konci doplňuje věta „Směrnice Komise (EU) 2026/192 ze dne 28. ledna 2026, kterou se mění dodatek A přílohy II směrnice Evropského parlamentu a Rady 2009/48/ES o bezpečnosti hraček, pokud jde o kobalt.“.
+
+Čl. II
+
+Účinnost
+
+Toto nařízení nabývá účinnosti dnem 29. srpna 2026.
+
+Předseda vlády:
+
+Ing. Babiš
+
+podepsáno elektronicky
+
+\1. místopředseda vlády a ministr průmyslu a obchodu:
+
+doc. Ing. Havlíček, Ph.D., MBA
+
+podepsáno elektronicky
