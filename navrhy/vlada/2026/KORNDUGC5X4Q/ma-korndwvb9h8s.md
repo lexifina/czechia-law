@@ -1,0 +1,373 @@
+---
+material: "KORNDUGC5X4Q"
+dokument: "Materiál"
+soubor: "157943_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDWVB9H8S/"
+den: "2026-08-12"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+VYHLÁŠKA
+
+ze dne …,
+
+kterou se mění vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků a rozpočtů dobrovolných svazků obcí, ve znění pozdějších předpisů
+
+Ministerstvo financí stanoví podle § 20 odst. 6 a § 28 odst. 6 zákona č. 218/2000 Sb., o rozpočtových pravidlech a o změně některých souvisejících zákonů (rozpočtová pravidla), ve znění zákona č. 482/2004 Sb. a zákona č. 232/2025 Sb.:
+
+Čl. I
+
+Vyhláška č. 5/2014 Sb., o způsobu, termínech a rozsahu údajů předkládaných pro hodnocení plnění státního rozpočtu, rozpočtů státních fondů, rozpočtů územních samosprávných celků a rozpočtů dobrovolných svazků obcí, ve znění vyhlášky č. 363/2014 Sb., vyhlášky č. 364/2014 Sb., vyhlášky č. 347/2015 Sb., vyhlášky č. 395/2016 Sb., vyhlášky č. 466/2017 Sb., vyhlášky č. 344/2019 Sb., vyhlášky č. 514/2021 Sb., vyhlášky č. 160/2022 Sb., vyhlášky č. 333/2023 Sb. a vyhlášky č. 228/2025 Sb., se mění takto:
+
+\1. V příloze č. 1 bodě 4.1 se slovo „sytému“ nahrazuje slovem „systému“.
+
+\2. V příloze č. 1 bod 7.10 zní:
+
+„7.10 Státní fond předkládá do centrálního systému účetních informací státu výkaz FIN 1-12 SF a schvaluje ho v centrálním systému účetních informací státu nejpozději do 20. dne následujícího měsíce; za období leden až prosinec je stanovena lhůta nejpozději do 25. února následujícího roku. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejbližší následující pracovní den.“.
+
+\3. V příloze č. 1 se bod 7.11 zrušuje.
+
+Dosavadní bod 7.12 se označuje jako bod 7.11.
+
+\4. V příloze č. 1 bodě 8 se slova „a státní fondy v centrálním systému účetních informací státu“ zrušují.
+
+\5. V příloze č. 2 bodě 7.3 se slovo „státní“ zrušuje a slovo „příští“ se nahrazuje slovem „následující“.
+
+\6. V příloze č. 2 bodě 8 se slova „a státními fondy“ zrušují a slova „a státním fondem“ se zrušují.
+
+\7. Příloha č. 5 zní:
+
+„Příloha č. 5 k vyhlášce č. 5/2014 Sb.
+
+Rozsah a způsob sestavení finančního výkazu pro hodnocení plnění rozpočtu státních fondů (FIN 1-12 SF)
+
+\1. Výkaz pro hodnocení plnění rozpočtu státních fondů (FIN 1-12 SF) sestavují státní fondy. Státní fondy mají přidělené číslo podle níže uvedeného seznamu:
+
+502 Státní fond životního prostředí České republiky
+
+504 Státní fond kultury České republiky
+
+505 Státní fond audiovize
+
+506 Státní fond dopravní infrastruktury
+
+507 Státní fond podpory investic
+
+511 Státní zemědělský intervenční fond
+
+1.1 Schváleným rozpočtem se rozumí rozpočet státního fondu schválený Poslaneckou sněmovnou Parlamentu České republiky na příslušný rozpočtový rok rozepsaný v třídění podle rozpočtové skladby.
+
+1.2 Rozpočtem po změnách se rozumí schválený rozpočet upravený o veškeré změny schváleného rozpočtu státního fondu provedené nejpozději k poslednímu dni vykazovaného období rozepsaný v třídění podle rozpočtové skladby.
+
+1.3 Výsledkem od počátku roku se rozumí údaje získané z třídění příjmů, výdajů a financujících položek podle rozpočtové skladby a bodu 8 u syntetických účtů
+
+224 - Běžné účty státních fondů,
+
+243 - Běžný účet FKSP,
+
+281 - Krátkodobé úvěry,
+
+451 - Dlouhodobé úvěry.
+
+\2. Část I. FIN 1-12 SF - Rozpočtové příjmy, výdaje a financování
+
+2.1 V této části výkazu se uvádějí údaje schváleného rozpočtu (sl. 1), rozpočtu po změnách (sl. 2) a výsledku od počátku roku (sl. 3) příjmů, výdajů a financujících položek v třídění podle rozpočtové skladby a bodu 8, a to podle
+
+a) paragrafů odvětvového třídění,
+
+b) položek druhového třídění,
+
+c) prostorové jednotky prostorového třídění,
+
+d) nástroje nástrojového třídění,
+
+e) účelového znaku transferového třídění,
+
+f) identifikátoru partnera.
+
+2.2 V případě příjmů obsahují sl. 1 a 2 každého řádku souhrnnou částku za příjmy se shodnou kombinací třídění podle bodu 2.1 písm. b) až d).
+
+2.3 V případě výdajů obsahují sl. 1 a 2 každého řádku souhrnnou částku za výdaje se shodnou kombinací třídění podle bodu 2.1 písm. a) až d).
+
+2.4 V případě financujících položek obsahují sl. 1 a 2 každého řádku souhrnnou částku za financující položky se shodnou kombinací třídění podle bodu 2.1 písm. b).
+
+2.5 V případě příjmů obsahuje sl. 3 každého řádku souhrnnou částku za příjmy se shodnou kombinací třídění podle bodu 2.1 písm. b) až f).
+
+2.6 V případě výdajů obsahuje sl. 3 každého řádku souhrnnou částku za výdaje se shodnou kombinací třídění podle bodu 2.1 písm. a) až f).
+
+2.7 V případě financujících položek obsahuje sl. 3 každého řádku souhrnnou částku za financující položky se shodnou kombinací třídění podle bodu 2.1 písm. b) a f).
+
+\3. Část II. FIN 1-12 SF - Stavy na bankovních účtech a pokladně
+
+V této části výkazu se uvádějí stavy bankovních účtů, pokladen a peněz na cestě
+
+a) běžných účtů státních fondů (syntetický účet 224),
+
+b) běžných účtů FKSP (syntetický účet 243),
+
+c) jiných běžných účtů (syntetický účet 245),
+
+d) pokladen (syntetický účet 261),
+
+e) peněz na cestě (syntetický účet 262).
+
+\4. Část III. FIN 1-12 SF - Rekapitulace příjmů, výdajů, financování a jejich konsolidace
+
+4.1 Tato část výkazu je sestavována automaticky z údajů předložených státním fondem do centrálního systému účetních informací státu v části I. výkazu. V této části výkazu se uvádějí
+
+a) úhrny příjmů jednotlivých tříd,
+
+b) úhrny výdajů jednotlivých tříd,
+
+c) rozpis položek potřebných pro provedení konsolidace příjmů a výdajů,
+
+d) saldo příjmů a výdajů po konsolidaci,
+
+e) úhrn třídy 8 – financování.
+
+4.2 Konsolidace na úrovni vykazující jednotky se provádí u položek 4134, 4139, 5342, 5345 a 5349.
+
+4.3 Vazby mezi částí I. a III. tohoto výkazu:
+
+součet daňových příjmů v části I. ∑ (třída 1) sl. 1,2,3 = r. 3011 sl. 31,32,33
+
+součet nedaňových příjmů v části I. ∑ (třída 2) sl. 1,2,3 = r. 3012 sl. 31,32,33
+
+součet kapitálových příjmů v části I. ∑ (třída 3) sl. 1,2,3 = r. 3013 sl. 31,32,33
+
+součet přijatých transferů v části I. ∑ (třída 4) sl. 1,2,3 = r. 3014 sl. 31,32,33
+
+součet běžných výdajů v části I. ∑ (třída 5) sl. 1,2,3 = r. 3061 sl. 31, 32, 33
+
+součet kapitálových výdajů v části I. ∑ (třída 6) sl. 1,2,3 = r. 3062 sl. 31, 32, 33
+
+součet financujících položek v části I. ∑ (třída 8) sl. 1,2,3 = r. 3200 sl. 31, 32, 33
+
+4.4 Vazby v části III. výkazu, které platí na úrovni vykazující jednotky:
+
+r. 3010 sl. 31,32,33 = r. (3011 + 3012 + 3013 + 3014) sl. 31,32,33
+
+r. 3020 sl. 31,32,33 = r. 3070 sl. 31,32,33
+
+r. 3020 sl. 31,32,33 = r. (3021 + 3022) sl. 31,32,33
+
+r. 3030 sl. 31,32,33 = r. (3010 - 3020) sl. 31,32,33
+
+r. 3060 sl. 31,32,33 = r. (3061 + 3062) sl. 31,32,33
+
+r. 3070 sl. 31,32,33 = r. (3071 + 3072 + 3073) sl. 31,32,33
+
+r. 3080 sl. 31,32,33 = r. (3060 - 3070) sl. 31,32,33
+
+r. 3080 sl. 31,32,33 = r. (3030 + 3200) sl. 31,32,33
+
+r. 3100 sl. 31,32,33 = r. (3030 - 3080) sl. 31,32,33
+
+r. 3100 sl. 31,32,33 = (- 1) * r. 3200 sl. 31, 32, 33
+
+\5. Financující položky
+
+5.1 Jednotlivé financující položky v části I. výkazu budou mít kladné (+) nebo záporné (‑) znaménko tak, jak je uvedeno v níže uvedeném přehledu.
+
+5.2 V případě krátkodobých (syntetický účet 281) a dlouhodobých (syntetický účet 451) úvěrů zřízených u bank, ze kterých se přímo realizují investiční nebo neinvestiční výdaje, se postupuje takto
+
+a) výdaj z krátkodobého, resp. dlouhodobého úvěru se zatřídí na příslušnou položku třídy 5, nebo 6 při účtování na stranu Dal syntetického účtu 281, resp. 451,
+
+b) splátky úvěrů hrazené z bankovních účtů (syntetický účet 224) se zatřídí na položky 8xx4,
+
+c) koncem kalendářního měsíce se na položku 8xx3 přenese údaj hodnoty změny stavu strany Dal syntetického účtu 281, resp. 451, od počátku roku.
+
+Položka Název Znaménko
+
+8111 8211 Krátkodobé vydané dluhopisy +
+
+8112 8212 Uhrazené splátky krátkodobých vydaných dluhopisů -
+
+8121 8221 Dlouhodobé vydané dluhopisy +
+
+8122 8222 Uhrazené splátky dlouhodobých vydaných dluhopisů -
+
+8113 8213 Krátkodobé přijaté půjčené prostředky +
+
+8114 8214 Uhrazené splátky krátkodobých přijatých půjčených prostředků -
+
+8123 8223 Dlouhodobé přijaté půjčené prostředky +
+
+8124 8224 Uhrazené splátky dlouhodobých přijatých půjčených prostředků -
+
+8117 8217 Aktivní krátkodobé operace řízení likvidity - příjmy +
+
+8118 8218 Aktivní krátkodobé operace řízení likvidity - výdaje -
+
+8127 8227 Aktivní dlouhodobé operace řízení likvidity - příjmy +
+
+8128 8228 Aktivní dlouhodobé operace řízení likvidity - výdaje -
+
+Položka Název Znaménko Podmínka
+
+8115 Změny stavu krátkodobých prostředků na bankovních účtech kromě změn stavů účtů státních finančních aktiv, které tvoří kapitolu OSFA - (stav ke konci vykazovaného
+
+období) > (stav k 1. lednu)
+
+\+ (stav ke konci vykazovaného období) < (stav k 1. lednu)
+
+8125 Změna stavu dlouhodobých prostředků na bankovních účtech - (stav ke konci vykazovaného
+
+období) > (stav k 1. lednu)
+
+\+ (stav ke konci vykazovaného období) < (stav k 1. lednu)
+
+Položka Název Znaménko Podmínka
+
+8901 Operace z peněžních účtů rozpočtové jednotky nemající charakter příjmů a výdajů vládního sektoru - platba
+
+\+ inkaso
+
+8902 Nerealizované kursové rozdíly pohybů na devizových účtech - snížení
+
+\+ zvýšení
+
+\6. Transferové třídění – Transfery a půjčené peněžní prostředky poskytnuté územním rozpočtům
+
+V části I. výkazu se uvádějí údaje v třídění podle účelových znaků zveřejněných na internetových stránkách Ministerstva financí, a to o
+
+a) transferech a půjčených peněžních prostředcích poskytnutých územním rozpočtům uvedených na položkách 5321, 5323, 5329, 5641, 5642, 5649, 5811, 5812, 6341, 6342, 6349, 6441, 6442 a 6449,
+
+b) vratkách transferů podle písmene a) uvedených na položkách podseskupení 222,
+
+c) splátkách půjčených peněžních prostředků podle písmene a) uvedených na položkách podseskupení 244,
+
+d) odvodech a penále za porušení rozpočtové kázně uvedených na položce 2211 související s transfery a půjčenými peněžními prostředky podle písmene a).
+
+\7. Prostorové a nástrojové třídění
+
+7.1 V části I. se třídí příjmy a výdaje podle prostorové jednotky a nástroje, přičemž třídění podle prostorové jednotky se použije u všech příjmů a výdajů. V případě třídění příjmů a výdajů podle nástroje se nepoužije analytika. V části I. se uvádějí také výdaje kryté přijatými půjčenými peněžními prostředky ze zahraničních zdrojů v rámci programů a projektů spolufinancovaných z rozpočtu Evropské unie, finančních mechanismů a NATO, a to v třídění podle nástroje a prostorové jednotky.
+
+7.2 Příjmy a výdaje se třídí podle číselníku nástrojového třídění zveřejněného Ministerstvem financí na jeho internetových stránkách.
+
+\8. Identifikátor partnera
+
+8.1 V části I. sl. 3 výkazu se uvádějí údaje v třídění podle identifikátoru partnera, a to o
+
+a) nedaňových příjmech s výjimkou položky 2143,
+
+b) kapitálových příjmech,
+
+c) přijatých transferech s výjimkou položek podseskupení 413 a 414,
+
+d) běžných výdajích s výjimkou položek
+
+\1. seskupení 50 a 54,
+
+\2. podseskupení 518, s výjimkou položky 5183,
+
+\3. podseskupení 534, 535, 566 a
+
+\4. 5142 a 5173,
+
+e) kapitálových výdajích s výjimkou položek podseskupení 637 a 646,
+
+f) vydaných dluhopisech a jejich splátkách, přijatých půjčených peněžních prostředcích a jejich splátkách a aktivních operacích řízení likvidity v rámci financujících položek.
+
+8.2 Partnerem se rozumí ten, pro kterého
+
+a) výdaj, snížení příjmu nebo snížení financující položky organizace sestavující výkaz je nebo by měl být příjmem, snížením výdaje nebo zvýšením financující položky,
+
+b) příjem, snížení výdaje nebo zvýšení financující položky organizace sestavující výkaz je nebo by měl být výdajem, snížením příjmu nebo snížením financující položky.
+
+8.3 Identifikátorem partnera se rozumí
+
+a) identifikační číslo osoby (IČO) u tuzemské osoby a organizační složky státu,
+
+b) identifikátor „111“ u tuzemské nepodnikající fyzické osoby,
+
+c) identifikátor země podle Přílohy č. 1 k Metodice tvorby Pomocného analytického přehledu - Číselník Partneři PAP zveřejněné na internetových stránkách Ministerstva financí u zahraničních osob,
+
+d) identifikátor mezinárodní organizace podle Přílohy č. 1 k Metodice tvorby Pomocného analytického přehledu - Číselník Partneři PAP zveřejněné na internetových stránkách Ministerstva financí u mezinárodních organizací.
+
+Vzor
+
+FIN 1-12 SF Výkaz pro hodnocení plnění rozpočtu státních fondů
+
+“.
+
+\8. V příloze č. 6 bod 5 zní:
+
+„5. Část II. – Stavy na bankovních účtech a pokladně
+
+V této části výkazu se uvádějí stavy bankovních účtů, termínovaných vkladů, pokladen a peněz na cestě
+
+a) termínovaných vkladů dlouhodobých (syntetický účet 068),
+
+b) základních běžných účtů územních samosprávných celků (syntetický účet 231),
+
+c) běžných účtů fondů územních samosprávných celků (syntetický účet 236),
+
+d) běžných účtů (syntetický účet 241),
+
+e) termínovaných vkladů krátkodobých (syntetický účet 244),
+
+f) jiných běžných účtů (syntetický účet 245),
+
+g) pokladny (syntetický účet 261),
+
+h) peněz na cestě (syntetický účet 262).“.
+
+\9. V příloze č. 6 bodě 10.1 se slova „a odvodů a penále“ nahrazují slovy „, odvodů a penále“ a za slovo „kázně“ se vkládají slova „a vkladů do fundací a ústavů“.
+
+\10. V příloze č. 6 se vzor FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí zrušuje.
+
+\11. V příloze č. 6 se doplňuje vzor FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí, který včetně nadpisu zní:
+
+„Vzor
+
+FIN 2-12 M Výkaz pro hodnocení plnění rozpočtu územních samosprávných celků a dobrovolných svazků obcí
+
+“.
+
+\12. Příloha č. 7 zní:
+
+„Příloha č. 7 k vyhlášce č. 5/2014 Sb.
+
+Rozsah a způsob sestavení finančního výkazu o rozpočtu nákladů a výnosů státních příspěvkových organizací a další doplňující údaje (ROZP 1-01 SPO)
+
+\1. Státní příspěvkové organizace předkládají do centrálního systému účetních informací státu ročně přehled o rozpočtu syntetických účtů v návaznosti na právní předpis upravující účetnictví pro některé vybrané účetní jednotky.
+
+\2. V části II předkládají státní příspěvkové organizace doplňující údaje za hlavní činnost, které vycházejí z analytické evidence k syntetickým účtům uvedeným v části I.
+
+\3. V období rozpočtového provizoria se ve výkazu ve sloupci 1 uvádí skutečnost za předcházející rok. Ve sloupcích 2, 3 a 4 se uvádí data rozpočtu nákladů a výnosů aktuálního roku a střednědobého výhledu na následující 2 roky, které byly naposledy zaslány v souladu s vyhláškou č. 133/2013 Sb., ve znění pozdějších předpisů, do centrálního systému účetních informací státu v rámci přípravy návrhu zákona o státním rozpočtu. Po skončení rozpočtového provizoria se údaje aktualizují na základě schválených vztahů ke státnímu rozpočtu, došlo-li k jejich změně.
+
+VZOR
+
+ROZP 1-01 SPO Výkaz o rozpočtu nákladů a výnosů státních příspěvkových organizací a další doplňující údaje - hlavní činnost
+
+ROZP 1-01 SPO - Část I - Přehled o rozpočtu nákladů a výnosů státních příspěvkových organizací
+
+ROZP 1-01 SPO - Část II - Doplňující údaje - hlavní činnost státních příspěvkových organizací
+
+“.
+
+\13. Poznámka pod čarou č. 3 se zrušuje.
+
+Čl. II
+
+Přechodná ustanovení
+
+\1. Pro rozsah a způsob sestavení finančního výkazu pro hodnocení plnění rozpočtu státních fondů za období leden až prosinec roku 2026 se použije vyhláška č. 5/2014 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+\2. Pro předložení a schvalování finančního výkazu pro hodnocení plnění rozpočtu státních fondů za období leden až prosinec roku 2026 se použijí body 7.10 a 7.11 přílohy č. 1 vyhlášky č. 5/2014 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+\3. Pro rozsah a způsob sestavení finančního výkazu pro hodnocení plnění rozpočtů územních samosprávných celků a dobrovolných svazků obcí za rok 2026 se použije vyhláška č. 5/2014 Sb., ve znění účinném přede dnem nabytí účinnosti této vyhlášky.
+
+\4. Část II. přílohy č. 7 k vyhlášce č. 5/2014 Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, se poprvé použije ve výkazech zaslaných za rok 2026.
+
+Čl. III
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2027.
+
+Ministryně:
