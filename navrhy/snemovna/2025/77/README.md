@@ -26,6 +26,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-21 | 77/4 | Pozměňovací a jiné návrhy k  návrhu poslanců Radka Vondráčka, Renaty Vesecké, Libora Vondráčka a Zuzany Ožanové na vydání zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) | [t007704.md](t007704.md) |
 | 2026-04-30 | 77/5 | Usnesení garančního výboru č. 30 ze dne 29. dubna 2026 k návrhu poslanců Radka Vondráčka, Renaty Vesecké, Libora Vondráčka a Zuzany Ožanové na vydání zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) | [t007705.md](t007705.md) |
 | 2026-08-24 | 77/6 | Návrh zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích), zamítnutý Senátem | [t007706.md](t007706.md) |
+| 2026-08-24 | 77/7 | Usnesení Senátu k návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) | [t007707.md](t007707.md) |
 
 ## Files
 
@@ -40,5 +41,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t007704.md](t007704.md) | 77/4 | Text | [t007704.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269580) | pymupdf / pdftotext 1.0000 |
 | [t007705.md](t007705.md) | 77/5 | Text | [t007705.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269852) | pymupdf / pdftotext 1.0000 |
 | [t007706.md](t007706.md) | 77/6 | Text | [t007706.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279100) | pymupdf / pdftotext 1.0000 |
+| [t007707.md](t007707.md) | 77/7 | Text | [t007707.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279103) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
