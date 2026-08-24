@@ -31,6 +31,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-05-07 | 67/11 | Usnesení hospodářského výboru č. 55 ze dne 30. dubna 2026 k návrhu poslanců Andreje Babiše, Karla Havlíčka, Tomia Okamury, Petra Macinky, Aleny Schillerové, Zuzany Schwarz Bařtipánové, Radima Fialy, Borise Šťastného, Vojtěcha Krňanského a Marie Pošarové na vydání zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů, a některé další související zákony | [t0067110000.md](t0067110000.md) |
 | 2026-06-18 | 67/12 | Pozměňovací a jiné návrhy k návrhu poslanců Andreje Babiše, Karla Havlíčka, Tomia Okamury, Petra Macinky, Aleny Schillerové, Zuzany Schwarz Bařtipánové, Radima Fialy, Borise Šťastného, Vojtěcha Krňanského a Marie Pošarové na vydání zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů, a některé další související zákony | [t0067120000.md](t0067120000.md) |
 | 2026-06-30 | 67/13 | Usnesení garančního výboru č. 86 ze dne 25. června 2026 k návrhu poslanců Andreje Babiše, Karla Havlíčka, Tomia Okamury, Petra Macinky, Aleny Schillerové, Zuzany Schwarz Bařtipánové, Radima Fialy, Borise Šťastného, Vojtěcha Krňanského a Marie Pošarové na vydání zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů, a některé další související zákony | [t0067130000.md](t0067130000.md) |
+| 2026-08-24 | 67/14 | Návrh zákona, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů, a další související zákony, zamítnutý Senátem | [t0067140000.md](t0067140000.md) |
 
 ## Files
 
@@ -53,5 +54,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0067110000.md](t0067110000.md) | 67/11 | Text | [t0067110000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270094) | pymupdf / pdftotext 1.0000 |
 | [t0067120000.md](t0067120000.md) | 67/12 | Text | [t0067120000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277333) | pymupdf / pdftotext 1.0000 |
 | [t0067130000.md](t0067130000.md) | 67/13 | Text | [t0067130000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277794) | pymupdf / pdftotext 1.0000 |
+| [t0067140000.md](t0067140000.md) | 67/14 | Text | [t0067140000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279112) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
