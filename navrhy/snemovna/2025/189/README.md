@@ -25,6 +25,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-07-07 | 189/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o evidenci tržeb a o změně některých dalších zákonů | [t018903.md](t018903.md) |
 | 2026-07-10 | 189/4 | Usnesení garančního výboru č. 123 ze dne 10. července 2026 k vládnímu návrhu zákona o evidenci tržeb a o změně některých dalších zákonů | [t018904.md](t018904.md) |
 | 2026-08-24 | 189/5 | Návrh zákona o evidenci tržeb a o změně některých dalších zákonů, vrácený Senátem | [t018905.md](t018905.md) |
+| 2026-08-24 | 189/6 | Usnesení Senátu k návrhu zákona o evidenci tržeb a o změně některých dalších zákonů | [t018906.md](t018906.md) |
 
 ## Files
 
@@ -41,5 +42,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t018903.md](t018903.md) | 189/3 | Text | [t018903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278101) | pymupdf / pdftotext 1.0000 |
 | [t018904.md](t018904.md) | 189/4 | Text | [t018904.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278367) | pymupdf / pdftotext 1.0000 |
 | [t018905.md](t018905.md) | 189/5 | Text | [t018905.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279106) | pymupdf / pdftotext 1.0000 |
+| [t018906.md](t018906.md) | 189/6 | Text | [t018906.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279109) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
