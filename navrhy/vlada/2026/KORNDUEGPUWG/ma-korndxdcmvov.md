@@ -1,0 +1,33 @@
+---
+material: "KORNDUEGPUWG"
+dokument: "Materiál"
+soubor: "177800_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDXDCMVOV/"
+den: "2026-08-28"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+VYHLÁŠKA
+
+ze dne …
+
+o vydání bankovek po 5 000 Kč vzoru 2023 s přítiskem
+
+Česká národní banka stanoví podle § 22 odst. 1 písm. a) zákona č. 6/1993 Sb., o České národní bance, ve znění zákona č. 442/2000 Sb. a zákona č. 89/2018 Sb.:
+
+§ 1
+
+Dnem 22. září 2026 se vydávají bankovky po 5 000 Kč vzoru 2023 s přítiskem (dále jen „bankovka“).
+
+§ 2
+
+(1) Bankovka má stejné parametry jako bankovka po 5 000 Kč vzoru 2023.
+
+(2) Bankovka má na kuponu na lícní straně přítisk spočívající v horkou ražbou aplikované fólii s nanoefekty. Fólie s nanoefekty má stříbrné metalické provedení s přechodem do jiných barevných odstínů v závislosti na úhlu pohledu a dopadu světla. Hlavním motivem nanoefektů je slavnostní logo ČNB k 100. výročí zahájení činnosti Národní banky Československé, které obsahuje texty "ČNB", "ČESKÁ NÁRODNÍ BANKA", "100", "2026", "1926" a "NBČ" v negativním provedení. V pravé části fólie s nanoefekty je portrét Tomáše Garrigua Masaryka v tříčtvrtečním profilu zleva a QR kód.
+
+§ 3
+
+Tato vyhláška nabývá účinnosti dnem 22. září 2026.
