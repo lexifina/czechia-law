@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-17 | 227/0 | Zpráva a jiné | [t022700.md](t022700.md) |
+| 2026-09-03 | 227/1 | Usnesení rozpočtového výboru č. 130 ze dne 2. září 2026 ke zprávě o výkonu dohledu nad finančním trhem v roce 2025 | [t022701.md](t022701.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t022700.md](t022700.md) | 227/0 | Text | [t022700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277271) | pymupdf / pdftotext 0.9998 |
+| [t022701.md](t022701.md) | 227/1 | Text | [t022701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279268) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
