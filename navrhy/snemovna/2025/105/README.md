@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-02-11 | 105/0 | Mezinárodní smlouva | [t010500.md](t010500.md), [t0105a0.md](t0105a0.md) |
+| 2026-09-03 | 105/1 | Usnesení zahraničního výboru č. 31 ze dne 2. září 2026 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Smlouva mezi Českou republikou a Keňskou republikou o zamezení dvojímu zdanění v oboru daní z příjmu a o zabránění daňovému úniku a vyhýbání se daňové povinnosti, která byla podepsána v Nairobi dne 23. září 2025 | [t010501.md](t010501.md) |
 
 ## Files
 
@@ -27,6 +28,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t010500.md](t010500.md) | 105/0 | Návrh usnesení Poslanecké sněmovny | [t010500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267541) | pymupdf / pdftotext 1.0000 |
 | [t0105a0.md](t0105a0.md) | 105/0 | Důvodová zpráva | [t0105a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267543) | pymupdf / pdftotext 1.0000 |
+| [t010501.md](t010501.md) | 105/1 | Text | [t010501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279295) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
