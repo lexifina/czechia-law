@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-02-18 | 114/0 | Vládní návrh zákona | [t011400.md](t011400.md), [t0114a0.md](t0114a0.md), [t0114b0.md](t0114b0.md) |
+| 2026-09-03 | 114/1 | Usnesení rozpočtového výboru č. 135 ze dne 2. září 2026 k vládnímu návrhu zákona o některých pravidlech pro mechanismus uhlíkového vyrovnání na hranicích | [t011401.md](t011401.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t011400.md](t011400.md) | 114/0 | Návrh zákona včetně důvodové zprávy | [t011400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267658) | pymupdf / pdftotext 1.0000 |
 | [t0114a0.md](t0114a0.md) | 114/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0114a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267660) | pymupdf / pdftotext 1.0000 |
 | [t0114b0.md](t0114b0.md) | 114/0 | Kompatibilita s právem EU | [t0114b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=267662) | pymupdf / pdftotext 1.0000 |
+| [t011401.md](t011401.md) | 114/1 | Text | [t011401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279279) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
