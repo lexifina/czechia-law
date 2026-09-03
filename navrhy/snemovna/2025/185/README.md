@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-05-06 | 185/0 | Mezinárodní smlouva | [t018500.md](t018500.md), [t0185a0.md](t0185a0.md), [t0185b0.md](t0185b0.md), [t0185c0.md](t0185c0.md) |
+| 2026-09-03 | 185/1 | Usnesení zahraničního výboru č. 35 ze dne 2. září 2026 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Smlouva mezi Českou republikou a Spolkovou republikou Německo o společných státních hranicích, podepsaná dne 12. března 2025 v Berlíně | [t018501.md](t018501.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0185a0.md](t0185a0.md) | 185/0 | Důvodová zpráva | [t0185a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270020) | pymupdf / pdftotext 1.0000 |
 | [t0185b0.md](t0185b0.md) | 185/0 | Text v českém jazyce | [t0185b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270022) | tesseract-ces / tesseract-cesbest 0.9994 |
 | [t0185c0.md](t0185c0.md) | 185/0 | Další | [t0185c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270024) | pymupdf / pdftotext 1.0000 |
+| [t018501.md](t018501.md) | 185/1 | Text | [t018501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279307) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
