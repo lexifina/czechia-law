@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-05-15 | 197/0 | Mezinárodní smlouva | [t019700.md](t019700.md), [t0197a0.md](t0197a0.md), [t0197b0.md](t0197b0.md), [t0197c0.md](t0197c0.md), [t0197d0.md](t0197d0.md), [t0197e0.md](t0197e0.md) |
+| 2026-09-03 | 197/1 | Usnesení zahraničního výboru č. 32 ze dne 2. září 2026 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Smlouva mezi Českou republikou a Maltskou republikou o zamezení dvojímu zdanění v oboru daní z příjmu a z majetku a o zabránění daňovému úniku a vyhýbání se daňové povinnosti, která byla podepsána v Římě dne 24. září 2025 | [t019701.md](t019701.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0197c0.md](t0197c0.md) | 197/0 | Text v českém jazyce | [t0197c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270369) | tesseract-ces / tesseract-cesbest 0.9999 |
 | [t0197d0.md](t0197d0.md) | 197/0 | Text v jiném jazyce | [t0197d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270371) | pymupdf / pdftotext 1.0000 |
 | [t0197e0.md](t0197e0.md) | 197/0 | Text v jiném jazyce | [t0197e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270373) | tesseract-ces / tesseract-cesbest 1.0000 |
+| [t019701.md](t019701.md) | 197/1 | Text | [t019701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279298) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
