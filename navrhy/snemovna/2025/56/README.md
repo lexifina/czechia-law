@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-02 | 56/1 | Usnesení hospodářského výboru č. 48 ze dne 2. dubna 2026 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o opatřeních ke snížení nákladů na zavádění sítí elektronických komunikací s velmi vysokou kapacitou | [t005601.md](t005601.md) |
 | 2026-05-15 | 56/2 | Usnesení hospodářského výboru č. 73 ze dne 14. května 2026 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o opatřeních ke snížení nákladů na zavádění sítí elektronických komunikací s velmi vysokou kapacitou | [t005602.md](t005602.md) |
 | 2026-06-25 | 56/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o opatřeních ke snížení nákladů na zavádění sítí elektronických komunikací s velmi vysokou kapacitou | [t005603.md](t005603.md) |
+| 2026-09-04 | 56/4 | Usnesení garančního výboru č. 93 ze dne 3. září 2026 k vládnímu návrhu zákona, kterým se mění některé zákony v souvislosti s přijetím zákona o opatřeních ke snížení nákladů na zavádění sítí elektronických komunikací s velmi vysokou kapacitou | [t005604.md](t005604.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t005601.md](t005601.md) | 56/1 | Text | [t005601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268982) | pymupdf / pdftotext 1.0000 |
 | [t005602.md](t005602.md) | 56/2 | Text | [t005602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270345) | pymupdf / pdftotext 1.0000 |
 | [t005603.md](t005603.md) | 56/3 | Text | [t005603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277638) | pymupdf / pdftotext 1.0000 |
+| [t005604.md](t005604.md) | 56/4 | Text | [t005604.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279360) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
