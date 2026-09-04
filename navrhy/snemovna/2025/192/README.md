@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-05-13 | 192/0 | Vládní návrh zákona | [t019200.md](t019200.md), [t0192a0.md](t0192a0.md), [t0192b0.md](t0192b0.md), [t0192c0.md](t0192c0.md), [t0192d0.md](t0192d0.md), [t0192e0.md](t0192e0.md) |
 | 2026-07-03 | 192/1 | Usnesení výboru pro mediální záležitosti č. 67 ze dne 3. července 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 257/2001 Sb., o knihovnách a podmínkách provozování veřejných knihovnických a informačních služeb (knihovní zákon), ve znění pozdějších předpisů, zákon č. 37/1995 Sb., o neperiodických publikacích, ve znění pozdějších předpisů, a zákon č. 46/2000 Sb., o právech a povinnostech při vydávání periodického tisku a o změně některých dalších zákonů (tiskový zákon), ve znění pozdějších předpisů | [t019201.md](t019201.md) |
+| 2026-09-04 | 192/2 | Usnesení výboru pro mediální záležitosti č. 69 ze dne 3. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 257/2001 Sb., o knihovnách a podmínkách provozování veřejných knihovnických a informačních služeb (knihovní zákon), ve znění pozdějších předpisů, zákon č. 37/1995 Sb., o neperiodických publikacích, ve znění pozdějších předpisů, a zákon č. 46/2000 Sb., o právech a povinnostech při vydávání periodického tisku a o změně některých dalších zákonů (tiskový zákon), ve znění pozdějších předpisů | [t019202.md](t019202.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0192d0.md](t0192d0.md) | 192/0 | Kompatibilita s právem EU | [t0192d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270245) | pymupdf / pdftotext 1.0000 |
 | [t0192e0.md](t0192e0.md) | 192/0 | Další | [t0192e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270247) | pymupdf / pdftotext 1.0000 |
 | [t019201.md](t019201.md) | 192/1 | Text | [t019201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277970) | pymupdf / pdftotext 1.0000 |
+| [t019202.md](t019202.md) | 192/2 | Text | [t019202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279392) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
