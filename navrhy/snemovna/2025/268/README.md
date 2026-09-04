@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-07-27 | 268/0 | Zpráva a jiné | [t026800.md](t026800.md), [t0268a0.md](t0268a0.md) |
+| 2026-09-04 | 268/1 | Usnesení výboru pro mediální záležitosti č. 71 ze dne 3. září 2026 k výroční zprávě a účetní závěrce Státního fondu audiovize za rok 2025 | [t026801.md](t026801.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t026800.md](t026800.md) | 268/0 | Návrh usnesení Poslanecké sněmovny | [t026800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278751) | pymupdf / pdftotext 1.0000 |
 | [t0268a0.md](t0268a0.md) | 268/0 | Text | [t0268a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278753) | pymupdf / pdftotext 0.9992 |
+| [t026801.md](t026801.md) | 268/1 | Text | [t026801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279395) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
