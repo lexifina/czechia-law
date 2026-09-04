@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-17 | 53/1 | Usnesení hospodářského výboru č. 46 ze dne 2. dubna k vládnímu návrhu zákona, kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, a zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů | [t005301.md](t005301.md) |
 | 2026-05-18 | 53/2 | Usnesení hospodářského výboru č. 71 ze dne 14. května 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, a zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů | [t005302.md](t005302.md) |
 | 2026-06-26 | 53/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, a zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů | [t005303.md](t005303.md) |
+| 2026-09-04 | 53/4 | Usnesení garančního výboru č. 95 ze dne 3. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 634/1992 Sb., o ochraně spotřebitele, ve znění pozdějších předpisů, a zákon č. 89/2012 Sb., občanský zákoník, ve znění pozdějších předpisů | [t005304.md](t005304.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t005301.md](t005301.md) | 53/1 | Text | [t005301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269470) | pymupdf / pdftotext 1.0000 |
 | [t005302.md](t005302.md) | 53/2 | Text | [t005302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=270388) | pymupdf / pdftotext 1.0000 |
 | [t005303.md](t005303.md) | 53/3 | Text | [t005303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277723) | pymupdf / pdftotext 1.0000 |
+| [t005304.md](t005304.md) | 53/4 | Text | [t005304.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279375) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
