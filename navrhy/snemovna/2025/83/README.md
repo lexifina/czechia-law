@@ -22,6 +22,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-02 | 83/2 | Usnesení hospodářského výboru č. 45 ze dne 2. dubna 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t008302.md](t008302.md) |
 | 2026-04-07 | 83/3 | Usnesení výboru pro veřejnou správu a regionální rozvoj č. 25 ze dne 2. dubna 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t008303.md](t008303.md) |
 | 2026-06-25 | 83/4 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t008304.md](t008304.md) |
+| 2026-09-04 | 83/5 | Usnesení garančního výboru č. 97 ze dne 3. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů, a další související zákony | [t008305.md](t008305.md) |
 
 ## Files
 
@@ -37,5 +38,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t008302.md](t008302.md) | 83/2 | Text | [t008302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268976) | pymupdf / pdftotext 1.0000 |
 | [t008303.md](t008303.md) | 83/3 | Text | [t008303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269025) | pymupdf / pdftotext 1.0000 |
 | [t008304.md](t008304.md) | 83/4 | Text | [t008304.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277632) | pymupdf / pdftotext 1.0000 |
+| [t008305.md](t008305.md) | 83/5 | Text | [t008305.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279369) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
