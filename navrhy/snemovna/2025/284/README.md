@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-08-19 | 284/0 | Návrh zákona | [t028400.md](t028400.md), [t0284a0.md](t0284a0.md) |
+| 2026-09-15 | 284/1 | Stanovisko vlády k návrhu poslanců Karla Havlíčka a Romana Kubíčka na vydání zákona, kterým se mění zákon č. 328/2025 Sb., o výzkumu, vývoji, inovacích a transferu znalostí, a zákon č. 329/2025 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o výzkumu, vývoji, inovacích a transferu znalostí | [t028401.md](t028401.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t028400.md](t028400.md) | 284/0 | Návrh zákona včetně důvodové zprávy | [t028400.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279074) | pymupdf / pdftotext 1.0000 |
 | [t0284a0.md](t0284a0.md) | 284/0 | Platné znění s vyznačením změn | [t0284a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279076) | pymupdf / pdftotext 1.0000 |
+| [t028401.md](t028401.md) | 284/1 | Stanovisko | [t028401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279847) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
