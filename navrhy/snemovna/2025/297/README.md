@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-04 | 297/0 | Návrh zákona | [t029700.md](t029700.md), [t0297a0.md](t0297a0.md) |
+| 2026-09-15 | 297/1 | Stanovisko vlády k návrhu poslanců Andreje Babiše, Borise Šťastného, Petra Macinky, Tomia Okamury, Radima Fialy a Taťány Malé na vydání zákona, kterým se mění zákon č. 273/2008 Sb., o Policii České republiky, ve znění pozdějších předpisů | [t029701.md](t029701.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t029700.md](t029700.md) | 297/0 | Návrh zákona včetně důvodové zprávy | [t029700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279387) | pymupdf / pdftotext 1.0000 |
 | [t0297a0.md](t0297a0.md) | 297/0 | Platné znění s vyznačením změn | [t0297a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279389) | pymupdf / pdftotext 1.0000 |
+| [t029701.md](t029701.md) | 297/1 | Stanovisko | [t029701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279844) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
