@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-28 | 179/0 | Zpráva a jiné | [t017900.md](t017900.md), [t0179a0.md](t0179a0.md), [t0179b0.md](t0179b0.md), [t0179c0.md](t0179c0.md), [t0179d0.md](t0179d0.md), [t0179e0.md](t0179e0.md), [t0179f0.md](t0179f0.md), [t0179g0.md](t0179g0.md), [t0179h0.md](t0179h0.md) |
 | 2026-06-12 | 179/1 | Usnesení rozpočtového výboru č. 110 ze dne 10. června 2026 k návrhu státního závěrečného účtu České republiky za rok 2025 | [t017901.md](t017901.md) |
 | 2026-09-03 | 179/2 | Stanovisko Nejvyššího kontrolního úřadu k návrhu státního závěrečného účtu České republiky za rok 2025 | [t017902.md](t017902.md) |
+| 2026-09-16 | 179/3 | Usnesení kontrolního výboru č. 62 ze dne 16. září 2026 ke stanovisku Nejvyššího kontrolního úřadu k návrhu státního závěrečného účtu České republiky za rok 2025 | [t017903.md](t017903.md) |
 
 ## Files
 
@@ -38,5 +39,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0179h0.md](t0179h0.md) | 179/0 | Další | [t0179h0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269741) | pymupdf / pdftotext 1.0000 |
 | [t017901.md](t017901.md) | 179/1 | Text | [t017901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271711) | pymupdf / pdftotext 1.0000 |
 | [t017902.md](t017902.md) | 179/2 | Stanovisko | [t017902.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279289) | pymupdf / pdftotext 1.0000 |
+| [t017903.md](t017903.md) | 179/3 | Text | [t017903.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279964) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
