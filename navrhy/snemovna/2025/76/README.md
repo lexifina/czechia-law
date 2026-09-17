@@ -28,6 +28,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-08-24 | 76/6 | Návrh zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích), zamítnutý Senátem | [t007606.md](t007606.md) |
 | 2026-08-24 | 76/7 | Usnesení Senátu k návrhu zákona o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) | [t007607.md](t007607.md) |
 | 2026-09-17 | 76/8 | Zákon o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích), vrácený prezidentem republiky | [t007608.md](t007608.md) |
+| 2026-09-17 | 76/9 | Stanovisko prezidenta k zákonu o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích) |  |
 
 ## Files
 
@@ -44,5 +45,11 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t007606.md](t007606.md) | 76/6 | Text | [t007606.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279094) | pymupdf / pdftotext 1.0000 |
 | [t007607.md](t007607.md) | 76/7 | Text | [t007607.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279097) | pymupdf / pdftotext 1.0000 |
 | [t007608.md](t007608.md) | 76/8 | Text | [t007608.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279998) | pymupdf / pdftotext 1.0000 |
+
+## Not held as text
+
+| Print | Document | Official file | Why |
+| --- | --- | --- | --- |
+| 76/9 | Text | [t007609.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280004) | scanned, no text layer (OCR pending) |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
