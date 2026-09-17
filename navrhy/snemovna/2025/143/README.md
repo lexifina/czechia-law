@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-03-25 | 143/0 | Vládní návrh zákona | [t014300.md](t014300.md), [t0143a0.md](t0143a0.md), [t0143b0.md](t0143b0.md), [t0143c0.md](t0143c0.md) |
 | 2026-09-03 | 143/1 | Usnesení rozpočtového výboru č. 137 ze dne 2. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony | [t014301.md](t014301.md) |
+| 2026-09-17 | 143/2 | Usnesení rozpočtového výboru č. 148 ze dne 16. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony | [t014302.md](t014302.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0143b0.md](t0143b0.md) | 143/0 | Platné znění s vyznačením změn | [t0143b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268785) | pymupdf / pdftotext 1.0000 |
 | [t0143c0.md](t0143c0.md) | 143/0 | Kompatibilita s právem EU | [t0143c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268787) | pymupdf / pdftotext 1.0000 |
 | [t014301.md](t014301.md) | 143/1 | Text | [t014301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279285) | pymupdf / pdftotext 1.0000 |
+| [t014302.md](t014302.md) | 143/2 | Text | [t014302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280036) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
