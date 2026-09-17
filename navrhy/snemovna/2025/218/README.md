@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-06-05 | 218/0 | Vládní návrh zákona | [t021800.md](t021800.md), [t0218a0.md](t0218a0.md), [t0218b0.md](t0218b0.md) |
 | 2026-09-03 | 218/1 | Usnesení rozpočtového výboru č. 136 ze dne 2. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů | [t021801.md](t021801.md) |
+| 2026-09-17 | 218/2 | Usnesení rozpočtového výboru č. 145 ze dne 16. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů | [t021802.md](t021802.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0218a0.md](t0218a0.md) | 218/0 | Platné znění s vyznačením změn | [t0218a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271426) | pymupdf / pdftotext 1.0000 |
 | [t0218b0.md](t0218b0.md) | 218/0 | Kompatibilita s právem EU | [t0218b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271428) | pymupdf / pdftotext 1.0000 |
 | [t021801.md](t021801.md) | 218/1 | Text | [t021801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279282) | pymupdf / pdftotext 1.0000 |
+| [t021802.md](t021802.md) | 218/2 | Text | [t021802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280026) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
