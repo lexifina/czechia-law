@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-07-17 | 262/0 | Zpráva a jiné | [t026200.md](t026200.md) |
+| 2026-09-17 | 262/1 | Usnesení rozpočtového výboru č. 142 ze dne 16. září 2026 ke zprávě o finanční stabilitě - jaro 2026 | [t026201.md](t026201.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t026200.md](t026200.md) | 262/0 | Text | [t026200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278434) | pymupdf / pdftotext 0.9994 |
+| [t026201.md](t026201.md) | 262/1 | Text | [t026201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280016) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
