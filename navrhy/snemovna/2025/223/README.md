@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-11 | 223/0 | Zpráva a jiné | [t022300.md](t022300.md), [t0223a0.md](t0223a0.md), [t0223b0.md](t0223b0.md), [t0223c0.md](t0223c0.md), [t0223d0.md](t0223d0.md), [t0223e0.md](t0223e0.md) |
+| 2026-09-17 | 223/1 | Usnesení výboru pro obranu č. 58 ze dne 15. září 2026 k 1. doplňku k účasti ozbrojených sil České republiky na vojenských cvičeních mimo území České republiky a účasti ozbrojených sil jiných států na vojenských cvičeních na území České republiky v roce 2026 | [t022301.md](t022301.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0223c0.md](t0223c0.md) | 223/0 | Další | [t0223c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271609) | pymupdf / pdftotext 1.0000 |
 | [t0223d0.md](t0223d0.md) | 223/0 | Další | [t0223d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271611) | pymupdf / pdftotext 1.0000 |
 | [t0223e0.md](t0223e0.md) | 223/0 | Další | [t0223e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271613) | pymupdf / pdftotext 1.0000 |
+| [t022301.md](t022301.md) | 223/1 | Text | [t022301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279981) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
