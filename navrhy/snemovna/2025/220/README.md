@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-05 | 220/0 | Zpráva a jiné | [t022000.md](t022000.md), [t0220a0.md](t0220a0.md) |
+| 2026-09-17 | 220/1 | Usnesení výboru pro obranu č. 57 ze dne 15. září 2026 k informaci o nasazení sil a prostředků rezortu Ministerstva obrany v zahraničních operacích a o pobytu ozbrojených sil jiných států na území České republiky v roce 2025 | [t022001.md](t022001.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t022000.md](t022000.md) | 220/0 | Návrh usnesení Poslanecké sněmovny | [t022000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271440) | pymupdf / pdftotext 1.0000 |
 | [t0220a0.md](t0220a0.md) | 220/0 | Text | [t0220a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271442) | pymupdf / pdftotext 1.0000 |
+| [t022001.md](t022001.md) | 220/1 | Text | [t022001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279984) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
