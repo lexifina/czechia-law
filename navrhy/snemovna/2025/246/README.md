@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-06-30 | 246/0 | Vládní návrh zákona | [t024600.md](t024600.md), [t0246a0.md](t0246a0.md), [t0246b0.md](t0246b0.md), [t0246c0.md](t0246c0.md) |
 | 2026-09-04 | 246/1 | Usnesení hospodářského výboru č. 98 ze dne 3. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů | [t024601.md](t024601.md) |
 | 2026-09-11 | 246/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů | [t024602.md](t024602.md) |
+| 2026-09-18 | 246/3 | Usnesení garančního výboru č. 102 ze dne 17. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů | [t024603.md](t024603.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0246c0.md](t0246c0.md) | 246/0 | Kompatibilita s právem EU | [t0246c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277821) | pymupdf / pdftotext 1.0000 |
 | [t024601.md](t024601.md) | 246/1 | Text | [t024601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279372) | pymupdf / pdftotext 1.0000 |
 | [t024602.md](t024602.md) | 246/2 | Text | [t024602.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279683) | pymupdf / pdftotext 1.0000 |
+| [t024603.md](t024603.md) | 246/3 | Text | [t024603.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280063) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
