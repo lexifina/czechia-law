@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-06-19 | 230/0 | Zpráva a jiné | [t023000.md](t023000.md), [t0230a0.md](t0230a0.md) |
+| 2026-09-18 | 230/1 | Usnesení hospodářského výboru č. 103 ze dne 17. září 2026 k výroční zprávě o činnosti a účetní závěrce Státního fondu dopravní infrastruktury za rok 2025 | [t023001.md](t023001.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t023000.md](t023000.md) | 230/0 | Text | [t023000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277411) | pymupdf / pdftotext 1.0000 |
 | [t0230a0.md](t0230a0.md) | 230/0 | Text | [t0230a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277412) | pymupdf / pdftotext 1.0000 |
+| [t023001.md](t023001.md) | 230/1 | Text | [t023001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280066) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
