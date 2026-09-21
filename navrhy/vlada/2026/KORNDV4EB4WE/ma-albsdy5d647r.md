@@ -1,0 +1,99 @@
+---
+material: "KORNDV4EB4WE"
+dokument: "Materiál"
+soubor: "NV-eklep-26-09-15-podpis.pdf"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDY5D647R/"
+den: "2026-09-21"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+1
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 14. září 2026,
+
+kterým se mění nařízení vlády č. 127/1995 Sb., o prohlášení území ucelených částí vybraných měst a obcí s dochovanými soubory lidové architektury za
+
+památkové rezervace
+
+Vláda nařizuje podle § 5 odst. 1 zákona č. 20/1987 Sb., o státní památkové péči, ve znění zákona č. 132/2000 Sb.:
+
+Čl. I
+
+Nařízení vlády č. 127/1995 Sb., o prohlášení území ucelených částí vybraných měst a obcí s dochovanými soubory lidové architektury za památkové rezervace, se mění takto: 1. V § 1 se slovo „Holašovice“ nahrazuje slovy „Jankov-Holašovice“. 2. V § 2 se za slovo „příloze“ vkládá text „č. 1“. 3. Za § 3 se vkládá nový § 3a, který včetně nadpisu zní:
+
+„§ 3a
+
+Kulturní hodnoty památkové rezervace Holašovice, podmínky zabezpečení její ochrany a hranice jejího území (1) Kulturními hodnotami v památkové rezervaci Holašovice jsou zejména hodnoty
+
+urbanistické, architektonické, archeologické, technické, estetické a historické, které dokládají sídelní, stavební a kulturní vývoj vesnice a vytvářejí její jedinečné sídelní prostředí.
+
+(2) Pro zabezpečení ochrany památkové rezervace Holašovice, jejích kulturních hodnot a
+
+prostředí tvořeného dochovanou návesní urbanistickou strukturou, pravidelným uspořádáním usedlostí, regionální lidovou architekturou s historickými konstrukcemi a výzdobou štítových průčelí, uspořádáním pozemků, veřejnými prostranstvími, pozemními komunikacemi, vodními plochami, přírodními a přírodě blízkými prvky a dochovanými archeologickými situacemi, se stanovují tyto podmínky:
+
+a) při pořizování územně plánovací dokumentace musí být respektována
+
+historická urbanistická struktura s dochovaným prostorovým a funkčním uspořádáním území včetně nezastavěných pozemků, komunikační síť, míra zastavění a výšková hladina zástavby; při rozhodování o případném doplňování zástavby musí být respektován historický půdorys zaniklých objektů, urbanistický vývoj sídla a posouzeny dopady na stávající kulturní hodnoty památkové rezervace i riziko narušení dálkových a panoramatických pohledů,
+
+2
+
+b) při rozhodování o změnách území a stávající zástavby musí být respektováno
+
+venkovské prostředí a kulturní hodnoty památkové rezervace, především charakter, měřítko, hmotová skladba a proporce historické zástavby, přičemž zachovány musí být pohledy a panorama sídla bez narušení novými výškovými nebo plošnými dominantami, c) při rozhodování o změnách dokončených staveb a zařízení a terénních
+
+úpravách musí být respektována urbanistická struktura území v dochovaném funkčním, půdorysném a prostorovém uspořádání, dále rovněž archeologické situace a kompoziční vztahy včetně vazeb památkové rezervace na krajinu, d) při rozhodování o umístění staveb a zařízení technické infrastruktury,
+
+mobiliáře, informačních a reklamních zařízení musí být respektovány hodnoty venkovského prostředí i jednotlivých kulturních památek a hodnotných staveb, zejména architektonický výraz staveb, střešní krajina i charakter veřejných prostranství, e) při rozhodování o úpravě staveb, pozemků, veřejných prostranství,
+
+komunikací, vodních ploch, zeleně a dřevin i umísťování nových zařízení musí být respektovány kulturní hodnoty památkové rezervace, využití pozemků a staveb musí směřovat k funkčnímu, technickému, estetickému a společenskému zhodnocení prostředí památkové rezervace se zachováním nezastavěných ploch ve stabilizovaném způsobu využití a s tradičními vegetačními úpravami, f) při rozhodování o dokumentaci staveb včetně podzemních prostor a využívání
+
+historických staveb a souvisejících pozemků musí být respektován soulad s kulturními hodnotami památkové rezervace a technickými možnostmi dotčených staveb a pozemků; při rozhodování o obnově kulturních památek a hodnotných staveb musí být upřednostněny tradiční materiály a řemeslné postupy a nesmí dojít k negativním estetickým, konstrukčním a technickým zásahům.
+
+(3) Hranice území památkové rezervace Holašovice je orientačně graficky vyznačena na
+
+mapě uvedené v příloze č. 2 k tomuto nařízení.“. 4. V příloze se slovo „HOLAŠOVICE“ nahrazuje slovy „JANKOV-HOLAŠOVICE“ a slova „v
+
+Holašovicích vymezuje hranice, která začíná na severu u p. č. 3018, pokračuje podél p. č. 3017, 3026, 3020/6, 3027, přetíná silnici na Záboří a sleduje ji k p. č. 3056/1, na východě přetíná silnici p. č. 4072/1 a pokračuje podél p. č. 3051/1, 3052/2, 3066/1, 3073, 3074/1, 3079/1, 3080/1, 3085/1, 3091, 3089, na jihu podél p. č. 3093, 4069/2, přes silnici 4082/3, podél p. č. 2993/1, 79, na západě obíhá p. č. 2983/1, 2996/1, 2998/1, 3003, 3004, 3008, 3010/1, 3014 k výchozímu bodu.“ nahrazují slovy „Holašovice v Jankově vymezuje hranice, která začíná v severozápadním cípu p. č. 4072/26 v k. ú. Holašovice. Odtud dále pokračuje po směru hodinových ručiček po hranici p. č. 4072/26, 3028/5, 3028/1, 3028/6 až k jejímu nejvýchodnějšímu cípu, odkud šikmo přechází p. č. 3030/1 na nejsevernější cíp p. č. 3031/3 a dále pokračuje východním směrem po hranicích p. č. 3031/3, 3031/1 až narazí na p. č. 4070/1, kterou ve stejném směru protíná a pokračuje východním směrem po hranici p. č. 4072/26 až k jihozápadnímu cípu vnější parcely p. č. 4072/11, odkud šikmo přechází p. č. 4072/26 na nejvýchodnější cíp p. č. 3055/4. Odtud pokračuje k jihu po hranici p. č. 3055/4, 3072/6, 3070/3, 3071, 3072/7, 3075, 3072/5, 3072/3, 3085/1, 3091, 3089/1, 3089/2, 3093, 4069/3 až k
+
+3
+
+nejzápadnějšímu cípu této parcely, kde pokračuje jižním směrem po p. č. 4074/1. V blízkosti západního cípu vnější p. č. 3225/14 hranice pokračuje kolmo přetnutím p. č. 4074/1, 3094 až k bodu styku p. č. 2993/1, 3094 a 2990/1. Odtud pokračuje dále západním směrem po hranici p. č. 2993/1, 2983/12, 2983/4, 2983/1 až k jejímu nejzápadnějšímu cípu, odkud šikmo přechází p. č. 4462 k bodu styku p. č. 4457, 4458 a 4462, odtud pokračuje na sever po p. č. 4462 až k nejvýchodnějšímu lomovému bodu vnější p. č. 4460, kde přechází p. č. 4462 na nejzápadnější cíp p. č. 2981/4. Dál směřuje na sever podél p. č. 2981/4, 2981/5, 3020/9, 3020/10, 2981/17, odtud pokračuje východním směrem po p. č. 3020/7, 3020/8, 3020/11 až k nejvýchodnějšímu cípu této parcely, kde přechází p. č. 2981/9 a vrací se do výchozího bodu. Poznámka: Označení hranice území památkové rezervace a její rozsah vychází z právního stavu ke dni 25. března 2026.“. 5. Dosavadní příloha se označuje jako příloha č. 1 a doplňuje se příloha č. 2, která zní:
+
+„Příloha č. 2 k nařízení vlády č. 127/1995 Sb. Orientační grafické vyznačení hranice území památkové
+
+rezervace Holašovice
+
+4
+
+“.
+
+5
+
+Čl. II
+
+Přechodné ustanovení
+
+Pro řízení podle zákona č. 20/1987 Sb., o státní památkové péči, ve znění pozdějších předpisů, zahájená přede dnem nabytí účinnosti tohoto nařízení a do tohoto dne pravomocně neskončená, se podmínky podle § 3a odst. 2 nařízení vlády č. 127/1995 Sb., ve znění účinném ode dne nabytí účinnosti tohoto nařízení, nepoužijí.
+
+Čl. III
+
+Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2027.
+
+Předseda vlády:
+
+Ing. Babiš podepsáno elektronicky
+
+Ministr kultury:
+
+Klempíř podepsáno elektronicky
+
+Elektronický podpis: 21.9.2026 Certifikát autora podpisu: Jméno: Oto Klempíř
+
+Vydal: PostSignum Qualified CA 4
+
+Platnost do: 12.1.2027 10:08 +01:00
