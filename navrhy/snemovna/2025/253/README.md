@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-07-07 | 253/0 | Zpráva a jiné | [t025300.md](t025300.md) |
 | 2026-09-17 | 253/1 | Usnesení rozpočtového výboru č. 144 ze dne 16. září 2026 k informaci o pojišťování vývozu se státní podporou v roce 2025 | [t025301.md](t025301.md) |
+| 2026-09-22 | 253/2 | Usnesení hospodářského výboru č. 106 ze dne 17. září 2026 k informaci o pojišťování vývozu se státní podporou v roce 2025 | [t025302.md](t025302.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t025300.md](t025300.md) | 253/0 | Text | [t025300.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278080) | pymupdf / pdftotext 0.9996 |
 | [t025301.md](t025301.md) | 253/1 | Text | [t025301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280023) | pymupdf / pdftotext 1.0000 |
+| [t025302.md](t025302.md) | 253/2 | Text | [t025302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280224) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
