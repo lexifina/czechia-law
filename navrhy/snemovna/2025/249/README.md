@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-07-02 | 249/0 | Zpráva a jiné | [t024900.md](t024900.md) |
 | 2026-09-17 | 249/1 | Usnesení rozpočtového výboru č. 143 ze dne 16. září 2026 k informaci o podpořeném financování za rok 2025 | [t024901.md](t024901.md) |
+| 2026-09-22 | 249/2 | Usnesení hospodářského výboru č. 105 ze dne 17. září 2026 k informaci o podpořeném financování za rok 2025 | [t024902.md](t024902.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t024900.md](t024900.md) | 249/0 | Text | [t024900.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277931) | pymupdf / pdftotext 0.9979 |
 | [t024901.md](t024901.md) | 249/1 | Text | [t024901.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280019) | pymupdf / pdftotext 1.0000 |
+| [t024902.md](t024902.md) | 249/2 | Text | [t024902.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280220) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
