@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-22 | 173/0 | Návrh zákona | [t017300.md](t017300.md), [t0173a0.md](t0173a0.md) |
 | 2026-05-05 | 173/1 | Stanovisko vlády k návrhu poslanců Andreje Babiše, Tomia Okamury, Lucie Šafránkové, Petra Macinky, Borise Šťastného, Taťány Malé, Radima Fialy, Renaty Vesecké a Jany Hanzlíkové na vydání zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů | [t017301.md](t017301.md) |
 | 2026-09-03 | 173/2 | Usnesení ústavně-právního výboru č. 47 ze dne 2. září 2026 k návrhu poslanců Andreje Babiše, Tomia Okamury, Lucie Šafránkové, Petra Macinky, Borise Šťastného, Taťány Malé, Radima Fialy, Renaty Vesecké a Jany Hanzlíkové na vydání zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů | [t017302.md](t017302.md) |
+| 2026-09-24 | 173/3 | Pozměňovací a jiné návrhy k návrhu poslanců Andreje Babiše, Tomia Okamury, Lucie Šafránkové, Petra Macinky, Borise Šťastného, Taťány Malé, Radima Fialy, Renaty Vesecké a Jany Hanzlíkové na vydání zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů | [t017303.md](t017303.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0173a0.md](t0173a0.md) | 173/0 | Platné znění s vyznačením změn | [t0173a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269589) | pymupdf / pdftotext 1.0000 |
 | [t017301.md](t017301.md) | 173/1 | Stanovisko | [t017301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269944) | pymupdf / pdftotext 1.0000 |
 | [t017302.md](t017302.md) | 173/2 | Text | [t017302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279342) | pymupdf / pdftotext 1.0000 |
+| [t017303.md](t017303.md) | 173/3 | Text | [t017303.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280638) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
