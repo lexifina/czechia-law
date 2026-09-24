@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-06-23 | 235/0 | Vládní návrh zákona | [t023500.md](t023500.md), [t0235a0.md](t0235a0.md) |
 | 2026-09-04 | 235/1 | Usnesení výboru pro zdravotnictví č. 50 ze dne 2. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů | [t023501.md](t023501.md) |
+| 2026-09-24 | 235/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 592/1992 Sb., o pojistném na veřejné zdravotní pojištění, ve znění pozdějších předpisů | [t023502.md](t023502.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t023500.md](t023500.md) | 235/0 | Návrh zákona včetně důvodové zprávy | [t023500.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277513) | pymupdf / pdftotext 1.0000 |
 | [t0235a0.md](t0235a0.md) | 235/0 | Platné znění s vyznačením změn | [t0235a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277515) | pymupdf / pdftotext 1.0000 |
 | [t023501.md](t023501.md) | 235/1 | Text | [t023501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279378) | pymupdf / pdftotext 1.0000 |
+| [t023502.md](t023502.md) | 235/2 | Text | [t023502.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280631) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
