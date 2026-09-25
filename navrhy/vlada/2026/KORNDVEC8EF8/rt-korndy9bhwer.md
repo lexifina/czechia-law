@@ -1,0 +1,71 @@
+---
+material: "KORNDVEC8EF8"
+dokument: "Rozdílová tabulka"
+soubor: "Lex Kratom rozdílová tabulka po vládě.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDY9BHWER/"
+den: "2026-09-25"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+ROZDÍLOVÁ TABULKA NÁVRHU PŘEDPISU ČR S LEGISLATIVOU EU
+
+\1) Změna zákona o potravinách a tabákových výrobcích
+
+Navrhovaný právní předpis Odpovídající předpis EU
+
+Ustanovení Obsah CELEX č. Ustanovení Obsah
+
+§ 2 odst. 2 písm. d) d) bylinným výrobkem určeným ke kouření výrobek, jehož základem jsou rostliny, byliny nebo ovoce, a který neobsahuje žádný tabák, může se užívat prostřednictvím inhalace ústy nebo nosem a jeho užívání zahrnuje jeho postupné spalování nebo zahřívání, 32014L0040 Čl. 2 bod 15) 15) „bylinným výrobkem určeným ke kouření“ výrobek, jehož základem jsou rostliny, byliny nebo ovoce a který neobsahuje žádný tabák a který se může užívat prostřednictvím spalovacího procesu;
+
+\2) Změna zákona o spotřebních daních
+
+Navrhovaný právní předpis Odpovídající předpis EU
+
+Ustanovení Obsah CELEX č. Ustanovení Obsah
+
+§ 1 odst. 1 písm. a) (1) Tento zákon zapracovává příslušné předpisy Evropské unie1) a upravuje
+
+a) podmínky zdanění vybraných výrobků, zahřívaných tabákových výrobků, ostatních tabákových výrobků, výrobků souvisejících s tabákovými výrobky, a surového tabáku a kratomu spotřebními daněmi,
+
+32020L0262 Čl. 1 odst. 3 písm. a) Členské státy mohou vybírat daně
+
+a) z výrobků jiných než zboží podléhajícího spotřební dani;
+
+b) z poskytnutí služeb, včetně těch, která se týkají zboží podléhajícího spotřební dani, jestliže tyto daně nemají povahu daní z obratu.
+
+Výběr těchto daní však nesmí vést k formalitám při přechodu hranice v obchodu mezi členskými státy.
+
+§ 1 odst. 3 (3) Spotřebními daněmi jsou
+
+a) daň z minerálních olejů,
+
+b) daň z lihu,
+
+c) daň z piva,
+
+d) daň z vína a meziproduktů,
+
+e) daň z tabákových výrobků,
+
+f) daň ze zahřívaných tabákových výrobků,
+
+g) daň z ostatních tabákových výrobků,
+
+h) daň z výrobků souvisejících s tabákovými výrobky a
+
+i) daň ze surového tabáku. a
+
+j) daň z kratomu. 32020L0262 Čl. 1 odst. 3 písm. a) Členské státy mohou vybírat daně
+
+a) z výrobků jiných než zboží podléhajícího spotřební dani;
+
+b) z poskytnutí služeb, včetně těch, která se týkají zboží podléhajícího spotřební dani, jestliže tyto daně nemají povahu daní z obratu.
+
+Výběr těchto daní však nesmí vést k formalitám při přechodu hranice v obchodu mezi členskými státy.
+
+Poř.č. Číslo předpisu EU (kód CELEX) Název předpisu EU
+
+\1. 32014L0040 Směrnice Evropského parlamentu a Rady 2014/40/EU ze dne 3. dubna 2014 o sbližování právních a správních předpisů členských států týkajících se výroby, obchodní úpravy a prodeje tabákových a souvisejících výrobků a o zrušení směrnice 2001/37/ES (přepracované znění)
+
+\2. 32020L0262 Směrnice Rady (EU) 2020/262 ze dne 19. prosince 2019, kterou se stanoví obecná pravidla pro spotřební daně (přepracované znění)
