@@ -1,0 +1,71 @@
+---
+material: "KORNDSNGW4RC"
+dokument: "Materiál"
+soubor: "140698_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDYSB8TRD/"
+den: "2026-10-12"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+VYHLÁŠKA
+
+ze dne 7. října 2026
+
+o požadavcích na formu a způsob tísňové komunikace
+
+Ministerstvo vnitra stanoví podle § 150 odst. 4 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů, (zákon o elektronických komunikacích), ve znění zákona č. 247/2008 Sb. a zákona č. 374/2021 Sb., (dále jen “zákon“) k provedení § 33 odst. 17 zákona:
+
+§ 1
+
+Předmět úpravy
+
+Tato vyhláška stanoví požadavky na formu tísňové komunikace a na další způsoby tísňové komunikace podle § 33 odst. 14 písm. c) zákona.
+
+§ 2
+
+Vymezení pojmu
+
+Pro účely této vyhlášky se textem v reálném čase rozumí forma textové konverzace s okamžitým přenosem znaků mezi dvěma nebo více koncovými body, kdy je zadávaný text přenášen tak, že průměrný uživatel vnímá konverzaci jako plynulou.
+
+§ 3
+
+Další způsoby tísňové komunikace
+
+Dalším způsobem tísňové komunikace je text v reálném čase na
+
+a) jednotné evropské tísňové číslo 112,
+
+b) národní tísňové číslo 150 a
+
+S účinností od: 1. července 2028
+
+c) národní tísňové číslo 158.
+
+Konec účinnostního bloku s účinností od: 1. července 2028
+
+§ 4
+
+Komunikace textem v reálném čase
+
+Text v reálném čase je součástí tísňové komunikace prostřednictvím hlasové komunikační služby.
+
+§ 5
+
+Forma tísňové komunikace
+
+Tísňová komunikace je centrem tísňové komunikace zodpovězena za použití stejných komunikačních prostředků, jakými byla komunikace obdržena.
+
+§ 6
+
+Účinnost
+
+Tato vyhláška nabývá účinnosti dnem 28. června 2027, s výjimkou
+
+a) ustanovení § 3 písm. c), které nabývá účinnosti dnem 1. července 2028.
+
+Ministr:
+
+Mgr. Metnar v. r.
