@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-06-11 | 222/0 | Vládní návrh zákona | [t022200.md](t022200.md), [t0222a0.md](t0222a0.md), [t0222b0.md](t0222b0.md) |
 | 2026-09-04 | 222/1 | Usnesení hospodářského výboru č. 96 ze dne 3. září 2026 k vládnímu návrhu zákona o působnosti orgánů státu při řešení mimořádných situací na vnitřním trhu a o změně zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů | [t022201.md](t022201.md) |
 | 2026-09-18 | 222/2 | Usnesení hospodářského výboru č. 104 ze dne 17. září 2026 k vládnímu návrhu zákona o působnosti orgánů státu při řešení mimořádných situací na vnitřním trhu a o změně zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů | [t022202.md](t022202.md) |
+| 2026-10-14 | 222/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona o působnosti orgánů státu při řešení mimořádných situací na vnitřním trhu a o změně zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů | [t022203.md](t022203.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0222b0.md](t0222b0.md) | 222/0 | Další | [t0222b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271600) | pymupdf / pdftotext 1.0000 |
 | [t022201.md](t022201.md) | 222/1 | Text | [t022201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279366) | pymupdf / pdftotext 1.0000 |
 | [t022202.md](t022202.md) | 222/2 | Text | [t022202.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280069) | pymupdf / pdftotext 1.0000 |
+| [t022203.md](t022203.md) | 222/3 | Text | [t022203.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281212) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
