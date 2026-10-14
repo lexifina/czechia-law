@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-30 | 325/0 | Zpráva a jiné | [t032500.md](t032500.md), [t0325a0.md](t0325a0.md), [t0325b0.md](t0325b0.md), [t0325c0.md](t0325c0.md) |
+| 2026-10-14 | 325/1 | Usnesení rozpočtového výboru č. 158 ze dne 12. října 2026 ke střednědobému výhledu státního rozpočtu České republiky na léta 2028 a 2029 | [t032501.md](t032501.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0325a0.md](t0325a0.md) | 325/0 | Text | [t0325a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280834) | pymupdf / pdftotext 1.0000 |
 | [t0325b0.md](t0325b0.md) | 325/0 | Text | [t0325b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280836) | pymupdf / pdftotext 1.0000 |
 | [t0325c0.md](t0325c0.md) | 325/0 | Text | [t0325c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280838) | pymupdf / pdftotext 1.0000 |
+| [t032501.md](t032501.md) | 325/1 | Text | [t032501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281240) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
