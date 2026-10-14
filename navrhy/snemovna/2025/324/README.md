@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-30 | 324/0 | Státní rozpočet | [t032400.md](t032400.md), [t0324a0.md](t0324a0.md), [t0324b0.md](t0324b0.md), [t0324c0.md](t0324c0.md), [t0324d0.md](t0324d0.md), [t0324e0.md](t0324e0.md), [t0324f0.md](t0324f0.md), [t0324g0.md](t0324g0.md), [t0324h0.md](t0324h0.md), [t0324i0.md](t0324i0.md), [t0324j0.md](t0324j0.md), [t0324k0.md](t0324k0.md), [t0324l0.md](t0324l0.md), [t0324m0.md](t0324m0.md), [t0324n0.md](t0324n0.md), [t0324o0.md](t0324o0.md), [t0324p0.md](t0324p0.md), [t0324q0.md](t0324q0.md), [t0324r0.md](t0324r0.md), [t0324s0.md](t0324s0.md), [t0324t0.md](t0324t0.md), [t0324u0.md](t0324u0.md) |
+| 2026-10-14 | 324/1 | Usnesení rozpočtového výboru č. 157 ze dne 12. října 2026 k vládnímu návrhu zákona o státním rozpočtu České republiky na rok 2027 | [t032401.md](t032401.md) |
 
 ## Files
 
@@ -47,5 +48,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0324s0.md](t0324s0.md) | 324/0 | Dokumentace, část č. 8 | [t0324s0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280825) | pymupdf / pdftotext 1.0000 |
 | [t0324t0.md](t0324t0.md) | 324/0 | Dokumentace, část č. 8 | [t0324t0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280827) | pymupdf / pdftotext 1.0000 |
 | [t0324u0.md](t0324u0.md) | 324/0 | Dokumentace, část č. 9 | [t0324u0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280829) | pymupdf / pdftotext 1.0000 |
+| [t032401.md](t032401.md) | 324/1 | Text | [t032401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281237) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
