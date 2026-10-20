@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-24 | 317/0 | Návrh zákona | [t031700.md](t031700.md), [t0317a0.md](t0317a0.md) |
+| 2026-10-20 | 317/1 | Stanovisko vlády k návrhu poslanců Davida Pražáka a Marie Pošarové na vydání zákona, kterým se mění zákon č. 154/2000 Sb., o šlechtění, plemenitbě a evidenci hospodářských zvířat a o změně některých souvisejících zákonů (plemenářský zákon), ve znění pozdějších předpisů, a další související zákony | [t031701.md](t031701.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t031700.md](t031700.md) | 317/0 | Návrh zákona včetně důvodové zprávy | [t031700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280615) | pymupdf / pdftotext 1.0000 |
 | [t0317a0.md](t0317a0.md) | 317/0 | Platné znění s vyznačením změn | [t0317a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280617) | pymupdf / pdftotext 1.0000 |
+| [t031701.md](t031701.md) | 317/1 | Stanovisko | [t031701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281461) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
