@@ -1,0 +1,243 @@
+---
+material: "KORNDYEB2WYW"
+dokument: "Materiál"
+soubor: "180867_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDZ3E3LEF/"
+den: "2026-10-21"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. října 2026,
+
+kterým se mění nařízení vlády č. 136/2015 Sb., o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky, ve znění pozdějších předpisů, a nařízení vlády č. 1/2019 Sb., o oborech státní služby, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 5 odst. 2 a § 42a odst. 2 a 3 zákona č. 234/2014 Sb., o státní službě, ve znění zákona č. 448/2024 Sb.:
+
+ČÁST PRVNÍ
+
+Změna nařízení vlády o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky
+
+Čl. I
+
+Nařízení vlády č. 136/2015 Sb., o rovnocennosti některých zkoušek a odborných kvalifikací zvláštní části úřednické zkoušky, ve znění nařízení vlády č. 157/2019 Sb., nařízení vlády č. 62/2022 Sb. a nařízení vlády č. 449/2024 Sb., se mění takto:
+
+Příloha č. 1 zní:
+
+„Příloha č. 1
+
+Rovnocennost zkoušky zvláštní odborné způsobilosti úředníka územního samosprávného celku
+
+Zvláštní část úřednické zkoušky pro obor státní služby Rovnocenná zkouška zvláštní odborné způsobilosti úředníka územního samosprávného celku k výkonu správní činnosti
+
+Školství, mládež a tělovýchova ve školství
+
+Sociální služby, sociální práce, sociálně-právní ochrana dětí a rodinná politika Dvě vykonané zkoušky:
+
+a) v sociální práci a sociálních službách a
+
+b) při sociálně-právní ochraně dětí
+
+Zdravotnictví a ochrana zdraví ve zdravotnictví
+
+Územní plánování v územním plánování
+
+Zemědělství a rostlinolékařská péče v zemědělství
+
+Vodní hospodářství ve vodním hospodářství
+
+Hospodářská opatření pro krizové stavy a správa státních hmotných rezerv při přípravě a realizaci hospodářských opatření pro krizové stavy
+
+Doprava Alespoň tři vykonané zkoušky:
+
+a) při správním rozhodování a dozorové činnosti v silničním hospodářství,
+
+b) v silniční dopravě,
+
+c) při přestupkovém řízení ve věcech bezpečnosti a plynulosti provozu na pozemních komunikacích a správních řízeních souvisejících,
+
+d) při správním rozhodování o řidičských oprávněních a řidičských průkazech,
+
+e) při správním rozhodování o registračních úkonech v oblasti provozu silničních vozidel, nebo
+
+f) v drážní dopravě
+
+Ochrana přírody a krajiny v ochraně přírody a krajiny
+
+Stavební řád ve stavebním řádu a při vyvlastnění
+
+“.
+
+ČÁST DRUHÁ
+
+Změna nařízení vlády o oborech státní služby
+
+Čl. II
+
+Nařízení vlády č. 1/2019 Sb., o oborech státní služby, ve znění nařízení vlády č. 62/2022 Sb. a nařízení vlády č. 449/2024 Sb., se mění takto:
+
+Příloha č. 1 zní:
+
+„Příloha č. 1 k nařízení vlády č. 1/2019 Sb.
+
+Obory státní služby
+
+Název oboru státní služby Číselné označení oboru státní služby
+
+Finance 1
+
+Daně, poplatky a jiná obdobná peněžitá plnění a hazardní hry 2
+
+Audit 3
+
+Hospodaření s majetkem státu a jeho privatizace 4
+
+Finanční a ekonomická spolupráce se zahraničím 5
+
+Finanční trh 6
+
+Ekonomická ochrana státu 7
+
+Zahraniční vztahy a služba 8
+
+Školství, mládež a tělovýchova 9
+
+Výzkum, vývoj a inovace 10
+
+Kultura, církve a náboženské společnosti 11
+
+Média, audiovize a regulace vysílání 12
+
+Nepojistné sociální dávkové systémy 13
+
+Sociální služby, sociální práce, sociálně-právní ochrana dětí a rodinná politika 14
+
+Sociální pojištění 15
+
+Zaměstnanost 17
+
+Pracovněprávní vztahy 18
+
+Platy, mzdy a jiné odměny za práci 19
+
+Bezpečnost práce 20
+
+Zdravotnictví a ochrana zdraví 21
+
+Legislativa 22
+
+Lidská práva 23
+
+Vnitřní bezpečnost státu a krizové řízení 24
+
+Systém veřejné správy a všeobecná vnitřní správa 26
+
+Archivnictví a spisová služba 27
+
+Informační a komunikační technologie 28
+
+Energetika 29
+
+Hornictví, geologie, podzemní stavitelství, výbušniny a surovinová politika 30
+
+Průmysl 31
+
+Stavebnictví 32
+
+Obchod, licence a mezinárodní ekonomické vztahy 33
+
+Podnikání a živnosti 34
+
+Ochrana spotřebitele a trhu 35
+
+Elektronické komunikace a poštovní služby 36
+
+Veřejné investování a zadávání veřejných zakázek 37
+
+Společné evropské politiky podpory a pomoci a evropské strukturální, investiční a obdobné fondy 38
+
+Územní plánování 41
+
+Zemědělství a rostlinolékařská péče 42
+
+Lesní hospodářství, myslivost, rybářství a včelařství 43
+
+Vodní hospodářství 44
+
+Potravinářství 45
+
+Veterinární péče 46
+
+Pozemková správa a krajinotvorba 47
+
+Financování, řízení a sledování Společné zemědělské politiky 48
+
+Obrana 49
+
+Hospodářská opatření pro krizové stavy a správa státních hmotných rezerv 50
+
+Doprava 51
+
+Ochrana přírody a krajiny 52
+
+Technická ochrana životního prostředí 53
+
+Státní statistická služba 54
+
+Zeměměřictví a katastr nemovitostí 55
+
+Ochrana průmyslového vlastnictví, autorských práv a práv souvisejících 56
+
+Ochrana hospodářské soutěže a dozor nad zadáváním veřejných zakázek 57
+
+Jaderná bezpečnost, radiační ochrana a správa ve věcech chemických a biologických zbraní 58
+
+Ochrana utajovaných informací 59
+
+Ochrana osobních údajů 60
+
+Evropská politika vlády 62
+
+Organizační věci a právní poměry státních zaměstnanců 63
+
+Bydlení, regionální rozvoj a cestovní ruch 64
+
+Právní činnost 65
+
+Stavební řád 66
+
+“.
+
+Čl. III
+
+Přechodná ustanovení
+
+\1. Státní zaměstnanec, který ke dni nabytí účinnosti tohoto nařízení vykonával státní službu v oboru státní služby Vnitřní pořádek a bezpečnost státu nebo v oboru státní služby Krizové řízení, ochrana obyvatelstva a integrovaný záchranný systém podle nařízení vlády č. 1/2019 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, vykonává ode dne nabytí účinnosti tohoto nařízení státní službu v oboru státní služby Vnitřní bezpečnost státu a krizové řízení.
+
+\2. Úspěšně vykonaná zvláštní část úřednické zkoušky pro obor státní služby Vnitřní pořádek a bezpečnost státu nebo pro obor státní služby Krizové řízení, ochrana obyvatelstva a integrovaný záchranný systém podle nařízení vlády č. 1/2019 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, se ode dne nabytí účinnosti tohoto nařízení považuje za úspěšně vykonanou zvláštní část úřednické zkoušky pro obor státní služby Vnitřní bezpečnost státu a krizové řízení.
+
+\3. Státní zaměstnanec, který ke dni nabytí účinnosti tohoto nařízení vykonával státní službu v oboru státní služby Organizační věci státní služby a správa služebních vztahů státních zaměstnanců podle nařízení vlády č. 1/2019 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, vykonává ode dne nabytí účinnosti tohoto nařízení státní službu v oboru státní služby Organizační věci a právní poměry státních zaměstnanců.
+
+\4. Úspěšně vykonaná zvláštní část úřednické zkoušky pro obor státní služby Organizační věci státní služby a správa služebních vztahů státních zaměstnanců podle nařízení vlády č. 1/2019 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, se ode dne nabytí účinnosti tohoto nařízení považuje za úspěšně vykonanou zvláštní část úřednické zkoušky pro obor státní služby Organizační věci a právní poměry státních zaměstnanců.
+
+\5. Státní zaměstnanec, který ke dni nabytí účinnosti tohoto nařízení vykonával státní službu v oboru státní služby Územní plánování a stavební řád podle nařízení vlády č. 1/2019 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, vykonává ode dne nabytí účinnosti tohoto nařízení státní službu v alespoň jednom z oborů státní služby Územní plánování nebo Stavební řád, podle převažujících a obvykle vykonávaných činností na služebním místě.
+
+\6. Úspěšně vykonaná zvláštní část úřednické zkoušky pro obor státní služby Územní plánování a stavební řád podle nařízení vlády č. 1/2019 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto nařízení, se ode dne nabytí účinnosti tohoto nařízení považuje za úspěšně vykonanou zvláštní část úřednické zkoušky pro obor státní služby Územní plánování a pro obor státní služby Stavební řád.
+
+ČÁST TŘETÍ
+
+ÚČINNOST
+
+Čl. IV
+
+Toto nařízení nabývá účinnosti dnem 31. října 2026.
+
+Předseda vlády:
+
+Ing. Babiš
+
+podepsáno elektronicky
