@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-03-04 | 115/1 | Stanovisko vlády k návrhu poslanců Andreje Babiše, Taťány Malé, Radka Vondráčka, Heleny Válkové, Borise Šťastného a Radima Fialy na vydání zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, a zákon č. 45/2013 Sb., o obětech trestných činů a o změně některých zákonů (zákon o obětech trestných činů), ve znění pozdějších předpisů | [t011501.md](t011501.md) |
 | 2026-04-30 | 115/2 | Usnesení ústavně-právního výboru č. 32 ze dne 29. dubna 2026 k návrhu poslanců Andreje Babiše, Taťány Malé, Radka Vondráčka, Heleny Válkové, Borise Šťastného a Radima Fialy na vydání zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, a zákon č. 45/2013 Sb., o obětech trestných činů a o změně některých zákonů (zákon o obětech trestných činů), ve znění pozdějších předpisů | [t011502.md](t011502.md) |
 | 2026-09-25 | 115/3 | Pozměňovací a jiné návrhy k návrhu poslanců Andreje Babiše, Taťány Malé, Radka Vondráčka, Heleny Válkové, Borise Šťastného a Radima Fialy na vydání zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, a zákon č. 45/2013 Sb., o obětech trestných činů a o změně některých zákonů (zákon o obětech trestných činů), ve znění pozdějších předpisů | [t011503.md](t011503.md) |
+| 2026-10-21 | 115/4 | Usnesení garančního výboru č. 54 ze dne 20. října 2026 k návrhu poslanců Andreje Babiše, Taťány Malé, Radka Vondráčka, Heleny Válkové, Borise Šťastného a Radima Fialy na vydání zákona, kterým se mění zákon č. 40/2009 Sb., trestní zákoník, ve znění pozdějších předpisů, a zákon č. 45/2013 Sb., o obětech trestných činů a o změně některých zákonů (zákon o obětech trestných činů), ve znění pozdějších předpisů | [t011504.md](t011504.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t011501.md](t011501.md) | 115/1 | Stanovisko | [t011501.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=268176) | pymupdf / pdftotext 1.0000 |
 | [t011502.md](t011502.md) | 115/2 | Text | [t011502.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269846) | pymupdf / pdftotext 1.0000 |
 | [t011503.md](t011503.md) | 115/3 | Text | [t011503.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280648) | pymupdf / pdftotext 1.0000 |
+| [t011504.md](t011504.md) | 115/4 | Text | [t011504.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281591) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
