@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-06-01 | 210/0 | Vládní návrh zákona | [t021000.md](t021000.md), [t0210a0.md](t0210a0.md), [t0210b0.md](t0210b0.md), [t0210c0.md](t0210c0.md) |
 | 2026-09-03 | 210/1 | Usnesení ústavně-právního výboru č. 48 ze dne 2. září 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony v souvislosti s podporou vyváženého zastoupení žen a mužů ve vedoucích orgánech některých emitentů | [t021001.md](t021001.md) |
 | 2026-09-25 | 210/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony v souvislosti s podporou vyváženého zastoupení žen a mužů ve vedoucích orgánech některých emitentů | [t021002.md](t021002.md) |
+| 2026-10-21 | 210/3 | Usnesení garančního výboru č. 52 ze dne 20. října 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu, ve znění pozdějších předpisů, a další související zákony v souvislosti s podporou vyváženého zastoupení žen a mužů ve vedoucích orgánech některých emitentů | [t021003.md](t021003.md) |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0210c0.md](t0210c0.md) | 210/0 | Kompatibilita s právem EU | [t0210c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=271242) | pymupdf / pdftotext 1.0000 |
 | [t021001.md](t021001.md) | 210/1 | Text | [t021001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279339) | pymupdf / pdftotext 1.0000 |
 | [t021002.md](t021002.md) | 210/2 | Text | [t021002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280645) | pymupdf / pdftotext 1.0000 |
+| [t021003.md](t021003.md) | 210/3 | Text | [t021003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281585) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
