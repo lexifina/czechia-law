@@ -1,0 +1,111 @@
+---
+material: "KORNDX6ALKHS"
+dokument: "Materiál"
+soubor: "210209_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDZ4CK8NO/"
+den: "2026-10-22"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 19. října 2026
+
+o podmínkách, za kterých lze zřídit organizační útvar správního úřadu
+
+Vláda nařizuje podle § 9 odst. 1 zákona č. xx/2026 Sb., o právních poměrech státních zaměstnanců v ministerstvech a jiných správních úřadech (zákon o státních zaměstnancích):
+
+§ 1
+
+Oddělení
+
+(1) Oddělení lze zřídit, bude-li tvořeno alespoň
+
+a) 6 pracovními místy (dále jen „místo“), nebo
+
+b) 4 místy, pokud ve správním úřadu průměrný počet míst tvořících oddělení po zaokrouhlení na celé číslo nebude nižší než 6.
+
+(2) Do výpočtu průměrného počtu míst tvořících oddělení podle odstavce 1 písm. b) se nezahrnují místa zařazená v
+
+a) zastupitelském úřadu,
+
+b) kabinetu a
+
+c) kanceláři člena vlády, vedoucího správního úřadu nebo toho, kdo stojí v čele jiného ústředního správního úřadu (dále jen „kancelář“).
+
+§ 2
+
+Odbor
+
+(1) Odbor lze zřídit, bude-li tvořen alespoň
+
+a) 13 místy včetně alespoň 2 míst vedoucích oddělení, nebo
+
+b) 9 místy včetně alespoň 2 míst vedoucích oddělení nebo alespoň 1 místa vedoucího oddělení a alespoň 2 míst bezprostředně podřízených řediteli odboru, pokud
+
+\1. ve správním úřadu průměrný počet míst tvořících odbor po zaokrouhlení na celé číslo nebude nižší než 13,
+
+\2. je odbor pracovištěm plnícím úkoly v užším územním rozsahu, než je rozsah územní působnosti správního úřadu, nebo součástí takového pracoviště,
+
+\3. je odbor součástí správního úřadu s jinou než celostátní působností, nebo
+
+\4. je odbor součástí správního úřadu uvedeného v § 12 odst. 4 zákona o státních zaměstnancích.
+
+(2) Do výpočtu průměrného počtu míst tvořících odbor podle odstavce 1 písm. b) bodu 1 se nezahrnují místa zařazená v
+
+a) odboru podle odstavce 1 písm. b) bodech 2 až 4,
+
+b) zastupitelském úřadu,
+
+c) kabinetu a
+
+d) kanceláři.
+
+§ 3
+
+Sekce
+
+(1) Sekci lze zřídit, bude-li tvořena alespoň 28 místy včetně alespoň 2 míst ředitelů odborů nebo alespoň 1 místa ředitele odboru a alespoň 1 místa vedoucího oddělení bezprostředně podřízeného vrchnímu řediteli sekce. Za místo vedoucího oddělení podle věty první se nepovažuje místo vedoucího oddělení, na kterém se převážně zabezpečuje podpora vrchního ředitele sekce při výkonu jeho řídicí činnosti.
+
+(2) Odstavec 1 se na sekci, v jejímž čele je státní tajemník, nepoužije.
+
+§ 4
+
+Zastupitelský úřad
+
+Ustanovení § 1 a 2 o minimálním počtu míst se na zastupitelský úřad nepoužijí.
+
+§ 5
+
+Kabinet
+
+Ustanovení § 1 a 2 o minimálním počtu míst se na kabinet nepoužijí.
+
+§ 6
+
+Zrušovací ustanovení
+
+Zrušují se:
+
+\1. Nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu.
+
+\2. Nařízení vlády č. 463/2023 Sb., kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu.
+
+\3. Nařízení vlády č. 450/2024 Sb., kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu, ve znění nařízení vlády č. 463/2023 Sb.
+
+\4. Nařízení vlády č. 110/2026 Sb., kterým se mění nařízení vlády č. 92/2015 Sb., o pravidlech pro organizaci služebního úřadu, ve znění pozdějších předpisů.
+
+§ 7
+
+Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. listopadu 2026.
+
+Předseda vlády:
+
+Ing. Babiš
+
+podepsáno elektronicky
