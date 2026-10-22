@@ -1,0 +1,285 @@
+---
+material: "KORNDVEAJNTM"
+dokument: "Materiál"
+soubor: "178121_Pravni_akt.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/ALBSDZ4BKABK/"
+den: "2026-10-22"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+…
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 12. října 2026,
+
+kterým se mění nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění pozdějších předpisů
+
+Vláda nařizuje podle § 150 odst. 1 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích), ve znění zákona č. 261/2007 Sb., zákona č. 304/2007 Sb., zákona č. 468/2011 Sb., zákona č. 252/2017 Sb., zákona č. 374/2021 Sb. a zákona č. 23/2025 Sb., (dále jen „zákon“) k provedení § 24 odst. 5 zákona:
+
+Čl. I
+
+Nařízení vlády č. 154/2005 Sb., o stanovení výše a způsobu výpočtu poplatků za využívání rádiových kmitočtů a čísel, ve znění nařízení vlády č. 288/2007 Sb., nařízení vlády č. 162/2008 Sb., nařízení vlády č. 228/2009 Sb., nařízení vlády č. 156/2011 Sb., nařízení vlády č. 175/2012 Sb., nařízení vlády č. 284/2015 Sb., nařízení vlády č. 43/2017 Sb., nařízení vlády č. 138/2018 Sb., nařízení vlády č. 56/2020 Sb. a nařízení vlády č. 408/2022 Sb., se mění takto:
+
+\1. V § 1 odstavec 3 zní:
+
+„(3) Výše poplatku za využívání rádiových kmitočtů a čísel za dobu kratší než jeden měsíc se stanoví ve výši jedné dvanáctiny ročního poplatku.“.
+
+\2. V příloze v položce 1 části A.1. se slova
+
+„K1 Koeficient využívané šířky kmitočtového pásma
+
+Tento koeficient se vypočte z šířky (v kHz) 1 kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+K1 = 1 x šířka [v kHz]
+
+pro kmitočty mimo kmitočtové pásmo 380-385/390-395 MHz
+
+K1 = 0,25 x šířka [v kHz]
+
+pro kmitočty v kmitočtovém pásmu 380-385/390-395 MHz“
+
+nahrazují slovy
+
+„K1 Koeficient využívané šířky kmitočtového pásma
+
+Tento koeficient se vypočte z šířky (v kHz) 1 kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+K1 = 1 x šířka [v kHz]
+
+pro kmitočty mimo kmitočtové pásmo 380-385/390-395 MHz a
+
+pro kmitočty mimo kmitočtová pásma 698-703/753-758 MHz a 733-736/788-791 MHz
+
+K1 = 0,25 x šířka [v kHz]
+
+pro kmitočty v kmitočtovém pásmu 380-385/390-395 MHz a
+
+pro kmitočty v kmitočtových pásmech 698-703/753-758 MHz a 733-736/788-791 MHz“.
+
+\3. V příloze v položce 1 části A. 2. bodě A 2.2 se slova
+
+„S2 Sazba za 1 kHz využívané šířky kmitočtového pásma
+
+K1 Koeficient využívané šířky kmitočtového pásma. Tento koeficient se vypočte ze šířky (v kHz) jednoho kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+K1 = 1 pro 1 kHz“
+
+nahrazují slovy
+
+„S2 Sazba za 1 kHz využívané šířky kmitočtového pásma
+
+S2 = 100 Kč
+
+K1 Koeficient využívané šířky kmitočtového pásma. Tento koeficient se vypočte ze šířky (v kHz) jednoho kmitočtového kanálu, která se rovná kanálové rozteči ve využívaném kmitočtovém pásmu.
+
+K1 = 1 pro 1 kHz“.
+
+\4. V příloze v položce 1 části A.3. bod A 3.1 zní:
+
+„A 3.1 Zemské systémy k poskytování bezdrátových širokopásmových služeb elektronických komunikací v kmitočtových pásmech 24,25-27,5 GHz a 40,5-43,5 GHz.
+
+Kč ročně dle výpočtu
+
+kde je
+
+C Poplatek za využívání jednoho rádiového kmitočtu
+
+n Počet jednotlivých základnových stanic
+
+S4 Poplatek za využívání rádiového kmitočtu jednotlivými základnovými stanicemi nebo jednotlivými přístupovými body sítí pevného bezdrátového přístupu (FWA) v závislosti na přidělené šířce pásma
+
+S4i = S5 x K12
+
+ve kterém znamená
+
+S5 sazbu za 5 MHz šířky kmitočtového pásma zabraného vysíláním
+
+S5 = 75 Kč
+
+K12 počet 5 MHz bloků zabraných vysíláním
+
+Sítě, které sestávají z více základnových stanic umístěných ve vnitřním prostředí s útlumem budovy alespoň 30 dB a splňují podmínku, že signál vně této budovy je tak dostatečně utlumen, jsou považovány za síť s jednou základnovou stanicí.
+
+V případě sítí pevného bezdrátového přístupu (FWA) se poplatek C vypočte a vyměří pro každý přístupový bod samostatně.
+
+Jsou-li jeden přístupový bod sítě pevného bezdrátového přístupu (FWA) nebo jedna základnová stanice v kmitočtových pásmech 24,25-27,5 GHz a 40,5-43,5 GHz tvořeny více sektorovými anténami, sektory nebo vyzařovacími směry využívajícími tentýž rádiový kmitočet se stejnou polarizací, tyto sektorové antény, sektory nebo vyzařovací směry se pro účely výpočtu poplatku nepovažují samostatně za další přístupové body nebo základnové stanice; využívají-li sektorové antény, sektory nebo vyzařovací směry rádiové kmitočty s různou polarizací, považují se pro účely výpočtu poplatku za další rádiový kmitočet daného přístupového bodu pevného bezdrátového přístupu (FWA) nebo základnové stanice.“.
+
+\5. V příloze v položce 1 části A.3. bod A 3.2 zní:
+
+„A 3.2 Komplementární pozemní komponenta (Complementary Ground Components) systému družicové pohyblivé služby v pásmu 1980-2010 MHz a 2170-2200 MHz.
+
+Kč ročně dle výpočtu
+
+C = S5 x K5
+
+kde je
+
+C Poplatek za využívání rádiových kmitočtů jednou základnovou stanicí komplementární pozemní komponenty (Complementary Ground Components) systému družicové pohyblivé služby využívající rádiové kmitočty v pásmu 1980-2010 MHz a 2170-2200 MHz, jejímž prostřednictvím dochází k poskytování veřejné sítě elektronických komunikací výhradně na palubě letadel
+
+S5 Sazba za 1 MHz využívané šířky kmitočtového pásma
+
+S5 = 13 500 Kč
+
+K5 Koeficient šířky kmitočtového pásma, který se rovná počtu MHz odpovídajícímu šířce kmitočtového pásma zabraného vysíláním“.
+
+\6. V příloze v položce 1 části A.3. se doplňuje bod A 3.3, který zní:
+
+„A 3.3 Zemské širokopásmové systémy k zajišťování místní bezdrátové konektivity v kmitočtových pásmech 3800-4200 MHz.
+
+Kč ročně dle výpočtu
+
+kde je
+
+C Poplatek za využívání jednoho rádiového kmitočtu
+
+n Počet jednotlivých základnových stanic
+
+S4 Poplatek za využívání rádiového kmitočtu jednotlivými základnovými stanicemi v závislosti na přidělené šířce pásma
+
+S4i = S5 x K12
+
+ve kterém znamená
+
+S5 sazbu za 5 MHz šířku kmitočtového pásma zabraného vysíláním v závislosti na jeho výkonu
+
+Sazba S5 za 5 MHz blok zabraný vysíláním R < 1 km 1 km <= R < 5 km
+
+Výkon A 600 900
+
+Výkon B 1000 1300
+
+kde
+
+R je poloměr provozní oblasti
+
+Výkon A se použije pro hodnoty ekvivalentního izotropicky vyzářeného výkonu menší nebo rovné hodnotě 24 dBm/kanál pro šířku kanálu menší nebo rovnu 20 MHz; dále se použije, pokud je hodnota ekvivalentního izotropicky vyzářeného výkonu menší než 18 dBm/5 MHz pro šířku kanálu větší než 20 MHz.
+
+Výkon B se použije pro hodnoty ekvivalentního izotropicky vyzářeného výkonu menší nebo rovné 44 dBm/kanál pro šířku kanálu menší nebo rovnu 20 MHz; dále se použije, pokud je hodnota ekvivalentního izotropicky vyzářeného výkonu menší než 38 dBm/5 MHz pro šířku kanálu větší než 20 MHz.
+
+K12 počet 5 MHz bloků zabraných vysíláním
+
+Pro ostatní využití systémů s větší provozní oblastí nebo vyšším výkonem se postupuje podle výpočtu uvedeného v části A.2.
+
+Sítě, které sestávají z více základnových stanic umístěných ve vnitřním prostředí s útlumem budovy alespoň 30 dB a splňují podmínku, že signál vně této budovy je tak dostatečně utlumen, jsou považovány za síť s jednou základnovou stanicí.“.
+
+\7. V příloze v položce 1 části B. písmeni a) v 1. řádku 11. sloupci tabulky se text „>=“ nahrazuje textem „<=“.
+
+\8. V příloze v položce 1 části B. písmeni a) v 1. řádku 12. sloupci tabulky se text „>=“ nahrazuje textem „<=“.
+
+\9. V příloze v položce 1 části B. písmeni b) v 1. řádku 11. sloupci tabulky se text „>=“ nahrazuje textem „<=“.
+
+\10. V příloze v položce 1 části B. písmeni b) v 1. řádku 12. sloupci tabulky se text „>=“ nahrazuje textem „<=“.
+
+\11. V příloze v položce 1 část D. včetně nadpisu zní:
+
+„D. DRUŽICOVÁ SLUŽBA
+
+Kč ročně dle výpočtu
+
+Výpočet:
+
+C = S5 x K12 x K13 x K14 x K15
+
+kde je
+
+C Poplatek za využívání jednoho rádiového kmitočtu pozemskou stanicí nebo kosmickou stanicí
+
+S5 Sazba za 1 MHz šířky kmitočtového pásma zabrané vysíláním
+
+S5 = 2 500 Kč
+
+K12 Koeficient šířky kmitočtového pásma zabrané vysíláním
+
+K12 = 4 pro šířku pásma 4 MHz
+
+K12 pro šířku pásma > 4 MHz se rovná počtu MHz, odpovídajícímu šířce kmitočtového pásma zabraného vysíláním
+
+K13 Koeficient použití technologie s mnohonásobným přístupem ke kanálu
+
+K13 = 0,1 při použití technologie s mnohonásobným přístupem ke kanálu
+
+K13 = 1 není-li použita technologie s mnohonásobným přístupem ke kanálu
+
+K14 Koeficient kmitočtového pásma
+
+K14 = 1 pro f =< 14,8 GHz
+
+K14 = 0,8 pro 14,8 GHz< f =< 21,2 GHz
+
+K14 = 0,4 pro 21,2 GHz < f =< 24,45 GHz
+
+K14 = 0,2 pro 24,45 GHz < f =< 31 GHz
+
+K14 = 0,1 pro 31 GHz < f =< 86 GHz
+
+K14 = 0,05 pro f > 86GHz
+
+K15 Koeficient uplatňující se v případě N-GSO (negeostacionární) pozemské stanice
+
+K15 = 1,5 pro pozemskou stanici komunikující s více než jednou N-GSO družicí
+
+K15 = 1,25 pro pozemskou stanici komunikující s jednou N-GSO družicí
+
+“.
+
+\12. V příloze se na konci položky 1 doplňuje část F., která zní:
+
+„F. VYUŽITÍ PRO EXPERIMENTÁLNÍ ÚČELY
+
+Kč ročně dle výpočtu
+
+C = S1 x K1 x K2
+
+kde je
+
+C Poplatek za využívání jednoho rádiového kmitočtu
+
+S1 Sazba za přidělenou šířku pásma
+
+S1 = 2000 Kč
+
+K1 Koeficient přidělené šířky pásma v závislosti na její velikosti
+
+Přidělená šířka pásma Koeficient K1
+
+do 10 MHz včetně 1,0
+
+nad 10 MHz do 100 MHz včetně 2,0
+
+nad 100 MHz do 1000 MHz včetně 3,0
+
+nad 1000 MHz 4,0
+
+K2 Koeficient oblasti využívání rádiových kmitočtů v závislosti na jejím poloměru
+
+Poloměr oblasti Koeficient K2
+
+do 5 km včetně 1,0
+
+nad 5 km do 25 km včetně 1,5
+
+nad 25 km do 125 km včetně 2,0
+
+nad 125 km 2,5
+
+Oblastí využívání rádiových kmitočtů se u pozemní pohyblivé služby rozumí obsluhovaná oblast podle bodu A 2.2 (Ostatní rádiové sítě) tohoto nařízení. Pro ostatní využití rádiových kmitočtů se při určení koeficientu K2 zohlední charakter požadovaného experimentálního využívání, a to včetně jeho možného dopadu na ostatní využívání.“.
+
+Čl. II
+
+Účinnost
+
+Toto nařízení nabývá účinnosti dnem 1. ledna 2027.
+
+Předseda vlády:
+
+Ing. Babiš
+
+podepsáno elektronicky
+
+\1. místopředseda vlády a ministr průmyslu a obchodu:
+
+doc. Ing. Havlíček, Ph.D., MBA
+
+podepsáno elektronicky
