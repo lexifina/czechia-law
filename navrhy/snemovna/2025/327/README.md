@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-09-30 | 327/0 | Návrh zákona | [t032700.md](t032700.md), [t0327a0.md](t0327a0.md) |
 | 2026-10-27 | 327/1 | Stanovisko vlády k návrhu poslanců Venduly Svobodové, Zdeňka Hřiba, Olgy Richterové, Kateřiny Stojanové, Lenky Martínkové Španihelové, Hany Ančincové, Veroniky Kovářové, Barbory Pipášové, Martina Šmídy, Jany Patkové, Samuela Volpeho, Evy Šrámkové a Michaely Moricové na vydání zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů, a zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů | [t032701.md](t032701.md) |
+| 2026-10-27 | 327/2 | Stanovisko vlády k návrhu poslanců Venduly Svobodové, Zdeňka Hřiba, Olgy Richterové, Kateřiny Stojanové, Lenky Martínkové Španihelové, Hany Ančincové, Veroniky Kovářové, Barbory Pipášové, Martina Šmídy, Jany Patkové, Samuela Volpeho, Evy Šrámkové a Michaely Moricové na vydání zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, zákon č. 589/1992 Sb., o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, ve znění pozdějších předpisů, a zákon č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů | [t032702.md](t032702.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t032700.md](t032700.md) | 327/0 | Návrh zákona včetně důvodové zprávy | [t032700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280870) | pymupdf / pdftotext 1.0000 |
 | [t0327a0.md](t0327a0.md) | 327/0 | Platné znění s vyznačením změn | [t0327a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280872) | pymupdf / pdftotext 1.0000 |
 | [t032701.md](t032701.md) | 327/1 | Stanovisko | [t032701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281725) | pymupdf / pdftotext 1.0000 |
+| [t032702.md](t032702.md) | 327/2 | Stanovisko | [t032702.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281729) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
