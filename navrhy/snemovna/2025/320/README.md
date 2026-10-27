@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-29 | 320/0 | Návrh zákona | [t032000.md](t032000.md), [t0320a0.md](t0320a0.md) |
+| 2026-10-27 | 320/1 | Stanovisko vlády k návrhu poslanců Borise Šťastného, Petra Macinky, Tomia Okamury a Filipa Turka na vydání ústavního zákona, kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů | [t032001.md](t032001.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t032000.md](t032000.md) | 320/0 | Návrh zákona včetně důvodové zprávy | [t032000.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280685) | pymupdf / pdftotext 1.0000 |
 | [t0320a0.md](t0320a0.md) | 320/0 | Platné znění s vyznačením změn | [t0320a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280687) | pymupdf / pdftotext 1.0000 |
+| [t032001.md](t032001.md) | 320/1 | Stanovisko | [t032001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281718) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
