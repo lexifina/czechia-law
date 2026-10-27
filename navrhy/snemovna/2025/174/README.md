@@ -21,6 +21,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-05-05 | 174/1 | Stanovisko vlády k návrhu poslanců Lucie Šafránkové, Andreje Babiše, Tomia Okamury, Petra Macinky, Borise Šťastného, Taťány Malé, Radima Fialy, Renaty Vesecké a Jany Hanzlíkové na vydání zákona, kterým se mění zákon č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů, a další související zákony | [t017401.md](t017401.md) |
 | 2026-09-03 | 174/2 | Usnesení výboru pro životní prostředí č. 31 ze dne 2. září 2026 k návrhu poslanců Lucie Šafránkové, Andreje Babiše, Tomia Okamury, Petra Macinky, Borise Šťastného, Taťány Malé, Radima Fialy, Renaty Vesecké a Jany Hanzlíkové na vydání zákona, kterým se mění zákon č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů, a další související zákony | [t017402.md](t017402.md) |
 | 2026-10-21 | 174/3 | Pozměňovací a jiné návrhy k návrhu poslanců Lucie Šafránkové, Andreje Babiše, Tomia Okamury, Petra Macinky, Borise Šťastného, Taťány Malé, Radima Fialy, Renaty Vesecké a Jany Hanzlíkové na vydání zákona, kterým se mění zákon č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů, a další související zákony | [t017403.md](t017403.md) |
+| 2026-10-27 | 174/4 | Usnesení garančního výboru č. 40 ze dne 27. října 2026 k návrhu poslanců Lucie Šafránkové, Andreje Babiše, Tomia Okamury, Petra Macinky, Borise Šťastného, Taťány Malé, Radima Fialy, Renaty Vesecké a Jany Hanzlíkové na vydání zákona, kterým se mění zákon č. 246/1992 Sb., na ochranu zvířat proti týrání, ve znění pozdějších předpisů, a další související zákony | [t017404.md](t017404.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t017401.md](t017401.md) | 174/1 | Stanovisko | [t017401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269957) | pymupdf / pdftotext 1.0000 |
 | [t017402.md](t017402.md) | 174/2 | Text | [t017402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279333) | pymupdf / pdftotext 1.0000 |
 | [t017403.md](t017403.md) | 174/3 | Text | [t017403.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281610) | pymupdf / pdftotext 1.0000 |
+| [t017404.md](t017404.md) | 174/4 | Text | [t017404.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281739) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
