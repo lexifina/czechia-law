@@ -1,0 +1,46 @@
+Czech law in git (lexifina/czechia-law)
+
+THE LAW
+The texts are the consolidated versions of acts in the Sbírka zákonů (Collection of Laws of the Czech Republic) as
+published by e-Sbírka, the electronic Collection of Laws and International Treaties run by the Ministry of the
+Interior of the Czech Republic (Ministerstvo vnitra ČR), in its open datasets at
+https://opendata.eselpoint.cz/datove-sady-esbirka (catalogued in the National Open Data Catalogue, data.gov.cz,
+publisher IČO 00007064).
+
+The terms of use (podmínky užití) of every distribution of those datasets, as recorded in the National Open Data
+Catalogue on 2026-10-28, are, verbatim:
+
+  Distribuce datové sady neobsahuje autorská díla
+  "Součástí poskytované distribuce datové sady nejsou autorská díla ve smyslu § 2 zákona č. 121/2000 Sb., o právu
+  autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon). Autorské právo
+  tak nikterak nebrání libovolnému opětovnému užití obsahu poskytované distribuce datové sady."
+
+  Distribuce datové sady není autorskoprávně chráněnou databází
+  "Poskytovaná distriubuce datové sady není autorskoprávně chráněnou databází ve smyslu § 2 odst. 2 a 5 zákona
+  č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský
+  zákon). Strukturu poskytované distribuce datové sady (strukturu poskytované databáze) je tak možné bez dalšího
+  převzít a opětovně užívat."
+
+  Distribuce datové sady není chráněna zvláštním právem pořizovatele databáze
+  "Poskytovaná distribuce datové sady není chráněna zvláštním právem pořizovatele databáze ve smyslu § 88
+  a následujících zákona č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně
+  některých zákonů (autorský zákon). Data poskytované distribuce datové sady je tak možné bez omezení vytěžovat,
+  zužitkovat a opětovně užívat."
+
+  Distribuce datové sady neobsahuje osobní údaje
+  "Data poskytované distribuce datové sady nejsou osobními údaji ve smyslu zákona č. 101/2000 Sb., o ochraně osobních
+  údajů a o změně některých zákonů a nařízení EU č. 2016/679 (Obecné nařízení o ochraně osobních údajů, tzv. GDPR).
+  Právní úprava ochrany osobních údajů tak není překážkou pro následné užití této distribuce datové sady."
+
+The catalogue matches these terms to CC0 (skos:narrowMatch
+http://publications.europa.eu/resource/authority/licence/CC0). No attribution is required; we give it anyway:
+
+  Source: e-Sbírka (Sbírka zákonů a mezinárodních smluv), Ministerstvo vnitra České republiky,
+  https://www.e-sbirka.cz, open data https://opendata.eselpoint.cz/datove-sady-esbirka.
+
+The legally binding text is the one promulgated in the Collection of Laws; consolidated versions are for information.
+
+EVERYTHING ELSE
+The history (commit messages, trailers, the arrangement of the files), README, REPRODUCE.md, corpus.json and the tools
+are by Lexifina and dedicated to the public domain under CC0 1.0 Universal
+(https://creativecommons.org/publicdomain/zero/1.0/).
