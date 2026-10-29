@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-23 | 312/0 | Zpráva a jiné | [t031200.md](t031200.md) |
+| 2026-10-29 | 312/1 | Usnesení hospodářského výboru č. 116 ze dne 27. října 2026 ke zprávě o činnosti a hospodaření Energetického regulačního úřadu a Národní zpráva Energetického regulačního úřadu o elektroenergetice a plynárenství v České republice 2025 | [t031201.md](t031201.md) |
 
 ## Files
 
@@ -26,5 +27,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | File | Print | Document | Official file | Extracted / checked |
 | --- | --- | --- | --- | --- |
 | [t031200.md](t031200.md) | 312/0 | Text | [t031200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280363) | pymupdf / pdftotext 1.0000 |
+| [t031201.md](t031201.md) | 312/1 | Text | [t031201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281788) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
