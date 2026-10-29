@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-24 | 316/0 | Zpráva a jiné | [t031600.md](t031600.md), [t0316a0.md](t0316a0.md), [t0316b0.md](t0316b0.md), [t0316c0.md](t0316c0.md) |
+| 2026-10-29 | 316/1 | Usnesení hospodářského výboru č. 121 ze dne 27. října 2026 k rozpočtu Státního fondu dopravní infrastruktury na rok 2027 a střednědobý výhled na roky 2028 a 2029 | [t031601.md](t031601.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0316a0.md](t0316a0.md) | 316/0 | Text | [t0316a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280605) | pymupdf / pdftotext 1.0000 |
 | [t0316b0.md](t0316b0.md) | 316/0 | Text | [t0316b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280607) | pymupdf / pdftotext 1.0000 |
 | [t0316c0.md](t0316c0.md) | 316/0 | Další | [t0316c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280608) | pymupdf / pdftotext 1.0000 |
+| [t031601.md](t031601.md) | 316/1 | Text | [t031601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281791) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
