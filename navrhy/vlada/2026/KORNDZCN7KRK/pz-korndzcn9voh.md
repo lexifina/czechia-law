@@ -1,0 +1,2711 @@
+---
+material: "KORNDZCN7KRK"
+dokument: "Platné znění s vyznačením navrhovaných změn a doplnění"
+soubor: "239300_Vsechna_uplna_zneni_-_pouze_dotcena_ustanoveni_s_vyznacenim_navrhovanych_zmen.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDZCN9VOH/"
+den: "2026-10-30"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+341
+
+NAŘÍZENÍ VLÁDY
+
+ze dne 25. září 2017
+
+o platových poměrech zaměstnanců ve veřejných službách a správě
+
+§ 1
+
+Úvodní ustanovení
+
+Toto nařízení stanoví pro zaměstnance, kterým zaměstnavatel poskytuje podle § 109 odst. 3 zákoníku práce za práci plat,
+
+a) kvalifikační předpoklady vzdělání pro výkon prací zařazených do jednotlivých platových tříd,
+
+b) způsob zařazování do platových tříd,
+
+c) podmínky pro určení započitatelné praxe,
+
+d) okruh uvedených zaměstnanců, u kterých může zaměstnavatel určit platový tarif zvláštním způsobem,
+
+e) stupnice platových tarifů,
+
+f) rozdělení prací do skupin odstupňovaných podle kvalifikační náročnosti vykonávaných prací pro určení nejnižší úrovně zaručeného platu,
+
+g)f) rozdělení prací podle pracovních podmínek do skupin v závislosti na míře neuropsychické zátěže a pravděpodobnosti rizika ohrožení života a zdraví a podle obtížnosti práce a výši zvláštního příplatku pro jednotlivé skupiny.
+
+§ 6
+
+Zvláštní způsob určení platového tarifu
+
+(1) Zaměstnavatel může určit platový tarif v rámci rozpětí platových tarifů stanovených pro nejnižší až nejvyšší platový stupeň příslušné platové třídy zaměstnanci zařazenému do
+
+a) první až páté platové třídy, nebo
+
+b) šesté a vyšší platové třídy, který vykonává umělecké, uměleckotechnické, uměleckopedagogické práce, činnost sportovce nebo trenéra, nebo práci výkonného letce, nebo
+
+c) jedenácté a vyšší platové třídy, který s nejvyšší mírou znalostí, dovedností a zkušeností plní nejsložitější, nejodpovědnější a nejnamáhavější pracovní úkoly, jejichž plnění je pro výkon veřejné správy nebo zajišťování veřejných služeb nepostradatelné,
+
+pokud okruh zaměstnanců, jichž se tento způsob určení platového tarifu týká, a pravidla pro určení platového tarifu v rámci rozpětí nejnižšího až nejvyššího platového stupně příslušné platové třídy sjedná v kolektivní smlouvě nebo stanoví vnitřním předpisem.
+
+(2) Zaměstnavatel, který je poskytovatelem zdravotních služeb podle § 2 odst. 1 zákona o zdravotních službách, příspěvkovou organizací poskytující veřejné kulturní služby nebo veřejnou kulturní institucí podle zákona o veřejných kulturních institucích, může s předchozím souhlasem zřizovatele sjednat v kolektivní smlouvě nebo stanovit vnitřním předpisem způsob určení platového tarifu zaměstnancům v rámci rozpětí platových tarifů stanovených pro nejnižší až nejvyšší platový stupeň v příslušné platové třídě. Výše takto určeného platového tarifu musí být určena nejméně ve výši odpovídající platovému tarifu, který by zaměstnanci příslušel při zařazení do platového stupně podle § 4. Ustanovení věty druhé se použije i pro určení platového tarifu zaměstnance uvedeného v odstavci 1 písm. c).
+
+§ 7
+
+Rozdělení prací do skupin pro určení nejnižší úrovně zaručeného platu
+
+Skupiny prací podle § 112 odst. 2 zákoníku práce zahrnují práce zařazené do jednotlivých platových tříd jiným právním předpisem6), a to:
+
+a) 1. skupina prací zahrnuje práce v 1. a 2. platové třídě,
+
+b) 2. skupina prací zahrnuje práce ve 3. až 5. platové třídě,
+
+c) 3. skupina prací zahrnuje práce v 6. až 9. platové třídě a
+
+d) 4. skupina prací zahrnuje práce v 10. až 16. platové třídě.
+
+§ 7
+
+Příplatek za zvýšenou zátěž pedagogického pracovníka vykonávajícího činnost třídního učitele
+
+(1) Výše příplatku za zvýšenou zátěž pedagogického pracovníka vykonávajícího činnost třídního učitele, vedoucího oddělení na konzervatoři nebo základní umělecké škole nebo vedoucího studijní skupiny na vyšší odborné škole činí měsíčně 1 500 až 3 000 Kč.
+
+(2) Příplatek podle odstavce 1 určí zaměstnanci zaměstnavatel v rámci stanoveného rozpětí příplatku podle intenzity vlivů působících zvýšenou zátěž.
+
+§ 8
+
+Zvláštní příplatek
+
+(1) Zvláštní příplatek určí zaměstnanci zaměstnavatel v rámci rozpětí příplatku stanoveného pro příslušnou skupinu prací. Rozdělení prací podle míry ztěžujících vlivů pracovních podmínek do skupin stanoví příloha č. 5 k tomuto nařízení.
+
+(2) Výše zvláštního příplatku činí měsíčně ve skupině
+
+a) I. 500 až 1 300 Kč,
+
+b) II. 750 až 2 500 Kč,
+
+c) III. 1 250 až 5 000 Kč,
+
+d) IV. 1 880 až 7 500 Kč,
+
+e) V. 2 500 až 10 000 Kč.
+
+(3) Výše zvláštního příplatku pedagogického pracovníka ve skupině prací třídního učitele činí měsíčně 1 500 až 3 000 Kč.
+
+(4)(3) Zaměstnanci přísluší pouze jeden zvláštní příplatek podle odstavce 2 ve skupinách I. až V. a podle odstavce 3, s výjimkou zvláštního příplatku podle odstavce 2 za práce uvedené ve skupině I. bodu 1 nebo ve skupině II. bodu 1 v příloze č. 5 k tomuto nařízení. Výši zvláštního příplatku určí zaměstnanci zaměstnavatel v rámci rozpětí, které je při splnění stanovených podmínek pro zaměstnance nejvýhodnější. Právo na zvláštní příplatek podle odstavce 2 za práce uvedené ve skupině I. bodu 1 nebo ve skupině II. bodu 1 v příloze č. 5 k tomuto nařízení a jeho výše se posoudí samostatně.
+
+Příloha č. 1
+
+Platový stupeň
+
+Počet let započitatelné praxe
+
+Platová třída
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+1
+
+do 1 roku
+
+14 760
+
+15 740
+
+16 780
+
+17 900
+
+19 110
+
+20 440
+
+21 890
+
+23 470
+
+25 190
+
+27 030
+
+29 090
+
+31 230
+
+33 590
+
+36 160
+
+38 960
+
+42 000
+
+2
+
+do 2 let
+
+15 170
+
+16 200
+
+17 280
+
+18 470
+
+19 760
+
+21 120
+
+22 590
+
+24 260
+
+25 990
+
+27 930
+
+30 050
+
+32 270
+
+34 730
+
+37 380
+
+40 300
+
+43 450
+
+3
+
+do 4 let
+
+15 610
+
+16 700
+
+17 800
+
+19 030
+
+20 360
+
+21 780
+
+23 330
+
+25 050
+
+26 870
+
+28 870
+
+31 100
+
+33 380
+
+35 920
+
+38 690
+
+41 700
+
+44 960
+
+4
+
+do 6 let
+
+16 070
+
+17 180
+
+18 370
+
+19 610
+
+21 020
+
+22 490
+
+24 090
+
+25 870
+
+27 760
+
+29 850
+
+32 130
+
+34 480
+
+37 130
+
+40 010
+
+43 160
+
+46 530
+
+5
+
+do 9 let
+
+16 580
+
+17 720
+
+18 940
+
+20 240
+
+21 670
+
+23 210
+
+24 880
+
+26 730
+
+28 680
+
+30 840
+
+33 210
+
+35 680
+
+38 420
+
+41 390
+
+44 650
+
+48 140
+
+6
+
+do 12 let
+
+17 100
+
+18 260
+
+19 510
+
+20 870
+
+22 370
+
+23 940
+
+25 700
+
+27 640
+
+29 630
+
+31 850
+
+34 340
+
+36 900
+
+39 740
+
+42 810
+
+46 200
+
+49 820
+
+7
+
+do 15 let
+
+17 600
+
+18 850
+
+20 140
+
+21 540
+
+23 080
+
+24 740
+
+26 520
+
+28 540
+
+30 660
+
+32 940
+
+35 520
+
+38 180
+
+41 100
+
+44 310
+
+47 810
+
+51 570
+
+8
+
+do 19 let
+
+18 140
+
+19 430
+
+20 780
+
+22 220
+
+23 830
+
+25 540
+
+27 390
+
+29 490
+
+31 680
+
+34 060
+
+36 720
+
+39 510
+
+42 530
+
+45 850
+
+49 520
+
+53 390
+
+9
+
+do 23 let
+
+18 700
+
+20 030
+
+21 430
+
+22 940
+
+24 620
+
+26 380
+
+28 310
+
+30 470
+
+32 740
+
+35 220
+
+37 960
+
+40 850
+
+44 010
+
+47 490
+
+51 260
+
+55 280
+
+10
+
+do 27 let
+
+19 320
+
+20 680
+
+22 120
+
+23 680
+
+25 430
+
+27 250
+
+29 220
+
+31 510
+
+33 860
+
+36 410
+
+39 270
+
+42 280
+
+45 560
+
+49 130
+
+53 080
+
+57 210
+
+11
+
+do 32 let
+
+19 900
+
+21 300
+
+22 840
+
+24 450
+
+26 280
+
+28 170
+
+30 240
+
+32 610
+
+35 020
+
+37 690
+
+40 640
+
+43 740
+
+47 140
+
+50 880
+
+54 940
+
+59 280
+
+12
+
+nad 32 let
+
+20 540
+
+22 000
+
+23 580
+
+25 240
+
+27 160
+
+29 100
+
+31 240
+
+33 710
+
+36 210
+
+38 990
+
+42 050
+
+45 260
+
+48 800
+
+52 660
+
+56 870
+
+61 390
+
+Platový stupeň
+
+Počet let započitatelné praxe
+
+Platová třída
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+\1.
+
+do 5 let
+
+24 900
+
+25 900
+
+26 940
+
+28 020
+
+29 150
+
+30 320
+
+31 540
+
+32 810
+
+34 130
+
+35 500
+
+37 810
+
+40 270
+
+42 890
+
+45 680
+
+48 650
+
+51 820
+
+\2.
+
+do 10 let
+
+25 400
+
+26 420
+
+27 480
+
+28 580
+
+29 730
+
+30 920
+
+32 490
+
+33 790
+
+35 150
+
+36 560
+
+39 330
+
+41 890
+
+44 620
+
+47 530
+
+50 620
+
+53 920
+
+\3.
+
+do 15 let
+
+25 910
+
+26 950
+
+28 030
+
+29 160
+
+30 330
+
+31 550
+
+33 470
+
+34 810
+
+36 210
+
+37 660
+
+40 910
+
+43 570
+
+46 410
+
+49 430
+
+52 650
+
+56 080
+
+\4.
+
+do 20 let
+
+26 430
+
+27 490
+
+28 590
+
+29 740
+
+30 930
+
+32 170
+
+34 480
+
+35 860
+
+37 300
+
+38 800
+
+42 550
+
+45 320
+
+48 270
+
+51 410
+
+54 760
+
+58 320
+
+\5.
+
+do 25 let
+
+26 960
+
+28 040
+
+29 170
+
+30 340
+
+31 560
+
+32 830
+
+35 520
+
+36 950
+
+38 430
+
+39 970
+
+44 260
+
+47 140
+
+50 210
+
+53 480
+
+56 960
+
+60 670
+
+\6.
+
+do 30 let
+
+27 500
+
+28 600
+
+29 750
+
+30 940
+
+32 180
+
+33 470
+
+36 590
+
+38 060
+
+39 590
+
+41 180
+
+46 040
+
+49 040
+
+52 230
+
+55 630
+
+59 250
+
+63 110
+
+\7.
+
+do 35 let
+
+28 050
+
+29 180
+
+30 350
+
+31 570
+
+32 840
+
+34 160
+
+37 690
+
+39 200
+
+40 770
+
+42 410
+
+47 890
+
+51 010
+
+54 330
+
+57 870
+
+61 640
+
+65 650
+
+\8.
+
+nad 35 let
+
+28 620
+
+29 770
+
+30 970
+
+32 210
+
+33 500
+
+34 840
+
+38 830
+
+40 390
+
+42 010
+
+43 700
+
+49 810
+
+53 050
+
+56 500
+
+60 180
+
+64 100
+
+68 270
+
+Příloha č. 2
+
+Platový stupeň
+
+Počet let započitatelné praxe
+
+Platová třída
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+1
+
+do 1 roku
+
+17 720
+
+18 880
+
+20 130
+
+21 520
+
+22 970
+
+24 570
+
+27 050
+
+29 080
+
+31 230
+
+33 670
+
+36 190
+
+38 940
+
+41 990
+
+45 290
+
+2
+
+do 2 let
+
+18 260
+
+19 440
+
+20 760
+
+22 210
+
+23 690
+
+25 370
+
+27 960
+
+30 060
+
+32 280
+
+34 800
+
+37 420
+
+40 320
+
+43 440
+
+46 880
+
+3
+
+do 4 let
+
+18 810
+
+20 040
+
+21 380
+
+22 880
+
+24 450
+
+26 170
+
+28 900
+
+31 060
+
+33 410
+
+36 030
+
+38 740
+
+41 720
+
+44 980
+
+48 540
+
+4
+
+do 6 let
+
+19 360
+
+20 660
+
+22 030
+
+23 610
+
+25 240
+
+27 020
+
+29 880
+
+32 110
+
+34 540
+
+37 230
+
+40 030
+
+43 150
+
+46 520
+
+50 230
+
+5
+
+do 9 let
+
+19 930
+
+21 300
+
+22 740
+
+24 330
+
+26 040
+
+27 910
+
+30 900
+
+33 180
+
+35 730
+
+38 520
+
+41 440
+
+44 650
+
+48 170
+
+52 000
+
+6
+
+do 12 let
+
+20 520
+
+21 940
+
+23 430
+
+25 120
+
+26 860
+
+28 810
+
+31 940
+
+34 290
+
+36 930
+
+39 850
+
+42 890
+
+46 220
+
+49 830
+
+53 830
+
+7
+
+do 15 let
+
+21 190
+
+22 620
+
+24 200
+
+25 910
+
+27 720
+
+29 720
+
+33 040
+
+35 490
+
+38 190
+
+41 220
+
+44 380
+
+47 820
+
+51 640
+
+55 720
+
+8
+
+do 19 let
+
+21 830
+
+23 330
+
+24 930
+
+26 760
+
+28 620
+
+30 690
+
+34 150
+
+36 710
+
+39 530
+
+42 680
+
+45 910
+
+49 510
+
+53 430
+
+57 730
+
+9
+
+do 23 let
+
+22 490
+
+24 060
+
+25 740
+
+27 600
+
+29 570
+
+31 710
+
+35 300
+
+37 950
+
+40 880
+
+44 140
+
+47 540
+
+51 230
+
+55 320
+
+59 790
+
+10
+
+do 27 let
+
+23 220
+
+24 840
+
+26 570
+
+28 520
+
+30 540
+
+32 740
+
+36 520
+
+39 270
+
+42 320
+
+45 680
+
+49 210
+
+53 070
+
+57 290
+
+61 910
+
+11
+
+do 32 let
+
+23 920
+
+25 610
+
+27 420
+
+29 460
+
+31 540
+
+33 850
+
+37 790
+
+40 650
+
+43 800
+
+47 230
+
+50 930
+
+54 920
+
+59 340
+
+64 110
+
+12
+
+nad 32 let
+
+24 690
+
+26 450
+
+28 280
+
+30 420
+
+32 590
+
+34 970
+
+39 110
+
+42 050
+
+45 340
+
+48 920
+
+52 730
+
+56 880
+
+61 450
+
+66 390
+
+Platový stupeň
+
+Počet let započitatelné praxe
+
+Platová třída
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+\1.
+
+do 5 let
+
+28 460
+
+29 830
+
+31 270
+
+32 780
+
+34 360
+
+36 010
+
+37 740
+
+40 240
+
+42 900
+
+45 740
+
+48 760
+
+51 980
+
+\2.
+
+do 10 let
+
+29 020
+
+30 420
+
+31 890
+
+33 770
+
+35 400
+
+37 100
+
+38 890
+
+41 850
+
+44 620
+
+47 570
+
+50 710
+
+54 060
+
+\3.
+
+do 15 let
+
+29 610
+
+31 040
+
+32 530
+
+34 790
+
+36 460
+
+38 220
+
+40 060
+
+43 530
+
+46 410
+
+49 480
+
+52 750
+
+56 240
+
+\4.
+
+do 20 let
+
+30 200
+
+31 650
+
+33 170
+
+35 840
+
+37 570
+
+39 380
+
+41 880
+
+45 280
+
+48 270
+
+51 460
+
+55 320
+
+59 790
+
+\5.
+
+do 25 let
+
+30 810
+
+32 290
+
+33 840
+
+36 920
+
+38 700
+
+40 560
+
+43 320
+
+47 100
+
+50 210
+
+53 530
+
+57 290
+
+61 910
+
+\6.
+
+do 30 let
+
+31 420
+
+32 930
+
+34 520
+
+38 030
+
+39 860
+
+41 780
+
+44 800
+
+48 990
+
+52 230
+
+55 680
+
+59 360
+
+64 110
+
+\7.
+
+do 35 let
+
+32 060
+
+33 600
+
+35 220
+
+39 180
+
+41 070
+
+43 050
+
+46 340
+
+50 950
+
+54 320
+
+57 910
+
+61 740
+
+66 390
+
+\8.
+
+nad 35 let
+
+32 700
+
+34 270
+
+35 920
+
+40 360
+
+42 300
+
+44 340
+
+46 470
+
+52 990
+
+56 490
+
+60 220
+
+64 200
+
+68 440
+
+Příloha č. 3
+
+Platový stupeň
+
+Počet let započitatelné praxe
+
+Platová třída
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+1
+
+do 1 roku
+
+41 190
+
+43 640
+
+48 890
+
+52 000
+
+55 030
+
+58 340
+
+2
+
+do 2 let
+
+42 270
+
+44 830
+
+50 200
+
+53 330
+
+56 500
+
+59 930
+
+3
+
+do 4 let
+
+43 490
+
+46 110
+
+51 570
+
+54 740
+
+58 040
+
+61 580
+
+4
+
+do 6 let
+
+44 650
+
+47 370
+
+52 950
+
+56 190
+
+59 590
+
+63 320
+
+5
+
+do 9 let
+
+45 880
+
+48 730
+
+54 410
+
+57 700
+
+61 250
+
+65 060
+
+6
+
+do 12 let
+
+47 180
+
+50 130
+
+55 930
+
+59 240
+
+62 950
+
+66 890
+
+7
+
+do 15 let
+
+48 560
+
+51 590
+
+57 500
+
+60 930
+
+64 700
+
+68 800
+
+8
+
+do 19 let
+
+49 930
+
+53 110
+
+59 120
+
+62 570
+
+66 560
+
+70 800
+
+9
+
+do 23 let
+
+51 340
+
+54 660
+
+60 810
+
+64 340
+
+68 460
+
+72 840
+
+10
+
+do 27 let
+
+52 860
+
+56 270
+
+62 570
+
+66 160
+
+70 420
+
+74 970
+
+11
+
+do 32 let
+
+54 400
+
+57 970
+
+64 410
+
+68 040
+
+72 480
+
+77 190
+
+12
+
+nad 32 let
+
+56 020
+
+59 710
+
+66 280
+
+70 010
+
+74 570
+
+79 500
+
+Platový stupeň
+
+Počet let započitatelné praxe
+
+Platová třída
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+\1.
+
+do 5 let
+
+44 650
+
+47 370
+
+52 950
+
+56 190
+
+59 590
+
+63 320
+
+\2.
+
+do 10 let
+
+47 180
+
+50 130
+
+55 930
+
+59 240
+
+62 950
+
+66 890
+
+\3.
+
+do 15 let
+
+48 560
+
+51 590
+
+57 500
+
+60 930
+
+64 700
+
+68 800
+
+\4.
+
+do 20 let
+
+51 340
+
+54 660
+
+60 810
+
+64 340
+
+68 460
+
+72 840
+
+\5.
+
+do 25 let
+
+52 860
+
+56 270
+
+62 570
+
+66 160
+
+70 420
+
+74 970
+
+\6.
+
+do 30 let
+
+54 400
+
+57 970
+
+64 410
+
+68 040
+
+72 480
+
+77 190
+
+\7.
+
+do 35 let
+
+56 020
+
+59 710
+
+66 280
+
+70 010
+
+74 570
+
+79 500
+
+\8.
+
+nad 35 let
+
+57 710
+
+61 510
+
+68 270
+
+72 120
+
+76 810
+
+81 890
+
+Příloha č. 4
+
+Platový
+
+stupeň
+
+Počet let
+
+započitatelné praxe
+
+Platová třída
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15*
+
+16*
+
+1
+
+do 2 let
+
+18 630
+
+20 050
+
+21 510
+
+23 140
+
+28 680
+
+35 840
+
+36 130
+
+36 780
+
+37 580
+
+38 480
+
+39 930
+
+42 920*
+
+46 240*
+
+2
+
+do 6 let
+
+19 240
+
+20 690
+
+22 320
+
+24 000
+
+29 500
+
+36 140
+
+36 470
+
+37 430
+
+38 360
+
+39 650
+
+41 790
+
+45 920*
+
+49 640*
+
+3
+
+do 12 let
+
+20 320
+
+21 930
+
+23 620
+
+25 540
+
+30 280
+
+36 570
+
+37 030
+
+37 900
+
+39 910
+
+41 310
+
+44 040
+
+48 400*
+
+53 130*
+
+4
+
+do 19 let
+
+21 590
+
+23 270
+
+25 120
+
+27 020
+
+31 670
+
+37 330
+
+38 170
+
+39 330
+
+41 570
+
+44 350
+
+47 680
+
+52 300*
+
+57 210*
+
+5
+
+do 27 let
+
+22 840
+
+24 660
+
+26 610
+
+28 780
+
+33 070
+
+38 480
+
+39 370
+
+40 980
+
+44 150
+
+47 750
+
+52 390
+
+56 700*
+
+61 420*
+
+6
+
+do 32 let
+
+24 610
+
+26 590
+
+28 640
+
+30 950
+
+35 410
+
+40 460
+
+41 560
+
+43 250
+
+47 840
+
+51 690
+
+56 630
+
+59 680*
+
+63 670*
+
+7
+
+nad 32 let
+
+25 250
+
+27 240
+
+29 390
+
+31 760
+
+36 420
+
+41 370
+
+42 440
+
+44 420
+
+48 990
+
+52 970
+
+57 980
+
+61 830*
+
+66 030*
+
+Platový stupeň
+
+Počet let započitatelné praxe
+
+Platová třída
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15*
+
+16*
+
+\1.
+
+do 2 let
+
+24 900
+
+26 000
+
+27 100
+
+28 200
+
+29 550
+
+36 920
+
+37 220
+
+37 890
+
+40 000
+
+40 410
+
+41 130
+
+44 210*
+
+47 630*
+
+\2.
+
+do 6 let
+
+25 210
+
+26 470
+
+27 740
+
+29 050
+
+30 650
+
+37 720
+
+38 150
+
+39 000
+
+41 500
+
+42 370
+
+43 580
+
+47 310*
+
+51 160*
+
+\3.
+
+do 12 let
+
+25 720
+
+27 250
+
+28 820
+
+30 490
+
+32 520
+
+39 060
+
+39 720
+
+40 870
+
+43 660
+
+45 740
+
+47 840
+
+51 750*
+
+55 760*
+
+\4.
+
+do 19 let
+
+26 130
+
+27 880
+
+29 700
+
+31 680
+
+34 080
+
+40 120
+
+41 010
+
+42 410
+
+45 880
+
+48 600
+
+51 520
+
+55 570*
+
+59 700*
+
+\5.
+
+do 27 let
+
+26 450
+
+28 370
+
+30 390
+
+32 610
+
+35 310
+
+40 970
+
+42 010
+
+43 620
+
+47 640
+
+50 890
+
+54 510
+
+58 660*
+
+63 290*
+
+\6.
+
+do 32 let
+
+26 760
+
+28 840
+
+31 060
+
+33 530
+
+36 530
+
+42 010
+
+42 990
+
+44 810
+
+50 040
+
+53 260
+
+58 330
+
+61 790*
+
+66 520*
+
+\7.
+
+nad 32 let
+
+26 950
+
+29 140
+
+31 480
+
+34 110
+
+37 520
+
+43 020
+
+43 730
+
+45 760
+
+51 050
+
+54 720
+
+60 300
+
+63 790*
+
+68 580*
+
+Příloha č. 5 k nařízení vlády č. 341/2017 Sb.
+
+ČÁST A
+
+Skupiny prací podle míry ztěžujících vlivů pracovních podmínek
+
+I. skupina - Práce se zvýšenou mírou neuropsychické zátěže nebo jiným možným rizikem ohrožení zdraví nebo života
+
+\1. Práce vykonávané střídavě v různých směnách v rámci dvousměnného provozního režimu.
+
+\2. Přímá pedagogická činnost spojená s dohledem nad žáky nebo studenty, u kterých hrozí zvýšené riziko úrazu z důvodu používání strojů, nástrojů nebo přístrojů v rámci praktického vyučování nebo praktické přípravy.
+
+\3. Práce vyžadující individuální přístup k jednotlivým osobám, popřípadě rozhodování při volbě z více variantních řešení, spočívající v soustavném přímém osobním styku s
+
+3.1. občany v krizových sociálních situacích, při nichž dochází k ohrožení života, zdraví, základních životních potřeb (výživy, ošacení, ubytování), popřípadě vývoje nezletilých dětí,
+
+3.2. občany při výkonu posudkové služby.
+
+3.3. osobami, jejichž základní práva a svobody mohou být ohroženy v souvislosti s jednáním správního úřadu nebo dalších institucí, které jsou vůči těmto osobám v obdobném postavení, při plnění úkolů v rámci výkonu působnosti veřejného ochránce práv a ochránce práv dětí.
+
+\4. Práce spojené s ochranou a zajišťováním veřejných zájmů a vykonávané mimo sídlo zaměstnavatele, jeho organizačních útvarů, s výjimkou těchto prací vykonávaných u právnických osob, jejichž zakladatelem nebo zřizovatelem je zaměstnavatel, nebo které podle zvláštního právního předpisu odborně řídí, spočívající
+
+4.1. v soustavné revizní, kontrolní a vyhledávací činnosti,
+
+4.2. v provádění státního zdravotního dozoru v rámci hygienické služby.
+
+\5. Práce spočívající v revizní, kontrolní a vyhledávací činnosti v souvislosti s ověřováním správnosti údajů u plátců daní a poplatků, pojistného na sociální a zdravotní pojištění a příspěvku na státní politiku zaměstnanosti.
+
+\6. Práce spočívající ve fotogrammetrickém vyhodnocování a překreslování map.
+
+\7. Práce vykonávané zaměstnanci státu v ústředních správních úřadech, kterým jsou zvláštním právním předpisem svěřeny úkoly spojené s obranou a bezpečností státu nebo zaměstnanci v ozbrojených silách a bezpečnostních sborech, pokud se podílejí na plnění těchto úkolů, jde-li o práce spočívající v trvalé průběžné přípravě na plnění úkolů spojených s přechodem státu z mírového stavu do stavu ohrožení, nebo se zajišťováním krizového řízení.
+
+\8. Provádění úkonů souvisejících s činností soudu nebo státního zastupitelství.
+
+II. skupina - Práce se značnou mírou neuropsychické zátěže nebo jiným možným rizikem ohrožení zdraví nebo života
+
+\1. Práce vykonávané střídavě v různých směnách v rámci vícesměnného nebo nepřetržitého provozního režimu.
+
+\2. Přímá pedagogická činnost, diagnostická činnost nebo sociální práce s dětmi, žáky nebo studenty se speciálními vzdělávacími potřebami
+
+2.1. ve školách, třídách, odděleních nebo studijních skupinách samostatně zřízených pro tyto děti, žáky nebo studenty, a ve školách při zdravotnických zařízeních,
+
+2.2. ve výchovných skupinách školských zařízení samostatně zřízených pro tyto děti, žáky nebo studenty, ve třídách nebo ve výchovných skupinách školských zařízení samostatně zřízených pro tyto děti, žáky a studenty,
+
+2.3. ve speciálně pedagogickém centru nebo ve školských zařízeních pro výkon ústavní výchovy nebo ochranné výchovy a pro preventivně výchovnou péči,
+
+2.4. v zařízeních sociálních služeb pro osoby pro osoby s mentálním nebo tělesným postižením.
+
+\3. Práce, při nichž zaměstnanec přichází do styku se zadrženými, obviněnými, obžalovanými nebo odsouzenými osobami v rámci trestního řízení a občanského soudního řízení.
+
+\4. Práce spočívající v plnění zvláštních úkolů pro přípravu a zajišťování obrany a bezpečnosti státu, vykonávané zaměstnanci státu v ústředních správních úřadech, kterým jsou zvláštním právním předpisem svěřeny úkoly spojené s obranou a bezpečností státu nebo zaměstnanci v ozbrojených silách a bezpečnostních sborech.
+
+\5. Vyřizování žádostí o povolení k trvalému pobytu nebo o poskytnutí mezinárodní ochrany spojené s přímým každodenním osobním stykem s cizinci.
+
+\6. Soustavný výkon kontroly a dozoru na pozemních komunikacích nebo státního odborného dozoru v silniční dopravě při nepřerušeném silničním provozu.
+
+\7. Práce, při nichž zaměstnanec přichází do styku s cizinci umístěnými v zařízeních pro zajištění cizinců nebo se žadateli o udělení mezinárodní ochrany ubytovanými v azylových zařízeních.
+
+\8. Práce, při nichž zaměstnanec přichází při výkonu působnosti veřejného ochránce práv a ochránce práv dětí soustavně do přímého osobního styku s osobami omezenými na svobodě veřejnou mocí nebo v důsledku závislosti na poskytované péči.
+
+\9. Práce spočívající ve výkonu sociálně-právní ochrany dětí spojeném s vypjatými situacemi zásadně zasahujícími do života dítěte a jeho rodiny zejména ve vyloučených lokalitách nebo v jinak rizikovém prostředí.
+
+\10. Práce vyžadující individuální přístup k jednotlivým případům, popřípadě rozhodování při volbě z více variantních řešení, vykonávané v omezených časových nebo prostorových podmínkách a spočívající v soustavném přímém osobním styku s osobami v krizových sociálních situacích při posuzování jejich zdravotního stavu v jejich vlastním sociálním prostředí.
+
+III. skupina - Práce se značnou mírou neuropsychické zátěže a práce se zvýšeným rizikem ohrožení života nebo zdraví
+
+\1. Geodetické práce spojené s tvorbou map, vykonávané převážně v podzemí.
+
+\2. Výkon prací spočívajících v provádění úkonů v rámci výkonu rozhodnutí soudu.
+
+\3. Práce spojené s ochranou života a zdraví občanů a majetku před požáry, provádění požárních zásahů a poskytování pomoci při živelních pohromách a jiných mimořádných událostech.
+
+\4. Práce vykonávané zaměstnanci státu v ozbrojených silách a bezpečnostních sborech, jestliže
+
+4.1. spočívají v manipulaci s výbušninami,
+
+4.2. jsou trvale vykonávané v podzemí,
+
+4.3. jsou vykonávané pozemním leteckým personálem.
+
+\5. Práce spojené s ochranou zájmů státu nebo s ochranou a zajišťováním veřejných zájmů, pokud při nich může dojít k ohrožení života, zdraví nebo jiným závažným rizikům
+
+5.1. spočívající v rozhodování v daňovém nebo jiném správním řízení v působnosti orgánu Celní správy České republiky,
+
+5.2. vykonávané zaměstnanci státu v orgánu Celní správy České republiky, spočívající v soustavném výkonu kontrolní, revizní, vyhledávací, zajišťovací a exekuční činnosti.
+
+\6. Údržba (běžná, souvislá, zimní) a opravy pozemních komunikací při nepřerušeném silničním provozu.
+
+\7. Pravidelné poskytování zdravotních služeb zdravotnickými pracovníky vykonávajícími nelékařské zdravotnické povolání bez odborného dohledu v rozsahu alespoň 3 hodin po sobě jdoucích
+
+7.1. u poskytovatelů zdravotních služeb lůžkové péče v době, pro kterou stanoví vyhláška o požadavcích na minimální personální zabezpečení zdravotních služeb nižší požadavky na personální zabezpečení,
+
+7.2. v pobytových zařízeních sociálních služeb v době od 16 hodin do 7 hodin následujícího dne.
+
+\8. Provádění rozhodovací činnosti na úseku soudního výkonu nebo na úseku výkonu kompetencí státního zastupitelství.
+
+IV. skupina - Práce s nejvyšší mírou neuropsychické zátěže a práce s vysokým rizikem ohrožení života nebo zdraví
+
+\1. Práce spojené s ochranou zájmů státu nebo s ochranou a zajišťováním veřejných zájmů, pokud při nich může dojít k ohrožení života, zdraví nebo jiným závažným rizikům, vykonávané zaměstnanci státu
+
+1.1. v Národním bezpečnostním úřadu a v Národním úřadu pro kybernetickou a informační bezpečnost při plnění úkolů spojených s ochranou bezpečnostních zájmů státu,
+
+1.2. ve zpravodajských službách.
+
+\2. Práce vykonávané zaměstnanci státu v ozbrojených silách a bezpečnostních sborech nebo zaměstnanci státní příspěvkové organizace zřízené podle zákona o Vězeňské službě a justiční stráži České republiky spočívající v
+
+2.1. řízení letového provozu,
+
+2.2. činnosti potápěče, výsadkáře, instruktora speciální tělesné přípravy nebo vojenského záchranáře,
+
+2.3. zabezpečování výkonu vazby, výkonu trestu odnětí svobody a výkonu zabezpečovací detence, bezpečnosti vazebních věznic, věznic a ústavů pro výkon zabezpečovací detence a ve zdravotní péči o obviněné a odsouzené osoby a o osoby ve výkonu zabezpečovací detence a v přímé pedagogické činnosti ve vazebních věznicích, věznicích a v ústavech pro výkon zabezpečovací detence.
+
+\3. Práce vykonávané strážníky obecní policie spojené s ochranou a zajišťováním veřejného pořádku, pokud při nich může dojít k ohrožení života, zdraví nebo jiným závažným rizikům při zabezpečování místních záležitostí veřejného pořádku.
+
+\4. Poskytování neodkladné zdravotní péče členy výjezdové skupiny zdravotnické záchranné služby.
+
+\5. Soustavné poskytování zdravotních služeb na
+
+5.1. operačních a porodních sálech,
+
+5.2. anesteziologickoresuscitačních odděleních a odděleních urgentního příjmu,
+
+5.3. jednotkách intenzivní péče,
+
+5.4. onkologických odděleních.
+
+\6. Soustavné poskytování přímé zdravotní nebo přímé obslužné péče osobám u poskytovatele zdravotních služeb a v zařízeních sociálních služeb
+
+6.1. v psychiatrických a gerontologických odděleních lůžkových zařízení,
+
+6.2. v samostatných ošetřovatelských odděleních pro osoby upoutané na lůžko nebo vyžadující jinou náročnou ošetřovatelskou péči, případně v samostatných ošetřovatelských odděleních pro ošetřování osob s demencí,
+
+6.3. s tělesným postižením, duševní poruchou nebo poruchou chování.
+
+\7. Soustavné poskytování přímé obslužné péče osobám s tělesným postižením, duševní poruchou nebo poruchou chování v jejich domácím nebo dalším přirozeném prostředí v rámci sociální služby.
+
+\8. Práce, při nichž zaměstnanec provádí fyzickou kontrolu odsouzených v rámci výkonu alternativních trestů a opatření včetně trestu domácího vězení nebo soudem uložených omezení a povinností nebo dohledu.
+
+V. skupina - Práce s mimořádným rizikem ohrožení života nebo zdraví
+
+\1. Práce výkonného letce.
+
+\2. Práce soustavně vykonávané zaměstnanci státu v oblastech se zvýšeným rizikem vzniku válečných konfliktů nebo s jinými riziky, pokud při nich může dojít k ohrožení života, zdraví nebo jinému závažnému ohrožení.
+
+ČÁST B
+
+Skupina prací vykonávaných pedagogickými pracovníky se zvýšenou mírou zvláštní neuropsychické zátěže
+
+Práce třídního učitele, vedoucího oddělení na konzervatoři nebo základní umělecké škole nebo vedoucího studijní skupiny na vyšší odborné škole.
+
+Příloha č. 5 k nařízení vlády č. 341/2017 Sb.
+
+Skupiny prací podle míry ztěžujících vlivů pracovních podmínek
+
+I. skupina - Práce se zvýšenou mírou neuropsychické zátěže nebo jiným možným rizikem ohrožení zdraví nebo života
+
+\1. Práce vykonávané střídavě v různých směnách v rámci dvousměnného provozního režimu.
+
+\2. Přímá pedagogická činnost spojená s dohledem nad žáky nebo studenty, u kterých hrozí zvýšené riziko úrazu z důvodu používání strojů, nástrojů nebo přístrojů v rámci praktického vyučování nebo praktické přípravy.
+
+\3. Práce vyžadující individuální přístup k jednotlivým osobám, popřípadě rozhodování při volbě z více variantních řešení, spočívající v soustavném přímém osobním styku s
+
+3.1. občany v krizových sociálních situacích, při nichž dochází k ohrožení života, zdraví, základních životních potřeb (výživy, ošacení, ubytování), popřípadě vývoje nezletilých dětí,
+
+3.2. občany při výkonu posudkové služby.
+
+3.3. osobami, jejichž základní práva a svobody mohou být ohroženy v souvislosti s jednáním správního úřadu nebo dalších institucí, které jsou vůči těmto osobám v obdobném postavení, při plnění úkolů v rámci výkonu působnosti veřejného ochránce práv a ochránce práv dětí.
+
+\4. Práce spojené s ochranou a zajišťováním veřejných zájmů a vykonávané mimo sídlo zaměstnavatele, jeho organizačních útvarů, s výjimkou těchto prací vykonávaných u právnických osob, jejichž zakladatelem nebo zřizovatelem je zaměstnavatel, nebo které podle zvláštního právního předpisu odborně řídí, spočívající
+
+4.1. v soustavné revizní, kontrolní a vyhledávací činnosti,
+
+4.2. v provádění státního zdravotního dozoru v rámci hygienické služby.
+
+\5. Práce spočívající v revizní, kontrolní a vyhledávací činnosti v souvislosti s ověřováním správnosti údajů u plátců daní a poplatků, pojistného na sociální a zdravotní pojištění a příspěvku na státní politiku zaměstnanosti.
+
+\6. Práce spočívající ve fotogrammetrickém vyhodnocování a překreslování map.
+
+\7. Práce vykonávané zaměstnanci státu v ústředních správních úřadech, kterým jsou zvláštním právním předpisem svěřeny úkoly spojené s obranou a bezpečností státu nebo zaměstnanci v ozbrojených silách a bezpečnostních sborech, pokud se podílejí na plnění těchto úkolů, jde-li o práce spočívající v trvalé průběžné přípravě na plnění úkolů spojených s přechodem státu z mírového stavu do stavu ohrožení, nebo se zajišťováním krizového řízení.
+
+\8. Provádění úkonů souvisejících s činností soudu nebo státního zastupitelství.
+
+II. skupina - Práce se značnou mírou neuropsychické zátěže nebo jiným možným rizikem ohrožení zdraví nebo života
+
+\1. Práce vykonávané střídavě v různých směnách v rámci vícesměnného nebo nepřetržitého provozního režimu.
+
+\2. Přímá pedagogická činnost, diagnostická činnost nebo sociální práce s dětmi, žáky nebo studenty se speciálními vzdělávacími potřebami
+
+2.1. ve školách, třídách, odděleních nebo studijních skupinách samostatně zřízených pro tyto děti, žáky nebo studenty, a ve školách při zdravotnických zařízeních,
+
+2.2. ve výchovných skupinách školských zařízení samostatně zřízených pro tyto děti, žáky nebo studenty, ve třídách nebo ve výchovných skupinách školských zařízení samostatně zřízených pro tyto děti, žáky a studenty,
+
+2.3. ve speciálně pedagogickém centru nebo ve školských zařízeních pro výkon ústavní výchovy nebo ochranné výchovy a pro preventivně výchovnou péči,
+
+2.4. v zařízeních sociálních služeb pro osoby pro osoby s mentálním nebo tělesným postižením.
+
+\3. Práce, při nichž zaměstnanec přichází do styku se zadrženými, obviněnými, obžalovanými nebo odsouzenými osobami v rámci trestního řízení a občanského soudního řízení.
+
+\4. Práce spočívající v plnění zvláštních úkolů pro přípravu a zajišťování obrany a bezpečnosti státu, vykonávané zaměstnanci státu v ústředních správních úřadech, kterým jsou zvláštním právním předpisem svěřeny úkoly spojené s obranou a bezpečností státu nebo zaměstnanci v ozbrojených silách a bezpečnostních sborech.
+
+\5. Vyřizování žádostí o povolení k trvalému pobytu nebo o poskytnutí mezinárodní ochrany spojené s přímým každodenním osobním stykem s cizinci.
+
+\6. Soustavný výkon kontroly a dozoru na pozemních komunikacích nebo státního odborného dozoru v silniční dopravě při nepřerušeném silničním provozu.
+
+\7. Práce, při nichž zaměstnanec přichází do styku s cizinci umístěnými v zařízeních pro zajištění cizinců nebo se žadateli o udělení mezinárodní ochrany ubytovanými v azylových zařízeních.
+
+\8. Práce, při nichž zaměstnanec přichází při výkonu působnosti veřejného ochránce práv a ochránce práv dětí soustavně do přímého osobního styku s osobami omezenými na svobodě veřejnou mocí nebo v důsledku závislosti na poskytované péči.
+
+\9. Práce spočívající ve výkonu sociálně-právní ochrany dětí spojeném s vypjatými situacemi zásadně zasahujícími do života dítěte a jeho rodiny zejména ve vyloučených lokalitách nebo v jinak rizikovém prostředí.
+
+\10. Práce vyžadující individuální přístup k jednotlivým případům, popřípadě rozhodování při volbě z více variantních řešení, vykonávané v omezených časových nebo prostorových podmínkách a spočívající v soustavném přímém osobním styku s osobami v krizových sociálních situacích při posuzování jejich zdravotního stavu v jejich vlastním sociálním prostředí.
+
+III. skupina - Práce se značnou mírou neuropsychické zátěže a práce se zvýšeným rizikem ohrožení života nebo zdraví
+
+\1. Geodetické práce spojené s tvorbou map, vykonávané převážně v podzemí.
+
+\2. Výkon prací spočívajících v provádění úkonů v rámci výkonu rozhodnutí soudu.
+
+\3. Práce spojené s ochranou života a zdraví občanů a majetku před požáry, provádění požárních zásahů a poskytování pomoci při živelních pohromách a jiných mimořádných událostech.
+
+\4. Práce vykonávané zaměstnanci státu v ozbrojených silách a bezpečnostních sborech, jestliže
+
+4.1. spočívají v manipulaci s výbušninami,
+
+4.2. jsou trvale vykonávané v podzemí,
+
+4.3. jsou vykonávané pozemním leteckým personálem.
+
+\5. Práce spojené s ochranou zájmů státu nebo s ochranou a zajišťováním veřejných zájmů, pokud při nich může dojít k ohrožení života, zdraví nebo jiným závažným rizikům
+
+5.1. spočívající v rozhodování v daňovém nebo jiném správním řízení v působnosti orgánu Celní správy České republiky,
+
+5.2. vykonávané zaměstnanci státu v orgánu Celní správy České republiky, spočívající v soustavném výkonu kontrolní, revizní, vyhledávací, zajišťovací a exekuční činnosti.
+
+\6. Údržba (běžná, souvislá, zimní) a opravy pozemních komunikací při nepřerušeném silničním provozu.
+
+\7. Pravidelné poskytování zdravotních služeb zdravotnickými pracovníky vykonávajícími nelékařské zdravotnické povolání bez odborného dohledu v rozsahu alespoň 3 hodin po sobě jdoucích
+
+7.1. u poskytovatelů zdravotních služeb lůžkové péče v době, pro kterou stanoví vyhláška o požadavcích na minimální personální zabezpečení zdravotních služeb nižší požadavky na personální zabezpečení,
+
+7.2. v pobytových zařízeních sociálních služeb v době od 16 hodin do 7 hodin následujícího dne.
+
+\8. Provádění rozhodovací činnosti na úseku soudního výkonu nebo na úseku výkonu kompetencí státního zastupitelství.
+
+IV. skupina - Práce s nejvyšší mírou neuropsychické zátěže a práce s vysokým rizikem ohrožení života nebo zdraví
+
+\1. Práce spojené s ochranou zájmů státu nebo s ochranou a zajišťováním veřejných zájmů, pokud při nich může dojít k ohrožení života, zdraví nebo jiným závažným rizikům, vykonávané zaměstnanci státu
+
+1.1. v Národním bezpečnostním úřadu a v Národním úřadu pro kybernetickou a informační bezpečnost při plnění úkolů spojených s ochranou bezpečnostních zájmů státu,
+
+1.2. ve zpravodajských službách.
+
+\2. Práce vykonávané zaměstnanci státu v ozbrojených silách a bezpečnostních sborech nebo zaměstnanci státní příspěvkové organizace zřízené podle zákona o Vězeňské službě a justiční stráži České republiky spočívající v
+
+2.1. řízení letového provozu,
+
+2.2. činnosti potápěče, výsadkáře, instruktora speciální tělesné přípravy nebo vojenského záchranáře,
+
+2.3. zabezpečování výkonu vazby, výkonu trestu odnětí svobody a výkonu zabezpečovací detence, bezpečnosti vazebních věznic, věznic a ústavů pro výkon zabezpečovací detence a ve zdravotní péči o obviněné a odsouzené osoby a o osoby ve výkonu zabezpečovací detence a v přímé pedagogické činnosti ve vazebních věznicích, věznicích a v ústavech pro výkon zabezpečovací detence.
+
+\3. Práce vykonávané strážníky obecní policie spojené s ochranou a zajišťováním veřejného pořádku, pokud při nich může dojít k ohrožení života, zdraví nebo jiným závažným rizikům při zabezpečování místních záležitostí veřejného pořádku.
+
+\4. Poskytování neodkladné zdravotní péče členy výjezdové skupiny zdravotnické záchranné služby.
+
+\5. Soustavné poskytování zdravotních služeb na
+
+5.1. operačních a porodních sálech,
+
+5.2. anesteziologickoresuscitačních odděleních a odděleních urgentního příjmu,
+
+5.3. jednotkách intenzivní péče,
+
+5.4. onkologických odděleních.
+
+\6. Soustavné poskytování přímé zdravotní nebo přímé obslužné péče osobám u poskytovatele zdravotních služeb a v zařízeních sociálních služeb
+
+6.1. v psychiatrických a gerontologických odděleních lůžkových zařízení,
+
+6.2. v samostatných ošetřovatelských odděleních pro osoby upoutané na lůžko nebo vyžadující jinou náročnou ošetřovatelskou péči, případně v samostatných ošetřovatelských odděleních pro ošetřování osob s demencí,
+
+6.3. s tělesným postižením, duševní poruchou nebo poruchou chování.
+
+\7. Soustavné poskytování přímé obslužné péče osobám s tělesným postižením, duševní poruchou nebo poruchou chování v jejich domácím nebo dalším přirozeném prostředí v rámci sociální služby.
+
+\8. Práce, při nichž zaměstnanec provádí fyzickou kontrolu odsouzených v rámci výkonu alternativních trestů a opatření včetně trestu domácího vězení nebo soudem uložených omezení a povinností nebo dohledu.
+
+V. skupina - Práce s mimořádným rizikem ohrožení života nebo zdraví
+
+\1. Práce výkonného letce.
+
+\2. Práce soustavně vykonávané zaměstnanci státu v oblastech se zvýšeným rizikem vzniku válečných konfliktů nebo s jinými riziky, pokud při nich může dojít k ohrožení života, zdraví nebo jinému závažnému ohrožení.
+
+\6) Nařízení vlády č. 222/2010 Sb., o katalogu prací ve veřejných službách a správě, ve znění pozdějších předpisů.
