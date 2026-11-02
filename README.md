@@ -1,11 +1,12 @@
 # Czech law, change by change
 
 Every act of legislation in the Czech **Sbírka zákonů** (Collection of Laws) that e-Sbírka publishes in consolidated
-versions, as one git repository: 18,573 acts (5,114 zákony, 122 ústavní
-zákony, 3,874 nařízení, 9,209 vyhlášky, 100
+versions, as one git repository: 18,576 acts (5,114 zákony, 122 ústavní
+zákony, 3,875 nařízení, 9,211 vyhlášky, 100
 decrees, 154 Senate statutory measures, and the Charter of Fundamental Rights and Freedoms). Each
 amending act is one commit per day it took effect, credited to that act and dated that day at noon in Prague. The text
-is e-Sbírka's own, from its open datasets of 2026-10-28.
+is e-Sbírka's own, from its open datasets of 2026-10-28, with the laws that took effect since, and e-Sbírka's own
+corrections to earlier versions, appended from its datasets of 2026-11-02 (see REPRODUCE.md).
 
 The Constitution, 1/1993 Sb., is [`sb/1993/1.md`](sb/1993/1.md); the Charter (Listina), 2/1993 Sb., is
 [`sb/1993/2.md`](sb/1993/2.md).
@@ -25,7 +26,8 @@ The Constitution, 1/1993 Sb., is [`sb/1993/1.md`](sb/1993/1.md); the Charter (Li
 | A version of the Constitution by its day | `git show --stat sb/1993/1/2013-03-08` |
 | Changes no single act explains | `git log --oneline --author="e-Sbírka" -n 5` |
 | Acts repealed by one act | `git log --format=%B --author="Zákon č. 89/2012 Sb." --grep="^Repeals:"` |
-| Laws taking effect after 2026-10-28 | `git log --oneline main..future -n 5` |
+| Laws taking effect later (as of 2026-10-28) | `git log --oneline main..future -n 5` |
+| Corrections e-Sbírka made to versions already published | `git log --oneline --grep="^Kind: correction"` |
 
 ## The dates, and which one we use
 
@@ -36,8 +38,14 @@ and the day it takes effect (*účinnost*). **Commits are dated the day the vers
 each fragment that is not yet in force with its later date; those lines end in `*(účinnost od YYYY-MM-DD)*`, and the
 mark goes when the fragment takes effect. Git cannot store dates before 1970, so the 4,889 commits before
 1970 are dated 1970-01-01T00:00:01Z onwards, one second apart; their `In-force:` is the real day. Use
-`tools/czlaw.py` (which reads `In-force:`), not `git log --before`, for dates. Versions taking effect after 2026-10-28
-are on the `future` branch, which starts at `main`'s head; `main` holds only law in force on or before 2026-10-28.
+`tools/czlaw.py` (which reads `In-force:`), not `git log --before`, for dates. `main` holds only law in force on or before 2026-11-02.
+The `future` branch holds the versions that were due to take effect after 2026-10-28, as e-Sbírka published them
+that day; it starts at that day's `main` and is not moved when `main` is appended to (branches here only move
+forward), so some of its versions are now on `main` too, and laws promulgated since are not on it.
+Where e-Sbírka later publishes a different text for a version already recorded, the correction is appended at the
+tip as its own commit by `e-Sbírka`, with `Kind: correction`, `In-force:` (the first day it corrects), `Corrects:
+<act> <from>..<to>` (the days it applies to, open-ended when it runs on) and `Supersedes:` (the published commit it
+corrects). The published commits stay as they were; `tools/czlaw.py` reads the corrections for those days.
 The branch `law-head` is the last law commit on `main`. Tags `sb/<year>/<number>/<day>` mark each version of the
 constitutional acts.
 
@@ -125,5 +133,6 @@ Všechny právní předpisy Sbírky zákonů, které e-Sbírka publikuje v konso
   vazby e-Sbírky.
 - **Každý předpis je jeden soubor** `sb/<rok>/<číslo>.md`, každý fragment (odstavec, písmeno, bod) jeden řádek.
 - **Změny, které vazby nevysvětlují**, nejsou připsány žádnému předpisu; commit je od `e-Sbírka`.
-- **Znění účinná až po 2026-10-28** jsou ve větvi `future`.
+- **Znění účinná až po 2026-10-28** jsou ve větvi `future` (stav k 2026-10-28; větev se při doplňování `main` neposouvá).
+- **Opravy e-Sbírky** k již zapsaným zněním jsou připojeny na konec historie jako samostatné commity (`Kind: correction`).
 - Text pochází z otevřených dat e-Sbírky (Ministerstvo vnitra ČR); právně závazné je znění vyhlášené ve Sbírce zákonů.

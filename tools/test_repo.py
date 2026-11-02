@@ -109,31 +109,49 @@ class Smoke:
                                                  capture_output=True).returncode]
         assert not bad, f'tags that do not resolve: {bad[:3]}'
         rows = self.git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', 'main', 'future').splitlines()
-        head = self.git('rev-parse', 'main').strip()
-        missing = [r for r in rows if not r.split('\t')[1].strip() and r.split('\t')[0] != head]
+        docs = self.docs_commits()
+        missing = [r for r in rows if not r.split('\t')[1].strip() and r.split('\t')[0] not in docs]
         assert not missing, f'{len(missing)} commits without In-force'
-        assert not [r for r in rows if r.split('\t')[0] == head and r.split('\t')[1].strip()], 'documentation commit has In-force'
+        assert not [r for r in rows if r.split('\t')[0] in docs and r.split('\t')[1].strip()], 'documentation commit has In-force'
         bad = [r for r in rows if r.split('\t')[1].strip() and not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[1].strip())]
         assert not bad, f'malformed In-force {bad[:2]}'
         keys = set(re.findall(r'^([^:\n]+):', self.git('log', '--format=%(trailers:only,unfold)', 'main', 'future'), re.M))
         assert all(k.isascii() for k in keys), f'non-ASCII trailer keys {keys}'
-        return f'{len(tags)} tags resolve; {len(rows) - 1} law commits carry In-force; trailer keys {sorted(keys)}'
+        return f'{len(tags)} tags resolve; {len(rows) - len(docs)} law commits carry In-force; trailer keys {sorted(keys)}'
+
+    def docs_commits(self):
+        """The documentation commits: by Lexifina, touching no law file (the first build's, and one per append)."""
+        out = self.git('log', '--author=^Lexifina <', '--format=@@%H', '--name-only', 'main')
+        docs, sha = {}, None
+        for line in out.splitlines():
+            if line.startswith('@@'):
+                sha = line[2:]
+                docs[sha] = []
+            elif line:
+                docs[sha].append(line)
+        assert docs, 'no documentation commit'
+        law = {s: [p for p in ps if p.startswith('sb/')] for s, ps in docs.items()}
+        assert not any(law.values()), f'a Lexifina commit changes law files: {[s[:10] for s, p in law.items() if p]}'
+        return set(docs)
 
     def lexifina(self):
         rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()
+        docs = self.docs_commits()
         by_lex = [r for r in rows if r.split('\t')[1] == 'Lexifina']
-        assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
+        assert {r.split('\t')[0] for r in by_lex} == docs and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
         assert all(r.split('\t')[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
-        assert all(r.split('\t')[2].endswith('.invalid') for r in rows[1:]), 'an author address that is not .invalid'
-        authors = {r.split('\t')[1] for r in rows[1:]}
+        others = [r for r in rows if r.split('\t')[0] not in docs]
+        assert all(r.split('\t')[2].endswith('.invalid') for r in others), 'an author address that is not .invalid'
+        authors = {r.split('\t')[1] for r in others}
         assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {sorted(authors - {PUBLISHER})[:5]}'
-        return f'only the documentation commit {rows[0][:10]} is by Lexifina; {len(authors)} distinct authors'
+        return f'only the {len(docs)} documentation commits (head {rows[0][:10]}) are by Lexifina; {len(authors)} distinct authors'
 
     def branches(self):
         corpus = json.loads((self.repo / 'corpus.json').read_text(encoding='utf-8'))
-        built = corpus['built']
+        built = corpus['built']                                   # the day the future branch was made
+        upto = (corpus.get('appended') or [{'on': built}])[-1]['on']   # the last day main was built or appended to
         main = [d for d in self.git('log', '--format=%(trailers:key=In-force,valueonly,separator=)', 'main').split() if d]
-        assert max(main) <= built, f'main has {max(main)} after {built}'
+        assert max(main) <= upto, f'main has {max(main)} after {upto}'
         assert max(main) == corpus['record_to'], f"record_to {corpus['record_to']} is not main's last day {max(main)}"
         fut = [d for d in self.git('log', '--format=%(trailers:key=In-force,valueonly,separator=)', 'main..future').split() if d]
         assert all(d > built for d in fut), 'future has a day on or before the build day'

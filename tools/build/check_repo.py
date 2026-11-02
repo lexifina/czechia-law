@@ -88,23 +88,59 @@ def check_act(job: dict) -> dict:
 
 
 class Repo:
+    """A branch's law timeline, read by In-force: as tools/czlaw.py reads it. Appended "Kind: correction" commits
+    (Corrects: <act> <from>..<to>) are left out of the timeline; for the acts they touch, the text in force on a day
+    comes from the act's own history: of the commits touching it, the one with the greatest In-force day on or before
+    the day (a correction only within the days it names), a later commit winning a tie."""
+
     def __init__(self, repo: Path, branch: str):
         self.repo = repo
-        rows = subprocess.run(["git", "log", "--first-parent", "--reverse", "--format=%H %(trailers:key=In-force,valueonly,separator=)", branch],
-                              cwd=repo, capture_output=True, text=True, check=True).stdout.splitlines()
+        rows = subprocess.run(["git", "log", "--first-parent", "--reverse", "--format=%H\x1f%(trailers:key=In-force,valueonly,separator=)\x1f%(trailers:key=Kind,valueonly,separator=)\x1f%(trailers:key=Corrects,valueonly,separator=)", branch],
+                              cwd=repo, capture_output=True, text=True, encoding="utf-8", check=True).stdout.splitlines()
         self.days, self.shas = [], []
-        for r in rows:
-            sha, _, day = r.partition(" ")
+        self.corr: dict = defaultdict(list)     # path -> [(from, until or None, order, sha)]
+        order = {}
+        for i, r in enumerate(rows):
+            sha, day, kind, corrects = (r.split("\x1f") + ["", "", ""])[:4]
             day = day.strip()
+            order[sha] = i
+            if kind.strip().lower() == "correction":
+                act, _, rng = corrects.strip().partition(" ")
+                fr, _, to = rng.partition("..")
+                self.corr[act + ".md"].append((fr, to or None, i, sha))
+                continue
             if day:
                 if self.days and day < self.days[-1]:
                     raise SystemExit(f"{branch}: In-force goes backwards at {sha[:10]} ({day} after {self.days[-1]})")
                 self.days.append(day)
                 self.shas.append(sha)
+        self.touch: dict = defaultdict(list)    # corrected path -> [(in-force, order, sha)] of the law commits touching it
+        if self.corr:
+            dayof = dict(zip(self.shas, self.days))
+            out = subprocess.run(["git", "log", "--first-parent", "--format=@@%H", "--name-only", branch, "--", *sorted(self.corr)],
+                                 cwd=repo, capture_output=True, text=True, encoding="utf-8", check=True).stdout
+            sha = None
+            for line in out.splitlines():
+                if line.startswith("@@"):
+                    sha = line[2:]
+                elif line and sha in dayof:
+                    self.touch[line].append((dayof[sha], order[sha], sha))
 
     def at(self, day: str):
         i = bisect.bisect_right(self.days, day) - 1
         return self.shas[i] if i >= 0 else None
+
+    def read(self, batch, path: str, day: str):
+        """(commit, blob id or None) of `path` in force on `day`."""
+        if path not in self.corr:
+            sha = self.at(day)
+            return sha, (batch.blob(f"{sha}:{path}") if sha else None)
+        cands = [(d, o, s) for d, o, s in self.touch[path] if d <= day]
+        cands += [(f, o, s) for f, t, o, s in self.corr[path] if f <= day and (t is None or day <= t)]
+        if not cands:
+            return None, None
+        _, _, sha = max(cands)
+        return sha, batch.blob(f"{sha}:{path}")
 
 
 class Batch:
@@ -143,8 +179,7 @@ def main() -> int:
             path = f"{coll}/{year}/{num}.md"
             for od, want, v in res["versions"]:
                 r = main_ if od <= a.docs_date else fut
-                sha = r.at(od) if r else None
-                got = batch.blob(f"{sha}:{path}") if sha else None
+                sha, got = r.read(batch, path, od) if r else (None, None)
                 n += 1
                 if got != want:
                     bad += 1
@@ -156,9 +191,9 @@ def main() -> int:
                 r = main_ if res["end"] <= a.docs_date else fut
                 if r:
                     ends += 1
-                    after = r.at(res["end"])
-                    before = r.at((dt.date.fromisoformat(res["end"]) - dt.timedelta(days=1)).isoformat())
-                    if (after and batch.blob(f"{after}:{path}")) or not (before and batch.blob(f"{before}:{path}")):
+                    after = r.read(batch, path, res["end"])[1]
+                    before = r.read(batch, path, (dt.date.fromisoformat(res["end"]) - dt.timedelta(days=1)).isoformat())[1]
+                    if after or not before:
                         endbad += 1
                         if len(examples) < 20:
                             examples.append(f"{res['act']}: end {res['end']} not as expected")
@@ -168,7 +203,7 @@ def main() -> int:
                     examples.append(f"fidelity: {res['fidelity_bad'][:2]}")
     result = {"versions_checked": n, "versions_differ": bad, "versions_without_file": nofile, "ends_checked": ends,
               "ends_wrong": endbad, "fidelity_mismatch": fid_bad, "acts": len(jobs), "seconds": round(time.time() - t0),
-              "main_commits_with_in_force": len(main_.days), "future_commits": (len(fut.days) - len(main_.days)) if fut else 0}
+              "main_commits_with_in_force": len(main_.days), "correction_commits": sum(len(v) for v in main_.corr.values()), "future_commits": (len(fut.days) - len(main_.days)) if fut else 0}
     print(json.dumps(result, indent=1))
     for e in examples:
         print("  " + e)

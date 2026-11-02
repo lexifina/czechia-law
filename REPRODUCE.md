@@ -5,10 +5,9 @@ Everything needed to rebuild it, byte for byte, from e-Sbírka's open data.
 ## Sources
 
 e-Sbírka's open datasets, https://opendata.eselpoint.cz/datove-sady-esbirka (Ministerstvo vnitra ČR; refreshed
-daily), downloaded once on 2026-10-28 with `curl -C -` (resumable), 4 at a time, User-Agent
-`Lexifina-czechia-law/1.0 (czechia-law@lexifina.com)`. 45 files, 2.3 GB; one request each, plus one HEAD each for the
-headers. opendata.eselpoint.cz serves no robots.txt (404). The terms of use were read first, from the National Open
-Data Catalogue's SPARQL endpoint (https://data.gov.cz/sparql): see [`LICENSE`](LICENSE). The build reads six files:
+daily), downloaded on 2026-10-28: 45 files, 2.3 GB. opendata.eselpoint.cz serves no robots.txt (404). The terms of
+use were read first, from the National Open Data Catalogue's SPARQL endpoint (https://data.gov.cz/sparql): see
+[`LICENSE`](LICENSE). The build reads six files:
 
 | File | Bytes | sha256 | Last-Modified |
 | --- | --- | --- | --- |
@@ -24,8 +23,7 @@ The other 39 files (code lists, CzechVOC, references) were downloaded and hashed
 ## Commands
 
 ```
-# 1. download (scripts/czechia-law/fetch.sh in the Lexifina monorepo), then check sizes against Content-Length
-bash fetch.sh 001PravniAktZneni.json.gz ... 045CiselnikSablonaObsahu.json.gz
+# 1. download the datasets from https://opendata.eselpoint.cz/datove-sady-esbirka, then check sizes against Content-Length
 sha256sum *.json.gz; gzip -t *.json.gz
 # 2. decompress once, so workers can parse byte ranges in parallel
 for f in 001PravniAktZneni 002PravniAkt 003PravniAktZneniFragment 004PravniAktFragment 006PravniAktMetadata 007PravniAktKonsolidacniVazba; do zcat raw/$f.json.gz > json/$f.json; done
@@ -87,3 +85,54 @@ This repository and its build were made by Claude Code with Claude Opus 5.5 (`cl
 it read the terms, wrote the scripts, ran them and wrote this documentation. No AI wrote or changed any legal text, and
 no model runs at build time: every line of law is e-Sbírka's, reduced from HTML to text by `render.py`. The commit
 messages are assembled by code from e-Sbírka's data.
+
+## Appended on 2026-11-02
+
+`main` only grows: nothing above was rebuilt or rewritten. This part was appended on top of the documentation commit
+of 2026-10-28.
+
+**Data.** The six datasets the build reads, as e-Sbírka published them on 2026-11-02 (Last-Modified Mon, 02 Nov 2026):
+
+| File | Bytes | SHA-256 |
+| --- | ---: | --- |
+| `001PravniAktZneni.json.gz` | 178,037,865 | `cec482810953afeaf4446236822f8ceb25a58da2f9b180966c5c69a5b5e4e191` |
+| `002PravniAkt.json.gz` | 5,422,774 | `2f60610175d0e1c29132269164e1ad34c6474be94d68734f0d0eb6322a9da813` |
+| `003PravniAktZneniFragment.json.gz` | 1,253,388,347 | `b3a6619161fd514e732de1d9a6b17efef77a42690f97b6b7ede5895362e3e073` |
+| `004PravniAktFragment.json.gz` | 531,639,276 | `e0358723bb545e8c3337a8d1cee908dfc0d8aa2b73d80e1f148421962b023c8e` |
+| `006PravniAktMetadata.json.gz` | 6,266,982 | `5c2e37007d049802a2c09f1d97fb29da245a89e0af629e801ce0f19e1b30c4df` |
+| `007PravniAktKonsolidacniVazba.json.gz` | 19,970,836 | `84cf79961ebb4c7e844b39148d46842336ea0384bf9b95103ebe80fe77127754` |
+
+**Method.** The unchanged `tools/build/` scripts (steps 2–4 above, `--docs-date 2026-11-02`, no documentation
+commit) made a full build from these files: 18,576 acts, 52,741 consolidated versions, law in force to 2026-11-01.
+Every act's history up to 2026-10-26, the last day of the history published on 2026-10-28, was compared, day by day,
+with `law-head` (138211d2e4079c99482dc7c360f02a5356a39fd5):
+
+- **37 acts read differently on days already published** (16 of them on 2026-10-26 itself), because e-Sbírka now
+  publishes different consolidated texts for them (for example, fragments marked as taking effect in 2027 or 2028 removed from the versions in force, and
+  formula tables in sb/2015/408 republished in a different markup). Each is corrected by an appended commit by
+  `e-Sbírka <publisher@esbirka.invalid>`, one for every day the published text and the new text first differ:
+  106 commits with `Kind: correction`, `In-force:` and `Corrected:` (the first day corrected), `Corrects: <act>
+  <from>..<to>` (open-ended when it runs on), `Supersedes:` (the published commit that day's text came from) and
+  `Reason:`. Where only earlier days of an act were corrected, one more commit of the same kind restates the text
+  in force from the act's last day of change (unchanged), so that its file at the tip is its current text again
+  (21 commits; 127 in all). With them, every act reads as in the new build on every day to 2026-10-26.
+- **10 law commits** in force from 2026-10-30 to 2026-11-01 were then appended: nine credited to 183, 199, 200, 203,
+  206, 207 and 208/2026 Sb. (206, 207 and 208/2026 Sb. are new acts) and one by `e-Sbírka` recording seven repeals.
+  They are the new build's own commits, with the same messages, authors and author dates, and their `sb/` tree.
+
+Committer dates continue from the commit before, one second apart, so committer dates never go backwards. The
+`future` branch is left as it was published on 2026-10-28 (branches here only move forward); `law-head` moves to the
+last appended law commit.
+
+**Readers.** `tools/czlaw.py` and `tools/build/check_repo.py` now leave correction commits out of the `In-force:`
+order and, for an act a correction touches, read the act's own history: the commit with the greatest `In-force:` day
+on or before the day asked (a correction only within the days it names), a later commit winning a tie. New git blob
+ids: `tools/czlaw.py` `d84ce6391ea90f5a1f9b2dd81eb4c8f77bb5f500`, `tools/build/check_repo.py`
+`c3567b9d5f03a3209d485aceb4beb82bd3ab5e85`. `tools/test_repo.py` (and its copy in `tools/build/`, `c83d38df05b7c7b6a1da85903fec8d315127f75c`)
+now accepts one documentation commit per append (by Lexifina, touching no law file) and checks `main` against the
+last append day and `future` against the day it was made. The other scripts are unchanged.
+
+**Check.** `check_repo.py` against the datasets of 2026-11-02 (versions after 2026-11-02 read from that build's own
+`future` branch, which has the same texts): `{"acts": 18576, "correction_commits": 127, "ends_checked": 9642, "ends_wrong": 0, "fidelity_mismatch": 0, "future_commits": 95, "main_commits_with_in_force": 33650, "versions_checked": 52741, "versions_differ": 0, "versions_without_file": 0}`
+
+`tools/test_repo.py`: 7/7 passed.
