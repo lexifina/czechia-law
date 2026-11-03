@@ -23,6 +23,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-04-17 | 48/3 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů | [t004803.md](t004803.md) |
 | 2026-04-28 | 48/4 | Usnesení garančního výboru č. 49 ze dne 28. dubna 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů | [t004804.md](t004804.md) |
 | 2026-10-21 | 48/5 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů | [t004805.md](t004805.md) |
+| 2026-11-03 | 48/6 | Usnesení garančního výboru č. 68 ze dne 3. listopadu 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 326/2004 Sb., o rostlinolékařské péči a o změně některých souvisejících zákonů, ve znění pozdějších předpisů | [t004806.md](t004806.md) |
 
 ## Files
 
@@ -39,5 +40,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t004803.md](t004803.md) | 48/3 | Text | [t004803.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269497) | pymupdf / pdftotext 1.0000 |
 | [t004804.md](t004804.md) | 48/4 | Text | [t004804.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269722) | pymupdf / pdftotext 1.0000 |
 | [t004805.md](t004805.md) | 48/5 | Text | [t004805.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281617) | pymupdf / pdftotext 1.0000 |
+| [t004806.md](t004806.md) | 48/6 | Text | [t004806.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281999) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
