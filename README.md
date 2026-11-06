@@ -1,5 +1,7 @@
 # Czech law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Czechia's national law, which global-law reads at `czechia/national/acts/`.
+
 Every act of legislation in the Czech **Sbírka zákonů** (Collection of Laws) that e-Sbírka publishes in consolidated
 versions, as one git repository: 18,576 acts (5,114 zákony, 122 ústavní
 zákony, 3,875 nařízení, 9,211 vyhlášky, 100
