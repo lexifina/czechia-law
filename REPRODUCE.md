@@ -136,3 +136,29 @@ last append day and `future` against the day it was made. The other scripts are 
 `future` branch, which has the same texts): `{"acts": 18576, "correction_commits": 127, "ends_checked": 9642, "ends_wrong": 0, "fidelity_mismatch": 0, "future_commits": 95, "main_commits_with_in_force": 33650, "versions_checked": 52741, "versions_differ": 0, "versions_without_file": 0}`
 
 `tools/test_repo.py`: 7/7 passed.
+
+## Appended on 2026-11-08
+
+`main` only grows: nothing above was rebuilt or rewritten. This part was appended on top of the documentation commits
+of 2026-11-02, 2026-11-04 and 2026-11-06.
+
+**Data.** The six datasets the build reads, as e-Sbírka published them on 2026-11-08 (Last-Modified Sun, 08 Nov 2026):
+
+| File | Bytes | SHA-256 |
+| --- | ---: | --- |
+| `001PravniAktZneni.json.gz` | 178,314,695 | `bb485533eecb811a84ea46949becc432b099704f05d78c5a140aff2afef3b44b` |
+| `002PravniAkt.json.gz` | 5,425,514 | `da0c87c2daed581633829350821c10ca709ed145ec1f4828559da01f1ef3cd34` |
+| `003PravniAktZneniFragment.json.gz` | 1,249,059,397 | `ac07eb27ded56b0d1907cf388f8ba364deb1411a057e2d9ca6628cd62b919266` |
+| `004PravniAktFragment.json.gz` | 531,954,769 | `c2dcc041425f8409910937d75e2b77ff10b0b045ec208a845a46b11643ace130` |
+| `006PravniAktMetadata.json.gz` | 5,899,180 | `3404bbf2245b447e1e0318d4c1d0dcf4003154cf3df242039f0ce8a47606f935` |
+| `007PravniAktKonsolidacniVazba.json.gz` | 20,046,936 | `21c599e7bf79f6399b28ee37b8d49c1dff4f70371cb5d23b3455c3e746eaf4ae` |
+
+**Method.** As for 2026-11-02: the unchanged `tools/build/` scripts made a full build from these files
+(`--docs-date 2026-11-08`): 18,582 acts, 52,799 consolidated versions. Every act's whole
+history up to 2026-11-01 (the published `record_to`) was compared, day by day, with the published `law-head`, reading
+the published corrections over their `Corrects:` ranges. Where e-Sbírka's text differs on a published day, a
+`Kind: correction` commit by e-Sbírka sets the act's file to its current text for those days (82 commits,
+including restatements of the current text after corrections to earlier days). Then the build's law commits after
+2026-11-01 up to 2026-11-08 were appended (5 commits), same messages and authors as the build.
+
+**Check.** `tools/build/check_repo.py` on the appended history against the 2026-11-08 data: `check_repo exit 0, 0 versions differ {"versions_checked":52799,"versions_differ":0,"versions_without_file":0,"ends_checked":9653,"ends_wrong":0,"fidelity_mismatch":0,"acts":18582,"seconds":1624,"main_commits_with_in_force":33655,"correction_commits":209,"future_commits":105}`.

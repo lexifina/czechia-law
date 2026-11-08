@@ -8,7 +8,7 @@ zákony, 3,875 nařízení, 9,211 vyhlášky, 100
 decrees, 154 Senate statutory measures, and the Charter of Fundamental Rights and Freedoms). Each
 amending act is one commit per day it took effect, credited to that act and dated that day at noon in Prague. The text
 is e-Sbírka's own, from its open datasets of 2026-10-28, with the laws that took effect since, and e-Sbírka's own
-corrections to earlier versions, appended from its datasets of 2026-11-02 (see REPRODUCE.md).
+corrections to earlier versions, appended from its datasets of 2026-11-02 and 2026-11-08 (see REPRODUCE.md).
 
 The Constitution, 1/1993 Sb., is [`sb/1993/1.md`](sb/1993/1.md); the Charter (Listina), 2/1993 Sb., is
 [`sb/1993/2.md`](sb/1993/2.md).
@@ -40,7 +40,7 @@ and the day it takes effect (*účinnost*). **Commits are dated the day the vers
 each fragment that is not yet in force with its later date; those lines end in `*(účinnost od YYYY-MM-DD)*`, and the
 mark goes when the fragment takes effect. Git cannot store dates before 1970, so the 4,889 commits before
 1970 are dated 1970-01-01T00:00:01Z onwards, one second apart; their `In-force:` is the real day. Use
-`tools/czlaw.py` (which reads `In-force:`), not `git log --before`, for dates. `main` holds only law in force on or before 2026-11-02.
+`tools/czlaw.py` (which reads `In-force:`), not `git log --before`, for dates. `main` holds only law in force on or before 2026-11-08.
 The `future` branch holds the versions that were due to take effect after 2026-10-28, as e-Sbírka published them
 that day; it starts at that day's `main` and is not moved when `main` is appended to (branches here only move
 forward), so some of its versions are now on `main` too, and laws promulgated since are not on it.

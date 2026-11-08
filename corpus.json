@@ -3,7 +3,7 @@
   "name": "Czech law: the Sbírka zákonů (Collection of Laws), every act of legislation with consolidated versions, from e-Sbírka's open data",
   "label": "Czechia",
   "language": "cs",
-  "acts": 18576,
+  "acts": 18582,
   "act_types": {
     "ZAKON": 5114,
     "NARIZENI": 3875,
@@ -14,8 +14,8 @@
     "OPATRSEN": 154
   },
   "history_from": "1918-10-28",
-  "record_to": "2026-11-01",
-  "record_note": "every consolidated version checked against e-Sbírka's open datasets as published on 2026-11-02 (Last-Modified); the history to 2026-10-26 was built from those of 2026-10-28, and later law and e-Sbírka's corrections appended",
+  "record_to": "2026-11-08",
+  "record_note": "every consolidated version checked against e-Sbírka's open datasets as published on 2026-11-08 (Last-Modified); the history to 2026-10-26 was built from those of 2026-10-28, later law and e-Sbírka's corrections were appended from those of 2026-11-02 and 2026-11-08",
   "built": "2026-10-28",
   "dates": {
     "commit": "in-force",
@@ -48,6 +48,12 @@
       "data": "e-Sbírka open datasets, Last-Modified 2026-11-02",
       "law_commits": 10,
       "correction_commits": 127
+    },
+    {
+      "on": "2026-11-08",
+      "data": "e-Sbírka open datasets, Last-Modified 2026-11-08",
+      "law_commits": 5,
+      "correction_commits": 82
     }
   ]
 }
