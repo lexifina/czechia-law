@@ -1,0 +1,4429 @@
+---
+material: "KORNDZMTY7C9"
+dokument: "Platné znění s vyznačením navrhovaných změn a doplnění"
+soubor: "209217_Vsechna_uplna_zneni_-_pouze_dotcena_ustanoveni_s_vyznacenim_navrhovanych_zmen.docx"
+zdroj: "https://odok.gov.cz/portal/services/download/attachment/KORNDZN9GDD7/"
+den: "2026-11-09"
+---
+
+*Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.*
+
+8
+
+VYHLÁŠKA
+
+ze dne 5. ledna 2021
+
+o Katalogu odpadů a posuzování vlastností odpadů (Katalog odpadů)
+
+Příloha č. 1 k vyhlášce č. 8/2021 Sb.
+
+01
+
+Odpady z geologického průzkumu, těžby, úpravy a dalšího fyzikálního a chemického zpracování nerostů a kamene
+
+02
+
+Odpady z prvovýroby v zemědělství, zahradnictví, myslivosti, rybářství, lesnictví a z výroby a zpracování potravin
+
+03
+
+Odpady ze zpracování dřeva a výroby desek, nábytku, celulózy, papíru a lepenky
+
+04
+
+Odpady z kožedělného, kožešnického a textilního průmyslu
+
+05
+
+Odpady ze zpracování ropy, čištění zemního plynu a z pyrolytického zpracování uhlí
+
+06
+
+Odpady z anorganických chemických procesů
+
+07
+
+Odpady z organických chemických procesů
+
+08
+
+Odpady z výroby, zpracování, distribuce a používání nátěrových hmot (barev, laků a smaltů), lepidel, těsnicích materiálů a tiskařských barev
+
+09
+
+Odpady z fotografického průmyslu
+
+10
+
+Odpady z tepelných procesů
+
+11
+
+Odpady z chemických povrchových úprav, z povrchových úprav kovů a jiných materiálů a z hydrometalurgie neželezných kovů
+
+12
+
+Odpady z tváření a z fyzikální a mechanické úpravy povrchu kovů a plastů
+
+13
+
+Odpady olejů a odpady kapalných paliv (kromě jedlých olejů a odpadů uvedených ve skupinách 05 a 12)
+
+14
+
+Odpady organických rozpouštědel, chladiv a hnacích médií (kromě odpadů uvedených ve skupinách 07 a 08)
+
+15
+
+Odpadní obaly, absorpční činidla, čisticí tkaniny, filtrační materiály a ochranné oděvy jinak neurčené
+
+16
+
+Odpady v tomto katalogu jinak neurčené
+
+17
+
+Stavební a demoliční odpady (včetně vytěžené zeminy z kontaminovaných míst)
+
+18
+
+Odpady ze zdravotní nebo veterinární péče a /nebo z výzkumu s nimi souvisejícího (s výjimkou kuchyňských odpadů a odpadů ze stravovacích zařízení, které bezprostředně nesouvisejí se zdravotní péčí)
+
+19
+
+Odpady ze zařízení na zpracování (využívání a odstraňování) odpadu, z čistíren odpadních vod pro čištění těchto vod mimo místo jejich vzniku a z výroby vody pro spotřebu lidí a vody pro průmyslové účely
+
+20
+
+Komunální odpady (odpady z domácností a podobné živnostenské, průmyslové odpady a odpady z úřadů) včetně složek z odděleného sběru
+
+01
+
+ODPADY Z GEOLOGICKÉHO PRŮZKUMU, TĚŽBY, ÚPRAVY A DALŠÍHO ZPRACOVÁNÍ NEROSTŮ A KAMENE
+
+01 01
+
+Odpady z těžby nerostů
+
+01 01 01
+
+Odpady z těžby rudných nerostů
+
+01 01 02
+
+Odpady z těžby nerudných nerostů
+
+01 03
+
+Odpady z fyzikálního a chemického zpracování nerostů
+
+01 03 04*
+
+Hlušina ze zpracování sulfidické rudy obsahující kyseliny nebo kyselinotvorné látky
+
+01 03 05*
+
+Jiná hlušina obsahující nebezpečné látky
+
+01 03 06
+
+Jiná hlušina neuvedená pod čísly 01 03 04 a 01 03 05
+
+01 03 07*
+
+Jiné odpady z fyzikálního a chemického zpracování rudných nerostů obsahující nebezpečné látky
+
+01 03 08
+
+Rudný prach neuvedený pod číslem 01 03 07
+
+01 03 09
+
+Červený kal z výroby oxidu hlinitého neuvedený pod číslem 01 03 10
+
+01 03 10*
+
+Červený kal z výroby oxidu hlinitého obsahující nebezpečné látky neuvedený pod číslem 01 03 07
+
+01 03 99
+
+Odpady jinak blíže neurčené
+
+01 04
+
+Odpady z fyzikálního a chemického zpracování nerudných nerostů
+
+01 04 07*
+
+Odpady z fyzikálního a chemického zpracování nerudných nerostů obsahující nebezpečné látky
+
+01 04 08
+
+Odpadní štěrk a kamenivo neuvedené pod číslem 01 04 07
+
+01 04 09
+
+Odpadní písek a jíl
+
+01 04 10
+
+Nerudný prach neuvedený pod číslem 01 04 07
+
+01 04 11
+
+Odpady ze zpracování potaše a kamenné soli neuvedené pod číslem 01 04 07
+
+01 04 12
+
+Hlušina a další odpady z praní a čištění nerostů neuvedené pod čísly 01 04 07 a 01 04 11
+
+01 04 13
+
+Odpady z řezání a broušení kamene neuvedené pod číslem 01 04 07
+
+01 04 99
+
+Odpady jinak blíže neurčené
+
+01 05
+
+Vrtné kaly a jiné vrtné odpady
+
+01 05 04
+
+Vrtné kaly a odpady obsahující sladkou vodu
+
+01 05 05*
+
+Vrtné kaly a odpady obsahující ropné látky
+
+01 05 06*
+
+Vrtné kaly a další vrtné odpady obsahující nebezpečné látky
+
+01 05 07
+
+Vrtné kaly a odpady obsahující baryt neuvedené pod čísly 01 05 05 a 01 05 06
+
+01 05 08
+
+Vrtné kaly a odpady obsahující chloridy neuvedené pod čísly 01 05 05 a 01 05 06
+
+01 05 99
+
+Odpady jinak blíže neurčené
+
+02
+
+ODPADY ZE ZEMĚDĚLSTVÍ, ZAHRADNICTVÍ, RYBÁŘSTVÍ, LESNICTVÍ, MYSLIVOSTI A Z VÝROBY A ZPRACOVÁNÍ POTRAVIN
+
+02 01
+
+Odpady ze zemědělství, zahradnictví, rybářství, lesnictví a myslivosti
+
+02 01 01
+
+Kaly z praní a z čištění
+
+02 01 02
+
+Odpad živočišných tkání
+
+02 01 03
+
+Odpad rostlinných pletiv
+
+02 01 04
+
+Odpadní plasty (kromě obalů)
+
+02 01 06
+
+Zvířecí trus, moč a hnůj (včetně znečištěné slámy), kapalné odpady, soustřeďované odděleně a zpracovávané mimo místo vzniku
+
+02 01 07
+
+Odpady z lesnictví
+
+02 01 08*
+
+Agrochemické odpady obsahující nebezpečné látky
+
+02 01 09
+
+Agrochemické odpady neuvedené pod číslem 02 01 08
+
+02 01 10
+
+Kovové odpady
+
+02 01 99
+
+Odpady jinak blíže neurčené
+
+02 02
+
+Odpady z výroby a zpracování masa, ryb a jiných potravin živočišného původu
+
+02 02 01
+
+Kaly z praní a z čištění
+
+02 02 02
+
+Odpad živočišných tkání
+
+02 02 03
+
+Suroviny nevhodné ke spotřebě nebo zpracování
+
+02 02 04
+
+Kaly z čištění odpadních vod v místě jejich vzniku
+
+02 02 99
+
+Odpady jinak blíže neurčené
+
+02 03
+
+Odpady z výroby a ze zpracování ovoce, zeleniny, obilovin, jedlých olejů, kakaa, kávy, čaje a tabáku; odpady z konzervárenského průmyslu z výroby droždí a kvasničného extraktu, z přípravy a kvašení melasy
+
+02 03 01
+
+Kaly z praní, čištění, loupání, odstřeďování a separace
+
+02 03 02
+
+Odpady konzervačních činidel
+
+02 03 03
+
+Odpady z extrakce rozpouštědly
+
+02 03 04
+
+Suroviny nevhodné ke spotřebě nebo zpracování
+
+02 03 05
+
+Kaly z čištění odpadních vod v místě jejich vzniku
+
+02 03 99
+
+Odpady jinak blíže neurčené
+
+02 04
+
+Odpady z výroby cukru
+
+02 04 01
+
+Zemina z čištění a praní řepy
+
+02 04 02
+
+Odpad uhličitanu vápenatého
+
+02 04 03
+
+Kaly z čištění odpadních vod v místě jejich vzniku
+
+02 04 99
+
+Odpady jinak blíže neurčené
+
+02 05
+
+Odpady z mlékárenského průmyslu
+
+02 05 01
+
+Suroviny nevhodné ke spotřebě nebo zpracování
+
+02 05 02
+
+Kaly z čištění odpadních vod v místě jejich vzniku
+
+02 05 99
+
+Odpady jinak blíže neurčené
+
+02 06
+
+Odpady z pekáren a výroby cukrovinek
+
+02 06 01
+
+Suroviny nevhodné ke spotřebě nebo zpracování
+
+02 06 02
+
+Odpady konzervačních činidel
+
+02 06 03
+
+Kaly z čištění odpadních vod v místě jejich vzniku
+
+02 06 99
+
+Odpady jinak blíže neurčené
+
+02 07
+
+Odpady z výroby alkoholických a nealkoholických nápojů (s výjimkou kávy, čaje a kakaa)
+
+02 07 01
+
+Odpady z praní, čištění a mechanického zpracování surovin
+
+02 07 02
+
+Odpady z destilace lihovin
+
+02 07 03
+
+Odpady z chemického zpracování
+
+02 07 04
+
+Suroviny nevhodné ke spotřebě nebo zpracování
+
+02 07 05
+
+Kaly z čištění odpadních vod v místě jejich vzniku
+
+02 07 99
+
+Odpady jinak blíže neurčené
+
+03
+
+ODPADY ZE ZPRACOVÁNÍ DŘEVA A VÝROBY DESEK, NÁBYTKU, CELULÓZY, PAPÍRU A LEPENKY
+
+03 01
+
+Odpady ze zpracování dřeva a výroby desek a nábytku
+
+03 01 01
+
+Odpadní kůra a korek
+
+03 01 04*
+
+Piliny, hobliny, odřezky, dřevo, dřevotřískové desky a dýhy obsahující nebezpečné látky
+
+03 01 05
+
+Piliny, hobliny, odřezky, dřevo, dřevotřískové desky a dýhy, neuvedené pod číslem 03 01 04
+
+03 01 99
+
+Odpady jinak blíže neurčené
+
+03 02
+
+Odpady z impregnace dřeva
+
+03 02 01*
+
+Nehalogenovaná organická činidla k impregnaci dřeva
+
+03 02 02*
+
+Chlorovaná organická činidla k impregnaci dřeva
+
+03 02 03*
+
+Organokovová činidla k impregnaci dřeva
+
+03 02 04*
+
+Anorganická činidla k impregnaci dřeva
+
+03 02 05*
+
+Jiná činidla k impregnaci dřeva obsahující nebezpečné látky
+
+03 02 99
+
+Činidla k impregnaci dřeva jinak blíže neurčená
+
+03 03
+
+Odpady z výroby a zpracování celulózy, papíru a lepenky
+
+03 03 01
+
+Odpadní kůra a dřevo
+
+03 03 02
+
+Kaly zeleného louhu (ze zpracování černého louhu)
+
+03 03 05
+
+Kaly z odstraňování tiskařské černi při recyklaci papíru
+
+03 03 07
+
+Mechanicky oddělený výmět z rozvlákňování odpadního papíru a lepenky
+
+03 03 08
+
+Odpady ze třídění papíru a lepenky určené k recyklaci
+
+03 03 09
+
+Odpadní kaustifikační kal
+
+03 03 10
+
+Výmětová vlákna, kaly z mechanického oddělování obsahující vlákna, výplně a povrchové vrstvy z mechanického třídění
+
+03 03 11
+
+Kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 03 03 10
+
+03 03 99
+
+Odpady jinak blíže neurčené
+
+04
+
+ODPADY Z KOŽEDĚLNÉHO, KOŽEŠNICKÉHO A TEXTILNÍHO PRŮMYSLU
+
+04 01
+
+Odpady z kožedělného a kožešnického průmyslu
+
+04 01 01
+
+Odpadní klihovka a štípenka
+
+04 01 02
+
+Odpad z loužení
+
+04 01 03*
+
+Odpady z odmašťování obsahující rozpouštědla bez kapalné fáze
+
+04 01 04
+
+Činící břečka obsahující chrom
+
+04 01 05
+
+Činící břečka neobsahující chrom
+
+04 01 06
+
+Kaly obsahující chrom, zejména kaly z čištění odpadních vod v místě jejich vzniku
+
+04 01 07
+
+Kaly neobsahující chrom, zejména kaly z čištění odpadních vod v místě jejich vzniku
+
+04 01 08
+
+Odpady z usní (odpadní holina, postružiny, odřezky, prach z broušení) obsahující chrom
+
+04 01 09
+
+Odpady z úpravy a apretace
+
+04 01 99
+
+Odpady jinak blíže neurčené
+
+04 02
+
+Odpady z textilního průmyslu
+
+04 02 09
+
+Odpady z kompozitních tkanin (impregnované tkaniny, elastomer, plastomer)
+
+04 02 10
+
+Organické hmoty z přírodních produktů (např. tuk, vosk)
+
+04 02 14*
+
+Odpady z apretace obsahující organická rozpouštědla
+
+04 02 15
+
+Jiné odpady z apretace neuvedené pod číslem 04 02 14
+
+04 02 16*
+
+Barviva a pigmenty obsahující nebezpečné látky
+
+04 02 17
+
+Jiná barviva a pigmenty neuvedené pod číslem 04 02 16
+
+04 02 19*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+04 02 20
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 04 02 19
+
+04 02 21
+
+Odpady z nezpracovaných textilních vláken
+
+04 02 22
+
+Odpady ze zpracovaných textilních vláken
+
+04 02 99
+
+Odpady jinak blíže neurčené
+
+05
+
+ODPADY ZE ZPRACOVÁNÍ ROPY, ČIŠTĚNÍ ZEMNÍHO PLYNU A Z PYROLYTICKÉHO ZPRACOVÁNÍ UHLÍ
+
+05 01
+
+Odpady ze zpracování ropy
+
+05 01 02*
+
+Kaly z odsolovacích zařízení
+
+05 01 03*
+
+Kaly ze dna nádrží na ropné látky
+
+05 01 04*
+
+Kyselé alkylové kaly
+
+05 01 05*
+
+Uniklé (rozlité) ropné látky
+
+05 01 06*
+
+Ropné kaly z údržby zařízení
+
+05 01 07*
+
+Kyselé dehty
+
+05 01 08*
+
+Jiné dehty
+
+05 01 09*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+05 01 10
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 05 01 09
+
+05 01 11*
+
+Odpady z čištění pohonných hmot pomocí zásad
+
+05 01 12*
+
+Ropa obsahující kyseliny
+
+05 01 13
+
+Kaly z napájecí vody pro kotle
+
+05 01 14
+
+Odpad z chladicích kolon
+
+05 01 15*
+
+Upotřebené filtrační hlinky
+
+05 01 16
+
+Odpady obsahující síru z odsiřování ropy
+
+05 01 17
+
+Asfalt
+
+05 01 99
+
+Odpady jinak blíže neurčené
+
+05 06
+
+Odpady z pyrolytického zpracování uhlí
+
+05 06 01*
+
+Kyselé dehty
+
+05 06 03*
+
+Jiné dehty
+
+05 06 04
+
+Odpad z chladicích kolon
+
+05 06 99
+
+Odpady jinak blíže neurčené
+
+05 07
+
+Odpady z čištění a z přepravy zemního plynu
+
+05 07 01*
+
+Odpady obsahující rtuť
+
+05 07 02
+
+Odpady obsahující síru
+
+05 07 99
+
+Odpady jinak blíže neurčené
+
+06
+
+ODPADY Z ANORGANICKÝCH CHEMICKÝCH PROCESŮ
+
+06 01
+
+Odpady z výroby, zpracování, distribuce a používání kyselin
+
+06 01 01*
+
+Kyselina sírová a kyselina siřičitá
+
+06 01 02*
+
+Kyselina chlorovodíková
+
+06 01 03*
+
+Kyselina fluorovodíková
+
+06 01 04*
+
+Kyselina fosforečná a kyselina fosforitá
+
+06 01 05*
+
+Kyselina dusičná a kyselina dusitá
+
+06 01 06*
+
+Jiné kyseliny
+
+06 01 99
+
+Odpady jinak blíže neurčené
+
+06 02
+
+Odpady z výroby, zpracování, distribuce a používání alkálií
+
+06 02 01*
+
+Hydroxid vápenatý
+
+06 02 03*
+
+Hydroxid amonný
+
+06 02 04*
+
+Hydroxid sodný a hydroxid draselný
+
+06 02 05*
+
+Jiné alkálie
+
+06 02 99
+
+Odpady jinak blíže neurčené
+
+06 03
+
+Odpady z výroby, zpracování, distribuce a používání solí a jejich roztoků a oxidů kovů
+
+06 03 11*
+
+Pevné soli a roztoky obsahující kyanidy
+
+06 03 13*
+
+Pevné soli a roztoky obsahující těžké kovy
+
+06 03 14
+
+Pevné soli a roztoky neuvedené pod čísly 06 03 11 a 06 03 13
+
+06 03 15*
+
+Oxidy kovů obsahující těžké kovy
+
+06 03 16
+
+Oxidy kovů neuvedené pod číslem 06 03 15
+
+06 03 99
+
+Odpady jinak blíže neurčené
+
+06 04
+
+Odpady obsahující kovy neuvedené pod číslem 06 03
+
+06 04 03*
+
+Odpady obsahující arsen
+
+06 04 04*
+
+Odpady obsahující rtuť
+
+06 04 04 01*
+
+Kovová rtuť
+
+06 04 05*
+
+Odpady obsahující jiné těžké kovy
+
+06 04 99
+
+Odpady jinak blíže neurčené
+
+06 05
+
+Kaly z čištění odpadních vod v místě jejich vzniku
+
+06 05 02*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+06 05 03
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 06 05 02
+
+06 06
+
+Odpady z výroby, zpracování, distribuce a používání sirných sloučenin, z chemických procesů výroby a zpracování síry a z odsiřovacích procesů
+
+06 06 02*
+
+Odpady obsahující nebezpečné sulfidy
+
+06 06 03
+
+Odpady obsahující jiné sulfidy neuvedené pod číslem 06 06 02
+
+06 06 99
+
+Odpady jinak blíže neurčené
+
+06 07
+
+Odpady z výroby, zpracování, distribuce a používání halogenů a z chemických procesů zpracování halogenů
+
+06 07 01*
+
+Odpady obsahující azbest z elektrolýzy
+
+06 07 02*
+
+Aktivní uhlí z výroby chlóru
+
+06 07 03*
+
+Kaly síranu barnatého obsahující rtuť
+
+06 07 04*
+
+Roztoky a kyseliny, např. vyčerpaná kyselina
+
+06 07 99
+
+Odpady jinak blíže neurčené
+
+06 08
+
+Odpady z výroby, zpracování, distribuce a používání křemíku a jeho derivátů
+
+06 08 02*
+
+Odpady obsahující nebezpečné chlorsilany
+
+06 08 99
+
+Odpady jinak blíže neurčené
+
+06 09
+
+Odpady z výroby, zpracování, distribuce a používání sloučenin fosforu a z chemických procesů zpracování fosforu
+
+06 09 02
+
+Struska obsahující fosfor
+
+06 09 03*
+
+Reakční odpady na bázi vápníku obsahující nebo znečištěné nebezpečnými látkami
+
+06 09 04
+
+Jiné reakční odpady na bázi vápníku neuvedené pod číslem 06 09 03
+
+06 09 99
+
+Odpady jinak blíže neurčené
+
+06 10
+
+Odpady z výroby, zpracování, distribuce a používání dusíkatých sloučenin z chemických procesů zpracování dusíku a z výroby hnojiv
+
+06 10 02*
+
+Odpady obsahující nebezpečné látky
+
+06 10 99
+
+Odpady jinak blíže neurčené
+
+06 11
+
+Odpady z výroby anorganických pigmentů a kalidel
+
+06 11 01
+
+Odpady na bázi vápníku z výroby oxidu titaničitého
+
+06 11 99
+
+Odpady jinak blíže neurčené
+
+06 13
+
+Odpady z jiných anorganických chemických procesů
+
+06 13 01*
+
+Anorganické pesticidy, činidla k impregnaci dřeva a další biocidy
+
+06 13 02*
+
+Upotřebené aktivní uhlí (kromě odpadu uvedeného pod číslem 06 07 02)
+
+06 13 03
+
+Saze průmyslově vyráběné
+
+06 13 04*
+
+Odpady ze zpracování azbestu
+
+06 13 05*
+
+Saze
+
+06 13 99
+
+Odpady jinak blíže neurčené
+
+07
+
+ODPADY Z ORGANICKÝCH CHEMICKÝCH PROCESŮ
+
+07 01
+
+Odpady z výroby, zpracování, distribuce a používání základních organických sloučenin
+
+07 01 01*
+
+Promývací vody a matečné louhy
+
+07 01 03*
+
+Organická halogenovaná rozpouštědla, promývací kapaliny a matečné louhy
+
+07 01 04*
+
+Jiná organická rozpouštědla, promývací kapaliny a matečné louhy
+
+07 01 07*
+
+Halogenované destilační a reakční zbytky
+
+07 01 08*
+
+Jiné destilační a reakční zbytky
+
+07 01 09*
+
+Halogenované filtrační koláče, upotřebená absorpční činidla
+
+07 01 10*
+
+Jiné filtrační koláče, upotřebená absorpční činidla
+
+07 01 11*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+07 01 12
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 07 01 11
+
+07 01 99
+
+Odpady jinak blíže neurčené
+
+07 02
+
+Odpady z výroby, zpracování, distribuce a používání plastů, syntetického kaučuku a syntetických vláken
+
+07 02 01*
+
+Promývací vody a matečné louhy
+
+07 02 03*
+
+Organická halogenovaná rozpouštědla, promývací kapaliny a matečné louhy
+
+07 02 04*
+
+Jiná organická rozpouštědla, promývací kapaliny a matečné louhy
+
+07 02 07*
+
+Halogenované destilační a reakční zbytky
+
+07 02 08*
+
+Jiné destilační a reakční zbytky
+
+07 02 09*
+
+Halogenované filtrační koláče a upotřebená absorpční činidla
+
+07 02 10*
+
+Jiné filtrační koláče a upotřebená absorpční činidla
+
+07 02 11*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+07 02 12
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 07 02 11
+
+07 02 13
+
+Plastový odpad
+
+07 02 14*
+
+Odpady přísad obsahující nebezpečné látky
+
+07 02 15
+
+Odpady přísad neuvedené pod číslem 07 02 14
+
+07 02 16*
+
+Odpady obsahující nebezpečné silikony
+
+07 02 17
+
+Odpady obsahující silikony neuvedené pod číslem 07 02 16
+
+07 02 99
+
+Odpady jinak blíže neurčené
+
+07 02 99 01
+
+Pryžový odpad
+
+07 03
+
+Odpady z výroby, zpracování, distribuce a používání organických barviv a pigmentů (kromě odpadů uvedených v podskupině 06 11)
+
+07 03 01*
+
+Promývací vody a matečné louhy
+
+07 03 03*
+
+Organická halogenovaná rozpouštědla, promývací kapaliny a matečné louhy
+
+07 03 04*
+
+Jiná organická rozpouštědla, promývací kapaliny a matečné louhy
+
+07 03 07*
+
+Halogenované destilační a reakční zbytky
+
+07 03 08*
+
+Jiné destilační a reakční zbytky
+
+07 03 09*
+
+Halogenované filtrační koláče a upotřebená absorpční činidla
+
+07 03 10*
+
+Jiné filtrační koláče a upotřebená absorpční činidla
+
+07 03 11*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+07 03 12
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 07 03 11
+
+07 03 99
+
+Odpady jinak blíže neurčené
+
+07 04
+
+Odpady z výroby, zpracování, distribuce a používání organických pesticidů (kromě odpadů uvedených pod čísly 02 01 08 a 02 01 09), činidel k impregnaci dřeva (kromě odpadů uvedených v podskupině 03 02) a dalších biocidů
+
+07 04 01*
+
+Promývací vody a matečné louhy
+
+07 04 03*
+
+Organická halogenovaná rozpouštědla, promývací kapaliny a matečné louhy
+
+07 04 04*
+
+Jiná organická rozpouštědla, promývací kapaliny a matečné louhy
+
+07 04 07*
+
+Halogenované destilační a reakční zbytky
+
+07 04 08*
+
+Jiné destilační a reakční zbytky
+
+07 04 09*
+
+Halogenované filtrační koláče a upotřebená absorpční činidla
+
+07 04 10*
+
+Jiné filtrační koláče a upotřebená absorpční činidla
+
+07 04 11*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+07 04 12
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 07 04 11
+
+07 04 13*
+
+Pevné odpady obsahující nebezpečné látky
+
+07 04 99
+
+Odpady jinak blíže neurčené
+
+07 05
+
+Odpady z výroby, zpracování, distribuce a používání farmaceutických výrobků
+
+07 05 01*
+
+Promývací vody a matečné louhy
+
+07 05 03*
+
+Organická halogenovaná rozpouštědla, promývací kapaliny a matečné louhy
+
+07 05 04*
+
+Jiná organická rozpouštědla, promývací kapaliny a matečné louhy
+
+07 05 07*
+
+Halogenované destilační a reakční zbytky
+
+07 05 08*
+
+Jiné destilační a reakční zbytky
+
+07 05 09*
+
+Halogenované filtrační koláče a upotřebená absorpční činidla
+
+07 05 10*
+
+Jiné filtrační koláče a upotřebená absorpční činidla
+
+07 05 11*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+07 05 12
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 07 05 11
+
+07 05 13*
+
+Pevné odpady obsahující nebezpečné látky
+
+07 05 14
+
+Pevné odpady neuvedené pod číslem 07 05 13
+
+07 05 99
+
+Odpady jinak blíže neurčené
+
+07 06
+
+Odpady z výroby, zpracování, distribuce a používání tuků, maziv, mýdel, detergentů, dezinfekčních prostředků a kosmetiky
+
+07 06 01*
+
+Promývací vody a matečné louhy
+
+07 06 03*
+
+Organická halogenovaná rozpouštědla, promývací kapaliny a matečné louhy
+
+07 06 04*
+
+Jiná organická rozpouštědla, promývací kapaliny a matečné louhy
+
+07 06 07*
+
+Halogenované destilační a reakční zbytky
+
+07 06 08*
+
+Ostatní destilační a reakční zbytky
+
+07 06 09*
+
+Halogenované filtrační koláče a upotřebená absorpční činidla
+
+07 06 10*
+
+Jiné filtrační koláče a upotřebená absorpční činidla
+
+07 06 11*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+07 06 12
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 07 06 11
+
+07 06 99
+
+Odpady jinak blíže neurčené
+
+07 07
+
+Odpady z výroby, zpracování, distribuce a používání čistých chemických látek a blíže nespecifikovaných chemických výrobků
+
+07 07 01*
+
+Promývací vody a matečné louhy
+
+07 07 03*
+
+Organická halogenovaná rozpouštědla, promývací kapaliny a matečné louhy
+
+07 07 04*
+
+Jiná organická rozpouštědla, promývací kapaliny a matečné louhy
+
+07 07 07*
+
+Halogenované destilační a reakční zbytky
+
+07 07 08*
+
+Jiné destilační a reakční zbytky
+
+07 07 09*
+
+Halogenované filtrační koláče a upotřebená absorpční činidla
+
+07 07 10*
+
+Jiné filtrační koláče a upotřebená absorpční činidla
+
+07 07 11*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+07 07 12
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 07 07 11
+
+07 07 99
+
+Odpady jinak blíže neurčené
+
+08
+
+ODPADY Z VÝROBY, ZPRACOVÁNÍ, DISTRIBUCE A POUŽÍVÁNÍ NÁTĚROVÝCH HMOT (BAREV, LAKŮ A SMALTŮ), LEPIDEL, TĚSNICÍCH MATERIÁLŮ A TISKAŘSKÝCH BAREV
+
+08 01
+
+Odpady z výroby, zpracování, distribuce, používání a odstraňování barev a laků
+
+08 01 11*
+
+Odpadní barvy a laky obsahující organická rozpouštědla nebo jiné nebezpečné látky
+
+08 01 12
+
+Jiné odpadní barvy a laky neuvedené pod číslem 08 01 11
+
+08 01 13*
+
+Kaly z barev nebo z laků obsahující organická rozpouštědla nebo jiné nebezpečné látky
+
+08 01 14
+
+Jiné kaly z barev nebo z laků neuvedené pod číslem 08 01 13
+
+08 01 15*
+
+Vodné kaly obsahující barvy nebo laky s obsahem organických rozpouštědel nebo jiných nebezpečných látek
+
+08 01 16
+
+Jiné vodné kaly obsahující barvy nebo laky neuvedené pod číslem 08 01 15
+
+08 01 17*
+
+Odpady z odstraňování barev nebo laků obsahujících organická rozpouštědla nebo jiné nebezpečné látky
+
+08 01 18
+
+Jiné odpady z odstraňování barev nebo laků neuvedené pod číslem 08 01 17
+
+08 01 19*
+
+Vodné suspenze obsahující barvy nebo laky s obsahem organických rozpouštědel nebo jiných nebezpečných látek
+
+08 01 20
+
+Jiné vodné suspenze obsahující barvy nebo laky neuvedené pod číslem 08 01 19
+
+08 01 21*
+
+Odpadní odstraňovače barev nebo laků
+
+08 01 99
+
+Odpady jinak blíže neurčené
+
+08 02
+
+Odpady z výroby, zpracování, distribuce a používání ostatních nátěrových hmot (včetně keramických materiálů)
+
+08 02 01
+
+Odpadní práškové nátěrové barvy
+
+08 02 02
+
+Vodné kaly obsahující keramické materiály
+
+08 02 03
+
+Vodné suspenze obsahující keramické materiály
+
+08 02 99
+
+Odpady jinak blíže neurčené
+
+08 03
+
+Odpady z výroby, zpracování, distribuce a používání tiskařských barev
+
+08 03 07
+
+Vodné kaly obsahující tiskařské barvy
+
+08 03 08
+
+Vodné kapalné odpady obsahující tiskařské barvy
+
+08 03 12*
+
+Odpadní tiskařské barvy obsahující nebezpečné látky
+
+08 03 13
+
+Odpadní tiskařské barvy neuvedené pod číslem 08 03 12
+
+08 03 14*
+
+Kaly tiskařských barev obsahující nebezpečné látky
+
+08 03 15
+
+Kaly tiskařských barev neuvedené pod číslem 08 03 14
+
+08 03 16*
+
+Odpadní leptací roztoky
+
+08 03 17*
+
+Odpadní tiskařský toner obsahující nebezpečné látky
+
+08 03 18
+
+Odpadní tiskařský toner neuvedený pod číslem 08 03 17
+
+08 03 19*
+
+Disperzní olej
+
+08 03 99
+
+Odpady jinak blíže neurčené
+
+08 04
+
+Odpady z výroby, zpracování, distribuce a používání lepidel a těsnicích materiálů (včetně vodotěsnicích výrobků)
+
+08 04 09*
+
+Odpadní lepidla a těsnicí materiály obsahující organická rozpouštědla nebo jiné nebezpečné látky
+
+08 04 10
+
+Jiná odpadní lepidla a těsnicí materiály neuvedené pod číslem 08 04 09
+
+08 04 11*
+
+Kaly z lepidel a těsnicích materiálů obsahující organická rozpouštědla nebo jiné nebezpečné látky
+
+08 04 12
+
+Jiné kaly z lepidel a těsnicích materiálů neuvedené pod číslem 08 04 11
+
+08 04 13*
+
+Vodné kaly s obsahem lepidel nebo těsnicích materiálů obsahující organická rozpouštědla nebo jiné nebezpečné látky
+
+08 04 14
+
+Jiné vodné kaly s obsahem lepidel nebo těsnicích materiálů neuvedené pod číslem 08 04 13
+
+08 04 15*
+
+Odpadní vody obsahující lepidla nebo těsnicí materiály s organickými rozpouštědly nebo s jinými nebezpečnými látkami
+
+08 04 16
+
+Jiné odpadní vody obsahující lepidla nebo těsnicí materiály neuvedené pod číslem 08 04 15
+
+08 04 17*
+
+Kalafunový olej
+
+08 04 99
+
+Odpady jinak blíže neurčené
+
+08 05
+
+Odpady jinak blíže neurčené ve skupině 08
+
+08 05 01*
+
+Odpadní isokyanáty
+
+09
+
+ODPADY Z FOTOGRAFICKÉHO PRŮMYSLU
+
+09 01
+
+Odpady z fotografického průmyslu
+
+09 01 01*
+
+Vodné roztoky vývojek a aktivátorů
+
+09 01 02*
+
+Vodné roztoky vývojek ofsetových desek
+
+09 01 03*
+
+Roztoky vývojek v rozpouštědlech
+
+09 01 04*
+
+Roztoky ustalovačů
+
+09 01 05*
+
+Bělicí roztoky a roztoky bělicích ustalovačů
+
+09 01 06*
+
+Odpady obsahující stříbro ze zpracování fotografického odpadu v místě jeho vzniku
+
+09 01 07
+
+Fotografický film a papír obsahující stříbro nebo sloučeniny stříbra
+
+09 01 08
+
+Fotografický film a papír neobsahující stříbro nebo sloučeniny stříbra
+
+09 01 10
+
+Fotoaparáty na jedno použití bez baterií
+
+09 01 11*
+
+Fotoaparáty na jedno použití obsahující baterie uvedené pod čísly 16 06 01, 16 06 02 nebo 16 06 03 Fotoaparáty na jedno použití obsahující baterie začleněné pod čísly 16 06 01 až 16 06 04, 16 06 07 až 16 06 11 nebo 16 06 14
+
+09 01 12
+
+Fotoaparáty na jedno použití obsahující jiné baterie neuvedené pod číslem 09 01 11
+
+09 01 13*
+
+Odpadní vody ze zpracování stříbra v místě jeho vzniku neuvedené pod číslem 09 01 06
+
+09 01 99
+
+Odpady jinak blíže neurčené
+
+10
+
+ODPADY Z TEPELNÝCH PROCESŮ
+
+10 01
+
+Odpady z elektráren a jiných spalovacích zařízení (kromě odpadů uvedených v podskupině 19)
+
+10 01 01
+
+Škvára, struska a kotelní prach (kromě kotelního prachu uvedeného pod číslem 10 01 04)
+
+10 01 02
+
+Popílek ze spalování uhlí
+
+10 01 03
+
+Popílek ze spalování rašeliny a neošetřeného dřeva
+
+10 01 04*
+
+Popílek a kotelní prach ze spalování ropných produktů
+
+10 01 05
+
+Pevné reakční produkty na bázi vápníku z odsiřování spalin
+
+10 01 07
+
+Reakční produkty z odsiřování spalin na bázi vápníku ve formě kalů
+
+10 01 09*
+
+Kyselina sírová
+
+10 01 13*
+
+Popílek z emulgovaných uhlovodíků použitých způsobem obdobným palivu
+
+10 01 14*
+
+Škvára, struska a kotelní prach ze spoluspalování odpadu obsahující nebezpečné látky
+
+10 01 15
+
+Škvára, struska a kotelní prach ze spoluspalování odpadu neuvedené pod číslem 10 01 14
+
+10 01 16*
+
+Popílek ze spoluspalování odpadu obsahující nebezpečné látky
+
+10 01 17
+
+Popílek ze spoluspalování odpadu neuvedený pod číslem 10 01 16
+
+10 01 18*
+
+Odpady z čištění odpadních plynů obsahující nebezpečné látky
+
+10 01 19
+
+Odpady z čištění odpadních plynů neuvedené pod čísly 10 01 05, 10 01 07 a 10 01 18
+
+10 01 20*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+10 01 21
+
+Jiné kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 10 01 20
+
+10 01 22*
+
+Vodné kaly z čištění kotlů obsahující nebezpečné látky
+
+10 01 23
+
+Vodné kaly z čištění kotlů neuvedené pod číslem 10 01 22
+
+10 01 24
+
+Písky z fluidních loží
+
+10 01 25
+
+Odpady ze skladování a z přípravy paliva pro tepelné elektrárny
+
+10 01 26
+
+Odpady z čištění chladicí vody
+
+10 01 99
+
+Odpady jinak blíže neurčené
+
+10 02
+
+Odpady z průmyslu železa a oceli
+
+10 02 01
+
+Odpady ze zpracování strusky
+
+10 02 02
+
+Nezpracovaná struska
+
+10 02 07*
+
+Pevné odpady z čištění plynů obsahující nebezpečné látky
+
+10 02 08
+
+Jiné pevné odpady z čištění plynů neuvedené pod číslem 10 02 07
+
+10 02 10
+
+Okuje z válcování
+
+10 02 11*
+
+Odpady z čištění chladicí vody obsahující ropné látky
+
+10 02 12
+
+Jiné odpady z čištění chladicí vody neuvedené pod číslem 10 02 11
+
+10 02 13*
+
+Kaly a filtrační koláče z čištění plynu obsahující nebezpečné látky
+
+10 02 14
+
+Kaly a filtrační koláče z čištění plynu neuvedené pod číslem 10 02 13
+
+10 02 15
+
+Jiné kaly a filtrační koláče
+
+10 02 99
+
+Odpady jinak blíže neurčené
+
+10 03
+
+Odpady z pyrometalurgie hliníku
+
+10 03 02
+
+Odpadní anody
+
+10 03 04*
+
+Strusky z prvního tavení
+
+10 03 05
+
+Odpadní oxid hlinitý
+
+10 03 08*
+
+Solné strusky z druhého tavení
+
+10 03 09*
+
+Černé stěry z druhého tavení
+
+10 03 15*
+
+Stěry, které jsou hořlavé nebo při styku s vodou uvolňují hořlavé plyny v nebezpečných množstvích
+
+10 03 16
+
+Jiné stěry neuvedené pod číslem 10 03 15
+
+10 03 17*
+
+Odpady obsahující dehet z výroby anod
+
+10 03 18
+
+Odpady obsahující uhlík z výroby anod neuvedené pod číslem 10 03 17
+
+10 03 19*
+
+Prach ze spalin obsahující nebezpečné látky
+
+10 03 20
+
+Prach ze spalin neuvedený pod číslem 10 03 19
+
+10 03 21*
+
+Jiný úlet a prach (včetně prachu z kulových mlýnů) obsahující nebezpečné látky
+
+10 03 22
+
+Jiný úlet a prach (včetně prachu z kulových mlýnů) neuvedené pod číslem 10 03 21
+
+10 03 23*
+
+Pevné odpady z čištění plynů obsahující nebezpečné látky
+
+10 03 24
+
+Pevné odpady z čištění plynů neuvedené pod číslem 10 03 23
+
+10 03 25*
+
+Kaly a filtrační koláče z čištění plynu obsahující nebezpečné látky
+
+10 03 26
+
+Kaly a filtrační koláče z čištění plynu neuvedené pod číslem 10 03 25
+
+10 03 27*
+
+Odpady z čištění chladicí vody obsahující ropné látky
+
+10 03 28
+
+Jiné odpady z čištění chladicí vody neuvedené pod číslem 10 03 27
+
+10 03 29*
+
+Odpady z úpravy solných strusek a černých stěrů obsahující nebezpečné látky
+
+10 03 30
+
+Odpady z úpravy solných strusek a černých stěrů neuvedené pod číslem 10 03 29
+
+10 03 99
+
+Odpady jinak blíže neurčené
+
+10 04
+
+Odpady z pyrometalurgie olova
+
+10 04 01*
+
+Strusky (z prvního a druhého tavení)
+
+10 04 02*
+
+Pěna a stěry (z prvního a druhého tavení)
+
+10 04 03*
+
+Arzeničnan vápenatý
+
+10 04 04*
+
+Prach z čištění spalin
+
+10 04 05*
+
+Jiný úlet a prach
+
+10 04 06*
+
+Pevný odpad z čištění plynu
+
+10 04 07*
+
+Kaly a filtrační koláče z čištění plynu
+
+10 04 09*
+
+Odpady z čištění chladicí vody obsahující ropné látky
+
+10 04 10
+
+Jiné odpady z čištění chladicí vody neuvedené pod číslem 10 04 09
+
+10 04 99
+
+Odpady jinak blíže neurčené
+
+10 05
+
+Odpady z pyrometalurgie zinku
+
+10 05 01
+
+Strusky (z prvního a druhého tavení)
+
+10 05 03*
+
+Prach z čištění spalin
+
+10 05 04
+
+Jiný úlet a prach
+
+10 05 05*
+
+Pevné odpady z čištění plynu
+
+10 05 06*
+
+Kaly a filtrační koláče z čištění plynu
+
+10 05 08*
+
+Odpady z čištění chladicí vody obsahující ropné látky
+
+10 05 09
+
+Ostatní odpady z čištění chladicí vody neuvedené pod číslem 10 05 08
+
+10 05 10*
+
+Stěry a pěny, které jsou hořlavé nebo při styku s vodou uvolňují hořlavé plyny v nebezpečných množstvích
+
+10 05 11
+
+Jiné stěry a pěny neuvedené pod číslem 10 05 10
+
+10 05 99
+
+Odpady jinak blíže neurčené
+
+10 06
+
+Odpady z pyrometalurgie mědi
+
+10 06 01
+
+Strusky (z prvního a druhého tavení)
+
+10 06 02
+
+Pěna a stěry (z prvního a druhého tavení)
+
+10 06 03*
+
+Prach z čištění spalin
+
+10 06 04
+
+Jiný úlet a prach
+
+10 06 06*
+
+Pevný odpad z čištění plynu
+
+10 06 07*
+
+Kaly a filtrační koláče z čištění plynu
+
+10 06 09*
+
+Odpady z čištění chladicí vody obsahující ropné látky
+
+10 06 10
+
+Jiné odpady z čištění chladicí vody neuvedené pod číslem 10 06 09
+
+10 06 99
+
+Odpady jinak blíže neurčené
+
+10 07
+
+Odpady z pyrometalurgie stříbra, zlata a platiny
+
+10 07 01
+
+Strusky (z prvního a druhého tavení)
+
+10 07 02
+
+Pěna a stěry (z prvního a druhého tavení)
+
+10 07 03
+
+Pevný odpad z čištění plynu
+
+10 07 04
+
+Jiný úlet a prach
+
+10 07 05
+
+Kaly a filtrační koláče z čištění plynu
+
+10 07 07*
+
+Odpady z čištění chladicí vody obsahující ropné látky
+
+10 07 08
+
+Jiné odpady z čištění chladicí vody neuvedené pod číslem 10 07 07
+
+10 07 99
+
+Odpady jinak blíže neurčené
+
+10 08
+
+Odpady z pyrometalurgie jiných neželezných kovů
+
+10 08 04
+
+Úlet a prach
+
+10 08 08*
+
+Solné strusky z prvního a druhého tavení
+
+10 08 09
+
+Jiné strusky
+
+10 08 10*
+
+Stěry a pěny, které jsou hořlavé nebo při styku s vodou uvolňují hořlavé plyny v nebezpečných množstvích
+
+10 08 11
+
+Jiné stěry a pěny neuvedené pod číslem 10 08 10
+
+10 08 12*
+
+Odpady obsahující dehet z výroby anod
+
+10 08 13
+
+Odpady obsahující uhlík z výroby anod neuvedené pod číslem 10 08 12
+
+10 08 14
+
+Odpadní anody
+
+10 08 15*
+
+Prach z čištění spalin obsahující nebezpečné látky
+
+10 08 16
+
+Prach z čištění spalin neuvedený pod číslem 10 08 15
+
+10 08 17*
+
+Kaly a filtrační koláče z čištění spalin obsahující nebezpečné látky
+
+10 08 18
+
+Kaly a filtrační koláče z čištění spalin neuvedené pod číslem 10 08 17
+
+10 08 19*
+
+Odpady z čištění chladicí vody obsahující ropné látky
+
+10 08 20
+
+Jiné odpady z čištění chladicí vody neuvedené pod číslem 10 08 19
+
+10 08 21*
+
+Strusky z recyklace odpadních baterií na bázi lithia obsahující nebezpečné látky
+
+10 08 22
+
+Strusky z recyklace odpadních lithiových baterií neuvedené pod číslem 10 08 21
+
+10 08 23*
+
+Strusky z recyklace odpadních baterií na bázi niklu obsahující nebezpečné látky
+
+10 08 24
+
+Strusky z recyklace odpadních baterií na bázi niklu neuvedené pod číslem 10 08 23
+
+10 08 25*
+
+Strusky z recyklace jiných odpadních baterií obsahující nebezpečné látky kromě těch, které jsou uvedeny pod čísly 10 04 01, 10 08 21 a 10 08 23
+
+10 08 26
+
+Strusky z recyklace jiných odpadních baterií neuvedených pod číslem 10 08 25
+
+10 08 99
+
+Odpady jinak blíže neurčené
+
+10 09
+
+Odpady ze slévání železných odlitků
+
+10 09 03
+
+Pecní struska
+
+10 09 05*
+
+Licí formy a jádra nepoužitá k odlévání obsahující nebezpečné látky
+
+10 09 06
+
+Licí formy a jádra nepoužitá k odlévání neuvedená pod číslem 10 09 05
+
+10 09 07*
+
+Licí formy a jádra použitá k odlévání obsahující nebezpečné látky
+
+10 09 08
+
+Licí formy a jádra použitá k odlévání neuvedená pod číslem 10 09 07
+
+10 09 09*
+
+Prach z čištění spalin obsahující nebezpečné látky
+
+10 09 10
+
+Prach z čištění spalin neuvedený pod číslem 10 09 09
+
+10 09 11*
+
+Jiný úlet obsahující nebezpečné látky
+
+10 09 12
+
+Jiný úlet neuvedený pod číslem 10 09 11
+
+10 09 13*
+
+Odpadní pojiva obsahující nebezpečné látky
+
+10 09 14
+
+Odpadní pojiva neuvedená pod číslem 10 09 13
+
+10 09 15*
+
+Odpadní činidla na indikaci prasklin obsahující nebezpečné látky
+
+10 09 16
+
+Odpadní činidla na indikaci prasklin neuvedená pod číslem 10 09 15
+
+10 09 99
+
+Odpady jinak blíže neurčené
+
+10 10
+
+Odpady ze slévání odlitků neželezných kovů
+
+10 10 03
+
+Pecní struska
+
+10 10 05*
+
+Licí formy a jádra nepoužitá k odlévání obsahující nebezpečné látky
+
+10 10 06
+
+Licí formy a jádra nepoužitá k odlévání neuvedená pod číslem 10 10 05
+
+10 10 07*
+
+Licí formy a jádra použitá k odlévání obsahující nebezpečné látky
+
+10 10 08
+
+Licí formy a jádra použitá k odlévání neuvedená pod číslem 10 10 07
+
+10 10 09*
+
+Prach z čištění spalin obsahující nebezpečné látky
+
+10 10 10
+
+Prach z čištění spalin neuvedený pod číslem 10 10 09
+
+10 10 11*
+
+Jiný úlet obsahující nebezpečné látky
+
+10 10 12
+
+Jiný úlet neuvedený pod číslem 10 10 11
+
+10 10 13*
+
+Odpadní pojiva obsahující nebezpečné látky
+
+10 10 14
+
+Odpadní pojiva neuvedená pod číslem 10 10 13
+
+10 10 15*
+
+Odpadní činidla na indikaci prasklin obsahující nebezpečné látky
+
+10 10 16
+
+Odpadní činidla na indikaci prasklin neuvedená pod číslem 10 10 15
+
+10 10 99
+
+Odpady jinak blíže neurčené
+
+10 11
+
+Odpady z výroby skla a skleněných výrobků
+
+10 11 03
+
+Odpadní materiály na bázi skelných vláken
+
+10 11 05
+
+Úlet a prach
+
+10 11 09*
+
+Odpadní sklářský kmen před tepelným zpracováním obsahující nebezpečné látky
+
+10 11 10
+
+Odpadní sklářský kmen před tepelným zpracováním neuvedený pod číslem 10 11 09
+
+10 11 11*
+
+Odpadní sklo v malých částicích a skelný prach obsahující těžké kovy (např. z obrazovek)
+
+10 11 12
+
+Odpadní sklo neuvedené pod číslem 10 11 11
+
+10 11 13*
+
+Kaly z leštění a broušení skla obsahující nebezpečné látky
+
+10 11 14
+
+Kaly z leštění a broušení skla neuvedené pod číslem 10 11 13
+
+10 11 15*
+
+Pevné odpady z čištění spalin obsahující nebezpečné látky
+
+10 11 16
+
+Pevné odpady z čištění spalin neuvedené pod číslem 10 11 15
+
+10 11 17*
+
+Kaly a filtrační koláče z čištění spalin obsahující nebezpečné látky
+
+10 11 18
+
+Kaly a filtrační koláče z čištění spalin neuvedené pod číslem 10 11 17
+
+10 11 19*
+
+Pevné odpady z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+10 11 20
+
+Pevné odpady z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 10 11 19
+
+10 11 99
+
+Odpady jinak blíže neurčené
+
+10 12
+
+Odpady z výroby keramického zboží, cihel, tašek a staviv
+
+10 12 01
+
+Odpadní keramické hmoty před tepelným zpracováním
+
+10 12 03
+
+Úlet a prach
+
+10 12 05
+
+Kaly a filtrační koláče z čištění plynů
+
+10 12 06
+
+Vyřazené formy
+
+10 12 08
+
+Odpadní keramické zboží, cihly, tašky a staviva (po tepelném zpracování)
+
+10 12 09*
+
+Pevné odpady z čištění plynu obsahující nebezpečné látky
+
+10 12 10
+
+Pevné odpady z čištění plynu neuvedené pod číslem 10 12 09
+
+10 12 11*
+
+Odpady z glazování obsahující těžké kovy
+
+10 12 12
+
+Odpady z glazování neuvedené pod číslem 10 12 11
+
+10 12 13
+
+Kaly z čištění odpadních vod v místě jejich vzniku
+
+10 12 99
+
+Odpady jinak blíže neurčené
+
+10 13
+
+Odpady z výroby cementu, vápna a sádry a předmětů a výrobků z nich vyráběných
+
+10 13 01
+
+Odpad surovin před tepelným zpracováním
+
+10 13 04
+
+Odpady z kalcinace a hašení vápna
+
+10 13 06
+
+Úlet a prach (kromě odpadů uvedených pod čísly 10 13 12 a 10 13 13)
+
+10 13 07
+
+Kaly a filtrační koláče z čištění plynu
+
+10 13 09*
+
+Odpady z výroby azbestocementu obsahující azbest
+
+10 13 10
+
+Odpady z výroby azbestocementu neuvedené pod číslem 10 13 09
+
+10 13 11
+
+Odpady z jiných směsných materiálů na bázi cementu neuvedené pod čísly 10 13 09 a 10 13 10
+
+10 13 12*
+
+Pevné odpady z čištění plynu obsahující nebezpečné látky
+
+10 13 13
+
+Pevné odpady z čištění plynu neuvedené pod číslem 10 13 12
+
+10 13 14
+
+Odpadní beton a betonový kal
+
+10 13 99
+
+Odpady jinak blíže neurčené
+
+10 14
+
+Odpady z krematorií
+
+10 14 01*
+
+Odpad z čištění plynu obsahující rtuť
+
+11
+
+ODPADY Z CHEMICKÝCH POVRCHOVÝCH ÚPRAV, Z POVRCHOVÝCH ÚPRAV KOVŮ A JINÝCH MATERIÁLŮ A Z HYDROMETALURGIE NEŽELEZNÝCH KOVŮ
+
+11 01
+
+Odpady z chemických povrchových úprav, z povrchových úprav kovů a jiných materiálů (např. galvanizace, zinkování, moření, leptání, fosfátování, alkalické odmašťování, anodická oxidace)
+
+11 01 05*
+
+Kyselé mořicí roztoky
+
+11 01 06*
+
+Kyseliny blíže nespecifikované
+
+11 01 07*
+
+Alkalické mořicí roztoky
+
+11 01 08*
+
+Kaly z fosfátování
+
+11 01 09*
+
+Kaly a filtrační koláče obsahující nebezpečné látky
+
+11 01 10
+
+Kaly a filtrační koláče neuvedené pod číslem 11 01 09
+
+11 01 11*
+
+Oplachové vody obsahující nebezpečné látky
+
+11 01 12
+
+Oplachové vody neuvedené pod číslem 11 01 11
+
+11 01 13*
+
+Odpady z odmašťování obsahující nebezpečné látky
+
+11 01 14
+
+Odpady z odmašťování neuvedené pod číslem 11 01 13
+
+11 01 15*
+
+Výluhy a kaly z membránových systémů nebo ze systémů iontoměničů obsahující nebezpečné látky
+
+11 01 16*
+
+Nasycené nebo upotřebené pryskyřice iontoměničů
+
+11 01 98*
+
+Jiné odpady obsahující nebezpečné látky
+
+11 01 99
+
+Odpady jinak blíže neurčené
+
+11 02
+
+Odpady z hydrometalurgie neželezných kovů
+
+11 02 02*
+
+Kaly z hydrometalurgie zinku (včetně jarositu a goethitu)
+
+11 02 03
+
+Odpady z výroby anod pro vodné elektrolytické procesy
+
+11 02 05*
+
+Odpady z hydrometalurgie mědi obsahující nebezpečné látky
+
+11 02 06
+
+Odpady z hydrometalurgie mědi neuvedené pod číslem 11 02 05
+
+11 02 07*
+
+Jiné odpady obsahující nebezpečné látky
+
+11 02 99
+
+Odpady jinak blíže neurčené
+
+11 03
+
+Kaly a pevné odpady z popouštěcích procesů
+
+11 03 01*
+
+Odpady obsahující kyanidy
+
+11 03 02*
+
+Jiné odpady
+
+11 05
+
+Odpady ze žárového zinkování
+
+11 05 01
+
+Tvrdý zinek
+
+11 05 02
+
+Zinkový popel
+
+11 05 03*
+
+Pevné odpady z čištění plynu
+
+11 05 04*
+
+Upotřebené tavidlo
+
+11 05 99
+
+Odpady jinak blíže neurčené
+
+12
+
+ODPADY Z TVÁŘENÍ A Z FYZIKÁLNÍ A MECHANICKÉ POVRCHOVÉ ÚPRAVY KOVŮ A PLASTŮ
+
+12 01
+
+Odpady z tváření a z fyzikální a mechanické povrchové úpravy kovů a plastů
+
+12 01 01
+
+Piliny a třísky železných kovů
+
+12 01 02
+
+Úlet železných kovů
+
+12 01 03
+
+Piliny a třísky neželezných kovů
+
+12 01 03 01
+
+Měď, bronz a mosaz
+
+12 01 03 02
+
+Hliník
+
+12 01 03 03
+
+Olovo
+
+12 01 03 04
+
+Zinek
+
+12 01 03 06
+
+Cín
+
+12 01 04
+
+Úlet neželezných kovů
+
+12 01 05
+
+Plastové hobliny a třísky
+
+12 01 06*
+
+Odpadní minerální řezné oleje obsahující halogeny (kromě emulzí a roztoků)
+
+12 01 07*
+
+Odpadní minerální řezné oleje neobsahující halogeny (kromě emulzí a roztoků)
+
+12 01 08*
+
+Odpadní řezné emulze a roztoky obsahující halogeny
+
+12 01 09*
+
+Odpadní řezné emulze a roztoky neobsahující halogeny
+
+12 01 10*
+
+Syntetické řezné oleje
+
+12 01 12*
+
+Upotřebené vosky a tuky
+
+12 01 13
+
+Odpady ze svařování
+
+12 01 14*
+
+Kaly z obrábění obsahující nebezpečné látky
+
+12 01 15
+
+Jiné kaly z obrábění neuvedené pod číslem 12 01 14
+
+12 01 16*
+
+Odpadní materiál z otryskávání obsahující nebezpečné látky
+
+12 01 17
+
+Odpadní materiál z otryskávání neuvedený pod číslem 12 01 16
+
+12 01 18*
+
+Kovový kal (brusný kal, honovací kal a kal z lapování) obsahující olej
+
+12 01 19*
+
+Snadno biologicky rozložitelný řezný olej
+
+12 01 20*
+
+Upotřebené brusné nástroje a brusné materiály obsahující nebezpečné látky
+
+12 01 21
+
+Upotřebené brusné nástroje a brusné materiály neuvedené pod číslem 12 01 20
+
+12 01 99
+
+Odpady jinak blíže neurčené
+
+12 03
+
+Odpady z procesů odmašťování vodou a vodní parou (kromě odpadů uvedených ve skupině 11)
+
+12 03 01*
+
+Prací vody
+
+12 03 02*
+
+Odpady z odmašťování vodní parou
+
+13
+
+ODPADY OLEJŮ A ODPADY KAPALNÝCH PALIV (KROMĚ JEDLÝCH OLEJŮ A ODPADŮ UVEDENÝCH VE SKUPINÁCH 05, 12 A 19)
+
+13 01
+
+Odpadní hydraulické oleje
+
+13 01 01*
+
+Hydraulické oleje obsahující PCB
+
+13 01 04*
+
+Chlorované emulze
+
+13 01 05*
+
+Nechlorované emulze
+
+13 01 09*
+
+Chlorované hydraulické minerální oleje
+
+13 01 10*
+
+Nechlorované hydraulické minerální oleje
+
+13 01 11*
+
+Syntetické hydraulické oleje
+
+13 01 12*
+
+Snadno biologicky rozložitelné hydraulické oleje
+
+13 01 13*
+
+Jiné hydraulické oleje
+
+13 02
+
+Odpadní motorové, převodové a mazací oleje
+
+13 02 04*
+
+Chlorované minerální motorové, převodové a mazací oleje
+
+13 02 05*
+
+Nechlorované minerální motorové, převodové a mazací oleje
+
+13 02 06*
+
+Syntetické motorové, převodové a mazací oleje
+
+13 02 07*
+
+Snadno biologicky rozložitelné motorové, převodové a mazací oleje
+
+13 02 08*
+
+Jiné motorové, převodové a mazací oleje
+
+13 03
+
+Odpadní izolační a teplonosné oleje
+
+13 03 01*
+
+Odpadní izolační nebo teplonosné oleje s obsahem PCB
+
+13 03 06*
+
+Minerální chlorované izolační a teplonosné oleje neuvedené pod číslem 13 03 01
+
+13 03 07*
+
+Minerální nechlorované izolační a teplonosné oleje
+
+13 03 08*
+
+Syntetické izolační a teplonosné oleje
+
+13 03 09*
+
+Snadno biologicky rozložitelné izolační a teplonosné oleje
+
+13 03 10*
+
+Jiné izolační a teplonosné oleje
+
+13 04
+
+Oleje z lodního dna
+
+13 04 01*
+
+Oleje ze dna lodí vnitrozemské plavby
+
+13 04 02*
+
+Oleje z kanalizace přístavních mol
+
+13 04 03*
+
+Oleje ze dna jiných lodí
+
+13 05
+
+Odpady z odlučovačů oleje
+
+13 05 01*
+
+Pevný podíl z lapáků písku a odlučovačů oleje
+
+13 05 02*
+
+Kaly z odlučovačů oleje
+
+13 05 03*
+
+Kaly z lapáků nečistot
+
+13 05 06*
+
+Olej z odlučovačů oleje
+
+13 05 07*
+
+Zaolejovaná voda z odlučovačů oleje
+
+13 05 08*
+
+Směsi odpadů z lapáku písku a z odlučovačů oleje
+
+13 07
+
+Odpady kapalných paliv
+
+13 07 01*
+
+Topný olej a motorová nafta
+
+13 07 02*
+
+Motorový benzín
+
+13 07 03*
+
+Jiná paliva (včetně směsí)
+
+13 08
+
+Odpadní oleje blíže nespecifikované
+
+13 08 01*
+
+Odsolené kaly nebo emulze
+
+13 08 02*
+
+Jiné emulze
+
+13 08 99*
+
+Odpady jinak blíže neurčené
+
+14
+
+ODPADNÍ ORGANICKÁ ROZPOUŠTĚDLA, CHLADICÍ A HNACÍ MÉDIA (KROMĚ ODPADŮ UVEDENÝCH VE SKUPINÁCH 07 A 08)
+
+14 06
+
+Odpadní organická rozpouštědla, chladicí média a hnací média rozprašovačů pěn a aerosolů
+
+14 06 01*
+
+Chlorofluorouhlovodíky, hydrochlorofluorouhlovodíky (HCFC), hydrofluorouhlovodíky (HFC)
+
+14 06 01 01*
+
+Jiná chladící a hnací média
+
+14 06 02*
+
+Jiná halogenovaná rozpouštědla a směsi rozpouštědel
+
+14 06 03*
+
+Jiná rozpouštědla a směsi rozpouštědel
+
+14 06 04*
+
+Kaly nebo pevné odpady obsahující halogenovaná rozpouštědla
+
+14 06 05*
+
+Kaly nebo pevné odpady obsahující ostatní rozpouštědla
+
+15
+
+ODPADNÍ OBALY; ABSORPČNÍ ČINIDLA, ČISTICÍ TKANINY, FILTRAČNÍ MATERIÁLY A OCHRANNÉ ODĚVY JINAK NEURČENÉ
+
+15 01
+
+Obaly
+
+15 01 01
+
+Papírové a lepenkové obaly
+
+15 01 02
+
+Plastové obaly
+
+15 01 03
+
+Dřevěné obaly
+
+15 01 04
+
+Kovové obaly
+
+15 01 05
+
+Kompozitní obaly
+
+15 01 06
+
+Směsné obaly
+
+15 01 07
+
+Skleněné obaly
+
+15 01 09
+
+Textilní obaly
+
+15 01 10*
+
+Obaly obsahující zbytky nebezpečných látek nebo obaly těmito látkami znečištěné
+
+15 01 11*
+
+Kovové obaly obsahující nebezpečnou výplňovou hmotu (např. azbest) včetně prázdných tlakových nádob
+
+15 02
+
+Absorpční činidla, filtrační materiály, čisticí tkaniny a ochranné oděvy
+
+15 02 02*
+
+Absorpční činidla, filtrační materiály (včetně olejových filtrů jinak blíže neurčených), čisticí tkaniny a ochranné oděvy znečištěné nebezpečnými látkami
+
+15 02 03
+
+Absorpční činidla, filtrační materiály, čisticí tkaniny a ochranné oděvy neuvedené pod číslem 15 02 02
+
+16
+
+ODPADY V TOMTO KATALOGU JINAK NEURČENÉ
+
+16 01
+
+Vyřazená vozidla s ukončenou životností z různých druhů dopravy (včetně stavebních strojů) a odpady z demontáže těchto vozidel a z jejich údržby (kromě odpadů uvedených ve skupinách 13, 14 a v podskupinách 16 06 a 16 08)
+
+16 01 03
+
+Pneumatiky
+
+16 01 04*
+
+Vyřazená vozidla s ukončenou životností
+
+16 01 04 01*
+
+Vyřazené dopravní prostředky z různých druhů dopravy a stroje
+
+16 01 06
+
+Vyřazená vozidla s ukončenou životností zbavené kapalin a jiných nebezpečných součástí
+
+16 01 06 01
+
+Vyřazené dopravní prostředky z různých druhů dopravy a stroje zbavené kapalin a jiných nebezpečných součástí
+
+16 01 07*
+
+Olejové filtry
+
+16 01 08*
+
+Součástky obsahující rtuť
+
+16 01 09*
+
+Součástky obsahující PCB
+
+16 01 10*
+
+Výbušné součásti (např. airbagy)
+
+16 01 11*
+
+Brzdové destičky obsahující azbest
+
+16 01 12
+
+Brzdové destičky neuvedené pod číslem 16 01 11
+
+16 01 13*
+
+Brzdové kapaliny
+
+16 01 14*
+
+Nemrznoucí kapaliny obsahující nebezpečné látky
+
+16 01 15
+
+Nemrznoucí kapaliny neuvedené pod číslem 16 01 14
+
+16 01 16
+
+Nádrže na zkapalněný plyn
+
+16 01 17
+
+Železné kovy
+
+16 01 18
+
+Neželezné kovy
+
+16 01 19
+
+Plasty
+
+16 01 20
+
+Sklo
+
+16 01 21*
+
+Nebezpečné součástky neuvedené pod čísly 16 01 07 až 16 01 11 a 16 01 13 a 16 01 14
+
+16 01 22
+
+Součástky jinak blíže neurčené
+
+16 01 99
+
+Odpady jinak blíže neurčené
+
+16 02
+
+Odpady z elektrického a elektronického zařízení
+
+16 02 09*
+
+Transformátory a kondenzátory obsahující PCB
+
+16 02 10*
+
+Jiná vyřazená zařízení obsahující PCB nebo těmito látkami znečištěná neuvedená pod číslem 16 02 09
+
+16 02 11*
+
+Vyřazená zařízení obsahující chlorofluorouhlovodíky, hydrochlorofluorouhlovodíky (HCFC) a hydrofluorouhlovodíky (HFC)
+
+16 02 12*
+
+Vyřazená zařízení obsahující volný azbest
+
+16 02 13*
+
+Vyřazená zařízení obsahující nebezpečné složky neuvedená pod čísly 16 02 09 až 16 02 12
+
+16 02 13 01*
+
+Tiskařské tonerové kazety mající nebezpečné vlastnosti
+
+16 02 14
+
+Vyřazená zařízení neuvedená pod čísly 16 02 09 až 16 02 13
+
+16 02 14 01
+
+Tiskařské tonerové kazety nezařazené pod 16 02 13 01*
+
+16 02 15*
+
+Nebezpečné složky odstraněné z vyřazených zařízení
+
+16 02 16
+
+Jiné složky odstraněné z vyřazených zařízení neuvedené pod číslem 16 02 15
+
+16 03
+
+Vadné šarže a nepoužité výrobky
+
+16 03 03*
+
+Anorganické odpady obsahující nebezpečné látky
+
+16 03 04
+
+Anorganické odpady neuvedené pod číslem 16 03 03
+
+16 03 05*
+
+Organické odpady obsahující nebezpečné látky
+
+16 03 06
+
+Organické odpady neuvedené pod číslem 16 03 05
+
+16 03 07*
+
+Kovová rtuť
+
+16 04
+
+Odpady výbušných materiálů
+
+16 04 01*
+
+Odpadní munice a střelivo
+
+16 04 02*
+
+Odpad z pyrotechnických výrobků
+
+16 04 03*
+
+Odpad z jiných výbušných materiálů
+
+16 05
+
+Chemické látky a plyny v tlakových nádobách a vyřazené chemikálie
+
+16 05 04*
+
+Plyny v tlakových nádobách (včetně halonů) obsahující nebezpečné látky
+
+16 05 05
+
+Jiné plyny v tlakových nádobách (včetně halonů) neuvedené pod číslem 16 05 04
+
+16 05 06*
+
+Laboratorní chemikálie a jejich směsi, které jsou nebo obsahují nebezpečné látky
+
+16 05 07*
+
+Vyřazené anorganické chemikálie, které jsou nebo obsahují nebezpečné látky
+
+16 05 08*
+
+Vyřazené organické chemikálie, které jsou nebo obsahují nebezpečné látky
+
+16 05 09
+
+Vyřazené chemikálie neuvedené pod čísly 16 05 06, 16 05 07 nebo 16 05 08
+
+16 06
+
+Baterie a akumulátory Odpady z výroby, distribuce a používání baterií
+
+16 06 01*
+
+Olověné akumulátory Odpadní olověné baterie
+
+16 06 02*
+
+Nikl–kadmiové baterie a akumulátory Odpadní nikl-kadmiové baterie
+
+16 06 03*
+
+Baterie Odpadní baterie obsahující rtuť
+
+16 06 04
+
+Alkalické baterie (kromě baterií uvedených pod číslem 16 06 03) Odpadní alkalické baterie (neuvedené pod číslem 16 06 03)
+
+16 06 05
+
+Jiné baterie a akumulátory
+
+16 06 05 01
+
+Baterie a akumulátory obsahující lithium
+
+16 06 06*
+
+Odděleně soustřeďované elektrolyty z baterií a akumulátorů Elektrolyty z odpadních baterií sebrané prostřednictvím tříděného sběru
+
+16 06 07*
+
+Odpadní baterie na bázi lithia
+
+16 06 08*
+
+Odpadní baterie na bázi niklu neuvedené pod číslem 16 06 02 (například NiMH, Na-NiCl2)
+
+16 06 09*
+
+Odpadní baterie na bázi zinku, včetně baterií na bázi oxidu stříbrného
+
+16 06 10*
+
+Odpadní baterie na bázi sodíku obsahující nebezpečné látky (kromě těch uvedených pod číslem 16 06 11)
+
+16 06 11*
+
+Odpadní sodíkovo-sírové baterie
+
+16 06 12
+
+Ostatní odpadní baterie na bázi sodíku (kromě těch uvedených pod čísly 16 06 10 a 16 06 11)
+
+16 06 13*
+
+Směsné odpadní baterie
+
+16 06 14*
+
+Ostatní odpadní baterie obsahující nebezpečné látky
+
+16 06 15
+
+Odpadní baterie jinak nespecifikované a neuvedené pod čísly 16 06 12 a 16 06 14
+
+16 06 22*
+
+Odpad z výroby olověných baterií obsahující nebezpečné látky (například olověná pasta)
+
+16 06 23
+
+Odpad z výroby olověných baterií neuvedený pod číslem 16 06 22
+
+16 06 24*
+
+Odpad z výroby baterií na bázi lithia obsahující nebezpečné látky (například katody, katodová kejda, bateriové články nevyhovující specifikacím, moduly a/nebo sady)
+
+16 06 25
+
+Odpad z výroby baterií na bázi lithia neuvedený pod číslem 16 06 24 (například anodové rozhraní)
+
+16 06 26*
+
+Odpad z výroby baterií na bázi niklu obsahující nebezpečné látky (například kapalný a pevný katodový materiál)
+
+16 06 27
+
+Odpad z výroby baterií na bázi niklu neuvedený pod číslem 16 06 26
+
+16 06 28*
+
+Odpad z výroby alkalických baterií obsahující nebezpečné látky
+
+16 06 29
+
+Odpad z výroby alkalických baterií neuvedený pod číslem 16 06 28
+
+16 06 30*
+
+Odpad z výroby baterií na bázi zinku obsahující nebezpečné látky
+
+16 06 31
+
+Odpad z výroby baterií na bázi zinku neuvedený pod číslem 16 06 30
+
+16 06 32*
+
+Odpad z výroby baterií na bázi sodíku obsahující nebezpečné látky
+
+16 06 33
+
+Odpad z výroby baterií na bázi sodíku neuvedený pod číslem 16 06 32
+
+16 06 34*
+
+Odpad z výroby baterií obsahující nebezpečné látky neuvedený pod čísly 16 06 22, 16 06 24, 16 06 26, 16 06 28, 16 06 30 a 16 06 32
+
+16 06 35
+
+Odpad z výroby baterií neuvedený pod čísly 16 06 23, 16 06 25, 16 06 27, 16 06 29, 16 06 31 a 16 06 33
+
+16 07
+
+Odpady z čištění přepravních a skladovacích nádrží a sudů (kromě odpadů uvedených ve skupinách 05 a 12)
+
+16 07 08*
+
+Odpady obsahující ropné látky
+
+16 07 09*
+
+Odpady obsahující jiné nebezpečné látky
+
+16 07 99
+
+Odpady jinak blíže neurčené
+
+16 08
+
+Upotřebené katalyzátory
+
+16 08 01
+
+Upotřebené katalyzátory obsahující zlato, stříbro, rhenium, rhodium, paladium, iridium nebo platinu (kromě odpadu uvedeného pod číslem 16 08 07)
+
+16 08 02*
+
+Upotřebené katalyzátory obsahující nebezpečné přechodné kovy nebo jejich sloučeniny
+
+16 08 03
+
+Upotřebené katalyzátory obsahující jiné přechodné kovy nebo sloučeniny přechodných kovů jinak blíže neurčené
+
+16 08 04
+
+Upotřebené tekuté katalyzátory z katalytického krakování (kromě odpadu uvedeného pod číslem 16 08 07)
+
+16 08 05*
+
+Upotřebené katalyzátory obsahující kyselinu fosforečnou
+
+16 08 06*
+
+Upotřebené kapaliny použité jako katalyzátory
+
+16 08 07*
+
+Upotřebené katalyzátory znečištěné nebezpečnými látkami
+
+16 09
+
+Oxidační činidla
+
+16 09 01*
+
+Manganistany, např. manganistan draselný
+
+16 09 02*
+
+Chromany, např. chroman draselný, dichroman draselný nebo sodný
+
+16 09 03*
+
+Peroxidy, např. peroxid vodíku
+
+16 09 04*
+
+Oxidační činidla jinak blíže neurčená
+
+16 10
+
+Odpadní vody určené k úpravě mimo místo vzniku
+
+16 10 01*
+
+Odpadní vody obsahující nebezpečné látky
+
+16 10 02
+
+Odpadní vody neuvedené pod číslem 16 10 01
+
+16 10 03*
+
+Vodné koncentráty obsahující nebezpečné látky
+
+16 10 04
+
+Vodné koncentráty neuvedené pod číslem 16 10 03
+
+16 11
+
+Odpadní vyzdívky a žáruvzdorné materiály
+
+16 11 01*
+
+Vyzdívky na bázi uhlíku a žáruvzdorné materiály z metalurgických procesů obsahující nebezpečné látky
+
+16 11 02
+
+Jiné vyzdívky na bázi uhlíku a žáruvzdorné materiály z metalurgických procesů neuvedené pod číslem 16 11 01
+
+16 11 03*
+
+Jiné vyzdívky a žáruvzdorné materiály z metalurgických procesů obsahující nebezpečné látky
+
+16 11 04
+
+Jiné vyzdívky a žáruvzdorné materiály z metalurgických procesů neuvedené pod číslem 16 11 03
+
+16 11 05*
+
+Vyzdívky a žáruvzdorné materiály z nemetalurgických procesů obsahující nebezpečné látky
+
+16 11 06
+
+Vyzdívky a žáruvzdorné materiály z nemetalurgických procesů neuvedené pod číslem 16 11 05
+
+17
+
+STAVEBNÍ A DEMOLIČNÍ ODPADY (VČETNĚ VYTĚŽENÉ ZEMINY Z KONTAMINOVANÝCH MÍST)
+
+17 01
+
+Beton, cihly, tašky a keramika
+
+17 01 01
+
+Beton
+
+17 01 02
+
+Cihly
+
+17 01 03
+
+Tašky a keramické výrobky
+
+17 01 06*
+
+Směsi nebo oddělené frakce betonu, cihel, tašek a keramických výrobků obsahující nebezpečné látky
+
+17 01 07
+
+Směsi nebo oddělené frakce betonu, cihel, tašek a keramických výrobků neuvedené pod číslem 17 01 06
+
+17 02
+
+Dřevo, sklo a plasty
+
+17 02 01
+
+Dřevo
+
+17 02 02
+
+Sklo
+
+17 02 03
+
+Plasty
+
+17 02 04*
+
+Sklo, plasty a dřevo obsahující nebezpečné látky nebo nebezpečnými látkami znečištěné
+
+17 03
+
+Asfaltové směsi, dehet a výrobky z dehtu
+
+17 03 01*
+
+Asfaltové směsi obsahující dehet
+
+17 03 02
+
+Asfaltové směsi neuvedené pod číslem 17 03 01
+
+17 03 03*
+
+Uhelný dehet a výrobky z dehtu
+
+17 04
+
+Kovy (včetně jejich slitin)
+
+17 04 01
+
+Měď, bronz, mosaz
+
+17 04 02
+
+Hliník
+
+17 04 03
+
+Olovo
+
+17 04 04
+
+Zinek
+
+17 04 05
+
+Železo a ocel
+
+17 04 06
+
+Cín
+
+17 04 07
+
+Směsné kovy
+
+17 04 09*
+
+Kovový odpad znečištěný nebezpečnými látkami
+
+17 04 10*
+
+Kabely obsahující ropné látky, uhelný dehet a jiné nebezpečné látky
+
+17 04 11
+
+Kabely neuvedené pod číslem 17 04 10
+
+17 05
+
+Zemina (včetně vytěžené zeminy z kontaminovaných míst), kamení, vytěžená jalová hornina a hlušina
+
+17 05 03*
+
+Zemina a kamení obsahující nebezpečné látky
+
+17 05 04
+
+Zemina a kamení neuvedené pod číslem 17 05 03
+
+17 05 04 01
+
+Sedimenty vytěžené z koryt vodních toků a vodních nádrží
+
+17 05 05*
+
+Vytěžená jalová hornina a hlušina obsahující nebezpečné látky
+
+17 05 06
+
+Vytěžená jalová hornina a hlušina neuvedená pod číslem 17 05 05
+
+17 05 07*
+
+Štěrk ze železničního svršku obsahující nebezpečné látky
+
+17 05 08
+
+Štěrk ze železničního svršku neuvedený pod číslem 17 05 07
+
+17 06
+
+Izolační materiály a stavební materiály s obsahem azbestu
+
+17 06 01*
+
+Izolační materiál s obsahem azbestu
+
+17 06 03*
+
+Jiné izolační materiály, které jsou nebo obsahují nebezpečné látky
+
+17 06 03 01*
+
+Izolační materiály na bázi polystyrenu obsahující nebezpečné látky
+
+17 06 04
+
+Izolační materiály neuvedené pod čísly 17 06 01 a 17 06 03
+
+17 06 04 01
+
+Izolační materiály na bázi polystyrenu s obsahem POPs vyžadující specifický způsob nakládání s ohledem na nařízení o POPs
+
+17 06 04 02
+
+Izolační materiály na bázi polystyrenu
+
+17 06 05*
+
+Stavební materiály obsahující azbest
+
+17 08
+
+Stavební materiál na bázi sádry
+
+17 08 01*
+
+Stavební materiály na bázi sádry znečištěné nebezpečnými látkami
+
+17 08 02
+
+Stavební materiály na bázi sádry neuvedené pod číslem 17 08 01
+
+17 09
+
+Jiné stavební a demoliční odpady
+
+17 09 01*
+
+Stavební a demoliční odpady obsahující rtuť
+
+17 09 02*
+
+Stavební a demoliční odpady obsahující PCB (např. těsnící materiály obsahující PCB, podlahoviny na bázi pryskyřic obsahující PCB, utěsněné zasklené dílce obsahující PCB, kondenzátory obsahující PCB)
+
+17 09 03*
+
+Jiné stavební a demoliční odpady (včetně směsných stavebních a demoličních odpadů) obsahující nebezpečné látky
+
+17 09 04
+
+Směsné stavební a demoliční odpady neuvedené pod čísly 17 09 01, 17 09 02 a 17 09 03
+
+18
+
+ODPADY ZE ZDRAVOTNICTVÍ A VETERINÁRNÍ PÉČE A / NEBO Z VÝZKUMU S NIMI SOUVISEJÍCÍHO (S VÝJIMKOU KUCHYŇSKÝCH ODPADŮ A ODPADU ZE STRAVOVACÍCH ZAŘÍZENÍ, KTERÉ SE ZDRAVOTNICTVÍM BEZPROSTŘEDNĚ NESOUVISÍ)
+
+18 01
+
+Odpady z porodnické péče, z diagnostiky, z léčení nebo prevence nemocí lidí
+
+18 01 01
+
+Ostré předměty (kromě čísla 18 01 03)
+
+18 01 02
+
+Části těla a orgány včetně krevních vaků a krevních konzerv (kromě čísla 18 01 03)
+
+18 01 03*
+
+Odpady, na jejichž sběr a odstraňování jsou kladeny zvláštní požadavky s ohledem na prevenci infekce
+
+18 01 03 01*
+
+Ostré předměty, na jejichž sběr a odstraňování jsou kladeny zvláštní požadavky s ohledem na prevenci infekce
+
+18 01 03 02*
+
+Části těla a orgány včetně krevních vaků a krevních konzerv
+
+18 01 04
+
+Odpady, na jejichž sběr a odstraňování nejsou kladeny zvláštní požadavky s ohledem na prevenci infekce
+
+18 01 06*
+
+Chemikálie, které jsou nebo obsahují nebezpečné látky
+
+18 01 07
+
+Chemikálie neuvedené pod číslem 18 01 06
+
+18 01 08*
+
+Nepoužitelná cytostatika
+
+18 01 09*
+
+Jiná nepoužitelná léčiva neuvedená pod číslem 18 01 08
+
+18 01 10*
+
+Odpadní amalgám ze stomatologické péče
+
+18 02
+
+Odpady z výzkumu, diagnostiky, léčení nebo prevence nemocí zvířat
+
+18 02 01
+
+Ostré předměty
+
+18 02 02*
+
+Odpady, na jejichž sběr a odstraňování jsou kladeny zvláštní požadavky s ohledem na prevenci infekce
+
+18 02 02 01*
+
+Ostré předměty, na jejichž sběr a odstraňování jsou kladeny zvláštní požadavky s ohledem na prevenci infekce
+
+18 02 03
+
+Odpady, na jejichž sběr a odstraňování nejsou kladeny zvláštní požadavky s ohledem na prevenci infekce
+
+18 02 05*
+
+Chemikálie sestávající z nebezpečných látek nebo tyto látky obsahující
+
+18 02 06
+
+Jiné chemikálie neuvedené pod číslem 18 02 05
+
+18 02 07*
+
+Nepoužitelná cytostatika
+
+18 02 08*
+
+Jiná nepoužitelná léčiva neuvedená pod číslem 18 02 07
+
+19
+
+ODPADY ZE ZAŘÍZENÍ URČENÉHO PRO NAKLÁDÁNÍ S ODPADY, Z ČISTÍREN ODPADNÍCH VOD PRO ČIŠTĚNÍ TĚCHTO VOD MIMO MÍSTO JEJICH VZNIKU A Z VÝROBY VODY PRO SPOTŘEBU LIDÍ A VODY PRO PRŮMYSLOVÉ ÚČELY
+
+19 01
+
+Odpady ze spalování nebo z pyrolýzy odpadů
+
+19 01 02
+
+Železné materiály získané z pevných zbytků po spalování
+
+19 01 05*
+
+Filtrační koláče z čištění odpadních plynů
+
+19 01 06*
+
+Odpadní vody z čištění odpadních plynů a jiné odpadní vody
+
+19 01 07*
+
+Pevné odpady z čištění odpadních plynů
+
+19 01 10*
+
+Upotřebené aktivní uhlí z čištění spalin
+
+19 01 11*
+
+Popel a struska obsahující nebezpečné látky
+
+19 01 12
+
+Jiný popel a struska neuvedené pod číslem 19 01 11
+
+19 01 13*
+
+Popílek obsahující nebezpečné látky
+
+19 01 14
+
+Jiný popílek neuvedený pod číslem 19 01 13
+
+19 01 15*
+
+Kotelní prach obsahující nebezpečné látky
+
+19 01 16
+
+Kotelní prach neuvedený pod číslem 19 01 15
+
+19 01 17*
+
+Odpad z pyrolýzy obsahující nebezpečné látky
+
+19 01 18
+
+Odpad z pyrolýzy neuvedený pod číslem 19 01 17
+
+19 01 19
+
+Odpadní písky z fluidních loží
+
+19 01 99
+
+Odpady jinak blíže neurčené
+
+19 02
+
+Odpady z fyzikálně-chemických úprav odpadů (např. odstraňování chromu či kyanidů, neutralizace)
+
+19 02 03
+
+Upravené směsi odpadů obsahující pouze odpady nehodnocené jako nebezpečné
+
+19 02 04*
+
+Upravené směsi odpadů, které obsahují nejméně jeden odpad hodnocený jako nebezpečný
+
+19 02 05*
+
+Kaly z fyzikálně-chemického zpracování obsahující nebezpečné látky
+
+19 02 06
+
+Kaly z fyzikálně-chemického zpracování neuvedené pod číslem 19 02 05
+
+19 02 07*
+
+Olej a koncentráty ze separace
+
+19 02 08*
+
+Kapalné hořlavé odpady obsahující nebezpečné látky
+
+19 02 09*
+
+Pevné hořlavé odpady obsahující nebezpečné látky
+
+19 02 10
+
+Hořlavé odpady neuvedené pod čísly 19 02 08 a 19 02 09
+
+19 02 11*
+
+Jiné odpady obsahující nebezpečné látky
+
+19 02 12*
+
+Pevné soli a roztoky obsahující těžké kovy z recyklace baterií
+
+19 02 13*
+
+Ostatní odpady obsahující nebezpečné látky
+
+19 02 99
+
+Odpady jinak blíže neurčené
+
+19 03
+
+Stabilizované/ solidifikované odpady
+
+19 03 04*
+
+Odpad hodnocený jako nebezpečný, částečně stabilizovaný, neuvedený pod číslem 19 03 08
+
+19 03 05
+
+Stabilizovaný odpad neuvedený pod číslem 19 03 04
+
+19 03 06*
+
+Solidifikovaný odpad hodnocený jako nebezpečný
+
+19 03 07
+
+Solidifikovaný odpad neuvedený pod číslem 19 03 06
+
+19 03 08*
+
+Částečně stabilizovaná rtuť
+
+19 04
+
+Vitrifikovaný odpad a odpad z vitrifikace
+
+19 04 01
+
+Vitrifikovaný odpad
+
+19 04 02*
+
+Popílek a jiný odpad z čištění spalin
+
+19 04 03*
+
+Nevitrifikovaná pevná fáze
+
+19 04 04
+
+Chladící voda z ochlazování vitrifikovaného odpadu
+
+19 05
+
+Odpady z aerobního zpracování pevných odpadů
+
+19 05 01
+
+Nezkompostovaný podíl komunálního nebo podobného odpadu
+
+19 05 02
+
+Nezkompostovaný podíl odpadů živočišného a rostlinného původu
+
+19 05 03
+
+Kompost nevyhovující jakosti
+
+19 05 99
+
+Odpady jinak blíže neurčené
+
+19 06
+
+Odpady z anaerobního zpracování odpadu
+
+19 06 03
+
+Extrakty z anaerobního zpracování komunálního odpadu
+
+19 06 04
+
+Produkty vyhnívání z anaerobního zpracování komunálního odpadu
+
+19 06 05
+
+Extrakty z anaerobního zpracování odpadů živočišného a rostlinného původu
+
+19 06 06
+
+Produkty vyhnívání z anaerobního zpracování živočišného a rostlinného odpadu
+
+19 06 99
+
+Odpady jinak blíže neurčené
+
+19 07
+
+Průsaková voda ze skládek
+
+19 07 02*
+
+Průsaková voda ze skládek obsahující nebezpečné látky
+
+19 07 03
+
+Průsaková voda ze skládek neuvedená pod číslem 19 07 02
+
+19 08
+
+Odpady z čistíren odpadních vod jinde neuvedené
+
+19 08 01
+
+Shrabky z česlí
+
+19 08 02
+
+Odpady z lapáků písku
+
+19 08 05
+
+Kaly z čištění komunálních odpadních vod
+
+19 08 06*
+
+Nasycené nebo upotřebené pryskyřice iontoměničů
+
+19 08 07*
+
+Roztoky a kaly z regenerace iontoměničů
+
+19 08 08*
+
+Odpad z membránového systému obsahující těžké kovy
+
+19 08 09
+
+Směs tuků a olejů z odlučovače tuků obsahující pouze jedlé oleje a jedlé tuky
+
+19 08 10*
+
+Směs tuků a olejů z odlučovače tuků neuvedená pod číslem 19 08 09
+
+19 08 11*
+
+Kaly z biologického čištění průmyslových odpadních vod obsahující nebezpečné látky
+
+19 08 12
+
+Kaly z biologického čištění průmyslových odpadních vod neuvedené pod číslem 19 08 11
+
+19 08 13*
+
+Kaly z jiných způsobů čištění průmyslových odpadních vod obsahující nebezpečné látky
+
+19 08 14
+
+Kaly z jiných způsobů čištění průmyslových odpadních vod neuvedené pod číslem 19 08 13
+
+19 08 99
+
+Odpady jinak blíže neurčené
+
+19 09
+
+Odpady z výroby vody pro spotřebu lidí nebo vody pro průmyslové účely
+
+19 09 01
+
+Pevné odpady z primárního čištění (z česlí a filtrů)
+
+19 09 02
+
+Kaly z čiření vody
+
+19 09 03
+
+Kaly z dekarbonizace
+
+19 09 04
+
+Upotřebené aktivní uhlí
+
+19 09 05
+
+Nasycené nebo upotřebené pryskyřice iontoměničů
+
+19 09 06
+
+Roztoky a kaly z regenerace iontoměničů
+
+19 09 99
+
+Odpady jinak blíže neurčené
+
+19 10
+
+Odpady z drcení odpadu obsahujícího kovy
+
+19 10 01
+
+Železný a ocelový odpad
+
+19 10 02
+
+Neželezný odpad
+
+19 10 03*
+
+Lehké frakce a prach obsahující nebezpečné látky
+
+19 10 04
+
+Lehké frakce a prach neuvedené pod číslem 19 10 03
+
+19 10 05*
+
+Jiné frakce obsahující nebezpečné látky
+
+19 10 06
+
+Jiné frakce neuvedené pod číslem 19 10 05
+
+19 11
+
+Odpady z regenerace olejů
+
+19 11 01*
+
+Upotřebené filtrační hlinky
+
+19 11 02*
+
+Kyselé dehty
+
+19 11 03*
+
+Odpadní voda z regenerace olejů
+
+19 11 04*
+
+Odpady z čištění paliv pomocí zásad
+
+19 11 05*
+
+Kaly z čištění odpadních vod v místě jejich vzniku obsahující nebezpečné látky
+
+19 11 06
+
+Kaly z čištění odpadních vod v místě jejich vzniku neuvedené pod číslem 19 11 05
+
+19 11 07*
+
+Odpady z čištění spalin
+
+19 11 99
+
+Odpady jinak blíže neurčené
+
+19 12
+
+Odpady z úpravy odpadů jinde neuvedené (např. třídění, drcení, lisování, peletizace)
+
+19 12 01
+
+Papír a lepenka
+
+19 12 01 01
+
+Kompozitní a nápojové kartony
+
+19 12 02
+
+Železné kovy
+
+19 12 03
+
+Neželezné kovy
+
+19 12 03 01
+
+Měď, bronz, mosaz
+
+19 12 03 02
+
+Hliník
+
+19 12 03 03
+
+Olovo
+
+19 12 03 04
+
+Zinek
+
+19 12 03 06
+
+Cín
+
+19 12 04
+
+Plasty a kaučuk
+
+19 12 05
+
+Sklo
+
+19 12 06*
+
+Dřevo obsahující nebezpečné látky
+
+19 12 07
+
+Dřevo neuvedené pod číslem 19 12 06
+
+19 12 08
+
+Textil
+
+19 12 09
+
+Nerosty (např. písek, kameny)
+
+19 12 10
+
+Spalitelný odpad (palivo vyrobené z odpadu)
+
+19 12 11*
+
+Jiné odpady (včetně směsí materiálů) z mechanické úpravy odpadu obsahujícího nebezpečné látky
+
+19 12 12
+
+Jiné odpady (včetně směsí materiálů) z mechanické úpravy odpadu neuvedené pod číslem 19 12 11
+
+19 13
+
+Odpady ze sanace zeminy a podzemní vody
+
+19 13 01*
+
+Pevné odpady ze sanace zeminy obsahující nebezpečné látky
+
+19 13 02
+
+Pevné odpady ze sanace zeminy neuvedené pod číslem 19 13 01
+
+19 13 03*
+
+Kaly ze sanace zeminy obsahující nebezpečné látky
+
+19 13 04
+
+Kaly ze sanace zeminy neuvedené pod číslem 19 13 03
+
+19 13 05*
+
+Kaly ze sanace podzemní vody obsahující nebezpečné látky
+
+19 13 06
+
+Kaly ze sanace podzemní vody neuvedené pod číslem 19 13 05
+
+19 13 07*
+
+Jiný kapalný odpad ze sanace podzemní vody obsahující nebezpečné látky
+
+19 13 08
+
+Jiný kapalný odpad ze sanace podzemní vody neuvedený pod číslem 19 13 07
+
+19 14
+
+Střední frakce z tepelného a/nebo mechanického nakládání s odpadními bateriemi a odpadem z výroby baterií
+
+19 14 01*
+
+Střední frakce z tepelného a/nebo mechanického nakládání s odpadními olověnými bateriemi a odpadem z výroby olověných baterií obsahující směs elektrodových materiálů
+
+19 14 02*
+
+Střední frakce z tepelného a/nebo mechanického nakládání s odpadními bateriemi na bázi lithia a odpadem z výroby baterií na bázi lithia obsahující směs elektrodových materiálů
+
+19 14 03*
+
+Střední frakce z tepelného a/nebo mechanického nakládání s odpadními bateriemi na bázi niklu a odpadem z výroby baterií na bázi niklu obsahující směs elektrodových materiálů
+
+19 14 04*
+
+Střední frakce z tepelného a/nebo mechanického nakládání s odpadními alkalickými bateriemi a odpadem z výroby alkalických baterií obsahující směs elektrodových materiálů
+
+19 14 05*
+
+Střední frakce z tepelného a/nebo mechanického nakládání s odpadními bateriemi na bázi zinku a odpadem z výroby baterií na bázi zinku obsahující směs elektrodových materiálů
+
+19 14 06*
+
+Střední frakce z tepelného a/nebo mechanického nakládání s odpadními bateriemi na bázi sodíku a odpadem z výroby baterií na bázi sodíku obsahující směs elektrodových materiálů
+
+19 14 07*
+
+Střední frakce z tepelného a/nebo mechanického nakládání s odpadními bateriemi a odpadem z výroby baterií obsahující směs elektrodových materiálů jinak nespecifikovaná pod čísly 19 14 01 až 19 14 06
+
+19 14 08
+
+Slitiny z recyklace odpadních baterií (v masivní podobě)
+
+20
+
+KOMUNÁLNÍ ODPADY (ODPADY Z DOMÁCNOSTÍ A PODOBNÉ ŽIVNOSTENSKÉ, PRŮMYSLOVÉ ODPADY A ODPADY Z ÚŘADŮ), VČETNĚ SLOŽEK Z ODDĚLENÉHO SBĚRU
+
+20 01
+
+Složky z odděleného sběru
+
+20 01 01
+
+Papír a lepenka
+
+20 01 01 01
+
+Kompozitní a nápojové kartony
+
+20 01 02
+
+Sklo
+
+20 01 08
+
+Biologicky rozložitelný odpad z kuchyní a stravoven
+
+20 01 08 01
+
+Biologicky rozložitelný odpad z kuchyní a stravoven rostlinného původu
+
+20 01 10
+
+Oděvy
+
+20 01 11
+
+Textilní materiály
+
+20 01 13*
+
+Rozpouštědla
+
+20 01 14*
+
+Kyseliny
+
+20 01 15*
+
+Zásady
+
+20 01 17*
+
+Fotochemikálie
+
+20 01 19*
+
+Pesticidy
+
+20 01 21*
+
+Zářivky a jiný odpad obsahující rtuť
+
+20 01 23*
+
+Vyřazená zařízení obsahující chlorofluorouhlovodíky
+
+20 01 25
+
+Jedlý olej a tuk
+
+20 01 26*
+
+Olej a tuk neuvedený pod číslem 20 01 25
+
+20 01 27*
+
+Barvy, tiskařské barvy, lepidla a pryskyřice obsahující nebezpečné látky
+
+20 01 28
+
+Barvy, tiskařské barvy, lepidla a pryskyřice neuvedené pod číslem 20 01 27
+
+20 01 29*
+
+Detergenty obsahující nebezpečné látky
+
+20 01 30
+
+Detergenty neuvedené pod číslem 20 01 29
+
+20 01 31*
+
+Nepoužitelná cytostatika
+
+20 01 32*
+
+Jiná nepoužitelná léčiva neuvedená pod číslem 20 01 31
+
+20 01 33*
+
+Baterie a akumulátory, zařazené pod čísly 16 06 01, 16 06 02 nebo pod číslem 16 06 03 a netříděné baterie a akumulátory obsahující tyto baterie
+
+20 01 34
+
+Baterie a akumulátory neuvedené pod číslem 20 01 33
+
+20 01 35*
+
+Vyřazené elektrické a elektronické zařízení obsahující nebezpečné látky neuvedené pod čísly 20 01 21 a 20 01 23
+
+20 01 35 01*
+
+Vyřazené motorové stroje, přístroje a zařízení obsahující nebezpečné látky určené k použití v domácnosti
+
+20 01 35 02*
+
+Tiskařské tonerové kazety mající nebezpečné vlastnosti
+
+20 01 36
+
+Vyřazené elektrické a elektronické zařízení neuvedené pod čísly 20 01 21, 20 01 23 a 20 01 35
+
+20 01 36 01
+
+Vyřazené motorové stroje, přístroje a zařízení určené k použití v domácnosti neuvedené pod číslem 20 01 35 01
+
+20 01 36 02
+
+Tiskařské tonerové kazety neuvedené pod číslem 20 01 35 02
+
+20 01 37*
+
+Dřevo obsahující nebezpečné látky
+
+20 01 38
+
+Dřevo neuvedené pod číslem 20 01 37
+
+20 01 39
+
+Plasty
+
+20 01 40
+
+Kovy
+
+20 01 40 01
+
+Měď, bronz, mosaz
+
+20 01 40 02
+
+Hliník
+
+20 01 40 03
+
+Olovo
+
+20 01 40 04
+
+Zinek
+
+20 01 40 05
+
+Železo a ocel
+
+20 01 40 06
+
+Cín
+
+20 01 41
+
+Odpady z čištění komínů
+
+20 01 42*
+
+Odpadní baterie uvedené pod čísly 16 06 01 až 16 06 04, 16 06 08 až 16 06 11 nebo 16 06 14 a směsné odpadní baterie obsahující tyto odpadní baterie včetně odpadních baterií pod číslem 16 06 07
+
+20 01 43*
+
+Odpadní baterie na bázi lithia uvedené pod číslem 16 06 07
+
+20 01 44
+
+Odpadní baterie neuvedené pod čísly 20 01 42 a 20 01 43
+
+20 01 55
+
+Multikomodita
+
+20 01 99
+
+Další frakce jinak blíže neurčené
+
+20 02
+
+Odpady ze zahrad a parků (včetně hřbitovního odpadu)
+
+20 02 01
+
+Biologicky rozložitelný odpad
+
+20 02 02
+
+Zemina a kameny
+
+20 02 03
+
+Jiný biologicky nerozložitelný odpad
+
+20 03
+
+Ostatní komunální odpady
+
+20 03 01
+
+Směsný komunální odpad
+
+20 03 01 01
+
+Odděleně soustřeďovaný popel z domácností
+
+20 03 02
+
+Odpad z tržišť
+
+20 03 03
+
+Uliční smetky
+
+20 03 04
+
+Kal ze septiků a žump
+
+20 03 06
+
+Odpad z čištění kanalizace
+
+20 03 07
+
+Objemný odpad
+
+20 03 99
+
+Komunální odpady jinak blíže neurčené
+
+Vysvětlivky:
+
+\5) Druh odpadu 20 01 55 Multikomodita tvoří odpad plastů, kovů a kompozitních a nápojových kartonů. Tento druh odpadu je možné předávat a přebírat rovněž do zařízení určených k nakládání s odpady, která mohou přijímat odpady katalogových čísel 20 01 01 01 (včetně případů, kdy zařízení může přijímat odpad 20 01 01 01, protože má povolené přijímání odpadu katalogového čísla 20 01 01) Kompozitní a nápojové kartony, 20 01 39 Plasty a 20 01 40 Kovy. Tento druh odpadu není možné používat pro účely přeshraniční přepravy odpadů.
+
+Příloha č. 3 k vyhlášce č. 8/2021 Sb.
+
+Provádění zkoušky ekotoxicity
+
+\4. Vodný výluh pevného odpadu se používá ředěný (při koncentraci 100 ml/l) s přidáním stejných živin a ve stejné koncentraci jako v kontrole, podle odpovídající technické normy. V případě zkoušky s luminiscenčními bakteriemi Aliivibrio fischeri to znamená, že se k 0,5 ml ředěného vzorku (koncentrace 200 ml/l) s upravenou salinitou podle pokynů uvedených v technické normě ČSN EN ISO 11348 Stanovení inhibičního účinku vzorků vod na světelnou emisi Vibrio fischeri (Zkouška na luminiscenčních bakteriích) -1,2 -1,2,3 a dodatku Změna A 01/19 Jakost vod - Stanovení inhibičního účinku vzorků vod na světelnou emisi Aliivibrio fischeri (Zkouška na luminiscenčních bakteriích) - část 1: Metoda s čerstvě připravenými bakteriemi, část 2: Metoda se sušenými bakteriemi, část 3: Metoda s lyofilizovanými bakteriemi se přidá 0,5 ml suspenze bakterií (zkoušená koncentrace vzorku je 100 ml/l). V případě zkoušky s řasami Desmodesmus subspicatus se použije vodný výluh o koncentraci 100 ml/l, s přídavkem živin, přídavek řasové suspenze nesmí být větší než 1 % objemu zkoušeného vzorku.
+
+\7. Doplňující podmínky pro provedení zkoušky se zkušebním organismem Salát Lactuca sativa podle technické normy ČSN EN ISO 11269-1 Kvalita půdy - Stanovení účinků znečišťujících látek na půdní flóru - Část 1: Metoda měření inhibice růstu kořene:
+
+Bakterie Aliivibrio fischeri – ČSN EN ISO 11348-3:2009/A1 (757734), Jakost vod –Stanovení inhibičního účinku vzorků vod na světelnou emisi Vibrio fischeri (Zkouška na luminiscenčních bakteriích) - Část 3: Metoda s lyofilizovanými bakteriemi.
+
+\1) Směrnice Evropského parlamentu a Rady 2008/98/ES ze dne 19. listopadu 2008 o odpadech a o zrušení některých směrnic.
+
+Rozhodnutí Komise 2014/955/EU ze dne 18. prosince 2014, kterým se mění rozhodnutí 2000/532/ES o seznamu odpadů podle směrnice Evropského parlamentu a Rady 2008/98/ES.
+
+Rozhodnutí Komise v přenesené pravomoci 2025/934/EU ze dne 5. března 2025, kterým se mění rozhodnutí 2000/532/ES, pokud jde o aktualizaci seznamu odpadů v souvislosti s bateriovými odpady.
+
+273
+
+VYHLÁŠKA
+
+ze dne 12. července 2021
+
+o podrobnostech nakládání s odpady
+
+ČÁST ŠESTÁ
+
+§ 26
+
+Vedení průběžné evidence
+
+(1) Průběžná evidence se vede v rozsahu listu 2 přílohy č. 13 k této vyhlášce a dále vždy obsahuje
+
+a) datum a číslo zápisu do evidence,
+
+b) jméno a příjmení osoby odpovědné za vedení evidence.
+
+(2) V rámci vedení průběžné evidence odpadů se provede záznam
+
+a) při každém naplnění prostředku pro soustřeďování odpadu, při každém naplnění vhodného prostředku pro soustřeďování odpadu určeného k předávání odpadu; pokud dojde k naplnění soustřeďovacího prostředku častěji než jednou za týden, je dostačující provedení záznamu jednou za týden,
+
+b) při každém předání nebo převzetí odpadu,
+
+c) odlišně od písmen a) a b) jednou měsíčně za kalendářní čtvrtletí v případě periodického svozu komunálního odpadu,
+
+d) při každém provedení úpravy, využití nebo odstranění odpadu,
+
+e) při přeshraniční přepravě, dovozu nebo vývozu,
+
+f) vždy na konci kalendářního roku k zaznamenání zůstatku odpadů v průběžné evidenci k 31. prosinci.
+
+(3) Při vedení evidence a ohlašování se pro označení provozovny původce odpadů využívá identifikační číslo provozovny přidělené živnostenským úřadem. Pokud provozovna nemá přiděleno identifikační číslo provozovny, používá se k identifikaci interní číslo provozovny, které si ohlašovatel zvolí sám.
+
+(4) Interní číslo provozovny
+
+a) může mít nejvýše 12 znaků, nesmí obsahovat mezeru a mezerou nesmí začínat ani končit,
+
+b) může obsahovat číslice i písmena,
+
+c) nesmí začínat písmeny CZ nebo CS nebo CO,
+
+d) nesmí být rovno nule nebo několika nulám,
+
+e) nesmí obsahovat diakritická znaménka,
+
+f) může mít za základ IČO subjektu, které musí být doplněno číselnou řadu 1, 2, 3, 4, 5 až na maximální počet 12 znaků,
+
+g) lze změnit pouze ve výjimečných případech; nové číslo se musí vztahovat k celému kalendářnímu roku; interní číslo provozovny je možné změnit nejpozději před prvním předáním odpadů v daném kalendářním roce.
+
+(5) Při vedení evidence a ohlašování se pro označení obchodníka s odpady využívá identifikační číslo obchodníka s odpady přidělené krajským úřadem.
+
+(6) Evidence musí být vedena tak, aby bylo možné ohlašovat podle § 27.
+
+(7) Místo odpadu katalogového čísla 20 01 55 může osoba v průběžné evidenci zaznamenat odpad katalogových čísel 20 01 01 01, 20 01 39 a 20 01 40 s hmotností zaznamenanou podle poměru těchto složek v odpadu 20 01 55.
+
+§ 27
+
+(1) Původce odpadu, provozovatel zařízení určeného pro nakládání s odpady a obchodník s odpady zasílají hlášení souhrnných údajů z průběžné evidence za uplynulý kalendářní rok (dále jen „roční hlášení“) podle listů 1 a 2 přílohy č. 13 k této vyhlášce. Původce odpadu podává samostatné hlášení za každou svou provozovnu včetně svého skladu odpadu podle přílohy č. 4 bodu 12 zákona.
+
+(2) Provozovatel čistírny odpadních vod a provozovatel zařízení na úpravu kalů zasílá jako součást ročního hlášení údaje o složení kalů předávaných k jejich využití na zemědělské půdě podle listu 3 přílohy č. 13 k této vyhlášce.
+
+(3) Hlášení údajů o volné kapacitě skládky v první fázi provozu, o stavu vytvořené finanční rezervy a o poplatcích za ukládání odpadu na skládku je součástí ročního hlášení a zasílá se podle listu 4 přílohy č. 13 k této vyhlášce.
+
+(4) Hlášení o obecním systému je součástí ročního hlášení obce a zasílá se podle listu 5 přílohy č. 13 k této vyhlášce.
+
+(5) Hlášení údajů o obsahu perzistentních organických látek podle přílohy IV přímo použitelného předpisu Evropské unie o perzistentních organických znečišťujících látkách12) se zasílá podle listu 6 přílohy č. 13 k této vyhlášce jako součást ročního hlášení. Za odpad perzistentních organických látek podle § 94 odst. 4 a § 95 odst. 3 zákona se považují veškeré odpady s obsahem perzistentních organických látek podle přílohy IV přímo použitelného předpisu Evropské unie o perzistentních organických znečišťujících látkách12).
+
+(6) Provozovatel zařízení určeného pro nakládání s odpady ohlašuje údaje o přijatých polychlorovaných bifenylech jako součást ročního hlášení podle listu 7 přílohy č. 13 k této vyhlášce.
+
+(7) Provozovatel zařízení k mechanické úpravě, třídění a dotřídění odpadů, které přijímá komunální odpady, odpady z obalů nebo odpady vzniklé jejich úpravou, při hlášení souhrnných údajů z průběžné evidence zasílá jako součást ročního hlášení podrobné údaje z evidence odpadů na vstupu a výstupu z technologie úpravy odpadu v rozsahu podle listu 8 přílohy č. 13 k této vyhlášce.
+
+(8) V ročním hlášení se místo odpadu katalogového čísla 20 01 55 ohlásí příslušné množství odpadů katalogových čísel 20 01 01 01, 20 01 39 a 20 01 40 podle obsahu odpadu plastů, kovů a kompozitních a nápojových kartonů v odpadu katalogového čísla 20 01 55.
+
+A. Seznam odpadů, které je zakázáno ukládat na skládky všech skupin, využívat k zasypávání, jako technologický materiál pro technické zabezpečení skládek nebo pro účely uzavírání a rekultivace skládek
+
+S účinností od: 1. ledna 2027
+
+\11. Odpady skupiny 18 a odpady vzniklé jejich úpravou s výjimkou inkontinenčních pomůcek.
+
+Konec účinnostního bloku s účinností od: 1. ledna 2027
+
+\3. Vodný výluh se používá neředěný s přidáním stejných živin a ve stejné koncentraci jako v kontrole, podle odpovídající technické normy. V případě zkoušky s luminiscenčními bakteriemi Aliivibrio fischeri to znamená, že se k 0,5 ml vzorku s upravenou salinitou podle pokynů uvedených v technické normě ČSN EN ISO 11348 -1,2 Jakost vod – Stanovení inhibičního účinku vzorků vod na světelnou emisi Vibrio fischeri (Zkouška na luminiscenčních bakteriích) – část 1: Metoda s čerstvě připravenými bakteriemi, část 2: Metoda se sušenými bakteriemi, část 3: Metoda s lyofilizovanými bakteriemi se přidá 0,5 ml suspenze bakterií. Zkoušená koncentrace je 50 % obj. V případě zkoušky s řasami Desmodesmus subspicatus se jedná o neředěný vodný výluh s přídavkem živin, přídavek řasové suspenze nesmí být větší než 1 % obj. zkoušeného vzorku.
