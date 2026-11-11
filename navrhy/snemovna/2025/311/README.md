@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-09-22 | 311/0 | Vládní návrh zákona | [t031100.md](t031100.md), [t0311a0.md](t0311a0.md) |
 | 2026-10-29 | 311/1 | Usnesení rozpočtového výboru č. 172 ze dne 27. října 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů | [t031101.md](t031101.md) |
+| 2026-11-11 | 311/2 | Usnesení rozpočtového výboru č. 182 ze dne 11. listopadu 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 586/1992 Sb., o daních z příjmů, ve znění pozdějších předpisů | [t031102.md](t031102.md) |
 
 ## Files
 
@@ -29,5 +30,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t031100.md](t031100.md) | 311/0 | Návrh zákona včetně důvodové zprávy | [t031100.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280197) | pymupdf / pdftotext 1.0000 |
 | [t0311a0.md](t0311a0.md) | 311/0 | Platné znění s vyznačením změn | [t0311a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280199) | pymupdf / pdftotext 1.0000 |
 | [t031101.md](t031101.md) | 311/1 | Text | [t031101.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281776) | pymupdf / pdftotext 1.0000 |
+| [t031102.md](t031102.md) | 311/2 | Text | [t031102.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282438) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
