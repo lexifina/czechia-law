@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2026-06-17 | 228/0 | Vládní návrh zákona | [t022800.md](t022800.md), [t0228a0.md](t0228a0.md), [t0228b0.md](t0228b0.md) |
 | 2026-10-21 | 228/1 | Usnesení výboru pro vědu, vzdělávání, mládež a sport č. 56 ze dne 21. října 2026 k vládnímu návrhu zákona o registrech ve vzdělávání a o změně některých souvisejících zákonů | [t022801.md](t022801.md) |
+| 2026-11-11 | 228/2 | Usnesení výboru pro vědu, vzdělávání, mládež a sport č. 68 ze dne 11. listopadu 2026 k vládnímu návrhu zákona o registrech ve vzdělávání a o změně některých souvisejících zákonů | [t022802.md](t022802.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0228a0.md](t0228a0.md) | 228/0 | Závěrečná zpráva z hodnocení dopadů regulace (RIA) | [t0228a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277292) | pymupdf / pdftotext 1.0000 |
 | [t0228b0.md](t0228b0.md) | 228/0 | Platné znění s vyznačením změn | [t0228b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=277294) | pymupdf / pdftotext 1.0000 |
 | [t022801.md](t022801.md) | 228/1 | Text | [t022801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281613) | pymupdf / pdftotext 1.0000 |
+| [t022802.md](t022802.md) | 228/2 | Text | [t022802.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282473) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
