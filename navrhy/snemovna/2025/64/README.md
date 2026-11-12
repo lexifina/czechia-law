@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2025-12-12 | 64/0 | Vládní návrh zákona | [t006400.md](t006400.md), [t0064a0.md](t0064a0.md), [t0064b0.md](t0064b0.md), [t0064c0.md](t0064c0.md), [t0064d0.md](t0064d0.md) |
 | 2026-04-30 | 64/1 | Usnesení rozpočtového výboru č. 86 ze dne 29. dubna 2026 k vládnímu návrhu zákona, kterým se v souvislosti s přijetím zákona o účetnictví mění některé zákony a zrušuje zákon č. 25/2017 Sb., o sběru vybraných údajů pro účely monitorování a řízení veřejných financí, ve znění pozdějších předpisů | [t006401.md](t006401.md) |
+| 2026-11-12 | 64/2 | Usnesení rozpočtového výboru č. 189 ze dne 11. listopadu 2026 k vládnímu návrhu zákona, kterým se v souvislosti s přijetím zákona o účetnictví mění některé zákony a zrušuje zákon č. 25/2017 Sb., o sběru vybraných údajů pro účely monitorování a řízení veřejných financí, ve znění pozdějších předpisů | [t006402.md](t006402.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0064c0.md](t0064c0.md) | 64/0 | Návrhy vyhlášek | [t0064c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266159) | pymupdf / pdftotext 1.0000 |
 | [t0064d0.md](t0064d0.md) | 64/0 | Kompatibilita s právem EU | [t0064d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266161) | pymupdf / pdftotext 1.0000 |
 | [t006401.md](t006401.md) | 64/1 | Text | [t006401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269821) | pymupdf / pdftotext 1.0000 |
+| [t006402.md](t006402.md) | 64/2 | Text | [t006402.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282545) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
