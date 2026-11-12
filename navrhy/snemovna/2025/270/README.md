@@ -20,6 +20,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | 2026-07-27 | 270/0 | Vládní návrh zákona | [t027000.md](t027000.md), [t0270a0.md](t0270a0.md), [t0270b0.md](t0270b0.md) |
 | 2026-10-15 | 270/1 | Usnesení výboru pro sociální politiku č. 50 ze dne 14. října 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, a další související zákony | [t027001.md](t027001.md) |
 | 2026-11-05 | 270/2 | Pozměňovací a jiné návrhy k vládnímu návrhu zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, a další související zákony | [t027002.md](t027002.md) |
+| 2026-11-12 | 270/3 | Usnesení garančního výboru č. 57 ze dne 11. listopadu 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 155/1995 Sb., o důchodovém pojištění, ve znění pozdějších předpisů, a další související zákony | [t027003.md](t027003.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0270b0.md](t0270b0.md) | 270/0 | Platné znění s vyznačením změn | [t0270b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278767) | pymupdf / pdftotext 1.0000 |
 | [t027001.md](t027001.md) | 270/1 | Text | [t027001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281280) | pymupdf / pdftotext 1.0000 |
 | [t027002.md](t027002.md) | 270/2 | Text | [t027002.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282238) | pymupdf / pdftotext 1.0000 |
+| [t027003.md](t027003.md) | 270/3 | Text | [t027003.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282479) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
