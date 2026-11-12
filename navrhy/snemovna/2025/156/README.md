@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-04-07 | 156/0 | Mezinárodní smlouva | [t015600.md](t015600.md), [t0156a0.md](t0156a0.md), [t0156c0.md](t0156c0.md) |
+| 2026-11-12 | 156/1 | Usnesení zahraničního výboru č. 44 ze dne 11. listopadu 2026 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Dohoda mezi Českou republikou a Senegalskou republikou o letecké dopravě, podepsaná v Dakaru dne 20. února 2025 | [t015601.md](t015601.md) |
 
 ## Files
 
@@ -28,6 +29,7 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t015600.md](t015600.md) | 156/0 | Návrh usnesení Poslanecké sněmovny | [t015600.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269044) | pymupdf / pdftotext 1.0000 |
 | [t0156a0.md](t0156a0.md) | 156/0 | Důvodová zpráva | [t0156a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269046) | pymupdf / pdftotext 1.0000 |
 | [t0156c0.md](t0156c0.md) | 156/0 | Text v jiném jazyce | [t0156c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269050) | pymupdf / pdftotext 0.9961 |
+| [t015601.md](t015601.md) | 156/1 | Text | [t015601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282495) | pymupdf / pdftotext 1.0000 |
 
 ## Not held as text
 
