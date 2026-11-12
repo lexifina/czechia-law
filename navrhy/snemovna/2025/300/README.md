@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-08 | 300/0 | Vládní návrh zákona | [t030000.md](t030000.md), [t0300a0.md](t0300a0.md), [t0300b0.md](t0300b0.md), [t0300c0.md](t0300c0.md), [t0300d0.md](t0300d0.md), [t0300e0.md](t0300e0.md), [t0300f0.md](t0300f0.md) |
+| 2026-11-12 | 300/1 | Záznam výboru pro sociální politiku č. 56 ze dne 11. listopadu 2026 k vládnímu návrhu zákona, kterým se mění zákon č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů, a některé další zákony v souvislosti s přijetím zákona o platformové práci a v souvislosti s posílením uplatňování zásady stejné odměny mužů a žen za stejnou práci nebo práci stejné hodnoty | [t030001.md](t030001.md) |
 
 ## Files
 
@@ -32,5 +33,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0300d0.md](t0300d0.md) | 300/0 | Návrhy vyhlášek | [t0300d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279445) | pymupdf / pdftotext 1.0000 |
 | [t0300e0.md](t0300e0.md) | 300/0 | Návrhy vyhlášek | [t0300e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279447) | pymupdf / pdftotext 1.0000 |
 | [t0300f0.md](t0300f0.md) | 300/0 | Kompatibilita s právem EU | [t0300f0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279449) | pymupdf / pdftotext 1.0000 |
+| [t030001.md](t030001.md) | 300/1 | Text | [t030001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282482) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
