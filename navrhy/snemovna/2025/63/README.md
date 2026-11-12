@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2025-12-12 | 63/0 | Vládní návrh zákona | [t006300.md](t006300.md), [t0063a0.md](t0063a0.md), [t0063b0.md](t0063b0.md), [t0063c0.md](t0063c0.md) |
 | 2026-04-30 | 63/1 | Usnesení rozpočtového výboru č. 85 ze dne 29. dubna 2026 k vládnímu návrhu zákona o účetnictví | [t006301.md](t006301.md) |
+| 2026-11-12 | 63/2 | Usnesení rozpočtového výboru č. 188 ze dne 11. listopadu 2026 k vládnímu návrhu zákona o účetnictví | [t006302.md](t006302.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0063b0.md](t0063b0.md) | 63/0 | Návrhy vyhlášek | [t0063b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266148) | pymupdf / pdftotext 1.0000 |
 | [t0063c0.md](t0063c0.md) | 63/0 | Kompatibilita s právem EU | [t0063c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=266150) | pymupdf / pdftotext 1.0000 |
 | [t006301.md](t006301.md) | 63/1 | Text | [t006301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269818) | pymupdf / pdftotext 1.0000 |
+| [t006302.md](t006302.md) | 63/2 | Text | [t006302.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282542) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
