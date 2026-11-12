@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-07-23 | 267/0 | Mezinárodní smlouva | [t026700.md](t026700.md), [t0267a0.md](t0267a0.md), [t0267b0.md](t0267b0.md) |
+| 2026-11-12 | 267/1 | Usnesení zahraničního výboru č. 52 ze dne 11. listopadu 2026 k vládnímu návrhu, kterým se předkládají Parlamentu České republiky k vyslovení souhlasu s ratifikací aktualizované hraniční dokumenty česko-polských státních hranic v souladu s článkem 10 odst. 5 Smlouvy mezi Českou republikou a Polskou republikou o společných státních hranicích ze dne 17. ledna 1995 | [t026701.md](t026701.md) |
 
 ## Files
 
@@ -28,5 +29,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t026700.md](t026700.md) | 267/0 | Návrh usnesení Poslanecké sněmovny | [t026700.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278629) | pymupdf / pdftotext 1.0000 |
 | [t0267a0.md](t0267a0.md) | 267/0 | Důvodová zpráva | [t0267a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278631) | pymupdf / pdftotext 1.0000 |
 | [t0267b0.md](t0267b0.md) | 267/0 | Text v českém jazyce | [t0267b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278633) | pymupdf / pdftotext 0.9998 |
+| [t026701.md](t026701.md) | 267/1 | Text | [t026701.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282519) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
