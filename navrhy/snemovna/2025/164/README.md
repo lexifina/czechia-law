@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-04-13 | 164/0 | Mezinárodní smlouva | [t016400.md](t016400.md), [t0164a0.md](t0164a0.md), [t0164b0.md](t0164b0.md), [t0164c0.md](t0164c0.md), [t0164d0.md](t0164d0.md), [t0164e0.md](t0164e0.md), [t0164f0.md](t0164f0.md), [t0164g0.md](t0164g0.md), [t0164h0.md](t0164h0.md) |
+| 2026-11-12 | 164/1 | Usnesení zahraničního výboru č. 48 ze dne 11. listopadu 2026 k vládnímu návrhu, kterým se předkládají Parlamentu České republiky k vyslovení souhlasu s ratifikací Akta Světové poštovní unie podepsaná na 4. mimořádném Kongresu Světové poštovní unie, který se konal ve dnech 1. až 5. října 2023 v Rijádu | [t016401.md](t016401.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0164f0.md](t0164f0.md) | 164/0 | Text v jiném jazyce | [t0164f0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269192) | pymupdf / pdftotext 1.0000 |
 | [t0164g0.md](t0164g0.md) | 164/0 | Text v jiném jazyce | [t0164g0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269193) | pymupdf / pdftotext 1.0000 |
 | [t0164h0.md](t0164h0.md) | 164/0 | Další | [t0164h0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=269195) | pymupdf / pdftotext 1.0000 |
+| [t016401.md](t016401.md) | 164/1 | Text | [t016401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282507) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
