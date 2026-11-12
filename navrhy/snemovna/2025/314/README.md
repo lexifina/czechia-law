@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-23 | 314/0 | Mezinárodní smlouva | [t031400.md](t031400.md), [t0314a0.md](t0314a0.md), [t0314b0.md](t0314b0.md), [t0314c0.md](t0314c0.md), [t0314d0.md](t0314d0.md), [t0314e0.md](t0314e0.md), [t0314f0.md](t0314f0.md), [t0314g0.md](t0314g0.md), [t0314h0.md](t0314h0.md) |
+| 2026-11-12 | 314/1 | Usnesení zahraničního výboru č. 49 ze dne 11. listopadu 2026 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s vystoupením České republiky z mezinárodní organizace kosmických telekomunikací Intersputnik a výpověď mezinárodních smluv souvisejících s členstvím České republiky v této organizaci | [t031401.md](t031401.md) |
 
 ## Files
 
@@ -34,5 +35,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0314f0.md](t0314f0.md) | 314/0 | Text v jiném jazyce | [t0314f0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280576) | tesseract-ces / tesseract-cesbest 0.9966 |
 | [t0314g0.md](t0314g0.md) | 314/0 | Text v jiném jazyce | [t0314g0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280577) | tesseract-ces / tesseract-cesbest 0.9988 |
 | [t0314h0.md](t0314h0.md) | 314/0 | Text v jiném jazyce | [t0314h0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280579) | pymupdf / pdftotext 1.0000 |
+| [t031401.md](t031401.md) | 314/1 | Text | [t031401.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282510) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
