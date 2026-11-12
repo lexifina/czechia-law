@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-07-10 | 256/0 | Mezinárodní smlouva | [t025600.md](t025600.md), [t0256a0.md](t0256a0.md), [t0256b0.md](t0256b0.md), [t0256c0.md](t0256c0.md), [t0256d0.md](t0256d0.md) |
+| 2026-11-12 | 256/1 | Usnesení zahraničního výboru č. 50 ze dne 11. listopadu 2026 k vládnímu návrhu, kterým se předkládá Parlamentu České republiky k vyslovení souhlasu s ratifikací Smlouva mezi Českou republikou a Argentinskou republikou o zamezení dvojímu zdanění v oboru daní z příjmu a z majetku a o zabránění daňovému úniku a vyhýbání se daňové povinnosti a Protokol k ní, které byly podepsány v Buenos Aires dne 14. dubna 2026 | [t025601.md](t025601.md) |
 
 ## Files
 
@@ -30,5 +31,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0256b0.md](t0256b0.md) | 256/0 | Text v českém jazyce | [t0256b0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278339) | pymupdf / pdftotext 1.0000 |
 | [t0256c0.md](t0256c0.md) | 256/0 | Text v jiném jazyce | [t0256c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278341) | pymupdf / pdftotext 1.0000 |
 | [t0256d0.md](t0256d0.md) | 256/0 | Text v jiném jazyce | [t0256d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=278343) | tesseract-ces / tesseract-cesbest 0.9990 |
+| [t025601.md](t025601.md) | 256/1 | Text | [t025601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282513) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
