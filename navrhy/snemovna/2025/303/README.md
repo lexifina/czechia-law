@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-08 | 303/0 | Zpráva a jiné | [t030300.md](t030300.md), [t0303a0.md](t0303a0.md), [t0303b0.md](t0303b0.md), [t0303c0.md](t0303c0.md), [t0303d0.md](t0303d0.md), [t0303e0.md](t0303e0.md) |
+| 2026-11-13 | 303/1 | Usnesení VO k tisku 303/0 | [t030301.md](t030301.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0303c0.md](t0303c0.md) | 303/0 | Další | [t0303c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279503) | pymupdf / pdftotext 1.0000 |
 | [t0303d0.md](t0303d0.md) | 303/0 | Další | [t0303d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279505) | pymupdf / pdftotext 1.0000 |
 | [t0303e0.md](t0303e0.md) | 303/0 | Další | [t0303e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279507) | pymupdf / pdftotext 1.0000 |
+| [t030301.md](t030301.md) | 303/1 | Text | [t030301.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282670) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
