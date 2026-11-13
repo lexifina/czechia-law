@@ -20,16 +20,15 @@ The Constitution, 1/1993 Sb., is [`sb/1993/1.md`](sb/1993/1.md); the Charter (Li
 
 ## What is not here yet
 
-This repository holds the Sbírka zákonů's legislation with every consolidated version, and nothing else yet. By the official counts of 2026-11-13, **39.9%** of what a Czech lawyer or citizen needs is published; [PLAN.md](PLAN.md) lists every part with its progress.
+By the official counts of 2026-11-13, **52.3%** of what a Czech lawyer or citizen needs is published; [PLAN.md](PLAN.md) lists every part with its progress. Besides the Sbírka zákonů's acts with every consolidated version, this repository now holds the items e-Sbírka publishes only as promulgated, the Úřední list 1945-1961 with its history (`ul/`), the Sbírka mezinárodních smluv (`sbms/`), EU law in Czech (`eu/`, being added), bills, votes and government drafts (`navrhy/`, labelled not law), ČNB measures (`regulator/`) and practical tables (`data/tables/`).
 
-- **Case law: none.** Not here: 105,034 Constitutional Court decisions, 165,523 Supreme Court and 84,449 Supreme Administrative Court decisions, about 700,000 decisions of the lower courts, and ECHR, CJEU and ÚOHS decisions. The Constitutional Court findings that changed an act appear only as the author of that change.
-- **Local law: none.** 79,204 ordinances of municipalities and regions (49,900 in force) are in the Sbírka právních předpisů územních samosprávných celků and not here.
-- **12,600 items of the Sbírka zákonů that e-Sbírka publishes only as promulgated**: Constitutional Court findings (618), sdělení, oznámení, republished full texts, usnesení, crisis resolutions, Senate statutory measures.
-- **Most law before 1945.** Of about 6,340 numbered acts of 1918-1938, 593 are here; 1939-1945 and the Austrian and Hungarian law received in 1918 are not. The Úřední list of 1945-1961 (12,621 items, mostly ministerial vyhlášky) is not here either.
-- **Treaties and EU law**: 4,006 treaties and treaty notices, 6,767 EU regulations and directives in Czech, and the 3,890 Czech transposition measures notified to the EU.
-- **Legislative history**: bills and explanatory reports (11,332 Chamber and 5,415 Senate prints since 1993), votes, 8,717 government drafts, government resolutions.
-- **Regulators' measures** (ČNB, ERÚ, ČTÚ, price regulation), ministry bulletins and collective agreements of higher degree.
-- **Who made 5,951 of the 36,573 changes**: those commits are credited to `e-Sbírka`, not to an act (see "What author means").
+Not here yet:
+- **Case law: none.** 105,034 Constitutional Court decisions, 165,523 Supreme Court and 84,449 Supreme Administrative Court decisions, about 700,000 decisions of the lower courts, ECHR, CJEU and ÚOHS decisions. The Constitutional Court findings that changed an act appear only as the author of that change.
+- **Local law: none yet** (being added). 79,204 ordinances of municipalities and regions (49,900 in force) from the Sbírka právních předpisů územních samosprávných celků.
+- **Most law before 1945.** Of about 6,340 numbered acts of 1918-1938, 593 are here; 1939-1945 and the Austrian and Hungarian law received in 1918 are not (being added from scans).
+- **Most EU law, bills and government material** are still being added: EU acts and their consolidated versions, Chamber prints of earlier terms, Senate prints, government drafts and resolutions.
+- **Regulators' measures** of ERÚ, ČTÚ and the price regulation, ministry bulletins and collective agreements of higher degree.
+- **Which act made some changes:** 2,682 of the 36,217 changes are still credited to `e-Sbírka`; [data/credits/](data/credits/) names the act for most of the rest of the 5,951 that e-Sbírka's links leave open.
 
 ## The questions, as git commands
 

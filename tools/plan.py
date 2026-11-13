@@ -43,13 +43,13 @@ COUNTERS = {
     "treaties": r"^(?:sbms|smlouvy)/.+\.md$",
     "eu_acts": r"^(eu/[^/]+/\d{4}/[^/.]+)",
     "bills": r"^(navrhy/(?!vlada/)[^/]+/[^/]+/[^/.]+)",
-    "votes": r"^data/votes/[^/]+\.csv$",
+    "votes": r"^(?:navrhy/)?data/votes/(\d{4})(?:-poslanci)?\.csv$",
     "government_drafts": r"^(navrhy/vlada/\d{4}/[^/.]+)",
     "government_resolutions": r"^usneseni-vlady/.+\.md$",
     "dohled": r"^dohled/.+",
     "tables": r"^data/tables/[^/]+$",
 }
-CSV_ROWS = {"eu_transposition": "data/eu-transposition.csv"}
+CSV_ROWS = {}
 PREFIXES = ["sb/", "ul/", "sbms/", "local/", "eu/", "navrhy/", "usneseni-vlady/", "regulator/", "vestnik/",
             "kolektivni-smlouvy/", "historicke/", "data/credits/", "data/tables/"]
 BASELINE = "6744361da955327900e0dca50d70e388aafb380b"   # main as the build and its appends left it (2026-11-13)
@@ -107,11 +107,15 @@ def count(repo: Path, ref: str):
         c[name] = len({(m.group(1) if m.groups() else m.group(0)) for p in ever if (m := r.match(p))})
     for name, path in CSV_ROWS.items():
         c[name] = len(rows(repo, ref, path)) if path in tip else 0
-    resolved = 0
-    for p in sorted(x for x in tip if x.startswith("data/credits/") and x.endswith(".csv")):
-        rs = rows(repo, ref, p)
-        resolved += sum(1 for r in rs if (r.get("act") or "").strip()) if rs and "act" in rs[0] else len(rs)
-    c["credits_resolved"] = resolved
+    # EU transposition: distinct notified measures in eu/transposition.csv
+    c["eu_transposition"] = len({r["measure_id"] for r in rows(repo, ref, "eu/transposition.csv")}) if "eu/transposition.csv" in tip else 0
+    # credits: publisher-credited changes (commits) whose every provision resolved at high or medium confidence
+    by = {}
+    if "data/credits/credits.csv" in tip:
+        for r in rows(repo, ref, "data/credits/credits.csv"):
+            ok = bool((r.get("act") or "").strip()) and r.get("confidence") in ("high", "medium")
+            k = (r["commit"], r["path"]); by[k] = by.get(k, True) and ok
+    c["credits_resolved"] = sum(by.values())
     per = {p: {"files": sum(1 for x in tip if x.startswith(p)), "files_ever": sum(1 for x in ever if x.startswith(p)),
                "commits": commits.get(p, 0)} for p in PREFIXES}
     return c, per
