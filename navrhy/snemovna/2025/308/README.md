@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-16 | 308/0 | Zpráva a jiné | [t030800.md](t030800.md), [t0308a0.md](t0308a0.md) |
+| 2026-11-13 | 308/1 | Usnesení VO k tisku 308/0 | [t030801.md](t030801.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t030800.md](t030800.md) | 308/0 | Návrh usnesení Poslanecké sněmovny | [t030800.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279939) | pymupdf / pdftotext 1.0000 |
 | [t0308a0.md](t0308a0.md) | 308/0 | Text | [t0308a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=279941) | pymupdf / pdftotext 1.0000 |
+| [t030801.md](t030801.md) | 308/1 | Text | [t030801.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282664) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
