@@ -8,10 +8,13 @@ It asserts that:
 2. tools/czlaw.py gives the text before and after known amendments, and each equals the file at that version's tag
    (and at the commit before it);
 3. `git log --follow` on a file lists its changes in the order they took effect, by acts;
-4. every tag resolves to a commit; every commit but the documentation commit has an ISO `In-force:` trailer, and
-   every trailer key is ASCII (git parses the trailer block);
-5. no commit is authored by Lexifina except the documentation commit (main's head), and the committer is always Lexifina;
-6. `main` holds nothing in force after the documentation day, and `future` nothing before it;
+4. every tag resolves to a commit; every commit but the documentation commits and records (`Kind: record`, `draft`)
+   has an ISO `In-force:` trailer, and every trailer key is ASCII (git parses the trailer block);
+5. no commit touching sb/ is authored by Lexifina, each is by an act or e-Sbírka at an .invalid address, and the
+   committer of every commit is Lexifina;
+6. `main` holds no sb/ law in force after corpus.json's record_to, and `future` nothing before the build day;
+Parts of the record appended after the build may carry earlier In-force days (out of order); `log --follow` order is
+checked on the law commits that are not corrections.
 7. every git or tool command in the README's table runs and prints something.
 With --record the result is written to verification.json next to this script (for REPRODUCE.md).
 """
@@ -92,8 +95,8 @@ class Smoke:
     def follow(self):
         checked = []
         for path in ('sb/1993/1.md', 'sb/1993/2.md', 'sb/2012/89.md', 'sb/2009/40.md'):
-            out = self.git('log', '--follow', '--format=%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--', path)
-            rows = [l.split('\t') for l in out.splitlines() if l]
+            out = self.git('log', '--follow', '--format=%an%x09%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,separator=)', 'main', '--', path)
+            rows = [l.split('\t')[:2] for l in out.splitlines() if l and l.split('\t')[2].strip().lower() != 'correction']
             assert len(rows) >= 2, f'{path}: {len(rows)} commits'
             days = [d.strip() for _, d in rows]
             assert days == sorted(days, reverse=True), f'{path}: not in date order'
@@ -108,16 +111,17 @@ class Smoke:
         bad = [t for t in tags if subprocess.run(['git', 'rev-parse', '--verify', '-q', f'{t}^{{commit}}'], cwd=self.repo,
                                                  capture_output=True).returncode]
         assert not bad, f'tags that do not resolve: {bad[:3]}'
-        rows = self.git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', 'main', 'future').splitlines()
+        rows = self.git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,separator=)', 'main', 'future').splitlines()
         docs = self.docs_commits()
-        missing = [r for r in rows if not r.split('\t')[1].strip() and r.split('\t')[0] not in docs]
+        records = {r.split('\t')[0] for r in rows if r.split('\t')[2].strip().lower() in ('record', 'draft', 'documentation')}
+        missing = [r for r in rows if not r.split('\t')[1].strip() and r.split('\t')[0] not in docs | records]
         assert not missing, f'{len(missing)} commits without In-force'
         assert not [r for r in rows if r.split('\t')[0] in docs and r.split('\t')[1].strip()], 'documentation commit has In-force'
         bad = [r for r in rows if r.split('\t')[1].strip() and not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[1].strip())]
         assert not bad, f'malformed In-force {bad[:2]}'
         keys = set(re.findall(r'^([^:\n]+):', self.git('log', '--format=%(trailers:only,unfold)', 'main', 'future'), re.M))
         assert all(k.isascii() for k in keys), f'non-ASCII trailer keys {keys}'
-        return f'{len(tags)} tags resolve; {len(rows) - len(docs)} law commits carry In-force; trailer keys {sorted(keys)}'
+        return f'{len(tags)} tags resolve; {len(rows) - len(docs) - len(records)} law commits carry In-force ({len(records)} records); trailer keys {sorted(keys)}'
 
     def docs_commits(self):
         """The documentation commits: by Lexifina, touching no law file (the first build's, and one per append)."""
@@ -135,25 +139,25 @@ class Smoke:
         return set(docs)
 
     def lexifina(self):
-        rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main').splitlines()
+        assert all(c == 'Lexifina' for c in self.git('log', '--format=%cn', 'main').splitlines()), 'a committer other than Lexifina'
         docs = self.docs_commits()
-        by_lex = [r for r in rows if r.split('\t')[1] == 'Lexifina']
-        assert {r.split('\t')[0] for r in by_lex} == docs and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
-        assert all(r.split('\t')[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
-        others = [r for r in rows if r.split('\t')[0] not in docs]
+        rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn', 'main', '--', 'sb/').splitlines()
+        assert not [r for r in rows if r.split('\t')[1] == 'Lexifina'], 'a Lexifina commit touches sb/'
+        others = rows
         assert all(r.split('\t')[2].endswith('.invalid') for r in others), 'an author address that is not .invalid'
         authors = {r.split('\t')[1] for r in others}
         assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {sorted(authors - {PUBLISHER})[:5]}'
-        return f'only the {len(docs)} documentation commits (head {rows[0][:10]}) are by Lexifina; {len(authors)} distinct authors'
+        return f'{len(docs)} Lexifina commits touch no law file; {len(rows)} sb/ commits by {len(authors)} distinct authors'
 
     def branches(self):
         corpus = json.loads((self.repo / 'corpus.json').read_text(encoding='utf-8'))
         built = corpus['built']                                   # the day the future branch was made
         upto = (corpus.get('appended') or [{'on': built}])[-1]['on']   # the last day main was built or appended to
-        main = [d for d in self.git('log', '--format=%(trailers:key=In-force,valueonly,separator=)', 'main').split() if d]
-        assert max(main) <= upto, f'main has {max(main)} after {upto}'
-        assert max(main) == corpus['record_to'], f"record_to {corpus['record_to']} is not main's last day {max(main)}"
-        fut = [d for d in self.git('log', '--format=%(trailers:key=In-force,valueonly,separator=)', 'main..future').split() if d]
+        main = [d for d in self.git('log', '--format=%(trailers:key=In-force,valueonly,separator=)', 'main', '--', 'sb/').split() if d]
+        assert max(main) <= max(upto, corpus['record_to']), f'main has {max(main)} after {upto}'
+        assert max(main) <= corpus['record_to'], f"main has sb/ law in force on {max(main)}, after record_to {corpus['record_to']}"
+        fut = [r.split('\t')[0].strip() for r in self.git('log', '--format=%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,separator=)', 'main..future').splitlines()
+               if r.split('\t')[0].strip() and r.split('\t')[1].strip().lower() != 'correction']
         assert all(d > built for d in fut), 'future has a day on or before the build day'
         return f'main to {max(main)}; future {len(fut)} commits from {min(fut) if fut else "-"}'
 
@@ -183,7 +187,7 @@ def main():
     s.check('text before and after an amendment', s.on_date)
     s.check('log --follow in date order', s.follow)
     s.check('tags resolve, In-force on every law commit, ASCII trailer keys', s.tags_and_trailers)
-    s.check('only the documentation commit is by Lexifina', s.lexifina)
+    s.check('sb/ commits are by acts or e-Sbírka; committer Lexifina', s.lexifina)
     s.check('main and future split at the build day', s.branches)
     s.check('README commands run', s.readme)
     ok = all(r[1] for r in s.results)

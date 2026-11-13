@@ -89,9 +89,12 @@ def check_act(job: dict) -> dict:
 
 class Repo:
     """A branch's law timeline, read by In-force: as tools/czlaw.py reads it. Appended "Kind: correction" commits
-    (Corrects: <act> <from>..<to>) are left out of the timeline; for the acts they touch, the text in force on a day
-    comes from the act's own history: of the commits touching it, the one with the greatest In-force day on or before
-    the day (a correction only within the days it names), a later commit winning a tie."""
+    (Corrects: <act> <from>..<to>) are left out of the timeline, and so are law commits appended later with an
+    In-force day earlier than one before them (other parts of the record, appended after the build), and commits
+    without In-force (documentation, `Kind: record`). For a path that a correction or such an out-of-order commit
+    touches, the text in force on a day comes from the path's own history: of the law commits and corrections
+    touching it, the one with the greatest In-force day on or before the day (a correction only within the days it
+    names), a later commit winning a tie. Every other path reads the last in-order law commit on or before the day."""
 
     def __init__(self, repo: Path, branch: str):
         self.repo = repo
@@ -99,7 +102,8 @@ class Repo:
                               cwd=repo, capture_output=True, text=True, encoding="utf-8", check=True).stdout.splitlines()
         self.days, self.shas = [], []
         self.corr: dict = defaultdict(list)     # path -> [(from, until or None, order, sha)]
-        order = {}
+        self.late: dict = {}                    # sha -> (day, order) of out-of-order law commits
+        order, dayof = {}, {}
         for i, r in enumerate(rows):
             sha, day, kind, corrects = (r.split("\x1f") + ["", "", ""])[:4]
             day = day.strip()
@@ -110,20 +114,32 @@ class Repo:
                 self.corr[act + ".md"].append((fr, to or None, i, sha))
                 continue
             if day:
+                dayof[sha] = day
                 if self.days and day < self.days[-1]:
-                    raise SystemExit(f"{branch}: In-force goes backwards at {sha[:10]} ({day} after {self.days[-1]})")
+                    self.late[sha] = (day, i)
+                    continue
                 self.days.append(day)
                 self.shas.append(sha)
-        self.touch: dict = defaultdict(list)    # corrected path -> [(in-force, order, sha)] of the law commits touching it
-        if self.corr:
-            dayof = dict(zip(self.shas, self.days))
-            out = subprocess.run(["git", "log", "--first-parent", "--format=@@%H", "--name-only", branch, "--", *sorted(self.corr)],
+        self.touch: dict = defaultdict(list)    # per-file path -> [(in-force, order, sha)] of the law commits touching it
+        self.perfile = set(self.corr)
+        if self.late:
+            out = subprocess.run(["git", "log", "--first-parent", "--no-renames", "--format=@@%H", "--name-only", branch],
                                  cwd=repo, capture_output=True, text=True, encoding="utf-8", check=True).stdout
             sha = None
             for line in out.splitlines():
                 if line.startswith("@@"):
                     sha = line[2:]
-                elif line and sha in dayof:
+                elif line and sha in self.late:
+                    self.perfile.add(line)
+        if self.perfile:
+            out = subprocess.run(["git", "log", "--first-parent", "--no-renames", "--format=@@%H", "--name-only", branch, "--", *sorted(self.corr)] if not self.late else
+                                 ["git", "log", "--first-parent", "--no-renames", "--format=@@%H", "--name-only", branch],
+                                 cwd=repo, capture_output=True, text=True, encoding="utf-8", check=True).stdout
+            sha = None
+            for line in out.splitlines():
+                if line.startswith("@@"):
+                    sha = line[2:]
+                elif line and sha in dayof and line in self.perfile:
                     self.touch[line].append((dayof[sha], order[sha], sha))
 
     def at(self, day: str):
@@ -132,11 +148,11 @@ class Repo:
 
     def read(self, batch, path: str, day: str):
         """(commit, blob id or None) of `path` in force on `day`."""
-        if path not in self.corr:
+        if path not in self.perfile:
             sha = self.at(day)
             return sha, (batch.blob(f"{sha}:{path}") if sha else None)
         cands = [(d, o, s) for d, o, s in self.touch[path] if d <= day]
-        cands += [(f, o, s) for f, t, o, s in self.corr[path] if f <= day and (t is None or day <= t)]
+        cands += [(f, o, s) for f, t, o, s in self.corr.get(path, ()) if f <= day and (t is None or day <= t)]
         if not cands:
             return None, None
         _, _, sha = max(cands)
@@ -203,7 +219,7 @@ def main() -> int:
                     examples.append(f"fidelity: {res['fidelity_bad'][:2]}")
     result = {"versions_checked": n, "versions_differ": bad, "versions_without_file": nofile, "ends_checked": ends,
               "ends_wrong": endbad, "fidelity_mismatch": fid_bad, "acts": len(jobs), "seconds": round(time.time() - t0),
-              "main_commits_with_in_force": len(main_.days), "correction_commits": sum(len(v) for v in main_.corr.values()), "future_commits": (len(fut.days) - len(main_.days)) if fut else 0}
+              "main_commits_with_in_force": len(main_.days), "correction_commits": sum(len(v) for v in main_.corr.values()), "out_of_order_commits": len(main_.late), "future_commits": (len(fut.days) - len(main_.days)) if fut else 0}
     print(json.dumps(result, indent=1))
     for e in examples:
         print("  " + e)
