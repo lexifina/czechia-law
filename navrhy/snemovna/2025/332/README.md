@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-10-15 | 332/0 | Zpráva a jiné | [t033200.md](t033200.md), [t0332a0.md](t0332a0.md) |
+| 2026-11-13 | 332/1 | Stanovisko NKÚ k tisku 332/0 | [t033201.md](t033201.md) |
 
 ## Files
 
@@ -27,5 +28,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | --- | --- | --- | --- | --- |
 | [t033200.md](t033200.md) | 332/0 | Návrh usnesení Poslanecké sněmovny | [t033200.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281261) | pymupdf / pdftotext 1.0000 |
 | [t0332a0.md](t0332a0.md) | 332/0 | Text | [t0332a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=281263) | pymupdf / pdftotext 1.0000 |
+| [t033201.md](t033201.md) | 332/1 | Stanovisko | [t033201.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282661) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
