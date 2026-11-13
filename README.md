@@ -18,6 +18,19 @@ corrections to earlier versions, appended from its datasets of 2026-11-02 and 20
 The Constitution, 1/1993 Sb., is [`sb/1993/1.md`](sb/1993/1.md); the Charter (Listina), 2/1993 Sb., is
 [`sb/1993/2.md`](sb/1993/2.md).
 
+## What is not here yet
+
+This repository holds the Sbírka zákonů's legislation with every consolidated version, and nothing else yet. By the official counts of 2026-11-13, **39.9%** of what a Czech lawyer or citizen needs is published; [PLAN.md](PLAN.md) lists every part with its progress.
+
+- **Case law: none.** Not here: 105,034 Constitutional Court decisions, 165,523 Supreme Court and 84,449 Supreme Administrative Court decisions, about 700,000 decisions of the lower courts, and ECHR, CJEU and ÚOHS decisions. The Constitutional Court findings that changed an act appear only as the author of that change.
+- **Local law: none.** 79,204 ordinances of municipalities and regions (49,900 in force) are in the Sbírka právních předpisů územních samosprávných celků and not here.
+- **12,600 items of the Sbírka zákonů that e-Sbírka publishes only as promulgated**: Constitutional Court findings (618), sdělení, oznámení, republished full texts, usnesení, crisis resolutions, Senate statutory measures.
+- **Most law before 1945.** Of about 6,340 numbered acts of 1918-1938, 593 are here; 1939-1945 and the Austrian and Hungarian law received in 1918 are not. The Úřední list of 1945-1961 (12,621 items, mostly ministerial vyhlášky) is not here either.
+- **Treaties and EU law**: 4,006 treaties and treaty notices, 6,767 EU regulations and directives in Czech, and the 3,890 Czech transposition measures notified to the EU.
+- **Legislative history**: bills and explanatory reports (11,332 Chamber and 5,415 Senate prints since 1993), votes, 8,717 government drafts, government resolutions.
+- **Regulators' measures** (ČNB, ERÚ, ČTÚ, price regulation), ministry bulletins and collective agreements of higher degree.
+- **Who made 5,951 of the 36,573 changes**: those commits are credited to `e-Sbírka`, not to an act (see "What author means").
+
 ## The questions, as git commands
 
 | Question | Command |
@@ -111,7 +124,7 @@ lines are LF; soft hyphens and invisible characters are removed.
   of the 36,573 changes.
 - International treaties (Sbírka mezinárodních smluv), Úřední list, and other acts that are not legislation
   (sdělení, usnesení), except the Charter.
-- Anything e-Sbírka does not record: the history is as complete as its consolidation, which reaches back to 1918.
+- Anything e-Sbírka does not record: the history is as complete as its consolidation. It reaches back to 1918, but for 1918-1938 e-Sbírka holds only 593 of about 6,340 acts, and none for 1939-1945.
 - e-Sbírka warns that until 15 January 2027 the identifiers of fragments may change. The text does not depend on them,
   but a rebuild from later data may credit some changes differently.
 
