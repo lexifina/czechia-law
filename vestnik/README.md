@@ -8,14 +8,14 @@ issue was published, with the text of its PDF one paragraph per line; the commit
 removed where they appear (the commit says how many). Every text was checked letter by letter against an independent
 extraction of the same PDF; issues that did not pass are not here.
 
-240 issues:
+249 issues:
 
 | Folder | Bulletin | Publisher | Years | Issues |
 | --- | --- | --- | --- | ---: |
-| [`mf-financni-zpravodaj/`](mf-financni-zpravodaj/) | Finanční zpravodaj | Ministerstvo financí | 2003-2026 | 107 |
-| [`mzd/`](mzd/) | Věstník Ministerstva zdravotnictví | Ministerstvo zdravotnictví | 2006-2026 | 52 |
-| [`vestnik-vlady/`](vestnik-vlady/) | Věstník vlády pro orgány krajů a orgány obcí | Ministerstvo vnitra | 2020-2026 | 38 |
-| [`mzp/`](mzp/) | Věstník Ministerstva životního prostředí | Ministerstvo životního prostředí | 2019-2026 | 21 |
+| [`mf-financni-zpravodaj/`](mf-financni-zpravodaj/) | Finanční zpravodaj | Ministerstvo financí | 2003-2026 | 110 |
+| [`mzd/`](mzd/) | Věstník Ministerstva zdravotnictví | Ministerstvo zdravotnictví | 2006-2026 | 56 |
+| [`vestnik-vlady/`](vestnik-vlady/) | Věstník vlády pro orgány krajů a orgány obcí | Ministerstvo vnitra | 2020-2026 | 39 |
+| [`mzp/`](mzp/) | Věstník Ministerstva životního prostředí | Ministerstvo životního prostředí | 2019-2026 | 22 |
 | [`dia/`](dia/) | Věstník Digitální a informační agentury | Digitální a informační agentura | 2024-2026 | 8 |
 | [`kraj-vysocina/`](kraj-vysocina/) | Věstník právních předpisů Kraje Vysočina | Kraj Vysočina | 2017-2021 | 7 |
 | [`msmt/`](msmt/) | Věstník Ministerstva školství, mládeže a tělovýchovy | Ministerstvo školství, mládeže a tělovýchovy | 2025-2025 | 6 |
