@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">České právo jako historie v gitu</text>
-<rect x="547.2" y="24.5" width="150" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="622.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">záznam do 8. 11. 2026</text>
-<rect x="705.6" y="24.5" width="150" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="780.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">aktuálnost: zastaralé</text>
+<rect x="580.2" y="24.5" width="132" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="646.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">záznam do 8. 11. 2026</text>
+<rect x="720.5" y="24.5" width="135" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="788.3" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">aktuálnost: zastaralé</text>
 <rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
 <text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">18 582</text>
 <text x="40.0" y="106" font-size="12" fill="#9198a1">předpisů</text>
@@ -16,7 +16,7 @@
 <text x="372.8" y="106" font-size="12" fill="#9198a1">souborů ustanovení</text>
 <line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
 <text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">18 887</text>
-<text x="539.2" y="106" font-size="12" fill="#9198a1">autorů: zákony, vydavatelé</text>
+<text x="539.2" y="106" font-size="12" fill="#9198a1" textLength="142" lengthAdjust="spacingAndGlyphs">autorů: zákony, vydavatelé</text>
 <line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
 <text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1918–2026</text>
 <text x="705.6" y="106" font-size="12" fill="#9198a1">let historie</text>
