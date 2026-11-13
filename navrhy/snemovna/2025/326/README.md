@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2026-09-30 | 326/0 | Zpráva a jiné | [t032600.md](t032600.md), [t0326a0.md](t0326a0.md), [t0326b0.md](t0326b0.md), [t0326c0.md](t0326c0.md), [t0326d0.md](t0326d0.md), [t0326e0.md](t0326e0.md) |
+| 2026-11-13 | 326/1 | Usnesení VO k tisku 326/0 | [t032601.md](t032601.md) |
 
 ## Files
 
@@ -31,5 +32,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0326c0.md](t0326c0.md) | 326/0 | Další | [t0326c0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280847) | pymupdf / pdftotext 1.0000 |
 | [t0326d0.md](t0326d0.md) | 326/0 | Další | [t0326d0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280849) | pymupdf / pdftotext 1.0000 |
 | [t0326e0.md](t0326e0.md) | 326/0 | Další | [t0326e0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=280851) | pymupdf / pdftotext 1.0000 |
+| [t032601.md](t032601.md) | 326/1 | Text | [t032601.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=282667) | pymupdf / pdftotext 1.0000 |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
