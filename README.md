@@ -83,7 +83,7 @@ Každá změna je připsána předpisu, který ji provedl, tak jak ho e-Sbírka 
 
 Viz [`LICENSE`](LICENSE). Otevřené datové sady e-Sbírky neobsahují autorská díla, nejsou autorskoprávně chráněnou databází a nejsou chráněny zvláštním právem pořizovatele databáze (podmínky užití v Národním katalogu otevřených dat, data.gov.cz, přiřazené k CC0). Historie, zprávy commitů a nástroje jsou CC0 1.0.
 
-Tento repozitář není právní poradenství ani úřední publikace. Žádný model AI nenapsal ani nezměnil právní text; skripty napsal model AI (viz [`REPRODUCE.md`](REPRODUCE.md)).
+Žádný model AI nenapsal ani nezměnil právní text; skripty napsal model AI (viz [`REPRODUCE.md`](REPRODUCE.md)).
 
 Toto je překlad anglické verze ([README.en.md](README.en.md)); pokud se liší, platí anglická verze.
 

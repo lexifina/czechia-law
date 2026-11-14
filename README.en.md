@@ -83,7 +83,7 @@ Each change is credited to the act that made it, as e-Sbírka names it (`Zákon 
 
 See [`LICENSE`](LICENSE). e-Sbírka's open datasets contain no works protected by copyright, are not a protected database and carry no sui generis database right (their terms of use in the National Open Data Catalogue, data.gov.cz, matched to CC0). The history, commit messages and tools are CC0 1.0.
 
-This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
