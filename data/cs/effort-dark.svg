@@ -1,188 +1,188 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">České právo jako historie v gitu</text>
-<rect x="580.2" y="24.5" width="132" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="646.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">záznam do 8. 11. 2026</text>
-<rect x="720.5" y="24.5" width="135" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="788.3" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">aktuálnost: zastaralé</text>
-<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">18 582</text>
-<text x="40.0" y="106" font-size="12" fill="#9198a1">předpisů</text>
-<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
-<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">33 864</text>
-<text x="206.4" y="106" font-size="12" fill="#9198a1">změn, jako commity</text>
-<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
-<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">8 967</text>
-<text x="372.8" y="106" font-size="12" fill="#9198a1">souborů ustanovení</text>
-<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
-<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">18 887</text>
-<text x="539.2" y="106" font-size="12" fill="#9198a1" textLength="142" lengthAdjust="spacingAndGlyphs">autorů: zákony, vydavatelé</text>
-<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
-<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1918–2026</text>
-<text x="705.6" y="106" font-size="12" fill="#9198a1">let historie</text>
-<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Změny podle roku nabytí účinnosti</text>
-<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
-<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
-<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">1 000</text>
-<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">2 000</text>
-<rect x="81.10" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1918: změny, které nabyly účinnosti: 7</title></rect>
-<rect x="88.06" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1919: změny, které nabyly účinnosti: 20</title></rect>
-<rect x="95.03" y="327.4" width="5.76" height="3.1" rx="1.5" fill="#2ea043"><title>1920: změny, které nabyly účinnosti: 42</title></rect>
-<text x="97.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1920</text>
-<rect x="101.99" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1921: změny, které nabyly účinnosti: 16</title></rect>
-<rect x="108.95" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1922: změny, které nabyly účinnosti: 10</title></rect>
-<rect x="115.92" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1923: změny, které nabyly účinnosti: 3</title></rect>
-<rect x="122.88" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1924: změny, které nabyly účinnosti: 5</title></rect>
-<rect x="129.84" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1925: změny, které nabyly účinnosti: 5</title></rect>
-<rect x="136.81" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1926: změny, které nabyly účinnosti: 8</title></rect>
-<rect x="143.77" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1927: změny, které nabyly účinnosti: 1</title></rect>
-<rect x="150.73" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1928: změny, které nabyly účinnosti: 3</title></rect>
-<rect x="157.70" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1929: změny, které nabyly účinnosti: 5</title></rect>
-<rect x="164.66" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1930: změny, které nabyly účinnosti: 6</title></rect>
-<text x="167.5" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1930</text>
-<rect x="171.62" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1931: změny, které nabyly účinnosti: 5</title></rect>
-<rect x="178.59" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1932: změny, které nabyly účinnosti: 2</title></rect>
-<rect x="185.55" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1933: změny, které nabyly účinnosti: 1</title></rect>
-<rect x="192.51" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1934: změny, které nabyly účinnosti: 1</title></rect>
-<rect x="199.48" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1935: změny, které nabyly účinnosti: 5</title></rect>
-<rect x="206.44" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1936: změny, které nabyly účinnosti: 5</title></rect>
-<rect x="213.40" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1937: změny, které nabyly účinnosti: 4</title></rect>
-<rect x="220.37" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1938: změny, které nabyly účinnosti: 3</title></rect>
-<rect x="227.33" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1939: změny, které nabyly účinnosti: 2</title></rect>
-<rect x="234.29" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1940: změny, které nabyly účinnosti: 2</title></rect>
-<text x="237.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1940</text>
-<rect x="255.18" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1943: změny, které nabyly účinnosti: 1</title></rect>
-<rect x="262.15" y="329.0" width="5.76" height="1.5" rx="1.5" fill="#2ea043"><title>1944: změny, které nabyly účinnosti: 5</title></rect>
-<rect x="269.11" y="315.1" width="5.76" height="15.4" rx="1.5" fill="#2ea043"><title>1945: změny, které nabyly účinnosti: 206</title></rect>
-<rect x="276.07" y="310.6" width="5.76" height="19.9" rx="1.5" fill="#2ea043"><title>1946: změny, které nabyly účinnosti: 265</title></rect>
-<rect x="283.04" y="311.3" width="5.76" height="19.2" rx="1.5" fill="#2ea043"><title>1947: změny, které nabyly účinnosti: 256</title></rect>
-<rect x="290.00" y="303.1" width="5.76" height="27.4" rx="1.5" fill="#2ea043"><title>1948: změny, které nabyly účinnosti: 366</title></rect>
-<rect x="296.96" y="305.1" width="5.76" height="25.4" rx="1.5" fill="#2ea043"><title>1949: změny, které nabyly účinnosti: 338</title></rect>
-<rect x="303.93" y="311.4" width="5.76" height="19.1" rx="1.5" fill="#2ea043"><title>1950: změny, které nabyly účinnosti: 254</title></rect>
-<text x="306.8" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1950</text>
-<rect x="310.89" y="316.2" width="5.76" height="14.3" rx="1.5" fill="#2ea043"><title>1951: změny, které nabyly účinnosti: 191</title></rect>
-<rect x="317.85" y="319.1" width="5.76" height="11.4" rx="1.5" fill="#2ea043"><title>1952: změny, které nabyly účinnosti: 152</title></rect>
-<rect x="324.82" y="317.1" width="5.76" height="13.4" rx="1.5" fill="#2ea043"><title>1953: změny, které nabyly účinnosti: 179</title></rect>
-<rect x="331.78" y="324.4" width="5.76" height="6.2" rx="1.5" fill="#2ea043"><title>1954: změny, které nabyly účinnosti: 82</title></rect>
-<rect x="338.74" y="324.9" width="5.76" height="5.6" rx="1.5" fill="#2ea043"><title>1955: změny, které nabyly účinnosti: 75</title></rect>
-<rect x="345.71" y="324.3" width="5.76" height="6.2" rx="1.5" fill="#2ea043"><title>1956: změny, které nabyly účinnosti: 83</title></rect>
-<rect x="352.67" y="323.0" width="5.76" height="7.5" rx="1.5" fill="#2ea043"><title>1957: změny, které nabyly účinnosti: 100</title></rect>
-<rect x="359.63" y="323.6" width="5.76" height="6.9" rx="1.5" fill="#2ea043"><title>1958: změny, které nabyly účinnosti: 92</title></rect>
-<rect x="366.60" y="322.1" width="5.76" height="8.4" rx="1.5" fill="#2ea043"><title>1959: změny, které nabyly účinnosti: 112</title></rect>
-<rect x="373.56" y="314.6" width="5.76" height="15.9" rx="1.5" fill="#2ea043"><title>1960: změny, které nabyly účinnosti: 212</title></rect>
-<text x="376.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1960</text>
-<rect x="380.52" y="315.6" width="5.76" height="14.9" rx="1.5" fill="#2ea043"><title>1961: změny, které nabyly účinnosti: 199</title></rect>
-<rect x="387.49" y="318.6" width="5.76" height="11.8" rx="1.5" fill="#2ea043"><title>1962: změny, které nabyly účinnosti: 158</title></rect>
-<rect x="394.45" y="322.4" width="5.76" height="8.1" rx="1.5" fill="#2ea043"><title>1963: změny, které nabyly účinnosti: 108</title></rect>
-<rect x="401.41" y="308.9" width="5.76" height="21.6" rx="1.5" fill="#2ea043"><title>1964: změny, které nabyly účinnosti: 288</title></rect>
-<rect x="408.38" y="316.1" width="5.76" height="14.4" rx="1.5" fill="#2ea043"><title>1965: změny, které nabyly účinnosti: 192</title></rect>
-<rect x="415.34" y="316.7" width="5.76" height="13.8" rx="1.5" fill="#2ea043"><title>1966: změny, které nabyly účinnosti: 184</title></rect>
-<rect x="422.30" y="316.2" width="5.76" height="14.2" rx="1.5" fill="#2ea043"><title>1967: změny, které nabyly účinnosti: 190</title></rect>
-<rect x="429.27" y="315.1" width="5.76" height="15.4" rx="1.5" fill="#2ea043"><title>1968: změny, které nabyly účinnosti: 205</title></rect>
-<rect x="436.23" y="312.9" width="5.76" height="17.6" rx="1.5" fill="#2ea043"><title>1969: změny, které nabyly účinnosti: 235</title></rect>
-<rect x="443.19" y="314.7" width="5.76" height="15.8" rx="1.5" fill="#2ea043"><title>1970: změny, které nabyly účinnosti: 211</title></rect>
-<text x="446.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1970</text>
-<rect x="450.16" y="313.3" width="5.76" height="17.2" rx="1.5" fill="#2ea043"><title>1971: změny, které nabyly účinnosti: 229</title></rect>
-<rect x="457.12" y="318.8" width="5.76" height="11.7" rx="1.5" fill="#2ea043"><title>1972: změny, které nabyly účinnosti: 156</title></rect>
-<rect x="464.08" y="316.9" width="5.76" height="13.6" rx="1.5" fill="#2ea043"><title>1973: změny, které nabyly účinnosti: 181</title></rect>
-<rect x="471.04" y="320.4" width="5.76" height="10.1" rx="1.5" fill="#2ea043"><title>1974: změny, které nabyly účinnosti: 135</title></rect>
-<rect x="478.01" y="317.2" width="5.76" height="13.3" rx="1.5" fill="#2ea043"><title>1975: změny, které nabyly účinnosti: 177</title></rect>
-<rect x="484.97" y="314.8" width="5.76" height="15.8" rx="1.5" fill="#2ea043"><title>1976: změny, které nabyly účinnosti: 210</title></rect>
-<rect x="491.93" y="320.2" width="5.76" height="10.3" rx="1.5" fill="#2ea043"><title>1977: změny, které nabyly účinnosti: 137</title></rect>
-<rect x="498.90" y="315.6" width="5.76" height="14.9" rx="1.5" fill="#2ea043"><title>1978: změny, které nabyly účinnosti: 199</title></rect>
-<rect x="505.86" y="315.3" width="5.76" height="15.2" rx="1.5" fill="#2ea043"><title>1979: změny, které nabyly účinnosti: 203</title></rect>
-<rect x="512.82" y="312.9" width="5.76" height="17.6" rx="1.5" fill="#2ea043"><title>1980: změny, které nabyly účinnosti: 234</title></rect>
-<text x="515.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1980</text>
-<rect x="519.79" y="318.2" width="5.76" height="12.3" rx="1.5" fill="#2ea043"><title>1981: změny, které nabyly účinnosti: 164</title></rect>
-<rect x="526.75" y="313.2" width="5.76" height="17.2" rx="1.5" fill="#2ea043"><title>1982: změny, které nabyly účinnosti: 230</title></rect>
-<rect x="533.71" y="316.8" width="5.76" height="13.7" rx="1.5" fill="#2ea043"><title>1983: změny, které nabyly účinnosti: 183</title></rect>
-<rect x="540.68" y="316.4" width="5.76" height="14.1" rx="1.5" fill="#2ea043"><title>1984: změny, které nabyly účinnosti: 188</title></rect>
-<rect x="547.64" y="316.5" width="5.76" height="14.0" rx="1.5" fill="#2ea043"><title>1985: změny, které nabyly účinnosti: 187</title></rect>
-<rect x="554.60" y="319.3" width="5.76" height="11.2" rx="1.5" fill="#2ea043"><title>1986: změny, které nabyly účinnosti: 149</title></rect>
-<rect x="561.57" y="319.0" width="5.76" height="11.5" rx="1.5" fill="#2ea043"><title>1987: změny, které nabyly účinnosti: 153</title></rect>
-<rect x="568.53" y="307.1" width="5.76" height="23.4" rx="1.5" fill="#2ea043"><title>1988: změny, které nabyly účinnosti: 312</title></rect>
-<rect x="575.49" y="309.9" width="5.76" height="20.6" rx="1.5" fill="#2ea043"><title>1989: změny, které nabyly účinnosti: 275</title></rect>
-<rect x="582.46" y="273.3" width="5.76" height="57.2" rx="1.5" fill="#2ea043"><title>1990: změny, které nabyly účinnosti: 763</title></rect>
-<text x="585.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1990</text>
-<rect x="589.42" y="279.9" width="5.76" height="50.6" rx="1.5" fill="#2ea043"><title>1991: změny, které nabyly účinnosti: 675</title></rect>
-<rect x="596.38" y="274.9" width="5.76" height="55.6" rx="1.5" fill="#2ea043"><title>1992: změny, které nabyly účinnosti: 741</title></rect>
-<rect x="603.35" y="299.6" width="5.76" height="30.9" rx="1.5" fill="#2ea043"><title>1993: změny, které nabyly účinnosti: 412</title></rect>
-<rect x="610.31" y="309.0" width="5.76" height="21.5" rx="1.5" fill="#2ea043"><title>1994: změny, které nabyly účinnosti: 287</title></rect>
-<rect x="617.27" y="303.6" width="5.76" height="26.9" rx="1.5" fill="#2ea043"><title>1995: změny, které nabyly účinnosti: 359</title></rect>
-<rect x="624.24" y="307.6" width="5.76" height="22.9" rx="1.5" fill="#2ea043"><title>1996: změny, které nabyly účinnosti: 306</title></rect>
-<rect x="631.20" y="303.2" width="5.76" height="27.3" rx="1.5" fill="#2ea043"><title>1997: změny, které nabyly účinnosti: 364</title></rect>
-<rect x="638.16" y="303.4" width="5.76" height="27.1" rx="1.5" fill="#2ea043"><title>1998: změny, které nabyly účinnosti: 361</title></rect>
-<rect x="645.13" y="298.1" width="5.76" height="32.4" rx="1.5" fill="#2ea043"><title>1999: změny, které nabyly účinnosti: 432</title></rect>
-<rect x="652.09" y="274.9" width="5.76" height="55.6" rx="1.5" fill="#2ea043"><title>2000: změny, které nabyly účinnosti: 741</title></rect>
-<text x="655.0" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
-<rect x="659.05" y="275.7" width="5.76" height="54.8" rx="1.5" fill="#2ea043"><title>2001: změny, které nabyly účinnosti: 731</title></rect>
-<rect x="666.02" y="267.4" width="5.76" height="63.1" rx="1.5" fill="#2ea043"><title>2002: změny, které nabyly účinnosti: 841</title></rect>
-<rect x="672.98" y="277.9" width="5.76" height="52.6" rx="1.5" fill="#2ea043"><title>2003: změny, které nabyly účinnosti: 702</title></rect>
-<rect x="679.94" y="246.3" width="5.76" height="84.2" rx="1.5" fill="#2ea043"><title>2004: změny, které nabyly účinnosti: 1 122</title></rect>
-<text x="682.8" y="240.3" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">1 122 v roce 2004</text>
-<rect x="686.91" y="271.1" width="5.76" height="59.4" rx="1.5" fill="#2ea043"><title>2005: změny, které nabyly účinnosti: 792</title></rect>
-<rect x="693.87" y="264.4" width="5.76" height="66.2" rx="1.5" fill="#2ea043"><title>2006: změny, které nabyly účinnosti: 882</title></rect>
-<rect x="700.83" y="286.3" width="5.76" height="44.2" rx="1.5" fill="#2ea043"><title>2007: změny, které nabyly účinnosti: 589</title></rect>
-<rect x="707.80" y="279.1" width="5.76" height="51.4" rx="1.5" fill="#2ea043"><title>2008: změny, které nabyly účinnosti: 685</title></rect>
-<rect x="714.76" y="278.4" width="5.76" height="52.1" rx="1.5" fill="#2ea043"><title>2009: změny, které nabyly účinnosti: 695</title></rect>
-<rect x="721.72" y="282.7" width="5.76" height="47.8" rx="1.5" fill="#2ea043"><title>2010: změny, které nabyly účinnosti: 637</title></rect>
-<text x="724.6" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2010</text>
-<rect x="728.69" y="277.4" width="5.76" height="53.1" rx="1.5" fill="#2ea043"><title>2011: změny, které nabyly účinnosti: 708</title></rect>
-<rect x="735.65" y="271.8" width="5.76" height="58.7" rx="1.5" fill="#2ea043"><title>2012: změny, které nabyly účinnosti: 783</title></rect>
-<rect x="742.61" y="277.5" width="5.76" height="53.0" rx="1.5" fill="#2ea043"><title>2013: změny, které nabyly účinnosti: 707</title></rect>
-<rect x="749.58" y="282.1" width="5.76" height="48.5" rx="1.5" fill="#2ea043"><title>2014: změny, které nabyly účinnosti: 646</title></rect>
-<rect x="756.54" y="280.6" width="5.76" height="50.0" rx="1.5" fill="#2ea043"><title>2015: změny, které nabyly účinnosti: 666</title></rect>
-<rect x="763.50" y="272.8" width="5.76" height="57.8" rx="1.5" fill="#2ea043"><title>2016: změny, které nabyly účinnosti: 770</title></rect>
-<rect x="770.47" y="269.4" width="5.76" height="61.1" rx="1.5" fill="#2ea043"><title>2017: změny, které nabyly účinnosti: 815</title></rect>
-<rect x="777.43" y="283.8" width="5.76" height="46.7" rx="1.5" fill="#2ea043"><title>2018: změny, které nabyly účinnosti: 623</title></rect>
-<rect x="784.39" y="287.4" width="5.76" height="43.0" rx="1.5" fill="#2ea043"><title>2019: změny, které nabyly účinnosti: 574</title></rect>
-<rect x="791.36" y="278.8" width="5.76" height="51.8" rx="1.5" fill="#2ea043"><title>2020: změny, které nabyly účinnosti: 690</title></rect>
-<text x="794.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
-<rect x="798.32" y="274.6" width="5.76" height="55.9" rx="1.5" fill="#2ea043"><title>2021: změny, které nabyly účinnosti: 745</title></rect>
-<rect x="805.28" y="266.6" width="5.76" height="63.9" rx="1.5" fill="#2ea043"><title>2022: změny, které nabyly účinnosti: 852</title></rect>
-<rect x="812.25" y="268.6" width="5.76" height="61.9" rx="1.5" fill="#2ea043"><title>2023: změny, které nabyly účinnosti: 825</title></rect>
-<rect x="819.21" y="270.6" width="5.76" height="59.9" rx="1.5" fill="#2ea043"><title>2024: změny, které nabyly účinnosti: 799</title></rect>
-<rect x="826.17" y="253.4" width="5.76" height="77.1" rx="1.5" fill="#2ea043"><title>2025: změny, které nabyly účinnosti: 1 028</title></rect>
-<rect x="833.14" y="276.9" width="5.76" height="53.5" rx="1.5" fill="#2ea043"><title>2026: změny, které nabyly účinnosti: 714</title></rect>
-<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">Změny datované dnem nabytí účinnosti: 33 864.</text>
-<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Úplnost, ověřeno podle úředních zdrojů k 12. 11. 2026</text>
-<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Ústava</text>
-<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">v repozitáři</text>
-<g><title>Ústava: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">Hlavní kodexy</text>
-<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">podíl základních kodexů</text>
-<g><title>Hlavní kodexy: 100 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">Celostátní předpisy</text>
-<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">odhad (střední spolehlivost, 81,5–100 %)</text>
-<g><title>Celostátní předpisy: 90 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="82.1" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">~90 %</text>
-<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Regionální předpisy</text>
-<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">žádné územní celky s předpisy</text>
-<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">nevztahuje se</text>
-<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">Judikatura</text>
-<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">zahrnuté nejvyšší soudy</text>
-<g><title>Judikatura: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/></g>
-<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">0 %</text>
-<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Správnost toho, co obsahuje</text>
-<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Změny s datem účinnosti</text>
-<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">podíl změn</text>
-<g><title>Změny s datem účinnosti: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Změny s úředním zdrojem</text>
-<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">řádek Source nebo odkaz v commitu</text>
-<g><title>Změny s úředním zdrojem: 99,4 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="90.9" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">99,4 %</text>
-<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">Korpusy této země v global-law</text>
-<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">celostátní předpisy: 1</text>
-<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">1</text>
-<text x="456.0" y="648.5" font-size="13" fill="#f0f6fc">Ověřeno podle úředního zdroje</text>
-<text x="456.0" y="664.5" font-size="11.5" fill="#9198a1">datum uvedené v repozitáři</text>
-<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">28. 10. 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="803" viewBox="0 0 880 803" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>@font-face{font-family:'Manrope';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'JetBrains Mono';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}</style>
+<defs><linearGradient id="yg-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3fbf7f"/><stop offset="1" stop-color="#3fbf7f" stop-opacity="0.35"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#0c120f" stroke="#26332c"/>
+<rect x="718.3" y="27" width="133.7" height="24" rx="12" fill="#141c18"/>
+<text x="785.1" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#93a69b">záznam do 8. 11. 2026</text>
+<text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e9f2ec">České právo jako historie v gitu</text>
+<rect x="28" y="70" width="824" height="72" rx="8" fill="#141c18"/>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">18 582</text>
+<text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">předpisů</text>
+<line x1="162.8" y1="86" x2="162.8" y2="126" stroke="#26332c"/>
+<text x="178.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">33 864</text>
+<text x="178.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">změn, jako commity</text>
+<line x1="318.1" y1="86" x2="318.1" y2="126" stroke="#26332c"/>
+<text x="334.1" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">8 967</text>
+<text x="334.1" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">souborů ustanovení</text>
+<line x1="478.2" y1="86" x2="478.2" y2="126" stroke="#26332c"/>
+<text x="494.2" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">18 887</text>
+<text x="494.2" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">autorů: zákony, vydavatelé</text>
+<line x1="678.7" y1="86" x2="678.7" y2="126" stroke="#26332c"/>
+<text x="694.7" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1918–2026</text>
+<text x="694.7" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">let historie</text>
+<rect x="28" y="160" width="824" height="236" rx="8" fill="#141c18"/>
+<text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Změny podle roku nabytí účinnosti</text>
+<line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#1f2a24"/>
+<text x="82" y="350.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">0</text>
+<line x1="90" y1="277.0" x2="834" y2="277.0" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="281.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1 000</text>
+<line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2 000</text>
+<rect x="90.40" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1918: změny, které nabyly účinnosti: 7</title></rect>
+<rect x="97.23" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1919: změny, které nabyly účinnosti: 20</title></rect>
+<rect x="104.05" y="343.1" width="6.03" height="2.9" rx="1.5" fill="url(#yg-dark)"><title>1920: změny, které nabyly účinnosti: 42</title></rect>
+<text x="107.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1920</text>
+<rect x="110.88" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1921: změny, které nabyly účinnosti: 16</title></rect>
+<rect x="117.70" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1922: změny, které nabyly účinnosti: 10</title></rect>
+<rect x="124.53" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1923: změny, které nabyly účinnosti: 3</title></rect>
+<rect x="131.35" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1924: změny, které nabyly účinnosti: 5</title></rect>
+<rect x="138.18" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1925: změny, které nabyly účinnosti: 5</title></rect>
+<rect x="145.01" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1926: změny, které nabyly účinnosti: 8</title></rect>
+<rect x="151.83" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1927: změny, které nabyly účinnosti: 1</title></rect>
+<rect x="158.66" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1928: změny, které nabyly účinnosti: 3</title></rect>
+<rect x="165.48" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1929: změny, které nabyly účinnosti: 5</title></rect>
+<rect x="172.31" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1930: změny, které nabyly účinnosti: 6</title></rect>
+<text x="175.3" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1930</text>
+<rect x="179.13" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1931: změny, které nabyly účinnosti: 5</title></rect>
+<rect x="185.96" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1932: změny, které nabyly účinnosti: 2</title></rect>
+<rect x="192.79" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1933: změny, které nabyly účinnosti: 1</title></rect>
+<rect x="199.61" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1934: změny, které nabyly účinnosti: 1</title></rect>
+<rect x="206.44" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1935: změny, které nabyly účinnosti: 5</title></rect>
+<rect x="213.26" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1936: změny, které nabyly účinnosti: 5</title></rect>
+<rect x="220.09" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1937: změny, které nabyly účinnosti: 4</title></rect>
+<rect x="226.91" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1938: změny, které nabyly účinnosti: 3</title></rect>
+<rect x="233.74" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1939: změny, které nabyly účinnosti: 2</title></rect>
+<rect x="240.57" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1940: změny, které nabyly účinnosti: 2</title></rect>
+<text x="243.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1940</text>
+<rect x="261.04" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1943: změny, které nabyly účinnosti: 1</title></rect>
+<rect x="267.87" y="344.5" width="6.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1944: změny, které nabyly účinnosti: 5</title></rect>
+<rect x="274.69" y="331.8" width="6.03" height="14.2" rx="1.5" fill="url(#yg-dark)"><title>1945: změny, které nabyly účinnosti: 206</title></rect>
+<rect x="281.52" y="327.7" width="6.03" height="18.3" rx="1.5" fill="url(#yg-dark)"><title>1946: změny, které nabyly účinnosti: 265</title></rect>
+<rect x="288.34" y="328.3" width="6.03" height="17.7" rx="1.5" fill="url(#yg-dark)"><title>1947: změny, které nabyly účinnosti: 256</title></rect>
+<rect x="295.17" y="320.7" width="6.03" height="25.3" rx="1.5" fill="url(#yg-dark)"><title>1948: změny, které nabyly účinnosti: 366</title></rect>
+<rect x="302.00" y="322.7" width="6.03" height="23.3" rx="1.5" fill="url(#yg-dark)"><title>1949: změny, které nabyly účinnosti: 338</title></rect>
+<rect x="308.82" y="328.5" width="6.03" height="17.5" rx="1.5" fill="url(#yg-dark)"><title>1950: změny, které nabyly účinnosti: 254</title></rect>
+<text x="311.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1950</text>
+<rect x="315.65" y="332.8" width="6.03" height="13.2" rx="1.5" fill="url(#yg-dark)"><title>1951: změny, které nabyly účinnosti: 191</title></rect>
+<rect x="322.47" y="335.5" width="6.03" height="10.5" rx="1.5" fill="url(#yg-dark)"><title>1952: změny, které nabyly účinnosti: 152</title></rect>
+<rect x="329.30" y="333.6" width="6.03" height="12.4" rx="1.5" fill="url(#yg-dark)"><title>1953: změny, které nabyly účinnosti: 179</title></rect>
+<rect x="336.12" y="340.3" width="6.03" height="5.7" rx="1.5" fill="url(#yg-dark)"><title>1954: změny, které nabyly účinnosti: 82</title></rect>
+<rect x="342.95" y="340.8" width="6.03" height="5.2" rx="1.5" fill="url(#yg-dark)"><title>1955: změny, které nabyly účinnosti: 75</title></rect>
+<rect x="349.78" y="340.3" width="6.03" height="5.7" rx="1.5" fill="url(#yg-dark)"><title>1956: změny, které nabyly účinnosti: 83</title></rect>
+<rect x="356.60" y="339.1" width="6.03" height="6.9" rx="1.5" fill="url(#yg-dark)"><title>1957: změny, které nabyly účinnosti: 100</title></rect>
+<rect x="363.43" y="339.7" width="6.03" height="6.3" rx="1.5" fill="url(#yg-dark)"><title>1958: změny, které nabyly účinnosti: 92</title></rect>
+<rect x="370.25" y="338.3" width="6.03" height="7.7" rx="1.5" fill="url(#yg-dark)"><title>1959: změny, které nabyly účinnosti: 112</title></rect>
+<rect x="377.08" y="331.4" width="6.03" height="14.6" rx="1.5" fill="url(#yg-dark)"><title>1960: změny, které nabyly účinnosti: 212</title></rect>
+<text x="380.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1960</text>
+<rect x="383.90" y="332.3" width="6.03" height="13.7" rx="1.5" fill="url(#yg-dark)"><title>1961: změny, které nabyly účinnosti: 199</title></rect>
+<rect x="390.73" y="335.1" width="6.03" height="10.9" rx="1.5" fill="url(#yg-dark)"><title>1962: změny, které nabyly účinnosti: 158</title></rect>
+<rect x="397.56" y="338.5" width="6.03" height="7.5" rx="1.5" fill="url(#yg-dark)"><title>1963: změny, které nabyly účinnosti: 108</title></rect>
+<rect x="404.38" y="326.1" width="6.03" height="19.9" rx="1.5" fill="url(#yg-dark)"><title>1964: změny, které nabyly účinnosti: 288</title></rect>
+<rect x="411.21" y="332.8" width="6.03" height="13.2" rx="1.5" fill="url(#yg-dark)"><title>1965: změny, které nabyly účinnosti: 192</title></rect>
+<rect x="418.03" y="333.3" width="6.03" height="12.7" rx="1.5" fill="url(#yg-dark)"><title>1966: změny, které nabyly účinnosti: 184</title></rect>
+<rect x="424.86" y="332.9" width="6.03" height="13.1" rx="1.5" fill="url(#yg-dark)"><title>1967: změny, které nabyly účinnosti: 190</title></rect>
+<rect x="431.68" y="331.9" width="6.03" height="14.1" rx="1.5" fill="url(#yg-dark)"><title>1968: změny, které nabyly účinnosti: 205</title></rect>
+<rect x="438.51" y="329.8" width="6.03" height="16.2" rx="1.5" fill="url(#yg-dark)"><title>1969: změny, které nabyly účinnosti: 235</title></rect>
+<rect x="445.34" y="331.4" width="6.03" height="14.6" rx="1.5" fill="url(#yg-dark)"><title>1970: změny, které nabyly účinnosti: 211</title></rect>
+<text x="448.3" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1970</text>
+<rect x="452.16" y="330.2" width="6.03" height="15.8" rx="1.5" fill="url(#yg-dark)"><title>1971: změny, které nabyly účinnosti: 229</title></rect>
+<rect x="458.99" y="335.2" width="6.03" height="10.8" rx="1.5" fill="url(#yg-dark)"><title>1972: změny, které nabyly účinnosti: 156</title></rect>
+<rect x="465.81" y="333.5" width="6.03" height="12.5" rx="1.5" fill="url(#yg-dark)"><title>1973: změny, které nabyly účinnosti: 181</title></rect>
+<rect x="472.64" y="336.7" width="6.03" height="9.3" rx="1.5" fill="url(#yg-dark)"><title>1974: změny, které nabyly účinnosti: 135</title></rect>
+<rect x="479.46" y="333.8" width="6.03" height="12.2" rx="1.5" fill="url(#yg-dark)"><title>1975: změny, které nabyly účinnosti: 177</title></rect>
+<rect x="486.29" y="331.5" width="6.03" height="14.5" rx="1.5" fill="url(#yg-dark)"><title>1976: změny, které nabyly účinnosti: 210</title></rect>
+<rect x="493.12" y="336.5" width="6.03" height="9.5" rx="1.5" fill="url(#yg-dark)"><title>1977: změny, které nabyly účinnosti: 137</title></rect>
+<rect x="499.94" y="332.3" width="6.03" height="13.7" rx="1.5" fill="url(#yg-dark)"><title>1978: změny, které nabyly účinnosti: 199</title></rect>
+<rect x="506.77" y="332.0" width="6.03" height="14.0" rx="1.5" fill="url(#yg-dark)"><title>1979: změny, které nabyly účinnosti: 203</title></rect>
+<rect x="513.59" y="329.9" width="6.03" height="16.1" rx="1.5" fill="url(#yg-dark)"><title>1980: změny, které nabyly účinnosti: 234</title></rect>
+<text x="516.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1980</text>
+<rect x="520.42" y="334.7" width="6.03" height="11.3" rx="1.5" fill="url(#yg-dark)"><title>1981: změny, které nabyly účinnosti: 164</title></rect>
+<rect x="527.24" y="330.1" width="6.03" height="15.9" rx="1.5" fill="url(#yg-dark)"><title>1982: změny, které nabyly účinnosti: 230</title></rect>
+<rect x="534.07" y="333.4" width="6.03" height="12.6" rx="1.5" fill="url(#yg-dark)"><title>1983: změny, které nabyly účinnosti: 183</title></rect>
+<rect x="540.90" y="333.0" width="6.03" height="13.0" rx="1.5" fill="url(#yg-dark)"><title>1984: změny, které nabyly účinnosti: 188</title></rect>
+<rect x="547.72" y="333.1" width="6.03" height="12.9" rx="1.5" fill="url(#yg-dark)"><title>1985: změny, které nabyly účinnosti: 187</title></rect>
+<rect x="554.55" y="335.7" width="6.03" height="10.3" rx="1.5" fill="url(#yg-dark)"><title>1986: změny, které nabyly účinnosti: 149</title></rect>
+<rect x="561.37" y="335.4" width="6.03" height="10.6" rx="1.5" fill="url(#yg-dark)"><title>1987: změny, které nabyly účinnosti: 153</title></rect>
+<rect x="568.20" y="324.5" width="6.03" height="21.5" rx="1.5" fill="url(#yg-dark)"><title>1988: změny, které nabyly účinnosti: 312</title></rect>
+<rect x="575.02" y="327.0" width="6.03" height="19.0" rx="1.5" fill="url(#yg-dark)"><title>1989: změny, které nabyly účinnosti: 275</title></rect>
+<rect x="581.85" y="293.4" width="6.03" height="52.6" rx="1.5" fill="url(#yg-dark)"><title>1990: změny, které nabyly účinnosti: 763</title></rect>
+<text x="584.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1990</text>
+<rect x="588.68" y="299.4" width="6.03" height="46.6" rx="1.5" fill="url(#yg-dark)"><title>1991: změny, které nabyly účinnosti: 675</title></rect>
+<rect x="595.50" y="294.9" width="6.03" height="51.1" rx="1.5" fill="url(#yg-dark)"><title>1992: změny, které nabyly účinnosti: 741</title></rect>
+<rect x="602.33" y="317.6" width="6.03" height="28.4" rx="1.5" fill="url(#yg-dark)"><title>1993: změny, které nabyly účinnosti: 412</title></rect>
+<rect x="609.15" y="326.2" width="6.03" height="19.8" rx="1.5" fill="url(#yg-dark)"><title>1994: změny, které nabyly účinnosti: 287</title></rect>
+<rect x="615.98" y="321.2" width="6.03" height="24.8" rx="1.5" fill="url(#yg-dark)"><title>1995: změny, které nabyly účinnosti: 359</title></rect>
+<rect x="622.80" y="324.9" width="6.03" height="21.1" rx="1.5" fill="url(#yg-dark)"><title>1996: změny, které nabyly účinnosti: 306</title></rect>
+<rect x="629.63" y="320.9" width="6.03" height="25.1" rx="1.5" fill="url(#yg-dark)"><title>1997: změny, které nabyly účinnosti: 364</title></rect>
+<rect x="636.46" y="321.1" width="6.03" height="24.9" rx="1.5" fill="url(#yg-dark)"><title>1998: změny, které nabyly účinnosti: 361</title></rect>
+<rect x="643.28" y="316.2" width="6.03" height="29.8" rx="1.5" fill="url(#yg-dark)"><title>1999: změny, které nabyly účinnosti: 432</title></rect>
+<rect x="650.11" y="294.9" width="6.03" height="51.1" rx="1.5" fill="url(#yg-dark)"><title>2000: změny, které nabyly účinnosti: 741</title></rect>
+<text x="653.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2000</text>
+<rect x="656.93" y="295.6" width="6.03" height="50.4" rx="1.5" fill="url(#yg-dark)"><title>2001: změny, které nabyly účinnosti: 731</title></rect>
+<rect x="663.76" y="288.0" width="6.03" height="58.0" rx="1.5" fill="url(#yg-dark)"><title>2002: změny, které nabyly účinnosti: 841</title></rect>
+<rect x="670.58" y="297.6" width="6.03" height="48.4" rx="1.5" fill="url(#yg-dark)"><title>2003: změny, které nabyly účinnosti: 702</title></rect>
+<rect x="677.41" y="268.6" width="6.03" height="77.4" rx="1.5" fill="url(#yg-dark)"><title>2004: změny, které nabyly účinnosti: 1 122</title></rect>
+<text x="680.4" y="260.6" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#e9f2ec">1 122 v roce 2004</text>
+<rect x="684.23" y="291.4" width="6.03" height="54.6" rx="1.5" fill="url(#yg-dark)"><title>2005: změny, které nabyly účinnosti: 792</title></rect>
+<rect x="691.06" y="285.1" width="6.03" height="60.9" rx="1.5" fill="url(#yg-dark)"><title>2006: změny, které nabyly účinnosti: 882</title></rect>
+<rect x="697.89" y="305.4" width="6.03" height="40.6" rx="1.5" fill="url(#yg-dark)"><title>2007: změny, které nabyly účinnosti: 589</title></rect>
+<rect x="704.71" y="298.7" width="6.03" height="47.3" rx="1.5" fill="url(#yg-dark)"><title>2008: změny, které nabyly účinnosti: 685</title></rect>
+<rect x="711.54" y="298.0" width="6.03" height="48.0" rx="1.5" fill="url(#yg-dark)"><title>2009: změny, které nabyly účinnosti: 695</title></rect>
+<rect x="718.36" y="302.0" width="6.03" height="44.0" rx="1.5" fill="url(#yg-dark)"><title>2010: změny, které nabyly účinnosti: 637</title></rect>
+<text x="721.4" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2010</text>
+<rect x="725.19" y="297.1" width="6.03" height="48.9" rx="1.5" fill="url(#yg-dark)"><title>2011: změny, které nabyly účinnosti: 708</title></rect>
+<rect x="732.01" y="292.0" width="6.03" height="54.0" rx="1.5" fill="url(#yg-dark)"><title>2012: změny, které nabyly účinnosti: 783</title></rect>
+<rect x="738.84" y="297.2" width="6.03" height="48.8" rx="1.5" fill="url(#yg-dark)"><title>2013: změny, které nabyly účinnosti: 707</title></rect>
+<rect x="745.67" y="301.4" width="6.03" height="44.6" rx="1.5" fill="url(#yg-dark)"><title>2014: změny, které nabyly účinnosti: 646</title></rect>
+<rect x="752.49" y="300.0" width="6.03" height="46.0" rx="1.5" fill="url(#yg-dark)"><title>2015: změny, které nabyly účinnosti: 666</title></rect>
+<rect x="759.32" y="292.9" width="6.03" height="53.1" rx="1.5" fill="url(#yg-dark)"><title>2016: změny, které nabyly účinnosti: 770</title></rect>
+<rect x="766.14" y="289.8" width="6.03" height="56.2" rx="1.5" fill="url(#yg-dark)"><title>2017: změny, které nabyly účinnosti: 815</title></rect>
+<rect x="772.97" y="303.0" width="6.03" height="43.0" rx="1.5" fill="url(#yg-dark)"><title>2018: změny, které nabyly účinnosti: 623</title></rect>
+<rect x="779.79" y="306.4" width="6.03" height="39.6" rx="1.5" fill="url(#yg-dark)"><title>2019: změny, které nabyly účinnosti: 574</title></rect>
+<rect x="786.62" y="298.4" width="6.03" height="47.6" rx="1.5" fill="url(#yg-dark)"><title>2020: změny, které nabyly účinnosti: 690</title></rect>
+<text x="789.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2020</text>
+<rect x="793.45" y="294.6" width="6.03" height="51.4" rx="1.5" fill="url(#yg-dark)"><title>2021: změny, které nabyly účinnosti: 745</title></rect>
+<rect x="800.27" y="287.2" width="6.03" height="58.8" rx="1.5" fill="url(#yg-dark)"><title>2022: změny, které nabyly účinnosti: 852</title></rect>
+<rect x="807.10" y="289.1" width="6.03" height="56.9" rx="1.5" fill="url(#yg-dark)"><title>2023: změny, které nabyly účinnosti: 825</title></rect>
+<rect x="813.92" y="290.9" width="6.03" height="55.1" rx="1.5" fill="url(#yg-dark)"><title>2024: změny, které nabyly účinnosti: 799</title></rect>
+<rect x="820.75" y="275.1" width="6.03" height="70.9" rx="1.5" fill="url(#yg-dark)"><title>2025: změny, které nabyly účinnosti: 1 028</title></rect>
+<rect x="827.57" y="296.7" width="6.03" height="49.3" rx="1.5" fill="url(#yg-dark)"><title>2026: změny, které nabyly účinnosti: 714</title></rect>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">Změny datované dnem nabytí účinnosti: 33 864.</text>
+<rect x="28" y="412" width="824" height="197" rx="8" fill="#141c18"/>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Úplnost, ověřeno podle úředních zdrojů k 12. 11. 2026</text>
+<text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Ústava</text>
+<text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">v repozitáři</text>
+<g><title>Ústava: 100 %</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Regionální předpisy</text>
+<text x="460.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">žádné územní celky s předpisy</text>
+<text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">nevztahuje se</text>
+<text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Hlavní kodexy</text>
+<text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">podíl základních kodexů</text>
+<g><title>Hlavní kodexy: 100 %</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Judikatura</text>
+<text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">zahrnuté nejvyšší soudy</text>
+<g><title>Judikatura: 0 %</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/></g>
+<text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">0 %</text>
+<text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Celostátní předpisy</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">odhad (střední spolehlivost, 81,5–100 %)</text>
+<g><title>Celostátní předpisy: 90 %</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="554.0" width="55.6" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">~90 %</text>
+<rect x="28" y="625" width="824" height="152" rx="8" fill="#141c18"/>
+<text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Správnost toho, co obsahuje</text>
+<text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Změny s datem účinnosti</text>
+<text x="46.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">podíl změn</text>
+<g><title>Změny s datem účinnosti: 100 %</title><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Korpusy této země v global-law</text>
+<text x="460.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">celostátní předpisy: 1</text>
+<text x="834.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">1</text>
+<text x="46.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Změny s úředním zdrojem</text>
+<text x="46.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">řádek Source nebo odkaz v commitu</text>
+<g><title>Změny s úředním zdrojem: 99,4 %</title><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="722.0" width="61.6" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">99,4 %</text>
+<text x="460.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Ověřeno podle úředního zdroje</text>
+<text x="460.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">datum uvedené v repozitáři</text>
+<text x="834.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">28. 10. 2026</text>
 </svg>
