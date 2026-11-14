@@ -1,148 +1,89 @@
-# České právo, změna po změně
+# Česko: historie práva v gitu
 
-**Čeština** · [English](README.en.md)
+**Čeština** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/cs/effort-dark.svg">
 <img alt="Předpisy Česka v tomto repozitáři: co obsahuje, změny podle roku nabytí účinnosti, úplnost vůči úředním zdrojům a správnost toho, co obsahuje" src="data/cs/effort-light.svg" width="880">
 </picture>
 
+Právo Česka jako historie git: jeden soubor na předpis, jeden commit na každé znění v den, kdy nabylo účinnosti, a jako autor commitu předpis, který změnu provedl. `git blame` u každého řádku uvede předpis, který ho napsal; `git log` vypíše každou změnu předpisu; zvolené datum dá text účinný k tomuto dni.
+
 Součást projektu [lexifina/global-law](https://github.com/lexifina/global-law), jedné historie git pro právo všech zemí: toto je vnitrostátní právo Česka, které global-law čte v `czechia/national/acts/`.
 
-Všechny právní předpisy české **Sbírky zákonů**, které e-Sbírka publikuje v konsolidovaných zněních, jako jeden
-repozitář git: 18 576 předpisů (5 114 zákonů, 122 ústavních zákonů, 3 875 nařízení, 9 211 vyhlášek, 100 dekretů,
-154 zákonných opatření Senátu a Listina základních práv a svobod). Každý novelizující předpis tvoří jeden commit za
-každý den, kdy nabyl účinnosti, připsaný tomuto předpisu a datovaný tímto dnem v poledne pražského času. Text je text
-samotné e-Sbírky, z jejích otevřených datových sad ze dne 2026-10-28, doplněný o předpisy, které od té doby nabyly
-účinnosti, a o opravy dřívějších znění, které provedla sama e-Sbírka, připojené z jejích datových sad ze dnů 2026-11-02
-a 2026-11-08 (viz REPRODUCE.md).
+**Co obsahuje nyní:** Ústavu, Listinu a 20 924 předpisů a položek Sbírky zákonů, z toho 18 583 se všemi konsolidovanými zněními, která e-Sbírka publikuje; 35 637 obecně závazných vyhlášek a nařízení od 6 182 obcí a krajů; 6 804 položek Úředního listu (1945-1961); 2 263 smluv Sbírky mezinárodních smluv; 9 819 předpisů EU v češtině; 5 633 návrhů zákonů a vládních návrhů, označených jako texty, které nejsou právem; a 1 188 opatření, metodik a smluv regulátorů a ministerstev. [`PLAN.md`](PLAN.md) uvádí všechny části, které má tento repozitář obsahovat, a jak daleko je každá z nich.
 
-Ústava, 1/1993 Sb., je [`sb/1993/1.md`](sb/1993/1.md); Listina, 2/1993 Sb., je
-[`sb/1993/2.md`](sb/1993/2.md).
+Každý předpis je jeden soubor na své cestě ELI, `sb/<rok>/<číslo>.md` (`sb/2006/262.md` je zákoník práce, 262/2006 Sb.); Ústava je [`sb/1993/1.md`](sb/1993/1.md) a Listina základních práv a svobod [`sb/1993/2.md`](sb/1993/2.md).
 
-## Co tu zatím není
-
-Podle úředních počtů ke dni 2026-11-13 je zveřejněno **52,3 %** toho, co potřebuje český právník nebo občan; [PLAN.md](PLAN.md) uvádí každou část a stav její přípravy. Vedle předpisů Sbírky zákonů se všemi konsolidovanými zněními nyní tento repozitář obsahuje položky, které e-Sbírka publikuje jen ve vyhlášeném znění, Úřední list 1945-1961 s jeho historií (`ul/`), Sbírku mezinárodních smluv (`sbms/`), právo EU v češtině (`eu/`, doplňuje se), návrhy zákonů, hlasování a vládní návrhy (`navrhy/`, označené jako texty, které nejsou právem), opatření ČNB (`regulator/`) a praktické tabulky (`data/tables/`).
-
-Zatím tu není:
-- **Judikatura: žádná.** 105 034 rozhodnutí Ústavního soudu, 165 523 rozhodnutí Nejvyššího soudu a 84 449 rozhodnutí Nejvyššího správního soudu, asi 700 000 rozhodnutí nižších soudů, rozhodnutí ESLP, SDEU a ÚOHS. Nálezy Ústavního soudu, které změnily předpis, se zde objevují jen jako autor této změny.
-- **Místní právo: zatím žádné** (doplňuje se). 79 204 obecně závazných vyhlášek a nařízení obcí a krajů (49 900 účinných) ze Sbírky právních předpisů územních samosprávných celků.
-- **Většina práva před rokem 1945.** Z přibližně 6 340 číslovaných předpisů z let 1918-1938 je zde 593; léta 1939-1945 a rakouské a uherské právo recipované v roce 1918 zde nejsou (doplňují se ze skenů).
-- **Většina práva EU, návrhů zákonů a vládních materiálů** se teprve doplňuje: předpisy EU a jejich konsolidovaná znění, sněmovní tisky dřívějších volebních období, senátní tisky, vládní návrhy a usnesení.
-- **Opatření regulátorů** ERÚ, ČTÚ a cenové regulace, věstníky ministerstev a kolektivní smlouvy vyššího stupně.
-- **Který předpis provedl některé změny:** 2 682 z 36 217 změn je stále připsáno `e-Sbírka`; [data/credits/](data/credits/) uvádí předpis u většiny ostatních z 5 951 změn, které vazby e-Sbírky ponechávají otevřené.
+Text je v češtině, tak jak ho publikuje e-Sbírka. Anglický překlad není součástí tohoto záznamu.
 
 ## Otázky jako příkazy git
 
 | Otázka | Příkaz |
 | --- | --- |
-| Co stanovila Ústava 7. března 2013? | `python tools/czlaw.py on 2013-03-07 sb/1993/1.md` |
-| Listina ve znění účinném 1. ledna 2000 | `python tools/czlaw.py on 2000-01-01 sb/1993/2.md` |
-| Které předpisy z roku 1993 byly účinné 1. ledna 2000? | `python tools/czlaw.py on 2000-01-01 sb/1993` |
-| Který předpis napsal který řádek Ústavy? | `git blame sb/1993/1.md` |
-| Každá změna Ústavy, s předpisem a dnem | `python tools/czlaw.py log sb/1993/1.md` |
-| Totéž jen pomocí gitu | `git log --format="%(trailers:key=In-force,valueonly,separator=) %an" -- sb/1993/1.md` |
-| Co změnil jeden předpis, všude | `git log --format="%(trailers:key=In-force,valueonly,separator=) %s" --author="Zákon č. 89/2012 Sb."` |
-| Slova, která se změnila v jednom commitu | `git show --word-diff=plain --format=%s law-head~1` |
-| Znění Ústavy podle jeho dne | `git show --stat sb/1993/1/2013-03-08` |
-| Změny, které nevysvětluje žádný jednotlivý předpis | `git log --oneline --author="e-Sbírka" -n 5` |
-| Předpisy zrušené jedním předpisem | `git log --format=%B --author="Zákon č. 89/2012 Sb." --grep="^Repeals:"` |
-| Předpisy, které nabudou účinnosti později (stav ke dni 2026-10-28) | `git log --oneline main..future -n 5` |
-| Opravy, které e-Sbírka provedla v již zveřejněných zněních | `git log --oneline --grep="^Kind: correction"` |
+| Každá změna zákoníku práce | `git log -p --word-diff -- sb/2006/262.md` |
+| Který předpis napsal každý řádek zákoníku práce? | `git blame sb/2006/262.md` |
+| Každé znění zákoníku práce se dnem, kdy nabylo účinnosti | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- sb/2006/262.md` |
+| Zákoník práce ve znění účinném k 1. lednu 2015 | `python tools/czlaw.py on 2015-01-01 sb/2006/262.md` |
 
-## Data a které z nich používáme
+**Mimo git** tento záznam také veřejně a zdarma provozujeme:
 
-Český předpis má den, kdy byl přijat, den, kdy byl vyhlášen ve Sbírce (tím se stává *platným*), a den, kdy nabývá
-účinnosti (*účinnost*). **Commity jsou datovány dnem, kdy znění nabylo účinnosti**: `znění-datum-účinnosti-od`
-e-Sbírky, v poledne pražského času (SEČ, v letním čase SELČ), a každý commit s právním textem nese tento den jako
-`In-force:`. Pokud e-Sbírka publikuje znění ode dne vyhlášení předpisu, ještě před nabytím jeho účinnosti, označí každý
-fragment, který dosud není účinný, jeho pozdějším datem; tyto řádky končí `*(účinnost od YYYY-MM-DD)*` a označení
-zmizí, jakmile fragment nabude účinnosti. Git neumí ukládat data před rokem 1970, proto je 4 889 commitů před rokem
-1970 datováno od 1970-01-01T00:00:01Z dále, vždy o jednu sekundu později; jejich `In-force:` je skutečný den. Pro data
-používejte `tools/czlaw.py` (který čte `In-force:`), ne `git log --before`. `main` obsahuje jen právo účinné nejpozději ke dni 2026-11-08.
-Větev `future` obsahuje znění, která měla nabýt účinnosti po 2026-10-28, tak jak je e-Sbírka toho dne publikovala;
-začíná u `main` z toho dne a při doplňování `main` se neposouvá (větve se zde posouvají jen dopředu), takže některá
-její znění jsou nyní i na `main` a předpisy vyhlášené od té doby na ní nejsou.
-Pokud e-Sbírka později publikuje pro již zapsané znění jiný text, připojí se oprava na konec historie jako samostatný
-commit autora `e-Sbírka`, s `Kind: correction`, `In-force:` (první den, který opravuje), `Corrects: <act> <from>..<to>`
-(dny, na které se vztahuje, bez konce, pokud trvá dál) a `Supersedes:` (zveřejněný commit, který opravuje). Zveřejněné
-commity zůstávají, jak byly; `tools/czlaw.py` pro tyto dny čte opravy.
-Větev `law-head` je poslední commit s právním textem na `main`. Tagy `sb/<year>/<number>/<day>` označují každé znění
-ústavních předpisů.
+- **[Zeptejte se Claude na české právo](https://global-law.lexifina.com/v1/try_claude?country=czechia)**: otevře Claude s připravenou první otázkou.
+- **[Zeptejte se ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=czechia)**: stejná otázka v ChatGPT.
+- **[Zavolejte API v prohlížeči](https://global-law.lexifina.com/v1/search_law?query=dovolen%C3%A1&jurisdictions=czechia)**: vyhledání slova „dovolená“ v českém právu, odpověď v JSON. Dokumentace je [zde](https://lexifina.com/api/global-law).
 
-`--author` je regulární výraz; tečky v citaci odpovídají libovolnému znaku, což zde nevadí. V PowerShellu pište
-`$r = git rev-list -1 main; git show "$($r):sb/1993/1.md"`, protože PowerShell rozdělí `$(...):path`. Pokud bude
-historie někdy znovu sestavena, stávající klony potřebují `git fetch --force --tags`.
+Oba asistenti čtou záznam přes bezplatný konektor Global law (MCP, `https://global-law.lexifina.com/mcp`); poprvé vám chat dá odkaz, kterým se konektor přidá. Ptejte se česky nebo anglicky.
 
-## Co znamená „autor“
+**Snadno ho provozujte sami.** Stačí git a Python a nástroje běží na vašem počítači:
 
-Autorem commitu je předpis, který změnu provedl, pojmenovaný tak, jak e-Sbírka uvádí jeho druh a citaci
-(`Zákon č. 71/2012 Sb.`, `Nález Ústavního soudu č. 403/2002 Sb.`), s adresou končící `@esbirka.invalid`, která
-nemůže existovat; `git blame` tak uvádí předpis. Committerem je vždy `Lexifina`. e-Sbírka propojuje každý změněný
-fragment znění s fragmentem novelizujícího předpisu, který jej změnil (*konsolidační vazby*). Změna ustanovení
-(paragrafu nebo článku, nebo některého jeho odstavce, přílohy, nadpisu) se připisuje:
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add czechia/national/acts
+python3 tools/law.py show 2026-01-01 czechia/national/acts/sb/2006/262.md
+```
 
-1. předpisu, jehož vazby směřují do tohoto ustanovení v novém znění, nebo do něj ve znění starém;
-2. pokud do něj nesměřuje žádná vazba, ale ustanovení toho dne neslo `účinnost od`: předpisu, který jej naposledy
-   změnil (`Evidence: delayed effect`);
-3. pokud vazby znění uvádějí jen jeden předpis: tomuto předpisu (`Evidence: version link`);
-4. pokud znění nemá žádné vazby a začíná v den účinnosti samotného předpisu: tomuto předpisu (`Evidence: act in-force date`);
-5. jinak **`e-Sbírka`** (`publisher@esbirka.invalid`), v commitu označeném „bez odkazu na novelu“, nikdy předpisu.
-   Pokud vazby uvádějí pro jedno ustanovení více předpisů, jsou všechny uvedeny v trailerech `Candidate:`.
+Otevřený v Claude Code, Cursoru, VS Code nebo Codexu klon spustí i místní server MCP se stejnými nástroji ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Autorem prvního znění předpisu je předpis sám. Když skončí poslední znění předpisu, jeho soubor je následující den
-odstraněn, a to předpisem, jehož zrušovací vazba (ZRUSPRED) má tento den (trailer `Repeals:`), nebo `e-Sbírka`, pokud
-takový předpis není žádný nebo je jich více. Po posledním commitu každého dne je každý předpis změněný toho dne přesně
-zněním e-Sbírky pro tento den.
+## Data
 
-Dosud je 32 528 commitů připsáno předpisu a 1 251 e-Sbírce (počty zahrnují větev `future`).
+Každý commit je datován v poledne pražského času (Europe/Prague) dnem, kdy znění nabylo účinnosti, a tento den nese v traileru `In-force:`:
+
+- u každého konsolidovaného znění den, který mu dává e-Sbírka (`znění-datum-účinnosti-od`);
+- kde e-Sbírka publikuje znění dříve, než je celé účinné, končí každý fragment, který ještě účinný není, poznámkou `*(účinnost od RRRR-MM-DD)*` až do tohoto dne;
+- git neumí uložit data před rokem 1970, proto je 4 889 dřívějších commitů datováno od 1970-01-01 po jedné sekundě a skutečný den je v `In-force:`. Na datum se ptejte nástrojem `tools/czlaw.py`, ne `git log --before`.
+
+Každá změna je připsána předpisu, který ji provedl, tak jak ho e-Sbírka pojmenovává (`Zákon č. 71/2012 Sb.`), podle konsolidačních vazeb e-Sbírky; kde vazby neuvádějí, který předpis to byl, je připsána `e-Sbírka` (2 682 z 36 217 změn). Opravy, které e-Sbírka později provede v již zveřejněném znění, se připojují jako samostatné commity (`Kind: correction`) a větev `future` obsahuje znění, která měla nabýt účinnosti po 2026-10-28.
 
 ## Jak se kontroluje
 
-`tools/build/check_repo.py` znovu vygeneruje z datových sad každé konsolidované znění každého předpisu a porovná je
-bajt po bajtu se souborem v gitu ke dni, kdy znění nabylo účinnosti, včetně znění, která nic nezměnila, a proto nemají
-vlastní commit; kontroluje, že odstraněné předpisy od svého koncového dne chybějí; a kontroluje, že písmena a číslice
-každého vygenerovaného znění se shodují s písmeny a číslicemi textů fragmentů e-Sbírky, nezávisle na rozvržení
-Markdownu. `tools/test_repo.py` kontroluje, že fungují blame, nástroj pro znění k datu, `log`, tagy a výše uvedené
-příkazy. Výsledky a nové sestavení, které dalo stejné hashe, jsou v [`REPRODUCE.md`](REPRODUCE.md).
-
-## Soubory
-
-Každý předpis je jeden soubor, `sb/<year>/<number>.md`, na své cestě ELI (`https://www.e-sbirka.cz/eli/cz/sb/<year>/<number>`);
-nečíslované předpisy z let 1945-1960 si ponechávají čísla e-Sbírky, například `n137`. Úvodní metadata (front matter)
-obsahují údaje, které se nikdy nemění: citaci, název, druh, ELI. Pak následuje každý fragment znění v pořadí e-Sbírky:
-řádky `##` jsou členění (část, hlava, díl, oddíl, nadpisy příloh), řádky `###` jsou ustanovení (`§ 5`, `Čl. 1`),
-tučné řádky jsou nadpisy, řádky `|` jsou řádky tabulek a každý další řádek je jeden fragment (odstavec, písmeno,
-bod...) s označením, jak je e-Sbírka uvádí. HTML je převedeno na text: odkazy a zvýraznění se vypouštějí, `<sup>`
-a `<sub>` se zachovávají, z obrázků se stává `[obrázek ..., soubor N]` a z MathML jednořádkový zápis. Řádek, který by
-se četl jako Markdown, dostane zpětné lomítko. Cesty a řádky používají LF; měkké spojovníky a neviditelné znaky jsou
-odstraněny.
+- `tools/build/check_repo.py` znovu vykreslí každé konsolidované znění z datových sad e-Sbírky a porovná ho bajt po bajtu se souborem v gitu ke dni, kdy nabylo účinnosti; zrušené předpisy musí od posledního dne účinnosti chybět.
+- Písmena a číslice každého znění se rovnají písmenům a číslicím vlastních textů fragmentů e-Sbírky, bez ohledu na rozvržení Markdownu.
+- `tools/test_repo.py` ověřuje, že blame, nástroj pro data a výše uvedené příkazy fungují. Výsledky a opakované sestavení se stejnými hashi jsou v [`REPRODUCE.md`](REPRODUCE.md).
+- Historie se jen doplňuje: `main` jen roste a žádný zveřejněný commit se nepřepisuje.
 
 ## Co neukazuje
 
-- Předpisy, které e-Sbírka publikuje jen ve vyhlášeném znění, bez konsolidovaného znění, a znění, která označuje jako
-  nikdy neúčinná (104), stažená nebo čekající; data 3000-01-xx, která e-Sbírka používá jako zástupné hodnoty (11).
-- Který z několika předpisů provedl změnu, pokud to vazby e-Sbírky neuvádějí (viz výše): asi 5 951
-  z 36 573 změn.
-- Mezinárodní smlouvy (Sbírka mezinárodních smluv), Úřední list a další akty, které nejsou právními předpisy
-  (sdělení, usnesení), s výjimkou Listiny.
-- Cokoli, co e-Sbírka nezaznamenává: historie je tak úplná jako její konsolidace. Sahá zpět do roku 1918, ale pro léta 1918-1938 obsahuje e-Sbírka jen 593 z přibližně 6 340 předpisů a pro léta 1939-1945 žádné.
-- e-Sbírka upozorňuje, že do 15. ledna 2027 se identifikátory fragmentů mohou změnit. Text na nich nezávisí,
-  ale nové sestavení z pozdějších dat může některé změny připsat jinak.
+- **Judikaturu.** Zatím žádnou: 105 034 rozhodnutí Ústavního soudu, 165 523 rozhodnutí Nejvyššího soudu a 84 449 rozhodnutí Nejvyššího správního soudu a asi 700 000 rozhodnutí nižších soudů se plánuje (viz `PLAN.md`).
+- **Většinu práva před rokem 1945.** Z přibližně 6 340 číslovaných předpisů z let 1918-1938 je zde 593; léta 1939-1945 a rakouské a uherské právo recipované v roce 1918 zde nejsou.
+- **Znění, která e-Sbírka nekonsoliduje.** Položky publikované jen ve znění vyhlášeném mají jeden text a znění, která e-Sbírka označuje jako nikdy neúčinná, jsou vynechána.
+- **Který předpis provedl některé změny.** 2 682 změn je stále připsáno `e-Sbírka`; [data/credits/](data/credits/) uvádí předpis u většiny ostatních, které vazby e-Sbírky nechávají otevřené.
+- **Stálé identifikátory fragmentů.** e-Sbírka je může měnit až do 15. ledna 2027; text na nich nezávisí.
 
-## Jak se sestavuje
+## Zdroje
 
-`tools/build/` obsahuje sestavení: `ingest.py` paralelně načte datové sady do SQLite, `build.py` vygeneruje každé
-znění a streamuje historii do `git fast-import`, `release.py` zapíše tyto soubory. Stejná data dávají stejné hashe.
-Každý krok, software, hashe datových sad a to, co dělal model AI, jsou popsány v [`REPRODUCE.md`](REPRODUCE.md).
-[`corpus.json`](corpus.json) popisuje korpus pro nástroje, které čtou více právních repozitářů Lexifiny.
+| Zdroj | Druh | Dřívější znění | Poznámky |
+| --- | --- | --- | --- |
+| [e-Sbírka](https://www.e-sbirka.cz) (Ministerstvo vnitra) | Úřední sbírka: Sbírka zákonů, Sbírka mezinárodních smluv, Úřední list | ano, každé konsolidované znění | Otevřené datové sady; právně závazný je text vyhlášený ve Sbírce |
+| [Sbírka právních předpisů územních samosprávných celků](https://sbirkapp.gov.cz) | Místní předpisy | tak, jak jsou zveřejněny | Obecně závazné vyhlášky a nařízení obcí a krajů |
+| [EUR-Lex](https://eur-lex.europa.eu) | Právo EU v češtině | tak, jak je zveřejněno | Český text Úředního věstníku |
+| [psp.cz](https://www.psp.cz), [senat.cz](https://www.senat.cz), vládní ODok | Návrhy zákonů, hlasování, vládní návrhy | tak, jak jsou zveřejněny | Označeny jako texty, které nejsou právem |
+| ČNB, portal.gov.cz, MPSV | Opatření regulátorů, věstníky ministerstev, kolektivní smlouvy | tak, jak jsou zveřejněny | Každý tak, jak ho vydává jeho vydavatel |
 
 ## Licence
 
-Otevřené datové sady e-Sbírky neobsahují díla chráněná autorským právem, nejsou chráněnou databází a nevztahuje se na
-ně zvláštní právo pořizovatele databáze (podmínky užití zaznamenané v Národním katalogu otevřených dat, data.gov.cz;
-přiřazeno k CC0). Zdroj: e-Sbírka, Ministerstvo vnitra České republiky, https://www.e-sbirka.cz. Právně závazné je
-znění vyhlášené ve Sbírce zákonů. Historie, zprávy commitů a nástroje jsou pod CC0 1.0. Viz [`LICENSE`](LICENSE).
+Viz [`LICENSE`](LICENSE). Otevřené datové sady e-Sbírky neobsahují autorská díla, nejsou autorskoprávně chráněnou databází a nejsou chráněny zvláštním právem pořizovatele databáze (podmínky užití v Národním katalogu otevřených dat, data.gov.cz, přiřazené k CC0). Historie, zprávy commitů a nástroje jsou CC0 1.0.
+
+Tento repozitář není právní poradenství ani úřední publikace. Žádný model AI nenapsal ani nezměnil právní text; skripty napsal model AI (viz [`REPRODUCE.md`](REPRODUCE.md)).
 
 Toto je překlad anglické verze ([README.en.md](README.en.md)); pokud se liší, platí anglická verze.
 
