@@ -30,7 +30,8 @@ Text je v češtině, tak jak ho publikuje e-Sbírka. Anglický překlad není s
 
 - **[Zeptejte se Claude na české právo](https://global-law.lexifina.com/v1/try_claude?country=czechia)**: otevře Claude s připravenou první otázkou.
 - **[Zeptejte se ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=czechia)**: stejná otázka v ChatGPT.
-- **[Zavolejte API v prohlížeči](https://global-law.lexifina.com/v1/search_law?query=dovolen%C3%A1&jurisdictions=czechia)**: vyhledání slova „dovolená“ v českém právu, odpověď v JSON. Dokumentace je [zde](https://lexifina.com/api/global-law).
+- **[Hledejte v českém právu na našem webu](https://lexifina.com/law?country=czechia&q=dovolen%C3%A1)**: hledání „dovolená“, s textem každého ustanovení a jeho zněními, bez účtu.
+- **[REST API pro vývojáře](https://global-law.lexifina.com/v1/search_law?query=dovolen%C3%A1&jurisdiction=czechia)**: stejné hledání jako JSON, bez klíče. Dokumentace je [zde](https://lexifina.com/api/global-law).
 
 Oba asistenti čtou záznam přes bezplatný konektor Global law (MCP, `https://global-law.lexifina.com/mcp`); poprvé vám chat dá odkaz, kterým se konektor přidá. Ptejte se česky nebo anglicky.
 

@@ -30,7 +30,8 @@ The text is in Czech, as e-Sbírka publishes it. An English translation is not p
 
 - **[Ask Claude about Czech law](https://global-law.lexifina.com/v1/try_claude?country=czechia)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=czechia)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=dovolen%C3%A1&jurisdictions=czechia)**: a search of Czech law for "dovolená", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Czech law on our site](https://lexifina.com/law?country=czechia&q=dovolen%C3%A1)**: a search for "dovolená", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=dovolen%C3%A1&jurisdiction=czechia)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Czech or in English.
 
