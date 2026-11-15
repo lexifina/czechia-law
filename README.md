@@ -60,6 +60,7 @@ Každá změna je připsána předpisu, který ji provedl, tak jak ho e-Sbírka 
 - Písmena a číslice každého znění se rovnají písmenům a číslicím vlastních textů fragmentů e-Sbírky, bez ohledu na rozvržení Markdownu.
 - `tools/test_repo.py` ověřuje, že blame, nástroj pro data a výše uvedené příkazy fungují. Výsledky a opakované sestavení se stejnými hashi jsou v [`REPRODUCE.md`](REPRODUCE.md).
 - Historie se jen doplňuje: `main` jen roste a žádný zveřejněný commit se nepřepisuje.
+- [vulnerabilities/](vulnerabilities/): možné legislativní chyby v českém právu, které našly detektory z global-law a které byly ručně ověřeny.
 
 ## Co neukazuje
 

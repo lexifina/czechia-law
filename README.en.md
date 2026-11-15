@@ -60,6 +60,7 @@ Each change is credited to the act that made it, as e-Sbírka names it (`Zákon 
 - The letters and digits of every version equal those of e-Sbírka's own fragment texts, whatever the Markdown layout.
 - `tools/test_repo.py` checks that blame, the dated tool and the commands above work. The results, and a rebuild that gave the same hashes, are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: `main` only grows, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Czech law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
