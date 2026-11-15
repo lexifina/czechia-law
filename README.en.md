@@ -86,6 +86,16 @@ See [`LICENSE`](LICENSE). e-Sbírka's open datasets contain no works protected b
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+[visualisations/](visualisations/): Czech law in 20 charts, drawn from this repository.
+
+Including:
+
+- Who proposes laws, what the Senate and the President do with them, and how the Chamber votes
+- What the Collection of Laws holds, how often it changes and when acts end
+- Treaty partners, municipal ordinances, the minimum wage and default interest
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):

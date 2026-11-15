@@ -88,6 +88,16 @@ Viz [`LICENSE`](LICENSE). Otevřené datové sady e-Sbírky neobsahují autorsk�
 
 Toto je překlad anglické verze ([README.en.md](README.en.md)); pokud se liší, platí anglická verze.
 
+## Vizualizace
+
+[visualisations/](visualisations/): české právo ve 20 grafech, nakreslených z tohoto repozitáře.
+
+Mimo jiné:
+
+- Kdo navrhuje zákony, co s nimi dělají Senát a prezident a jak hlasuje Sněmovna
+- Co obsahuje Sbírka zákonů, jak často se mění a kdy předpisy končí
+- Smluvní partneři, vyhlášky obcí, minimální mzda a úrok z prodlení
+
 ## Více
 
 Z repozitáře [lexifina/global-law](https://github.com/lexifina/global-law) (v angličtině):

@@ -1,0 +1,23 @@
+// Render every chart of the page as a PNG for the READMEs: stills/cs/NN.png and stills/en/NN.png.
+//   node visualisations/src/stills.cjs
+// Needs Playwright with Chromium; set PLAYWRIGHT to its package folder if `require('playwright')` does not resolve.
+const path = require('path');
+const { chromium } = require(process.env.PLAYWRIGHT || 'playwright');
+const root = path.resolve(__dirname, '..');
+const page = 'file:///' + path.join(root, 'ceske-pravo-ve-20-grafech.html').replace(/\\/g, '/');
+(async () => {
+  const b = await chromium.launch();
+  for (const lang of ['cs', 'en']) {
+    const p = await b.newPage({ viewport: { width: 1100, height: 900 }, colorScheme: 'light', deviceScaleFactor: 1 });
+    await p.goto(page + '?lang=' + lang);
+    await p.waitForTimeout(2500);
+    await p.addStyleTag({ content: 'details.tbl{display:none} figure.chart{padding-bottom:12px}' });
+    const figs = await p.$$('figure.chart');
+    for (let i = 0; i < figs.length; i++) {
+      await figs[i].screenshot({ path: path.join(root, 'stills', lang, String(i + 1).padStart(2, '0') + '.png') });
+    }
+    console.log(lang, figs.length);
+    await p.close();
+  }
+  await b.close();
+})();

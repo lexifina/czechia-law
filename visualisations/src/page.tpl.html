@@ -1,0 +1,1186 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>České právo ve 20 grafech</title>
+<meta name="description" content="Dvacet grafů o českém právu z repozitáře czechia-law / Twenty charts on Czech law from the czechia-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.55 Inter, system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 Inter, sans-serif; padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(30px, 5vw, 46px)/1.1 "Source Serif 4", Georgia, serif; margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 760px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.1 Inter, sans-serif; font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.2 "Source Serif 4", Georgia, serif; margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 760px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.3 "Source Serif 4", Georgia, serif; margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 820px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px Inter, sans-serif; font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.5; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.45; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.3 Inter, sans-serif; }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.3 Inter, sans-serif; color: var(--text-2); }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.1 Inter, sans-serif; color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 16px; }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Jazyk / Language"><button data-lang="cs">CS</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Motiv / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+let LANG = 'cs';
+try { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'cs') LANG = q; else { const s = localStorage.getItem('cz-viz-lang'); if (s === 'en' || s === 'cs') LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const t = localStorage.getItem('cz-viz-theme'); if (t === 'light' || t === 'dark') THEME = t; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const S = {
+cs: {
+  title: 'České právo ve 20 grafech',
+  lede: 'Dvacet grafů nakreslených jen z dat tohoto repozitáře: předpisy Sbírky zákonů a každá jejich změna, Úřední list 1945–1961, Sbírka mezinárodních smluv, sněmovní tisky a hlasování Poslanecké sněmovny, vyhlášky a nařízení obcí a krajů a tabulky čísel, která stanoví právní předpisy.',
+  profile_h: 'Profil dat: co bylo použito a jak je to úplné',
+  tbl: 'Tabulka s daty', src: 'Zdroj v repozitáři', n: 'Záznamů', cover: 'Rozsah', caveat: 'Omezení',
+  ds: 'Datová sada', foot: 'Vytvořeno z repozitáře lexifina/czechia-law ({built}). Čísla počítá skript visualisations/src/prep.py z historie gitu a z tabulek v navrhy/data/ a data/; stránku skládá build.py. Všechny grafy jsou popisné: ukazují, co zdroje zaznamenávají, ne proč.',
+  tiles: ['commitů v historii', 'konsolidovaných předpisů v účinnosti', 'návrhů zákonů od roku 1993', 'hlasování Sněmovny', 'hlasů jednotlivých poslanců', 'vyhlášek a nařízení obcí a krajů'],
+  year: 'Rok', total: 'Celkem', laws: 'zákonů', days: 'dní', share: 'Podíl', count: 'Počet', of: 'z',
+  partial: 'neúplný rok', term: 'Volební období',
+  gl: 'Grafy o právu všech zemí z celého global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. Zde jsou jen grafy o Česku.',
+},
+en: {
+  title: 'Czech law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the acts of the Collection of Laws and every change to them, the Official Journal of 1945–1961, the Collection of International Treaties, the Chamber of Deputies\' prints and votes, the ordinances of municipalities and regions, and tables of the numbers that the law sets.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/czechia-law repository ({built}). The numbers are computed by visualisations/src/prep.py from the git history and the tables in navrhy/data/ and data/; build.py assembles the page. All charts are descriptive: they show what the sources record, not why.',
+  tiles: ['commits in the history', 'consolidated acts in force', 'bills since 1993', 'votes of the Chamber', 'individual MPs\' votes', 'ordinances of municipalities and regions'],
+  year: 'Year', total: 'Total', laws: 'laws', days: 'days', share: 'Share', count: 'Count', of: 'of',
+  partial: 'partial year', term: 'Term',
+  gl: 'Charts on every country\'s law, from the whole of global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. These are the charts on Czechia alone.',
+}};
+const t = k => S[LANG][k];
+const L = (cs, en) => LANG === 'cs' ? cs : en;
+const fmt = n => (n == null ? '–' : (+n).toLocaleString(LANG === 'cs' ? 'cs-CZ' : 'en-GB'));
+const dec = (v, d = 1) => (+v).toFixed(d).replace('.', LANG === 'cs' ? ',' : '.');
+const pct = (a, b, d = 0) => b ? dec(100 * a / b, d) + (LANG === 'cs' ? ' %' : '%') : '–';
+const MONTHS = { cs: ['led', 'úno', 'bře', 'dub', 'kvě', 'čvn', 'čvc', 'srp', 'zář', 'říj', 'lis', 'pro'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const MGEN = ['ledna', 'února', 'března', 'dubna', 'května', 'června', 'července', 'srpna', 'září', 'října', 'listopadu', 'prosince'];
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'cs' ? `${d}. ${MGEN[m - 1]} ${y}` : `${d} ${MONTHS.en[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'cs' ? `${d}. ${m}. ${y}` : `${d} ${MONTHS.en[m - 1]} ${y}`; };
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const termName = (r) => r.span;
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c); s.append('span').text(it.l); });
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+}
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(s)}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+// stacked columns, keys bottom-up; the top segment gets the rounded end, 1px surface gaps
+function stackedColumns(el, rows, keys, colors, names, opt = {}) {
+  const w = W(el), h = opt.h || 300, m = { t: 14, r: 8, b: 26, l: 44 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(opt.pad == null ? 0.25 : opt.pad);
+  const tot = r => keys.reduce((s, k) => s + (r[k] || 0), 0);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).nice().range([ih, 0]);
+  yAxis(g, y, iw, opt.ticks || 5, opt.yf);
+  const bw = Math.min(opt.bw || 24, x.bandwidth());
+  rows.forEach(r => {
+    let acc = 0; const segs = keys.map((k, i) => ({ k, i, v: r[k] || 0 })).filter(s => s.v > 0);
+    const gx = x(r.y) + (x.bandwidth() - bw) / 2;
+    segs.forEach((s, j) => {
+      const y0 = y(Math.min(acc, y.domain()[1])), y1 = y(Math.min(acc + s.v, y.domain()[1])); acc += s.v;
+      const gap = j ? 1 : 0, top = j === segs.length - 1;
+      const yy0 = y0 - gap, yy1 = top ? y1 : y1 + 1;
+      if (yy0 - yy1 < 0.5) return;
+      g.append('path').attr('d', top ? colPath(gx, yy0, bw, yy1) : `M${gx},${yy0}V${yy1}H${gx + bw}V${yy0}Z`).attr('fill', colors[s.i]).attr('opacity', opt.partial && opt.partial(r) ? 0.55 : 1);
+    });
+    if (opt.topLabel) g.append('text').attr('class', 'lbl').attr('x', gx + bw / 2).attr('y', y(Math.min(tot(r), y.domain()[1])) - 5).attr('text-anchor', 'middle').text(opt.topLabel(r));
+  });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = opt.every || Math.ceil(rows.length / Math.max(4, Math.floor(iw / 44)));
+  rows.forEach((r, i) => { if (i % every === 0 || (i === rows.length - 1 && (rows.length - 1) % every >= every / 2)) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(r.y) : r.y); });
+  bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih),
+    r => `<b>${opt.xf ? opt.xf(r.y) : r.y}${opt.partial && opt.partial(r) ? ' (' + t('partial') + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], names[i], fmt(r[k]) + (opt.noShare ? '' : ` · ${pct(r[k], tot(r))}`)) : '')).reverse().join('') + trow(null, t('total'), fmt(tot(r))));
+  return { svg, g, x, y, iw, ih, bw };
+}
+
+// ------------------------------------------------------------------ names
+const TERMS_CS = { '1993': '1993–96', '1996': '1996–98', '1998': '1998–02', '2002': '2002–06', '2006': '2006–10', '2010': '2010–13', '2013': '2013–17', '2017': '2017–21', '2021': '2021–25', '2025': '2025–' };
+const tn = k => TERMS_CS[k];
+const INIT = { gov: ['Vláda', 'Government'], mps: ['Poslanci', 'MPs'], senate: ['Senát', 'Senate'], region: ['Krajská zastupitelstva', 'Regional assemblies'] };
+const PRESN = { havel: ['Václav Havel', 'Václav Havel'], klaus: ['Václav Klaus', 'Václav Klaus'], zeman: ['Miloš Zeman', 'Miloš Zeman'], pavel: ['Petr Pavel', 'Petr Pavel'] };
+const KIND = { law: ['Zákony a dekrety', 'Acts and decrees'], govreg: ['Nařízení vlády', 'Government regulations'], decree: ['Vyhlášky ministerstev a úřadů', 'Ministerial decrees'],
+  notice: ['Sdělení, oznámení, úplná znění, opravy', 'Notices, full texts, corrections'], other: ['Ostatní (usnesení, rozhodnutí…)', 'Other (resolutions, decisions…)'] };
+const ERA = { e1: ['1918–1938', '1918–1938'], e2: ['1939–1944', '1939–1944'], e3: ['1945–1947', '1945–1947'], e4: ['1948–1989 (komunistický režim)', '1948–1989 (communist rule)'], e5: ['1990–1992 (ČSFR)', '1990–1992 (Czechoslovakia)'], e6: ['od 1993 (Česká republika)', 'since 1993 (Czech Republic)'] };
+const LAWS = {
+  '634/2004 Sb.': ['Zákon o správních poplatcích', 'Administrative Fees Act'], '586/1992 Sb.': ['Zákon o daních z příjmů', 'Income Taxes Act'],
+  '455/1991 Sb.': ['Živnostenský zákon', 'Trade Licensing Act'], '99/1963 Sb.': ['Občanský soudní řád', 'Code of Civil Procedure'],
+  '141/1961 Sb.': ['Trestní řád', 'Code of Criminal Procedure'], '582/1991 Sb.': ['Zákon o organizaci a provádění sociálního zabezpečení', 'Social Security Administration Act'],
+  '2/1969 Sb.': ['Kompetenční zákon (ministerstva)', 'Competence Act (ministries)'], '48/1997 Sb.': ['Zákon o veřejném zdravotním pojištění', 'Public Health Insurance Act'],
+  '117/1995 Sb.': ['Zákon o státní sociální podpoře', 'State Social Support Act'], '21/1992 Sb.': ['Zákon o bankách', 'Banks Act'],
+  '155/1995 Sb.': ['Zákon o důchodovém pojištění', 'Pension Insurance Act'], '435/2004 Sb.': ['Zákon o zaměstnanosti', 'Employment Act'],
+  '589/1992 Sb.': ['Zákon o pojistném na sociální zabezpečení', 'Social Security Contributions Act'], '353/2003 Sb.': ['Zákon o spotřebních daních', 'Excise Duties Act'],
+  '326/1999 Sb.': ['Zákon o pobytu cizinců', 'Residence of Foreigners Act'], '140/1961 Sb.': ['Trestní zákon (1961)', 'Criminal Act (1961)'],
+  '258/2000 Sb.': ['Zákon o ochraně veřejného zdraví', 'Public Health Protection Act'], '218/2000 Sb.': ['Rozpočtová pravidla', 'Budgetary Rules Act'],
+  '187/2006 Sb.': ['Zákon o nemocenském pojištění', 'Sickness Insurance Act'], '235/2004 Sb.': ['Zákon o dani z přidané hodnoty', 'Value Added Tax Act'],
+  '200/1990 Sb.': ['Zákon o přestupcích (1990)', 'Minor Offences Act (1990)'], '592/1992 Sb.': ['Zákon o pojistném na veřejné zdravotní pojištění', 'Health Insurance Contributions Act'],
+  '361/2000 Sb.': ['Zákon o silničním provozu', 'Road Traffic Act'], '513/1991 Sb.': ['Obchodní zákoník', 'Commercial Code'], '561/2004 Sb.': ['Školský zákon', 'Education Act'],
+  '177/1996 Sb.': ['Advokátní tarif', 'Lawyers\' fee tariff'], '236/1995 Sb.': ['Zákon o platu ústavních činitelů a soudců', 'Salaries of officials and judges'],
+  '85/1996 Sb.': ['Zákon o advokacii', 'Legal Profession Act'], '40/2009 Sb.': ['Trestní zákoník', 'Criminal Code'], '6/2002 Sb.': ['Zákon o soudech a soudcích', 'Courts and Judges Act'],
+  '182/2006 Sb.': ['Insolvenční zákon', 'Insolvency Act'], '50/1976 Sb.': ['Stavební zákon (1976)', 'Building Act (1976)'], '328/1991 Sb.': ['Zákon o konkursu a vyrovnání', 'Bankruptcy and Settlement Act'],
+  '87/1991 Sb.': ['Zákon o mimosoudních rehabilitacích', 'Out-of-Court Rehabilitation Act'],
+};
+const lawName = (cit, title) => LAWS[cit] ? L(...LAWS[cit]) : (title || cit).replace(/^Zákon České národní rady/, 'Zákon');
+const OMNI = {
+  '281/2009 Sb.': ['doprovodný zákon k daňovému řádu', 'accompanying act to the Tax Procedure Code'], '320/2002 Sb.': ['zánik okresních úřadů', 'abolition of district offices'],
+  '218/2025 Sb.': ['správa daní a Celní správa', 'tax administration and customs'], '375/2011 Sb.': ['zákony o zdravotních službách', 'health services acts'],
+  '303/2013 Sb.': ['rekodifikace soukromého práva', 'recodification of private law'], '64/2014 Sb.': ['kontrolní řád', 'Inspection Code'],
+  '298/2016 Sb.': ['služby důvěry pro elektronické transakce', 'trust services for electronic transactions'], '124/2008 Sb.': ['Rejstřík trestů', 'Criminal Records'],
+  '349/2023 Sb.': ['konsolidace veřejných rozpočtů', 'public finance consolidation'], '250/2014 Sb.': ['zákon o státní službě', 'Civil Service Act'],
+  '444/2005 Sb.': ['územní finanční orgány', 'territorial financial authorities'], '277/2019 Sb.': ['nová Sbírka zákonů', 'the new Collection of Laws'],
+};
+const CTRY = { multi: ['Mnohostranné smlouvy', 'Multilateral treaties'], SK: ['Slovensko', 'Slovakia'], PL: ['Polsko', 'Poland'], DE: ['Německo', 'Germany'], AT: ['Rakousko', 'Austria'],
+  US: ['Spojené státy', 'United States'], UA: ['Ukrajina', 'Ukraine'], RU: ['Rusko', 'Russia'], CA: ['Kanada', 'Canada'], FR: ['Francie', 'France'], HU: ['Maďarsko', 'Hungary'],
+  RO: ['Rumunsko', 'Romania'], HR: ['Chorvatsko', 'Croatia'], BG: ['Bulharsko', 'Bulgaria'], CN: ['Čína', 'China'], IL: ['Izrael', 'Israel'], MN: ['Mongolsko', 'Mongolia'],
+  IE: ['Irsko', 'Ireland'], SI: ['Slovinsko', 'Slovenia'], VN: ['Vietnam', 'Vietnam'], AL: ['Albánie', 'Albania'], CH: ['Švýcarsko', 'Switzerland'], LT: ['Litva', 'Lithuania'],
+  KR: ['Korejská republika', 'South Korea'], GB: ['Spojené království', 'United Kingdom'], EE: ['Estonsko', 'Estonia'], LV: ['Lotyšsko', 'Latvia'], BY: ['Bělorusko', 'Belarus'],
+  MD: ['Moldavsko', 'Moldova'], NL: ['Nizozemsko', 'Netherlands'], IT: ['Itálie', 'Italy'], ES: ['Španělsko', 'Spain'], RS: ['Srbsko', 'Serbia'], JP: ['Japonsko', 'Japan'],
+  IN: ['Indie', 'India'], KZ: ['Kazachstán', 'Kazakhstan'], TR: ['Turecko', 'Turkey'], BE: ['Belgie', 'Belgium'], GE: ['Gruzie', 'Georgia'], MK: ['Severní Makedonie', 'North Macedonia'],
+  BA: ['Bosna a Hercegovina', 'Bosnia and Herzegovina'], SE: ['Švédsko', 'Sweden'], DK: ['Dánsko', 'Denmark'], FI: ['Finsko', 'Finland'], NO: ['Norsko', 'Norway'], GR: ['Řecko', 'Greece'],
+  CY: ['Kypr', 'Cyprus'], PT: ['Portugalsko', 'Portugal'], AU: ['Austrálie', 'Australia'], ME: ['Černá Hora', 'Montenegro'], AM: ['Arménie', 'Armenia'], AZ: ['Ázerbájdžán', 'Azerbaijan'],
+  UZ: ['Uzbekistán', 'Uzbekistan'], EG: ['Egypt', 'Egypt'], MX: ['Mexiko', 'Mexico'], BR: ['Brazílie', 'Brazil'], CL: ['Chile', 'Chile'], LU: ['Lucembursko', 'Luxembourg'] };
+const LOC = { waste: ['Odpad (poplatek a systém)', 'Waste (fee and system)'], dogs: ['Psi (poplatek a pohyb)', 'Dogs (fee and leashing)'], repeal: ['Jen zrušení starší vyhlášky', 'Repeal of an older ordinance only'],
+  school: ['Školské obvody', 'School catchment areas'], space: ['Poplatek za veřejné prostranství', 'Fee for using public space'], quiet: ['Noční klid a hlučné činnosti', 'Night-time quiet and noisy activities'],
+  stay: ['Poplatek z pobytu', 'Overnight-stay fee'], fire: ['Požární řád a jednotky', 'Fire safety rules'], proptax: ['Koeficient daně z nemovitostí', 'Property-tax coefficient'],
+  trade: ['Podomní prodej a tržní řád', 'Door-to-door selling and market rules'], nature: ['Ochrana přírody (kraje)', 'Nature protection (regions)'], order: ['Veřejný pořádek a čistota', 'Public order and cleanliness'],
+  roads: ['Místní komunikace a parkování', 'Local roads and parking'], fees: ['Jiné místní poplatky', 'Other local fees'], gambling: ['Regulace hazardu', 'Gambling restrictions'],
+  alcohol: ['Zákaz alkoholu na veřejnosti', 'Public drinking bans'], police: ['Obecní a městská policie', 'Municipal police'], other: ['Ostatní', 'Other'] };
+const KRAJ = { praha: ['Praha', 'Prague'], stredocesky: ['Středočeský', 'Central Bohemian'], jihocesky: ['Jihočeský', 'South Bohemian'], plzensky: ['Plzeňský', 'Plzeň'], karlovarsky: ['Karlovarský', 'Karlovy Vary'],
+  ustecky: ['Ústecký', 'Ústí nad Labem'], liberecky: ['Liberecký', 'Liberec'], kralovehradecky: ['Královéhradecký', 'Hradec Králové'], pardubicky: ['Pardubický', 'Pardubice'], vysocina: ['Vysočina', 'Vysočina'],
+  jihomoravsky: ['Jihomoravský', 'South Moravian'], olomoucky: ['Olomoucký', 'Olomouc'], zlinsky: ['Zlínský', 'Zlín'], moravskoslezsky: ['Moravskoslezský', 'Moravian-Silesian'] };
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, cs, en, dcs, den) => CH.push({ part: true, id, cs, en, dcs, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. Sněmovna a Senát', 'I. The Chamber and the Senate',
+  'Sněmovní tisky, jejich kroky a hlasování z otevřených dat Poslanecké sněmovny (navrhy/data/), od roku 1993. Nejde o právo, ale o cestu, kterou zákon prošel.',
+  'Chamber prints, their steps and votes from the Chamber of Deputies\' open data (navrhy/data/), since 1993. Not law, but the road a law took.');
+
+chart('c01', el => {
+  const c = D.c01, cols = S8(), keys = ['gov', 'mps', 'senate', 'region'], colors = [cols[0], cols[1], cols[2], cols[3]];
+  const full = c.filter(r => r.t !== '2025');
+  const tot = k => [sum(full, r => r[k][0]), sum(full, r => r[k][1])];
+  const g0 = tot('gov'), m0 = tot('mps');
+  return {
+    title: L('Kdo navrhuje zákony a komu projdou: vládě většina, poslancům menšina', 'Who proposes laws and who gets them passed: the government mostly, MPs rarely'),
+    dek: L(`Za každé volební období: kolik návrhů zákonů podala vláda a kolik poslanci (světlý sloupec) a kolik z nich se stalo zákonem (plný sloupec). V letech 1993–2025 se zákonem stalo ${pct(g0[1], g0[0])} vládních návrhů, ale jen ${pct(m0[1], m0[0])} návrhů poslanců.`,
+      `For each term: how many bills the government and MPs filed (light column) and how many of them became law (solid column). In 1993–2025, ${pct(g0[1], g0[0])} of government bills became law, but only ${pct(m0[1], m0[0])} of MPs' bills.`),
+    draw(el) {
+      const ink = css('--s1');
+      legend(el, [{ c: ink + '38', l: L('Podané návrhy', 'Bills filed') }, { c: ink, l: L('Staly se zákonem', 'Became law') }]);
+      const box = el.append('div').attr('class', 'mini');
+      const ymax = d3.max(c, r => Math.max(r.gov[0], r.mps[0]));
+      const panes = ['gov', 'mps'].map(() => box.append('div'));  // both panes exist before either is measured
+      ['gov', 'mps'].forEach((k, pi) => {
+        const p = panes[pi], tt = tot(k);
+        p.append('h4').text(L(...INIT[k]));
+        p.append('p').text(L(`${fmt(tt[1])} z ${fmt(tt[0])} návrhů se stalo zákonem (${pct(tt[1], tt[0])})`, `${fmt(tt[1])} of ${fmt(tt[0])} bills became law (${pct(tt[1], tt[0])})`));
+        const w = W(p), h = 250, m = { t: 18, r: 4, b: 24, l: 34 };
+        const svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const x = d3.scaleBand().domain(c.map(r => r.t)).range([0, iw]).padding(0.22);
+        const y = d3.scaleLinear().domain([0, ymax]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 4);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        c.forEach(r => {
+          const [n, law] = r[k], x0 = x(r.t), bw = x.bandwidth(), op = r.t === '2025' ? .5 : 1;
+          g.append('path').attr('d', colPath(x0, ih, bw, y(n))).attr('fill', ink).attr('fill-opacity', .22 * op);
+          g.append('path').attr('d', colPath(x0, ih, bw, y(law))).attr('fill', ink).attr('fill-opacity', op);
+          g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(n) - 5).attr('text-anchor', 'middle').text(pct(law, n));
+          g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(`’${r.t.slice(2)}`);
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+            d => `<b>${L(...INIT[k])} · ${d.span}${d.t === '2025' ? ' (' + L('probíhá', 'under way') + ')' : ''}</b>` + trow(null, L('Podáno návrhů', 'Bills filed'), fmt(d[k][0])) + trow(ink, L('Staly se zákonem', 'Became law'), fmt(d[k][1])) + trow(null, t('share'), pct(d[k][1], d[k][0])));
+        });
+      });
+      const sen = tot('senate'), reg = tot('region');
+      note(el, ['navrhy/data/bills.csv'], fmt(sum(c, r => sum(keys, k => r[k][0]) + r.other[0])) + L(' návrhů zákonů', ' bills'),
+        L(`popisky osy jsou roky, kdy volební období začalo; období 2025– teprve začalo (světlejší). Návrh se stal zákonem, má-li v poli became druh Zákon nebo Ústavní zákon. Senát podal ${fmt(sen[0])} návrhů (zákonem ${pct(sen[1], sen[0])}), krajská zastupitelstva ${fmt(reg[0])} (${pct(reg[1], reg[0])}); jsou v tabulce. V letech 1993–1996 eviduje psp.cz ${fmt(c[0].other[0])} návrhů bez typu navrhovatele.`,
+          `axis labels are the years each term began; the 2025 term has only begun (lighter). A bill became law when its became field names a Zákon or Ústavní zákon. The Senate filed ${fmt(sen[0])} bills (${pct(sen[1], sen[0])} became law), regional assemblies ${fmt(reg[0])} (${pct(reg[1], reg[0])}); they are in the table. For 1993–1996 psp.cz records ${fmt(c[0].other[0])} bills with no type of proposer.`));
+      table(el, [t('term'), ...keys.flatMap(k => [L(...INIT[k]) + L(' podáno', ' filed'), L('zákonem', 'law')])], c.map(r => [r.span, ...keys.flatMap(k => r[k])]));
+    }
+  };
+});
+
+chart('c02', el => {
+  const c = D.c02.filter(r => r.n >= 10);
+  const BANDS = [[0, 90], [91, 180], [181, 365], [366, 730], [731, 1e9]];
+  const BN = [L('do 3 měsíců', 'up to 3 months'), L('3–6 měsíců', '3–6 months'), L('6–12 měsíců', '6–12 months'), L('1–2 roky', '1–2 years'), L('déle než 2 roky', 'over 2 years')];
+  const rows = c.map(r => ({ ...r, b: BANDS.map(([a, z]) => r.pts.filter(p => p[0] >= a && p[0] <= z).length) }));
+  const full = rows.filter(r => r.t !== '2025');
+  const all = BANDS.map((_, i) => sum(full, r => r.b[i])), N = sum(all);
+  return {
+    title: L('Od předložení do Sbírky: většina zákonů potřebuje tři měsíce až rok', 'From filing to the Collection: most laws take three months to a year'),
+    dek: L(`Každý pruh je jedno volební období: jak dlouho trvala cesta zákona od předložení Sněmovně do vyhlášení ve Sbírce zákonů. ${pct(all[1] + all[2], N)} zákonů ji urazilo za 3 až 12 měsíců, ${pct(all[0], N)} rychleji a ${pct(all[3] + all[4], N)} déle než rok. Vpravo je medián.`,
+      `Each bar is one term: how long a law took from filing in the Chamber to promulgation in the Collection of Laws. ${pct(all[1] + all[2], N)} of laws took 3 to 12 months, ${pct(all[0], N)} were faster and ${pct(all[3] + all[4], N)} took over a year. The median is on the right.`),
+    draw(el) {
+      const ramp = d3.interpolateRgb(css('--seq-lo'), css('--seq-hi')), colors = [0.2, 0.4, 0.6, 0.8, 1].map(ramp);
+      legend(el, BN.map((l, i) => ({ c: colors[i], l })));
+      const w = W(el), nw = narrow(w), rowH = 36, m = { t: 4, r: nw ? 58 : 86, b: 22, l: nw ? 44 : 84 };
+      const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+      [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(pct(v, 1)));
+      rows.forEach((r, i) => {
+        const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(r.b), id = 'c02c' + i;
+        g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+        const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', r.t === '2025' ? .55 : 1);
+        let acc = 0;
+        r.b.forEach((v, j) => {
+          if (!v) return;
+          const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+          row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (j < 4 ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+          if (x1 - x0 > 34) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+            .style('fill', j >= 2 ? '#fff' : css('--text')).style('pointer-events', 'none').text(pct(v, tot));
+        });
+        g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(nw ? r.t : r.span);
+        g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(`${Math.round(r.med)} ${t('days')}`);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${d.span}${d.t === '2025' ? ' (' + L('probíhá', 'under way') + ')' : ''}</b>` + BN.map((l, j) => trow(colors[j], l, `${fmt(d.b[j])} · ${pct(d.b[j], tot)}`)).join('') +
+            trow(null, L('Medián', 'Median'), Math.round(d.med) + ' ' + t('days')) + trow(null, L('Schváleno už v 1. čtení', 'Approved in the 1st reading'), fmt(d.fast)));
+      });
+      note(el, ['navrhy/data/bills.csv (submitted, became_published)', 'navrhy/data/bill-stages.csv'], fmt(sum(rows, r => r.n)) + ' ' + t('laws'),
+        L(`počítá se od předložení tisku do dne vydání částky Sbírky, včetně Senátu, prezidenta a případného vrácení. ${fmt(sum(rows, r => r.fast))} zákonů Sněmovna schválila už v prvním čtení podle § 90 odst. 2 jednacího řádu (v tabulce). Období 2025– teprve začalo (světlejší).`,
+          `counted from the filing of the print to the day the Collection issue came out, including the Senate, the President and any return. ${fmt(sum(rows, r => r.fast))} laws were approved by the Chamber in the first reading under § 90(2) of its Rules of Procedure (in the table). The 2025 term has only begun (lighter).`));
+      table(el, [t('term'), ...BN, L('Medián (dní)', 'Median (days)'), L('V 1. čtení', 'In 1st reading')], rows.map(r => [r.span, ...r.b, Math.round(r.med), r.fast]));
+    }
+  };
+});
+
+chart('c03', el => {
+  const c = D.c03, cols = S8();
+  const keys = ['approved', 'ignored', 'ret_acc', 'ret_ins', 'ret_fail', 'rej_over', 'rej_fail', 'pending'];
+  const colors = [cols[2], cols[5], cols[0], cols[3], cols[7], cols[1], cols[4], css('--muted-mark')];
+  const names = [L('Schválil', 'Approved'), L('Nezabýval se (schváleno lhůtou)', 'Did not deal with it (passed by lapse of time)'),
+    L('Vrátil → Sněmovna přijala pozměňovací návrhy Senátu', 'Returned → Chamber accepted the Senate\'s amendments'), L('Vrátil → Sněmovna setrvala na svém znění', 'Returned → Chamber kept its own version'),
+    L('Vrátil → zákon neprošel', 'Returned → the law failed'), L('Zamítl → Sněmovna ho přehlasovala', 'Rejected → Chamber overrode it'), L('Zamítl → zákon neprošel', 'Rejected → the law failed'), L('Ještě nerozhodnuto / jiné', 'Undecided / other')];
+  const T = {}; keys.forEach(k => T[k] = sum(c, r => r[k]));
+  const N = sum(keys.slice(0, 7), k => T[k]), ret = T.ret_acc + T.ret_ins + T.ret_fail;
+  return {
+    title: L('Co dělá Senát se zákony ze Sněmovny: většinu schválí, každý pátý vrátí', 'What the Senate does with the Chamber\'s bills: approves most, returns one in five'),
+    dek: L(`Z ${fmt(N)} návrhů zákonů, o kterých Senát rozhodl od roku 1996, jich ${pct(ret, N)} vrátil s pozměňovacími návrhy a ${pct(T.rej_over + T.rej_fail, N)} zamítl. U vrácených zákonů Sněmovna v ${pct(T.ret_acc, ret)} případů přijala senátní znění.`,
+      `Of the ${fmt(N)} bills the Senate decided on since 1996, it returned ${pct(ret, N)} with amendments and rejected ${pct(T.rej_over + T.rej_fail, N)}. For the returned bills, the Chamber accepted the Senate's version in ${pct(T.ret_acc, ret)} of cases.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const w = W(el), nw = narrow(w), rowH = 30, m = { t: 6, r: 52, b: 22, l: nw ? 44 : 80 };
+      const h = m.t + m.b + rowH * c.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+      [0, .25, .5, .75, 1].forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rowH * c.length).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rowH * c.length + 14).attr('text-anchor', 'middle').text(pct(v, 1)); });
+      c.forEach((r, i) => {
+        const tot = sum(keys, k => r[k]), y0 = i * rowH + 5, bh = rowH - 10;
+        let acc = 0;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(nw ? r.t : r.span);
+        keys.forEach((k, j) => { if (!r[k]) return; const x0 = x(acc / tot), x1 = x((acc + r[k]) / tot); acc += r[k];
+          g.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - 1)).attr('y', y0).attr('height', bh).attr('fill', colors[j]); });
+        g.append('text').attr('class', 'lbl').attr('x', iw + 8).attr('y', y0 + bh / 2 + 4).text(fmt(tot));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${d.span}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join(''));
+      });
+      note(el, ['navrhy/data/bill-stages.csv', 'navrhy/data/bills.csv'], fmt(sum(c, r => sum(keys, k => r[k]))) + L(' návrhů zákonů doručených Senátu', ' bills delivered to the Senate'),
+        L('výsledek je odvozen z kroků tisku na psp.cz (Senát doručen; Sněmovna (Senát) vrácen / zamítnut; Prezident schválen / nezabýval se / pozm. přijat / setrváno). Senát zasedá od prosince 1996.',
+          'the outcome is read from the print\'s steps on psp.cz (Senate delivered; Chamber (Senate) returned / rejected; President approved / not dealt with / amendments accepted / insisted). The Senate has sat since December 1996.'));
+      table(el, [t('term'), ...names, t('total')], c.map(r => [r.span, ...keys.map(k => r[k]), sum(keys, k => r[k])]));
+    }
+  };
+});
+
+chart('c04', el => {
+  const c = D.c04, cols = S8(), pres = ['havel', 'klaus', 'zeman', 'pavel'];
+  const OC = { over: [L('Sněmovna veto přehlasovala', 'The Chamber overrode the veto'), cols[0]], kept: [L('Zákon neprošel', 'The law failed'), cols[7]], lapsed: [L('Zaniklo s koncem volebního období', 'Lapsed at the end of the term'), css('--muted-mark')] };
+  const SPAN = { havel: ['1993-02-02', '2003-02-02'], klaus: ['2003-03-07', '2013-03-07'], zeman: ['2013-03-08', '2023-03-08'], pavel: ['2023-03-09', PF.built] };
+  const st = p => { const v = c.filter(x => x.p === p), yrs = (new Date(SPAN[p][1]) - new Date(SPAN[p][0])) / 31557600000;
+    return { n: v.length, over: v.filter(x => x.o === 'over').length, kept: v.filter(x => x.o === 'kept').length, lapsed: v.filter(x => x.o === 'lapsed').length, py: v.length / yrs }; };
+  const K = st('klaus'), over = c.filter(v => v.o === 'over').length;
+  return {
+    title: L(`Prezidentské veto: Václav Klaus vracel ${dec(K.py, 1)} zákona ročně, Sněmovna většinu vet přehlasovala`, `The presidential veto: Václav Klaus returned ${dec(K.py, 1)} laws a year, and the Chamber overrode most vetoes`),
+    dek: L(`Každá tečka je jeden zákon, který prezident vrátil Sněmovně (čl. 50 Ústavy), po pololetích. Z ${fmt(c.length)} vet jich Sněmovna přehlasovala ${fmt(over)} (${pct(over, c.length)}). Nejvyšší sloupec je první pololetí 2006, konec volebního období 2002–2006.`,
+      `Each dot is one law the President returned to the Chamber (art. 50 of the Constitution), by half-year. Of ${fmt(c.length)} vetoes the Chamber overrode ${fmt(over)} (${pct(over, c.length)}). The tallest column is the first half of 2006, the end of the 2002–2006 term.`),
+    draw(el) {
+      legend(el, Object.values(OC).map(([l, cc]) => ({ c: cc, l, shape: 'dot' })));
+      // one card per president
+      const cards = el.append('div').attr('class', 'ptiles');
+      pres.forEach(p => {
+        const s = st(p), d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').text(L(...PRESN[p]));
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(s.n)}</b> ${L(s.n === 1 ? 'veto' : s.n < 5 ? 'veta' : 'vet', s.n === 1 ? 'veto' : 'vetoes')}`);
+        d.append('div').attr('class', 'ps').text(L(`${dec(s.py, 1)} ročně · přehlasováno ${pct(s.over, s.n)}`, `${dec(s.py, 1)} a year · ${pct(s.over, s.n)} overridden`));
+        const bar = d.append('div').attr('class', 'pbar');
+        ['over', 'kept', 'lapsed'].forEach(k => { if (s[k]) bar.append('i').style('flex', s[k]).style('background', OC[k][1]); });
+      });
+      const w = W(el), nw = narrow(w), pd = d3.timeParse('%Y-%m-%d');
+      const bins = new Map();
+      c.forEach(v => { const dt = pd(v.d), key = dt.getFullYear() + (dt.getMonth() >= 6 ? .5 : 0); if (!bins.has(key)) bins.set(key, []); bins.get(key).push(v); });
+      const ORD = { over: 0, kept: 1, lapsed: 2 };
+      const maxN = d3.max([...bins.values()], b => b.length), step = nw ? 6 : 8, r = nw ? 2.4 : 3.3;
+      const m = { t: 26, r: 8, b: 24, l: 8 }, ih = maxN * step + 6, h = m.t + m.b + ih;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleTime().domain([new Date(1993, 0, 1), new Date(2027, 0, 1)]).range([0, iw]);
+      pres.forEach((p, i) => {
+        const x0 = x(pd(SPAN[p][0])), x1 = x(pd(SPAN[p][1]));
+        if (i % 2 === 0) g.append('rect').attr('x', x0).attr('width', x1 - x0).attr('y', -m.t + 4).attr('height', ih + m.t - 4).attr('rx', 6).attr('fill', css('--surface-2'));
+        g.append('text').attr('class', 'lbl strong').attr('x', (x0 + x1) / 2).attr('y', -10).attr('text-anchor', 'middle').text(nw ? L(...PRESN[p]).split(' ')[1] : L(...PRESN[p]));
+      });
+      x.ticks(nw ? 5 : 10).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v.getFullYear()));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const pts = [];
+      bins.forEach((vs, key) => {
+        const cx = x(new Date(Math.floor(key), key % 1 ? 9 : 3, 1));
+        vs.sort((a, b) => ORD[a.o] - ORD[b.o] || a.d.localeCompare(b.d)).forEach((v, k) => pts.push({ v, cx, cy: ih - 4 - k * step }));
+      });
+      bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => p.cx).attr('cy', p => p.cy).attr('r', r).attr('fill', p => OC[p.v.o][1]),
+        p => `<b>${esc(p.v.title)}</b>` + trow(null, L('Vráceno', 'Returned'), dateTxt(p.v.d)) + trow(null, L('Prezident', 'President'), L(...PRESN[p.v.p])) +
+          trow(null, L('Sněmovní tisk', 'Chamber print'), `${p.v.print} (${tn(p.v.term)})`) + trow(OC[p.v.o][1], L('Výsledek', 'Outcome'), OC[p.v.o][0]) + (p.v.became ? trow(null, L('Vyhlášeno jako', 'Promulgated as'), p.v.became) : ''));
+      note(el, ['navrhy/data/bill-stages.csv (Sněmovna (Prezident): nepodepsal)'], fmt(c.length) + L(' vet', ' vetoes'),
+        L('datum je den kroku „nepodepsal“ v historii tisku; počet za rok je počet vet dělený délkou funkčního období (u Petra Pavla dosud). Ústavní zákony prezident vrátit nemůže; přehlasování vyžaduje 101 hlasů.',
+          'the date is that of the "did not sign" step in the print\'s history; vetoes a year divide the count by the time in office (for Petr Pavel so far). The President cannot return constitutional acts; an override needs 101 votes.'));
+      table(el, [L('Datum', 'Date'), L('Prezident', 'President'), L('Návrh', 'Bill'), L('Výsledek', 'Outcome')], c.map(v => [v.d, L(...PRESN[v.p]), v.title, OC[v.o][0]]));
+    }
+  };
+});
+
+chart('c05', el => {
+  const c = D.c05.filter(r => r.mps >= 10), terms = [...new Set(c.map(r => r.t))];
+  const lo = c.reduce((a, b) => a.rice < b.rice ? a : b), hi = c.reduce((a, b) => a.rice > b.rice ? a : b);
+  const byT = terms.map(tt => ({ t: tt, rows: c.filter(r => r.t === tt) }));
+  const mean = tt => d3.mean(c.filter(r => r.t === tt), r => r.rice);
+  return {
+    title: L('Jak jednotně hlasují poslanci téže kandidátky: čím dál jednotněji', 'How united MPs elected on the same list vote: more and more'),
+    dek: L(`Riceův index pro každé hlasování a každou kandidátku: |pro − proti| / (pro + proti) mezi jejími poslanci; 1 znamená, že všichni hlasovali stejně. Průměr všech kandidátek vzrostl z ${dec(mean(terms[0]), 2)} v prvním období na ${dec(mean(terms[terms.length - 1]), 2)} v posledním.`,
+      `The Rice index for every vote and every electoral list: |yes − no| / (yes + no) among its MPs; 1 means they all voted the same way. The average over all lists rose from ${dec(mean(terms[0]), 2)} in the first term to ${dec(mean(terms[terms.length - 1]), 2)} in the latest.`),
+    draw(el) {
+      const cols = S8(), w = W(el), nw = narrow(w), rowH = 58, m = { t: 14, r: 16, b: 34, l: nw ? 58 : 84 };
+      const h = m.t + m.b + rowH * byT.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0.7, 1]).range([0, iw]);
+      [0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1].forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rowH * byT.length).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rowH * byT.length + 16).attr('text-anchor', 'middle').text(dec(v, 2)); });
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', rowH * byT.length + 30).attr('text-anchor', 'end').text(L('průměrný Riceův index (1 = úplná jednota)', 'average Rice index (1 = complete unity)'));
+      byT.forEach((b, i) => {
+        const cy = i * rowH + rowH / 2;
+        g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', cy).attr('y2', cy).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', cy + 4).attr('text-anchor', 'end').text(nw ? b.t : tn(b.t));
+        const rows = b.rows.slice().sort((a, z) => z.mps - a.mps);  // bigger lists get the nearer label lanes
+        const lanes = [cy - 9, cy + 17, cy - 20, cy + 28], used = lanes.map(() => []);
+        rows.forEach(r => {
+          const xx = x(Math.max(0.7, r.rice));
+          bindTip(g.append('circle').attr('cx', xx).attr('cy', cy).attr('r', 5).attr('fill', cols[0]).attr('fill-opacity', .8).attr('stroke', css('--surface')).attr('stroke-width', 1.5).datum(r),
+            d => `<b>${esc(d.l)} · ${tn(d.t)}</b>` + trow(null, L('Riceův index', 'Rice index'), dec(d.rice, 3)) + trow(null, L('Poslanců zvolených', 'MPs elected'), fmt(d.mps)) + trow(null, L('Hlasování', 'Votes'), fmt(d.nv)) + trow(null, L('Průměrná účast', 'Average attendance'), pct(d.part, 1)));
+          if (nw && r !== lo && r !== hi) return;
+          const tw = r.l.length * 6 + 6, a0 = Math.min(Math.max(xx - tw / 2, 0), iw - tw), span = [a0, a0 + tw];
+          const li = used.findIndex(u => !u.some(s => !(span[1] < s[0] || span[0] > s[1])));
+          if (li < 0) return;
+          used[li].push(span);
+          g.append('text').attr('class', 'lbl').attr('x', a0 + tw / 2).attr('y', lanes[li]).attr('text-anchor', 'middle').text(r.l);
+        });
+      });
+      note(el, ['navrhy/data/votes/<období>-poslanci.csv', 'navrhy/data/votes/poslanci.csv'], fmt(sum(c, r => r.nv)) + L(' hlasování × kandidátka', ' list × vote pairs'),
+        L('kandidátka je ta, za kterou byl poslanec zvolen (elected_for), ne pozdější klub; počítají se jen hlasování v běžném režimu, která nebyla zmatečná, a kandidátky s nejméně pěti hlasujícími pro nebo proti. Zdržení se a nepřítomnost do indexu nevstupují.',
+          'the list is the one an MP was elected on (elected_for), not a later caucus; only ordinary, non-void votes count, and lists with at least five MPs voting yes or no. Abstentions and absences do not enter the index.'));
+      table(el, [t('term'), L('Kandidátka', 'List'), L('Riceův index', 'Rice index'), L('Poslanců', 'MPs'), L('Účast', 'Attendance')], c.map(r => [tn(r.t), r.l, dec(r.rice, 3), r.mps, pct(r.part, 1)]));
+    }
+  };
+});
+
+chart('c06', el => {
+  const c = D.c06.filter(r => r.n >= 20), cols = S8();
+  const last = c.filter(r => r.t !== '2025').slice(-1)[0];
+  return {
+    title: L('Zákony procházejí širokou většinou: mnohé bez jediného hlasu proti', 'Laws pass by wide majorities: many without a single vote against'),
+    dek: L(`Každá tečka je závěrečné hlasování o jednom zákoně ve třetím čtení: kolik poslanců hlasovalo pro. Ve volebním období ${last.span} prošlo ${pct(last.no0, last.n)} zákonů bez jediného hlasu proti a ${pct(last.ge120, last.n)} se 120 a více hlasy.`,
+      `Each dot is the final vote on one law in the third reading: how many MPs voted yes. In the ${last.span} term, ${pct(last.no0, last.n)} of laws passed without a single vote against and ${pct(last.ge120, last.n)} with 120 or more votes.`),
+    draw(el) {
+      legend(el, [{ c: cols[0], l: L('Vládní návrh', 'Government bill'), shape: 'dot' }, { c: cols[1], l: L('Jiný navrhovatel', 'Other proposer'), shape: 'dot' }]);
+      const w = W(el), nw = narrow(w), rowH = 42, m = { t: 22, r: nw ? 44 : 96, b: 34, l: nw ? 40 : 78 };
+      const h = m.t + m.b + rowH * c.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([60, 200]).range([0, iw]);
+      [60, 80, 100, 120, 140, 160, 180, 200].forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rowH * c.length).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rowH * c.length + 16).attr('text-anchor', 'middle').text(v); });
+      [[101, L('101: většina všech poslanců', '101: majority of all MPs')], [120, L('120: třípětinová většina', '120: three-fifths majority')]].forEach(([v, l], j) => {
+        g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', -4).attr('y2', rowH * c.length).attr('stroke', css('--text-3')).attr('stroke-dasharray', '3 3');
+        if (!nw) g.append('text').attr('class', 'lbl mut').attr('x', x(v) + (j ? 4 : -4)).attr('y', -8).attr('text-anchor', j ? 'start' : 'end').text(l);
+      });
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', rowH * c.length + 30).attr('text-anchor', 'end').text(L('hlasů pro ze 200', 'yes votes out of 200'));
+      g.append('text').attr('class', 'lbl mut').attr('x', iw + 8).attr('y', -8).text(L('0 proti', '0 against'));
+      c.forEach((r, i) => {
+        const cy = i * rowH + rowH / 2, rnd = d3.randomLcg(+r.t + 7);
+        g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', cy + 4).attr('text-anchor', 'end').text(nw ? r.t : r.span);
+        g.append('g').selectAll('circle').data(r.pts).join('circle').attr('cx', p => x(Math.max(60, p[0]))).attr('cy', () => cy + (rnd() - 0.5) * (rowH - 14)).attr('r', 2.3).attr('fill', p => p[2] ? cols[0] : cols[1]).attr('opacity', .45);
+        g.append('line').attr('x1', x(r.med)).attr('x2', x(r.med)).attr('y1', cy - 13).attr('y2', cy + 13).attr('stroke', css('--text')).attr('stroke-width', 2.5);
+        g.append('text').attr('class', 'lbl strong').attr('x', iw + 8).attr('y', cy + 4).text(pct(r.no0, r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy - rowH / 2).attr('height', rowH).datum(r),
+          d => `<b>${d.span}</b>` + trow(null, L('Zákonů', 'Laws'), fmt(d.n)) + trow(null, L('Medián hlasů pro', 'Median yes votes'), d.med) + trow(null, L('Se 120 a více hlasy', 'With 120 or more votes'), `${fmt(d.ge120)} · ${pct(d.ge120, d.n)}`) + trow(null, L('Bez hlasu proti', 'With no vote against'), `${fmt(d.no0)} · ${pct(d.no0, d.n)}`));
+      });
+      note(el, ['navrhy/data/bill-stages.csv (Odesíláno do Senátu: souhlas, vote_id)', 'navrhy/data/votes/<období>.csv'], fmt(sum(c, r => r.n)) + L(' závěrečných hlasování', ' final votes'),
+        L('hlasování je to, které psp.cz připojuje ke kroku „odesíláno do Senátu: souhlas“; svislá čára je medián. Pro období 1993–1998 tento krok hlasování nemá.', 'the vote is the one psp.cz attaches to the step "sent to the Senate: approved"; the vertical line is the median. Before 1998 that step carries no vote.'));
+      table(el, [t('term'), L('Zákonů', 'Laws'), L('Medián pro', 'Median yes'), L('≥ 120 pro', '≥ 120 yes'), L('0 proti', '0 against')], c.map(r => [r.span, r.n, r.med, r.ge120, r.no0]));
+    }
+  };
+});
+
+chart('c07', el => {
+  const c = D.c07, grid = new Map(c.grid.map(([d, h, n]) => [d + ':' + h, n]));
+  const late = sum(c.grid.filter(([d, h]) => h >= 22 || h < 6), x => x[2]);
+  const sh = c.small_hours;
+  const WD = L(['po', 'út', 'st', 'čt', 'pá', 'so', 'ne'], ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']);
+  return {
+    title: L('Kdy Sněmovna hlasuje: od úterka do pátku, občas dlouho do noci', 'When the Chamber votes: Tuesday to Friday, sometimes deep into the night'),
+    dek: L(`Každé políčko je jedna hodina v týdnu; čím tmavší, tím víc hlasování v ní od roku 1993 proběhlo. Po 22. hodině a před 6. ranní se hlasovalo ${fmt(late)}krát; nejvíc po půlnoci ${dateTxt(sh[0][0])} (${fmt(sh[0][1])} hlasování).`,
+      `Each cell is one hour of the week; the darker, the more votes took place in it since 1993. ${fmt(late)} votes were held after 10 pm or before 6 am; the most after midnight on ${dateTxt(sh[0][0])} (${fmt(sh[0][1])} votes).`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), m = { t: 20, r: 8, b: 8, l: 34 };
+      const iw = w - m.l - m.r, cw = iw / 24, ch = Math.max(18, Math.min(30, cw * 0.9)), h = m.t + m.b + 7 * ch;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const mx = d3.max(c.grid, x => x[2]);
+      const col = d3.scaleSequentialSqrt(d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'))).domain([0, mx]);
+      for (let hh = 0; hh < 24; hh += nw ? 3 : 2) g.append('text').attr('class', 'lbl').attr('x', hh * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(hh);
+      WD.forEach((d, i) => g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', i * ch + ch / 2 + 4).attr('text-anchor', 'end').text(d));
+      const cells = [];
+      for (let d = 0; d < 7; d++) for (let hh = 0; hh < 24; hh++) cells.push({ d, hh, n: grid.get(d + ':' + hh) || 0 });
+      bindTip(g.selectAll('rect.c').data(cells).join('rect').attr('class', 'c').attr('x', p => p.hh * cw + 1).attr('y', p => p.d * ch + 1).attr('width', cw - 2).attr('height', ch - 2).attr('rx', 3)
+        .attr('fill', p => p.n ? col(p.n) : css('--surface-2')),
+        p => `<b>${WD[p.d]} ${p.hh}:00–${p.hh}:59</b>` + trow(null, L('Hlasování', 'Votes'), fmt(p.n)) + trow(null, t('share'), pct(p.n, c.n, 1)));
+      note(el, ['navrhy/data/votes/<období>.csv (date, time)'], fmt(c.n) + L(' hlasování', ' votes'),
+        L('nejvíc hlasování po půlnoci: ' + sh.slice(0, 5).map(([d, n]) => `${dateShort(d)} (${n})`).join(', ') + '. Pro období 1996–1998 a 2002–2006 psp.cz uvádí časy jen v denních hodinách.',
+          'the most votes after midnight: ' + sh.slice(0, 5).map(([d, n]) => `${dateShort(d)} (${n})`).join(', ') + '. For 1996–1998 and 2002–2006 psp.cz gives times in daytime hours only.'));
+      table(el, [t('term'), L('Hlasování', 'Votes'), L('Po 22. a před 6. hodinou', 'After 10 pm or before 6 am'), t('share')], c.terms.map(([tt, n, l]) => [tn(tt), n, l, pct(l, n, 1)]));
+    }
+  };
+});
+
+part('p2', 'II. Sbírka zákonů', 'II. The Collection of Laws',
+  'Každý předpis Sbírky zákonů od roku 1945 a každá jeho změna jako commit: autorem je předpis, který změnu provedl, datem den účinnosti. Konsolidované texty pocházejí z e-Sbírky.',
+  'Every act of the Collection of Laws since 1945 and every change to it as a commit: the author is the act that made the change, the date is the day it took effect. The consolidated texts come from e-Sbírka.');
+
+chart('c08', el => {
+  const c = D.c08, cols = S8(), keys = ['law', 'govreg', 'decree', 'notice', 'other'], colors = [cols[0], cols[2], cols[3], css('--muted-mark'), cols[6]];
+  const tot = r => sum(keys, k => r[k] || 0);
+  const post = c.filter(r => r.y >= 1993 && r.y <= 2025), avg = sum(post, tot) / post.length;
+  const mx = c.reduce((a, b) => tot(a) > tot(b) ? a : b);
+  return {
+    title: L('Kolik předpisů vychází ve Sbírce zákonů: v průměru přes 400 ročně', 'How many items the Collection of Laws publishes: over 400 a year on average'),
+    dek: L(`Každý sloupec je jeden ročník Sbírky podle druhu předpisu. Od roku 1993 vyšlo průměrně ${fmt(Math.round(avg))} předpisů a sdělení ročně; nejvíc v roce ${mx.y} (${fmt(tot(mx))}). Zákony tvoří jen menšinu: většinu tvoří vyhlášky ministerstev a sdělení.`,
+      `Each column is one year of the Collection by kind of item. Since 1993 an average of ${fmt(Math.round(avg))} acts and notices a year have been published; the most in ${mx.y} (${fmt(tot(mx))}). Acts of Parliament are a minority: most items are ministerial decrees and notices.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...KIND[k]) })));
+      stackedColumns(el, c, keys, colors, keys.map(k => L(...KIND[k])), { partial: r => r.y === 2026, pad: 0.15, every: 5 });
+      note(el, ['sb/<rok>/<číslo>.md (první commit každého souboru)'], fmt(sum(c, tot)) + L(' položek', ' items'),
+        L('počítá se každá položka Sbírky, i ta, kterou e-Sbírka zveřejňuje jen ve vyhlášeném znění; druh je podle e-Sbírky. Rok 2026 je neúplný. Předpisy z let 1918–1944 jsou v repozitáři jen zčásti, proto graf začíná rokem 1945.',
+          'every item of the Collection counts, including those e-Sbírka publishes only as promulgated; the kind is e-Sbírka\'s. 2026 is partial. Acts of 1918–1944 are only partly in the repository, so the chart starts in 1945.'));
+      table(el, [t('year'), ...keys.map(k => L(...KIND[k])), t('total')], c.map(r => [String(r.y), ...keys.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+chart('c09', el => {
+  const c = D.c09.rows.filter(r => r.g !== 'other'), cols = S8(), eras = ['e1', 'e3', 'e4', 'e5', 'e6'];
+  const colors = [cols[6], cols[4], cols[7], cols[3], cols[0]];
+  const tot = r => sum(eras, e => r[e] || 0), pre = r => sum(eras.slice(0, 4), e => r[e] || 0);
+  const dc = c.find(r => r.g === 'decree'), lw = c.find(r => r.g === 'law');
+  return {
+    title: L('Co z minulosti stále platí: stovky předpisů z doby před rokem 1993', 'What from the past is still in force: hundreds of acts from before 1993'),
+    dek: L(`Konsolidované předpisy, které jsou dnes v účinnosti, podle doby vyhlášení. ${fmt(pre(lw))} zákonů a ${fmt(pre(dc))} vyhlášek je starších než Česká republika; z komunistického období platí ${fmt(lw.e4)} zákonů a ${fmt(dc.e4)} vyhlášek.`,
+      `The consolidated acts in force today, by when they were promulgated. ${fmt(pre(lw))} acts of Parliament and ${fmt(pre(dc))} decrees are older than the Czech Republic; ${fmt(lw.e4)} acts and ${fmt(dc.e4)} decrees from the communist period are still in force.`),
+    draw(el) {
+      legend(el, eras.map((e, i) => ({ c: colors[i], l: L(...ERA[e]) })));
+      const w = W(el), nw = narrow(w), rowH = 54, m = { t: 6, r: 16, b: 24, l: nw ? 110 : 210 };
+      const h = m.t + m.b + rowH * c.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, d3.max(c, tot)]).nice().range([0, iw]);
+      x.ticks(5).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rowH * c.length).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rowH * c.length + 14).attr('text-anchor', 'middle').text(fmt(v)); });
+      c.forEach((r, i) => {
+        const y0 = i * rowH + 10, bh = rowH - 20; let acc = 0;
+        g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(L(...KIND[r.g]));
+        eras.forEach((e, j) => { const v = r[e] || 0; if (!v) return; const x0 = x(acc), x1 = x(acc + v); acc += v;
+          bindTip(g.append('rect').attr('x', x0).attr('width', Math.max(0.5, x1 - x0 - 1)).attr('y', y0).attr('height', bh).attr('fill', colors[j]).datum({ r, e, v }),
+            d => `<b>${L(...KIND[d.r.g])}</b>` + trow(colors[j], L(...ERA[d.e]), `${fmt(d.v)} · ${pct(d.v, tot(d.r))}`));
+          if (x1 - x0 > 34) g.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle').style('fill', '#fff').style('pointer-events', 'none').text(fmt(v)); });
+      });
+      note(el, ['sb/ (soubory na konci main)'], fmt(sum(c, tot)) + L(' předpisů v účinnosti', ' acts in force'),
+        L('předpis je v účinnosti, pokud jeho soubor na main existuje (soubor se odstraní den po konci poslední verze). Bez předpisů, které e-Sbírka nekonsoliduje (sdělení, oznámení a položky jen ve vyhlášeném znění). Z let 1939–1944 e-Sbírka nic neobsahuje.',
+          'an act is in force when its file exists on main (a file is removed the day after its last version ends). Excludes items e-Sbírka does not consolidate (notices and items only as promulgated). e-Sbírka holds nothing from 1939–1944.'));
+      table(el, [L('Druh', 'Kind'), ...eras.map(e => L(...ERA[e])), t('total')], c.map(r => [L(...KIND[r.g]), ...eras.map(e => r[e] || 0), tot(r)]));
+    }
+  };
+});
+
+chart('c16', el => {
+  const c = D.c16, cols = S8(), keys = ['enterprise', 'prices', 'supply', 'agri', 'labour', 'transport', 'tax', 'other'];
+  const colors = [cols[7], cols[3], cols[1], cols[5], cols[4], cols[6], cols[2], css('--muted-mark')];
+  const UT = { enterprise: ['Národní podniky (zřízení, slučování)', 'National enterprises (founding, merging)'], prices: ['Ceny', 'Prices'], supply: ['Zásobování, dodávky, příděly', 'Supply, deliveries, rationing'],
+    agri: ['Zemědělství a lesy', 'Agriculture and forests'], labour: ['Mzdy, práce, pojištění', 'Wages, labour, insurance'], transport: ['Doprava a pošta', 'Transport and post'], tax: ['Daně a poplatky', 'Taxes and fees'], other: ['Ostatní', 'Other'] };
+  const rows = c.rows.map(r => ({ ...r, y: r.y }));
+  const tot = r => sum(keys, k => r[k] || 0);
+  const r48 = rows.find(r => r.y === 1948);
+  return {
+    title: L('Úřední list 1945–1961: znárodnění, ceny a příděly', 'The Official Journal 1945–1961: nationalisation, prices and rationing'),
+    dek: L(`Vedle Sbírky zákonů vycházel v letech 1945–1961 Úřední list, kde ministerstva a úřady vyhlašovaly své vyhlášky. V roce 1948 tvořilo ${pct(r48.enterprise, tot(r48))} z ${fmt(tot(r48))} vyhlášek zřizování, slučování a rušení národních podniků.`,
+      `Alongside the Collection of Laws, the Official Journal (Úřední list) of 1945–1961 carried the decrees of ministries and offices. In 1948, ${pct(r48.enterprise, tot(r48))} of its ${fmt(tot(r48))} decrees founded, merged or dissolved national enterprises.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...UT[k]) })));
+      stackedColumns(el, rows, keys, colors, keys.map(k => L(...UT[k])), { pad: 0.2, bw: 34, topLabel: r => fmt(tot(r)) });
+      note(el, ['ul/<rok>/<číslo>.md'], fmt(c.n) + L(' vyhlášek', ' decrees'),
+        L('téma je určeno podle slov v názvu (pravidla v src/prep.py); název, který žádnému pravidlu neodpovídá, je „Ostatní“. Rok je ročník Úředního listu.', 'the topic is read from words in the title (rules in src/prep.py); a title no rule matches is "Other". The year is the Official Journal\'s volume.'));
+      table(el, [t('year'), ...keys.map(k => L(...UT[k])), t('total')], rows.map(r => [String(r.y), ...keys.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+chart('c10', el => {
+  const c = D.c10, cols = S8(), keys = ['law', 'govreg', 'decree'], colors = [cols[0], cols[2], cols[3]];
+  const tot = r => sum(keys, k => r[k] || 0);
+  const mx = c.filter(r => r.y < 2026).reduce((a, b) => tot(a) > tot(b) ? a : b);
+  const a90 = d3.mean(c.filter(r => r.y >= 1993 && r.y <= 1999), tot), a20 = d3.mean(c.filter(r => r.y >= 2019 && r.y <= 2025), tot);
+  return {
+    title: L('Tempo novelizací: každý rok se mění stovky předpisů', 'The pace of amendment: hundreds of acts change every year'),
+    dek: L(`Každý sloupec počítá nová znění předpisů, která v daném roce nabyla účinnosti (jedna změna jednoho předpisu k jednomu dni). V letech 1993–1999 jich bylo průměrně ${fmt(Math.round(a90))} ročně, v letech 2019–2025 ${fmt(Math.round(a20))}; nejvíc v roce ${mx.y} (${fmt(tot(mx))}).`,
+      `Each column counts the new versions of acts that took effect that year (one change to one act on one day). In 1993–1999 there were ${fmt(Math.round(a90))} a year on average, in 2019–2025 ${fmt(Math.round(a20))}; the most in ${mx.y} (${fmt(tot(mx))}).`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...KIND[k]) })));
+      const r = stackedColumns(el, c, keys, colors, keys.map(k => L(...KIND[k])), { partial: r => r.y === 2026, pad: 0.2 });
+      note(el, ['git log --name-status -- sb/'], fmt(sum(c, tot)) + L(' nových znění', ' new versions'),
+        L('verze bez změny textu commit nemají, a proto se nepočítají; opravy e-Sbírky (Kind: correction) také ne. Počty závisí na tom, jak úplně e-Sbírka konsolidovala starší znění. Rok 2026 je neúplný.', 'versions that changed no text have no commit and are not counted; nor are e-Sbírka\'s corrections (Kind: correction). The counts depend on how fully e-Sbírka consolidated older versions. 2026 is partial.'));
+      table(el, [t('year'), ...keys.map(k => L(...KIND[k])), t('total'), L('Novelizujících předpisů', 'Amending acts')], c.map(r => [String(r.y), ...keys.map(k => r[k] || 0), tot(r), r.acts]));
+    }
+  };
+});
+
+chart('c11', el => {
+  const c = D.c11, Y0 = 1990, Y1 = 2026, YRS = d3.range(Y0, Y1 + 1);
+  const rows = c.map(r => { const by = {}; r.days.forEach(d => { const y = +d.slice(0, 4); if (y >= Y0) by[y] = (by[y] || 0) + 1; });
+    const born = Math.max(Y0, +r.first.slice(0, 4)), end = r.now ? Y1 : +r.days[r.days.length - 1].slice(0, 4);
+    return { ...r, by, born, end, peak: d3.max(Object.values(by)) }; });
+  const top = rows[0], pk = rows.reduce((a, b) => (a.peak > b.peak ? a : b));
+  const pkY = Object.entries(pk.by).find(([, n]) => n === pk.peak)[0];
+  return {
+    title: L(`Nejčastěji měněné zákony: ${lawName(top.cit).toLowerCase()} se měnil ${top.n}krát`, `The most-changed laws: the ${lawName(top.cit)} changed ${top.n} times`),
+    dek: L(`Každý řádek je jeden zákon, každé políčko jeden rok: čím tmavší, tím víckrát v tom roce nabylo účinnosti nové znění. Nejvíc změn za jediný rok má ${lawName(pk.cit, pk.title).toLowerCase()} (${pk.peak} v roce ${pkY}). Šedé řádky jsou zákony, které už neplatí.`,
+      `Each row is one law, each cell one year: the darker, the more often a new version took effect that year. The most changes in a single year belong to the ${lawName(pk.cit, pk.title)} (${pk.peak} in ${pkY}). Grey rows are laws no longer in force.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), rowH = 21, m = { t: 20, r: nw ? 30 : 64, b: 4, l: nw ? 130 : 270 };
+      const iw = w - m.l - m.r, cw = iw / YRS.length, h = m.t + m.b + rowH * rows.length;
+      const mx = d3.max(rows, r => r.peak), ramp = d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+      const col = n => ramp(0.15 + 0.85 * Math.sqrt(n / mx));
+      legend(el, [1, 3, 6, mx].map(n => ({ c: col(n), l: n === mx ? L(`${n} změn za rok`, `${n} changes a year`) : String(n) })).concat([{ c: css('--surface-2'), l: L('rok beze změny', 'a year without change') }]));
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      YRS.forEach((y, j) => { if (y % (nw ? 10 : 5) === 0) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(y); });
+      const xb = d3.scaleLinear().domain([0, d3.max(rows, r => r.n)]).range([0, m.r - (nw ? 4 : 30)]);
+      rows.forEach((r, i) => {
+        const cy = i * rowH;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 14).attr('text-anchor', 'end').style('fill', r.now ? null : css('--text-3')).text(lawName(r.cit, r.title));
+        YRS.forEach((y, j) => {
+          if (y < r.born || y > r.end) return;
+          const n = r.by[y] || 0;
+          g.append('rect').attr('x', j * cw + 0.75).attr('y', cy + 2).attr('width', Math.max(1, cw - 1.5)).attr('height', rowH - 4).attr('rx', Math.min(3, cw / 3))
+            .attr('fill', n ? (r.now ? col(n) : d3.interpolateRgb(css('--surface-2'), css('--text-3'))(0.25 + 0.6 * Math.sqrt(n / mx))) : css('--surface-2'));
+        });
+        if (!nw) g.append('path').attr('d', barPath(iw + 8, cy + 6, iw + 8 + xb(r.n), rowH - 12, 2)).attr('fill', r.now ? css('--s1') : css('--muted-mark'));
+        g.append('text').attr('class', 'lbl').attr('x', iw + (nw ? 4 : 12) + (nw ? 0 : xb(r.n))).attr('y', cy + 14).text(r.n);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r).on('mousemove.y', null),
+          d => `<b>${esc(lawName(d.cit, d.title))}</b>` + trow(null, L('Předpis', 'Act'), d.cit) + trow(null, L('Dnů se změnou', 'Days with a change'), fmt(d.n)) +
+            trow(null, L('Nejvíc za rok', 'Most in a year'), `${d.peak} (${Object.entries(d.by).find(([, n]) => n === d.peak)[0]})`) + (d.now ? '' : trow(null, L('Stav', 'Status'), L('zrušen', 'repealed'))));
+      });
+      note(el, ['git log -- sb/<rok>/<číslo>.md'], fmt(sum(rows, r => r.n)) + L(' dnů se změnou', ' days with a change'),
+        L('jen zákony (ne vyhlášky). Den, k němuž nabylo účinnosti nové znění, se počítá jednou, i když k němu nabylo účinnosti více novel; číslo vpravo je součet za celou historii, i před rokem 1990, který graf nekreslí.',
+          'acts of Parliament only (not decrees). A day on which a new version took effect counts once, even when several amendments took effect on it; the number on the right is the total over the whole history, including before 1990, which is not drawn.'));
+      table(el, [L('Zákon', 'Act'), L('Předpis', 'Citation'), ...YRS.map(String), t('total')], rows.map(r => [lawName(r.cit, r.title), r.cit, ...YRS.map(y => r.by[y] || 0), r.n]));
+    }
+  };
+});
+
+chart('c12', el => {
+  const c = D.c12, cols = S8(), keys = ['jan1', 'jul1', 'first', 'other'], colors = [cols[0], cols[2], cols[3], css('--muted-mark')];
+  const names = [L('1. ledna', '1 January'), L('1. července', '1 July'), L('1. den jiného měsíce', 'The 1st of another month'), L('Jiný den', 'Any other day')];
+  const sh = y => { const r = c.find(r => r.y === y); const tt = sum(keys, k => r[k] || 0); return [(r.jan1 || 0) + (r.jul1 || 0), tt]; };
+  const a = sh(2018), b = sh(2025);
+  return {
+    title: L('1. leden a 1. červenec: výchozí den účinnosti se prosazuje pomalu', '1 January and 1 July: the default day of effect is catching on slowly'),
+    dek: L(`Od 31. prosince 2019 nabývá předpis účinnosti k 1. lednu nebo 1. červenci, „není-li dále stanoveno jinak“ (§ 3 odst. 3 zákona č. 309/1999 Sb., od roku 2024 § 9 odst. 2 zákona č. 222/2016 Sb.). U předpisů vyhlášených v roce 2018 připadlo na tyto dva dny ${pct(...a)} dnů účinnosti jejich změn, u předpisů z roku 2025 ${pct(...b)}.`,
+      `Since 31 December 2019 an act takes effect on 1 January or 1 July "unless stated otherwise" (§ 3(3) of Act 309/1999, since 2024 § 9(2) of Act 222/2016). For acts promulgated in 2018, ${pct(...a)} of the days their changes took effect fell on those two days; for acts of 2025, ${pct(...b)}.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const rows = c.map(r => { const tt = sum(keys, k => r[k] || 0); const o = { y: r.y }; keys.forEach(k => o[k] = (r[k] || 0) / tt); o._n = tt; o._r = r; return o; });
+      const s = stackedColumns(el, rows, keys, colors, names, { max: 1, pad: 0.15, yf: v => pct(v, 1), partial: r => r.y === 2026, noShare: true, every: 3 });
+      [[2019.5, L('pravidlo 1. 1. / 1. 7.', '1 Jan / 1 Jul rule')]].forEach(([yy, l]) => {
+        const xx = s.x(2020) - (s.x.step() - s.x.bandwidth()) / 2;
+        s.g.append('line').attr('x1', xx).attr('x2', xx).attr('y1', -6).attr('y2', s.ih).attr('stroke', css('--text')).attr('stroke-dasharray', '3 3');
+        s.g.append('text').attr('class', 'lbl strong').attr('x', xx + 4).attr('y', -2).text(l);
+      });
+      s.g.selectAll('.hit').on('mouseenter', (ev, r) => showTip(ev, `<b>${L('Předpisy vyhlášené v roce', 'Acts promulgated in')} ${r.y}</b>` + keys.map((k, i) => trow(colors[i], names[i], `${fmt(r._r[k] || 0)} · ${pct(r[k], 1)}`)).join('') + trow(null, t('total'), fmt(r._n))));
+      note(el, ['git log -- sb/ (autor, In-force)'], fmt(sum(rows, r => r._n)) + L(' dnů účinnosti', ' days of effect'),
+        L('jednotkou je jeden předpis a jeden den, k němuž nabyla účinnosti změna, kterou provedl (commit); rok je rok vyhlášení předpisu, který změnu provedl. Bez změn připsaných e-Sbírce. Pravidlo dovoluje výjimky, takže jiný den neznamená porušení.',
+          'the unit is one act and one day on which a change it made took effect (a commit); the year is that of the act making the change. Changes credited to e-Sbírka are left out. The rule allows exceptions, so another day is not a breach.'));
+      table(el, [L('Rok vyhlášení', 'Year promulgated'), ...names, t('total')], c.map(r => [String(r.y), ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0)]));
+    }
+  };
+});
+
+chart('c13', el => {
+  const c = D.c13, cols = S8(), top = c.top;
+  const big = c.pts.filter(p => p[1] >= 20).length;
+  return {
+    title: L(`Hromadné novely: jeden zákon změnil až ${top[0].n} dalších předpisů`, `Omnibus amendments: one act changed as many as ${top[0].n} other acts`),
+    dek: L(`Každá tečka je jeden zákon, který měnil jiné předpisy: kolik různých předpisů změnil. ${fmt(big)} zákonů změnilo 20 a více předpisů najednou; obvykle jde o doprovodné zákony k velké reformě.`,
+      `Each dot is one act that changed other acts: how many different acts it changed. ${fmt(big)} acts changed 20 or more at once; they are usually the accompanying acts of a big reform.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), h = 360, m = { t: 14, r: 16, b: 26, l: 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const x = d3.scaleLinear().domain([1990, 2027]).range([0, iw]), y = d3.scaleLog().domain([1, 160]).range([ih, 0]);
+      [1, 2, 5, 10, 20, 50, 100].forEach(v => { g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(v)).attr('y2', y(v)).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', -6).attr('y', y(v) + 4).attr('text-anchor', 'end').text(v); });
+      d3.range(1990, 2030, nw ? 10 : 5).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const rnd = d3.randomLcg(42);
+      const pts = c.pts.filter(p => p[0] >= 1990).map(p => ({ y: p[0], n: p[1], a: p[2], jx: (rnd() - 0.5) * 0.8, jy: 1 + (rnd() - 0.5) * 0.25 }));
+      bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => x(p.y + 0.5 + p.jx)).attr('cy', p => y(Math.max(1, p.n * (p.n < 4 ? p.jy : 1)))).attr('r', p => p.n >= 20 ? 3.6 : 2.2)
+        .attr('fill', p => p.n >= 20 ? cols[1] : cols[0]).attr('opacity', p => p.n >= 20 ? .9 : .25),
+        p => `<b>${L('Zákon č.', 'Act No.')} ${esc(p.a)}</b>` + (OMNI[p.a] ? trow(null, '', L(...OMNI[p.a])) : '') + trow(null, L('Změnil předpisů', 'Acts changed'), fmt(p.n)));
+      const placed = [];
+      top.slice(0, nw ? 4 : 8).forEach(tp => {
+        const cit = tp.a.replace('Zákon č. ', ''), p = pts.find(q => q.a === cit); if (!p) return;
+        const xx = x(p.y + 0.5 + p.jx), yy = y(p.n), txt = `${cit}: ${OMNI[cit] ? L(...OMNI[cit]) : ''}`, tw = txt.length * 5.6;
+        for (const [lx, ly, an] of [[xx + 7, yy + 4, 'start'], [xx - 7, yy + 4, 'end'], [xx + 7, yy + 16, 'start'], [xx - 7, yy + 16, 'end'], [xx + 7, yy - 8, 'start'], [xx - 7, yy - 8, 'end']]) {
+          const x0 = an === 'start' ? lx : lx - tw, box = [x0, ly - 10, x0 + tw, ly + 3];
+          if (x0 < 0 || x0 + tw > iw) continue;
+          if (placed.some(b => !(box[2] < b[0] || box[0] > b[2] || box[3] < b[1] || box[1] > b[3]))) continue;
+          placed.push(box); g.append('text').attr('class', 'lbl strong').attr('x', lx).attr('y', ly).attr('text-anchor', an).text(txt); break;
+        }
+      });
+      note(el, ['git log -- sb/ (autor = novelizující zákon, změněné soubory)'], fmt(c.pts.length) + L(' novelizujících zákonů', ' amending acts'),
+        L('počítají se různé předpisy, jejichž text zákon změnil (bez sebe sama), za celou dobu; logaritmická osa. Rok je rok vyhlášení novelizujícího zákona.', 'counts the different acts whose text the act changed (not itself), over all time; log scale. The year is the year the amending act was promulgated.'));
+      table(el, [L('Zákon', 'Act'), L('Změněných předpisů', 'Acts changed'), L('Název', 'Title')], top.map(x => [x.a, x.n, x.title]));
+    }
+  };
+});
+
+chart('c15', el => {
+  const c = D.c15, cols = S8(), keys = ['named', 'unnamed'], colors = [cols[0], css('--muted-mark')];
+  const names = [L('Zrušení připsané konkrétnímu předpisu', 'Repeal credited to a named act'), L('Bez určeného předpisu (e-Sbírka)', 'No single act named (e-Sbírka)')];
+  const y24 = c.years.find(r => r.y === 2024), ob = c.obs, obN = sum(Object.values(ob));
+  const top = c.top[0];
+  return {
+    title: L('Kdy předpisy končí: v roce 2024 zmizelo najednou přes 1 500 obsoletních předpisů', 'When acts end: in 2024 over 1,500 obsolete acts went at once'),
+    dek: L(`Každý sloupec je počet konsolidovaných předpisů, které v daném roce přestaly být účinné. Zákon č. 276/2023 Sb., o zrušení obsoletních právních předpisů, zrušil k 1. lednu 2024 ${fmt(top[1])} předpisů; ${pct(ob.e4 || 0, obN)} z nich pocházelo z let 1948–1989.`,
+      `Each column is the number of consolidated acts that ceased to have effect that year. Act 276/2023 on the repeal of obsolete legislation repealed ${fmt(top[1])} acts on 1 January 2024; ${pct(ob.e4 || 0, obN)} of them dated from 1948–1989.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const s = stackedColumns(el, c.years, keys, colors, names, { max: 400, pad: 0.2, partial: r => r.y === 2026 });
+      const r = y24, xx = s.x(2024) + (s.x.bandwidth() - s.bw) / 2;
+      s.g.append('path').attr('d', `M${xx - 3},10 L${xx + s.bw / 2},4 L${xx + s.bw + 3},10`).attr('fill', 'none').attr('stroke', css('--surface')).attr('stroke-width', 3);
+      s.g.append('text').attr('class', 'lbl strong').attr('x', xx - 6).attr('y', 12).attr('text-anchor', 'end').text(`${fmt(r.named + (r.unnamed || 0))} · ${L('zákon č. 276/2023 Sb.', 'Act 276/2023')}`);
+      note(el, ['git log --diff-filter=D -- sb/'], fmt(sum(c.years, r => (r.named || 0) + (r.unnamed || 0))) + L(' zrušení', ' repeals'),
+        L('soubor se odstraní den po konci poslední verze předpisu; autorem je předpis, jehož zrušovací vazba má ten den. Osa je useknuta na 400, sloupec roku 2024 pokračuje. Nejvíc zrušení dále připadá na: ' + c.top.slice(1, 5).map(x => `${x[0].replace('Zákon č. ', '')} (${x[1]})`).join(', ') + '.',
+          'a file is removed the day after the act\'s last version ends; the author is the act whose repeal link has that day. The axis is cut at 400; the 2024 column runs on. The most repeals after that: ' + c.top.slice(1, 5).map(x => `${x[0].replace('Zákon č. ', 'Act ')} (${x[1]})`).join(', ') + '.'));
+      table(el, [t('year'), ...names, t('total')], c.years.map(r => [String(r.y), r.named || 0, r.unnamed || 0, (r.named || 0) + (r.unnamed || 0)]));
+    }
+  };
+});
+
+part('p3', 'III. Ústavní soud, Evropská unie a smlouvy', 'III. The Constitutional Court, the European Union and treaties',
+  'Právo, které nemění jen Parlament: nálezy Ústavního soudu, které ruší ustanovení, návrhy zákonů spojené s právem EU a mezinárodní smlouvy.',
+  'Law not changed by Parliament alone: Constitutional Court findings that strike out provisions, bills tied to EU law, and international treaties.');
+
+chart('c14', el => {
+  const c = D.c14, cols = S8(), rows = c.years.map(([y, n]) => ({ y, n }));
+  const acts = c.acts.slice(0, 10);
+  return {
+    title: L(`Ústavní soud jako negativní zákonodárce: ${c.n} nálezů změnilo text předpisů`, `The Constitutional Court as negative legislator: ${c.n} findings changed the text of acts`),
+    dek: L('Nálezy, které zrušily ustanovení zákona nebo vyhlášky, jsou v historii autorem změny stejně jako novela. Sloupce ukazují, kolik takových nálezů nabylo účinnosti v každém roce; vpravo předpisy, do nichž zasáhlo nejvíc nálezů.',
+      'Findings that struck out a provision of an act or decree appear in the history as the author of the change, just as an amending act does. The columns show how many such findings took effect each year; on the right, the acts most often changed by findings.'),
+    draw(el) {
+      const box = el.append('div').attr('class', 'mini');
+      const a = box.append('div'), b = box.append('div');
+      a.append('h4').text(L('Nálezy podle roku účinnosti', 'Findings by year of effect'));
+      stackedColumns(a, rows, ['n'], [cols[6]], [L('Nálezy', 'Findings')], { h: 240, pad: 0.2, noShare: true, every: 5 });
+      b.append('h4').text(L('Nejčastěji zasažené předpisy', 'Acts most often changed'));
+      const w = W(b), rowH = 22, m = { t: 6, r: 28, b: 6, l: Math.min(220, w * 0.62) };
+      const svg = svgIn(b, w, m.t + m.b + rowH * acts.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, d3.max(acts, r => r[3])]).range([0, iw]);
+      acts.forEach((r, i) => {
+        const cy = i * rowH;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(lawName(r[1], r[2]));
+        g.append('path').attr('d', barPath(0, cy + 5, x(r[3]), 13)).attr('fill', cols[6]);
+        g.append('text').attr('class', 'lbl').attr('x', x(r[3]) + 6).attr('y', cy + 15).text(r[3]);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r), d => `<b>${esc(lawName(d[1], d[2]))}</b>` + trow(null, L('Předpis', 'Act'), d[1]) + trow(null, L('Nálezů', 'Findings'), d[3]));
+      });
+      note(el, ['git log --author="Nález Ústavního soudu" -- sb/'], fmt(c.n) + L(' nálezů', ' findings'),
+        L('jen nálezy, které e-Sbírka uvádí jako autora změny konsolidovaného textu; nálezy, které změnu jen vyvolaly nebo zrušily předpis jako celek bez vazby, zde být nemusí. Rozhodnutí Ústavního soudu jako taková v repozitáři zatím nejsou.',
+          'only findings e-Sbírka records as the author of a change to a consolidated text; findings that only prompted a change, or repealed a whole act without a link, may be missing. The Constitutional Court\'s decisions as such are not yet in the repository.'));
+      table(el, [t('year'), L('Nálezů', 'Findings')], rows.filter(r => r.n).map(r => [String(r.y), r.n]));
+    }
+  };
+});
+
+chart('c17', el => {
+  const c = D.c17.filter(r => r.eu > 0), cols = S8();
+  const full = c.filter(r => r.t !== '2025'), eu = sum(full, r => r.eu), gov = sum(full, r => r.gov);
+  return {
+    title: L('Evropská agenda: téměř každý druhý vládní návrh zákona souvisí s právem EU', 'The European agenda: almost every other government bill relates to EU law'),
+    dek: L(`Sněmovna u každého tisku eviduje, zda souvisí s právem Evropské unie. Od volebního období 2002–2006, kdy Česko vstoupilo do EU, se to týká ${pct(eu, gov)} vládních návrhů zákonů (${fmt(eu)} z ${fmt(gov)}).`,
+      `The Chamber records for each print whether it relates to European Union law. Since the 2002–2006 term, when Czechia joined the EU, that applies to ${pct(eu, gov)} of government bills (${fmt(eu)} of ${fmt(gov)}).`),
+    draw(el) {
+      const keys = ['eu', 'non'], colors = [cols[0], css('--muted-mark')], names = [L('Související s právem EU', 'Related to EU law'), L('Ostatní vládní návrhy', 'Other government bills')];
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const rows = c.map(r => ({ y: r.t, eu: r.eu, non: r.gov - r.eu, _r: r }));
+      stackedColumns(el, rows, keys, colors, names, { xf: tn, pad: 0.35, bw: 48, partial: r => r.y === '2025', topLabel: r => pct(r.eu, r.eu + r.non) });
+      note(el, ['navrhy/data/bills.csv (eu)'], fmt(sum(c, r => r.gov)) + L(' vládních návrhů zákonů', ' government bills'),
+        L('příznak eu je pole psp.cz; v datech je vyplněn od období 2002–2006. Období 2025– teprve začalo.', 'the eu flag is psp.cz\'s field; it is filled in from the 2002–2006 term. The 2025 term has only begun.'));
+      table(el, [t('term'), L('Vládních návrhů', 'Government bills'), L('Z toho EU', 'Of which EU'), L('EU, staly se zákonem', 'EU, became law')], c.map(r => [r.span, r.gov, r.eu, r.eu_law]));
+    }
+  };
+});
+
+// ISO 3166 numeric codes, as world-atlas names its countries
+const ISO_N = { SK: '703', AT: '040', DE: '276', PL: '616', HU: '348', UA: '804', RU: '643', US: '840', FR: '250', IT: '380', ES: '724', PT: '620', BE: '056', NL: '528',
+  LU: '442', DK: '208', SE: '752', NO: '578', FI: '246', IS: '352', IE: '372', GB: '826', CH: '756', SI: '705', HR: '191', RS: '688', BA: '070', ME: '499', MK: '807',
+  AL: '008', BG: '100', RO: '642', MD: '498', BY: '112', LT: '440', LV: '428', EE: '233', GR: '300', CY: '196', MT: '470', TR: '792', IL: '376', EG: '818', CN: '156',
+  JP: '392', KR: '410', IN: '356', VN: '704', MN: '496', KZ: '398', UZ: '860', GE: '268', AM: '051', AZ: '031', CA: '124', MX: '484', BR: '076', AR: '032', CL: '152',
+  AU: '036', NZ: '554', ZA: '710', MA: '504', TN: '788', JO: '400', KW: '414', AE: '784', QA: '634', SA: '682', ID: '360', SG: '702', TH: '764', PH: '608', MY: '458',
+  KG: '417', TJ: '762', TM: '795', LB: '422', SY: '760', IR: '364', IQ: '368', PK: '586', CU: '192', CO: '170', VE: '862', EC: '218', UY: '858', PY: '600', BO: '068',
+  ET: '231', KE: '404', NG: '566', GH: '288', AO: '024', MZ: '508', ZM: '894', LK: '144', NP: '524', BD: '050', AF: '004', OM: '512', LY: '434', MC: '492', SM: '674',
+  VA: '336', LI: '438', KP: '408', PE: '604' };
+const CTRY2 = { IS: ['Island', 'Iceland'], NZ: ['Nový Zéland', 'New Zealand'], ZA: ['Jihoafrická republika', 'South Africa'], MA: ['Maroko', 'Morocco'], TN: ['Tunisko', 'Tunisia'],
+  JO: ['Jordánsko', 'Jordan'], KW: ['Kuvajt', 'Kuwait'], AE: ['Spojené arabské emiráty', 'United Arab Emirates'], QA: ['Katar', 'Qatar'], SA: ['Saúdská Arábie', 'Saudi Arabia'],
+  ID: ['Indonésie', 'Indonesia'], SG: ['Singapur', 'Singapore'], TH: ['Thajsko', 'Thailand'], PH: ['Filipíny', 'Philippines'], MY: ['Malajsie', 'Malaysia'], KG: ['Kyrgyzstán', 'Kyrgyzstan'],
+  TJ: ['Tádžikistán', 'Tajikistan'], TM: ['Turkmenistán', 'Turkmenistan'], LB: ['Libanon', 'Lebanon'], SY: ['Sýrie', 'Syria'], IR: ['Írán', 'Iran'], IQ: ['Irák', 'Iraq'],
+  PK: ['Pákistán', 'Pakistan'], CU: ['Kuba', 'Cuba'], CO: ['Kolumbie', 'Colombia'], VE: ['Venezuela', 'Venezuela'], EC: ['Ekvádor', 'Ecuador'], UY: ['Uruguay', 'Uruguay'],
+  PY: ['Paraguay', 'Paraguay'], BO: ['Bolívie', 'Bolivia'], ET: ['Etiopie', 'Ethiopia'], KE: ['Keňa', 'Kenya'], NG: ['Nigérie', 'Nigeria'], GH: ['Ghana', 'Ghana'], AO: ['Angola', 'Angola'],
+  MZ: ['Mosambik', 'Mozambique'], ZM: ['Zambie', 'Zambia'], LK: ['Srí Lanka', 'Sri Lanka'], NP: ['Nepál', 'Nepal'], BD: ['Bangladéš', 'Bangladesh'], AF: ['Afghánistán', 'Afghanistan'],
+  OM: ['Omán', 'Oman'], LY: ['Libye', 'Libya'], MC: ['Monako', 'Monaco'], SM: ['San Marino', 'San Marino'], VA: ['Svatý stolec', 'Holy See'], LI: ['Lichtenštejnsko', 'Liechtenstein'],
+  KP: ['KLDR', 'North Korea'], PE: ['Peru', 'Peru'], MT: ['Malta', 'Malta'] };
+const ctryName = k => L(...(CTRY[k] || CTRY2[k] || [k, k]));
+let WORLD = null, WORLD_P = null;
+const worldAtlas = () => WORLD_P || (WORLD_P = fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json').then(r => r.json()).then(j => (WORLD = j)));
+chart('c18', el => {
+  const c = D.c18, cols = S8(), multi = c.rows.find(r => r.k === 'multi'), bil = c.rows.filter(r => r.k !== 'multi');
+  const DEC = [['1990', [1990, 1995]], ['2000', [2000, 2005]], ['2010', [2010, 2015]], ['2020', [2020, 2025]]];
+  const dec4 = r => DEC.map(([, ps]) => sum(ps, p => r.by[p] || 0));
+  const nb = ['SK', 'PL', 'DE', 'AT'], nbN = sum(bil.filter(r => nb.includes(r.k)), r => r.n), bilN = sum(bil, r => r.n);
+  return {
+    title: L('S kým Česko uzavírá smlouvy: nejvíc se sousedy, mimo Evropu se Spojenými státy', 'Who Czechia signs treaties with: its neighbours most, and beyond Europe the United States'),
+    dek: L(`Sdělení ministerstva zahraničních věcí o dvoustranných smlouvách od roku 1990, podle smluvní strany: ${fmt(bil.length)} států. Na čtyři sousedy připadá ${pct(nbN, bilN)} přiřazení; dalších ${fmt(multi.n)} sdělení se týká mnohostranných smluv.`,
+      `Notices of the Ministry of Foreign Affairs on bilateral treaties since 1990, by the other party: ${fmt(bil.length)} states. The four neighbours account for ${pct(nbN, bilN)} of them; another ${fmt(multi.n)} notices concern multilateral treaties.`),
+    draw(el) {
+      const ramp = d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+      const mx = d3.max(bil, r => r.n), col = n => ramp(0.12 + 0.88 * Math.sqrt(n / mx));
+      const byIso = new Map(bil.filter(r => ISO_N[r.k]).map(r => [ISO_N[r.k], r]));
+      legend(el, [1, 10, 50, mx].map(n => ({ c: col(n), l: n === mx ? L(`${n} sdělení`, `${n} notices`) : String(n) })).concat([{ c: css('--s2'), l: L('Česko', 'Czechia') }]));
+      const box = el.append('div').attr('class', 'mini');
+      const pe = box.append('div'), pw = box.append('div');
+      pe.append('h4').text(L('Evropa', 'Europe')); pw.append('h4').text(L('Svět', 'World'));
+      const draws = [];
+      const map = (div, mk, hh) => {
+        const w = W(div), h = Math.round(w * hh), svg = svgIn(div, w, h).style('overflow', 'hidden');
+        draws.push(() => {
+          const land = topojson.feature(WORLD, WORLD.objects.countries).features.filter(f => f.id !== '010');
+          const proj = mk(w, h), path = d3.geoPath(proj);
+          bindTip(svg.append('g').selectAll('path').data(land).join('path').attr('d', path).attr('stroke', css('--surface')).attr('stroke-width', .6)
+            .attr('fill', f => f.id === '203' ? css('--s2') : byIso.has(f.id) ? col(byIso.get(f.id).n) : css('--surface-2')),
+            f => { const r = byIso.get(f.id); return f.id === '203' ? `<b>${L('Česko', 'Czechia')}</b>` : `<b>${r ? ctryName(r.k) : esc(f.properties.name)}</b>` + trow(null, L('Sdělení o smlouvách', 'Treaty notices'), fmt(r ? r.n : 0)); });
+        });
+      };
+      const eu = { type: 'MultiPoint', coordinates: [[-10, 36], [40, 36], [-10, 62], [40, 62], [15, 70]] };
+      map(pe, (w, h) => d3.geoConicConformal().parallels([40, 62]).rotate([-14, 0]).fitExtent([[0, 0], [w, h]], eu), 0.78);
+      map(pw, (w, h) => d3.geoNaturalEarth1().fitExtent([[0, 0], [w, h]], { type: 'Sphere' }), 0.52);
+      const fail = () => box.append('p').attr('class', 'note').text(L('Mapu se nepodařilo načíst (cdn.jsdelivr.net); čísla jsou v grafu níže a v tabulce.', 'The map could not be loaded (cdn.jsdelivr.net); the numbers are in the chart below and the table.'));
+      if (WORLD) draws.forEach(f => f()); else worldAtlas().then(() => draws.forEach(f => f())).catch(fail);
+      // partners by decade
+      const top = bil.slice(0, 16), dcol = [0.3, 0.5, 0.72, 0.95].map(ramp), DN = ['1990–1999', '2000–2009', '2010–2019', L('od 2020', 'since 2020')];
+      el.append('h4').style('margin', '18px 0 4px').style('font', '600 13px/1.3 Inter, sans-serif').text(L('Nejčastější smluvní strany podle desetiletí', 'The most frequent parties by decade'));
+      legend(el, DN.map((l, i) => ({ c: dcol[i], l })));
+      const w = W(el), nw = narrow(w), rowH = 22, m = { t: 2, r: 40, b: 4, l: nw ? 110 : 170 };
+      const svg = svgIn(el, w, m.t + m.b + rowH * top.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, mx]).range([0, iw]);
+      top.forEach((r, i) => {
+        const cy = i * rowH, v = dec4(r); let acc = 0;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(ctryName(r.k));
+        v.forEach((n, j) => { if (!n) return; const last = v.slice(j + 1).every(z => !z);
+          g.append('path').attr('d', last ? barPath(x(acc), cy + 5, x(acc + n), 13, 3) : `M${x(acc)},${cy + 5}h${Math.max(0, x(acc + n) - x(acc) - 1)}v13h${-Math.max(0, x(acc + n) - x(acc) - 1)}Z`).attr('fill', dcol[j]); acc += n; });
+        g.append('text').attr('class', 'lbl').attr('x', x(r.n) + 6).attr('y', cy + 15).text(r.n);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => `<b>${ctryName(d.k)}</b>` + dec4(d).map((n, j) => trow(dcol[j], DN[j], fmt(n))).join('') + trow(null, t('total'), fmt(d.n)));
+      });
+      note(el, ['sbms/<rok>/<číslo>.md', 'sb/<rok>/<číslo>.md (sdělení MZV)'], fmt(sum(c.rows, r => r.n)) + L(' přiřazení', ' assignments'),
+        L('smluvní strana je určena podle názvu státu v názvu sdělení (pravidla v src/prep.py); sdělení může patřit k více státům, název se čtyřmi a více státy se počítá jako mnohostranná smlouva. Sdělení zahrnují i změny, ukončení a výhrady. Malé státy (Malta, Lucembursko, Monako…) mapa nezobrazuje; jsou v tabulce. Mapa: world-atlas (Natural Earth).',
+          'the other party is read from the name of a state in the notice\'s title (rules in src/prep.py); a notice can count for several states, and a title naming four or more states counts as multilateral. Notices include amendments, terminations and reservations. Small states (Malta, Luxembourg, Monaco…) are too small for the map; they are in the table. Map: world-atlas (Natural Earth).'));
+      table(el, [L('Smluvní strana', 'Party'), ...DN, t('total')], c.rows.map(r => [r.k === 'multi' ? L(...CTRY.multi) : ctryName(r.k), ...dec4(r), r.n]));
+    }
+  };
+});
+
+part('p4', 'IV. Obce a kraje', 'IV. Municipalities and regions',
+  'Obecně závazné vyhlášky a nařízení obcí a krajů ze Sbírky právních předpisů územních samosprávných celků (local/), kterou vede ministerstvo vnitra od roku 2020.',
+  'Generally binding ordinances and regulations of municipalities and regions from the Collection of Legal Regulations of Territorial Self-Governing Units (local/), kept by the Ministry of the Interior since 2020.');
+
+chart('c19', el => {
+  const c = D.c19, cols = S8(), rows = c.rows.filter(r => r.k !== 'other').concat(c.rows.filter(r => r.k === 'other'));
+  const YRS = [2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026];
+  const n = c.n, w0 = rows.find(r => r.k === 'waste'), d0 = rows.find(r => r.k === 'dogs');
+  return {
+    title: L('O čem obce vydávají vyhlášky: odpad, psi a noční klid', 'What municipalities legislate on: waste, dogs and night-time quiet'),
+    dek: L(`${fmt(n)} vyhlášek a nařízení obcí a krajů podle tématu a roku účinnosti. Nejčastěji upravují poplatek a systém nakládání s odpadem (${pct(w0.n, n)}) a poplatek ze psů a jejich pohyb (${pct(d0.n, n)}); vlny v letech 2024 a 2025 jsou nově vydané poplatkové vyhlášky.`,
+      `${fmt(n)} ordinances and regulations of municipalities and regions by topic and year of effect. Most deal with the waste fee and waste system (${pct(w0.n, n)}) and the dog fee and dog rules (${pct(d0.n, n)}); the waves of 2024 and 2025 are newly issued fee ordinances.`),
+    draw(el) {
+      // on a phone the year strip does not fit: the bars take the width and the years go into each bar's tooltip
+      const w = W(el), nw = narrow(w), rowH = 24, cw = nw ? 0 : 40, m = { t: 22, r: 8, b: 6, l: nw ? 150 : 270 };
+      const barW = w - m.l - m.r - cw * YRS.length - (nw ? 0 : 20);
+      const h = m.t + m.b + rows.length * rowH, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const x = d3.scaleLinear().domain([0, d3.max(rows, r => r.n)]).range([0, Math.max(60, barW - 50)]);
+      const mx = d3.max(rows, r => d3.max(Object.values(r.by)));
+      const col = d3.scaleSequentialSqrt(d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'))).domain([0, mx]);
+      const hx = Math.max(60, barW - 50) + 50 + 20;
+      if (!nw) YRS.forEach((yy, j) => g.append('text').attr('class', 'lbl').attr('x', hx + j * cw + cw / 2).attr('y', -8).attr('text-anchor', 'middle').text(yy === 2019 ? '<20' : yy));
+      rows.forEach((r, i) => {
+        const cy = i * rowH;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(L(...LOC[r.k]));
+        bindTip(g.append('path').attr('d', barPath(0, cy + 5, x(r.n), 14)).attr('fill', r.k === 'other' ? css('--muted-mark') : cols[0]).datum(r),
+          d => `<b>${L(...LOC[d.k])}</b>` + YRS.map(yy => trow(null, yy === 2019 ? L('před rokem 2020', 'before 2020') : String(yy), fmt(d.by[yy] || 0))).join('') + trow(null, t('total'), fmt(d.n)));
+        g.append('text').attr('class', 'lbl').attr('x', x(r.n) + 6).attr('y', cy + 15).text(fmt(r.n));
+        if (!nw) YRS.forEach((yy, j) => { const v = r.by[yy] || 0;
+          bindTip(g.append('rect').attr('x', hx + j * cw + 1).attr('y', cy + 2).attr('width', cw - 2).attr('height', rowH - 4).attr('rx', 3).attr('fill', v ? col(v) : css('--surface-2')).datum({ r, yy, v }),
+            d => `<b>${L(...LOC[d.r.k])}</b>` + trow(null, d.yy === 2019 ? L('účinnost před rokem 2020', 'in effect before 2020') : String(d.yy), fmt(d.v))); });
+      });
+      note(el, ['local/<kraj>/<vydavatel>/<rok>/<číslo>.md'], fmt(n) + L(' předpisů', ' acts'),
+        L('téma je určeno podle slov v názvu (pravidla v src/prep.py). Sbírka vznikla v roce 2020; starší předpisy v ní jsou, jen pokud je obec doplnila. Nahrávání do repozitáře stále probíhá, takže čísla ještě porostou; rok 2026 je neúplný.',
+          'the topic is read from words in the title (rules in src/prep.py). The Collection began in 2020; older acts are in it only where a municipality added them. Loading into the repository is still under way, so the numbers will grow; 2026 is partial.'));
+      const regs = Object.keys(c.regions);
+      table(el, [L('Kraj', 'Region'), ...rows.slice(0, 8).map(r => L(...LOC[r.k])), t('total')], regs.map(g2 => { const o = c.regions[g2]; return [L(...(KRAJ[g2] || [g2, g2])), ...rows.slice(0, 8).map(r => o[r.k] || 0), sum(Object.values(o))]; }).sort((a, b) => b[b.length - 1] - a[a.length - 1]));
+    }
+  };
+});
+
+part('p5', 'V. Čísla, která stanoví právo', 'V. Numbers the law sets',
+  'Tabulky v data/tables/ čtou čísla přímo z textu předpisů v repozitáři: každý řádek uvádí předpis, ustanovení, verzi a citovaný text.',
+  'The tables in data/tables/ read numbers straight from the text of the acts in the repository: every row names the act, the provision, the version and the quoted text.');
+
+chart('c20', el => {
+  const c = D.c20, cols = S8(), TODAY = PF.built;
+  const wg = c.wage, ir = c.interest.map(r => ({ f: r[0], t: r[1], v: r[2], rn: r[3], rv: r[4] === '' || r[4] == null ? null : +r[4], act: r[5] }));
+  const now = wg.find(r => r[0] <= TODAY && TODAY < r[1]) || wg[wg.length - 1];
+  const cur = ir.find(r => r.f <= TODAY && TODAY < r.t) || ir[ir.length - 1];
+  const flat = wg.reduce((a, r) => ((new Date(r[1]) - new Date(r[0])) > (new Date(a[1]) - new Date(a[0])) ? r : a));
+  const flatY = Math.round((new Date(flat[1]) - new Date(flat[0])) / 31557600000);
+  const peak = ir.reduce((a, r) => (r.v > a.v ? r : a));
+  return {
+    title: L('Minimální mzda a úrok z prodlení: čísla, která stanoví předpisy', 'The minimum wage and default interest: numbers set by the statute book'),
+    dek: L(`Měsíční minimální mzda vzrostla z ${fmt(wg[0][2])} Kčs v roce 1991 na ${fmt(now[2])} Kč v roce 2026; v letech ${flat[0].slice(0, 4)}–${flat[1].slice(0, 4)} se ${flatY} let neměnila. Úrok z prodlení se odvozuje od sazby ČNB: nejvýš byl ${dec(peak.v, 0)} % (${peak.f.slice(0, 4)}), nyní činí ${dec(cur.v, 2)} % ročně.`,
+      `The monthly minimum wage rose from CSK ${fmt(wg[0][2])} in 1991 to CZK ${fmt(now[2])} in 2026; from ${flat[0].slice(0, 4)} to ${flat[1].slice(0, 4)} it stayed unchanged for ${flatY} years. Default interest is derived from the Czech National Bank's rate: it peaked at ${dec(peak.v, 0)}% (${peak.f.slice(0, 4)}) and now stands at ${dec(cur.v, 2)}% a year.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'mini');
+      const pa = box.append('div'), pb = box.append('div');
+      const pd = d3.timeParse('%Y-%m-%d'), END = '2028-01-01';
+      const frame = (div, ymax, yf) => {
+        const w = W(div), h = 270, m = { t: 16, r: 14, b: 24, l: 46 };
+        const svg = svgIn(div, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const x = d3.scaleTime().domain([new Date(1991, 0, 1), pd(END)]).range([0, iw]), y = d3.scaleLinear().domain([0, ymax]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 4, yf);
+        x.ticks(narrow(w) ? 4 : 6).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v.getFullYear()));
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        const tx = x(pd(TODAY));
+        g.append('line').attr('x1', tx).attr('x2', tx).attr('y1', 0).attr('y2', ih).attr('stroke', css('--text-3')).attr('stroke-dasharray', '2 3');
+        return { svg, g, x, y, iw, ih, tx };
+      };
+      const stepPts = (rows, f, t, v) => { const p = []; rows.forEach(r => { p.push([pd(f(r)), v(r)]); p.push([pd(t(r) || END), v(r)]); }); return p; };
+      const grad = (svg, id, color) => { const lg = svg.append('defs').append('linearGradient').attr('id', id).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+        lg.append('stop').attr('offset', '0%').attr('stop-color', color).attr('stop-opacity', .32); lg.append('stop').attr('offset', '100%').attr('stop-color', color).attr('stop-opacity', .02); };
+
+      // minimum wage
+      pa.append('h4').text(L('Minimální mzda, Kč měsíčně', 'Minimum wage, CZK a month'));
+      pa.append('p').text(L('každá tečka je nová částka; do roku 1992 v Kčs', 'each dot is a new amount; until 1992 in CSK'));
+      const A = frame(pa, d3.max(wg, r => r[2]) * 1.08, fmt), ca = cols[0];
+      grad(A.svg, 'c20ga', ca);
+      const pw = stepPts(wg, r => r[0], r => r[1], r => r[2]);
+      A.g.append('path').attr('d', d3.area().x(p => A.x(p[0])).y0(A.ih).y1(p => A.y(p[1]))(pw)).attr('fill', 'url(#c20ga)');
+      A.g.append('path').attr('d', d3.line().x(p => A.x(p[0])).y(p => A.y(p[1]))(pw)).attr('fill', 'none').attr('stroke', ca).attr('stroke-width', 2.2).attr('stroke-linejoin', 'round');
+      bindTip(A.g.append('g').selectAll('circle').data(wg).join('circle').attr('cx', r => A.x(pd(r[0]))).attr('cy', r => A.y(r[2])).attr('r', 3.2)
+        .attr('fill', r => r[0] > TODAY ? css('--surface') : ca).attr('stroke', ca).attr('stroke-width', 1.5),
+        r => `<b>${dateTxt(r[0])}${r[0] > TODAY ? ' (' + L('vyhlášeno', 'promulgated') + ')' : ''}</b>` + trow(ca, L('Měsíčně', 'Monthly'), `${fmt(r[2])} ${r[3]}`) + trow(null, L('Platí do', 'Until'), r[1] ? dateTxt(r[1]) : '…') + trow(null, L('Předpis', 'Act'), esc(r[4])));
+      const fx0 = A.x(pd(flat[0])), fx1 = A.x(pd(flat[1])), fy = A.y(flat[2]) - 10;
+      A.g.append('path').attr('d', `M${fx0},${fy + 4}V${fy}H${fx1}V${fy + 4}`).attr('fill', 'none').attr('stroke', css('--text-3'));
+      A.g.append('text').attr('class', 'lbl mut').attr('x', (fx0 + fx1) / 2).attr('y', fy - 5).attr('text-anchor', 'middle').text(L(`${flatY} let beze změny`, `${flatY} years unchanged`));
+      const lw = wg[wg.length - 1];
+      A.g.append('text').attr('class', 'lbl strong').attr('x', A.x(pd(lw[0])) - 7).attr('y', A.y(lw[2]) + 4).attr('text-anchor', 'end').text(`${fmt(lw[2])} (${lw[0].slice(0, 4)})`);
+      A.g.append('text').attr('class', 'lbl strong').attr('x', A.x(pd(wg[0][0])) + 2).attr('y', A.y(wg[0][2]) - 9).text(`${fmt(wg[0][2])} Kčs`);
+
+      // default interest and its reference rate
+      pb.append('h4').text(L('Úrok z prodlení a sazba ČNB, % ročně', 'Default interest and the ČNB rate, % a year'));
+      pb.append('p').text(L('od roku 2014 repo sazba ČNB + 8 procentních bodů', 'since 2014 the ČNB repo rate + 8 percentage points'));
+      const B = frame(pb, d3.max(ir, r => r.v) * 1.1, v => dec(v, 0)), cb = cols[1], cr = css('--text-3');
+      grad(B.svg, 'c20gb', cb);
+      const pi = stepPts(ir, r => r.f, r => r.t, r => r.v), refRows = ir.filter(r => r.rv != null);
+      const pr = stepPts(refRows, r => r.f, r => r.t, r => r.rv);
+      if (pr.length === pi.length) B.g.append('path').attr('d', d3.area().x((p, i) => B.x(p[0])).y0((p, i) => B.y(pr[i][1])).y1(p => B.y(p[1]))(pi)).attr('fill', 'url(#c20gb)');
+      B.g.append('path').attr('d', d3.line().x(p => B.x(p[0])).y(p => B.y(p[1]))(pr)).attr('fill', 'none').attr('stroke', cr).attr('stroke-width', 1.4).attr('stroke-dasharray', '4 3');
+      B.g.append('path').attr('d', d3.line().x(p => B.x(p[0])).y(p => B.y(p[1]))(pi)).attr('fill', 'none').attr('stroke', cb).attr('stroke-width', 2.2).attr('stroke-linejoin', 'round');
+      const last = ir[ir.length - 1];
+      B.g.append('text').attr('class', 'lbl strong').attr('x', B.tx - 6).attr('y', B.y(Math.max(cur.v, d3.max(ir.filter(r => r.f >= String(+TODAY.slice(0, 4) - 4)), r => r.v))) - 10).attr('text-anchor', 'end').style('fill', cb).text(L(`úrok z prodlení ${dec(cur.v, 2)} %`, `default interest ${dec(cur.v, 2)}%`));
+      if (cur.rv != null) B.g.append('text').attr('class', 'lbl').attr('x', B.tx - 6).attr('y', B.y(cur.rv) + 14).attr('text-anchor', 'end').text(L(`sazba ČNB ${dec(cur.rv, 2)} %`, `ČNB rate ${dec(cur.rv, 2)}%`));
+      B.g.append('text').attr('class', 'lbl strong').attr('x', B.x(pd(peak.f)) - 4).attr('y', B.y(peak.v) - 6).attr('text-anchor', 'end').text(`${dec(peak.v, 0)} %`);
+      bindTip(B.g.selectAll('rect.hit').data(ir).join('rect').attr('class', 'hit').attr('x', r => B.x(pd(r.f))).attr('width', r => Math.max(1, B.x(pd(r.t || END)) - B.x(pd(r.f)))).attr('y', 0).attr('height', B.ih),
+        r => `<b>${dateTxt(r.f)} – ${r.t ? dateTxt(r.t) : '…'}</b>` + trow(cb, L('Úrok z prodlení', 'Default interest'), dec(r.v, 2) + ' %') + (r.rv != null ? trow(cr, esc(r.rn), dec(r.rv, 2) + ' %') : '') + trow(null, L('Předpis', 'Act'), esc(r.act)));
+      legend(pb, [{ c: cb, l: L('Úrok z prodlení', 'Default interest'), shape: 'line' }, { c: cr, l: L('Referenční sazba ČNB', 'ČNB reference rate'), shape: 'line' }]);
+      note(el, ['data/tables/minimum-wage.csv', 'data/tables/default-interest.csv'], fmt(wg.length + ir.length) + L(' období', ' periods'),
+        L('každá hodnota je citována z verze předpisu v repozitáři (sloupce commit a quoted_text); referenční sazbu ČNB uvádí tabulka podle ČNB (sloupec rate_source). Prázdná tečka je částka pro rok 2027, už vyhlášená. Svislá čárkovaná čára je dnešek.',
+          'every value is quoted from a version of an act in the repository (columns commit and quoted_text); the ČNB reference rate is given in the table as published by the ČNB (column rate_source). The hollow dot is the 2027 amount, already promulgated. The dashed vertical line is today.'));
+      table(el, [L('Od', 'From'), L('Do', 'To'), L('Minimální mzda', 'Minimum wage'), L('Předpis', 'Act')], wg.map(r => [r[0], r[1] || '', `${fmt(r[2])} ${r[3]}`, r[4]]));
+    }
+  };
+});
+
+// reading order (chart numbers follow it)
+const ORDER = ['p1', 'c01', 'c02', 'c03', 'c04', 'c05', 'c06', 'c07', 'p2', 'c08', 'c09', 'c16', 'c10', 'c11', 'c12', 'c13', 'c15', 'p3', 'c14', 'c17', 'c18', 'p4', 'c19', 'p5', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Historie gitu (všechny commity)', 'Git history (every commit)'), 'git log origin/main', fmt(P.commits), L(`${fmt(P.law_commits)} commitů nese znění předpisů Sbírky; poslední účinnost ${P.last_in_force}`, `${fmt(P.law_commits)} commits carry versions of acts in the Collection; last in force ${P.last_in_force}`), L('commity před rokem 1970 mají datum 1970; skutečný den je v In-force', 'commits before 1970 are dated 1970; the real day is in In-force')],
+    [L('Sbírka zákonů', 'Collection of Laws'), 'sb/<rok>/<číslo>.md', fmt(P.sb_items), L(`${fmt(P.sb_consolidated_now)} konsolidovaných předpisů v účinnosti`, `${fmt(P.sb_consolidated_now)} consolidated acts in force`), L('z let 1918–1938 jen část, z let 1939–1944 nic', 'only part of 1918–1938, nothing of 1939–1944')],
+    [L('Úřední list', 'Official Journal'), 'ul/', fmt(P.ul), '1945–1961', L('text podle e-Sbírky', 'text as in e-Sbírka')],
+    [L('Sbírka mezinárodních smluv', 'Collection of International Treaties'), 'sbms/', fmt(P.sbms), '2000–2026', L('sdělení ve vyhlášeném znění', 'notices as promulgated')],
+    [L('Sněmovní tisky', 'Chamber prints'), 'navrhy/data/bills.csv', `${fmt(P.prints)} (${fmt(P.bills)} ${L('návrhů zákonů', 'bills')})`, '1993–2026', L('data psp.cz; není to právo', 'psp.cz data; not law')],
+    [L('Hlasování Sněmovny', 'Chamber votes'), 'navrhy/data/votes/', `${fmt(P.votes)} · ${fmt(P.mp_votes)} ${L('hlasů poslanců', 'MP votes')}`, '1993–2026', L('ruční hlasování bez jednotlivých hlasů', 'votes by hand have no individual votes')],
+    [L('Předpisy obcí a krajů', 'Local acts'), 'local/', fmt(P.local), L('účinné od 2020, starší jen doplněné', 'in effect since 2020, older only where added'), L('nahrávání probíhá', 'being loaded')],
+    [L('Tabulky', 'Tables'), 'data/tables/', '5', L('minimální mzda, úrok z prodlení, soudní poplatky, lhůty, obvody soudů', 'minimum wage, default interest, court fees, deadlines, court districts'), L('každý řádek cituje verzi předpisu', 'every row quotes a version of an act')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(v)}</code>` : esc(v));
+}
+function fitLeftLabels(fig) {
+  fig.selectAll('svg text').each(function () {
+    if (this.getAttribute('text-anchor') !== 'end' || !(+this.getAttribute('x') < 0)) return;
+    const svg = this.ownerSVGElement, room = this.getBoundingClientRect().right - svg.getBoundingClientRect().left - 2;
+    if (this.getComputedTextLength() <= room) return;
+    const full = this.textContent;
+    d3.select(this).append('title').text(full);
+    let lo = 0, hi = full.length;
+    while (lo < hi) { const mid = (lo + hi + 1) >> 1; this.firstChild.nodeValue = full.slice(0, mid) + '…'; if (this.getComputedTextLength() <= room) lo = mid; else hi = mid - 1; }
+    this.firstChild.nodeValue = full.slice(0, lo) + '…';
+  });
+}
+function render() {
+  document.documentElement.lang = LANG === 'cs' ? 'cs' : 'en';
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const tl = t('tiles'), tv = [PF.commits, PF.sb_consolidated_now, PF.bills, PF.votes, PF.mp_votes, PF.local];
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html((v, i) => `<b>${fmt(v)}</b><span>${tl[i]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.cs, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dcs, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.cs, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    const spec = c.fn(fig);
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    fitLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.title.split(':')[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', PF.built + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('cz-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('cz-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+</script>
+</body>
+</html>
