@@ -63,6 +63,9 @@ class Smoke:
         except AssertionError as exc:
             self.results.append((name, False, str(exc)))
             print(f'FAIL {name}: {exc}')
+        except Exception as exc:  # any other error fails this check only; the run goes on
+            self.results.append((name, False, f'{type(exc).__name__}: {exc}'))
+            print(f'FAIL {name}: {type(exc).__name__}: {exc}')
 
     def blame(self):
         out = self.git('blame', '--line-porcelain', 'main', '--', 'sb/1993/1.md')
