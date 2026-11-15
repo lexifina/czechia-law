@@ -14,58 +14,133 @@ The charts are descriptive: they show what the sources record, not why.
 
 ### I. The Chamber and the Senate
 
-1. **Who proposes laws and who gets them passed.** Bills filed and bills that became law, by term: 78% of government bills, 27% of MPs' bills.
-   ![1](stills/en/01.png)
-2. **From filing to the Collection.** How long a law takes from filing in the Chamber to promulgation, by term.
-   ![2](stills/en/02.png)
-3. **What the Senate does with the Chamber's bills.** Approved, passed by lapse of time, returned or rejected, and what the Chamber did next.
-   ![3](stills/en/03.png)
-4. **The presidential veto.** Every law returned by Havel, Klaus, Zeman and Pavel, and whether the Chamber overrode it.
-   ![4](stills/en/04.png)
-5. **How united MPs elected on the same list vote.** The Rice index by electoral list and term.
-   ![5](stills/en/05.png)
-6. **Laws pass by wide majorities.** The yes votes in the final vote on every law.
-   ![6](stills/en/06.png)
-7. **When the Chamber votes.** Every vote since 1993 by weekday and hour.
-   ![7](stills/en/07.png)
+#### 1. Who proposes laws and who gets them passed
+
+Bills filed and bills that became law, by term: 78% of government bills, 27% of MPs' bills.
+
+![Who proposes laws and who gets them passed](stills/en/01.png)
+
+#### 2. From filing to the Collection
+
+How long a law takes from filing in the Chamber to promulgation, by term.
+
+![From filing to the Collection](stills/en/02.png)
+
+#### 3. What the Senate does with the Chamber's bills
+
+Approved, passed by lapse of time, returned or rejected, and what the Chamber did next.
+
+![What the Senate does with the Chamber's bills](stills/en/03.png)
+
+#### 4. The presidential veto
+
+Every law returned by Havel, Klaus, Zeman and Pavel, and whether the Chamber overrode it.
+
+![The presidential veto](stills/en/04.png)
+
+#### 5. How united MPs elected on the same list vote
+
+The Rice index by electoral list and term.
+
+![How united MPs elected on the same list vote](stills/en/05.png)
+
+#### 6. Laws pass by wide majorities
+
+The yes votes in the final vote on every law.
+
+![Laws pass by wide majorities](stills/en/06.png)
+
+#### 7. When the Chamber votes
+
+Every vote since 1993 by weekday and hour.
+
+![When the Chamber votes](stills/en/07.png)
 
 ### II. The Collection of Laws
 
-8. **How many items the Collection publishes.** Each year since 1945, by kind.
-   ![8](stills/en/08.png)
-9. **What from the past is still in force.** Consolidated acts in force today by the period they were promulgated in.
-   ![9](stills/en/09.png)
-10. **The Official Journal 1945–1961.** Decrees by topic: nationalisation, prices and rationing.
-    ![10](stills/en/10.png)
-11. **The pace of amendment.** New versions of acts taking effect each year.
-    ![11](stills/en/11.png)
-12. **The most-changed laws.** Changes per year for 25 acts, 1990–2026.
-    ![12](stills/en/12.png)
-13. **1 January and 1 July.** How often changes take effect on the default days that apply since 31 December 2019.
-    ![13](stills/en/13.png)
-14. **Omnibus amendments.** How many other acts each amending act changed.
-    ![14](stills/en/14.png)
-15. **When acts end.** Acts ceasing to have effect each year, including the 1,599 obsolete acts repealed by Act 276/2023 in 2024.
-    ![15](stills/en/15.png)
+#### 8. How many items the Collection publishes
+
+Each year since 1945, by kind.
+
+![How many items the Collection publishes](stills/en/08.png)
+
+#### 9. What from the past is still in force
+
+Consolidated acts in force today by the period they were promulgated in.
+
+![What from the past is still in force](stills/en/09.png)
+
+#### 10. The Official Journal 1945–1961
+
+Decrees by topic: nationalisation, prices and rationing.
+
+![The Official Journal 1945–1961](stills/en/10.png)
+
+#### 11. The pace of amendment
+
+New versions of acts taking effect each year.
+
+![The pace of amendment](stills/en/11.png)
+
+#### 12. The most-changed laws
+
+Changes per year for 25 acts, 1990–2026.
+
+![The most-changed laws](stills/en/12.png)
+
+#### 13. 1 January and 1 July
+
+How often changes take effect on the default days that apply since 31 December 2019.
+
+![1 January and 1 July](stills/en/13.png)
+
+#### 14. Omnibus amendments
+
+How many other acts each amending act changed.
+
+![Omnibus amendments](stills/en/14.png)
+
+#### 15. When acts end
+
+Acts ceasing to have effect each year, including the 1,599 obsolete acts repealed by Act 276/2023 in 2024.
+
+![When acts end](stills/en/15.png)
 
 ### III. The Constitutional Court, the European Union and treaties
 
-16. **The Constitutional Court as negative legislator.** Findings recorded as the author of a change to an act.
-    ![16](stills/en/16.png)
-17. **The European agenda.** Government bills the Chamber marks as related to EU law.
-    ![17](stills/en/17.png)
-18. **Who Czechia signs treaties with.** Treaty notices by the other party, on a map and by decade.
-    ![18](stills/en/18.png)
+#### 16. The Constitutional Court as negative legislator
+
+Findings recorded as the author of a change to an act.
+
+![The Constitutional Court as negative legislator](stills/en/16.png)
+
+#### 17. The European agenda
+
+Government bills the Chamber marks as related to EU law.
+
+![The European agenda](stills/en/17.png)
+
+#### 18. Who Czechia signs treaties with
+
+Treaty notices by the other party, on a map and by decade.
+
+![Who Czechia signs treaties with](stills/en/18.png)
 
 ### IV. Municipalities and regions
 
-19. **What municipalities legislate on.** Ordinances and regulations by topic and year of effect.
-    ![19](stills/en/19.png)
+#### 19. What municipalities legislate on
+
+Ordinances and regulations by topic and year of effect.
+
+![What municipalities legislate on](stills/en/19.png)
 
 ### V. Numbers the law sets
 
-20. **The minimum wage and default interest.** Every amount since 1991, and default interest against the Czech National Bank's rate.
-    ![20](stills/en/20.png)
+#### 20. The minimum wage and default interest
+
+Every amount since 1991, and default interest against the Czech National Bank's rate.
+
+![The minimum wage and default interest](stills/en/20.png)
 
 ## Data
 

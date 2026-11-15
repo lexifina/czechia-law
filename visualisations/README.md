@@ -14,58 +14,133 @@ Grafy jsou popisné: ukazují, co zdroje zaznamenávají, ne proč.
 
 ### I. Sněmovna a Senát
 
-1. **Kdo navrhuje zákony a komu projdou.** Podané návrhy zákonů a ty, které se staly zákonem, podle volebního období: 78 % vládních návrhů, 27 % návrhů poslanců.
-   ![1](stills/cs/01.png)
-2. **Od předložení do Sbírky.** Jak dlouho trvá cesta zákona od předložení Sněmovně do vyhlášení, podle volebního období.
-   ![2](stills/cs/02.png)
-3. **Co dělá Senát se zákony ze Sněmovny.** Schválil, nezabýval se, vrátil nebo zamítl, a co pak udělala Sněmovna.
-   ![3](stills/cs/03.png)
-4. **Prezidentské veto.** Každý zákon, který vrátili Havel, Klaus, Zeman a Pavel, a zda ho Sněmovna přehlasovala.
-   ![4](stills/cs/04.png)
-5. **Jak jednotně hlasují poslanci téže kandidátky.** Riceův index podle kandidátky a volebního období.
-   ![5](stills/cs/05.png)
-6. **Zákony procházejí širokou většinou.** Hlasy pro v závěrečném hlasování o každém zákoně.
-   ![6](stills/cs/06.png)
-7. **Kdy Sněmovna hlasuje.** Každé hlasování od roku 1993 podle dne v týdnu a hodiny.
-   ![7](stills/cs/07.png)
+#### 1. Kdo navrhuje zákony a komu projdou
+
+Podané návrhy zákonů a ty, které se staly zákonem, podle volebního období: 78 % vládních návrhů, 27 % návrhů poslanců.
+
+![Kdo navrhuje zákony a komu projdou](stills/cs/01.png)
+
+#### 2. Od předložení do Sbírky
+
+Jak dlouho trvá cesta zákona od předložení Sněmovně do vyhlášení, podle volebního období.
+
+![Od předložení do Sbírky](stills/cs/02.png)
+
+#### 3. Co dělá Senát se zákony ze Sněmovny
+
+Schválil, nezabýval se, vrátil nebo zamítl, a co pak udělala Sněmovna.
+
+![Co dělá Senát se zákony ze Sněmovny](stills/cs/03.png)
+
+#### 4. Prezidentské veto
+
+Každý zákon, který vrátili Havel, Klaus, Zeman a Pavel, a zda ho Sněmovna přehlasovala.
+
+![Prezidentské veto](stills/cs/04.png)
+
+#### 5. Jak jednotně hlasují poslanci téže kandidátky
+
+Riceův index podle kandidátky a volebního období.
+
+![Jak jednotně hlasují poslanci téže kandidátky](stills/cs/05.png)
+
+#### 6. Zákony procházejí širokou většinou
+
+Hlasy pro v závěrečném hlasování o každém zákoně.
+
+![Zákony procházejí širokou většinou](stills/cs/06.png)
+
+#### 7. Kdy Sněmovna hlasuje
+
+Každé hlasování od roku 1993 podle dne v týdnu a hodiny.
+
+![Kdy Sněmovna hlasuje](stills/cs/07.png)
 
 ### II. Sbírka zákonů
 
-8. **Kolik předpisů vychází ve Sbírce zákonů.** Každý rok od roku 1945, podle druhu.
-   ![8](stills/cs/08.png)
-9. **Co z minulosti stále platí.** Konsolidované předpisy v účinnosti podle doby vyhlášení.
-   ![9](stills/cs/09.png)
-10. **Úřední list 1945–1961.** Vyhlášky podle tématu: znárodnění, ceny a příděly.
-    ![10](stills/cs/10.png)
-11. **Tempo novelizací.** Nová znění předpisů, která nabyla účinnosti v jednotlivých letech.
-    ![11](stills/cs/11.png)
-12. **Nejčastěji měněné zákony.** Změny za rok u 25 zákonů, 1990–2026.
-    ![12](stills/cs/12.png)
-13. **1. leden a 1. červenec.** Jak často nabývají změny účinnosti ve výchozí dny, které platí od 31. prosince 2019.
-    ![13](stills/cs/13.png)
-14. **Hromadné novely.** Kolik jiných předpisů každý novelizující zákon změnil.
-    ![14](stills/cs/14.png)
-15. **Kdy předpisy končí.** Předpisy, které v jednotlivých letech pozbyly účinnosti, včetně 1 599 obsoletních předpisů zrušených zákonem č. 276/2023 Sb. v roce 2024.
-    ![15](stills/cs/15.png)
+#### 8. Kolik předpisů vychází ve Sbírce zákonů
+
+Každý rok od roku 1945, podle druhu.
+
+![Kolik předpisů vychází ve Sbírce zákonů](stills/cs/08.png)
+
+#### 9. Co z minulosti stále platí
+
+Konsolidované předpisy v účinnosti podle doby vyhlášení.
+
+![Co z minulosti stále platí](stills/cs/09.png)
+
+#### 10. Úřední list 1945–1961
+
+Vyhlášky podle tématu: znárodnění, ceny a příděly.
+
+![Úřední list 1945–1961](stills/cs/10.png)
+
+#### 11. Tempo novelizací
+
+Nová znění předpisů, která nabyla účinnosti v jednotlivých letech.
+
+![Tempo novelizací](stills/cs/11.png)
+
+#### 12. Nejčastěji měněné zákony
+
+Změny za rok u 25 zákonů, 1990–2026.
+
+![Nejčastěji měněné zákony](stills/cs/12.png)
+
+#### 13. 1. leden a 1. červenec
+
+Jak často nabývají změny účinnosti ve výchozí dny, které platí od 31. prosince 2019.
+
+![1. leden a 1. červenec](stills/cs/13.png)
+
+#### 14. Hromadné novely
+
+Kolik jiných předpisů každý novelizující zákon změnil.
+
+![Hromadné novely](stills/cs/14.png)
+
+#### 15. Kdy předpisy končí
+
+Předpisy, které v jednotlivých letech pozbyly účinnosti, včetně 1 599 obsoletních předpisů zrušených zákonem č. 276/2023 Sb. v roce 2024.
+
+![Kdy předpisy končí](stills/cs/15.png)
 
 ### III. Ústavní soud, Evropská unie a smlouvy
 
-16. **Ústavní soud jako negativní zákonodárce.** Nálezy, které jsou v historii autorem změny předpisu.
-    ![16](stills/cs/16.png)
-17. **Evropská agenda.** Vládní návrhy zákonů, které Sněmovna eviduje jako související s právem EU.
-    ![17](stills/cs/17.png)
-18. **S kým Česko uzavírá smlouvy.** Sdělení o smlouvách podle smluvní strany, na mapě a podle desetiletí.
-    ![18](stills/cs/18.png)
+#### 16. Ústavní soud jako negativní zákonodárce
+
+Nálezy, které jsou v historii autorem změny předpisu.
+
+![Ústavní soud jako negativní zákonodárce](stills/cs/16.png)
+
+#### 17. Evropská agenda
+
+Vládní návrhy zákonů, které Sněmovna eviduje jako související s právem EU.
+
+![Evropská agenda](stills/cs/17.png)
+
+#### 18. S kým Česko uzavírá smlouvy
+
+Sdělení o smlouvách podle smluvní strany, na mapě a podle desetiletí.
+
+![S kým Česko uzavírá smlouvy](stills/cs/18.png)
 
 ### IV. Obce a kraje
 
-19. **O čem obce vydávají vyhlášky.** Vyhlášky a nařízení podle tématu a roku účinnosti.
-    ![19](stills/cs/19.png)
+#### 19. O čem obce vydávají vyhlášky
+
+Vyhlášky a nařízení podle tématu a roku účinnosti.
+
+![O čem obce vydávají vyhlášky](stills/cs/19.png)
 
 ### V. Čísla, která stanoví právo
 
-20. **Minimální mzda a úrok z prodlení.** Každá částka od roku 1991 a úrok z prodlení vedle sazby České národní banky.
-    ![20](stills/cs/20.png)
+#### 20. Minimální mzda a úrok z prodlení
+
+Každá částka od roku 1991 a úrok z prodlení vedle sazby České národní banky.
+
+![Minimální mzda a úrok z prodlení](stills/cs/20.png)
 
 ## Data
 
