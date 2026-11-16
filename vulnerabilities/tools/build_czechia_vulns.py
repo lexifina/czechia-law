@@ -61,6 +61,12 @@ def ident(det, d):
             if det == "late_extension" else "")
 
 
+# retroactive-date links: the commit that made this act's version on this day, from the detectors' history table
+ROOT_COMMIT = {}
+for _law, _inf, _c in duckdb.sql(f"""select law, in_force, corpus_commit from '{os.path.join(SCR, "index", "root.parquet").replace(chr(92), "/")}'
+                                   where corpus = '{json.load(open(os.path.join(SCR, "pins.json"), encoding="utf-8"))["corpora"][0]["path"]}'
+                                   and kind = 'law' order by in_force""").fetchall():
+    ROOT_COMMIT.setdefault((_law, str(_inf)), _c)
 AUTHOR_COMMIT = {}
 for line in subprocess.run(["git", "-C", os.path.join(SCR, "sources", "corpus", "czechia-law.git"), "log", "--format=%H%x09%an", PIN],
                            capture_output=True, text=True, encoding="utf-8").stdout.splitlines():
@@ -110,7 +116,7 @@ for d in pq("ranked_same_day_conflict.parquet"):
     add("same_day_conflict", d, path=d["path"], date=str(d["in_force"]), reference="; ".join(d["laws"] or []),
         summary=f'{d["n_laws"]} acts change it on {d["in_force"]}, made {d["spread_days"]} days apart', score=round(d["score"] or 0, 3))
 for d in pq("ranked_retroactive_date.parquet"):
-    first = AUTHOR_COMMIT.get(d["law"], "")
+    first = ROOT_COMMIT.get((d["law"], str(d["in_force"])), "") or AUTHOR_COMMIT.get(d["law"], "")
     add("retroactive_date", d, path="", date=str(d["in_force"]), reference=d["law"],
         summary=f'in force {d["in_force"]}, {d["made_field"].lower()} {d["made"]} ({d["back_days"]} days earlier): {d.get("subject") or ""}'[:400],
         score=round(d["score"] or 0, 3), url=(COMMIT + first) if first else "")
