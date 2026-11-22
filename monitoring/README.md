@@ -11,11 +11,11 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 | Zdroj | Složky | Jak často | Poslední úspěšná kontrola | Poslední výsledek | Stav |
 | --- | --- | --- | --- | --- | --- |
 | [e-Sbírka – otevřená data (Ministerstvo vnitra ČR)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | denně | 2026-11-22 18:13 UTC | beze změny | sledován |
-| [e-Sbírka – mezinárodní smlouvy a Úřední list](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/` | denně | — | — | zatím nesledován |
+| [e-Sbírka – mezinárodní smlouvy a Úřední list](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/` | denně | 2026-11-22 19:17 UTC | změny zveřejněny, s příznakem | zatím nesledován |
 | [Sbírka právních předpisů územních samosprávných celků](https://sbirkapp.gov.cz) | `local/` | denně | — | — | zatím nesledován |
 | [Úřad pro publikace EU (Cellar)](https://publications.europa.eu) | `eu/` | týdně | — | — | zatím nesledován |
-| [Poslanecká sněmovna, ODOK vlády a e-Legislativa](https://www.psp.cz) | `navrhy/` | týdně | — | — | zatím nesledován |
-| [Ministerstvo financí, ERÚ, ČTU, Finanční správa, ministerstva a MPSV](https://www.mf.gov.cz) | `regulator/`, `metodika/`, `vestnik/`, `kolektivni-smlouvy/`, `usneseni-vlady/` | týdně | — | — | zatím nesledován |
+| [Poslanecká sněmovna, ODOK vlády a e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | týdně | — | — | zatím nesledován |
+| [Ministerstvo financí, ERÚ, ČTU, Finanční správa, ministerstva a MPSV](https://www.mf.gov.cz) | `regulator/`, `metodika/`, `vestnik/`, `kolektivni-smlouvy/` | týdně | — | — | zatím nesledován |
 | [Národní digitální knihovna](https://ndk.cz) | `historicke/` | — | — | — | uzavřený zdroj |
 | [Nejvyšší soud a databáze soudních rozhodnutí](https://rozhodnuti.nsoud.cz) | `caselaw/` | — | — | — | pozastaven: judikatura počká, nejdřív plné sledování předpisů |
 
@@ -23,6 +23,7 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 
 | Začátek (UTC) | Zdroj | Přečteno | Nové | Změněné | Zrušené | Nezveřejněno (bez důvodu) | Výsledek | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-22 19:11](checks/2026-11.md#cz-e-sbirka-extra-20261122t191152z) | e-sbirka-extra | 6 | 1 | 7301 | 0 | 1 (0) | změny zveřejněny, s příznakem `mass-change` | [7302](https://github.com/lexifina/czechia-law/compare/ea10ea6fb741...1a0481c885e3) |
 | [2026-11-22 18:12](checks/2026-11.md#cz-e-sbirka-20261122t181234z) | e-sbirka | 6 | 0 | 0 | 0 | 11 (0) | beze změny | — |
 | [2026-11-22 08:30](checks/2026-11.md#cz-e-sbirka-20261122t083006z) | e-sbirka | 6† | 0 | 3 | 0 | — | změny zveřejněny `flip-flop` | [3](https://github.com/lexifina/czechia-law/compare/1143aee17299...523a83a18b6d) |
 | [2026-11-21 08:30](checks/2026-11.md#cz-e-sbirka-20261121t083003z) | e-sbirka | 5† | 0 | 2533 | 0 | — | změny zveřejněny, s příznakem `mass-change` `flip-flop` | [7202](https://github.com/lexifina/czechia-law/compare/88a0ce927dde...1143aee17299) |

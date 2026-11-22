@@ -93,11 +93,12 @@
    },
    "url": "https://www.psp.cz",
    "reads": {
-    "cs": "sněmovní tisky, hlasování a vládní materiály",
-    "en": "parliamentary prints, votes and government papers"
+    "cs": "sněmovní tisky, hlasování, vládní materiály a usnesení vlády",
+    "en": "parliamentary prints, votes, government papers and government resolutions"
    },
    "folders": [
-    "navrhy/"
+    "navrhy/",
+    "usneseni-vlady/"
    ],
    "schedule": "weekly",
    "state": "not-yet-watched",
@@ -119,8 +120,7 @@
     "regulator/",
     "metodika/",
     "vestnik/",
-    "kolektivni-smlouvy/",
-    "usneseni-vlady/"
+    "kolektivni-smlouvy/"
    ],
    "schedule": "weekly",
    "state": "not-yet-watched",

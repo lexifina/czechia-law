@@ -11,11 +11,11 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
 | [e-Sbírka open data (Ministry of the Interior)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | daily | 2026-11-22 18:13 UTC | no change | watched |
-| [e-Sbírka: international treaties and the Official Journal](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/` | daily | — | — | not watched yet |
+| [e-Sbírka: international treaties and the Official Journal](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/` | daily | 2026-11-22 19:17 UTC | changes published, flagged | not watched yet |
 | [Collection of Legal Regulations of Local and Regional Authorities](https://sbirkapp.gov.cz) | `local/` | daily | — | — | not watched yet |
 | [EU Publications Office (Cellar)](https://publications.europa.eu) | `eu/` | weekly | — | — | not watched yet |
-| [Chamber of Deputies, the Government's ODOK and e-Legislativa](https://www.psp.cz) | `navrhy/` | weekly | — | — | not watched yet |
-| [Ministry of Finance, ERÚ, ČTU, Financial Administration, ministries and MPSV](https://www.mf.gov.cz) | `regulator/`, `metodika/`, `vestnik/`, `kolektivni-smlouvy/`, `usneseni-vlady/` | weekly | — | — | not watched yet |
+| [Chamber of Deputies, the Government's ODOK and e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | weekly | — | — | not watched yet |
+| [Ministry of Finance, ERÚ, ČTU, Financial Administration, ministries and MPSV](https://www.mf.gov.cz) | `regulator/`, `metodika/`, `vestnik/`, `kolektivni-smlouvy/` | weekly | — | — | not watched yet |
 | [National Digital Library](https://ndk.cz) | `historicke/` | — | — | — | closed source |
 | [Supreme Court and the court decisions database](https://rozhodnuti.nsoud.cz) | `caselaw/` | — | — | — | paused: case law waits until legislation is fully monitored |
 
@@ -23,6 +23,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-22 19:11](checks/2026-11.md#cz-e-sbirka-extra-20261122t191152z) | e-sbirka-extra | 6 | 1 | 7301 | 0 | 1 (0) | changes published, flagged `mass-change` | [7302](https://github.com/lexifina/czechia-law/compare/ea10ea6fb741...1a0481c885e3) |
 | [2026-11-22 18:12](checks/2026-11.md#cz-e-sbirka-20261122t181234z) | e-sbirka | 6 | 0 | 0 | 0 | 11 (0) | no change | — |
 | [2026-11-22 08:30](checks/2026-11.md#cz-e-sbirka-20261122t083006z) | e-sbirka | 6† | 0 | 3 | 0 | — | changes published `flip-flop` | [3](https://github.com/lexifina/czechia-law/compare/1143aee17299...523a83a18b6d) |
 | [2026-11-21 08:30](checks/2026-11.md#cz-e-sbirka-20261121t083003z) | e-sbirka | 5† | 0 | 2533 | 0 | — | changes published, flagged `mass-change` `flip-flop` | [7202](https://github.com/lexifina/czechia-law/compare/88a0ce927dde...1143aee17299) |

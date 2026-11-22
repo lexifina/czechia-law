@@ -4,9 +4,9 @@
  "note": "How current czechia-law is, from its check trail (data/checks/): the day e-Sbírka's open data was last read and every act checked against it. tools/checktrail.py reads the trail.",
  "checked_against_official_source": "2026-11-22",
  "totals": {
-  "acts": 18612,
+  "acts": 26815,
   "by_status": {
-   "current": 18612,
+   "current": 26815,
    "pending-change": 0,
    "stale": 0,
    "unverified": 0,
