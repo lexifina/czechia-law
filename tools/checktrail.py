@@ -43,8 +43,8 @@ SCHEMA = "lexifina-check/1"
 REPO_URL = "https://github.com/lexifina/czechia-law"
 GL = "https://github.com/lexifina/global-law/blob/main"
 REASONS = {
-    "in-force-later": ("účinnost později: na větvi `future`, na `main` v den účinnosti",
-                       "in force later: on the `future` branch, on `main` from the day it applies"),
+    "in-force-later": ("účinnost později: na `main` se připojí v den účinnosti",
+                       "in force later: appended to `main` on the day it applies"),
     "awaiting-text": ("e-Sbírka zatím zveřejnila jen oznámení, že text digitalizuje (§ 12 zákona č. 222/2016 Sb. dává 30 dní)",
                       "e-Sbírka has published only a notice that it is digitising the text (§ 12 of Act 222/2016 allows 30 days)"),
     "out-of-scope": ("mimo rozsah tohoto repozitáře", "outside this repository's scope"),
@@ -482,7 +482,8 @@ def build_files(root_records: list, pending: list, sources: list, repo_acts: int
 
 def commit_message(pending: list, sources: list) -> str:
     srcs = {s["id"]: s for s in sources}
-    day = pending[-1]["started"][:10]
+    days = sorted({r["started"][:10] for r in pending})
+    day = days[0] if len(days) == 1 else f"{days[0]}..{days[-1]}"
     a = sum(len(r["published"]["added"]) for r in pending)
     ch = sum(len(r["published"]["changed"]) for r in pending)
     rm = sum(len(r["published"]["removed"]) for r in pending)

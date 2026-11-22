@@ -113,9 +113,51 @@ def trail_records() -> list:
     return sorted(out, key=lambda r: r["started"])
 
 
+TRAIL_LOCK = LANE / "state" / "trail.lock"
+
+
 def publish_trail(no_publish=False) -> bool:
-    """One `Kind: check` commit with every pending record, the month files, latest.json, freshness.json and pages."""
-    pending = T.read_pending(PENDING)
+    """One `Kind: check` commit with every pending record, the month files, latest.json, freshness.json and pages.
+    Every watcher of every Czech source calls this; a lock spans reading origin/main to the push, so two trail
+    commits never rewrite the same month file from different bases."""
+    import os
+    for _ in range(360):
+        try:
+            fd = os.open(TRAIL_LOCK, os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+            os.write(fd, str(os.getpid()).encode())
+            os.close(fd)
+            break
+        except FileExistsError:
+            if time.time() - TRAIL_LOCK.stat().st_mtime > 3600:
+                TRAIL_LOCK.unlink(missing_ok=True)
+            time.sleep(5)
+    else:
+        log("trail lock held for 30 min; trail not published this time")
+        return False
+    try:
+        return _publish_trail(no_publish)
+    finally:
+        TRAIL_LOCK.unlink(missing_ok=True)
+
+
+def _publish_trail(no_publish=False) -> bool:
+    """Takes the pending records aside first (records written meanwhile start a new pending file), and puts them
+    back if the publish fails."""
+    taking = PENDING.with_suffix(".publishing")
+    if PENDING.exists() and not taking.exists():
+        PENDING.replace(taking)
+    ok = False
+    try:
+        ok = _publish_records(T.read_pending(taking), no_publish)
+    finally:
+        if taking.exists() and (not ok or no_publish):
+            for r in T.read_pending(taking):
+                T.save_pending(r, PENDING)
+        taking.unlink(missing_ok=True)
+    return ok
+
+
+def _publish_records(pending, no_publish) -> bool:
     if not pending:
         return True
     git("fetch", "-q", "origin")
@@ -123,7 +165,6 @@ def publish_trail(no_publish=False) -> bool:
     have = {r["check_id"] for r in trail_records()}
     pending = [r for r in pending if r["check_id"] not in have]
     if not pending:
-        PENDING.unlink(missing_ok=True)
         return True
     now = T.utcnow()
     acts = next((r["census"].get("repo") for r in reversed(pending) if r.get("census")), None)
@@ -146,7 +187,6 @@ def publish_trail(no_publish=False) -> bool:
         log(f"trail publish failed; see {LANE / 'logs' / 'trail.log'}")
         return False
     if not no_publish:
-        PENDING.unlink(missing_ok=True)
         log(f"trail published: {len(pending)} check(s)")
     return True
 
