@@ -35,15 +35,16 @@
    },
    "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/",
    "reads": {
-    "cs": "tytéž denní datové sady, sbírka mezinárodních smluv a Úřední list",
-    "en": "the same daily datasets: the treaty collection and the Official Journal"
+    "cs": "tytéž denní datové sady: sbírka mezinárodních smluv, Úřední list a položky Sbírky zákonů, které nejsou předpisy (smlouvy, sdělení); každá položka znovu porovnána se zdrojem",
+    "en": "the same daily datasets: the treaty collection, the Official Journal and the items of the Collection of Laws that are not acts (treaties, notices); every item compared with the source again"
    },
    "folders": [
     "sbms/",
-    "ul/"
+    "ul/",
+    "sb/"
    ],
    "schedule": "daily",
-   "state": "not-yet-watched",
+   "state": "watched",
    "max_age_days": 2
   },
   {
