@@ -1,0 +1,185 @@
+{
+ "generated": "2026-11-22T18:16:22Z",
+ "last_success": {
+  "courts": null,
+  "e-sbirka": "2026-11-22T18:13:46Z",
+  "e-sbirka-extra": null,
+  "eu-cellar": null,
+  "legislative-process": null,
+  "ndk": null,
+  "regulators": null,
+  "sppsu": null
+ },
+ "latest": {
+  "e-sbirka": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "newest_at_source": "sb/2026/223",
+    "newest_in_repo": "sb/2026/214",
+    "repo": 18612,
+    "source_in_scope": 18623
+   },
+   "check_id": "cz-e-sbirka-20261122T181234Z",
+   "commits": null,
+   "corpus": "czechia/national/acts",
+   "error": null,
+   "finished": "2026-11-22T18:13:46Z",
+   "flags": [],
+   "gap": [
+    {
+     "detail": "vyhlášeno / promulgated 2026-10-30, účinnost / in force 2027-01-01",
+     "id": "sb/2026/204",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-10-30, účinnost / in force 2027-01-01",
+     "id": "sb/2026/205",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-18, účinnost / in force 2027-01-01",
+     "id": "sb/2026/215",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-09, účinnost / in force 2026-11-10",
+     "id": "sb/2026/216",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-18, účinnost / in force 2027-02-01",
+     "id": "sb/2026/217",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-18, účinnost / in force 2026-12-03",
+     "id": "sb/2026/218",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-18, účinnost / in force 2026-12-03",
+     "id": "sb/2026/219",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-19, účinnost / in force 2026-11-20",
+     "id": "sb/2026/220",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-19, účinnost / in force 2027-01-01",
+     "id": "sb/2026/221",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-19, účinnost / in force 2026-12-31",
+     "id": "sb/2026/222",
+     "reason": "awaiting-text"
+    },
+    {
+     "detail": "vyhlášeno / promulgated 2026-11-19, účinnost / in force 2026-11-20",
+     "id": "sb/2026/223",
+     "reason": "awaiting-text"
+    }
+   ],
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": [
+    {
+     "at": "2026-11-22T18:12:34Z",
+     "bytes": 179667306,
+     "etag": "ab5816a-660d428b13010",
+     "last_modified": "Sun, 22 Nov 2026 02:23:12 GMT",
+     "method": "HEAD",
+     "status": 200,
+     "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/001PravniAktZneni.json.gz"
+    },
+    {
+     "at": "2026-11-22T18:12:34Z",
+     "bytes": 5493399,
+     "etag": "53d297-660d3cafb2ac0",
+     "last_modified": "Sun, 22 Nov 2026 01:57:00 GMT",
+     "method": "HEAD",
+     "status": 200,
+     "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/002PravniAkt.json.gz"
+    },
+    {
+     "at": "2026-11-22T18:12:34Z",
+     "bytes": 1245105584,
+     "etag": "4a36cdb0-660d569658f60",
+     "last_modified": "Sun, 22 Nov 2026 03:52:52 GMT",
+     "method": "HEAD",
+     "status": 200,
+     "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/003PravniAktZneniFragment.json.gz"
+    },
+    {
+     "at": "2026-11-22T18:12:34Z",
+     "bytes": 532063570,
+     "etag": "1fb6a552-660d39cf2e938",
+     "last_modified": "Sun, 22 Nov 2026 01:44:07 GMT",
+     "method": "HEAD",
+     "status": 200,
+     "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/004PravniAktFragment.json.gz"
+    },
+    {
+     "at": "2026-11-22T18:12:34Z",
+     "bytes": 6380565,
+     "etag": "615c15-660d4e622ceb0",
+     "last_modified": "Sun, 22 Nov 2026 03:16:10 GMT",
+     "method": "HEAD",
+     "status": 200,
+     "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/006PravniAktMetadata.json.gz"
+    },
+    {
+     "at": "2026-11-22T18:12:35Z",
+     "bytes": 20147366,
+     "etag": "1336ca6-660d3db40a220",
+     "last_modified": "Sun, 22 Nov 2026 02:01:33 GMT",
+     "method": "HEAD",
+     "status": 200,
+     "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/007PravniAktKonsolidacniVazba.json.gz"
+    }
+   ],
+   "runner": "czechia-law daily.py (3415e229d9)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-22",
+   "source": "e-sbirka",
+   "started": "2026-11-22T18:12:34Z",
+   "titles": {
+    "sb/2026/204": "Vyhláška, kterou se mění vyhláška č. 134/1998 Sb., kterou se vydává seznam zdravotních výkonů s bodovými hodnotami, ve znění pozdějších předpisů",
+    "sb/2026/205": "Vyhláška o stanovení hodnot bodu, výše úhrad hrazených služeb, výše záloh na úhradu hrazených služeb a regulačních omezení pro rok 2027",
+    "sb/2026/215": "Zákon, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů, a další související zákony",
+    "sb/2026/216": "Nařízení vlády, kterým se mění některá nařízení vlády související s opatřeními přijatými v souvislosti s ozbrojeným konfliktem na území Ukrajiny vyvolaným invaz",
+    "sb/2026/217": "Zákon, kterým se mění zákon č. 257/2016 Sb., o spotřebitelském úvěru, ve znění pozdějších předpisů, a další související zákony",
+    "sb/2026/218": "Zákon o opatřeních ke snížení nákladů na zavádění sítí elektronických komunikací s velmi vysokou kapacitou",
+    "sb/2026/219": "Zákon, kterým se mění některé zákony v souvislosti s přijetím zákona o opatřeních ke snížení nákladů na zavádění sítí elektronických komunikací s velmi vysokou ",
+    "sb/2026/220": "Zákon o ekodesignu výrobků a o výkonu státní správy v oblasti ekodesignu výrobků a o změně souvisejících zákonů (zákon o ekodesignu výrobků)",
+    "sb/2026/221": "Zákon, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů",
+    "sb/2026/222": "Zákon, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších p",
+    "sb/2026/223": "Zákon, kterým se mění některé zákony na úseku vnitřní správy"
+   },
+   "unexplained": 0,
+   "verify": {
+    "ends_checked": 9615,
+    "ends_wrong": 0,
+    "fidelity_mismatch": 0,
+    "ok": true,
+    "sha": "523a83a18b6d1aca72d994e736dcf0e85d678930",
+    "versions_checked": 52532,
+    "versions_differ": 0,
+    "versions_without_file": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
