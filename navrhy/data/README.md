@@ -4,18 +4,18 @@
 the Chamber of Deputies voted. The law is the act a bill became, in `sb/<year>/<number>.md`.
 
 Source: the open data of the Chamber of Deputies (Poslanecká sněmovna Parlamentu České republiky),
-<https://www.psp.cz/sqw/hp.sqw?k=1300>, as published on 2026-11-13: `tisky.zip`, `sbirka.zip`, `se_tisk.zip`,
+<https://www.psp.cz/sqw/hp.sqw?k=1300>, as published on 2026-11-22: `tisky.zip`, `sbirka.zip`, `se_tisk.zip`,
 `schuze.zip`, `poslanci.zip` and `hl-1993ps.zip` … `hl-2025ps.zip`. Values are copied as published; dates are
 written YYYY-MM-DD (psp.cz's placeholder day 1900-01-01 is left empty). Terms are named by the year they began: 1993
 is the 1st term (1993-1996), 2025 the 10th (since 2025).
 
 | File | Rows | What |
 | --- | ---: | --- |
-| `bills.csv` | 11,332 | every Chamber print since 1993 (bills, treaties, budgets, reports, interpellations), one row each |
-| `bill-stages.csv` | 77,334 | every recorded step of those prints (psp.cz `hist`) |
+| `bills.csv` | 11,337 | every Chamber print since 1993 (bills, treaties, budgets, reports, interpellations), one row each |
+| `bill-stages.csv` | 77,352 | every recorded step of those prints (psp.cz `hist`) |
 | `senate-prints.csv` | 5,415 | every Senate print since 1996 (psp.cz's copy of the Senate database), linked to Chamber prints |
-| `votes/<term>.csv` | 83,524 | every recorded vote of the Chamber, one row per vote |
-| `votes/<term>-poslanci.csv` | 16,690,400 individual votes | how each MP voted in each vote: one row per vote, one column per MP (`mp_id`) |
+| `votes/<term>.csv` | 83,527 | every recorded vote of the Chamber, one row per vote |
+| `votes/<term>-poslanci.csv` | 16,691,000 individual votes | how each MP voted in each vote: one row per vote, one column per MP (`mp_id`) |
 | `votes/poslanci.csv` | 2,157 | the MPs of each term: `mp_id` (column of the vote files), name, list elected for, region |
 
 ## bills.csv
@@ -58,4 +58,4 @@ the recorded @.
 
 `navrhy/data` is rebuilt from the zips by the lane's `build_data.py`; `verify_data.py` reads the zips' files again,
 independently, and compares every print's number and titles, every vote's date, time, counts, result and titles, and
-every individual vote (16,796,609 values checked, 0 mismatched on 2026-11-13).
+every individual vote (16,797,222 values checked, 0 mismatched on 2026-11-22).
