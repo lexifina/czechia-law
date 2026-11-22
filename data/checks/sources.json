@@ -89,21 +89,25 @@
    "id": "legislative-process",
    "kind": "drafts",
    "name": {
-    "cs": "Poslanecká sněmovna, ODOK vlády a e-Legislativa",
-    "en": "Chamber of Deputies, the Government's ODOK and e-Legislativa"
+    "cs": "Poslanecká sněmovna (otevřená data a tisky) a e-Legislativa",
+    "en": "Chamber of Deputies (open data and prints) and e-Legislativa"
    },
    "url": "https://www.psp.cz",
    "reads": {
-    "cs": "sněmovní tisky, hlasování, vládní materiály a usnesení vlády",
-    "en": "parliamentary prints, votes, government papers and government resolutions"
+    "cs": "otevřená data Poslanecké sněmovny a stránky tisků probíhajícího volebního období; hlavičky datových sad e-Legislativy",
+    "en": "the Chamber of Deputies' open data and the print pages of the current term; the headers of e-Legislativa's datasets"
    },
    "folders": [
     "navrhy/",
     "usneseni-vlady/"
    ],
    "schedule": "weekly",
-   "state": "not-yet-watched",
-   "max_age_days": 8
+   "state": "watched",
+   "max_age_days": 8,
+   "note": {
+    "cs": "materiály ODOK a usnesení vlády se nečtou: robots.txt odok.gov.cz zakazuje roboty; z e-Legislativy jen hlavičky datových sad",
+    "en": "ODOK materials and government resolutions are not read: odok.gov.cz's robots.txt disallows bots; e-Legislativa: dataset headers only"
+   }
   },
   {
    "id": "regulators",

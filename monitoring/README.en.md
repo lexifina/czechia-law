@@ -12,9 +12,9 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 | --- | --- | --- | --- | --- | --- |
 | [e-Sbírka open data (Ministry of the Interior)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | daily | 2026-11-22 18:13 UTC | no change | watched |
 | [e-Sbírka: international treaties and the Official Journal](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | daily | 2026-11-22 19:17 UTC | changes published, flagged | watched |
-| [Collection of Legal Regulations of Local and Regional Authorities](https://sbirkapp.gov.cz) | `local/` | daily | — | — | not watched yet |
+| [Collection of Legal Regulations of Local and Regional Authorities](https://sbirkapp.gov.cz) | `local/` | daily | 2026-11-22 19:37 UTC | changes published, flagged | not watched yet |
 | [EU Publications Office (Cellar)](https://publications.europa.eu) | `eu/` | weekly | — | — | not watched yet |
-| [Chamber of Deputies, the Government's ODOK and e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | weekly | 2026-11-22 19:30 UTC | changes published | not watched yet |
+| [Chamber of Deputies (open data and prints) and e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | weekly | 2026-11-22 19:30 UTC | changes published | watched: ODOK materials and government resolutions are not read: odok.gov.cz's robots.txt disallows bots; e-Legislativa: dataset headers only |
 | [Ministry of Finance, ERÚ, ČTU, Financial Administration, ministries and MPSV](https://www.mf.gov.cz) | `regulator/`, `metodika/`, `vestnik/`, `kolektivni-smlouvy/` | weekly | — | — | not watched yet |
 | [National Digital Library](https://ndk.cz) | `historicke/` | — | — | — | closed source |
 | [Supreme Court and the court decisions database](https://rozhodnuti.nsoud.cz) | `caselaw/` | — | — | — | paused: case law waits until legislation is fully monitored |
@@ -23,6 +23,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-22 19:30](checks/2026-11.md#cz-sppsu-20261122t193032z) | sppsu | 167 | 2430 | 107 | 10 | 24664 (24188) | changes published, flagged `unexplained-gap` `mass-change` | [2569](https://github.com/lexifina/czechia-law/compare/f0c4e82f3221...3082f98884a3) |
 | [2026-11-22 19:22](checks/2026-11.md#cz-legislative-process-20261122t192211z) | legislative-process | 75 | 5 | 8 | 0 | 0 (0) | changes published | [10](https://github.com/lexifina/czechia-law/compare/a6e6a0fde696...88f80d3e2512) |
 | [2026-11-22 19:11](checks/2026-11.md#cz-e-sbirka-extra-20261122t191152z) | e-sbirka-extra | 6 | 1 | 7301 | 0 | 1 (0) | changes published, flagged `mass-change` | [7302](https://github.com/lexifina/czechia-law/compare/ea10ea6fb741...1a0481c885e3) |
 | [2026-11-22 18:12](checks/2026-11.md#cz-e-sbirka-20261122t181234z) | e-sbirka | 6 | 0 | 0 | 0 | 11 (0) | no change | — |
