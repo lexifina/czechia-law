@@ -63,8 +63,12 @@
     "local/"
    ],
    "schedule": "daily",
-   "state": "not-yet-watched",
-   "max_age_days": 2
+   "state": "watched",
+   "max_age_days": 2,
+   "note": {
+    "cs": "sčítání jednou týdně; předpisy, jejichž detail se dosud nečetl, jsou vedeny bez důvodu",
+    "en": "census once a week; regulations whose detail page has not been read yet are listed with no reason"
+   }
   },
   {
    "id": "eu-cellar",
