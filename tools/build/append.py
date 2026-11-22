@@ -54,7 +54,7 @@ import render as R  # noqa: E402
 
 PRAGUE = ZoneInfo("Europe/Prague")
 PUBLISHER = "e-Sbírka <publisher@esbirka.invalid>"
-SOURCE = "https://opendata.eselpoint.cz/datove-sady-esbirka/"
+SOURCE = "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/"   # .gov.cz since 2026-11-22 (e-Sbírka moved)
 BASELINE = "6744361da955327900e0dca50d70e388aafb380b"   # main before the lanes of 2026-11-13: the acts the build wrote
 FAR = "9999-12-31"
 
@@ -161,8 +161,10 @@ class History:
 
 # ---------------------------------------------------------------- workers
 
-def w_init(data: str) -> None:
+def w_init(data: str, prom: dict | None = None) -> None:
     B._init(data)
+    if prom:
+        B.PROMULGATED.update(prom)
 
 
 def w_act(args):
@@ -204,6 +206,14 @@ def want_at(res, day):
     return best[1], (best[0], best[2]) if best[0] else None
 
 
+def with_note(body: str, note: str, trailer: str) -> str:
+    """A note before the trailer block (the last paragraph) and one more trailer at its end."""
+    head, sep, tr = body.rstrip("\n").rpartition("\n\n")
+    if not sep:
+        return body.rstrip("\n") + "\n\n" + note + "\n\n" + trailer + "\n"
+    return head + "\n\n" + note + "\n\n" + tr + "\n" + trailer + "\n"
+
+
 def stamp(snap: str, k: int) -> str:
     t = dt.datetime.fromisoformat(f"{snap}T12:00:00").replace(tzinfo=PRAGUE) + dt.timedelta(seconds=k)
     return t.isoformat()
@@ -225,6 +235,14 @@ def corr_message(act, kind, f, t, sup, version, new, prev):
                 f"history has its file on those days. This commit removes the file for those days; the published commits "
                 f"stay as they were.")
         reason = (f"e-Sbírka's open data of {new} has no version of this act in force on this day; its data of {prev} had one")
+    elif kind == "added" and act in B.PROMULGATED:
+        subject = f"{p}: vyhlášené znění / as promulgated, in force from {f}"
+        body = (f"e-Sbírka publishes {p} with its promulgated text and no consolidated version yet. It has been in force "
+                f"since {f}, a day this history has already passed, so it is appended here, for {span}, as promulgated; "
+                f"when e-Sbírka consolidates it, the consolidated text follows as a correction. Only the promulgated "
+                f"text is legally binding.")
+        reason = (f"e-Sbírka's open data of {new} publishes this act, in force on this day, with its promulgated text; "
+                  f"its data of {prev} did not")
     elif kind == "added":
         subject = f"Oprava / Correction: {p} as in force from {f}"
         body = (f"The published history has no text of {p} for {span}; e-Sbírka's current data has a consolidated "
@@ -257,6 +275,10 @@ def plan(a) -> int:
         print(f"{time.strftime('%H:%M:%S')} {m} ({time.time() - t0:.0f}s)", flush=True)
 
     jobs, infos = B.load_jobs(data, [x for x in a.acts.split(",") if x] or None, None)
+    prom = json.loads(Path(a.promulgated).read_text(encoding="utf-8")) if a.promulgated else {}
+    B.PROMULGATED.update(prom)
+    have = {j["act"] for j in jobs}
+    jobs += [{"act": x, "info": infos[x], "repeals": []} for x in sorted(prom, key=B.act_key) if x not in have]
     hist = History(repo, a.ref)
     paths = {path_of(j["act"]): j["act"] for j in jobs}
     law_to = max((d for p in paths for d, _, _ in hist.law.get(p, ())), default="0000-00-00")
@@ -268,7 +290,7 @@ def plan(a) -> int:
         say("nothing to append after the last law day")
 
     results = {}
-    with ProcessPoolExecutor(a.workers, initializer=w_init, initargs=(str(data),)) as pool:
+    with ProcessPoolExecutor(a.workers, initializer=w_init, initargs=(str(data), prom)) as pool:
         for i, res in enumerate(pool.map(w_act, [(j, law_to, snap) for j in jobs], chunksize=4)):
             results[res["act"]] = res
             if (i + 1) % 2000 == 0:
@@ -334,7 +356,7 @@ def plan(a) -> int:
     texts = {}
     if need:
         jmap = {j["act"]: j for j in jobs}
-        with ProcessPoolExecutor(min(a.workers, len(need)), initializer=w_init, initargs=(str(data),)) as pool:
+        with ProcessPoolExecutor(min(a.workers, len(need)), initializer=w_init, initargs=(str(data), prom)) as pool:
             for act, tx in pool.map(w_texts, [(jmap[x], sorted(ods)) for x, ods in need.items()]):
                 texts[act] = tx
     commits = []
@@ -377,6 +399,11 @@ def plan(a) -> int:
             info = infos[e["act"]]
             if e["kind"] != "end" and (info.get("podtyp") in B.CONSTITUTIONAL or e["act"] in ("sb/1993/1",) + B.EXTRA_ACTS):
                 tags.append(f"{e['act']}/{date}")
+        if any(e["act"] in prom for e in group):
+            body = with_note(body, "Vyhlášené znění / Text as promulgated: e-Sbírka has not consolidated "
+                                   + ", ".join(sorted(e["act"] for e in group if e["act"] in prom))
+                                   + " yet; the consolidated text follows as a correction when it does.",
+                             "Text-source: promulgated")
         commits.append({"author": f"{author[0]} <{author[1]}>", "date": date, "message": subject + "\n\n" + body, "files": files})
         nlaw += 1
         i = jx
@@ -385,6 +412,9 @@ def plan(a) -> int:
     versions = sorted({(x[3]["act"], x[0]) for x in events if x[3]["kind"] != "end"})
     say(f"{nlaw} law commits, {len(versions)} versions, {len(new_acts)} new acts, {len(ends)} ends")
 
+    if a.check_id:
+        for c in commits:
+            c["message"] = c["message"].rstrip("\n") + f"\nCheck: {a.check_id}\n"
     with open(out / "commits.jsonl", "w", encoding="utf-8", newline="\n") as fh:
         for c in commits:
             fh.write(json.dumps(c, ensure_ascii=False) + "\n")
@@ -395,7 +425,11 @@ def plan(a) -> int:
                "corrections_by_kind": dict(ncorr), "corrected_acts": sorted(x for x in planned if planned[x]),
                "law_commits": nlaw, "law_days": sorted({x[0] for x in events}), "versions_appended": len(versions),
                "new_acts": new_acts, "ends": ends, "tags_not_pushed": tags, "held_back": held,
-               "fidelity_mismatch": sum(len(r["fidelity_bad"]) for r in results.values())}
+               "fidelity_mismatch": sum(len(r["fidelity_bad"]) for r in results.values()),
+               "corrections_detail": [[act, c[4], c[0], c[1], c[7]] for act in sorted((x for x in planned if planned[x]), key=B.act_key)
+                                      for c in planned[act]],
+               "changed_acts": sorted({x[3]["act"] for x in events if x[3]["kind"] == "change"}, key=B.act_key),
+               "promulgated": sorted(prom, key=B.act_key), "check_id": a.check_id}
     (out / "plan.json").write_text(json.dumps(summary, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     say(json.dumps({k: v for k, v in summary.items() if k not in ("corrected_acts",)}, ensure_ascii=False)[:2000])
     if not commits:
@@ -492,6 +526,8 @@ def main() -> int:
     ap.add_argument("--record", default="")
     ap.add_argument("--acts", default="")
     ap.add_argument("--workers", type=int, default=12)
+    ap.add_argument("--promulgated", default="", help="JSON {act: [[doc, from, to, version]]}: new acts to publish as enacted (census.py)")
+    ap.add_argument("--check-id", default="", help="the check this batch belongs to: a Check: trailer on every commit")
     a = ap.parse_args()
     if a.cmd == "plan":
         if not (a.data and a.out and a.prev):

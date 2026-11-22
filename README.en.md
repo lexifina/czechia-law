@@ -87,6 +87,12 @@ See [`LICENSE`](LICENSE). e-Sbírka's open datasets contain no works protected b
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## How current it is
+
+- [monitoring/](monitoring/README.en.md): every read of e-Sbírka and the other sources, when, and what came of it (acts added, changed and removed); month by month in [monitoring/checks/](monitoring/checks/), for programs in [data/checks/](data/checks/)
+- [WATCHING.en.md](WATCHING.en.md): every official source, what is read on it, how often and when it was last read
+- [FRESHNESS.en.md](FRESHNESS.en.md): when the history was last compared with e-Sbírka, and which acts are not here yet and why
+
 ## Visualisations
 
 [visualisations/](visualisations/): Czech law in 20 charts, drawn from this repository.

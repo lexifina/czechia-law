@@ -213,6 +213,14 @@ def main() -> int:
         docs = [r[0] for r in con.execute("""select v.doc from versions v join acts a on a.act=v.act
                           where ((a.coll='sb' and a.typ='PRAVPRED') or a.act in (%s)) and v.typ='KONSOL' and v.stav='PUBLIKOV'
                           order by v.doc""" % ",".join("?" * len(EXTRA_ACTS)), EXTRA_ACTS)]
+        # 2026-11-22: and the promulgated text (VYHLZNE) of acts in scope that have no consolidated version yet, so the
+        # census can tell e-Sbírka's "being digitised" notice from a real text, and a new act can be published as
+        # enacted before e-Sbírka consolidates it (census.py, append.py --promulgated).
+        docs += [r[0] for r in con.execute("""select v.doc from versions v join acts a on a.act=v.act
+                          where ((a.coll='sb' and a.typ='PRAVPRED') or a.act in (%s)) and v.typ='VYHLZNE' and v.stav='PUBLIKOV'
+                          and not exists (select 1 from versions k where k.act=v.act and k.typ='KONSOL' and k.stav='PUBLIKOV')
+                          order by v.doc""" % ",".join("?" * len(EXTRA_ACTS)), EXTRA_ACTS)]
+        docs = sorted(set(docs))
         con.close()
         df = db / "scope_docs.json"
         df.write_text(json.dumps(docs))

@@ -89,6 +89,12 @@ Viz [`LICENSE`](LICENSE). Otevřené datové sady e-Sbírky neobsahují autorsk�
 
 Toto je překlad anglické verze ([README.en.md](README.en.md)); pokud se liší, platí anglická verze.
 
+## Jak je to aktuální
+
+- [monitoring/](monitoring/README.md): každé čtení e-Sbírky a ostatních zdrojů, kdy proběhlo a co z něj vzešlo (nové, změněné a zrušené předpisy); po měsících v [monitoring/checks/](monitoring/checks/), strojově v [data/checks/](data/checks/)
+- [WATCHING.md](WATCHING.md): každý oficiální zdroj, co se na něm čte, jak často a kdy naposledy
+- [FRESHNESS.md](FRESHNESS.md): kdy byla historie naposledy porovnána s e-Sbírkou a které předpisy tu zatím nejsou a proč
+
 ## Vizualizace
 
 [visualisations/](visualisations/): české právo ve 20 grafech, nakreslených z tohoto repozitáře.

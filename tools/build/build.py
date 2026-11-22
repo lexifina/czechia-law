@@ -135,7 +135,14 @@ def _init(data: str) -> None:
         c.execute("pragma mmap_size=268435456")
 
 
+# Acts published as enacted (append.py --promulgated): act -> [(doc, in force from, in force to, version)], the
+# promulgated text (VYHLZNE) standing in for the consolidated versions e-Sbírka has not made yet.
+PROMULGATED: Dict[str, List[Tuple[int, str, Optional[str], str]]] = {}
+
+
 def versions_of(con: sqlite3.Connection, act: str) -> List[Tuple[int, str, Optional[str], str]]:
+    if act in PROMULGATED:
+        return [tuple(x) for x in PROMULGATED[act]]
     return con.execute("""select doc, od, do, v from versions where act=? and typ='KONSOL' and stav='PUBLIKOV' and nikdy=0
                           and od < ? order by od""", (act, LIMIT)).fetchall()
 
