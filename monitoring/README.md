@@ -14,7 +14,7 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 | [e-Sbírka – mezinárodní smlouvy a Úřední list](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | denně | 2026-11-23 06:55 UTC | beze změny | sledován |
 | [Sbírka právních předpisů územních samosprávných celků](https://sbirkapp.gov.cz) | `local/` | denně | 2026-11-22 20:04 UTC | změny zveřejněny | sledován: sčítání jednou týdně; předpisy, jejichž detail se dosud nečetl, jsou vedeny bez důvodu |
 | [Úřad pro publikace EU (Cellar)](https://publications.europa.eu) | `eu/` | týdně | — | — | zatím nesledován |
-| [Poslanecká sněmovna (otevřená data a tisky) a e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | týdně | 2026-11-22 19:30 UTC | změny zveřejněny | sledován: materiály ODOK a usnesení vlády se nečtou: robots.txt odok.gov.cz zakazuje roboty; z e-Legislativy jen hlavičky datových sad |
+| [Poslanecká sněmovna (otevřená data a tisky) a e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | týdně | 2026-11-23 07:03 UTC | beze změny | sledován: materiály ODOK a usnesení vlády se nečtou: robots.txt odok.gov.cz zakazuje roboty; z e-Legislativy jen hlavičky datových sad |
 | [Ministerstvo financí, ERÚ, ČTU, Finanční správa, ministerstva a MPSV](https://www.mf.gov.cz) | `regulator/`, `metodika/`, `vestnik/`, `kolektivni-smlouvy/` | týdně | — | — | zatím nesledován |
 | [Národní digitální knihovna](https://ndk.cz) | `historicke/` | — | — | — | uzavřený zdroj |
 | [Nejvyšší soud a databáze soudních rozhodnutí](https://rozhodnuti.nsoud.cz) | `caselaw/` | — | — | — | pozastaven: judikatura počká, nejdřív plné sledování předpisů |
@@ -23,6 +23,7 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 
 | Začátek (UTC) | Zdroj | Přečteno | Nové | Změněné | Zrušené | Nezveřejněno (bez důvodu) | Výsledek | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-23 07:00](checks/2026-11.md#cz-legislative-process-20261123t070000z) | legislative-process | 40 | 0 | 0 | 0 | 0 (0) | beze změny | — |
 | [2026-11-23 06:50](checks/2026-11.md#cz-e-sbirka-extra-20261123t065001z) | e-sbirka-extra | 6 | 0 | 0 | 0 | 1 (0) | beze změny | — |
 | [2026-11-23 05:30](checks/2026-11.md#cz-e-sbirka-20261123t053001z) | e-sbirka | 12 | 0 | 0 | 0 | 11 (0) | beze změny | — |
 | [2026-11-22 19:50](checks/2026-11.md#cz-sppsu-20261122t195010z) | sppsu | 19 | 2 | 0 | 0 | 0 (0) | změny zveřejněny | [2](https://github.com/lexifina/czechia-law/compare/40a9a83079c8...2e1979749470) |

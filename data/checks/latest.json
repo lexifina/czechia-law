@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-23T06:55:13Z",
+ "generated": "2026-11-23T07:03:17Z",
  "last_success": {
   "courts": null,
   "e-sbirka": "2026-11-23T05:41:27Z",
   "e-sbirka-extra": "2026-11-23T06:55:12Z",
   "eu-cellar": null,
-  "legislative-process": "2026-11-22T19:30:14Z",
+  "legislative-process": "2026-11-23T07:03:17Z",
   "ndk": null,
   "regulators": null,
   "sppsu": "2026-11-22T20:04:34Z"
@@ -359,637 +359,380 @@
     "repo": 372,
     "source_in_scope": 372
    },
-   "check_id": "cz-legislative-process-20261122T192211Z",
-   "commits": {
-    "count": 10,
-    "from": "a6e6a0fde696c85853f828e153742ec3544d933d",
-    "to": "88f80d3e25127bd0aae46754bd3965871bd705b5"
-   },
+   "check_id": "cz-legislative-process-20261123T070000Z",
+   "commits": null,
    "corpus": "czechia/drafts",
    "error": null,
-   "finished": "2026-11-22T19:30:14Z",
+   "finished": "2026-11-23T07:03:17Z",
    "flags": [],
    "gap": [],
    "note": {
-    "cs": "Nečtou se materiály ODok/VeKLEP ani usnesení vlády (robots.txt odok.gov.cz zakazuje roboty) ani Senát; z e-Legislativy jen hlavičky datových sad (tvůrce složky navrhy/elegislativa zde není). Census: tisky probíhajícího volebního období Sněmovny.",
-    "en": "ODok/VeKLEP materials and government resolutions are not read (odok.gov.cz robots.txt disallows bots), nor the Senate; e-Legislativa: only the datasets' headers (navrhy/elegislativa's builder is not on this machine). Census: the prints of the Chamber's current term."
+    "cs": "Nečtou se materiály ODok/VeKLEP ani usnesení vlády (robots.txt odok.gov.cz zakazuje roboty) ani Senát; z e-Legislativy jen hlavičky datových sad (tvůrce složky navrhy/elegislativa zde není). Census: tisky probíhajícího volebního období Sněmovny. Změněné datové sady e-Legislativy od minulé kontroly: 100, 104, 107, 140.",
+    "en": "ODok/VeKLEP materials and government resolutions are not read (odok.gov.cz robots.txt disallows bots), nor the Senate; e-Legislativa: only the datasets' headers (navrhy/elegislativa's builder is not on this machine). Census: the prints of the Chamber's current term. e-Legislativa datasets changed since the last check: 100, 104, 107, 140."
    },
-   "outcome": "changed",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "navrhy/snemovna/2025/368",
-     "navrhy/snemovna/2025/369",
-     "navrhy/snemovna/2025/370",
-     "navrhy/snemovna/2025/371",
-     "navrhy/snemovna/2025/372"
-    ],
-    "changed": [
-     "navrhy/data/bill-stages",
-     "navrhy/data/bills",
-     "navrhy/data/senate-prints",
-     "navrhy/data/votes/2025-poslanci",
-     "navrhy/snemovna/2025/35",
-     "navrhy/snemovna/2025/301",
-     "navrhy/snemovna/2025/346",
-     "navrhy/data/votes/2025"
-    ],
+    "added": [],
+    "changed": [],
     "removed": []
    },
    "requests": [
     {
-     "at": "2026-11-22T19:22:11Z",
+     "at": "2026-11-23T07:00:01Z",
      "bytes": 424354,
-     "etag": "6b023d40-679a2",
-     "last_modified": "Sun, 22 Nov 2026 00:54:24 GMT",
+     "etag": "6b038ec0-679a2",
+     "last_modified": "Mon, 23 Nov 2026 00:54:24 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/poslanci.zip"
     },
     {
-     "at": "2026-11-22T19:22:11Z",
-     "bytes": 4161924,
-     "etag": "6b023d51-3f8184",
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "at": "2026-11-23T07:00:01Z",
+     "bytes": 4161927,
+     "etag": "6b038ed1-3f8187",
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/tisky.zip"
     },
     {
-     "at": "2026-11-22T19:22:12Z",
+     "at": "2026-11-23T07:00:02Z",
      "bytes": 392875,
-     "etag": "6b023d51-5feab",
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "etag": "6b038ed1-5feab",
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/sbirka.zip"
     },
     {
-     "at": "2026-11-22T19:22:12Z",
+     "at": "2026-11-23T07:00:02Z",
      "bytes": 2753560,
-     "etag": "6b023d51-2a0418",
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "etag": "6b038ed2-2a0418",
+     "last_modified": "Mon, 23 Nov 2026 00:54:42 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/schuze.zip"
     },
     {
-     "at": "2026-11-22T19:22:13Z",
-     "bytes": 269599,
-     "etag": "6b023d51-41d1f",
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "at": "2026-11-23T07:00:03Z",
+     "bytes": 269585,
+     "etag": "6b038ed1-41d11",
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/se_tisk.zip"
     },
     {
-     "at": "2026-11-22T19:22:13Z",
+     "at": "2026-11-23T07:00:04Z",
      "bytes": 2402604,
-     "etag": "6b023d52-24a92c",
-     "last_modified": "Sun, 22 Nov 2026 00:54:42 GMT",
+     "etag": "6b038ed2-24a92c",
+     "last_modified": "Mon, 23 Nov 2026 00:54:42 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/steno.zip"
     },
     {
-     "at": "2026-11-22T19:22:14Z",
-     "bytes": 140949,
-     "etag": "6b023d51-22695",
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "at": "2026-11-23T07:00:04Z",
+     "bytes": 141011,
+     "etag": "6b038ed2-226d3",
+     "last_modified": "Mon, 23 Nov 2026 00:54:42 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/sd.zip"
     },
     {
-     "at": "2026-11-22T19:22:14Z",
+     "at": "2026-11-23T07:00:05Z",
      "bytes": 509270,
-     "etag": "6b023d51-7c556",
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "etag": "6b038ed1-7c556",
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/interp.zip"
     },
     {
-     "at": "2026-11-22T19:22:15Z",
-     "bytes": 4483255,
-     "etag": "6b023d50-4468b7",
-     "last_modified": "Sun, 22 Nov 2026 00:54:40 GMT",
+     "at": "2026-11-23T07:00:05Z",
+     "bytes": 4527603,
+     "etag": "6b038ed1-4515f3",
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-1993ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:15Z",
-     "bytes": 4513397,
-     "etag": "6b023d4f-44de75",
-     "last_modified": "Sun, 22 Nov 2026 00:54:39 GMT",
+     "at": "2026-11-23T07:00:06Z",
+     "bytes": 4547739,
+     "etag": "6b038ecf-45649b",
+     "last_modified": "Mon, 23 Nov 2026 00:54:39 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-1996ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:16Z",
-     "bytes": 8851681,
-     "etag": "6b023d4e-8710e1",
-     "last_modified": "Sun, 22 Nov 2026 00:54:38 GMT",
+     "at": "2026-11-23T07:00:07Z",
+     "bytes": 8890731,
+     "etag": "6b038ece-87a96b",
+     "last_modified": "Mon, 23 Nov 2026 00:54:38 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-1998ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:16Z",
-     "bytes": 9681798,
-     "etag": "6b023d4b-93bb86",
-     "last_modified": "Sun, 22 Nov 2026 00:54:35 GMT",
+     "at": "2026-11-23T07:00:08Z",
+     "bytes": 9711311,
+     "etag": "6b038ecc-942ecf",
+     "last_modified": "Mon, 23 Nov 2026 00:54:36 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2002ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:17Z",
-     "bytes": 6385491,
-     "etag": "6b023d49-616f53",
-     "last_modified": "Sun, 22 Nov 2026 00:54:33 GMT",
+     "at": "2026-11-23T07:00:09Z",
+     "bytes": 6371335,
+     "etag": "6b038ec9-613807",
+     "last_modified": "Mon, 23 Nov 2026 00:54:33 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2006ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:17Z",
-     "bytes": 4979764,
-     "etag": "6b023d47-4bfc34",
-     "last_modified": "Sun, 22 Nov 2026 00:54:31 GMT",
+     "at": "2026-11-23T07:00:10Z",
+     "bytes": 5019501,
+     "etag": "6b038ec8-4c976d",
+     "last_modified": "Mon, 23 Nov 2026 00:54:32 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2010ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:18Z",
-     "bytes": 6314359,
-     "etag": "6b023d46-605977",
-     "last_modified": "Sun, 22 Nov 2026 00:54:30 GMT",
+     "at": "2026-11-23T07:00:10Z",
+     "bytes": 6340848,
+     "etag": "6b038ec6-60c0f0",
+     "last_modified": "Mon, 23 Nov 2026 00:54:30 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2013ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:18Z",
-     "bytes": 7081284,
-     "etag": "6b023d44-6c0d44",
-     "last_modified": "Sun, 22 Nov 2026 00:54:28 GMT",
+     "at": "2026-11-23T07:00:11Z",
+     "bytes": 7057750,
+     "etag": "6b038ec5-6bb156",
+     "last_modified": "Mon, 23 Nov 2026 00:54:29 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2017ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:18Z",
-     "bytes": 6449522,
-     "etag": "6b023d42-626972",
-     "last_modified": "Sun, 22 Nov 2026 00:54:26 GMT",
+     "at": "2026-11-23T07:00:11Z",
+     "bytes": 6501247,
+     "etag": "6b038ec3-63337f",
+     "last_modified": "Mon, 23 Nov 2026 00:54:27 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2021ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:19Z",
-     "bytes": 3400329,
-     "etag": "6b023d41-33e289",
-     "last_modified": "Sun, 22 Nov 2026 00:54:25 GMT",
+     "at": "2026-11-23T07:00:12Z",
+     "bytes": 3400305,
+     "etag": "6b038ec1-33e271",
+     "last_modified": "Mon, 23 Nov 2026 00:54:25 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2025ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:20Z",
+     "at": "2026-11-23T07:00:13Z",
      "bytes": 424354,
-     "last_modified": "Sun, 22 Nov 2026 00:54:24 GMT",
+     "last_modified": "Mon, 23 Nov 2026 00:54:24 GMT",
      "method": "GET",
-     "sha256": "7b8af13ea21db60707a5aeae3d962e8457f3d77ad01c91699b1225f76a741594",
+     "sha256": "537744e6dea0b5df5096467e36d9567633f964bb224ae10b1d851bf6cf12e928",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/poslanci.zip"
     },
     {
-     "at": "2026-11-22T19:22:23Z",
-     "bytes": 4161924,
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "at": "2026-11-23T07:00:15Z",
+     "bytes": 4161927,
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "GET",
-     "sha256": "bba5569443af419500f3f5283def3f0cabfc9c7071819b11e1e2664571448eb8",
+     "sha256": "eba2bf76534d9d4df7dcaff2aefc04b8061e0d1b1f641803fc7cfd6d9465e623",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/tisky.zip"
     },
     {
-     "at": "2026-11-22T19:22:24Z",
+     "at": "2026-11-23T07:00:16Z",
      "bytes": 392875,
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "GET",
-     "sha256": "6baf844a398a7443c19742b2a1771079a8a1bc28211cb12bd6f60b5cdfe7ae5d",
+     "sha256": "fabf3d233d509f1714c12f08c046b845634f503a71c1374f994bcf990d10fea9",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/sbirka.zip"
     },
     {
-     "at": "2026-11-22T19:22:27Z",
+     "at": "2026-11-23T07:00:17Z",
      "bytes": 2753560,
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "last_modified": "Mon, 23 Nov 2026 00:54:42 GMT",
      "method": "GET",
-     "sha256": "4a43c939c285b1406b26b57306c3137193b0e6708f3747dda8c78243da2da8a5",
+     "sha256": "96f42d045d091350a639e2dcf9a2a2b4fed036925437b5feb2f7a7396e47874a",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/schuze.zip"
     },
     {
-     "at": "2026-11-22T19:22:28Z",
-     "bytes": 269599,
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "at": "2026-11-23T07:00:18Z",
+     "bytes": 269585,
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "GET",
-     "sha256": "65c6c1d051345095d0da3660de15667040394eecb6e3d85243e4b7c04cda0575",
+     "sha256": "3762f96b205e7de0afc033a03fc87d371a03e41ce3700e08b58e54592c0b0e2b",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/se_tisk.zip"
     },
     {
-     "at": "2026-11-22T19:22:29Z",
+     "at": "2026-11-23T07:00:20Z",
      "bytes": 2402604,
-     "last_modified": "Sun, 22 Nov 2026 00:54:42 GMT",
+     "last_modified": "Mon, 23 Nov 2026 00:54:42 GMT",
      "method": "GET",
-     "sha256": "23c06550cb7dfebe3c2044937c436aaf626470c92b51e467010186b4741605b7",
+     "sha256": "198d0e84afe4b93617a64354cdd62a4b560d304d9688ed00826c79ae4bcc7c69",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/steno.zip"
     },
     {
-     "at": "2026-11-22T19:22:30Z",
-     "bytes": 140949,
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "at": "2026-11-23T07:00:20Z",
+     "bytes": 141011,
+     "last_modified": "Mon, 23 Nov 2026 00:54:42 GMT",
      "method": "GET",
-     "sha256": "66160268c4bb89d9683dbe440b89cc5fd5cb3eda058e2fc0f083cbb62e765f23",
+     "sha256": "88005ad36d14c9296dea941f4bb78a021686a908628d22acfb9aea9609c63178",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/sd.zip"
     },
     {
-     "at": "2026-11-22T19:22:31Z",
+     "at": "2026-11-23T07:00:21Z",
      "bytes": 509270,
-     "last_modified": "Sun, 22 Nov 2026 00:54:41 GMT",
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "GET",
-     "sha256": "9ebf274477a78378d0c0bbd00df67b751d7a9135c680f4c9260b76e49a34bd02",
+     "sha256": "878188efe0a36e6ac7f5d9539fbe9ffeeeba31d6a7e4fc6467d68eb5c33adf42",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/interp.zip"
     },
     {
-     "at": "2026-11-22T19:22:33Z",
-     "bytes": 4483255,
-     "last_modified": "Sun, 22 Nov 2026 00:54:40 GMT",
+     "at": "2026-11-23T07:00:23Z",
+     "bytes": 4527603,
+     "last_modified": "Mon, 23 Nov 2026 00:54:41 GMT",
      "method": "GET",
-     "sha256": "a588de2b025a2e0a1e7b94b3d9882ebf589bb4f34af5987bd88ad2f17efca1d8",
+     "sha256": "177c1166a35287e24946f31e51de8470f1c1c378794189a0e6ff8da576bb2501",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-1993ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:35Z",
-     "bytes": 4513397,
-     "last_modified": "Sun, 22 Nov 2026 00:54:39 GMT",
+     "at": "2026-11-23T07:00:24Z",
+     "bytes": 4547739,
+     "last_modified": "Mon, 23 Nov 2026 00:54:39 GMT",
      "method": "GET",
-     "sha256": "91bb0183eac5afb07b837ec798c2e00343b6e78150d417a24b5f3f5b253f699a",
+     "sha256": "69e08974c900119b47483b138524defb851f61e904957f113d48e668be4597a5",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-1996ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:38Z",
-     "bytes": 8851681,
-     "last_modified": "Sun, 22 Nov 2026 00:54:38 GMT",
+     "at": "2026-11-23T07:00:28Z",
+     "bytes": 8890731,
+     "last_modified": "Mon, 23 Nov 2026 00:54:38 GMT",
      "method": "GET",
-     "sha256": "2a993ce31802bbbffc8a72ec3e82727ce50683d50273a083e86aa604359793ef",
+     "sha256": "279f3685b953b257ef28f5024fa21d9dc118c7a0363d5801fc4db65011423666",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-1998ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:41Z",
-     "bytes": 9681798,
-     "last_modified": "Sun, 22 Nov 2026 00:54:35 GMT",
+     "at": "2026-11-23T07:00:30Z",
+     "bytes": 9711311,
+     "last_modified": "Mon, 23 Nov 2026 00:54:36 GMT",
      "method": "GET",
-     "sha256": "299882458a9011c08fbf3b10e1363c95984d70a49e652589f19e16499698918b",
+     "sha256": "69f9dc4c974430bd5f9eea4c75e3396d31ad0c2016923d84acb8a56ef9224e12",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2002ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:43Z",
-     "bytes": 6385491,
-     "last_modified": "Sun, 22 Nov 2026 00:54:33 GMT",
+     "at": "2026-11-23T07:00:32Z",
+     "bytes": 6371335,
+     "last_modified": "Mon, 23 Nov 2026 00:54:33 GMT",
      "method": "GET",
-     "sha256": "1a39bfcf8ea35d4b581502296b9d1afb965f48e0b3e49b5a09f933fecb52bfd4",
+     "sha256": "1842410ab40c4cbf7acba77c216270c5aa1f747477e056684aa04cfe5ff4f900",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2006ps.zip"
     },
     {
-     "at": "2026-11-22T19:22:51Z",
-     "bytes": 4979764,
-     "last_modified": "Sun, 22 Nov 2026 00:54:31 GMT",
+     "at": "2026-11-23T07:00:33Z",
+     "bytes": 5019501,
+     "last_modified": "Mon, 23 Nov 2026 00:54:32 GMT",
      "method": "GET",
-     "sha256": "fe2d7929aefa20030e389d8dc092e39e18fab3a68904db5c53fc9f21c78d43ad",
+     "sha256": "334cb56639be261db3bd632d65d636110c97928d4a8a9433d49fa1a1a1570290",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2010ps.zip"
     },
     {
-     "at": "2026-11-22T19:23:00Z",
-     "bytes": 6314359,
-     "last_modified": "Sun, 22 Nov 2026 00:54:30 GMT",
+     "at": "2026-11-23T07:00:35Z",
+     "bytes": 6340848,
+     "last_modified": "Mon, 23 Nov 2026 00:54:30 GMT",
      "method": "GET",
-     "sha256": "eac23ee43a8c1f8691fe9e7596701ece8f6b3d70e43a2df7f9b1f28155b568ef",
+     "sha256": "cb12d465075e02f35222a15852d0424e75c432a5b94579c899d965bbcd8b4cab",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2013ps.zip"
     },
     {
-     "at": "2026-11-22T19:23:03Z",
-     "bytes": 7081284,
-     "last_modified": "Sun, 22 Nov 2026 00:54:28 GMT",
+     "at": "2026-11-23T07:00:37Z",
+     "bytes": 7057750,
+     "last_modified": "Mon, 23 Nov 2026 00:54:29 GMT",
      "method": "GET",
-     "sha256": "67c1fdabd6e0cb3aa8be26ddf11ac0a812b7fad6aec5d4b52e71bf4477c3b331",
+     "sha256": "92e816f6106440b293aad306f831dd3b5d12207729babac61987ff01f44d2de4",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2017ps.zip"
     },
     {
-     "at": "2026-11-22T19:23:06Z",
-     "bytes": 6449522,
-     "last_modified": "Sun, 22 Nov 2026 00:54:26 GMT",
+     "at": "2026-11-23T07:00:39Z",
+     "bytes": 6501247,
+     "last_modified": "Mon, 23 Nov 2026 00:54:27 GMT",
      "method": "GET",
-     "sha256": "e17ff2a1fe4bdab1bdc877478018e893bedaa1d85e799113613d4739e2501cf0",
+     "sha256": "726a1bac8b46ade18c54fdd57be748e7b922d175cbaa6668fa80dec91e77e3f1",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2021ps.zip"
     },
     {
-     "at": "2026-11-22T19:23:08Z",
-     "bytes": 3400329,
-     "last_modified": "Sun, 22 Nov 2026 00:54:25 GMT",
+     "at": "2026-11-23T07:00:41Z",
+     "bytes": 3400305,
+     "last_modified": "Mon, 23 Nov 2026 00:54:25 GMT",
      "method": "GET",
-     "sha256": "7003d2c59af7d3d26edeb6c6168c5a386c6434829e513a47321e5cab019f93bb",
+     "sha256": "e1115c37e59442159dcfc6e4875c0428d882aba40257809269ba1b1ffd087350",
      "status": 200,
      "url": "https://www.psp.cz/eknih/cdrom/opendata/hl-2025ps.zip"
     },
     {
-     "at": "2026-11-22T19:26:05Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=35"
-    },
-    {
-     "at": "2026-11-22T19:26:05Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/tiskt.sqw?o=10&ct=35&ct1=4"
-    },
-    {
-     "at": "2026-11-22T19:26:06Z",
-     "bytes": 104138,
-     "last_modified": "Wed, 18 Nov 2026 09:25:20 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282732"
-    },
-    {
-     "at": "2026-11-22T19:26:06Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=301"
-    },
-    {
-     "at": "2026-11-22T19:26:06Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/tiskt.sqw?o=10&ct=301&ct1=3"
-    },
-    {
-     "at": "2026-11-22T19:26:12Z",
-     "bytes": 251279,
-     "last_modified": "Wed, 18 Nov 2026 09:14:47 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282729"
-    },
-    {
-     "at": "2026-11-22T19:26:13Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=303"
-    },
-    {
-     "at": "2026-11-22T19:26:13Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=308"
-    },
-    {
-     "at": "2026-11-22T19:26:15Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=311"
-    },
-    {
-     "at": "2026-11-22T19:26:15Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=326"
-    },
-    {
-     "at": "2026-11-22T19:26:15Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=332"
-    },
-    {
-     "at": "2026-11-22T19:26:15Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=346"
-    },
-    {
-     "at": "2026-11-22T19:26:17Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/tiskt.sqw?o=10&ct=346&ct1=2"
-    },
-    {
-     "at": "2026-11-22T19:26:18Z",
-     "bytes": 309133,
-     "last_modified": "Wed, 18 Nov 2026 08:56:09 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282726"
-    },
-    {
-     "at": "2026-11-22T19:26:30Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=368"
-    },
-    {
-     "at": "2026-11-22T19:26:30Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/tiskt.sqw?o=10&ct=368&ct1=0"
-    },
-    {
-     "at": "2026-11-22T19:26:30Z",
-     "bytes": 1118373,
-     "last_modified": "Fri, 13 Nov 2026 10:00:54 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282613"
-    },
-    {
-     "at": "2026-11-22T19:26:31Z",
-     "bytes": 375115,
-     "last_modified": "Fri, 13 Nov 2026 10:00:54 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282615"
-    },
-    {
-     "at": "2026-11-22T19:26:33Z",
-     "bytes": 229282,
-     "last_modified": "Fri, 13 Nov 2026 10:00:54 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282617"
-    },
-    {
-     "at": "2026-11-22T19:26:34Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=369"
-    },
-    {
-     "at": "2026-11-22T19:26:34Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/tiskt.sqw?o=10&ct=369&ct1=0"
-    },
-    {
-     "at": "2026-11-22T19:26:35Z",
-     "bytes": 700194,
-     "last_modified": "Fri, 13 Nov 2026 13:56:26 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282676"
-    },
-    {
-     "at": "2026-11-22T19:26:35Z",
-     "bytes": 153669,
-     "last_modified": "Fri, 13 Nov 2026 13:56:26 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282678"
-    },
-    {
-     "at": "2026-11-22T19:26:36Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=370"
-    },
-    {
-     "at": "2026-11-22T19:26:36Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/tiskt.sqw?o=10&ct=370&ct1=0"
-    },
-    {
-     "at": "2026-11-22T19:26:36Z",
-     "bytes": 293205,
-     "last_modified": "Wed, 18 Nov 2026 12:57:24 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282744"
-    },
-    {
-     "at": "2026-11-22T19:26:37Z",
-     "bytes": 283722,
-     "last_modified": "Wed, 18 Nov 2026 12:57:24 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282746"
-    },
-    {
-     "at": "2026-11-22T19:26:37Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=371"
-    },
-    {
-     "at": "2026-11-22T19:26:38Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/tiskt.sqw?o=10&ct=371&ct1=0"
-    },
-    {
-     "at": "2026-11-22T19:26:38Z",
-     "bytes": 541204,
-     "last_modified": "Thu, 19 Nov 2026 08:53:43 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282760"
-    },
-    {
-     "at": "2026-11-22T19:26:38Z",
-     "bytes": 140530,
-     "last_modified": "Thu, 19 Nov 2026 08:53:43 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282762"
-    },
-    {
-     "at": "2026-11-22T19:26:39Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=372"
-    },
-    {
-     "at": "2026-11-22T19:26:39Z",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/tiskt.sqw?o=10&ct=372&ct1=0"
-    },
-    {
-     "at": "2026-11-22T19:26:39Z",
-     "bytes": 491084,
-     "last_modified": "Thu, 19 Nov 2026 08:56:21 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282765"
-    },
-    {
-     "at": "2026-11-22T19:26:40Z",
-     "bytes": 151760,
-     "last_modified": "Thu, 19 Nov 2026 08:56:21 GMT",
-     "method": "GET",
-     "status": 200,
-     "url": "https://www.psp.cz/sqw/text/orig2.sqw?idd=282767"
-    },
-    {
-     "at": "2026-11-22T19:30:10Z",
+     "at": "2026-11-23T07:03:12Z",
      "bytes": 84569,
-     "etag": "14a59-660d18bfe09e8",
-     "last_modified": "Sat, 21 Nov 2026 23:16:13 GMT",
+     "etag": "14a59-660e5a91313e8",
+     "last_modified": "Sun, 22 Nov 2026 23:16:00 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-elegislativa/100NavrhAktuNavrh.json.gz"
     },
     {
-     "at": "2026-11-22T19:30:11Z",
+     "at": "2026-11-23T07:03:13Z",
      "bytes": 1255069,
-     "etag": "13269d-660d195a86380",
-     "last_modified": "Sat, 21 Nov 2026 23:18:55 GMT",
+     "etag": "13269d-660e5b07ba758",
+     "last_modified": "Sun, 22 Nov 2026 23:18:04 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-elegislativa/104NavrhAktuVrstvaNavrhu.json.gz"
     },
     {
-     "at": "2026-11-22T19:30:12Z",
+     "at": "2026-11-23T07:03:15Z",
      "bytes": 576915,
-     "etag": "8cd93-660d19512b718",
-     "last_modified": "Sat, 21 Nov 2026 23:18:45 GMT",
+     "etag": "8cd93-660e5b0336b28",
+     "last_modified": "Sun, 22 Nov 2026 23:18:00 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-elegislativa/107NavrhAktuDokument.json.gz"
     },
     {
-     "at": "2026-11-22T19:30:13Z",
+     "at": "2026-11-23T07:03:16Z",
      "bytes": 18424464,
-     "etag": "1192290-660d18a88dea8",
-     "last_modified": "Sat, 21 Nov 2026 23:15:48 GMT",
+     "etag": "1192290-660e5a7993970",
+     "last_modified": "Sun, 22 Nov 2026 23:15:35 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-elegislativa/140NavrhAktuObjekt.json.gz"
@@ -998,43 +741,14 @@
    "runner": "czechia-law watch/legislative-process.py (1f56b415b1)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "navrhy/snemovna/2025/368",
-     "navrhy/snemovna/2025/369",
-     "navrhy/snemovna/2025/370",
-     "navrhy/snemovna/2025/371",
-     "navrhy/snemovna/2025/372"
-    ],
-    "changed": [
-     "navrhy/data/bill-stages",
-     "navrhy/data/bills",
-     "navrhy/data/senate-prints",
-     "navrhy/data/votes/2025-poslanci",
-     "navrhy/snemovna/2025/35",
-     "navrhy/snemovna/2025/301",
-     "navrhy/snemovna/2025/303",
-     "navrhy/snemovna/2025/308",
-     "navrhy/snemovna/2025/311",
-     "navrhy/snemovna/2025/326",
-     "navrhy/snemovna/2025/332",
-     "navrhy/snemovna/2025/346",
-     "navrhy/data/votes/2025"
-    ],
+    "added": [],
+    "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-22",
+   "snapshot": "2026-11-23",
    "source": "legislative-process",
-   "started": "2026-11-22T19:22:11Z",
-   "titles": {
-    "navrhy/snemovna/2025/301": "Vl. n. z. o platformové práci",
-    "navrhy/snemovna/2025/346": "Finanční závazky na dálnici D35",
-    "navrhy/snemovna/2025/35": "Novela z. o platu představitelů státní moci",
-    "navrhy/snemovna/2025/368": "Novela z. o kritické infrastruktuře",
-    "navrhy/snemovna/2025/369": "Novela z. - energetický zákon",
-    "navrhy/snemovna/2025/370": "Novela z. o předpokladech pro výkon funkcí",
-    "navrhy/snemovna/2025/371": "N. z. o Komisi pro přezkum úmrtí dětí",
-    "navrhy/snemovna/2025/372": "Novela z. o sociálně-právní ochraně dětí"
-   },
+   "started": "2026-11-23T07:00:00Z",
+   "titles": {},
    "unexplained": 0,
    "verify": {
     "method": "verify_data.py: every value of navrhy/data/ against psp.cz's raw .unl files",

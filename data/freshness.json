@@ -4,9 +4,9 @@
  "note": "How current czechia-law is, from its check trail (data/checks/): the day e-Sbírka's open data was last read and every act checked against it. tools/checktrail.py reads the trail.",
  "checked_against_official_source": "2026-11-23",
  "totals": {
-  "acts": 26815,
+  "acts": 372,
   "by_status": {
-   "current": 26815,
+   "current": 372,
    "pending-change": 0,
    "stale": 0,
    "unverified": 0,
@@ -39,8 +39,8 @@
    "source": "legislative-process",
    "name": "Chamber of Deputies (open data and prints) and e-Legislativa",
    "state": "available",
-   "last_successful_check": "2026-11-22",
-   "last_successful_contact": "2026-11-22"
+   "last_successful_check": "2026-11-23",
+   "last_successful_contact": "2026-11-23"
   }
  ]
 }
