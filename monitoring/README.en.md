@@ -12,7 +12,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 | --- | --- | --- | --- | --- | --- |
 | [e-Sbírka open data (Ministry of the Interior)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | daily | 2026-11-23 05:41 UTC | no change | watched |
 | [e-Sbírka: international treaties and the Official Journal](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | daily | 2026-11-23 06:55 UTC | no change | watched |
-| [Collection of Legal Regulations of Local and Regional Authorities](https://sbirkapp.gov.cz) | `local/` | daily | 2026-11-22 20:04 UTC | changes published | watched: census once a week; regulations whose detail page has not been read yet are listed with no reason |
+| [Collection of Legal Regulations of Local and Regional Authorities](https://sbirkapp.gov.cz) | `local/` | daily | 2026-11-22 20:04 UTC | the check failed | watched: census once a week; regulations whose detail page has not been read yet are listed with no reason |
 | [EU Publications Office (Cellar)](https://publications.europa.eu) | `eu/` | weekly | — | — | not watched yet |
 | [Chamber of Deputies (open data and prints) and e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | weekly | 2026-11-23 07:03 UTC | no change | watched: ODOK materials and government resolutions are not read: odok.gov.cz's robots.txt disallows bots; e-Legislativa: dataset headers only |
 | [Ministry of Finance, ERÚ, ČTU, Financial Administration, ministries and MPSV](https://www.mf.gov.cz) | `regulator/`, `metodika/`, `vestnik/`, `kolektivni-smlouvy/` | weekly | — | — | not watched yet |
@@ -23,6 +23,15 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-23 15:20](checks/2026-11.md#cz-sppsu-20261123t152003z) | sppsu | 18 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-23 14:20](checks/2026-11.md#cz-sppsu-20261123t142003z) | sppsu | 24 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-23 13:20](checks/2026-11.md#cz-sppsu-20261123t132003z) | sppsu | 25 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-23 12:20](checks/2026-11.md#cz-sppsu-20261123t122003z) | sppsu | 34 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-23 11:20](checks/2026-11.md#cz-sppsu-20261123t112003z) | sppsu | 19 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-23 10:20](checks/2026-11.md#cz-sppsu-20261123t102018z) | sppsu | 18 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-23 09:50](checks/2026-11.md#cz-sppsu-20261123t095026z) | sppsu | 29 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-23 08:20](checks/2026-11.md#cz-sppsu-20261123t082002z) | sppsu | 27 | 0 | 0 | 0 | 0 (0) | the check failed | — |
+| [2026-11-23 07:20](checks/2026-11.md#cz-sppsu-20261123t072002z) | sppsu | 22 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-23 07:00](checks/2026-11.md#cz-legislative-process-20261123t070000z) | legislative-process | 40 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-23 06:50](checks/2026-11.md#cz-e-sbirka-extra-20261123t065001z) | e-sbirka-extra | 6 | 0 | 0 | 0 | 1 (0) | no change | — |
 | [2026-11-23 05:30](checks/2026-11.md#cz-e-sbirka-20261123t053001z) | e-sbirka | 12 | 0 | 0 | 0 | 11 (0) | no change | — |

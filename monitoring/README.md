@@ -12,7 +12,7 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 | --- | --- | --- | --- | --- | --- |
 | [e-Sbírka – otevřená data (Ministerstvo vnitra ČR)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | denně | 2026-11-23 05:41 UTC | beze změny | sledován |
 | [e-Sbírka – mezinárodní smlouvy a Úřední list](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | denně | 2026-11-23 06:55 UTC | beze změny | sledován |
-| [Sbírka právních předpisů územních samosprávných celků](https://sbirkapp.gov.cz) | `local/` | denně | 2026-11-22 20:04 UTC | změny zveřejněny | sledován: sčítání jednou týdně; předpisy, jejichž detail se dosud nečetl, jsou vedeny bez důvodu |
+| [Sbírka právních předpisů územních samosprávných celků](https://sbirkapp.gov.cz) | `local/` | denně | 2026-11-22 20:04 UTC | kontrola selhala | sledován: sčítání jednou týdně; předpisy, jejichž detail se dosud nečetl, jsou vedeny bez důvodu |
 | [Úřad pro publikace EU (Cellar)](https://publications.europa.eu) | `eu/` | týdně | — | — | zatím nesledován |
 | [Poslanecká sněmovna (otevřená data a tisky) a e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | týdně | 2026-11-23 07:03 UTC | beze změny | sledován: materiály ODOK a usnesení vlády se nečtou: robots.txt odok.gov.cz zakazuje roboty; z e-Legislativy jen hlavičky datových sad |
 | [Ministerstvo financí, ERÚ, ČTU, Finanční správa, ministerstva a MPSV](https://www.mf.gov.cz) | `regulator/`, `metodika/`, `vestnik/`, `kolektivni-smlouvy/` | týdně | — | — | zatím nesledován |
@@ -23,6 +23,15 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 
 | Začátek (UTC) | Zdroj | Přečteno | Nové | Změněné | Zrušené | Nezveřejněno (bez důvodu) | Výsledek | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-23 15:20](checks/2026-11.md#cz-sppsu-20261123t152003z) | sppsu | 18 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-23 14:20](checks/2026-11.md#cz-sppsu-20261123t142003z) | sppsu | 24 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-23 13:20](checks/2026-11.md#cz-sppsu-20261123t132003z) | sppsu | 25 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-23 12:20](checks/2026-11.md#cz-sppsu-20261123t122003z) | sppsu | 34 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-23 11:20](checks/2026-11.md#cz-sppsu-20261123t112003z) | sppsu | 19 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-23 10:20](checks/2026-11.md#cz-sppsu-20261123t102018z) | sppsu | 18 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-23 09:50](checks/2026-11.md#cz-sppsu-20261123t095026z) | sppsu | 29 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-23 08:20](checks/2026-11.md#cz-sppsu-20261123t082002z) | sppsu | 27 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-23 07:20](checks/2026-11.md#cz-sppsu-20261123t072002z) | sppsu | 22 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
 | [2026-11-23 07:00](checks/2026-11.md#cz-legislative-process-20261123t070000z) | legislative-process | 40 | 0 | 0 | 0 | 0 (0) | beze změny | — |
 | [2026-11-23 06:50](checks/2026-11.md#cz-e-sbirka-extra-20261123t065001z) | e-sbirka-extra | 6 | 0 | 0 | 0 | 1 (0) | beze změny | — |
 | [2026-11-23 05:30](checks/2026-11.md#cz-e-sbirka-20261123t053001z) | e-sbirka | 12 | 0 | 0 | 0 | 11 (0) | beze změny | — |
