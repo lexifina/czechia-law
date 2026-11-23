@@ -6,7 +6,7 @@ Jak global-law sleduje zdroje všech zemí: [global-law WATCHING.md](https://git
 
 | Zdroj | Co se čte | Složky | Jak často | Naposledy přečteno | Stav |
 | --- | --- | --- | --- | --- | --- |
-| [e-Sbírka – otevřená data (Ministerstvo vnitra ČR)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | šest denních datových sad (předpisy, znění, fragmenty znění, fragmenty, metadata, konsolidační vazby); hlavička každé sady, celá sada jen když se změnila | `sb/` | denně | 2026-11-22 18:12 UTC | sledován |
+| [e-Sbírka – otevřená data (Ministerstvo vnitra ČR)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | šest denních datových sad (předpisy, znění, fragmenty znění, fragmenty, metadata, konsolidační vazby); hlavička každé sady, celá sada jen když se změnila | `sb/` | denně | 2026-11-23 05:30 UTC | sledován |
 | [e-Sbírka – mezinárodní smlouvy a Úřední list](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | tytéž denní datové sady: sbírka mezinárodních smluv, Úřední list a položky Sbírky zákonů, které nejsou předpisy (smlouvy, sdělení); každá položka znovu porovnána se zdrojem | `sbms/`, `ul/`, `sb/` | denně | 2026-11-22 19:11 UTC | sledován |
 | [Sbírka právních předpisů územních samosprávných celků](https://sbirkapp.gov.cz) | první stránky každého výpisu předpisů a detail každého nového předpisu | `local/` | denně | 2026-11-22 19:50 UTC | sledován: sčítání jednou týdně; předpisy, jejichž detail se dosud nečetl, jsou vedeny bez důvodu |
 | [Úřad pro publikace EU (Cellar)](https://publications.europa.eu) | seznam předpisů EU v češtině a jejich nová konsolidovaná znění | `eu/` | týdně | — | zatím nesledován |
