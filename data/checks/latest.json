@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-24T05:44:06Z",
+ "generated": "2026-11-24T06:56:40Z",
  "last_success": {
   "courts": null,
   "e-sbirka": "2026-11-24T05:44:05Z",
-  "e-sbirka-extra": "2026-11-23T06:55:12Z",
+  "e-sbirka-extra": "2026-11-24T06:56:39Z",
   "eu-cellar": null,
   "legislative-process": "2026-11-23T07:03:17Z",
   "ndk": null,
@@ -245,11 +245,11 @@
     "repo": 26815,
     "source_in_scope": 26816
    },
-   "check_id": "cz-e-sbirka-extra-20261123T065001Z",
+   "check_id": "cz-e-sbirka-extra-20261124T065001Z",
    "commits": null,
    "corpus": "czechia/national/treaties-and-journal",
    "error": null,
-   "finished": "2026-11-23T06:55:12Z",
+   "finished": "2026-11-24T06:56:39Z",
    "flags": [],
    "gap": [
     {
@@ -266,55 +266,55 @@
    },
    "requests": [
     {
-     "at": "2026-11-23T06:50:02Z",
-     "bytes": 179677732,
-     "etag": "ab5aa24-660e840813a50",
-     "last_modified": "Mon, 23 Nov 2026 02:21:31 GMT",
+     "at": "2026-11-24T06:50:02Z",
+     "bytes": 179657389,
+     "etag": "ab55aad-660fcfaabcc60",
+     "last_modified": "Tue, 24 Nov 2026 03:05:13 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/001PravniAktZneni.json.gz"
     },
     {
-     "at": "2026-11-23T06:50:02Z",
-     "bytes": 5493399,
-     "etag": "53d297-660e7f4d34008",
-     "last_modified": "Mon, 23 Nov 2026 02:00:21 GMT",
+     "at": "2026-11-24T06:50:02Z",
+     "bytes": 5493545,
+     "etag": "53d329-660fc57d050d8",
+     "last_modified": "Tue, 24 Nov 2026 02:19:41 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/002PravniAkt.json.gz"
     },
     {
-     "at": "2026-11-23T06:50:02Z",
-     "bytes": 1246468509,
-     "etag": "4a4b999d-660e9824fa0d8",
-     "last_modified": "Mon, 23 Nov 2026 03:51:30 GMT",
+     "at": "2026-11-24T06:50:02Z",
+     "bytes": 1259947209,
+     "etag": "4b1944c9-660fe538fdde8",
+     "last_modified": "Tue, 24 Nov 2026 04:41:40 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/003PravniAktZneniFragment.json.gz"
     },
     {
-     "at": "2026-11-23T06:50:02Z",
-     "bytes": 532059746,
-     "etag": "1fb69662-660e7c54c2a98",
-     "last_modified": "Mon, 23 Nov 2026 01:47:04 GMT",
+     "at": "2026-11-24T06:50:02Z",
+     "bytes": 532540712,
+     "etag": "1fbded28-660fc284a4cd8",
+     "last_modified": "Tue, 24 Nov 2026 02:06:24 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/004PravniAktFragment.json.gz"
     },
     {
-     "at": "2026-11-23T06:50:02Z",
-     "bytes": 6374030,
-     "etag": "61428e-660e8fa66ef28",
-     "last_modified": "Mon, 23 Nov 2026 03:13:29 GMT",
+     "at": "2026-11-24T06:50:02Z",
+     "bytes": 6370724,
+     "etag": "6135a4-660fdb973b400",
+     "last_modified": "Tue, 24 Nov 2026 03:58:34 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/006PravniAktMetadata.json.gz"
     },
     {
-     "at": "2026-11-23T06:50:03Z",
-     "bytes": 20147366,
-     "etag": "1336ca6-660e806df4698",
-     "last_modified": "Mon, 23 Nov 2026 02:05:24 GMT",
+     "at": "2026-11-24T06:50:03Z",
+     "bytes": 20162208,
+     "etag": "133a6a0-660fc6d566eb0",
+     "last_modified": "Tue, 24 Nov 2026 02:25:42 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/007PravniAktKonsolidacniVazba.json.gz"
@@ -325,31 +325,34 @@
    "seen": {
     "added": [],
     "changed": [
-     "ul/1957/108",
      "sb/1964/175"
     ],
     "removed": []
    },
-   "snapshot": "2026-11-23",
+   "snapshot": "2026-11-24",
    "source": "e-sbirka-extra",
-   "started": "2026-11-23T06:50:01Z",
+   "started": "2026-11-24T06:50:01Z",
    "titles": {
     "sbms/2007/19": "Sdělení Ministerstva zahraničních věcí, kterým se doplňují sdělení č. 61/1991 Sb., č. 251/1991 Sb., č. 29/1998 Sb., č. 60/1999 Sb., č. 9/2002 Sb. m. s., č. 46/2"
    },
    "unexplained": 0,
    "verify": {
     "corrections": 0,
-    "differ_examples": [],
+    "differ_examples": [
+     "sb/1997/n63",
+     "sb/2003/n1",
+     "sb/2020/n1"
+    ],
     "ends_checked": 0,
     "ends_wrong": 0,
     "hist_tip_checked": 11979,
     "method": "letters and digits of every new text equal e-Sbírka's fragments; every held item rendered again and compared with its file at the tip of main (blob id); an item whose record changed at e-Sbírka and whose text differs is corrected; versions_differ counts the rest",
     "new_versions_checked": 0,
-    "ok": true,
+    "ok": false,
     "prom_rendered_again": 14836,
     "published_checked": [],
     "versions_checked": 26815,
-    "versions_differ": 0
+    "versions_differ": 3
    }
   },
   "legislative-process": {
