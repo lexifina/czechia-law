@@ -4,13 +4,13 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Czechia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-23 05:41 UTC, e-Sbírka open data (Ministry of the Interior): 12 addresses read; 0 added, 0 changed, 0 removed; no change; 11 not published, 0 of them with no reason.
+**Last check:** 2026-11-24 05:44 UTC, e-Sbírka open data (Ministry of the Interior): 12 addresses read; 0 added, 1 changed, 0 removed; changes published; 10 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [e-Sbírka open data (Ministry of the Interior)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | daily | 2026-11-23 05:41 UTC | no change | watched |
+| [e-Sbírka open data (Ministry of the Interior)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | daily | 2026-11-24 05:44 UTC | changes published | watched |
 | [e-Sbírka: international treaties and the Official Journal](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | daily | 2026-11-23 06:55 UTC | no change | watched |
 | [Collection of Legal Regulations of Local and Regional Authorities](https://sbirkapp.gov.cz) | `local/` | daily | 2026-11-22 20:04 UTC | the check failed | watched: census once a week; regulations whose detail page has not been read yet are listed with no reason |
 | [EU Publications Office (Cellar)](https://publications.europa.eu) | `eu/` | weekly | — | — | not watched yet |
@@ -23,6 +23,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 05:30](checks/2026-11.md#cz-e-sbirka-20261124t053001z) | e-sbirka | 12 | 0 | 1 | 0 | 10 (0) | changes published | [1](https://github.com/lexifina/czechia-law/compare/0d4cdb16805c...47009f20be95) |
 | [2026-11-23 15:20](checks/2026-11.md#cz-sppsu-20261123t152003z) | sppsu | 18 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-23 14:20](checks/2026-11.md#cz-sppsu-20261123t142003z) | sppsu | 24 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-23 13:20](checks/2026-11.md#cz-sppsu-20261123t132003z) | sppsu | 25 | 0 | 0 | 0 | 0 (0) | the check failed | — |
