@@ -23,6 +23,15 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 
 | Začátek (UTC) | Zdroj | Přečteno | Nové | Změněné | Zrušené | Nezveřejněno (bez důvodu) | Výsledek | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 15:20](checks/2026-11.md#cz-sppsu-20261124t152007z) | sppsu | 23 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-24 14:20](checks/2026-11.md#cz-sppsu-20261124t142004z) | sppsu | 33 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-24 13:20](checks/2026-11.md#cz-sppsu-20261124t132003z) | sppsu | 29 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-24 12:20](checks/2026-11.md#cz-sppsu-20261124t122004z) | sppsu | 26 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-24 11:20](checks/2026-11.md#cz-sppsu-20261124t112002z) | sppsu | 26 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-24 10:20](checks/2026-11.md#cz-sppsu-20261124t102003z) | sppsu | 22 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-24 09:20](checks/2026-11.md#cz-sppsu-20261124t092002z) | sppsu | 34 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-24 08:20](checks/2026-11.md#cz-sppsu-20261124t082002z) | sppsu | 23 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
+| [2026-11-24 07:20](checks/2026-11.md#cz-sppsu-20261124t072002z) | sppsu | 39 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
 | [2026-11-24 06:50](checks/2026-11.md#cz-e-sbirka-extra-20261124t065001z) | e-sbirka-extra | 6 | 0 | 0 | 0 | 1 (0) | beze změny | — |
 | [2026-11-24 05:30](checks/2026-11.md#cz-e-sbirka-20261124t053001z) | e-sbirka | 12 | 0 | 1 | 0 | 10 (0) | změny zveřejněny | [1](https://github.com/lexifina/czechia-law/compare/0d4cdb16805c...47009f20be95) |
 | [2026-11-23 15:20](checks/2026-11.md#cz-sppsu-20261123t152003z) | sppsu | 18 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
