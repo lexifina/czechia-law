@@ -4,13 +4,13 @@
 
 Jak global-law sleduje všechny země: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Tato stránka je totéž jen pro Česko: každé čtení oficiálního zdroje, kdy proběhlo a co z něj vzešlo (nové, změněné a zrušené předpisy). Strojově čitelná podoba je v [data/checks/](../data/checks/) (JSON Lines, schéma `lexifina-check/1`), v `git log` jako commity `Kind: check` a po měsících v [checks/](checks/).
 
-**Poslední kontrola:** 2026-11-24 05:44 UTC, e-Sbírka – otevřená data (Ministerstvo vnitra ČR): přečteno 12 adres; 0 nových, 1 změněných, 0 zrušených; změny zveřejněny; nezveřejněno 10, z toho bez důvodu 0.
+**Poslední kontrola:** 2026-11-25 05:43 UTC, e-Sbírka – otevřená data (Ministerstvo vnitra ČR): přečteno 12 adres; 1 nových, 1 změněných, 0 zrušených; změny zveřejněny; nezveřejněno 11, z toho bez důvodu 0.
 
 ## Zdroje
 
 | Zdroj | Složky | Jak často | Poslední úspěšná kontrola | Poslední výsledek | Stav |
 | --- | --- | --- | --- | --- | --- |
-| [e-Sbírka – otevřená data (Ministerstvo vnitra ČR)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | denně | 2026-11-24 05:44 UTC | změny zveřejněny | sledován |
+| [e-Sbírka – otevřená data (Ministerstvo vnitra ČR)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | denně | 2026-11-25 05:43 UTC | změny zveřejněny | sledován |
 | [e-Sbírka – mezinárodní smlouvy a Úřední list](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | denně | 2026-11-24 06:56 UTC | beze změny | sledován |
 | [Sbírka právních předpisů územních samosprávných celků](https://sbirkapp.gov.cz) | `local/` | denně | 2026-11-22 20:04 UTC | kontrola selhala | sledován: sčítání jednou týdně; předpisy, jejichž detail se dosud nečetl, jsou vedeny bez důvodu |
 | [Úřad pro publikace EU (Cellar)](https://publications.europa.eu) | `eu/` | týdně | — | — | zatím nesledován |
@@ -23,6 +23,7 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 
 | Začátek (UTC) | Zdroj | Přečteno | Nové | Změněné | Zrušené | Nezveřejněno (bez důvodu) | Výsledek | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 05:30](checks/2026-11.md#cz-e-sbirka-20261125t053001z) | e-sbirka | 12 | 1 | 1 | 0 | 11 (0) | změny zveřejněny | [3](https://github.com/lexifina/czechia-law/compare/99c093c55f52...6bcf4277c22f) |
 | [2026-11-24 15:20](checks/2026-11.md#cz-sppsu-20261124t152007z) | sppsu | 23 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
 | [2026-11-24 14:20](checks/2026-11.md#cz-sppsu-20261124t142004z) | sppsu | 33 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
 | [2026-11-24 13:20](checks/2026-11.md#cz-sppsu-20261124t132003z) | sppsu | 29 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
