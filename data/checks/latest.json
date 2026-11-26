@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25T06:57:41Z",
+ "generated": "2026-11-26T05:47:07Z",
  "last_success": {
   "courts": null,
-  "e-sbirka": "2026-11-25T05:43:33Z",
+  "e-sbirka": "2026-11-26T05:47:06Z",
   "e-sbirka-extra": "2026-11-25T06:57:40Z",
   "eu-cellar": null,
   "legislative-process": "2026-11-23T07:03:17Z",
@@ -15,20 +15,20 @@
    "attempt": 1,
    "audit": null,
    "census": {
-    "newest_at_source": "sb/2026/226",
-    "newest_in_repo": "sb/2026/225",
-    "repo": 18614,
-    "source_in_scope": 18625
+    "newest_at_source": "sb/2026/231",
+    "newest_in_repo": "sb/2026/231",
+    "repo": 18615,
+    "source_in_scope": 18626
    },
-   "check_id": "cz-e-sbirka-20261125T053001Z",
+   "check_id": "cz-e-sbirka-20261126T053002Z",
    "commits": {
-    "count": 3,
-    "from": "99c093c55f52f38d2c33e47069520d510d1d3fcd",
-    "to": "6bcf4277c22fa47b01789600c6b7207fb8e73f03"
+    "count": 13,
+    "from": "874127703dc5c475bf1f6b3d9d875f6f219d2eed",
+    "to": "18b45a76748eabfe42f6324b26dc937e83644d1b"
    },
    "corpus": "czechia/national/acts",
    "error": null,
-   "finished": "2026-11-25T05:43:33Z",
+   "finished": "2026-11-26T05:47:06Z",
    "flags": [],
    "gap": [
     {
@@ -90,119 +90,119 @@
    "outcome": "changed",
    "published": {
     "added": [
-     "sb/2026/225"
+     "sb/2026/231"
     ],
     "changed": [
-     "sb/2003/253"
+     "sb/2012/503"
     ],
     "removed": []
    },
    "requests": [
     {
-     "at": "2026-11-25T05:30:01Z",
-     "bytes": 179613846,
-     "etag": "ab4b096-6611105967a30",
-     "last_modified": "Wed, 25 Nov 2026 02:59:56 GMT",
+     "at": "2026-11-26T05:30:02Z",
+     "bytes": 179635884,
+     "etag": "ab506ac-6612538505d38",
+     "last_modified": "Thu, 26 Nov 2026 03:05:46 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/001PravniAktZneni.json.gz"
     },
     {
-     "at": "2026-11-25T05:30:01Z",
-     "bytes": 5493980,
-     "etag": "53d4dc-661107507b7b8",
-     "last_modified": "Wed, 25 Nov 2026 02:19:31 GMT",
+     "at": "2026-11-26T05:30:02Z",
+     "bytes": 5494563,
+     "etag": "53d723-66124b26c0708",
+     "last_modified": "Thu, 26 Nov 2026 02:28:20 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/002PravniAkt.json.gz"
     },
     {
-     "at": "2026-11-25T05:30:02Z",
-     "bytes": 1254987079,
-     "etag": "4acd9547-661125c51e728",
-     "last_modified": "Wed, 25 Nov 2026 04:35:46 GMT",
+     "at": "2026-11-26T05:30:03Z",
+     "bytes": 1240380533,
+     "etag": "49eeb475-6612697b205f0",
+     "last_modified": "Thu, 26 Nov 2026 04:44:01 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/003PravniAktZneniFragment.json.gz"
     },
     {
-     "at": "2026-11-25T05:30:02Z",
-     "bytes": 532563543,
-     "etag": "1fbe4657-661104552db88",
-     "last_modified": "Wed, 25 Nov 2026 02:06:10 GMT",
+     "at": "2026-11-26T05:30:03Z",
+     "bytes": 532651998,
+     "etag": "1fbf9fde-6612483ebaf50",
+     "last_modified": "Thu, 26 Nov 2026 02:15:20 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/004PravniAktFragment.json.gz"
     },
     {
-     "at": "2026-11-25T05:30:02Z",
-     "bytes": 6369391,
-     "etag": "61306f-66111c30cfad0",
-     "last_modified": "Wed, 25 Nov 2026 03:52:55 GMT",
+     "at": "2026-11-26T05:30:04Z",
+     "bytes": 6362457,
+     "etag": "611559-66125f606ec48",
+     "last_modified": "Thu, 26 Nov 2026 03:58:49 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/006PravniAktMetadata.json.gz"
     },
     {
-     "at": "2026-11-25T05:30:02Z",
-     "bytes": 20170706,
-     "etag": "133c7d2-66110899ee598",
-     "last_modified": "Wed, 25 Nov 2026 02:25:16 GMT",
+     "at": "2026-11-26T05:30:04Z",
+     "bytes": 20177463,
+     "etag": "133e237-66124c8091010",
+     "last_modified": "Thu, 26 Nov 2026 02:34:23 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/007PravniAktKonsolidacniVazba.json.gz"
     },
     {
-     "at": "2026-11-25T05:30:22Z",
-     "bytes": 179613846,
-     "last_modified": "Wed, 25 Nov 2026 02:59:56 GMT",
+     "at": "2026-11-26T05:30:21Z",
+     "bytes": 179635884,
+     "last_modified": "Thu, 26 Nov 2026 03:05:46 GMT",
      "method": "GET",
-     "sha256": "42f88bbe26bd74cbcf2581e0cc52821853d676ce57a4ae41ddcc6797ac65ab79",
+     "sha256": "863a28bd0ccc8c245a6de73a24a4040e31e4d085b7931a7a0ba788bee98671e8",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/001PravniAktZneni.json.gz"
     },
     {
-     "at": "2026-11-25T05:30:23Z",
-     "bytes": 5493980,
-     "last_modified": "Wed, 25 Nov 2026 02:19:31 GMT",
+     "at": "2026-11-26T05:30:23Z",
+     "bytes": 5494563,
+     "last_modified": "Thu, 26 Nov 2026 02:28:20 GMT",
      "method": "GET",
-     "sha256": "15f19d948183907cc89e605069ed376a49ac63ab364b81e0398660423a1cf811",
+     "sha256": "2c489b0f92abab2aee79c2543da2feb0dda0aaf193374c71bcd2537ed582a8e6",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/002PravniAkt.json.gz"
     },
     {
-     "at": "2026-11-25T05:32:34Z",
-     "bytes": 1254987079,
-     "last_modified": "Wed, 25 Nov 2026 04:35:46 GMT",
+     "at": "2026-11-26T05:32:21Z",
+     "bytes": 1240380533,
+     "last_modified": "Thu, 26 Nov 2026 04:44:01 GMT",
      "method": "GET",
-     "sha256": "dc53786189300d5ff47af173dcd98e00457a56169e77a06a847fa03000f45fff",
+     "sha256": "731954b256ed0492b3e7192e7a5eb02275d0045749feb2320f46a3ad9ee8be31",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/003PravniAktZneniFragment.json.gz"
     },
     {
-     "at": "2026-11-25T05:33:32Z",
-     "bytes": 532563543,
-     "last_modified": "Wed, 25 Nov 2026 02:06:10 GMT",
+     "at": "2026-11-26T05:33:11Z",
+     "bytes": 532651998,
+     "last_modified": "Thu, 26 Nov 2026 02:15:20 GMT",
      "method": "GET",
-     "sha256": "01c5d54b25e38bb031700ae4373c3d1465996f37d7fa4338832b2537194be26e",
+     "sha256": "651fc04261b3d874d099a59b72cc8d80c280f519504f224c4dffa3d7c48d33dc",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/004PravniAktFragment.json.gz"
     },
     {
-     "at": "2026-11-25T05:33:34Z",
-     "bytes": 6369391,
-     "last_modified": "Wed, 25 Nov 2026 03:52:55 GMT",
+     "at": "2026-11-26T05:33:13Z",
+     "bytes": 6362457,
+     "last_modified": "Thu, 26 Nov 2026 03:58:49 GMT",
      "method": "GET",
-     "sha256": "cb3812f124977a40a98e79c64d59ac4cd7430fdb46dc11d93b9a46d39207defc",
+     "sha256": "a253414a079d91bbe3b342370c66eb8e5e8ca5fd8738589092aaedd8a8f1ff5b",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/006PravniAktMetadata.json.gz"
     },
     {
-     "at": "2026-11-25T05:33:38Z",
-     "bytes": 20170706,
-     "last_modified": "Wed, 25 Nov 2026 02:25:16 GMT",
+     "at": "2026-11-26T05:33:16Z",
+     "bytes": 20177463,
+     "last_modified": "Thu, 26 Nov 2026 02:34:23 GMT",
      "method": "GET",
-     "sha256": "e0362e9e94ea53e0abcb96ef9c29065e18c89d00a1ece9bbc0fcadc0ac4eefd0",
+     "sha256": "2ce43d8df4ad75115a5556925905b934b6de4d18c8682acc548bd6a29ceb3b23",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/007PravniAktKonsolidacniVazba.json.gz"
     }
@@ -211,17 +211,16 @@
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "sb/2026/225",
-     "sb/2026/226"
+     "sb/2026/231"
     ],
     "changed": [
-     "sb/2003/253"
+     "sb/2012/503"
     ],
     "removed": []
    },
-   "snapshot": "2026-11-25",
+   "snapshot": "2026-11-26",
    "source": "e-sbirka",
-   "started": "2026-11-25T05:30:01Z",
+   "started": "2026-11-26T05:30:02Z",
    "titles": {
     "sb/2026/205": "Vyhláška o stanovení hodnot bodu, výše úhrad hrazených služeb, výše záloh na úhradu hrazených služeb a regulačních omezení pro rok 2027",
     "sb/2026/215": "Zákon, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů, a další související zákony",
@@ -233,8 +232,8 @@
     "sb/2026/221": "Zákon, kterým se mění zákon č. 13/1997 Sb., o pozemních komunikacích, ve znění pozdějších předpisů",
     "sb/2026/222": "Zákon, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších p",
     "sb/2026/223": "Zákon, kterým se mění některé zákony na úseku vnitřní správy",
-    "sb/2026/225": "Vyhláška, kterou se mění vyhláška č. 412/2021 Sb., o rozpočtové skladbě, ve znění pozdějších předpisů",
-    "sb/2026/226": "Vyhláška, kterou se mění vyhláška č. 130/2024 Sb., o stanovení obecních stavebních úřadů, ve znění pozdějších předpisů"
+    "sb/2026/226": "Vyhláška, kterou se mění vyhláška č. 130/2024 Sb., o stanovení obecních stavebních úřadů, ve znění pozdějších předpisů",
+    "sb/2026/231": "Nařízení vlády, kterým se vydává cenový výměr regulující ceny některých pohonných hmot pro období od 1. prosince 2026 do 31. prosince 2026"
    },
    "unexplained": 0,
    "verify": {
@@ -242,7 +241,7 @@
     "ends_wrong": 0,
     "fidelity_mismatch": 0,
     "ok": true,
-    "sha": "6bcf4277c22fa47b01789600c6b7207fb8e73f03",
+    "sha": "18b45a76748eabfe42f6324b26dc937e83644d1b",
     "versions_checked": 52532,
     "versions_differ": 0,
     "versions_without_file": 0
@@ -792,14 +791,14 @@
    }
   },
   "sppsu": {
-   "attempt": 9,
+   "attempt": 6,
    "audit": null,
    "census": {},
-   "check_id": "cz-sppsu-20261124T152007Z",
+   "check_id": "cz-sppsu-20261125T122002Z",
    "commits": null,
    "corpus": "czechia/local",
    "error": "RuntimeError: 2 new files would overwrite paths main already has, e.g. ['local/karlovarsky/mesto-sokolov/2026/4.md', 'local/kralovehradecky/obec-belec-nad-orlici/2026/1.md']",
-   "finished": "2026-11-24T17:04:47Z",
+   "finished": "2026-11-25T12:51:40Z",
    "flags": [],
    "gap": [],
    "outcome": "failed",
@@ -810,165 +809,158 @@
    },
    "requests": [
     {
-     "at": "2026-11-24T15:20:52Z",
-     "bytes": 130193,
+     "at": "2026-11-25T12:20:22Z",
+     "bytes": 130374,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&page=1"
     },
     {
-     "at": "2026-11-24T15:20:53Z",
-     "bytes": 130712,
+     "at": "2026-11-25T12:20:22Z",
+     "bytes": 130442,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&page=2"
     },
     {
-     "at": "2026-11-24T15:20:53Z",
+     "at": "2026-11-25T12:20:22Z",
      "bytes": 99147,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=oa&page=1"
     },
     {
-     "at": "2026-11-24T15:20:54Z",
+     "at": "2026-11-25T12:20:23Z",
      "bytes": 131564,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&zpusob_zverejneni=TRANSITIONAL&page=1"
     },
     {
-     "at": "2026-11-24T15:20:54Z",
+     "at": "2026-11-25T12:20:24Z",
      "bytes": 66876,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&zpusob_zverejneni=ALTERNATE&page=1"
     },
     {
-     "at": "2026-11-24T15:20:55Z",
+     "at": "2026-11-25T12:20:24Z",
      "bytes": 135981,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=19&page=1"
     },
     {
-     "at": "2026-11-24T15:20:55Z",
+     "at": "2026-11-25T12:20:25Z",
      "bytes": 131888,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=116&page=1"
     },
     {
-     "at": "2026-11-24T15:20:56Z",
-     "bytes": 131339,
-     "method": "GET",
-     "status": 200,
-     "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=116&page=2"
-    },
-    {
-     "at": "2026-11-24T15:20:57Z",
-     "bytes": 130503,
+     "at": "2026-11-25T12:20:25Z",
+     "bytes": 130511,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=35&page=1"
     },
     {
-     "at": "2026-11-24T15:20:57Z",
-     "bytes": 131190,
+     "at": "2026-11-25T12:20:26Z",
+     "bytes": 131120,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=51&page=1"
     },
     {
-     "at": "2026-11-24T15:20:58Z",
-     "bytes": 131045,
+     "at": "2026-11-25T12:20:27Z",
+     "bytes": 130981,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=108&page=1"
     },
     {
-     "at": "2026-11-24T15:20:59Z",
-     "bytes": 131202,
+     "at": "2026-11-25T12:20:27Z",
+     "bytes": 131207,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=86&page=1"
     },
     {
-     "at": "2026-11-24T15:20:59Z",
+     "at": "2026-11-25T12:20:28Z",
      "bytes": 131768,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=78&page=1"
     },
     {
-     "at": "2026-11-24T15:21:00Z",
+     "at": "2026-11-25T12:20:29Z",
      "bytes": 131260,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=132&page=1"
     },
     {
-     "at": "2026-11-24T15:21:01Z",
-     "bytes": 131257,
+     "at": "2026-11-25T12:20:29Z",
+     "bytes": 131182,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=124&page=1"
     },
     {
-     "at": "2026-11-24T15:21:01Z",
-     "bytes": 131098,
+     "at": "2026-11-25T12:20:30Z",
+     "bytes": 131144,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=94&page=1"
     },
     {
-     "at": "2026-11-24T15:21:02Z",
+     "at": "2026-11-25T12:20:30Z",
+     "bytes": 130666,
+     "method": "GET",
+     "status": 200,
+     "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=94&page=2"
+    },
+    {
+     "at": "2026-11-25T12:20:31Z",
      "bytes": 131219,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=43&page=1"
     },
     {
-     "at": "2026-11-24T15:21:02Z",
-     "bytes": 131951,
+     "at": "2026-11-25T12:20:32Z",
+     "bytes": 131953,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=27&page=1"
     },
     {
-     "at": "2026-11-24T15:21:03Z",
-     "bytes": 130376,
+     "at": "2026-11-25T12:20:33Z",
+     "bytes": 130493,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=141&page=1"
     },
     {
-     "at": "2026-11-24T15:21:04Z",
-     "bytes": 131042,
+     "at": "2026-11-25T12:20:34Z",
+     "bytes": 130818,
      "method": "GET",
      "status": 200,
      "url": "https://sbirkapp.gov.cz/vyhledavani/vysledek?hlavni_typ=pp&kod_vusc=60&page=1"
     },
     {
-     "at": "2026-11-24T15:21:07Z",
-     "bytes": 57951,
+     "at": "2026-11-25T12:20:35Z",
+     "bytes": 56294,
      "method": "GET",
      "status": 200,
-     "url": "https://sbirkapp.gov.cz/detail/SPPC2BX6VH362YBI"
+     "url": "https://sbirkapp.gov.cz/detail/SPP442KPLJ2UOMFO"
     },
     {
-     "at": "2026-11-24T15:21:07Z",
-     "bytes": 34211,
+     "at": "2026-11-25T12:20:35Z",
+     "bytes": 26625,
      "method": "GET",
      "status": 200,
-     "url": "https://sbirkapp.gov.cz/detail/SPPC2BX6VH362YBI/text"
-    },
-    {
-     "at": "2026-11-24T15:21:07Z",
-     "bytes": 60087,
-     "method": "GET",
-     "status": 200,
-     "url": "https://sbirkapp.gov.cz/detail/SPPYRF6KEXTHVPVO"
+     "url": "https://sbirkapp.gov.cz/detail/SPP442KPLJ2UOMFO/text"
     }
    ],
    "runner": "czechia-law watch/sppsu.py (c7aa74ba34)",
@@ -980,7 +972,7 @@
    },
    "snapshot": null,
    "source": "sppsu",
-   "started": "2026-11-24T15:20:07Z",
+   "started": "2026-11-25T12:20:02Z",
    "titles": {},
    "unexplained": 0,
    "verify": null
