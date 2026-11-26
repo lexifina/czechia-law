@@ -11,7 +11,7 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 | Zdroj | Složky | Jak často | Poslední úspěšná kontrola | Poslední výsledek | Stav |
 | --- | --- | --- | --- | --- | --- |
 | [e-Sbírka – otevřená data (Ministerstvo vnitra ČR)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | denně | 2026-11-26 05:47 UTC | změny zveřejněny | sledován |
-| [e-Sbírka – mezinárodní smlouvy a Úřední list](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | denně | 2026-11-25 06:57 UTC | změny zveřejněny | sledován |
+| [e-Sbírka – mezinárodní smlouvy a Úřední list](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | denně | 2026-11-26 06:59 UTC | změny zveřejněny | sledován |
 | [Sbírka právních předpisů územních samosprávných celků](https://sbirkapp.gov.cz) | `local/` | denně | 2026-11-22 20:04 UTC | kontrola selhala | sledován: sčítání jednou týdně; předpisy, jejichž detail se dosud nečetl, jsou vedeny bez důvodu |
 | [Úřad pro publikace EU (Cellar)](https://publications.europa.eu) | `eu/` | týdně | — | — | zatím nesledován |
 | [Poslanecká sněmovna (otevřená data a tisky) a e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | týdně | 2026-11-23 07:03 UTC | beze změny | sledován: materiály ODOK a usnesení vlády se nečtou: robots.txt odok.gov.cz zakazuje roboty; z e-Legislativy jen hlavičky datových sad |
@@ -23,6 +23,7 @@ Jak global-law sleduje všechny země: [global-law monitoring/](https://github.c
 
 | Začátek (UTC) | Zdroj | Přečteno | Nové | Změněné | Zrušené | Nezveřejněno (bez důvodu) | Výsledek | Commity |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 06:50](checks/2026-11.md#cz-e-sbirka-extra-20261126t065002z) | e-sbirka-extra | 6 | 4 | 0 | 0 | 1 (0) | změny zveřejněny | [4](https://github.com/lexifina/czechia-law/compare/86dcbde1bbcc...03f3437e6386) |
 | [2026-11-26 05:30](checks/2026-11.md#cz-e-sbirka-20261126t053002z) | e-sbirka | 12 | 1 | 1 | 0 | 11 (0) | změny zveřejněny | [13](https://github.com/lexifina/czechia-law/compare/874127703dc5...18b45a76748e) |
 | [2026-11-25 12:20](checks/2026-11.md#cz-sppsu-20261125t122002z) | sppsu | 22 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |
 | [2026-11-25 11:20](checks/2026-11.md#cz-sppsu-20261125t112002z) | sppsu | 23 | 0 | 0 | 0 | 0 (0) | kontrola selhala | — |

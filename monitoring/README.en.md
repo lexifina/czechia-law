@@ -11,7 +11,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
 | [e-Sbírka open data (Ministry of the Interior)](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sb/` | daily | 2026-11-26 05:47 UTC | changes published | watched |
-| [e-Sbírka: international treaties and the Official Journal](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | daily | 2026-11-25 06:57 UTC | changes published | watched |
+| [e-Sbírka: international treaties and the Official Journal](https://opendata.eselpoint.gov.cz/datove-sady-esbirka/) | `sbms/`, `ul/`, `sb/` | daily | 2026-11-26 06:59 UTC | changes published | watched |
 | [Collection of Legal Regulations of Local and Regional Authorities](https://sbirkapp.gov.cz) | `local/` | daily | 2026-11-22 20:04 UTC | the check failed | watched: census once a week; regulations whose detail page has not been read yet are listed with no reason |
 | [EU Publications Office (Cellar)](https://publications.europa.eu) | `eu/` | weekly | — | — | not watched yet |
 | [Chamber of Deputies (open data and prints) and e-Legislativa](https://www.psp.cz) | `navrhy/`, `usneseni-vlady/` | weekly | 2026-11-23 07:03 UTC | no change | watched: ODOK materials and government resolutions are not read: odok.gov.cz's robots.txt disallows bots; e-Legislativa: dataset headers only |
@@ -23,6 +23,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 06:50](checks/2026-11.md#cz-e-sbirka-extra-20261126t065002z) | e-sbirka-extra | 6 | 4 | 0 | 0 | 1 (0) | changes published | [4](https://github.com/lexifina/czechia-law/compare/86dcbde1bbcc...03f3437e6386) |
 | [2026-11-26 05:30](checks/2026-11.md#cz-e-sbirka-20261126t053002z) | e-sbirka | 12 | 1 | 1 | 0 | 11 (0) | changes published | [13](https://github.com/lexifina/czechia-law/compare/874127703dc5...18b45a76748e) |
 | [2026-11-25 12:20](checks/2026-11.md#cz-sppsu-20261125t122002z) | sppsu | 22 | 0 | 0 | 0 | 0 (0) | the check failed | — |
 | [2026-11-25 11:20](checks/2026-11.md#cz-sppsu-20261125t112002z) | sppsu | 23 | 0 | 0 | 0 | 0 (0) | the check failed | — |

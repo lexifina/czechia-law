@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-26T05:47:07Z",
+ "generated": "2026-11-26T06:59:11Z",
  "last_success": {
   "courts": null,
   "e-sbirka": "2026-11-26T05:47:06Z",
-  "e-sbirka-extra": "2026-11-25T06:57:40Z",
+  "e-sbirka-extra": "2026-11-26T06:59:11Z",
   "eu-cellar": null,
   "legislative-process": "2026-11-23T07:03:17Z",
   "ndk": null,
@@ -251,20 +251,20 @@
    "attempt": 1,
    "audit": null,
    "census": {
-    "newest_at_source": "sb/2026/213",
-    "newest_in_repo": "sb/2026/213",
-    "repo": 26815,
-    "source_in_scope": 26816
+    "newest_at_source": "sb/2026/230",
+    "newest_in_repo": "sb/2026/230",
+    "repo": 26819,
+    "source_in_scope": 26820
    },
-   "check_id": "cz-e-sbirka-extra-20261125T065001Z",
+   "check_id": "cz-e-sbirka-extra-20261126T065002Z",
    "commits": {
-    "count": 1,
-    "from": "3617e1d20de1a7295bac004a51409071933b23f3",
-    "to": "341655338e07669d268e70fefc979b2e0c55045d"
+    "count": 4,
+    "from": "86dcbde1bbcca1c1bc107740317ef2ffdf3fb607",
+    "to": "03f3437e6386a10f50d533c3bbfadb61eed81309"
    },
    "corpus": "czechia/national/treaties-and-journal",
    "error": null,
-   "finished": "2026-11-25T06:57:40Z",
+   "finished": "2026-11-26T06:59:11Z",
    "flags": [],
    "gap": [
     {
@@ -275,63 +275,66 @@
    ],
    "outcome": "changed",
    "published": {
-    "added": [],
-    "changed": [
-     "sb/2025/113"
+    "added": [
+     "sb/2026/227",
+     "sb/2026/228",
+     "sb/2026/229",
+     "sb/2026/230"
     ],
+    "changed": [],
     "removed": []
    },
    "requests": [
     {
-     "at": "2026-11-25T06:50:01Z",
-     "bytes": 179613846,
-     "etag": "ab4b096-6611105967a30",
-     "last_modified": "Wed, 25 Nov 2026 02:59:56 GMT",
+     "at": "2026-11-26T06:50:02Z",
+     "bytes": 179635884,
+     "etag": "ab506ac-6612538505d38",
+     "last_modified": "Thu, 26 Nov 2026 03:05:46 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/001PravniAktZneni.json.gz"
     },
     {
-     "at": "2026-11-25T06:50:03Z",
-     "bytes": 5493980,
-     "etag": "53d4dc-661107507b7b8",
-     "last_modified": "Wed, 25 Nov 2026 02:19:31 GMT",
+     "at": "2026-11-26T06:50:02Z",
+     "bytes": 5494563,
+     "etag": "53d723-66124b26c0708",
+     "last_modified": "Thu, 26 Nov 2026 02:28:20 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/002PravniAkt.json.gz"
     },
     {
-     "at": "2026-11-25T06:50:03Z",
-     "bytes": 1254987079,
-     "etag": "4acd9547-661125c51e728",
-     "last_modified": "Wed, 25 Nov 2026 04:35:46 GMT",
+     "at": "2026-11-26T06:50:02Z",
+     "bytes": 1240380533,
+     "etag": "49eeb475-6612697b205f0",
+     "last_modified": "Thu, 26 Nov 2026 04:44:01 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/003PravniAktZneniFragment.json.gz"
     },
     {
-     "at": "2026-11-25T06:50:03Z",
-     "bytes": 532563543,
-     "etag": "1fbe4657-661104552db88",
-     "last_modified": "Wed, 25 Nov 2026 02:06:10 GMT",
+     "at": "2026-11-26T06:50:03Z",
+     "bytes": 532651998,
+     "etag": "1fbf9fde-6612483ebaf50",
+     "last_modified": "Thu, 26 Nov 2026 02:15:20 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/004PravniAktFragment.json.gz"
     },
     {
-     "at": "2026-11-25T06:50:04Z",
-     "bytes": 6369391,
-     "etag": "61306f-66111c30cfad0",
-     "last_modified": "Wed, 25 Nov 2026 03:52:55 GMT",
+     "at": "2026-11-26T06:50:03Z",
+     "bytes": 6362457,
+     "etag": "611559-66125f606ec48",
+     "last_modified": "Thu, 26 Nov 2026 03:58:49 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/006PravniAktMetadata.json.gz"
     },
     {
-     "at": "2026-11-25T06:50:04Z",
-     "bytes": 20170706,
-     "etag": "133c7d2-66110899ee598",
-     "last_modified": "Wed, 25 Nov 2026 02:25:16 GMT",
+     "at": "2026-11-26T06:50:03Z",
+     "bytes": 20177463,
+     "etag": "133e237-66124c8091010",
+     "last_modified": "Thu, 26 Nov 2026 02:34:23 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/007PravniAktKonsolidacniVazba.json.gz"
@@ -340,24 +343,30 @@
    "runner": "czechia-law watch/e-sbirka-extra.py (7be88a2604)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "sb/2026/227",
+     "sb/2026/228",
+     "sb/2026/229",
+     "sb/2026/230"
+    ],
     "changed": [
-     "ul/1957/108",
-     "sb/1964/175",
-     "sb/2025/113"
+     "sb/2026/174"
     ],
     "removed": []
    },
-   "snapshot": "2026-11-25",
+   "snapshot": "2026-11-26",
    "source": "e-sbirka-extra",
-   "started": "2026-11-25T06:50:01Z",
+   "started": "2026-11-26T06:50:02Z",
    "titles": {
-    "sb/2025/113": "Sdělení Ministerstva práce a sociálních věcí o uložení kolektivní smlouvy vyššího stupně",
+    "sb/2026/227": "Sdělení Českého statistického úřadu o aktualizaci Mezinárodní statistické klasifikace nemocí a přidružených zdravotních problémů (MKN-10)",
+    "sb/2026/228": "Sdělení Českého statistického úřadu o aktualizaci Národní klasifikace postavení v zaměstnání (NKPZ)",
+    "sb/2026/229": "Sdělení Českého statistického úřadu o aktualizaci Klasifikace ekonomických činností (CZ-NACE)",
+    "sb/2026/230": "Sdělení Českého statistického úřadu o aktualizaci Klasifikace zaměstnání (CZ-ISCO)",
     "sbms/2007/19": "Sdělení Ministerstva zahraničních věcí, kterým se doplňují sdělení č. 61/1991 Sb., č. 251/1991 Sb., č. 29/1998 Sb., č. 60/1999 Sb., č. 9/2002 Sb. m. s., č. 46/2"
    },
    "unexplained": 0,
    "verify": {
-    "corrections": 1,
+    "corrections": 0,
     "differ_examples": [
      "sb/1997/n63",
      "sb/2003/n1",
@@ -372,8 +381,8 @@
     "prom_rendered_again": 14836,
     "published_checked": [
      {
-      "batch": "corr",
-      "commits": 1,
+      "batch": "sb-prom",
+      "commits": 4,
       "mismatches": 0
      }
     ],
