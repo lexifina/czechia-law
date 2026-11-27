@@ -4,9 +4,9 @@
  "note": "How current czechia-law is, from its check trail (data/checks/): the day e-Sbírka's open data was last read and every act checked against it. tools/checktrail.py reads the trail.",
  "checked_against_official_source": "2026-11-27",
  "totals": {
-  "acts": 18617,
+  "acts": 26820,
   "by_status": {
-   "current": 18617,
+   "current": 26820,
    "pending-change": 0,
    "stale": 0,
    "unverified": 0,
@@ -25,8 +25,8 @@
    "source": "e-sbirka-extra",
    "name": "e-Sbírka: international treaties and the Official Journal",
    "state": "available",
-   "last_successful_check": "2026-11-26",
-   "last_successful_contact": "2026-11-26"
+   "last_successful_check": "2026-11-27",
+   "last_successful_contact": "2026-11-27"
   },
   {
    "source": "sppsu",
