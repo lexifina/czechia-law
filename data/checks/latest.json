@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T06:59:11Z",
+ "generated": "2026-11-27T05:43:17Z",
  "last_success": {
   "courts": null,
-  "e-sbirka": "2026-11-26T05:47:06Z",
+  "e-sbirka": "2026-11-27T05:43:17Z",
   "e-sbirka-extra": "2026-11-26T06:59:11Z",
   "eu-cellar": null,
   "legislative-process": "2026-11-23T07:03:17Z",
@@ -15,21 +15,26 @@
    "attempt": 1,
    "audit": null,
    "census": {
-    "newest_at_source": "sb/2026/231",
-    "newest_in_repo": "sb/2026/231",
-    "repo": 18615,
-    "source_in_scope": 18626
+    "newest_at_source": "sb/2026/233",
+    "newest_in_repo": "sb/2026/233",
+    "repo": 18617,
+    "source_in_scope": 18628
    },
-   "check_id": "cz-e-sbirka-20261126T053002Z",
+   "check_id": "cz-e-sbirka-20261127T053002Z",
    "commits": {
-    "count": 13,
-    "from": "874127703dc5c475bf1f6b3d9d875f6f219d2eed",
-    "to": "18b45a76748eabfe42f6324b26dc937e83644d1b"
+    "count": 3,
+    "from": "75374e8b89b3acfffcb8da43e05264acc4265e1b",
+    "to": "87cf75b5f82958f81cc0e86cb228003d2c8bff7e"
    },
    "corpus": "czechia/national/acts",
    "error": null,
-   "finished": "2026-11-26T05:47:06Z",
-   "flags": [],
+   "finished": "2026-11-27T05:43:17Z",
+   "flags": [
+    {
+     "detail": "e-Sbírka's data alternates for: sb/2012/503",
+     "flag": "flip-flop"
+    }
+   ],
    "gap": [
     {
      "detail": "vyhlášeno / promulgated 2026-10-30, účinnost / in force 2027-01-01",
@@ -90,7 +95,8 @@
    "outcome": "changed",
    "published": {
     "added": [
-     "sb/2026/231"
+     "sb/2026/232",
+     "sb/2026/233"
     ],
     "changed": [
      "sb/2012/503"
@@ -99,110 +105,110 @@
    },
    "requests": [
     {
-     "at": "2026-11-26T05:30:02Z",
-     "bytes": 179635884,
-     "etag": "ab506ac-6612538505d38",
-     "last_modified": "Thu, 26 Nov 2026 03:05:46 GMT",
+     "at": "2026-11-27T05:30:02Z",
+     "bytes": 179617202,
+     "etag": "ab4bdb2-6613920eec508",
+     "last_modified": "Fri, 27 Nov 2026 02:50:53 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/001PravniAktZneni.json.gz"
     },
     {
-     "at": "2026-11-26T05:30:02Z",
-     "bytes": 5494563,
-     "etag": "53d723-66124b26c0708",
-     "last_modified": "Thu, 26 Nov 2026 02:28:20 GMT",
+     "at": "2026-11-27T05:30:02Z",
+     "bytes": 5495081,
+     "etag": "53d929-66138a3f1da18",
+     "last_modified": "Fri, 27 Nov 2026 02:15:56 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/002PravniAkt.json.gz"
     },
     {
-     "at": "2026-11-26T05:30:03Z",
-     "bytes": 1240380533,
-     "etag": "49eeb475-6612697b205f0",
-     "last_modified": "Thu, 26 Nov 2026 04:44:01 GMT",
+     "at": "2026-11-27T05:30:02Z",
+     "bytes": 1242329412,
+     "etag": "4a0c7144-6613a7b3b3860",
+     "last_modified": "Fri, 27 Nov 2026 04:27:43 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/003PravniAktZneniFragment.json.gz"
     },
     {
-     "at": "2026-11-26T05:30:03Z",
-     "bytes": 532651998,
-     "etag": "1fbf9fde-6612483ebaf50",
-     "last_modified": "Thu, 26 Nov 2026 02:15:20 GMT",
+     "at": "2026-11-27T05:30:02Z",
+     "bytes": 532668766,
+     "etag": "1fbfe15e-661387523c020",
+     "last_modified": "Fri, 27 Nov 2026 02:02:51 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/004PravniAktFragment.json.gz"
     },
     {
-     "at": "2026-11-26T05:30:04Z",
-     "bytes": 6362457,
-     "etag": "611559-66125f606ec48",
-     "last_modified": "Thu, 26 Nov 2026 03:58:49 GMT",
+     "at": "2026-11-27T05:30:03Z",
+     "bytes": 6260032,
+     "etag": "5f8540-66139dde8ce60",
+     "last_modified": "Fri, 27 Nov 2026 03:43:44 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/006PravniAktMetadata.json.gz"
     },
     {
-     "at": "2026-11-26T05:30:04Z",
-     "bytes": 20177463,
-     "etag": "133e237-66124c8091010",
-     "last_modified": "Thu, 26 Nov 2026 02:34:23 GMT",
+     "at": "2026-11-27T05:30:03Z",
+     "bytes": 20177972,
+     "etag": "133e434-66138b97aa388",
+     "last_modified": "Fri, 27 Nov 2026 02:21:58 GMT",
      "method": "HEAD",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/007PravniAktKonsolidacniVazba.json.gz"
     },
     {
-     "at": "2026-11-26T05:30:21Z",
-     "bytes": 179635884,
-     "last_modified": "Thu, 26 Nov 2026 03:05:46 GMT",
+     "at": "2026-11-27T05:30:29Z",
+     "bytes": 179617202,
+     "last_modified": "Fri, 27 Nov 2026 02:50:53 GMT",
      "method": "GET",
-     "sha256": "863a28bd0ccc8c245a6de73a24a4040e31e4d085b7931a7a0ba788bee98671e8",
+     "sha256": "205297ad52b1f55f684417729a4a49a48dfe85388508244db4314a51aaa77d19",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/001PravniAktZneni.json.gz"
     },
     {
-     "at": "2026-11-26T05:30:23Z",
-     "bytes": 5494563,
-     "last_modified": "Thu, 26 Nov 2026 02:28:20 GMT",
+     "at": "2026-11-27T05:30:31Z",
+     "bytes": 5495081,
+     "last_modified": "Fri, 27 Nov 2026 02:15:56 GMT",
      "method": "GET",
-     "sha256": "2c489b0f92abab2aee79c2543da2feb0dda0aaf193374c71bcd2537ed582a8e6",
+     "sha256": "80ef5b5f74eca5a070548c58c478c3f4edc146e74ce0274c7d956735a7167b42",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/002PravniAkt.json.gz"
     },
     {
-     "at": "2026-11-26T05:32:21Z",
-     "bytes": 1240380533,
-     "last_modified": "Thu, 26 Nov 2026 04:44:01 GMT",
+     "at": "2026-11-27T05:33:25Z",
+     "bytes": 1242329412,
+     "last_modified": "Fri, 27 Nov 2026 04:27:43 GMT",
      "method": "GET",
-     "sha256": "731954b256ed0492b3e7192e7a5eb02275d0045749feb2320f46a3ad9ee8be31",
+     "sha256": "ea6344aff5bd4fca8c6fd7aaecc93cda277ef12dc0be3ce55705ac47cd883624",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/003PravniAktZneniFragment.json.gz"
     },
     {
-     "at": "2026-11-26T05:33:11Z",
-     "bytes": 532651998,
-     "last_modified": "Thu, 26 Nov 2026 02:15:20 GMT",
+     "at": "2026-11-27T05:34:34Z",
+     "bytes": 532668766,
+     "last_modified": "Fri, 27 Nov 2026 02:02:51 GMT",
      "method": "GET",
-     "sha256": "651fc04261b3d874d099a59b72cc8d80c280f519504f224c4dffa3d7c48d33dc",
+     "sha256": "9f8f494ee044891a284f33db8752dd40db2d97b957d7bcfc73a7044935d8a08d",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/004PravniAktFragment.json.gz"
     },
     {
-     "at": "2026-11-26T05:33:13Z",
-     "bytes": 6362457,
-     "last_modified": "Thu, 26 Nov 2026 03:58:49 GMT",
+     "at": "2026-11-27T05:34:36Z",
+     "bytes": 6260032,
+     "last_modified": "Fri, 27 Nov 2026 03:43:44 GMT",
      "method": "GET",
-     "sha256": "a253414a079d91bbe3b342370c66eb8e5e8ca5fd8738589092aaedd8a8f1ff5b",
+     "sha256": "f533d0c058e62a64dac2f741a11967de49e31f1a9c1a54b9a733479ffd619a92",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/006PravniAktMetadata.json.gz"
     },
     {
-     "at": "2026-11-26T05:33:16Z",
-     "bytes": 20177463,
-     "last_modified": "Thu, 26 Nov 2026 02:34:23 GMT",
+     "at": "2026-11-27T05:34:40Z",
+     "bytes": 20177972,
+     "last_modified": "Fri, 27 Nov 2026 02:21:58 GMT",
      "method": "GET",
-     "sha256": "2ce43d8df4ad75115a5556925905b934b6de4d18c8682acc548bd6a29ceb3b23",
+     "sha256": "073f3614eebb143bb1743a9eebc1d7ab53fad83d461b9b992a219308c691994f",
      "status": 200,
      "url": "https://opendata.eselpoint.gov.cz/datove-sady-esbirka/007PravniAktKonsolidacniVazba.json.gz"
     }
@@ -211,16 +217,17 @@
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "sb/2026/231"
+     "sb/2026/232",
+     "sb/2026/233"
     ],
     "changed": [
      "sb/2012/503"
     ],
     "removed": []
    },
-   "snapshot": "2026-11-26",
+   "snapshot": "2026-11-27",
    "source": "e-sbirka",
-   "started": "2026-11-26T05:30:02Z",
+   "started": "2026-11-27T05:30:02Z",
    "titles": {
     "sb/2026/205": "Vyhláška o stanovení hodnot bodu, výše úhrad hrazených služeb, výše záloh na úhradu hrazených služeb a regulačních omezení pro rok 2027",
     "sb/2026/215": "Zákon, kterým se mění zákon č. 283/2021 Sb., stavební zákon, ve znění pozdějších předpisů, a další související zákony",
@@ -233,7 +240,8 @@
     "sb/2026/222": "Zákon, kterým se mění zákon č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších p",
     "sb/2026/223": "Zákon, kterým se mění některé zákony na úseku vnitřní správy",
     "sb/2026/226": "Vyhláška, kterou se mění vyhláška č. 130/2024 Sb., o stanovení obecních stavebních úřadů, ve znění pozdějších předpisů",
-    "sb/2026/231": "Nařízení vlády, kterým se vydává cenový výměr regulující ceny některých pohonných hmot pro období od 1. prosince 2026 do 31. prosince 2026"
+    "sb/2026/232": "Vyhláška, kterou se mění vyhláška č. 254/2015 Sb., o stanovení výše paušální náhrady pro účely rozhodování o náhradě nákladů řízení v případech podle § 151 odst",
+    "sb/2026/233": "Vyhláška o provedení některých ustanovení zákona o správě informací o stavbě a vystavěném prostředí týkajících se správy informací o stavbě"
    },
    "unexplained": 0,
    "verify": {
@@ -241,8 +249,8 @@
     "ends_wrong": 0,
     "fidelity_mismatch": 0,
     "ok": true,
-    "sha": "18b45a76748eabfe42f6324b26dc937e83644d1b",
-    "versions_checked": 52532,
+    "sha": "87cf75b5f82958f81cc0e86cb228003d2c8bff7e",
+    "versions_checked": 52534,
     "versions_differ": 0,
     "versions_without_file": 0
    }
